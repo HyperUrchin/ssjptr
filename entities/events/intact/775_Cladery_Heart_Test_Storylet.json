@@ -1,0 +1,9 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "Branch wot I wrote",
+                                     "Name": "Caligo-class Merchant Cruiser", "Id": 244234},
+                    "Name": "Change to Calligo-class Merchant Cruiser",
+                    "Description": "", "ButtonText": "", "Id": 186471},
+                   {"DefaultEvent": {"Id": 244235},
+                    "Name": "Unequip the Cladery Heart", "Description": "",
+                    "ButtonText": "", "Id": 186472}],
+ "Description": "Testy testy",
+ "Name": "Cladery Heart Test Storylet", "Id": 244233}

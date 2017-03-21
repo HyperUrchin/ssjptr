@@ -1,0 +1,9 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "空の容器を返せば、彼らが補充してくれるだろう。@{M}Return the empty container and they will refill it.",
+                                     "Name": "笑う悪魔が船倉に金属球を転がし入れる@{M}Smiling devils roll a metal sphere into your hold",
+                                     "Id": 176519},
+                    "Name": "荷物を集める@{M}Collect a shipment",
+                    "Description": "保証金は必要無い。猿どもが共和国とどのような取引をしようとも、それは共和国にとって良い事なのだから。@{M}No deposit is required. Whatever deal the monkeys have with the Republic, the Republic considers them good for it.",
+                    "ButtonText": "", "Id": 143969}],
+ "Description": "'悪魔の息吹'と呼ばれる一般的な物資は、手掌の帝国にある'ツェッペリン'に向けて輸送準備が整っている。@{M}A generous supply of 'devil's breath' is ready for transport to the Empire of Hands' Zeppelin.",
+ "Name": "手掌の帝国の為の水素@{M}Hydrogen for the Empire of Hands",
+ "Id": 176518}

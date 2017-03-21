@@ -1,0 +1,8 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "「ターマスよ、ミヒルの光に従い進みなさい -」門に詰めている衛兵が少し貴方を見上げ、貴方を街の外に送り出す。眩しい狼煙が貴方の背後で燃え盛っていた。\u000d\u000a\u000d\u000a貴方は暗くガタガタな道を歩きながら桟橋に向かい、この地下の、暗く寒々しく、荒涼とした、何時もの雰囲気が、貴方の肌を冷ますのを感じた。貴方の船が、そこで待っている。\u000d\u000a@{M}\"Walk in the light of Mihir, Taamas.\" The Guard at the gate barely even looks up as she lets you out of the city; it burns beacon-bright behind you. \u000d\u000a\u000d\u000aYou walk down the dark, pebbled path that leads to the docks, feeling the familiar shadowy bleakness of the Neath cool your skin. Your ship awaits.",
+                                     "Name": "", "Id": 152416},
+                    "Name": "貴方は頷く@{M}You nod",
+                    "Description": "賢明な提案だった。アグニホトリが巡礼の旅から戻る前に街を離れるのが一番だろう。それに、貴方はここで大いに学ぶ所があった。ヴァルカスの情勢は、大陸の謎に迫る物だった。@{M}It's good advice; best to leave before the Agnihotri returns from the Pilgrimage. You have learnt a great deal here. The affairs of Varchas touch on the mysteries of the Continent.",
+                    "ButtonText": "", "Id": 129877}],
+ "Description": "太陽の司祭が、衛兵を従えて貴方の元へやってくる。「思うに...」最も老齢な司祭が思慮深そうに言う。「今が街を出る時ではござらぬかな、ターマス。お主はこの栄光溢れる街に十分な分裂と混乱をもたらした。」@{M}The Sun-Priests come to you, flanked by guards. \"I think,\" the oldest one says thoughtfully, \"that it is time for you to go, Taamas. You have caused enough disruption in our glorious city.\"",
+ "Name": "ミヒルの光はかく輝けり@{M}The Light of Mihir Shines Bright",
+ "Id": 152415}

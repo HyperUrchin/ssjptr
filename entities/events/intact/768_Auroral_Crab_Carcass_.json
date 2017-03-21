@@ -1,0 +1,9 @@
+{"ChildBranches": [{"SuccessEvent": {"Description": "You don a diving suit and approach the shining shell. Gold light washes over you like the tide on a sunlit beach. Your hands are illuminated in pale fire. ",
+                                     "Name": "Radiance ", "Id": 243633},
+                    "DefaultEvent": {"Description": "You don a diving suit and approach the shining shell. Gold light pours into your eyes. You see turning wheels of fire; you hear the endless tick of grinding gears. When the light fades, the darkness is deep as mourning velvet. ",
+                                     "Name": "Terrible luminescence ", "Id": 243632},
+                    "Name": "Investigate the corpse ",
+                    "Description": "The crab is both like and unlike others of its species. ",
+                    "ButtonText": "", "Id": 186101}],
+ "Description": "The corpse of a vast crab is sunken into the zee-floor. Its shell is a vivid saffron. The water around it is luminescent. ",
+ "Name": "Auroral Crab Carcass ", "Id": 243631}

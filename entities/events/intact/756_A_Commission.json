@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "He smiles in the manner of a corpse whose skin has just dried out. \"Excellent. You'll find it in Wrack, City of Pleasures. I'll be waiting for you on the Uttershroom, where my studies continue.\"",
+                                     "LinkToEvent": {"Id": 239946}, "Name": "", "Id": 243339},
+                    "Name": "Accept the task",
+                    "Description": "You'll get him a jarful of tether, no trouble.",
+                    "ButtonText": "", "Id": 185909},
+                   {"DefaultEvent": {"Description": "You decline and go about your business. \"If not this time, then another,\" he says behind your back. What an odd man.",
+                                     "LinkToEvent": {"Id": 239946}, "Name": "", "Id": 244658},
+                    "Name": "Walk away",
+                    "Description": "Go into a city of murderers on account of a weed? Doesn't he know people don't come back from deaths at Zee?",
+                    "ButtonText": "", "Id": 186778}],
+ "Description": "The Severe Chemist glares at you over his glasses. \"Beneath the zee, captain, there is a city of murderers. Within it, a plant known as tether. Bring me a jarful and I will pay you handsomely.\"",
+ "Name": "A Commission", "Id": 243338}

@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "炎が切妻壁を舐め上げる。屋根が落ち、大黒柱が雄叫びを上げながら崩れて行く。火の粉が遥か上空にある偽りの星々まで届かんとする勢いで跳ね上がった。屋敷の'死'は数時間続いたが、もう後には何も残らなかった。燃えカスの塊が、ただそこにあるだけだ。@{M}Flames lick about the gables. The spine of the house breaks with a roar as the roof falls in. Sparks fly up towards the false-stars so far above. The death of the house takes hours, but it is total. Only a cindered shell remains.",
+                                     "Name": "狩人の楼閣の死@{M}The death of Hunter's Keep", "Id": 149707},
+                    "Name": "ただ見守る...@{M}Watch...",
+                    "Description": "貴方に出来るのはそれが全てだ。@{M}It's all you can do.",
+                    "ButtonText": "", "Id": 128177}],
+ "Description": "後になって判明した事だが、火の出元は屋敷の後ろにある小塔だった。しかし、火の回りは明らかに早かった。煙が立ち込めるに従って、船乗り達は窒息しかけながら扉から転がり出てきた。硫黄色の目をしたメイドが窓から飛び出し、四つん這いになって芝生の向こうへと走り去る。@{M}Later, you are certain that the fire began in the turret behind the house. But it spreads quickly. Zailors tumble choking from the door as the smoke billows out. The yellow-eyed maid leaps from a window, and streaks across the lawn on all fours.",
+ "Name": "燃える狩人の楼閣@{M}Hunter's Keep alight", "Id": 149706}

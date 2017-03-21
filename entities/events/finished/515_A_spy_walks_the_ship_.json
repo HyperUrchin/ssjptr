@@ -1,0 +1,10 @@
+{"ChildBranches": [{"SuccessEvent": {"Description": "思慮深い医者は嘆願も謝罪も、弁解もしなかった。彼は自ら手錠をはめられ、頭を垂れる事なく営倉へと付き添われて行った。@{M}The Determined Doctor makes no plea, no apology, no excuse. He holds his hands out for the irons, and is escorted to the brig with his head held high.",
+                                     "LinkToEvent": {"Id": 180536}, "Name": "裏切り者だ!@{M}Traitor!",
+                                     "Id": 180541},
+                    "DefaultEvent": {"Description": "船員は捜査の詳しい理由を知らされていない。彼らは疑い深く互いを見合っている。良い事だ。次は彼らももっと用心し、身動きが取りづらくなるだろう。@{M}The crew is not informed of the precise reason for the search. They stare at each other suspiciously. Good. Next time, perhaps they will be more alert.",
+                                     "Name": "網から零れ落ちる@{M}Slipped through the net", "Id": 180540},
+                    "Name": "密偵を追跡する@{M}Track down the spy",
+                    "Description": "船室をくまなく探し、ロック箱を全て開ける。@{M}Search every cabin. Open every lockbox.",
+                    "ButtonText": "", "Id": 146373}],
+ "Description": "彼らは腕が立つ。非常に良い腕だ。もし貴方の机の上に、下向きではなく上向きに置かれた一通の封筒が無かったら、貴方は決して気づかなかったかもしれない。@{M}They're good. Very good. Were it not for a single envelope sitting face-up instead of down on your desk, you might never have noticed.",
+ "Name": "船に密偵が乗り込んでいる!@{M}A spy walks the ship!", "Id": 180539}

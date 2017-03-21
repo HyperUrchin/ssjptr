@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "The Gnomic Gallivant embraces you like a comrade. \"Absolutely delightful. You have helped my master pen a happier history for us all. I'll be sure to tell him of your assistance when we reach the Castle.\"",
+                                     "Name": "", "Id": 255578},
+                    "Name": "Agree to deliver him to Kingeater's Castle",
+                    "Description": "You have already come this far together. See it through to the end.",
+                    "ButtonText": "", "Id": 191504},
+                   {"DefaultEvent": {"Description": "The Gnomic Gallivant frowns. \"How disappointing. And here I took you for a great soul. Well, well. We all make mistakes. As you were then, [q:Addressed As]. I'll chart another course for Kingeater's.\" ",
+                                     "Name": "", "Id": 259087},
+                    "Name": "Refuse",
+                    "Description": "You won't suffer his presence a moment longer.",
+                    "ButtonText": "", "Id": 193226}],
+ "Description": "The Gnomic Gallivant dusts off his suit. \"So ends a thousand years. I've one last appointment, [q:Addressed As], in Kingeater's Castle. Time is a cage, and I'm anxious to get there as swiftly as you'll allow.\"",
+ "Name": "The Gnomic Gallivant's Request", "Id": 255577}

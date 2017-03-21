@@ -1,0 +1,13 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "Here's something at the back of the hold...",
+                                     "LinkToEvent": {"Id": 140906}, "Name": "What's this?",
+                                     "Id": 171421},
+                    "Name": "Loot and scuttle her",
+                    "Description": "She's a vile old vessel, and these zees aren't safe. Take what you can and move on.",
+                    "ButtonText": "", "Id": 140762},
+                   {"DefaultEvent": {"Description": "Corsairs! Inventive and disgusting as a sewerful of clockwork apes. You've gleaned enough details to write a treatise, a strategy manual or a titillating penny-dreadful.",
+                                     "Name": "The study of squalor", "Id": 171422},
+                    "Name": "Record any Observations",
+                    "Description": "If you've gathered enough, you may learn something...",
+                    "ButtonText": "", "Id": 140763}],
+ "Description": "The ship is yours! What will you do with her?",
+ "Name": "You've destroyed a Crack Pirate Frigate", "Id": 171418}

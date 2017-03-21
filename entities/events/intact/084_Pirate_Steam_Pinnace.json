@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "Their guns roar, and the battle begins!",
+                                     "Name": "", "Id": 144207},
+                    "Name": "Fight!", "Description": "", "ButtonText": "",
+                    "Id": 124633},
+                   {"SuccessEvent": {"Description": "You bewilder them in a drift of fog, and you're off into the zee...",
+                                     "Name": "Not that fast, apparently", "Id": 147901},
+                    "DefaultEvent": {"Description": "Their captain's as wily as you. Too close, too late. Begin.",
+                                     "Name": "Fast enough...", "Id": 144208},
+                    "Name": "Flee!", "Description": "It's fast. How fast are you?",
+                    "ButtonText": "", "Id": 124634}],
+ "Description": "A nimble, savage little wolf of a vessel!",
+ "Name": "Pirate Steam-Pinnace", "Id": 144206}

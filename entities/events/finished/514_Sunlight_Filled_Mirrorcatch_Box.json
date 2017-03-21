@@ -1,0 +1,8 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "　一瞬、あなたは頭上の輝く海を遊航していた。そして痛みが訪れた。@{I}For a moment, you could be a-sail on the bright oceans above: then the pain comes.",
+                                     "Name": "一瞬@{I}A moment", "Id": 181077},
+                    "Name": "箱を開ける@{I}Open the Box",
+                    "Description": "　太陽光を消費する。[これは箱を空にし、あなたに1つの傷を与え(3つの傷はあなたを死に至らしめます)、恐怖をわずかに減少させます。]@{I}Consume sunlight. [This will empty your Box, give you a Wound (three Wounds will kill you), and slightly reduce terror.]",
+                    "ButtonText": "", "Id": 146678}],
+ "Description": "　中には美が詰まっている。@{I}There is glory within.",
+ "Name": "太陽光で満たされた鏡封じの箱@{I}$Mirrorcatch Box -> 鏡封じの箱$Sunlight-Filled Mirrorcatch Box",
+ "Id": 180538}

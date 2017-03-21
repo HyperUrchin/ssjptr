@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "\"Splendid!\" The Travel-Writer snaps his journal shut like a trap. \"The Cumaean Canal next, I think.\"",
+                                     "Name": "A next chapter", "Id": 255576},
+                    "Name": "Give the Travel-Writer passage",
+                    "Description": "A hundred and fifty echoes, you say? Why not?",
+                    "ButtonText": "", "Id": 191503},
+                   {"DefaultEvent": {"Description": "The August Travel-Writer frowns sharply at you. \"What a pity,\" he says. \"I shan't hold a grudge, captain. My work will do you justice.\" He gathers his trunk from below deck and departs.",
+                                     "Name": "Taken in good grace", "Id": 259075},
+                    "Name": "Refuse to aid the Travel-Writer",
+                    "Description": "He can find someone else to ferry him about.",
+                    "ButtonText": "", "Id": 193218}],
+ "Description": "The August Travel-Writer flips through his notebook while on your deck. \"Awful thing, that murder. Commonplace here, I suppose. Fortunately, my interview was illuminating and my business on the Mourn is complete. We can depart. I've another port to visit, if you'd care for another hundred and fifty echoes.\"",
+ "Name": "The August Travel-Writer's Request", "Id": 255575}

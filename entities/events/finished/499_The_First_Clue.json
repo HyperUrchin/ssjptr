@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "",
+                                     "LinkToEvent": {"Id": 143397}, "Name": "", "Id": 178704},
+                    "Name": "面会の手配をする@{I}面会の準備をする@{M}Arrange a meeting",
+                    "Description": "　時は来た。@{I}時は来た。@{M}The time has come.",
+                    "ButtonText": "", "Id": 145307}],
+ "Description": "　ロンドンにいる誰かが、どこから探せば良いか教えてくれるだろう。@{I}ロンドンに居る誰かが、何から手を付けたら良いのかを教えてくれるだろう。@{M}Someone in London can tell you where to begin.",
+ "Name": "最初の手掛かり@{I}最初の手がかり@{M}The First Clue", "Id": 178703}

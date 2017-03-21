@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "...だろう?@{M}...isn't it?",
+                                     "Name": "良かった@{M}That's good", "Id": 155246},
+                    "Name": "夢は過ぎ去った@{M}Your dreams have passed",
+                    "Description": "良かった。@{M}That's good", "ButtonText": "",
+                    "Id": 131692}],
+ "Description": "重荷は軽くなった。@{M}A weight has lifted.",
+ "Name": "悪夢の終わり@{M}Nightmare's End", "Id": 155245}

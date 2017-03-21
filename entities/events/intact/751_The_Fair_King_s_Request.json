@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "Here: where the colourful petals are scattered so nicely over the green grass. You dig a small hole and plant the scintillack. Who knows what it could grow into - a gemmed flower? A tree with coral branches? A bird might hatch, and sing a crystal-crisp song. Time will tell.",
+                                     "Name": "", "Id": 243319},
+                    "Name": "Bury the scintillack",
+                    "Description": "The Fair King has made a request of you, and you will honour it.",
+                    "ButtonText": "", "Id": 185895},
+                   {"DefaultEvent": {"Description": "Maybe it'll make a nice cup of tea. If not, it'll certainly make you a few Echoes. ",
+                                     "Name": "", "Id": 245665},
+                    "Name": "Keep the scintillack",
+                    "Description": "It'll do more good in your pocket than it would buried here, or locked away in Wrack.",
+                    "ButtonText": "", "Id": 187422}],
+ "Description": "Find a patch in which to bury it. Who knows what it could grow into?",
+ "Name": "The Fair King's Request", "Id": 243318}

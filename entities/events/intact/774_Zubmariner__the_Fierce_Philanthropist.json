@@ -1,0 +1,11 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "You expected a sizeable gathering, but it's just you, her, and a decanter of admirable sherry. She is not a small woman, and comprehensively occupies her armchair. She wears sensible satins and sensible shoes. Her hair is impeccably curled.\u000d\u000a\u000d\u000a\"I've heard a number of shocking things about you, [q:Addressed As], all of which I consider thoroughly promising.\" Her accent has a hint of Midlands melancholy to it. She must have spent much of her life on the Surface.\u000d\u000a\u000d\u000aFor a time, she asks questions about your travels and listens avidly to your answers. Then she gets down to business.",
+                                     "LinkToEvent": {"Id": 244535}, "Name": "", "Id": 244075},
+                    "Name": "Accept her invitation",
+                    "Description": "It wouldn't hurt to have the backing of a wealthy benefactor. [This will begin the quest which allows you to obtain a zubmarine.]",
+                    "ButtonText": "", "Id": 186369},
+                   {"DefaultEvent": {"Description": "A letter arrives by return post within the day. '...I quite understand that you are busy, and hope your affairs are well. Please consider the invitation to stand... delighted to rearrange for a more convenient time... really very good sherry indeed...\" She seems keen.",
+                                     "LinkToEvent": {"Id": 175505}, "Name": "", "Id": 244527},
+                    "Name": "Decline", "Description": "You have other business.",
+                    "ButtonText": "", "Id": 186685}],
+ "Description": "Her house is built in the tall, porticoed London style. Red brick and white plaster. Decorative iron railings, painted black.\u000d\u000a\u000d\u000aIts mistress is the subject of intense colonial gossip: independently wealthy, an industrialist's daughter, a widow, unwelcome in London... What, then, does she want with you? An invitation arrived as soon as you docked.",
+ "Name": "Zubmariner: the Fierce Philanthropist", "Id": 244074}

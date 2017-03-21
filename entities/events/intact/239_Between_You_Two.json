@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "The bow of refusal: the right hand is placed over the heart, the fingers of the left hide the bottom lip; the head is tilted forwards. You perform this impeccably. \u000d\u000a\u000d\u000aArik's smile is entrenched. He takes your hands and kisses both: the only acceptable response to a refusal. It indicates that it is happily accepted, that the receiver completely understands. He nearly crushes your fingers - but this does not change the meaning of his gesture.",
+                                     "LinkToEvent": {"Id": 152190}, "Name": "", "Id": 237626},
+                    "Name": "Politely decline",
+                    "Description": "The ancient man can't kill the Investigator, and he can't trust anyone else in Hideaway to aid him. If you refuse to commit this murder, the Investigator will be safe.",
+                    "ButtonText": "", "Id": 182263},
+                   {"DefaultEvent": {"Description": "Arik tuts and stops you mid-acceptance. He scribbles you a note: '<i>No time. You know where he sleeps. Suggestion: smothering. Less obvious.</i>' Once you've read it, he tears the sheet from the pad and eats it. \u000d\u000a\u000d\u000aIt is two days before the Investigator is discovered. He died in his sleep - a peaceful end. If anyone wonders why his skin has a blue tone, they're too polite to ask.",
+                                     "LinkToEvent": {"Id": 152190}, "Name": "", "Id": 237627},
+                    "Name": "Accept. Murder the Investigator",
+                    "Description": "The sign showing you accept responsibility for a task - you must cross your arms to grab your own shoulders, then...",
+                    "ButtonText": "", "Id": 182264}],
+ "Description": "'<i>The Investigator threatens to destroy Hideaway and everything you and I have worked towards. He must be killed.</i>'",
+ "Name": "Between You Two", "Id": 152274}

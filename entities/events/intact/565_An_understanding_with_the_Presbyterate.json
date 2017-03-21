@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "This is your kingdom. London is where you began - but now, this is your home. From a ship's captain to a nation's founder is a long journey indeed. Who knows where the journey will take you? [Congratulations! You have completed a hidden Ambition. We do apologise. We meant to say: you have completed a hidden Ambition... your Majesty.]",
+                                     "Name": "Founder of a nation", "Id": 189568},
+                    "Name": "An ancient treaty",
+                    "Description": "You speak the words you've learnt - the opening lines of a treaty made between the Presbyterate and a certain other power, long before London fell, long before the Bazaar ever came to the Neath -\u000d\u000a\u000d\u000aImmediately, his demeanour changes. He smiles with real warmth. \"Well done,\" he says. \"We recognise your claim.\" He bows.",
+                    "ButtonText": "", "Id": 151971}],
+ "Description": "A representative of the College of Mortality arrives a week later, in one of the Presbyterate's notorious living ships. It stains the waters around it red with blood. He is dressed in the best formal Imperial style - shirt and tailcoat unmistakably tailored in London. He is courteous and pleasant and very, very vague. He does condescend to lower his ear to your mouth to listen to what you have to say.",
+ "Name": "An understanding with the Presbyterate", "Id": 189567}

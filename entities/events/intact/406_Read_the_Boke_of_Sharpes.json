@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "The moves; the consequences; the risks; the relics. Death is difficult on the Unterzee, but now you know more of it than you ever expected.",
+                                     "Name": "", "Id": 169763},
+                    "Name": "Read the Boke",
+                    "Description": "Some of the stains are so old that they no longer smell. Some of the writing is still legible. [This will increase your Iron to 60.]",
+                    "ButtonText": "", "Id": 139808},
+                   {"DefaultEvent": {"Description": "Mm. Yes. Ouch. Mm. My. Well, he deserved it. Good Lord. Good Lord. Hmm. Really? <i>Well</i>.",
+                                     "Name": "", "Id": 169764},
+                    "Name": "Read the Boke",
+                    "Description": "You're a soldier. This is your business. [This will increase your Iron to 85.]",
+                    "ButtonText": "", "Id": 139809}],
+ "Description": "Some previous zee-captain acquired this horrendous compendium. Where, you'll never know. That's for the best.",
+ "Name": "Read the Boke of Sharpes", "Id": 169762}

@@ -1,0 +1,13 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "小娘は貴方を強く抱きしめて来た。そして目をキラキラと輝かせながら聞く。<i>武器は</i>何処にしまってあるの...と。@{M}The Monkey Foundling hugs you tight. And asks, eyes sparkling, where you keep the <i>weapons...</i>",
+                                     "Name": "\"やった!\"@{M}\"Yay!\"", "Id": 176474},
+                    "Name": "彼女を此処に居させる@{M}Let her stay",
+                    "Description": "彼女は今は取るに足らない雑用ぐらいは出来るだろう。財宝を磨く必要もある。マグカップを満たす必要もある。やがて、多分彼女は幹部にぐらいはなれるかもしれない。@{M}She can earn her keep doing odd jobs for now. Your treasures need polishing. Your mug needs filling. In time, maybe you can make an Officer out of her.",
+                    "ButtonText": "", "Id": 143929},
+                   {"DefaultEvent": {"Description": "しかし貴方の決意は固い。何時の日か、かつて貴方がそうした様に、彼女もまた自分でジーに飛び出すチャンスが有ろう。今は、彼女を堕ちたるロンドンの孤児院まで安全に連れて行く事だ。小洒落たタウンハウスの、感じの良い人の元に。確実に他の人ではない。@{M}But you hold firm. One day, she will have the chance to set to zee, like you did. For now, you will see her safe to an orphanage back in Fallen London. That pleasant one under the handsome townhouse, of course. Definitely not the other one. ",
+                                     "Name": "小娘の目から涙が滝のように溢れ出る@{M}The Monkey Foundling bursts into tears",
+                                     "Id": 176554},
+                    "Name": "却下@{M}Refuse",
+                    "Description": "ジーは子供の居るべき場所ではない。@{M}The zee is no place for a child.",
+                    "ButtonText": "", "Id": 143998}],
+ "Description": "操舵員は以前、よく食べ物が無くなると苦情を言っていた事があるが、貴方はその理由を今把握した。小娘が箱の後ろで無邪気に座り込み、口の周りには真新しい食べかすをべったりと付け、何か柔らかそうな物の上に寝転がって...待て、それは盗まれた貴方の服では無いのか?彼女は、貴方がすごく楽しそうにしていたと言っている。どうやら彼女はどうしても貴方と一緒にジーを探索したいと願っているようだ。@{M}The quartermaster has been complaining of food going missing of late, and now you know why. The Monkey Foundling sits smiling innocently behind a crate, mouth surrounded by fresh crumbs and in a bed of... wait, your stolen clothes? Yeah, you seemed fun, she says. She desperately wants to explore the zee with you.",
+ "Name": "密航者だ!@{M}A stowaway!", "Id": 176473}

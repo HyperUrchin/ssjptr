@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "船員達はがっかりしたが、ダイヤモンドはダイヤモンドなのだ。@{M}Your crew are disappointed, but diamonds are diamonds.",
+                                     "Name": "それを隠せ@{M}Tuck it away", "Id": 150644},
+                    "Name": "まぁ、待て -@{M}Hang on to it",
+                    "Description": "船員の迷信に出てくる名も無き神の御心とやらを満たす為にダイヤモンドを海に投げ入れるのが得策とは思えない。@{M}You're not going to throw a diamond in the zee to appease some nameless god of zailor's superstitions.",
+                    "ButtonText": "", "Id": 128728},
+                   {"DefaultEvent": {"Description": "ダイヤモンドの軌跡、その最上部に達した時、それは一際眩しく煌めく。落ち落ちていった末に、波がそれを飲み込んだ。@{M}The diamond glints once as it reaches the apex of its arc. Down, down, and a wave reaches up to take it.",
+                                     "Name": "暗闇に光る閃光@{M}A flash in the darkness", "Id": 150645},
+                    "Name": "慎重に事を運ぶ@{M}Do the careful thing",
+                    "Description": "船乗りは自分たちが元気に、健康で家に帰れる事をストーンに祈っている。ストーンを敵に回したくはない存在だ。[ダイヤモンドを投げ捨てます。]@{M}Zailors pray to Stone when they want home, hearth and healing. She's the kind of god you'd want on your side.",
+                    "ButtonText": "", "Id": 128729}],
+ "Description": "ビスケットの中にあるべきではない硬い塊が入っていた。貴方はそれを勢い良く齧り、そしてその存在を呪った。船員は笑っていたが、やがて船長が噛んだ物がダイヤモンドだと分かった時 - 小さくてひどく傷ついているがダイヤモンドである事に変わりはない - 彼らは皆押し黙った。\u000d\u000a\u000d\u000a「ダイヤモンドはストーンにとって大事な物ですぜ」ある者が言う。「ジーに捧げやしょう、船長。きっと幸運をもたらしてくれやすぜ。」@{M}A chunk of grit baked in your ship's biscuit! You crack a tooth and curse. Your crew chuckle, but when the object turns out to be a diamond - small and badly flawed, but a diamond nevertheless - they all hush.\u000d\u000a\u000d\u000a\"Diamonds are sacred to Stone,' one says. \"Give it to the zee, captain. It'll be luck for us.\"",
+ "Name": "歯を砕いた財宝@{M}A Tooth-Cracking Treasure", "Id": 150639}

@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "The Travel-Writer snaps shut his journal. \"I've only one last place I wish to visit: Khan's Heart. Take me there whenever is most convenient.\"",
+                                     "Name": "A final chapter", "Id": 259077},
+                    "Name": "Give the Travel-Writer passage",
+                    "Description": "Two hundred echoes for a last voyage? He can consider it done.",
+                    "ButtonText": "", "Id": 193219},
+                   {"DefaultEvent": {"Description": "The August Travel-Writer frowns sharply at you. \"What a pity,\" he says. \"I shan't hold a grudge, captain. My work will do you justice.\" He gathers his trunk from below deck and departs.",
+                                     "Name": "Taken in good grace", "Id": 259078},
+                    "Name": "Refuse to aid the Travel-Writer",
+                    "Description": "You want no part of it.", "ButtonText": "",
+                    "Id": 193220}],
+ "Description": "The August Travel-Writer makes a few notes in his journal as you walk back to your ship. His suit is immaculate, though his hands are ink-stained. \"I've one last port to visit,\" he says quietly. \"There's two hundred echoes in it for you this time.\"",
+ "Name": "The August Travel-Writer's Request", "Id": 259076}

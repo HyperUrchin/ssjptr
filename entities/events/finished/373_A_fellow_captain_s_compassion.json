@@ -1,0 +1,8 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "互いの話を聞き合う夜を過ごした後、夜想号の元船長は墳墓街へと消えていった。彼自身のジーの詩は、ついに終止符が打たれたのだ。今こそ貴方自身の詩を紡ぐ旅に戻る時だ。@{M}An evening of swapping stories later, the Former Captain of the Nocturne disappears into the tomb-colonies. His zong of the zee is finally written in full. It is time to return to your own.",
+                                     "Name": "旅の終着駅で最後の一杯を@{M}One last drink at journey's end",
+                                     "Id": 168376},
+                    "Name": "ベンダーバイトへようこそ@{M}Welcome to Venderbight",
+                    "Description": "少なくとも、季節の樹よりは良い場所だろう。@{M}At least it's better than the Tree of Seasons.",
+                    "ButtonText": "", "Id": 138952}],
+ "Description": "夜想号の元船長は彼の新しい故郷にたどり着いた。ここから先彼を苛むものは、彼の思い出だけだろう。@{M}The Former Captain of the Nocturne has arrived in his new home. Only his memories can torture him now.",
+ "Name": "仲良し船長の同情@{M}A fellow captain's compassion", "Id": 168375}

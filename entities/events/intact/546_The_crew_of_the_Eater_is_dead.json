@@ -1,0 +1,13 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "",
+                                     "LinkToEvent": {"Id": 140906}, "Name": "", "Id": 182155},
+                    "Name": "Seize its cargo",
+                    "Description": "The Eater of Names has long plundered unwise strangers in the name of Death and the Great Shell. Perhaps they've kept something of use.",
+                    "ButtonText": "", "Id": 147408},
+                   {"DefaultEvent": {"Description": "They must have taken this from the zee near the Gant Pole, the place that draws dying monsters. The memories of slow deep death adhere to it like rags of skin to bone. Perhaps you'll find a use for it.",
+                                     "LinkToEvent": {"Id": 182154}, "Name": "A grisly relic",
+                                     "Id": 182156},
+                    "Name": "Seize its figurehead",
+                    "Description": "The colour is gant: that colour which remains when all else has been consumed.",
+                    "ButtonText": "", "Id": 147409}],
+ "Description": "The worms lie quiescent. The Chelonites are slain. Take it as a prize-ship, bones and zee-worms and all...? One look at your bo'sun dissuades you. He shakes his head slowly.",
+ "Name": "The crew of the Eater is dead", "Id": 182154}

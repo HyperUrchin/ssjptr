@@ -1,0 +1,8 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "The coffin is banded with iron and triple locked. LEAVE FOR THE CHIEF, it's labelled.\u000d\u000a\u000d\u000aThe Austere Acolyte is standing over it with a crowbar and a fixed expression.",
+                                     "LinkToEvent": {"Id": 149082}, "Name": "A locked coffin",
+                                     "Id": 149075},
+                    "Name": "Find out what she wants",
+                    "Description": "Perhaps there will be something in it for you.",
+                    "ButtonText": "", "Id": 127807}],
+ "Description": "The Acolyte sends you a message, requesting assistance with a difficult autopsy. The message emphasizes silence and discretion.",
+ "Name": "Summons to the Low Building", "Id": 149074}

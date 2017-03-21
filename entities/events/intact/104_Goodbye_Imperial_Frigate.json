@@ -1,0 +1,13 @@
+{"ChildBranches": [{"DefaultEvent": {"Id": 144335},
+                    "Name": "Scuttle her", "Description": "", "ButtonText": "",
+                    "Id": 124712},
+                   {"DefaultEvent": {"Id": 155762}, "Name": "Record any Observations",
+                    "Description": "If you've gathered enough, you may learn something...",
+                    "ButtonText": "", "Id": 132006},
+                   {"SuccessEvent": {"Id": 144334},
+                    "DefaultEvent": {"Description": "Not much at present.",
+                                     "Name": "Here it is.", "Id": 144333},
+                    "Name": "Send home with a prize crew", "Description": "",
+                    "ButtonText": "", "Id": 124711}],
+ "Description": "...", "Name": "Goodbye Imperial Frigate",
+ "Id": 144332}

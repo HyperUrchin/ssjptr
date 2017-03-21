@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "", "Name": "",
+                                     "Id": 143964},
+                    "Name": "いいえ@{M}No", "Description": "", "ButtonText": "",
+                    "Id": 124471},
+                   {"DefaultEvent": {"Id": 143965}, "Name": "はい@{M}Yes",
+                    "Description": "", "ButtonText": "", "Id": 124472}],
+ "Description": "", "Name": "井戸@{M}A Well", "Id": 143963}

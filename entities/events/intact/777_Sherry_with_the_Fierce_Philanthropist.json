@@ -1,0 +1,13 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "Her smile is conspiratorial. \"Then we can help each other. I am prepared to finance - in a large part - improvements to your ship that will make it capable of zubmarine travel. \u000d\u000a\u000d\u000a\"The Admiralty - and other powers - disapprove of such innovation. Therefore, we will need to be discreet. I have procured experts, labourers, and a workshop. They are well-paid, and loyal. Here is the address. Meet us there, and we can begin our work.\"",
+                                     "LinkToEvent": {"Id": 244542}, "Name": "A new friend",
+                                     "Id": 244536},
+                    "Name": "Scoff about it",
+                    "Description": "It's a nonsense! Nowhere should be forbidden to the capable explorer! [This will begin the quest to acquire a zubmarine.]",
+                    "ButtonText": "", "Id": 186690},
+                   {"DefaultEvent": {"Description": "\"How conservative. Well, [q:Addressed As], it has been an enjoyable evening. Perhaps we could repeat it sometime.\" [If you want to revise your opinion later, and pursue an adventurous and uncertain career beneath the zee, you are welcome to do so at any time.]",
+                                     "Name": "A disappointment", "Id": 244539},
+                    "Name": "Approve of it",
+                    "Description": "It's probably for the best. The zee's surface is bad enough - God knows what unpleasantness lies below! [You may change your mind later, if you wish.]",
+                    "ButtonText": "", "Id": 186693}],
+ "Description": "\"A question, [q:Addressed As].\" She tops up her sherry. \"Some years ago, the nations of the Neath struck an agreement to abandon their research into zubmarine travel, and leave the zee depths untouched.\"\u000d\u000a\u000d\u000aAh, <i>the Agreement About Nothing of Consequence</i>. Zailors mutter about it when listing the Admiralty's follies. You nod.\u000d\u000a\u000d\u000aShe raises her glass to her lips. \"And what is your opinion of this agreement?\" she asks.",
+ "Name": "Sherry with the Fierce Philanthropist", "Id": 244535}
