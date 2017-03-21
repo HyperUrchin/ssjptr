@@ -44,7 +44,7 @@
                     "ButtonText": "", "Id": 147627},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 194381},
                                      "Name": "", "Id": 195930},
-                    "Name": "「骨のための物語を！」@{I}\"Tales for the bone!\"",
+                    "Name": "「物語を骨と交換だ！」@{I}\"Tales for the bone!\"",
                     "Description": "　誰かが変わった商品の呼び売りをしている。声のする方に行ってみよう。@{I}Someone is crying unusual wares. Follow the sound.",
                     "ButtonText": "", "Id": 155793},
                    {"DefaultEvent": {"Description": "　広大なzeeでの戦いの物語が佳境に入ってきたところで、あなたは血なまぐさい戦利品を頭上に掲げた。子どもたちは散り散りになった。後には、目をみはる一人の少年だけが残された。<br/>　彼は仮面を差し出した。小さな骨で作られたガラクタだ。骨は食事の残りから集められたものだろう。それでも、彼はあなたの戦利品を指差した。あなたは交換に応じた。@{I}As your tale of combat on the high zee reaches its pitch, you lift the gory trophy above your head. The children scatter. Only a young boy remains behind, staring. \u000d\u000a\u000d\u000aHe holds out a mask: a mess of tiny bones. Most look like they were scavenged from a dinner plate. Nevertheless, he points at your trophy. You trade.",
