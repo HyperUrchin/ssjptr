@@ -1,0 +1,90 @@
+Crate of Brilliant Human Souls, 素晴らしい人間の魂
+Crate of Humal Souls, 人間の魂
+Unstamped Crate of Brilliant Souls, 未押印の素晴らしい人間の魂
+Port Report, 港湾報告書
+Revelatory Chart, 啓示による海図
+Moves in the Great Game, グレート・ゲームの動向
+Strategic Information, 戦略的情報
+Vital Intelligence, 重要機密
+Memory of Distant Shores, 遠き地の記憶
+Vision of the Surface, 地上の幻像
+Brimstone Buzzings, ブリムストーンのうなり
+Recent News, 最近の知らせ
+Searing Enigma, 焼けつく謎
+Extraordinary Implication, 尋常ならざる示唆
+Live Specimen, 生体標本
+Heirloom, 家宝
+Invictus Token, 屈服せざる者の証
+Restful Night, 安らかな夜
+Elegant Townhouse, 優雅な邸宅
+Zeeside Mansion, 浜辺の豪邸
+Ironclad Will, 破れぬ遺言
+Captivating Treasure, 魅惑的な財宝
+Outlandish Art[ie]fact, 風変わりな工芸品
+Intriguing Snippet, 興味を引く小話
+Element of Dawn, ドーンのかけら
+Dread Surmise, 恐るべき推測
+Ray-Drenched Cinder, 光線まみれの噴石
+Lump of Blue Scintillack, ブルー・シンティラックの塊
+Colossal Fluke-Core, 巨大なフルークの核
+Watchful Curio, 用心深い骨董品
+Wakeful Idol, 目覚めた偶像
+Vigilant Idol, 油断なき偶像
+Ambiguous Eolith, 模糊とした礫石器
+Whisper-Locked Puzzle-Box, 囁き錠前の秘密箱
+Whisper-Locked Box, 囁き錠前の箱
+Anatomical Cabinet, 解剖学の飾り棚
+Monstrous Almanac, 怪物年鑑
+Shrine to Stone, Stoneに捧げる聖堂
+Whispering Trophy-Case, 囁くトロフィーケース
+Serine Aquarium, 穏やかなアクアリウム
+Stygian Ivory, 漆黒の象牙
+Star-Shell, 星の殻
+Drowning-Pearl, 溺れる真珠
+Eyeless Skull, 目のない頭蓋骨
+Nephrite Ring, 軟玉の指輪
+Diplomatic Agent, 外交官の諜報員
+Unclear Device, 不確実性デバイス
+Foxfire Candle, 狐火の蝋燭
+Flare, 照明弾
+Watcher, ウォッチャー
+Lorn-Fluke, ローエン・フルーク
+Fluke, フルーク
+Memento Mori, メメント・モリ
+Serpentine, サーペンティン
+Blue Scintillack, ブルー・シンティラック
+[Ss]cintillack, シンティラック
+[Ss]olacefruit, サラスフルーツ
+Torpedo Components, 魚雷の部品
+Hunter's Eye, 狩猟者の眼玉
+Royal-Blue Feather, ロイヤルブルーの羽根
+Rusty Locket, 錆びついたロケット
+Mechanic's Secret, メカニックの秘密
+A Mirror-Charm, 鏡の護符
+Memoirs:, 記憶:
+Cache of Curiosities, 物珍しい貯蔵品
+Unprepossessing Mass, 気の進まない肉塊
+Your Father's Bones:, 父の遺骨:
+Darkdrop Coffee Beans, ダークドロップのコーヒー豆
+Darkdrop Coffee, ダークドロップ・コーヒー
+(Bolts of )?[Ss]pider-[Ss]ilk, スパイダー・シルク
+(Bale of )?Parabola-Linen, パラボラ・リネン
+(Cask of )?Mushroom Wine, マッシュルーム・ワイン
+Devilbone Dice, 悪魔骨の賽
+Menaces:, 危機:
+Nightmare's Strength, 悪夢の力
+Strange Catch, 奇妙な漁獲物
+Mirrorcatch Box Full of Very Angry Dream Snakes, 激怒した夢界の蛇で満たされた鏡封じの箱
+Sunlight[- ]Filled Mirrorcatch Box, 太陽光で満たされた鏡封じの箱
+Mirrorcatch Box, 鏡封じの箱
+Presbyter, プレズビター
+Hunting[- ]Troph(y|ies), 狩りの戦利品
+Lamentable Relic, 嘆かわしい遺物
+Romantic Literature, 恋愛小説
+(Firkin of)?[Pp]risoner's [Hh]oney, 囚人の蜜
+Cache of Curiosities, 物珍しい貯蔵品
+Unread Log, 未だ読まれていない航海日誌
+[Hh]eartmetal, ハートメタル
+Doomed Monster Hunter, 死の運命にあるモンスターハンター
+Icarus in Black, 黒のイカロス
+Parabox, パラボックス

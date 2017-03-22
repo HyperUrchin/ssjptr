@@ -1,0 +1,69 @@
+Baseborn & Fowlingpiece, ベースボーン＆フォーリングピース
+Leadbeater & Stainrod Shipyard, リードビーター＆ステインロッド造船所
+Cotterell & Hathersage Shipyard, コットレル＆ハザーセージ造船所
+Admiralty Yards, 海軍省造船所
+Benthic College, ベンシック学寮
+Leopard Clan, レオパルド一門
+Taimen Clan, テイメン一門
+Blind Helmsman, 盲た操舵手亭
+Gaston's Lampery, ガストンズ・ランペリー
+Rose-Market, ローズ・マーケット
+Medusa's Head, メデューサ・ヘッド
+Watchmaker's Hill, ウォッチメイカーズ・ヒル
+Stolen River, ストールン・リバー
+Roser's Wharf, ローザーの埠頭
+Backmost Stairs, 最奥階段
+Wildweald Court, ワイルドウィールド・コート
+Flit, フリット
+High Gate, ハイ・ゲート
+Mansion's Pyre, マンションズ・パイア
+Wolfstack, ウルフスタック
+Stargate, スターゲート
+Zeppelin, ツェッペリン
+Wisp-Ways, ウィスプ・ウェイズ
+Vienna, ウィーン
+Shattered Citadel, 砕かれた砦
+Light-Ship, 灯台船
+Surface, 地上
+Robland, ロブランド
+Knot, ノット
+Dante's Grill, ダンテの肉料理店
+Penstock's Land Agency, ペンストックの土地斡旋屋
+Clathermont's Tatoo Parlour, クラザモントのタトゥー屋
+Wolfstack Exchange, ウルフスタック取引所
+Iron & Misery Company, アイアン＆ミザリー社
+Carrow's Naval Surplus, カロウズ・ネイヴァル・サープラス
+Caminus Yards, カミナス造船所
+Mrs Plenty's (Shipside )?Provisioners, ミセス・プレンティの食料雑貨店
+Bultitude's House of Vision, バルティテュードの視界の館
+Malebolge Excavations, マーレヴォルジェの発掘品
+Daily Bread, 毎日の食事
+Brass Embassy, 真鍮の大使館
+Labyrinch of Tigers, 虎の迷宮
+Excruciation Annex, 苦痛の別館
+Brimstone Convention, ブリムストーン総会
+Calendar Council, 暦法議会
+Customs Service, 関税庁
+Crown, 王権
+Royal Navy, 王立海軍
+Admiralty, 海軍省
+Admiralty's Survey Office, 海軍省情報調査室
+Foreign Office, 外務省
+Ministry of Public Decency, 良俗省
+Office of Incongruous Requests, 不適切要請局
+Court of Chancery, 大法官府裁判所
+Cage-Gardens, 檻の庭園
+Horizon's Aspect, ホライズン・アスペクト
+Forgotten Quarter, 忘却街区
+High Wilderness, 天上の荒野
+Forge of Souls, 魂の炉
+Parabora, パラボラ
+Khanate, カーネイト
+Mirror-Marches, ミラー・マーチ
+Cock and Magpie, 雄鳥とカササギ亭
+Avernus, アヴェルヌス
+Writhing River, のたうつ川
+Elder Continent, 旧大陸
+House of the Question, 疑問の館
+House of the Amber Sky, 琥珀色の空の館
+Waswood, 在りし森

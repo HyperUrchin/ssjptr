@@ -1,0 +1,234 @@
+Adam's Way, アダムの道
+Darkgryphon Straits, ダークグリフォン海峡
+Apis Meet, アピス・ミート
+Gardiner's Rock, ガーディナーの岩礁
+Point Livingston, リビングストン岬
+Boreal Reach, ボレアル・リーチ
+Puckeridge's Lookout, パッカーリッジの見張所
+Johannesson Town, ヨハネッソン・タウン
+Odinson Straits, オディンソン海峡
+Censor's Arch, センサーズ・アーチ
+Andergard Harbour, アンダーガード・ハーバー
+Pale Wastes, ペイル・ウェイスト
+Codex, コーデックス
+Whither, ウィザー
+Carnelian Coast, カーネリアン・コースト
+Port Carnelian, ポート・カーネリアン
+Dybala Town, ダイバラ・タウン
+Rolias Bluff, ロリアス急崖
+Librarian's Grotto, 司書の石室
+Rainer's Vortex, レイナーの渦
+Velten's Vortex, ヴェルテンの渦
+Chelonate, キェロネイト
+Sachatown, サーシャタウン
+Schabelport, スチャベルポート
+Pourzia's Reef, パウジアの岩礁
+Tusler's Channel, タスラー海峡
+Gant Pole, ギャント・ポール
+Corsairs Forest, コルセアの狩場
+Gaider's Mourn, ゲイダーの嘆き
+Bournvadus Pillar, バーンバダス・ピラー
+Massey's Shaft, マッセイの立坑
+Eeken Rock, イーケンの岩礁
+Patrick's Lot, パトリックの取り分
+Crying Heights, 慟哭の高地
+Becker Bight, ベッカー湾
+Andromeda's Rocks, アンドロメダの岩礁
+Rubenach Grotto, ルベナッチ洞穴
+Port Addey, ポート・アディー
+Bubel's Thicket, ビュベルの茂み
+Cumaean Canal, クーマエ運河
+Giannotti Harbour, ジャンノッティ・ハーバー
+Albertine Gates, アルベルティーン・ゲート
+Hekaterine's Arch, ヘカテリーネ・アーチ
+Dawn's Edge, ドーンズ・エッジ
+Grand Geode, 大晶洞
+Dawn Machine, ドーン・マシン
+Zelo's Town, ズィーロ・タウン
+Runeshmi Port, ルーンシュミー港
+Corkery Bay, コーカリー湾
+Barnsmore Gap, バーンズモアの海隙
+Castle Clare, クレア城
+Hodgerton's Bluff, ホッジャートン急崖
+Demeaux's Gate, デミオー・ゲート
+Demeaux Island, デミオー・アイランド
+Bonny Reefs, ボニーの岩礁
+Iron & Misery Co. Funging Station, アイアン＆ミザリー社・ファンギング・ステーション
+Moody's Light, ムーディーズ・ライト
+Purewal Point, ピュアウォル岬
+Phosgene Bleaks, ホスゲン・ブリークス
+Empire of Hands, エンパイア・オブ・ハンズ
+Port Stanton, ポート・スタントン
+Ash Isthmus, トネリコ地峡
+Torry Point, トーリー岬
+O'Keefe's Drift, オキーフス・ドリフト
+Frostfound, 氷結城
+Sycamore Arch, シカモア・アーチ
+Stoddard's Haven, ストッドダルト・ヘイヴン
+Achlys Abyss, アクリス・アビス
+Dathooley's Rage, ダスーリーの猛威
+Brite, ブライト
+Teneb, テネブ
+Saviour's Rocks, 救い主の岩礁
+Arntzen Deep, アルンツェン海原
+Wreck of the Nocturne, ノクターン号の残骸
+Nativity, ネイティビティ
+Iron Republic, アイアン・リパブリック
+Mercurius Deep, 水銀海原
+Cugel's Bluff, キュゲル急崖
+Adam's Doom, アダムの破滅
+Van Horn Harbour, ヴァン・ホーン・ハーバー
+Myceligaea, ミセリギーア
+Uttershroom, アターシュルーム
+Wreck of the Mikko, ミッコー号の残骸
+Palmerston's Reach, パーマーストン・リーチ
+Duggan's Maw, ドゥガンの腹腔
+(Mt?.|Mount) Palmerston, マウント・パーマーストン
+Port Palmerston, ポート・パーマーストン
+Ambrose Point, アンブローズ岬
+Irem, アイレム
+Carlisle's Haven, カーライル・ヘイヴン
+Ruegsegger Straits, リュエグスエッガー海峡
+Stryketon, ストゥリケトン
+Nablus Reef, ナブルスの岩礁
+Weaver's Rift, 織り手の裂け目
+Principles of Coral, プリンシプルズ・オブ・コーラル
+Port Cecil, ポート・セシル
+Dow's Ait, ダウの小島
+Aphotic Quills, 無光棘
+Bidmead Reefs, ビッドミードの岩礁
+Brock's Reef, ブロックの岩礁
+Scott's Reef, スコットの岩礁
+Wreck of the Emperor Wolfgang, エンペラー・ウルフギャング号の残骸
+Chatranic Lobe, チャトラニック・ローブ
+Regal Complexus, リーグル・コンプレクサス
+Errant's Gyrus, エランツ・ギラス
+Noctic Lobe, ノクティック・ローブ
+Promised Sea, 約束の海
+Fathomking's Hold, ファザムキングの砦
+Lorkins Port, ローキンズ港
+Luckwright's Reef, ラックライトの岩礁
+Elifaus Rift, エリファウスの裂け目
+Rattsey, ラットセイ
+Nuncio, ナンシノウ
+Geryk's Scalpel, ゲリクス・スカルペル
+Finknottle Vortex, フィンクノットルの渦
+Skylar's End, スカイラーズ・エンド
+McMaster's Haven, マクマスターズ・ヘイヴン
+Salt Steppes, ソルト・ステップ
+Leopard, レオパルド
+Iron Quarter, 鉄街区
+House of Ancestors, 祖先の館
+Taimen, テイメン
+Ogedei's Bridge, オゴタイの橋
+Tortoise, トータス
+Abora Gate, アボラの門
+Khan's Gate, カーンの門
+Copper Quarter, 銅街区
+Wolf, ウルフ
+Eagle, イーグル
+Nephrite Quarter, 軟玉街区
+Khan's Shadow, カーンの影
+Khan's Heart, カーンの心臓
+Khan's Glory, カーンの栄光
+Porcelain Quarter, 磁器街区
+Wanderer's Haven, 流浪者の港
+Sea of Autumn, 秋の海
+Lipiäinen Point, リピエーイネン岬
+Tiggelaar Bay, ティゲラー湾
+Mangrove College, マングローブ・カレッジ
+Autumn Islands, オータム・アイランズ
+Swallowing Isles, スワロイング・アイルズ
+Melting Isles, メルティング・アイルズ
+Sea of Lilies, 百合の海
+Nuppmiddt Harbour, ヌプミッド・ハーバー
+Peterson's Rift, ピーターソンの裂け目
+Wisdom, ウィズダム
+Sea of Statues, 彫像の海
+Kingeater's Castle, 王喰らいの城
+Pennington, ペニントン
+Ptacek's Fury, プタチェクの憤激
+Vinno's Rift, ヴィーノの裂け目
+Banning Bluff, 戒める絶壁
+Upton, アプトン
+Sea of Voices, 声の海
+Polythreme, ポリズリーム
+Godfall, ゴッドフォール
+Tides of Appetite, 渇望の潮
+Antonine Abyss, アントニウスの深淵
+Obey, オーベイ
+Endure, エンデュア
+Forlorn, フォーローン
+Commingle, カミングル
+Aeschaven, アイスチャヴン
+Feathered Sea, 羽毛の海
+Shepherd's Wash, シェファーズ・ウォッシュ
+Flitterstone Isle, フリッターストーン・アイル
+Thornwell Croft, ソーンウェル農場
+Westergren's Fire, ウェスターグレンの火
+Wolf's Rift, 狼の裂け目
+Fieldhaven, フィールドヘイヴン
+Depot (A), 補給処(A)
+Sisterhood, 修道女会
+Station III, 第三基地
+Abbey Rock, 大修道岩
+Shepherd Isles, シェファード・アイルズ
+Bugsby's Marshes, バグスビーの沼地
+Fallen London, フォールン・ロンドン
+Wolfstack Docks, ウルフスタック・ドックス
+Dept. of Menace Eradication, 害獣根絶省
+Murray Straits, マーレー海峡
+Mutton Island, マトン・アイランド
+Quaker's Haven, クエーカーズ・ヘイヴン
+Badstevener's Abyss, バドスティヴナーの深淵
+Hunter's Keep, ハンターズ・キープ
+Prickfinger Wastes, プリックフィンガー・ウェイスト
+Rowena's Rocks, ロウェナの岩礁
+Echo Bazaar, エコー・バザール
+Low Barnet, ロウ・バーネット
+Varchas, ヴァーチャス
+Port Erdonmez, ポート・アーダンムズ
+Jack - a - Dandy Stack, ジャック・ア・ダンディ・スタック
+Stamford's Expanse, スタンフォード・エクスパンス
+Isle of Cats, アイル・オブ・キャッツ
+Reef of Roses, 薔薇の岩礁
+Visage, ヴィシージ
+Flourishing ?- ?of ?- ?Years, 悠久の栄え
+Kapalka Cove, カパルカ小湾
+Port Cavendish, ポート・キャベンディッシュ
+Peter's Rocks, ピーターの岩礁
+Aferox Channel, アフェロックス海峡
+Salt Lions, ソルト・ライオン
+Zeel Port, ズィール・ポート
+Wilbert's Abyss, ウィルバートの深淵
+StormBones, ストームボーンズ
+Ragged Crow, ラグド・クロウ
+Elifaus Abyss, エリファウスの深淵
+Chong Yi Rift, チョン・イーの裂け目
+Calumnies, キャルムニーズ
+Cob's Way Bay, コブズウェイ湾
+Aestival, エスティヴァル
+Nathan's Bluff, ナッサン急崖
+Lesley's Harbour, レズリー・ハーバー
+Ewan's Way, イワンの道
+Azaquoric Abyss, アザクオリックの深淵
+Snares, スネア
+Labyrinth of Eels, ウナギの迷宮
+Dubois Maelstrom, デュボアの大渦
+Pigmote Isle, ピグモート・アイル
+Lick-a-Monkey Crag, 猿舐めの大岩
+Crabcake, クラブケーキ
+Saints-Haven, セインツ・ヘイヴン
+Tomb-Colonies, 墓人街
+Venderbight, ヴェンダーバイト
+Davies Bay, デイヴィス湾
+Carissa's Point, カリッサ岬
+Horneman's Stag, ホーネマンズ・スタグ
+Tanah-Chook, ターナ・チョーク
+Pickett's Bluff, ピケット急崖
+Cant's Abyss, カントの深淵
+Harper's Ferry, ハープ弾きの渡船場
+Void's Approach, ヴォイド・アプローチ
+Avid Horizon, アビッド・ホライズン
+Chapel of Lights, チャペル・オブ・ライト
+Kisigar Vortex, キシガーの渦
