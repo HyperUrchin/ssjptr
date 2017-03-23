@@ -3,5 +3,5 @@
                     "Name": "帰る時間だ@{M}Time to leave",
                     "Description": "貴方は何時出るべきかを知っている。対照的に、船員たちは不安を募らせているだろう。@{M}You know when to leave; besides, your crew is probably growing restless.",
                     "ButtonText": "", "Id": 129870}],
- "Description": "巡礼者が旅立った後のヴァルカスは、何か憂鬱めいた、緩みきった空気が漂っている。@{M}The atmosphere in Varchas is deflated, melancholy, after the Pilgrims depart.",
+ "Description": "巡礼者が旅立った後のヴァルカスは、何か憂鬱めいた、緩みきった空気が漂っている。@{M}$Varchas -> ヴァーチャス$The atmosphere in Varchas is deflated, melancholy, after the Pilgrims depart.",
  "Name": "半分空になった街@{M}The Half-Empty City", "Id": 152405}

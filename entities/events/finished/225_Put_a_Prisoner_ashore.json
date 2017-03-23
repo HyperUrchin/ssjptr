@@ -2,7 +2,7 @@
                                      "Name": "扉が重々しい音を立てて閉じる@{M}The gates clang shut",
                                      "Id": 151437},
                     "Name": "判決の為に囚人を引き渡す@{M}Hand over a prisoner for sentencing",
-                    "Description": "総督府の高等裁判所が彼らの運命を判断するだろう。@{M}The High Court of Admiralty will determine their fate.",
+                    "Description": "総督府の高等裁判所が彼らの運命を判断するだろう。@{M}$Admiralty -> 海軍省$The High Court of Admiralty will determine their fate.",
                     "ButtonText": "", "Id": 129246},
                    {"DefaultEvent": {"Description": "二人の厳つい、しかし間抜けそうな男達が - 主人付きのゴロツキだろう - 啜り泣いている囚人をタラップから引きずり下ろす。「心配は要らねぇ」一人が言う。「これだったら\"孤児院\"で人気がでらぁ。誰だって、\"孤児院\"でこれを気に入るだろうよ。」彼らは含み笑いをしている。それから数刻、運用長は貴方の目を見ようとはしなかった。@{M}Two stern neddy men - the Masters' enforcers - drag the weeping prisoner down the gang-plank. \"Don't worry,\" one of them says. \"You'll love it in the Orphanage. Everyone loves it in the Orphanage, eventually.\" They chuckle.\u000d\u000a\u000d\u000aYour bo'sun won't meet your eyes for the rest of the watch.",
                                      "Name": "黒塗りの乗り物@{M}A black-painted carriage", "Id": 151450},

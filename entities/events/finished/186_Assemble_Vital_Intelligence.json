@@ -1,6 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "　なぜなのか。どこなのか。そして、あなたは今や、誰なのかを知った。@{I}That's why. That's where. And now you know who.",
                                      "Name": "もちろん！@{I}Of course!", "Id": 149968},
-                    "Name": "遠き地の記憶の意味を理解する@{I}$Memory of Distant Shores -> 遠隔地の記憶$Make sense of a Memory of Distant Shores",
+                    "Name": "遠き地の記憶の意味を理解する@{I}$Memory of Distant Shores -> 遠き地の記憶$Make sense of a Memory of Distant Shores",
                     "Description": "　あの内実を語る詳細を。@{I}That telling detail.",
                     "ButtonText": "", "Id": 128332},
                    {"DefaultEvent": {"Description": "　『暗い水の上の光。』恨みを晴らすこと。水夫たちは決して忘れない。あなたにとって幸運なことに。@{I}\"Light above dark water.\" The settling of scores. Zailors never forget. Lucky for you.",

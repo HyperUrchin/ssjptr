@@ -1,7 +1,7 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "彼女は食べ物を手に取る。「私は、いつも砲座に座って風の声を聞いているんですよ。」彼女がそう言う。「何故この地下に風がいつも吹いているのか、不思議だったんです。新聞の中にそれについての考察があって -」彼女は首を傾げ、プレートにフォークを突き刺した。おそらく彼女は、狩人の楼閣で燃えてしまった彼女の本について考えているのだろう。@{M}She picks at her food. \"I used to sit in my turret and listen to the wind,\" she tells you. \"I wondered why we had wind down here, you know. There's an account, in a journal - \" She bends her head and stabs at her plate. Perhaps she's thinking of her books, burnt with Hunter's Keep.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "彼女は食べ物を手に取る。「私は、いつも砲座に座って風の声を聞いているんですよ。」彼女がそう言う。「何故この地下に風がいつも吹いているのか、不思議だったんです。新聞の中にそれについての考察があって -」彼女は首を傾げ、プレートにフォークを突き刺した。おそらく彼女は、狩人の楼閣で燃えてしまった彼女の本について考えているのだろう。@{M}$Hunter's Keep -> ハンターズ・キープ$She picks at her food. \"I used to sit in my turret and listen to the wind,\" she tells you. \"I wondered why we had wind down here, you know. There's an account, in a journal - \" She bends her head and stabs at her plate. Perhaps she's thinking of her books, burnt with Hunter's Keep.",
                                      "Name": "打ち解け得ぬ気難しさ@{M}Morose and uncommunicative",
                                      "Id": 149718},
-                    "RareDefaultEvent": {"Description": "「私が狩人の楼閣に全員で行きたかったのは」と、彼女は打ち明ける。「ストームに関して空想的な考えを持っていたからです。面白い事に、この考えは正しいものだったという事です。船乗り達が天井に棲まう神について語っているのはご存知でしょう?彼は実在するのです。私はかつて、彼の声を夢の中で聞いたことがありました。」彼女はそう言って身を乗り出す。包帯の裏側、照らされる灯りの中、彼女の瞳は墨汁のように黒かった。「彼は本当に腹を立てています。」@{M}\"I wanted us to move to Hunter's Keep,\" she confesses, \"because I had a romantic notion about storms. The funny thing is, the notion turned out right. You know that zailors talk about the God in the Roof? He's real. I used to hear him in my dreams.\" She leans closer. Behind the bandages, in the lamplight, her eyes are dark as ink. \"He's terribly cross.\"",
+                    "RareDefaultEvent": {"Description": "「私が狩人の楼閣に全員で行きたかったのは」と、彼女は打ち明ける。「ストームに関して空想的な考えを持っていたからです。面白い事に、この考えは正しいものだったという事です。船乗り達が天井に棲まう神について語っているのはご存知でしょう?彼は実在するのです。私はかつて、彼の声を夢の中で聞いたことがありました。」彼女はそう言って身を乗り出す。包帯の裏側、照らされる灯りの中、彼女の瞳は墨汁のように黒かった。「彼は本当に腹を立てています。」@{M}$Hunter's Keep -> ハンターズ・キープ$\"I wanted us to move to Hunter's Keep,\" she confesses, \"because I had a romantic notion about storms. The funny thing is, the notion turned out right. You know that zailors talk about the God in the Roof? He's real. I used to hear him in my dreams.\" She leans closer. Behind the bandages, in the lamplight, her eyes are dark as ink. \"He's terribly cross.\"",
                                          "Name": "確信@{M}A confidence", "Id": 149721},
                     "Name": "彼女を夕食に誘う@{M}Invite her to dine with you",
                     "Description": "...そしてストームについて話す。@{M}...and talk about storms.",
@@ -15,7 +15,7 @@
                    {"DefaultEvent": {"Description": "貴方は、料理人が出した食事が半分を進んだ所で本題を持ち出す。彼女は何も語らず、食事を押し戻し、立ち上がって、部屋を後にした。@{M}You broach the subject half-way through the cook's starter. Without a word, she pushes her plate away, stands, and leaves.",
                                      "Name": "打ち捨てられた食事@{M}An abandoned meal", "Id": 149722},
                     "Name": "彼女を夕食に誘う@{M}Invite her to dine with you...",
-                    "Description": "...そして、狩人の楼閣で彼女に何があったかを問う。@{M}...and ask her to talk about what happened at Hunter's Keep.",
+                    "Description": "...そして、狩人の楼閣で彼女に何があったかを問う。@{M}$Hunter's Keep -> ハンターズ・キープ$...and ask her to talk about what happened at Hunter's Keep.",
                     "ButtonText": "", "Id": 128186}],
  "Description": "彼女は大体病室か、甲板の上に居て、風の音を聞き、ウンタージーで稀に巻き起こる嵐を見つめている。@{M}She's usually in the sick-bay, or up on deck, listening to the wind, watching for the rare storms of the Unterzee.",
  "Name": "傷持ちの妹と話をする@{M}Speak to the Scarred Sister", "Id": 149717}

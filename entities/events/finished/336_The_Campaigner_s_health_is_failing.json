@@ -11,7 +11,7 @@
                     "ButtonText": "", "Id": 137106},
                    {"DefaultEvent": {"Description": "彼女の息が落ち着き、貴方は彼女に追い払われた。起き上がり、彼女は作り笑いを浮かべ、揺らめき、よろめいた。彼女の呼吸は、ベーコンを焼いた後のフライパンの様な匂いを発していた。@{M}Her breathing eases, and she waves you away. Rising, she forces a severe smile, nods, and lurches to her cabin. Her breath smelled like a skillet after bacon. ",
                                      "Name": "治療か?それとも気休めか?@{M}Remedy? Or placebo?", "Id": 181081},
-                    "Name": "アダムの道で手に入れた治療法を施す@{M}Administer the treatments from Adam's Way",
+                    "Name": "アダムの道で手に入れた治療法を施す@{M}$Adam's Way -> アダムの道$Administer the treatments from Adam's Way",
                     "Description": "指示は奇怪極まりなかったが、完璧に従えば大丈夫だろう。@{M}The instructions are bizarre, but you follow them exactly.",
                     "ButtonText": "", "Id": 146681}],
  "Description": "彼女は肺に異常があり、喘鳴がひどいようだ。咳をする度に彼女の喉が残り火のような光を放っている。一番最近の咳では、彼女はその場に崩れ落ちてしまっていた。@{M}She's developed a rattle in her lungs. Each time she coughs, the skin of her throat lights with an emberish glow. This latest coughing fit brings her to her knees.",

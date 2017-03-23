@@ -12,5 +12,5 @@
                     "Name": "彼女を守る為に闘う@{M}Fight to preserve her",
                     "Description": "突然現れた暗殺者の集団と我が友のどちらを取るか?決まってるだろう。奴らに目に物を見せてやれ!@{M}What's a gang of unexpected assassins between friends? Have at them!",
                     "ButtonText": "", "Id": 144724}],
- "Description": "船縁に突然何者かが飛び出してくる!船乗りたちがロンドンの景色を見て溜息を付いていたその時、武装した闖入者が船側に突然飛び乗ってきたのだ。ぴっちりとした黒装束に身を包み、様々な形状、様々な種類の刃を手に持っている。それを見て女冒険家は自らの身を呪う様に、そして貴方に申し訳なさそうに溜息をつく。「もう終わりだね。」@{M}A sudden boil of bodies at the rail! While your zailors were sighing over the sights of London, armed foreigners were slipping up the side of the ship. They wear tight-fitting dark uniforms and carry complicated multiplicities of blades. The Presbyterate Adventuress curses apologetically. \"Out of time,\" she says.",
+ "Description": "船縁に突然何者かが飛び出してくる!船乗りたちがロンドンの景色を見て溜息を付いていたその時、武装した闖入者が船側に突然飛び乗ってきたのだ。ぴっちりとした黒装束に身を包み、様々な形状、様々な種類の刃を手に持っている。それを見て女冒険家は自らの身を呪う様に、そして貴方に申し訳なさそうに溜息をつく。「もう終わりだね。」@{M}$Presbyter -> プレズビター$A sudden boil of bodies at the rail! While your zailors were sighing over the sights of London, armed foreigners were slipping up the side of the ship. They wear tight-fitting dark uniforms and carry complicated multiplicities of blades. The Presbyterate Adventuress curses apologetically. \"Out of time,\" she says.",
  "Name": "乗船許可は出していないぞ!@{M}A boarding action!", "Id": 177790}

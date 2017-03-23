@@ -13,7 +13,7 @@
                     "Name": "Join the feeding frenzy",
                     "Description": "With the Haruspex gone, the Old Zailors can eat their fill.",
                     "ButtonText": "", "Id": 184064},
-                   {"DefaultEvent": {"Description": "You avert your eyes as the gory feast continues. The Old Zailors devour handfuls of raw, quivering blubber and entrails, and drag most of what remains into the dark. The Gant Pole's other inhabitants emerge to squabble over what little remains.",
+                   {"DefaultEvent": {"Description": "$Gant Pole -> ギャント・ポール$You avert your eyes as the gory feast continues. The Old Zailors devour handfuls of raw, quivering blubber and entrails, and drag most of what remains into the dark. The Gant Pole's other inhabitants emerge to squabble over what little remains.",
                                      "Name": "A polite distance", "Id": 240492},
                     "Name": "Ignore the feeding frenzy",
                     "Description": "You will never be that hungry.", "ButtonText": "",
@@ -37,5 +37,6 @@
                     "Name": "Assist the Fading Haruspex",
                     "Description": "She has enough in her for one more divination.\u000d\u000a [This is your last chance to watch the Haruspex at work.]",
                     "ButtonText": "", "Id": 184645}],
- "Description": "Your return is met by the sight of the recently wounded [q:Gant Pole: Something Ends] oozing its last on the small beach. It has not been here for long. It does not have long left.",
- "Name": "A New Arrival at the Gant Pole", "Id": 240486}
+ "Description": "$Gant Pole -> ギャント・ポール$Your return is met by the sight of the recently wounded [q:Gant Pole: Something Ends] oozing its last on the small beach. It has not been here for long. It does not have long left.",
+ "Name": "$Gant Pole -> ギャント・ポール$A New Arrival at the Gant Pole",
+ "Id": 240486}

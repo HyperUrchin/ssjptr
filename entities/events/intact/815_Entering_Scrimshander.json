@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "After scrupulously noting your ship's details, the guardian welcomes you to Scrimshander. The ivory gate parts before you. Dozens of finger-bones click apart and beckon you into the dry centre of the citadel.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Aft -> 後部$After scrupulously noting your ship's details, the guardian welcomes you to Scrimshander. The ivory gate parts before you. Dozens of finger-bones click apart and beckon you into the dry centre of the citadel.",
                                      "LinkToEvent": {"Id": 254670},
                                      "Name": "Through the ivory gates", "Id": 254669},
                     "Name": "Accept the price and dock",

@@ -10,9 +10,9 @@
                     "Name": "燃料を買う@{I}燃料を購入する@{M}Purchase Fuel",
                     "Description": "　彼らには少しの余剰がある。しかし値段は相場の倍だ。@{I}彼らは少しばかりの予備を持っているが、値段は通常の倍もする。@{M}They have a little spare, but it's twice the usual price.",
                     "ButtonText": "", "Id": 146861},
-                   {"DefaultEvent": {"Description": "　ブレミガンは船内を駆け回った。温かくも無情に、静寂を保ちながらも鮮明に照らされて。間違いなく、それは孤独で実りのない生を送るだろうね？@{I}ブレミガンは灯台船の内部へと飛び跳ねながら入り込んでいく。温かいが鉄だらけ、静かだが眩しい、この場所。間違いなく、孤独で、実りのない人生を送るだろう?@{M}The blemmigan scampers off into the innards of the ship. Warm, but steely; quiet, but brightly lit. Surely it'll live a lonely, unfruitful life?",
+                   {"DefaultEvent": {"Description": "　ブレミガンは船内を駆け回った。温かくも無情に、静寂を保ちながらも鮮明に照らされて。間違いなく、それは孤独で実りのない生を送るだろうね？@{I}ブレミガンは灯台船の内部へと飛び跳ねながら入り込んでいく。温かいが鉄だらけ、静かだが眩しい、この場所。間違いなく、孤独で、実りのない人生を送るだろう?@{M}$[Bb]lemmigan -> ブレミガン$The blemmigan scampers off into the innards of the ship. Warm, but steely; quiet, but brightly lit. Surely it'll live a lonely, unfruitful life?",
                                      "Name": "油と光@{I}油と光と@{M}Oil and light", "Id": 181961},
-                    "Name": "ブレミガンを船上に放つ@{I}ブレミガンを乗船させる@{M}Put a blemmigan aship",
+                    "Name": "ブレミガンを船上に放つ@{I}ブレミガンを乗船させる@{M}$[Bb]lemmigan -> ブレミガン$Put a blemmigan aship",
                     "Description": "　繁茂しそうにはないが、それでもあなたの責務は果たされたことになるだろう。@{I}それはそこでは繁茂しそうにないが、貴方は少なくとも勤めを果たした事になる。@{M}It's unlikely to flourish, but you'll have done your duty.",
                     "ButtonText": "", "Id": 147284},
                    {"DefaultEvent": {"Description": "　灯台船の水夫たちは手すりに列をなし、立ち去るあなたにやじを飛ばし、きのこを投げつけた。それは、あなたの船にぶつかって虚しく跳ね返った。可愛げのない連中め。@{I}灯台船の職員はレールに沿って列をなし、貴方の去り際に嘲弄の言葉と胞子を投げつけてくる。それは貴方の船の船体に虚しくぶつかって落ちていく。何と愚かしい者達だ。@{M}The light-ship crew line the rail as you leave, jeering and flinging fungus, which bounces harmlessly off your ship's hull. Charmless fellows.",
@@ -22,4 +22,5 @@
                     "Description": "「あんたのことは聞いてるぞ。キャプテン・マッシュルームさんよ。あんたはそこで回れ右して船に帰るんだな」@{I}「我々は貴方の話を聞いています。貴方はキノコ船長ですね。キノコ船長、どうかそのまま振り返り、船にお戻り下さい。」@{M}\"We've heard about you. You're Captain Mushroom. You, Captain Mushroom, can turn right around and get back on your ship.\"",
                     "ButtonText": "", "Id": 147355}],
  "Description": "　明るく輝く光線が航路を暖めている。@{I}その澄んだ眩しい光は貴方の行き道を温かく照らす。@{M}Its clear bright beam warms the way.",
- "Name": "灯台船@{I}灯台船@{M}Light-Ship", "Id": 152931}
+ "Name": "灯台船@{I}灯台船@{M}$Light-Ship -> 灯台船$Light-Ship",
+ "Id": 152931}

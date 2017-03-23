@@ -8,7 +8,7 @@
                                      "LinkToEvent": {"Id": 141880}, "Name": "An interlude",
                                      "Id": 149158},
                     "Name": "A Dapper Chap",
-                    "Description": "An elegant fellow with a Presbyterate accent and an unexpectedly delighted laugh. By the evening's end, it seems natural that he should accompany you home.",
+                    "Description": "$Presbyter -> プレズビター$An elegant fellow with a Presbyterate accent and an unexpectedly delighted laugh. By the evening's end, it seems natural that he should accompany you home.",
                     "ButtonText": "", "Id": 127853},
                    {"DefaultEvent": {"Description": "Together, you exorcise the chill of the Neath. When you wake, you're alone, but that's how you've always preferred it.",
                                      "LinkToEvent": {"Id": 141880}, "Name": "A relaxing evening",
@@ -34,5 +34,5 @@
                     "Name": "...the Dapper Chap",
                     "Description": "\"It's not such a coincidence,\" he protests. \"I had to meet a ship from home. Another one.\" His eyes meet yours. \"But it's good to see you.\"",
                     "ButtonText": "", "Id": 127860}],
- "Description": "That night in Wolfstack, you find yourself sharing a table with....",
+ "Description": "$Wolfstack -> ウルフスタック, Wolf -> ウルフ$That night in Wolfstack, you find yourself sharing a table with....",
  "Name": "Trouble, and romance", "Id": 149156}

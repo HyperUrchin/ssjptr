@@ -10,7 +10,7 @@
                     "RareDefaultEvent": {"Description": "最悪だ。彼女の唇に宿る凄まじい熱は、ピペットから垂らした薬の滴が当たった瞬間に蒸発させてしまう程だった。熱さましの膏薬を皮膚に塗るや否や、直ぐに乾燥してひび割れてしまう有様だ。やがて彼女は貴方の手を振りほどく。「もう、楽に...」@{M}It is no good. The scouring heat of her mouth puffs the medicines to vapour the moment they leave of the pipette. The cooling paste dries and cracks as soon as you apply it to her skin. She bats your hand away. \"Let me be...\"",
                                          "LinkToEvent": {"Id": 165303},
                                          "Name": "焼け石に水@{M}A raindrop in a furnace", "Id": 181087},
-                    "Name": "アダムの道で手に入れた治療法を施す@{M}Administer the treatments from Adam's Way",
+                    "Name": "アダムの道で手に入れた治療法を施す@{M}$Adam's Way -> アダムの道$Administer the treatments from Adam's Way",
                     "Description": "時間はあるのか?@{M}Is there time?", "ButtonText": "",
                     "Id": 146685}],
  "Description": "彼女の皮膚が、彼女の目が。まるで暮れ泥んだ太陽の様だ。「もう手遅れよ...」彼女は呻いた。彼女の唇の隙間を、死の光の霊がすり抜けていく。@{M}Her skin, her eyes. Like the long-set sun. \"Too late,\" she croaks. Wisps of deadly light escape between her lips.",

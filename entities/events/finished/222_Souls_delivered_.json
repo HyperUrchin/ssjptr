@@ -8,7 +8,7 @@
                                      "Name": "高潔な失望@{I}はっきりとした失望@{M}Noble disappointment",
                                      "Id": 151291},
                     "Name": "報酬の受け取りを拒否する@{I}支払いを拒否する@{M}Refuse payment",
-                    "Description": "　盲目の粗暴者に、これで借りは返したと伝えるのだ。お前たちとの関係は終わりであると。@{I}これを負債の返済に充て、全て終わった事を隻眼の大男に告げる。@{M}Announce to the Blind Bruiser that this pays your debt, and you're done.",
+                    "Description": "　盲目の粗暴者に、これで借りは返したと伝えるのだ。お前たちとの関係は終わりであると。@{I}これを負債の返済に充て、全て終わった事を隻眼の大男に告げる。@{M}$Blind Bruiser -> 盲目の粗暴者$Announce to the Blind Bruiser that this pays your debt, and you're done.",
                     "ButtonText": "", "Id": 129162}],
  "Description": "「何と幸先の良い、そして勇気づけられることでしょうなあ。この場所で再びお会いできるというのは、私たち双方にとって実に幸運なことです！あなたの手をお取りして、暖かい握手でもってお出迎えさせていただきましょう。何せ、あなたは公正な取引と正直な配達への、確固たる献身を示して下すったのですから。素晴らしいことです。私のパトロンもあなたに祝杯を上げて下さるでしょう」@{I}「再びこうして会えるとは、何と幸運で元気づけられる出来事だろうか。今此処で再会出来る事は、俺ら双方にとって幸運な事だろう。お前と握手する事を許して欲しい。何故ならお前は公正な取引と誠実な仕事をすると言った約束を違わずに守ってくれたからだ。素晴らしい。私のボスもお前を褒め称えるだろう。」@{M}\"What a propitious and encouragin' occasion this is, to meet again, here in this place which has been so very fortunate for us both! Allow me to shake you warmly by the hand since you have demonstrated your unswerving commitment to fair dealing and honest conveyage. Very good. My patron will toast you.\"",
  "Name": "魂の配達完了！@{I}魂が届けられた!@{M}Souls delivered!", "Id": 151289}

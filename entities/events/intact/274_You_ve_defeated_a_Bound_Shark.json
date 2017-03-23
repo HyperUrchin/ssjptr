@@ -20,4 +20,5 @@
                     "Description": "Someone has bound it savagely with black iron - sunk bands and joined mechanisms deep into its flesh.",
                     "ButtonText": "", "Id": 130262}],
  "Description": "Its bonds buckled, its skin torn, its teeth shattered.",
- "Name": "You've defeated a Bound-Shark", "Id": 153027}
+ "Name": "$[Bb]ound[ -][Ss]hark -> バウンド・シャーク$You've defeated a Bound-Shark",
+ "Id": 153027}

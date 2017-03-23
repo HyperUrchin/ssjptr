@@ -1,6 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "Leathery meat and handfuls of coins from a dozen harbours.",
                                      "Name": "Bare pickings", "Id": 153587},
-                    "RareDefaultEvent": {"Description": "Leathery meat and handfuls of coins from a dozen harbours. But what's this? A battered pewter tankard, marked with the stamp of the Blind Helmsman at Wolfstack Docks. An old, treasured, possession.",
+                    "RareDefaultEvent": {"Description": "$Blind Helmsman -> 盲た操舵手亭, Wolfstack -> ウルフスタック, Wolf -> ウルフ, Wolfstack Docks -> ウルフスタック・ドックス$Leathery meat and handfuls of coins from a dozen harbours. But what's this? A battered pewter tankard, marked with the stamp of the Blind Helmsman at Wolfstack Docks. An old, treasured, possession.",
                                          "Name": "Odd pickings", "Id": 153588},
                     "Name": "Loot the bodies",
                     "Description": "How many times have they looted fallen enemies? Now it's your turn.",

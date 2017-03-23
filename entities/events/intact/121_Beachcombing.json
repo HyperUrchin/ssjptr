@@ -22,7 +22,7 @@
                     "ButtonText": "", "Id": 126525},
                    {"DefaultEvent": {"Description": "Murgatroyd's Fungal Crackers! An awful lot of them. One must hope that you enjoy Fungal Crackers, or have an extremely hungry parrot.",
                                      "Name": "Boxes of biscuits", "Id": 181491},
-                    "RareDefaultEvent": {"Description": "Stamped with the marks of the Royal Navy. Some naval picket met its end out here. Well: you can find a use for it.",
+                    "RareDefaultEvent": {"Description": "$Royal Navy -> 王立海軍$Stamped with the marks of the Royal Navy. Some naval picket met its end out here. Well: you can find a use for it.",
                                          "Name": "Drums of fuel", "Id": 181492},
                     "Name": "The remnants of a shipwreck!",
                     "Description": "What's washed up here?", "ButtonText": "",

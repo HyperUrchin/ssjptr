@@ -5,4 +5,5 @@
                     "Description": "……これはあなたの名前ではないか？@{I}...これは貴方の名前だろうか?@{M}...is that your name?",
                     "ButtonText": "", "Id": 141687}],
  "Description": "　祝祭の空気が、ロンドンの街路や居酒屋の中に満ちていた。女帝が予期せぬ娘でももうけたのだろうか？あるいは、議会が霧の撲滅に成功したとか？人々の歌が聞こえてくる。@{I}ロンドンの道から酒場まで、辺りは祝賀の雰囲気に包まれていた。女帝に娘でも居たのだろうか?議会が霧を振り払う事に成功したのだろうか?ああ、歌が聞こえる。@{M}In the streets and pubs of London, there is an air of jubilation. Has the Empress had an unexpected daughter? Has Parliament successfully abolished fog? There is singing.",
- "Name": "栄光のロンドン@{I}栄光に包まれたロンドン@{M}London in Glory", "Id": 172908}
+ "Name": "栄光のロンドン@{I}栄光に包まれたロンドン@{M}$Glory -> グローリー$London in Glory",
+ "Id": 172908}

@@ -3,5 +3,5 @@
                     "Name": "No return",
                     "Description": "The lights of a home you can never return to soon dim, as does the crew's excitement. The journey ahead is long, and while the zee-bats steer clear of your vessel, more mundane fears of starvation and thirst grow as the rations start to shrink.",
                     "ButtonText": "", "Id": 151975}],
- "Description": "Your voyage is blessed by the spilled blood of betrayed monkeys and the impotent howls of the Emperor. What will happen to the Empire of Hands now that you have stolen its dreams? It is neither your concern, nor your problem.",
- "Name": "Steal the Zeppelin", "Id": 189575}
+ "Description": "$Empire of Hands -> エンパイア・オブ・ハンズ$Your voyage is blessed by the spilled blood of betrayed monkeys and the impotent howls of the Emperor. What will happen to the Empire of Hands now that you have stolen its dreams? It is neither your concern, nor your problem.",
+ "Name": "$Zeppelin -> ツェッペリン$Steal the Zeppelin", "Id": 189575}

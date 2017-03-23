@@ -6,8 +6,8 @@
                    {"DefaultEvent": {"Description": "Where is the chimney-smoke? Where are the people?",
                                      "LinkToEvent": {"Id": 230505}, "Name": "Something is wrong",
                                      "Id": 233406},
-                    "Name": "Quaker's Haven is quiet",
+                    "Name": "$Quaker's Haven -> クエーカーズ・ヘイヴン$Quaker's Haven is quiet",
                     "Description": "Is the festival over?", "ButtonText": "",
                     "Id": 179380}],
- "Description": "Mutton Island has been preparing for the Fruits of the Zee festival.",
+ "Description": "$Mutton Island -> マトン・アイランド$Mutton Island has been preparing for the Fruits of the Zee festival.",
  "Name": "The Fruits of the Zee", "Id": 233404}

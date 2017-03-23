@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "貴方の指示は明確だった。一人の生意気そうな者が'害虫'に悲哀蜘蛛は含まれるのかと問うた。彼はもう同じ質問をしないだろう。@{M}Your orders are explicit. One cheeky soul asks if 'vermin' includes sorrow-spiders. He won't ask twice.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "貴方の指示は明確だった。一人の生意気そうな者が'害虫'に悲哀蜘蛛は含まれるのかと問うた。彼はもう同じ質問をしないだろう。@{M}$sorrow-spider -> ソロウ・スパイダー$Your orders are explicit. One cheeky soul asks if 'vermin' includes sorrow-spiders. He won't ask twice.",
                                      "Name": "明確な指示@{M}Clear instructions", "Id": 141729},
                     "Name": "害虫を食す事を禁じる@{M}Forbid the consumption of vermin",
                     "Description": "皆腹ペコなのだ。しかし自制を崩壊させる訳にはいかない。@{M}Everyone is hungry. But you can't let discipline slip.",

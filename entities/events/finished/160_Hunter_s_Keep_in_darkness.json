@@ -8,4 +8,5 @@
                     "Description": "砂利道を、扉に向かって歩いて行く。真鍮で出来たノッカーは、見事なまでに錆び付いていた。絵画はジーの潮風によって剥がれ落ちかけていた。ノックしても返事は無い。だが、扉に鍵もかかっていない...@{M}Crunch across the gravel, up to the door. The brass of the door-knocker is tarnished. The paint is beginning to peel in the salt zee air. No one answers, but the door is unlocked...",
                     "ButtonText": "", "Id": 127734}],
  "Description": "ウンタージーの幾百の島々のように、霧の中に包まれる暗い岩の丘。大きな屋敷が岩の上に立っている。光が何も存在しないただの影となっていた。刈り取られていない芝生の草が微風に揺らされ、立ち上がってはまた揺れている。\u000d\u000a\u000d\u000a貴方は土と岩の臭いに微かに交じる、血の匂いを感じ取った。@{M}A hump of dark rock swathed in mist, like a hundred other Unterzee islands. A grand house rises on the rock: a silhouette empty of lights. The uncut grass on the lawns bends, rises, bends again in the breeze.\u000d\u000a\u000d\u000aYou smell damp stone and, faintly, blood.",
- "Name": "暗闇の中の狩人の楼閣@{M}Hunter's Keep in darkness", "Id": 148956}
+ "Name": "暗闇の中の狩人の楼閣@{M}$Hunter's Keep -> ハンターズ・キープ$Hunter's Keep in darkness",
+ "Id": 148956}

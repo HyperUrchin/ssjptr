@@ -3,12 +3,13 @@
                     "Name": "Preach tolerance",
                     "Description": "There are stranger customs in the Neath.",
                     "ButtonText": "", "Id": 165646},
-                   {"SuccessEvent": {"Description": "The furry militia goes door to door in search of other masks. They find none. [q:Pigmote Isle: Mastery] breathes easier knowing that whatever is going on here, it has not spread far.",
+                   {"SuccessEvent": {"Description": "$Pigmote Isle -> ピグモート・アイル$The furry militia goes door to door in search of other masks. They find none. [q:Pigmote Isle: Mastery] breathes easier knowing that whatever is going on here, it has not spread far.",
                                      "Name": "A clampdown", "Id": 211461},
                     "DefaultEvent": {"Description": "The furry militia scours the town for other masks. They only find one, nailed to the head of a dead guard. No witnesses come forward.",
                                      "Name": "A growing concern", "Id": 211458},
                     "Name": "Advocate stern measures",
                     "Description": "This can't be good. It must be stopped.",
                     "ButtonText": "", "Id": 165647}],
- "Description": "The aide takes you deep into the Chickenwoods. \"A terrible state of affairs, Hairless Adviser. Our young pups turn from our traditions to new and foreign ways.\" He shudders as he points at something in the middle of the clearing. A crudely made jackal mask sits in a circle of sticks, a bead of scintillack carefully placed in each eye.",
- "Name": "A Dilemma on Pigmote Isle", "Id": 211456}
+ "Description": "$[Ss]cintillack -> シンティラック$The aide takes you deep into the Chickenwoods. \"A terrible state of affairs, Hairless Adviser. Our young pups turn from our traditions to new and foreign ways.\" He shudders as he points at something in the middle of the clearing. A crudely made jackal mask sits in a circle of sticks, a bead of scintillack carefully placed in each eye.",
+ "Name": "$Pigmote Isle -> ピグモート・アイル$A Dilemma on Pigmote Isle",
+ "Id": 211456}

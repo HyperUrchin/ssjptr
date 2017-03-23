@@ -7,7 +7,7 @@
                                      "LinkToEvent": {"Id": 234658}, "Name": "Realisation",
                                      "Id": 234660},
                     "Name": "It is time",
-                    "Description": "The cigar is complete, and you still live - though the wound is raw enough that breathing causes intermittent flashes of agony. After your sacrifice, the Tobacconist <i>has</i> to go ahead. He must test the cigar. ",
+                    "Description": "$Aft -> 後部$The cigar is complete, and you still live - though the wound is raw enough that breathing causes intermittent flashes of agony. After your sacrifice, the Tobacconist <i>has</i> to go ahead. He must test the cigar. ",
                     "ButtonText": "", "Id": 180233}],
  "Description": "The Crotchety Tobacconist kneels beside the tub, holding his latest creation. He is still, utterly focused, but the glint of a tear running down his cheek belies his composed posture. \"It has to work,\" he mutters. \"It has to work this time.\"",
  "Name": "Testing the Cigar", "Id": 230559}

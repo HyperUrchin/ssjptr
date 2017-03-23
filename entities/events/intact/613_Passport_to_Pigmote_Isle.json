@@ -1,10 +1,12 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "The rat proudly marks your paper with a stamp carved from a mushroom. \"Welcome to Murinia,\" it declares, saluting. \"Enjoy your stay.\"",
-                                     "Name": "The Return to Pigmote Isle", "Id": 209975},
+                                     "Name": "$Pigmote Isle -> ピグモート・アイル$The Return to Pigmote Isle",
+                                     "Id": 209975},
                     "Name": "Find something for it to stamp",
                     "Description": "Here. This scrap will do.", "ButtonText": "",
                     "Id": 164730},
                    {"DefaultEvent": {"Description": "The rat proudly marks your paper with a stamp carved from a mushroom. \"Welcome to Murinia,\" it declares, saluting. \"Enjoy your stay.\"",
-                                     "Name": "The Return to Pigmote Isle", "Id": 209978},
+                                     "Name": "$Pigmote Isle -> ピグモート・アイル$The Return to Pigmote Isle",
+                                     "Id": 209978},
                     "Name": "Find something for it to stamp",
                     "Description": "A piece of paper should do.", "ButtonText": "",
                     "Id": 164733},
@@ -14,4 +16,5 @@
                     "Description": "Hopefully they have forgotten what happened last time.",
                     "ButtonText": "", "Id": 164873}],
  "Description": "A young rat sits at a small desk. \"Passport!\" it demands. \"Or a bit of paper, if that's easier. Chief just says I got to stamp something. That way your visit's proper official.\"",
- "Name": "Passport to Pigmote Isle", "Id": 209974}
+ "Name": "$Pigmote Isle -> ピグモート・アイル$Passport to Pigmote Isle",
+ "Id": 209974}

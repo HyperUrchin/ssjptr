@@ -18,7 +18,7 @@
                    {"SuccessEvent": {"Description": "The Haruspex guides your knife. A careful slice here. A cut there. Viscous blood bubbles around the blade, hot despite the cold blubber under your knuckles. Wipe it clean on a cloth. Open a way to the secrets behind flesh and bone.",
                                      "LinkToEvent": {"Id": 240493}, "Name": "A step closer",
                                      "Id": 240499},
-                    "DefaultEvent": {"Description": "Your knife slips, puncturing an organ. The [q:Gant Pole: Something Ends] moans and writhes, its pained shuddering throwing you down to the ground.",
+                    "DefaultEvent": {"Description": "$Gant Pole -> ギャント・ポール$Your knife slips, puncturing an organ. The [q:Gant Pole: Something Ends] moans and writhes, its pained shuddering throwing you down to the ground.",
                                      "LinkToEvent": {"Id": 240493}, "Name": "A wasted cruelty",
                                      "Id": 240494},
                     "Name": "Cut the flesh",
@@ -60,5 +60,5 @@
                     "Name": "Search for patterns",
                     "Description": "What does the Haruspex see that even her disciples cannot?",
                     "ButtonText": "", "Id": 184068}],
- "Description": "The Fading Haruspex has little time left. Nor does the [q:Gant Pole: Something Ends]. You pick up the ceremonial knife. She squeezes your other hand tight, whispering what little she can to guide you through the vivisection process. [Your skill in Haruspicy makes this challenge easier.]",
+ "Description": "$Gant Pole -> ギャント・ポール$The Fading Haruspex has little time left. Nor does the [q:Gant Pole: Something Ends]. You pick up the ceremonial knife. She squeezes your other hand tight, whispering what little she can to guide you through the vivisection process. [Your skill in Haruspicy makes this challenge easier.]",
  "Name": "Elbow Deep in the Nearly Dead", "Id": 240493}

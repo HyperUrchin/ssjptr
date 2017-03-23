@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "ヴァルカスにはまだ探索すべき所がある。@{M}There is more of Varchas to explore.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "ヴァルカスにはまだ探索すべき所がある。@{M}$Varchas -> ヴァーチャス$There is more of Varchas to explore.",
                                      "LinkToEvent": {"Id": 152443}, "Name": "", "Id": 152459},
                     "Name": "繁華街に戻る@{M}Return to the City Centre",
                     "Description": "此処での用事は終わった。@{M}You are done here.",
@@ -24,5 +24,6 @@
                     "Name": "剣闘士達@{M}The Duellists",
                     "Description": "中庭には白い砂が敷き詰められており、剣闘士が両刀の曲刀シミターを持って決闘を行っている。エキシビジョンマッチを行って貴方の運試しといこうか?\u000d\u000a@{M}The courtyard is strewn with white sand; the duellists fight with curving twin-bladed scimitars in each hand. You could try your luck in a exhibition match?",
                     "ButtonText": "", "Id": 129864}],
- "Description": "ここには幾つもの娯楽がある。ミヒルは厳格な神ではなかった。街中にある施設は高価な輸入物のガスを使って火を灯され、蒼く光る珊瑚の胞核を使った小さな彫像が幾つも棚に煌めいている。\u000d\u000a\u000d\u000a 貴方は一体何に興味がある?@{M}There are many available; Mihir is not a puritan god. The nicer establishments in the city are lit with expensive imported gas and have little blue-glowing scintillack statuettes scattered on the shelves.\u000d\u000a\u000d\u000a What takes your fancy?",
- "Name": "ヴァルカスの娯楽@{M}Entertainments in Varchas", "Id": 152390}
+ "Description": "ここには幾つもの娯楽がある。ミヒルは厳格な神ではなかった。街中にある施設は高価な輸入物のガスを使って火を灯され、蒼く光る珊瑚の胞核を使った小さな彫像が幾つも棚に煌めいている。\u000d\u000a\u000d\u000a 貴方は一体何に興味がある?@{M}$[Ss]cintillack -> シンティラック$There are many available; Mihir is not a puritan god. The nicer establishments in the city are lit with expensive imported gas and have little blue-glowing scintillack statuettes scattered on the shelves.\u000d\u000a\u000d\u000a What takes your fancy?",
+ "Name": "ヴァルカスの娯楽@{M}$Varchas -> ヴァーチャス$Entertainments in Varchas",
+ "Id": 152390}

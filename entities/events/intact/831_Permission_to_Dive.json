@@ -6,7 +6,7 @@
                    {"DefaultEvent": {"Description": "She is persistent in her request. She cannot let go of the vision she had of the Lady. A madness has taken her: the only way to keep her safe would be to bring her to London, and commit her to the care of the Royal Bethlehem.",
                                      "Name": "", "Id": 260391},
                     "Name": "Refuse",
-                    "Description": "It is dangerous to be too long underwater outside the protection of a zubmarine. After seven minutes, the fears sets in. After fourteen, the visions start. After twenty-one, there is no return.",
+                    "Description": "$Aft -> 後部$It is dangerous to be too long underwater outside the protection of a zubmarine. After seven minutes, the fears sets in. After fourteen, the visions start. After twenty-one, there is no return.",
                     "ButtonText": "", "Id": 194192}],
  "Description": "The Unsettled Salvager has requested a diving suit, so that she may descend and find Lady Black: a spirit understood to dwell in the abyssal deeps. You could grant her permission and a diving suit, and allow her to throw herself into that blackest black. Or perhaps you could bring her back to London, and commit her to the Royal Bethlehem Hotel.",
  "Name": "Permission to Dive", "Id": 255581}

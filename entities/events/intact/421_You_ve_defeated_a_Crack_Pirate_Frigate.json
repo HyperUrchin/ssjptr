@@ -11,7 +11,7 @@
                     "ButtonText": "", "Id": 140766},
                    {"SuccessEvent": {"Description": "When you next return to London, return to your Lodgings to claim your prize money...",
                                      "Name": "Awaiting your pleasure", "Id": 171425},
-                    "DefaultEvent": {"Description": "Your prize is never seen again. Perhaps a heptycheer devours your crew. Perhaps they devour each other. Perhaps they betray you and sail it to the Iron Republic, where laws cannot follow.",
+                    "DefaultEvent": {"Description": "$Iron Republic -> アイアン・リパブリック$Your prize is never seen again. Perhaps a heptycheer devours your crew. Perhaps they devour each other. Perhaps they betray you and sail it to the Iron Republic, where laws cannot follow.",
                                      "Name": "Into the darkness", "Id": 171424},
                     "Name": "Send home with a prize crew",
                     "Description": "Three zailors should be enough for a skeleton crew, unless she runs into trouble.",

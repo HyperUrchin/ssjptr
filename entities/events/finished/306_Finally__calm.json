@@ -3,5 +3,5 @@
                     "Name": "「今度は何だ？」@{I}\"さてどうする?\"@{M}\"What now?\"",
                     "Description": "　エンジンの雄叫びは静かになっていた。@{I}エンジンの咆哮はどうやら収まったようだ。@{M}The roar of the engines has subsided.",
                     "ButtonText": "", "Id": 131646}],
- "Description": "　甲板のハッチから吐き出されていた煙が止んだ。機関長が姿を現した。@{I}甲板ハッチから立ち込めていた煙がはたと止み、主任技師が姿を見せてきた。@{M}The smoke pouring from the deck hatch ceases. Your Chief Engineer emerges.",
+ "Description": "　甲板のハッチから吐き出されていた煙が止んだ。機関長が姿を現した。@{I}甲板ハッチから立ち込めていた煙がはたと止み、主任技師が姿を見せてきた。@{M}$Chief Engineer -> 機関長$The smoke pouring from the deck hatch ceases. Your Chief Engineer emerges.",
  "Name": "ようやくの静けさ@{I}やっと、静まった@{M}Finally, calm", "Id": 155175}

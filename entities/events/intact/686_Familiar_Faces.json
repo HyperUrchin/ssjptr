@@ -6,7 +6,7 @@
                     "Id": 183222},
                    {"SuccessEvent": {"Description": "It can't be them. Block the portholes to hide their faces. Sail onward, blind to dangers ahead.",
                                      "Name": "Live again", "Id": 239173},
-                    "DefaultEvent": {"Description": "Even at full speed, the familiar faces cling to your portholes. The teeth on that crab-eaten face could only belong to the Alarming Scholar. There's a watery voice you recall from your youth. A hand, wearing a familiar ring, traces the glass.\u000d\u000a\u000d\u000aHas the whole Neath drowned while you were below? Is anyone left above the waves? You go to their airlock, place your hands on the hatch. They tremble with excitement. Outside, your friends and family and loves are waiting. You turn the wheel.",
+                    "DefaultEvent": {"Description": "$Alarming Scholar -> 不安を催させる学者$Even at full speed, the familiar faces cling to your portholes. The teeth on that crab-eaten face could only belong to the Alarming Scholar. There's a watery voice you recall from your youth. A hand, wearing a familiar ring, traces the glass.\u000d\u000a\u000d\u000aHas the whole Neath drowned while you were below? Is anyone left above the waves? You go to their airlock, place your hands on the hatch. They tremble with excitement. Outside, your friends and family and loves are waiting. You turn the wheel.",
                                      "LinkToEvent": {"Id": 139750}, "Name": "Impossible",
                                      "Id": 239172},
                     "Name": "Stoke the engines",

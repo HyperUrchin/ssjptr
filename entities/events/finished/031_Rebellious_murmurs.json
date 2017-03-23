@@ -1,6 +1,6 @@
-{"ChildBranches": [{"SuccessEvent": {"Description": "話し終えた時、船員から戻ってきたのは完全な沈黙だった。エンジンは船底で吠えており、船は揺れている。「持ち場に戻れ!」副船長ががなった。@{M}When you've done, there is absolute silence from the crew. The engines roar below: the ship surges on. \"Dismissed!\" your First Officer growls.",
+{"ChildBranches": [{"SuccessEvent": {"Description": "話し終えた時、船員から戻ってきたのは完全な沈黙だった。エンジンは船底で吠えており、船は揺れている。「持ち場に戻れ!」副船長ががなった。@{M}$Officer -> オフィサー$When you've done, there is absolute silence from the crew. The engines roar below: the ship surges on. \"Dismissed!\" your First Officer growls.",
                                      "Name": "恐怖@{M}Fears", "Id": 144488},
-                    "DefaultEvent": {"Description": "「そいつをふん縛れ!」副船長が厳しく言い放つ。貴方を嘲ったトラブルメーカーが、営倉に叩きこまれた。服従を強要された船員の顔に浮かぶ強情な表情は貴方も良く知る表情だ。今のところは...乗り切っただろう。@{M}\"Take down that man's name!\" your First Officer raps. The troublemaker who jeered you is hauled off into the brig. The crew wear the mulish expressions you know too well, of zailors forced to obey... for now.",
+                    "DefaultEvent": {"Description": "「そいつをふん縛れ!」副船長が厳しく言い放つ。貴方を嘲ったトラブルメーカーが、営倉に叩きこまれた。服従を強要された船員の顔に浮かぶ強情な表情は貴方も良く知る表情だ。今のところは...乗り切っただろう。@{M}$Officer -> オフィサー$\"Take down that man's name!\" your First Officer raps. The troublemaker who jeered you is hauled off into the brig. The crew wear the mulish expressions you know too well, of zailors forced to obey... for now.",
                                      "Name": "嘲弄@{M}Jeers", "Id": 144487},
                     "Name": "懲戒する@{M}Discipline",
                     "Description": "彼らが貴方の前に立ちはだかるなら、彼らが故郷を見る事はない事を告げる。@{M}Promise them that if they cross you, they'll never see their homes again.",

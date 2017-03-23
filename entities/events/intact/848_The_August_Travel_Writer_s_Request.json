@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "The Travel-Writer snaps shut his journal. \"I've only one last place I wish to visit: Khan's Heart. Take me there whenever is most convenient.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Khan -> カーン, Khan's Heart -> カーンの心臓$The Travel-Writer snaps shut his journal. \"I've only one last place I wish to visit: Khan's Heart. Take me there whenever is most convenient.\"",
                                      "Name": "A final chapter", "Id": 259077},
                     "Name": "Give the Travel-Writer passage",
                     "Description": "Two hundred echoes for a last voyage? He can consider it done.",

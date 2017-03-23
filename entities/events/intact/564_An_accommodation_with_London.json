@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "London is where you began - but now, this is your home. From a ship's captain to a nation's founder is a long journey indeed. Who knows where the journey will take you? [Congratulations! You have completed a hidden Ambition. We do apologise. We meant to say: you have completed a hidden Ambition... your Majesty.]",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Ambition -> 大望$London is where you began - but now, this is your home. From a ship's captain to a nation's founder is a long journey indeed. Who knows where the journey will take you? [Congratulations! You have completed a hidden Ambition. We do apologise. We meant to say: you have completed a hidden Ambition... your Majesty.]",
                                      "Name": "Founder of a nation", "Id": 189566},
                     "Name": "London's Respect",
                     "Description": "The Ambassador shrugs - this is obviously what she expected - and, at last, she bows deeply. She is only the representative of a monarch - and you are a monarch. This is your kingdom. ",

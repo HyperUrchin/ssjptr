@@ -9,7 +9,7 @@
                     "Name": "Record any Observations",
                     "Description": "If you've gathered enough, you may learn something...",
                     "ButtonText": "", "Id": 131995},
-                   {"DefaultEvent": {"Description": "A bandage-wrapped fellow clambers out of the slit. Well: they were bandages, before they were steeped for weeks in the internal juices of an eel. Now the effect is more like a kind of rollmop linguine. \"Does wonders for my complexion,\" he remarks, squelchingly. \"But I suppose it's time to go. Could you drop me off at Venderbight?\"",
+                   {"DefaultEvent": {"Description": "$Venderbight -> ヴェンダーバイト$A bandage-wrapped fellow clambers out of the slit. Well: they were bandages, before they were steeped for weeks in the internal juices of an eel. Now the effect is more like a kind of rollmop linguine. \"Does wonders for my complexion,\" he remarks, squelchingly. \"But I suppose it's time to go. Could you drop me off at Venderbight?\"",
                                      "Name": "Slice it open!", "Id": 172689},
                     "Name": "Rescue a New Jonah",
                     "Description": "The eel's gut twitches. Is something alive in there?",
@@ -23,4 +23,5 @@
                     "Name": "Dissect it", "Description": "for knowledge.",
                     "ButtonText": "", "Id": 124691}],
  "Description": "D__n me, it's an ugly thing! Even uglier dead than alive. Friendlier, though.",
- "Name": "You've defeated an Albino Moray", "Id": 144292}
+ "Name": "$Albino Moray -> シラコウナギ$You've defeated an Albino Moray",
+ "Id": 144292}

@@ -46,7 +46,7 @@
                     "Name": "雪の子に家のことを尋ねる@{I}$Snow Child -> 雪の子$Ask the Snow Child about home",
                     "Description": "　それはロンドンの街路での生活を憶えているのだろうか？@{I}It remembers a life on the streets of London?",
                     "ButtonText": "", "Id": 173836},
-                   {"DefaultEvent": {"Description": "　それは顎を膝に乗せて、冬の赤獣をじっと見つめている。もしもあなたが何もしなければ、ミスター・サックスが対処するはずだ。自分の仕事を終わらせたあとで。@{I}$Mr Sacks -> ミスター・サックス$It presses its chin against its knees, staring fixedly at the Crimson Beast of Winter. If you do not do something, Mr Sacks surely will once it finishes its business.",
+                   {"DefaultEvent": {"Description": "　それは顎を膝に乗せて、冬の赤獣をじっと見つめている。もしもあなたが何もしなければ、ミスター・サックスが対処するはずだ。自分の仕事を終わらせたあとで。@{I}$Mr Sacks -> ミスター・サックス, Crimson('s)? Beast of Winter -> 冬の赤獣$It presses its chin against its knees, staring fixedly at the Crimson Beast of Winter. If you do not do something, Mr Sacks surely will once it finishes its business.",
                                      "LinkToEvent": {"Id": 153237},
                                      "Name": "雪の子は目を伏せた@{I}$Snow Child -> 雪の子$The Snow Child's eyes fall",
                                      "Id": 224384},

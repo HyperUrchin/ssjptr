@@ -1,12 +1,12 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "\"The Scholar will give you some notes in return. Bring them to me, and I shall be most pleased.\"\u000d\u000a\u000d\u000aIsery slides the casket over to you, and very pointedly does not enumerate the consequences of returning without the notes. Instead: they smile, too wide, and you shiver.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Isery -> イザリー$\"The Scholar will give you some notes in return. Bring them to me, and I shall be most pleased.\"\u000d\u000a\u000d\u000aIsery slides the casket over to you, and very pointedly does not enumerate the consequences of returning without the notes. Instead: they smile, too wide, and you shiver.",
                                      "Name": "", "Id": 168556},
                     "Name": "Accept a new commission",
-                    "Description": "You are hardly squeamish about smuggling red honey. If you change your mind, you could always turn the shipment over to the Admiralty instead.",
+                    "Description": "$Admiralty -> 海軍省$You are hardly squeamish about smuggling red honey. If you change your mind, you could always turn the shipment over to the Admiralty instead.",
                     "ButtonText": "", "Id": 139070},
-                   {"DefaultEvent": {"Description": "\"I thought, I really did, that you were made of sterner stuff,\" Isery tells you, sorrow on their sharp-edged features. \"Still. I am not the sort to hold a grudge. Come back, if you change your mind.\"",
+                   {"DefaultEvent": {"Description": "$Isery -> イザリー$\"I thought, I really did, that you were made of sterner stuff,\" Isery tells you, sorrow on their sharp-edged features. \"Still. I am not the sort to hold a grudge. Come back, if you change your mind.\"",
                                      "Name": "", "Id": 168557},
                     "Name": "Refuse their request",
-                    "Description": "You think of lamplighter bees and Cage-Gardens, and your mouth, of its own volition, shapes a refusal.",
+                    "Description": "$lamplighter bee -> 灯点けミツバチ, Cage-Gardens -> 檻の庭園$You think of lamplighter bees and Cage-Gardens, and your mouth, of its own volition, shapes a refusal.",
                     "ButtonText": "", "Id": 139071}],
- "Description": "Your Patron beckons you into their office above the Honeyed Tongue. \"I have a delivery for the Alarming Scholar in London,\" they tell you, over a meal of fungus-blossom and sea-lily soup. \"A delivery that needs to pass beneath the notice of the Revenue.\"\u000d\u000a\u000d\u000aIsery places a casket on the table, and slides it open with a dull click. Inside are vials of what is unmistakably red honey. It gleams malevolently.",
- "Name": "Visit Isery's Office", "Id": 168555}
+ "Description": "$Alarming Scholar -> 不安を催させる学者, Isery -> イザリー$Your Patron beckons you into their office above the Honeyed Tongue. \"I have a delivery for the Alarming Scholar in London,\" they tell you, over a meal of fungus-blossom and sea-lily soup. \"A delivery that needs to pass beneath the notice of the Revenue.\"\u000d\u000a\u000d\u000aIsery places a casket on the table, and slides it open with a dull click. Inside are vials of what is unmistakably red honey. It gleams malevolently.",
+ "Name": "$Isery -> イザリー$Visit Isery's Office", "Id": 168555}

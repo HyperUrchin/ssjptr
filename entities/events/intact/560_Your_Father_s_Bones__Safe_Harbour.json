@@ -1,7 +1,8 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "Afterwards, you give the servants an evening off. The house is empty. The clock ticks. The roof-beams creak companionably. You can still hear the zee.  [This captain's career is complete.]",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Aft -> 後部$Afterwards, you give the servants an evening off. The house is empty. The clock ticks. The roof-beams creak companionably. You can still hear the zee.  [This captain's career is complete.]",
                                      "Name": "A quiet afternoon", "Id": 189553},
                     "Name": "Return home",
                     "Description": "One by one, the mourners depart. Waves beat at the edge of hearing.",
                     "ButtonText": "", "Id": 151963}],
  "Description": "Rain at funerals is decorous. The Neath chooses to grace this afternoon with one of its thin and melancholy showers. Water-drops glisten on the shovel, the coffin, the pale expanse of the vicar's forehead. Not many Londoners remember your father, but the sense of occasion - the long quest! the final return to rest! - has brought out a sizeable crowd. Mourners line up to shake your hand. When they speak, you hear only the zee.",
- "Name": "Your Father's Bones: Safe Harbour", "Id": 189552}
+ "Name": "$Your Father's Bones: -> 父の遺骨:$Your Father's Bones: Safe Harbour",
+ "Id": 189552}

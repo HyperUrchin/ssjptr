@@ -1,7 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "The aide meets you at the ship with a pair of trusted assistants. None are used to manual labour and can barely pull the small, heavily loaded cart. They squeak first in appreciation and then with exhaustion as they slowly drag it away to the town gates.",
                                      "Name": "A careful delivery", "Id": 213198},
                     "Name": "Donate supplies",
-                    "Description": "This will greatly help the [q:Pigmote Isle: Mastery]ns.",
+                    "Description": "$Pigmote Isle -> ピグモート・アイル$This will greatly help the [q:Pigmote Isle: Mastery]ns.",
                     "ButtonText": "", "Id": 166735},
                    {"DefaultEvent": {"Description": "The aide sags; his whiskers droop. \"Very well, Hairless Adviser. We will endure. We have faith. We will survive.\"",
                                      "Name": "Standing alone", "Id": 213308},
@@ -9,4 +9,5 @@
                     "Description": "Unwilling or unable, your answer is no.",
                     "ButtonText": "", "Id": 166803}],
  "Description": "The aide hurries you into the depths of the Chickenwoods, where the woods are particularly dark and foreboding. It wrings its paws. \"Hairless Adviser... we had hoped never to ask for this. We swore to stand on our own paws. But our supplies are running short. We desperately need your help. And your discretion.\"",
- "Name": "A Dilemma On Pigmote Isle", "Id": 213197}
+ "Name": "$Pigmote Isle -> ピグモート・アイル$A Dilemma On Pigmote Isle",
+ "Id": 213197}

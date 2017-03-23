@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "Fire. Smoke. No sign of a monster, alive or dead. Still, the adventure has given [q:Pigmote Isle: Mastery]'s soldiers fresh training, of a sort. And the farmers will have little to fear, walking this new charcoal path to the mushroom fields.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Pigmote Isle -> ピグモート・アイル$Fire. Smoke. No sign of a monster, alive or dead. Still, the adventure has given [q:Pigmote Isle: Mastery]'s soldiers fresh training, of a sort. And the farmers will have little to fear, walking this new charcoal path to the mushroom fields.",
                                      "Name": "The smell of burning forest", "Id": 213200},
                     "Name": "Suggest razing the Chickenwoods",
                     "Description": "Burn the trees. Leave it nowhere to hide.",
@@ -11,4 +11,5 @@
                     "Description": "The best weapon against irrational fear is a good distraction. A party, perhaps!",
                     "ButtonText": "", "Id": 166804}],
  "Description": "A chill hangs over the Chickenwoods. The trees creak in the still air. The aide shivers. \"Do you feel it, Hairless Adviser? They say a monster lives out here, where even our light cannot reach. Our farmers refuse to tend their mushrooms until they can be sure of reaching them in safety. But we can find no trace of the beast. What can we do?\"",
- "Name": "A Dilemma On Pigmote Isle", "Id": 213199}
+ "Name": "$Pigmote Isle -> ピグモート・アイル$A Dilemma On Pigmote Isle",
+ "Id": 213199}

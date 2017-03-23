@@ -9,4 +9,5 @@
                     "Description": "Arik passes you a scrap from his notebook. '<i>I need particularly steady hands to repair cabling. Assist?</i>'",
                     "ButtonText": "", "Id": 194361}],
  "Description": "He passes a toolbox to one of his workers, and rushes over to you. He writes in the notebook chained to his wrist.",
- "Name": "The Sprightly Visionary's Ambition", "Id": 260619}
+ "Name": "$Ambition -> 大望$The Sprightly Visionary's Ambition",
+ "Id": 260619}

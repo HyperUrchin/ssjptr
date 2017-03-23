@@ -3,7 +3,7 @@
                                      "Name": "Tether melts in your mouth", "Id": 244630},
                     "Name": "...the smell of the lamp",
                     "Description": "Smoky and acrid.", "ButtonText": "", "Id": 186756},
-                   {"DefaultEvent": {"Description": "The Sharp Driver kicks her feet up onto the panel. You lean back, taking a drag on a cigarette. Beyond the window, the High Wilderness shimmers. Dimensions of maddening colour; bright winds that would scour you to dust, blankets of blazing fog as long as continents.\u000d\u000a \u000d\u000a\"That last station master said to expect trouble,\" she says, removing her goggles. You blink; it's always startling, how blue her eyes are. She rubs her neck, thoughtfully.\u000d\u000a\u000d\u000aHow do you know that gesture? There was another time - another place, before?",
+                   {"DefaultEvent": {"Description": "$High Wilderness -> 天上の荒野$The Sharp Driver kicks her feet up onto the panel. You lean back, taking a drag on a cigarette. Beyond the window, the High Wilderness shimmers. Dimensions of maddening colour; bright winds that would scour you to dust, blankets of blazing fog as long as continents.\u000d\u000a \u000d\u000a\"That last station master said to expect trouble,\" she says, removing her goggles. You blink; it's always startling, how blue her eyes are. She rubs her neck, thoughtfully.\u000d\u000a\u000d\u000aHow do you know that gesture? There was another time - another place, before?",
                                      "LinkToEvent": {"Id": 243314},
                                      "Name": "Tether melts in your mouth", "Id": 244631},
                     "Name": "...a kaleidoscope ",

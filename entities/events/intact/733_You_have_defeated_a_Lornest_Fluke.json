@@ -18,8 +18,9 @@
                                      "Name": "Echoes in the shell ", "Id": 243434},
                     "DefaultEvent": {"Description": "The fluke liquefies slowly but perceptibly, like a sand-castle washed away by successive tides. Its savage spines leak violant fluids into the zee. These too rot away before your eyes. A mournful keening emerges from the ruptured corpse. \u000d\u000a\u000d\u000aYou come to on the floor of the bridge. Someone has placed the charts to London on your chest. Home has been helpfully circled in bright red. ",
                                      "Name": "You refuse ", "Id": 243433},
-                    "Name": "Observe the Lornest Fluke's death. From a distance. ",
+                    "Name": "$Fluke -> フルーク$Observe the Lornest Fluke's death. From a distance. ",
                     "Description": "Conduct a study without risking your crew.",
                     "ButtonText": "", "Id": 185976}],
  "Description": "The beast's spines quiver uncontrollably, before slowly curling in upon themselves, like the upturned limbs of a dying spider. A perverse keening finally fades into silence.",
- "Name": "You have defeated a Lornest Fluke", "Id": 242603}
+ "Name": "$Fluke -> フルーク$You have defeated a Lornest Fluke",
+ "Id": 242603}

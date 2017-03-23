@@ -1,8 +1,8 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "「やぁ、キャプテン。これはあんたの部下かい?ちょっとどうしても彼女をシメないと駄目だったんだよ。どうも彼女は他所者に命令されるのが嫌いだったみたいでね。それでもあたし達は良き友人さね。」女冒険家はそう言いながら、黒目の船乗りの背中をバンと叩く。奇妙な事に、彼女達は、*今は*良き友人のように見える。\u000d\u000a[幹部タブで、彼女を画面上部にある適切なスロットにドラッグし、幹部に任命しましょう。これは海上ではなく港で行いましょう。さもなければ貴方の船員を不安に陥れる事になります。]@{M}\"Oh, hello, captain. Is this one of yours? I had to knock her about a bit. She didn't like taking orders from foreigners. Still, we're good friends now.\" The Adventuress claps the black-eyed sailor on the back. Oddly enough, they *do* seem to be friends now. [Appoint your new Officer by dragging her from the Officers tab to her slot at the top of the screen. Do this in port, not at sea, or you may unsettle your crew.]",
+{"ChildBranches": [{"DefaultEvent": {"Description": "「やぁ、キャプテン。これはあんたの部下かい?ちょっとどうしても彼女をシメないと駄目だったんだよ。どうも彼女は他所者に命令されるのが嫌いだったみたいでね。それでもあたし達は良き友人さね。」女冒険家はそう言いながら、黒目の船乗りの背中をバンと叩く。奇妙な事に、彼女達は、*今は*良き友人のように見える。\u000d\u000a[幹部タブで、彼女を画面上部にある適切なスロットにドラッグし、幹部に任命しましょう。これは海上ではなく港で行いましょう。さもなければ貴方の船員を不安に陥れる事になります。]@{M}$Officer -> オフィサー$\"Oh, hello, captain. Is this one of yours? I had to knock her about a bit. She didn't like taking orders from foreigners. Still, we're good friends now.\" The Adventuress claps the black-eyed sailor on the back. Oddly enough, they *do* seem to be friends now. [Appoint your new Officer by dragging her from the Officers tab to her slot at the top of the screen. Do this in port, not at sea, or you may unsettle your crew.]",
                                      "LinkToEvent": {"Id": 143316},
                                      "Name": "船へようこそ!@{M}Welcome aboard!", "Id": 177784},
-                    "Name": "幹部として勧誘する: 長老会の女冒険家@{M}Engage an Officer: the Presbyterate Adventuress",
-                    "Description": "「ご機嫌よう、[q:Addressed As]。砲撃手をお探しかい?怪物を吹き飛ばす手伝いなら出来るよ。あたしを雇ってくれんならね。」[女冒険家はアイアンとヴェールを上昇させる砲撃手の幹部です。]@{M}\"Afternoon, [q:Addressed As]. Looking for a gunnery officer? I'd like to help you blow up monsters, if you'll have me.\" [The Adventuress is a Gunnery Officer who increases Iron and Veils.]",
+                    "Name": "幹部として勧誘する: 長老会の女冒険家@{M}$Officer -> オフィサー, Presbyter -> プレズビター$Engage an Officer: the Presbyterate Adventuress",
+                    "Description": "「ご機嫌よう、[q:Addressed As]。砲撃手をお探しかい?怪物を吹き飛ばす手伝いなら出来るよ。あたしを雇ってくれんならね。」[女冒険家はアイアンとヴェールを上昇させる砲撃手の幹部です。]@{M}$Officer -> オフィサー, Aft -> 後部$\"Afternoon, [q:Addressed As]. Looking for a gunnery officer? I'd like to help you blow up monsters, if you'll have me.\" [The Adventuress is a Gunnery Officer who increases Iron and Veils.]",
                     "ButtonText": "", "Id": 144718},
                    {"DefaultEvent": {"Description": "貴方は忙しない茶色通りの雑踏と喧騒の中に戻って行く。@{M}You return to the babble and press of the busy brown streets.",
                                      "LinkToEvent": {"Id": 143316}, "Name": "離れろ@{M}Away",
@@ -10,5 +10,6 @@
                     "Name": "蝸牛を撃つ彼女の邪魔をしない@{M}Leave her to her snails",
                     "Description": "新しい船員は、今のところ探していない。@{M}You're not looking for new crew just now.",
                     "ButtonText": "", "Id": 147212}],
- "Description": "くたびれた王国海軍の軍服を身に纏った長身の女性が、崩れた彫像の上の大きな陸蝸牛を念入りに撃っている。@{M}A tall woman in a salt-caked Royal Navy uniform is methodically shooting giant land snails off a chunk of fallen statue. ",
- "Name": "長老会の女冒険家@{M}The Presbyterate Adventuress", "Id": 177783}
+ "Description": "くたびれた王国海軍の軍服を身に纏った長身の女性が、崩れた彫像の上の大きな陸蝸牛を念入りに撃っている。@{M}$Royal Navy -> 王立海軍$A tall woman in a salt-caked Royal Navy uniform is methodically shooting giant land snails off a chunk of fallen statue. ",
+ "Name": "長老会の女冒険家@{M}$Presbyter -> プレズビター$The Presbyterate Adventuress",
+ "Id": 177783}

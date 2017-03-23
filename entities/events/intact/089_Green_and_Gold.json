@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "Look back one last time, at where the zee is dark, and the lights of London invisible. You cannot go back; and yet the traveller is always returning. One came below, long ago, seeking what the Sun had hid. One will rise, one day, to face the White in its hall of poisoned crystal.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$the White -> 白きもの$Look back one last time, at where the zee is dark, and the lights of London invisible. You cannot go back; and yet the traveller is always returning. One came below, long ago, seeking what the Sun had hid. One will rise, one day, to face the White in its hall of poisoned crystal.",
                                      "Name": "-", "Id": 187726},
                     "Name": "Once, you said...",
                     "Description": "\"The zee is wide, but I'll always return home.\"",

@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "\"Splendid!\" The Travel-Writer snaps his journal shut like a trap. \"The Cumaean Canal next, I think.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Cumaean Canal -> クーマエ運河$\"Splendid!\" The Travel-Writer snaps his journal shut like a trap. \"The Cumaean Canal next, I think.\"",
                                      "Name": "A next chapter", "Id": 255576},
                     "Name": "Give the Travel-Writer passage",
                     "Description": "A hundred and fifty echoes, you say? Why not?",

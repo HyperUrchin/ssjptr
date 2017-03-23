@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "One of the vergers glances up into the tower's heights. The other studies the prongs of his trident. \"Bell was here before we were. But it's not from the surface. Royal Navy brought it, they say. But not regulars. Deserters or something. Strange crew.\"\u000d\u000a\u000d\u000a\"What happens when you ring it?\" He exchanges glances with his companion. \"If you ring it, you'll find out.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Royal Navy -> 王立海軍$One of the vergers glances up into the tower's heights. The other studies the prongs of his trident. \"Bell was here before we were. But it's not from the surface. Royal Navy brought it, they say. But not regulars. Deserters or something. Strange crew.\"\u000d\u000a\u000d\u000a\"What happens when you ring it?\" He exchanges glances with his companion. \"If you ring it, you'll find out.\"",
                                      "LinkToEvent": {"Id": 243316}, "Name": "A resonant delivery",
                                      "Id": 243317},
                     "Name": "Ask about the bell",

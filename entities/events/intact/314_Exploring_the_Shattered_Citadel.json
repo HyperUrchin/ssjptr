@@ -32,5 +32,6 @@
                     "Name": "Retrace your steps",
                     "Description": "Back - out? Up? Before? Very quickly, directions in here become impossible.",
                     "ButtonText": "", "Id": 131683}],
- "Description": "All the Neath is dark. The Citadel is dark as only a once-bright place can be. It hung up there among the false-stars, drowned in azure light, for... how long? Now it's here. So are you. [Very bad things will happen if you run out of candles.]",
- "Name": "Exploring the Shattered Citadel", "Id": 155227}
+ "Description": "$false-star -> 偽星$All the Neath is dark. The Citadel is dark as only a once-bright place can be. It hung up there among the false-stars, drowned in azure light, for... how long? Now it's here. So are you. [Very bad things will happen if you run out of candles.]",
+ "Name": "$Shattered Citadel -> 砕かれた砦$Exploring the Shattered Citadel",
+ "Id": 155227}

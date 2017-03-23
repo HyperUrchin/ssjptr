@@ -1,7 +1,8 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "台緬 - ハン王国で最も恐れられる一味 - が、公共風紀省を掌握した。総督府の扉は堅く閉じられており、愛国者達は道影に追いやられた。白金隊 - ハン王国の秘密警察 - が道のそこかしこに見える...@{M}The Taimen - the most feared clan in the Khanate - has taken control of the Ministry of Public Decency.The Admiralty's doors are locked. Patriots do not prosper. The White-and-Golds, the Khaganian secret police, have been seen in the streets...",
+{"ChildBranches": [{"DefaultEvent": {"Description": "台緬 - ハン王国で最も恐れられる一味 - が、公共風紀省を掌握した。総督府の扉は堅く閉じられており、愛国者達は道影に追いやられた。白金隊 - ハン王国の秘密警察 - が道のそこかしこに見える...@{M}$Khan -> カーン, Khaganian -> カーネイト人, Admiralty -> 海軍省, Ministry of Public Decency -> 良俗省, Khanate -> カーネイト, Taimen -> テイメン$The Taimen - the most feared clan in the Khanate - has taken control of the Ministry of Public Decency.The Admiralty's doors are locked. Patriots do not prosper. The White-and-Golds, the Khaganian secret police, have been seen in the streets...",
                                      "Name": "全てと皆無と@{M}Everything and nothing", "Id": 172906},
                     "Name": "新しい土地を調べる@{M}Examine the new landscape",
                     "Description": "珈琲屋でくつろげる席を探し、新聞を読む。要人と顔を合わせ、気取られないほど小さな声で質問を投げかける。@{M}Find a comfortable seat in a coffee-house. Review the papers. Meet your contacts. Ask your questions very quietly",
                     "ButtonText": "", "Id": 141685}],
- "Description": "見出しにはこう書かれている。\"恥辱の極み、女帝は二度国を売る。\"今日、議会が\"従属条例\"を批准した。ハン王国の庇護を受け入れ、海軍の解体を進める、という内容だった。@{M}FOR SHAME, cry the headlines. EMPRESS TWICE-TRAITOR. Today, Parliament ratifies the Cliency Act, accepting Khanate protection and beginning the dissolution of the Navy.",
- "Name": "日出づる勢いのハン王国@{M}The Khanate Ascendant", "Id": 172905}
+ "Description": "見出しにはこう書かれている。\"恥辱の極み、女帝は二度国を売る。\"今日、議会が\"従属条例\"を批准した。ハン王国の庇護を受け入れ、海軍の解体を進める、という内容だった。@{M}$Khan -> カーン, Khanate -> カーネイト$FOR SHAME, cry the headlines. EMPRESS TWICE-TRAITOR. Today, Parliament ratifies the Cliency Act, accepting Khanate protection and beginning the dissolution of the Navy.",
+ "Name": "日出づる勢いのハン王国@{M}$Khan -> カーン, Khanate -> カーネイト$The Khanate Ascendant",
+ "Id": 172905}

@@ -10,7 +10,7 @@
                     "Name": "Say no dishonestly",
                     "Description": "There's nothing she needs to hear.",
                     "ButtonText": "", "Id": 127755},
-                   {"DefaultEvent": {"Description": "The admission is harder than you might have expected. You don't go into detail, and she doesn't press you for further explanations.\u000d\u000a\u000d\u000a\"After all, if it's bad enough, I'll find out in the end,\" she says, her eyes glittering sideways at you through her goggles.",
+                   {"DefaultEvent": {"Description": "$Aft -> 後部$The admission is harder than you might have expected. You don't go into detail, and she doesn't press you for further explanations.\u000d\u000a\u000d\u000a\"After all, if it's bad enough, I'll find out in the end,\" she says, her eyes glittering sideways at you through her goggles.",
                                      "LinkToEvent": {"Id": 149012}, "Name": "A moment in silence",
                                      "Id": 148995},
                     "Name": "Admit that you do have certain secrets",

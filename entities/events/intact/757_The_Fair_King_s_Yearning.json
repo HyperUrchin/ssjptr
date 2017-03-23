@@ -11,7 +11,7 @@
                                      "LinkToEvent": {"Id": 243326}, "Name": "", "Id": 244639},
                     "Name": "Clap the Fair King on the shoulder",
                     "Description": "You are friends.", "ButtonText": "", "Id": 186765},
-                   {"DefaultEvent": {"Description": "The Fair King has a fine grip, and beams up at you. He laughs just as you heard him laugh at the station, when you first met. He wheels his throne to a wall of charts; you stand at his side. He looks up at you - were his eyes always so blue? \u000d\u000a\u000d\u000aYou look out at the kaleidoscopic reaches of the High Wilderness. You'll do good work together. You adjust a gauge, flick a knob. His hands move across his own panel. The old winds cannot stop you.",
+                   {"DefaultEvent": {"Description": "$High Wilderness -> 天上の荒野$The Fair King has a fine grip, and beams up at you. He laughs just as you heard him laugh at the station, when you first met. He wheels his throne to a wall of charts; you stand at his side. He looks up at you - were his eyes always so blue? \u000d\u000a\u000d\u000aYou look out at the kaleidoscopic reaches of the High Wilderness. You'll do good work together. You adjust a gauge, flick a knob. His hands move across his own panel. The old winds cannot stop you.",
                                      "LinkToEvent": {"Id": 243326}, "Name": "", "Id": 244640},
                     "Name": "Shake his hand", "Description": "You are colleagues.",
                     "ButtonText": "", "Id": 186766},

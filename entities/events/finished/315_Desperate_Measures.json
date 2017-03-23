@@ -5,7 +5,7 @@
                     "ButtonText": "", "Id": 131685},
                    {"DefaultEvent": {"Description": "一人また一人、船員が悲運に絶望して行く。貴方が最後の一人だ。@{M}One by one, your crew abandon themselves to their fate. You are the last.",
                                      "Name": "もう終わりだ@{M}An end to it", "Id": 155235},
-                    "RareDefaultEvent": {"Description": "漕いで、流されて、また漕いで。寝て、起きて。洞窟の天井から滴り落ちる雨露を集めて。ジーから魚を釣り上げて。王立海軍の監視隊が貴方に近づいてくるまでそれは続いた。彼らは貴方を拾い上げにやってきた。\"うすのろめ、\"貴方はそんな嘲りを伴った呟きを聞く。\u000d\u000a彼らは貴方をクーマエ運河の外れの海岸で下ろす事が出来るようだ。@{M}Row, drift, row. Sleep, wake. Gather rain-drips from the cavern roof. Hoik fish from the zee. Until a Royal Navy picket comes within yards of running you down. They come about and pick you up. \"Lubbers,\" you hear a rating mutter.\u000d\u000a\u000d\u000aThey can put you ashore at the end of the Cumaean Canal.",
+                    "RareDefaultEvent": {"Description": "漕いで、流されて、また漕いで。寝て、起きて。洞窟の天井から滴り落ちる雨露を集めて。ジーから魚を釣り上げて。王立海軍の監視隊が貴方に近づいてくるまでそれは続いた。彼らは貴方を拾い上げにやってきた。\"うすのろめ、\"貴方はそんな嘲りを伴った呟きを聞く。\u000d\u000a彼らは貴方をクーマエ運河の外れの海岸で下ろす事が出来るようだ。@{M}$Royal Navy -> 王立海軍, Cumaean Canal -> クーマエ運河$Row, drift, row. Sleep, wake. Gather rain-drips from the cavern roof. Hoik fish from the zee. Until a Royal Navy picket comes within yards of running you down. They come about and pick you up. \"Lubbers,\" you hear a rating mutter.\u000d\u000a\u000d\u000aThey can put you ashore at the end of the Cumaean Canal.",
                                          "Name": "幸運の中の幸運@{M}The luckiest of chances",
                                          "Id": 181234},
                     "Name": "船を見捨てる@{M}Abandon Ship",

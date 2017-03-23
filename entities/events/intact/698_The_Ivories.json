@@ -4,7 +4,7 @@
                     "RareDefaultEvent": {"Description": "The trader scrutinises a drowning-pearl that, to your eye, is identical to its fellows. \"A beautiful specimen. That's worth a bit extra.\" He hands you something in an octopus-skin bag. \"Don't be surprised. It's not as if the rule of law encourages honesty. This is about my reputation.\"",
                                          "LinkToEvent": {"Id": 239965}, "Name": "A fine deal",
                                          "Id": 240623},
-                    "Name": "Trade in Outlandish Artefacts",
+                    "Name": "$Outlandish Art[ie]fact -> 風変わりな工芸品$Trade in Outlandish Artefacts",
                     "Description": "Nook's lack of regulation has created a small but flourishing trade in antiquarian curios of questionable provenance.",
                     "ButtonText": "", "Id": 183735},
                    {"DefaultEvent": {"LinkToEvent": {"Id": 239980}, "Id": 239979},
@@ -31,5 +31,5 @@
                     "Name": "Pursue your investigations",
                     "Description": "The Maw convulses. The Dockworkers pause only briefly. Their expressions are not stoical - their faces bear the fixed smiles of those unwilling to admit to fear.\u000d\u000a\u000d\u000aWhat is causing these Maw quakes? If they began when the children disappeared, might they be connected?",
                     "ButtonText": "", "Id": 183733}],
- "Description": "The area throbs with activity. Merchants cry their wares and buoy goods for easy transport to and from the docked zubmarines. Crates and barrels flow around you, skillfully directed by vigorous Nookers. \u000d\u000a\u000d\u000aKnots are double checked and lines twice tested - but the unaccustomed shaking and quaking of the Maw is otherwise doing little to interfere with commerce. ",
+ "Description": "$Knot -> ノット$The area throbs with activity. Merchants cry their wares and buoy goods for easy transport to and from the docked zubmarines. Crates and barrels flow around you, skillfully directed by vigorous Nookers. \u000d\u000a\u000d\u000aKnots are double checked and lines twice tested - but the unaccustomed shaking and quaking of the Maw is otherwise doing little to interfere with commerce. ",
  "Name": "The Ivories", "Id": 239965}

@@ -8,5 +8,5 @@
                     "Name": "執着する@{M}Obsess",
                     "Description": "温かくて、歯ざわりが良くて、湯煙が立って、シャキっとして。酸っぱくて、甘くて、柔らかくて、塩っぱくて。これらの言葉を味わおう。@{M}Warm, crispy, steaming, crunchy; tart, sweet, soft, salty. Savour these words.",
                     "ButtonText": "", "Id": 126573}],
- "Description": "濃厚なミルクと蜂蜜が入った温かいポリッジ。ローストチキンの香しい匂い。ムットン島で味わった、弾力のある肉塊。採れたてのエデン茸の肉厚で歯ざわりの良い身。ああ...神様。@{M}Hot porridge with creamy milk and honey. The smell of roast chicken. Rubbery Lumps, the way they cook them on Mutton Island. The crisp flesh of a newly unearthed eden-fungus. O God.",
+ "Description": "濃厚なミルクと蜂蜜が入った温かいポリッジ。ローストチキンの香しい匂い。ムットン島で味わった、弾力のある肉塊。採れたてのエデン茸の肉厚で歯ざわりの良い身。ああ...神様。@{M}$Rubbery Lump -> ルベリー・ランプ, Mutton Island -> マトン・アイランド$Hot porridge with creamy milk and honey. The smell of roast chicken. Rubbery Lumps, the way they cook them on Mutton Island. The crisp flesh of a newly unearthed eden-fungus. O God.",
  "Name": "飽食の記憶@{M}Memories of plenty", "Id": 147230}

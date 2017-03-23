@@ -11,7 +11,7 @@
                    {"DefaultEvent": {"Description": "貴方が寺院に近づくに連れ、鐘の音はより大きく、より反響して聞こえる。@{M}The sound of the bells grows louder and more reverberant as you approach.",
                                      "LinkToEvent": {"Id": 152375}, "Name": "", "Id": 152446},
                     "Name": "ミヒルの寺院@{M}Temple of Mihir",
-                    "Description": "それはヴァルカスの中心部、神聖区に聳える。@{M}It lies in the Sacred District, at the centre of Varchas.",
+                    "Description": "それはヴァルカスの中心部、神聖区に聳える。@{M}$Varchas -> ヴァーチャス$It lies in the Sacred District, at the centre of Varchas.",
                     "ButtonText": "", "Id": 129901},
                    {"DefaultEvent": {"Description": "結局彼は貴方を招き入れた。@{M}Well, he did invite you, after all.",
                                      "LinkToEvent": {"Id": 152367}, "Name": "", "Id": 152447},
@@ -20,7 +20,7 @@
                     "ButtonText": "", "Id": 129902},
                    {"DefaultEvent": {"Description": "ワイングラスのぶつかる音と、気さくな掛け声のする方向に向かえば良い。@{M}Follow the clink of wine-glasses and the companionable shouts.",
                                      "LinkToEvent": {"Id": 152390}, "Name": "", "Id": 152448},
-                    "Name": "ヴァルカスの娯楽@{M}Entertainments in Varchas",
+                    "Name": "ヴァルカスの娯楽@{M}$Varchas -> ヴァーチャス$Entertainments in Varchas",
                     "Description": "西の方には酒場や遊技場がある。@{M}There are bars and gaming-houses to the west. ",
                     "ButtonText": "", "Id": 129903},
                    {"DefaultEvent": {"Description": "ヴァルカーシ達の興奮と未来への衝動によってこの旅が突き動かされない事は、恐らく難しいだろう。@{M}It is hard not to be carried along by the excitement and anticipation of the Varchaasi.",
@@ -33,5 +33,6 @@
                     "Name": "宿屋@{M}The Inn",
                     "Description": "夕方、5つ目の鐘が鳴り響いた後、ターマスはそれぞれ部屋を充てがわれる。@{M}At evening, after the fifth bell, each Taamas is assigned a room.",
                     "ButtonText": "", "Id": 129914}],
- "Description": "貴方は蔓と茸花で彩られた中庭の回廊を歩く。長く真っ直ぐに伸びた車道がヴァルカスを縦横無尽に横切り、敷き詰められた石が、荷車の車輪と、行き交う幾千の靴によってすり減っていた。\u000d\u000a\u000d\u000a灯火夫が張り出し燭台の燃料を絶えず確認し、火芯を交換している。灯火管理人は鏡の角度を調節する渦巻きバネ機構を監視していた。\u000d\u000a\u000d\u000a此処には探索する場所が多く存在する。次は何処へ行こうか?@{M}You walk galleried courtyards wreathed with vines and fungal blooms. Long straight roadways criss-cross the length and breadth of Varchas, the stone worn by the wheels of carts and the tread of thousands of slippered feet.\u000d\u000a\u000d\u000aLamp-Lighters constantly check the fuel-levels of the sconces, and replace wicks; Fire-Keepers check the coiled-spring mechanisms that control the angle of the mirrors.\u000d\u000a\u000d\u000aThere is much to explore; where will you go next?",
- "Name": "ヴァルカス繁華街@{M}The Centre of Varchas", "Id": 152443}
+ "Description": "貴方は蔓と茸花で彩られた中庭の回廊を歩く。長く真っ直ぐに伸びた車道がヴァルカスを縦横無尽に横切り、敷き詰められた石が、荷車の車輪と、行き交う幾千の靴によってすり減っていた。\u000d\u000a\u000d\u000a灯火夫が張り出し燭台の燃料を絶えず確認し、火芯を交換している。灯火管理人は鏡の角度を調節する渦巻きバネ機構を監視していた。\u000d\u000a\u000d\u000a此処には探索する場所が多く存在する。次は何処へ行こうか?@{M}$Varchas -> ヴァーチャス$You walk galleried courtyards wreathed with vines and fungal blooms. Long straight roadways criss-cross the length and breadth of Varchas, the stone worn by the wheels of carts and the tread of thousands of slippered feet.\u000d\u000a\u000d\u000aLamp-Lighters constantly check the fuel-levels of the sconces, and replace wicks; Fire-Keepers check the coiled-spring mechanisms that control the angle of the mirrors.\u000d\u000a\u000d\u000aThere is much to explore; where will you go next?",
+ "Name": "ヴァルカス繁華街@{M}$Varchas -> ヴァーチャス$The Centre of Varchas",
+ "Id": 152443}

@@ -12,10 +12,11 @@
                     "Name": "Let them go hunting with Chelonites",
                     "Description": "The tomb-colonists are grinning and bobbing up and down like a gang of small children. It'd be very dangerous. That's probably why they're so happy.",
                     "ButtonText": "", "Id": 143195},
-                   {"DefaultEvent": {"Description": "Polythreme is known to the Chelonate, it seems. Their Sniffers and Sounders have identified the bandage-colony as a 'hearts-licker spy'. The colony is torn to pieces by a very determined mob. A tomb-colonist who gets in their way suffers the same fate. The others remain prudently below decks.",
+                   {"DefaultEvent": {"Description": "$Chelonate -> キェロネイト, Polythreme -> ポリズリーム$Polythreme is known to the Chelonate, it seems. Their Sniffers and Sounders have identified the bandage-colony as a 'hearts-licker spy'. The colony is torn to pieces by a very determined mob. A tomb-colonist who gets in their way suffers the same fate. The others remain prudently below decks.",
                                      "Name": "Shouts of rage", "Id": 175341},
                     "Name": "A Bandage-Colony Reveal'd!",
                     "Description": "Your bandage-colony has drawn undue attention!",
                     "ButtonText": "", "Id": 143196}],
  "Description": "\"A big, dead, big, hollow, big, stinking, big, reptile! For the first time in twenty years, I do not miss my once-acute sense of smell. Still! I expect good hunting.\"",
- "Name": "Tomb-Colonists in the Chelonate", "Id": 166080}
+ "Name": "$Chelonate -> キェロネイト$Tomb-Colonists in the Chelonate",
+ "Id": 166080}

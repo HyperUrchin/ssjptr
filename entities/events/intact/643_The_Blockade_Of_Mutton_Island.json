@@ -1,7 +1,8 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "\"Mutton Island is under quarantine,\" a wan lookout calls, in a shaky voice. \"Until such time as proper manners and appetites are restored!\" You'll find no welcome here.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Mutton Island -> マトン・アイランド$\"Mutton Island is under quarantine,\" a wan lookout calls, in a shaky voice. \"Until such time as proper manners and appetites are restored!\" You'll find no welcome here.",
                                      "Name": "Turned away", "Id": 230527},
                     "Name": "Slow the engines",
                     "Description": "The frigate is blocking the jetty, preventing you from landing.",
                     "ButtonText": "", "Id": 177556}],
  "Description": "An admiralty frigate sits in the harbour. Most of its guns, you notice, are trained on the village.",
- "Name": "The Blockade Of Mutton Island", "Id": 230526}
+ "Name": "$Mutton Island -> マトン・アイランド$The Blockade Of Mutton Island",
+ "Id": 230526}

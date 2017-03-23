@@ -1,8 +1,8 @@
-{"ChildBranches": [{"SuccessEvent": {"Description": "You send your crew out into the dark. From the observation dome, you watch them become silhouettes against the light of the Fluke. Its pale radiance grows in strength as the flesh sloughs away. It is like the last moments of a near-spent candle. Your crew hurry to gather up the firmer flesh-pieces. In an instant, the zee is dark. Your crew make their way back slowly, laden with armfuls of organs like amber eggs. ",
+{"ChildBranches": [{"SuccessEvent": {"Description": "$Fluke -> フルーク$You send your crew out into the dark. From the observation dome, you watch them become silhouettes against the light of the Fluke. Its pale radiance grows in strength as the flesh sloughs away. It is like the last moments of a near-spent candle. Your crew hurry to gather up the firmer flesh-pieces. In an instant, the zee is dark. Your crew make their way back slowly, laden with armfuls of organs like amber eggs. ",
                                      "Name": "Radiance ", "Id": 243436},
-                    "DefaultEvent": {"Description": "You send your crew out into the dark. From the observation dome, you watch them become silhouettes against the light of the Fluke. Its pale radiance grows in strength as the flesh sloughs away. It is like the last moments of a near-spent candle. In an instant, the zee is dark. As your crew turn to return, one fights to stay among the last of the luminescence. Your crew return without her: \"Went for my airline. Wasn't worth the risk.\" ",
+                    "DefaultEvent": {"Description": "$Fluke -> フルーク$You send your crew out into the dark. From the observation dome, you watch them become silhouettes against the light of the Fluke. Its pale radiance grows in strength as the flesh sloughs away. It is like the last moments of a near-spent candle. In an instant, the zee is dark. As your crew turn to return, one fights to stay among the last of the luminescence. Your crew return without her: \"Went for my airline. Wasn't worth the risk.\" ",
                                      "Name": "Away in the dark ", "Id": 242602},
-                    "Name": "Send some of your crew to harvest the Fluke  ",
+                    "Name": "$Fluke -> フルーク$Send some of your crew to harvest the Fluke  ",
                     "Description": "This fluke is particularly unusual. Its flesh may hold something of value. ",
                     "ButtonText": "", "Id": 185484},
                    {"SuccessEvent": {"Description": "The hollow chamber of the observation dome is illuminated with a pale radiance. The ships' surgeon has been peeling their way closer to the core. Pieces of fluke, like soft lumps of amber, lie dripping on the steel floor. The surgeon abruptly ceases dictating their dissection: \"Oh god! The warmth!\" They press their arms into the core, rubbing their face against it. The fluke core collapses wetly; your surgeon looks up.  \"Radiance... the sun the sun the sun...\" ",
@@ -12,5 +12,6 @@
                     "Name": "Fetch a piece of the fluke to study.",
                     "Description": "That colour! That light! It demands investigation ",
                     "ButtonText": "", "Id": 185978}],
- "Description": "Pale light oozes from the ruined flesh of the fluke. Its amber spines are slowly liquefying into a gel. Luminescence spreads through the water as the Dawn Fluke dissipates.",
- "Name": "You have defeated a Dawn Fluke", "Id": 242601}
+ "Description": "$Fluke -> フルーク$Pale light oozes from the ruined flesh of the fluke. Its amber spines are slowly liquefying into a gel. Luminescence spreads through the water as the Dawn Fluke dissipates.",
+ "Name": "$Fluke -> フルーク$You have defeated a Dawn Fluke",
+ "Id": 242601}

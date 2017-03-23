@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "He smiles in the manner of a corpse whose skin has just dried out. \"Excellent. You'll find it in Wrack, City of Pleasures. I'll be waiting for you on the Uttershroom, where my studies continue.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Uttershroom -> アターシュルーム$He smiles in the manner of a corpse whose skin has just dried out. \"Excellent. You'll find it in Wrack, City of Pleasures. I'll be waiting for you on the Uttershroom, where my studies continue.\"",
                                      "LinkToEvent": {"Id": 152332}, "Name": "", "Id": 246098},
                     "Name": "Accept the task",
                     "Description": "You'll get him a jarful of tether, no trouble.",

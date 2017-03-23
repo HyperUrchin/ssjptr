@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "The guilty rodent is released back to his family, all wheeking with relief. Few claim justice has not been done. But it is not the last such theft, and with each one, it becomes harder for the [q:Pigmote Isle: Mastery]ns to tell where the line between clemency and weakness is drawn.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Pigmote Isle -> ピグモート・アイル$The guilty rodent is released back to his family, all wheeking with relief. Few claim justice has not been done. But it is not the last such theft, and with each one, it becomes harder for the [q:Pigmote Isle: Mastery]ns to tell where the line between clemency and weakness is drawn.",
                                      "Name": "Forgiven and forgotten", "Id": 209686},
                     "Name": "Advocate mercy",
                     "Description": "His actions were understandable, if unfortunate.",
@@ -14,4 +14,5 @@
                     "Description": "Insist the wretch be hung, drawn, quartered and the pieces impaled on spikes as a warning to all! And his family too!",
                     "ButtonText": "", "Id": 164879}],
  "Description": "A guilty rodent stands, his head bowed. The aide pushes him forward. \"Hairless Adviser, this traitor stole food from our stores. To feed a sick child, he claims. Do we show mercy or make an example of the wretch?\"",
- "Name": "A Dilemma On Pigmote Isle", "Id": 209685}
+ "Name": "$Pigmote Isle -> ピグモート・アイル$A Dilemma On Pigmote Isle",
+ "Id": 209685}
