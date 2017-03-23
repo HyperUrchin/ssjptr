@@ -1,8 +1,3 @@
-natural philosopher, 自然哲学者
-ordained priest, 叙階された聖職者
-veteran of the Campaign of '68, '68年戦争の退役軍人
-poet, 詩人
-street urchin, 浮浪児
 Officer, オフィサー
 Ambition, 大望
 Zeefaring Life, 船乗りとしての生活
@@ -10,19 +5,17 @@ false-star, 偽星
 Postal-Rat, 郵便ネズミ
 prow-lamp, 船首灯
 running lights, 航海灯
-deck gun|deck weapon, 甲板砲
 Deck, 甲板
 Forward, 前部
 Auxiliary, 補助
 Aft, 後部
 Bridge, 船橋
-Skill, スキル
 Revenue Man, 徴税官
 Shapeling, シェイプリング
 Midnighter, ミッドナイター
 Truthbreaker Turbine, 真実砕きのタービン
-Clay Man, クレイマン
-Unfinished Man, 未完成クレイマン
+Clay M[ae]n, クレイマン
+Unfinished M[ae]n, 未完成クレイマン
 sorrow-spider, ソロウ・スパイダー
 Greyfields, グレイフィールズ
 Broken Giant, ブロークン・ジャイアント
@@ -48,7 +41,7 @@ Fingerking, フィンガーキング
 Khan, カーン
 Khaganian Navy, カーネイト海軍
 Khaganian, カーネイト人
-Serpent Image, 蛇の彫像
+Serpent[- ]Image, 蛇の彫像
 Mountain of Light, 光輝の山
 Learning About:, 事情を知る:
 Supremacy:, 覇権:
@@ -59,14 +52,11 @@ Great Signs, グレート・サイン
 Sundered Sea, 分かたれた海
 Sacks and Snow:, 袋と雪:
 Drown(y|ies), ドロウニー
-Overheard on Deck:, 甲板の会話:
 Leadbeater & Stainrod, リードビーター&ステインロッド
 Cotterell & Hathersage, コットレル&ハザーセージ
 exile's rose, 流浪者のバラ
 lamplighter bee, 灯点けミツバチ
 Chief Engineer, 機関長
-engineer, 機関士
-stoker, 機関員
 deep amber, ディープ・アンバー
 Snuffer, スナッファー
 Great Shell, 大いなる甲羅
