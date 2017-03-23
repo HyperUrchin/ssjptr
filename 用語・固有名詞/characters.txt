@@ -25,6 +25,7 @@ Gracious Widow, 心優しい未亡人
 Sly Navigator, 賢しげな航海士
 Shady Cook, 胡散臭い料理人
 Gall-eyed Engineer, 目玉の膨れたエンジニア
+Longshanks Gunner, 『育ちすぎ』の砲手
 Nacreous Outcast, 真珠族の除け者
 Assigner of Corpse, 死体任命者
 Mr Fires, ミスター・ファイア
