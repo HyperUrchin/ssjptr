@@ -44,7 +44,7 @@
                                      "LinkToEvent": {"Id": 143367}, "Name": "人物図鑑@{I}A portrait gallery",
                                      "Id": 181413},
                     "Name": "港湾報告書をまとめる@{I}$Port Report -> 港湾報告書$Assemble a Port Report",
-                    "Description": "　この土地の真の悪徳が完全に理解されたことなどない。@{I}The true depravity of the place has never been fully understood.",
+                    "Description": "　この土地の真の悪徳が完全に理解されたことはない。@{I}The true depravity of the place has never been fully understood.",
                     "ButtonText": "", "Id": 146898},
                    {"DefaultEvent": {"Description": "　今日ここに住む者たちの素性や来歴は気にかけるまでもない。ナンシノウの歴史はその住民よりも古い。この地の引力は、晴れやかな激情、飼いならせない隔たりと重圧、そしてありふれた海流。人々の間で交わされる手紙は、その書き手が水底の骨となっても生きながらえる。@{I}$Nuncio -> ナンシノウ$Never mind who lives here now, or how they came. Nuncio is older than its inhabitants. Its Pull is a glad fury, defying distance and weight and normal currents, so that the messages between beings may survive even when the writers themselves are bones on the sea floor.",
                                      "LinkToEvent": {"Id": 143367},
