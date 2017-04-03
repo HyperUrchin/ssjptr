@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "　門衛はサメの肌を持ち、溺れた女の目をしていた。彼女は両手がどうなっているのかは見せてくれなかった。「良いだろう」耳障りな声で、彼女は言った。「満足のゆく物語だ」<br/>　彼女は真珠の弁を開き、あなたが暗渠の中を通るのを許した。@{I}The Porter has the skin of a shark. She has a drowned woman's eyes. It is not permitted to look at her hands. \"Yes,\" she rasps. \"That story is sufficient.\"\u000d\u000a\u000d\u000aShe opens the Valves of Pearl, and permits you to pass into the conduit.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "　門衛はサメの肌を持ち、溺れた女の目をしていた。彼女は両手がどうなっているのかは見せてくれなかった。「良いだろう」耳障りな声で、彼女は言った。「満足のゆく物語だ」<br/><br/>　彼女は真珠の弁を開き、あなたが暗渠の中を通るのを許した。@{I}The Porter has the skin of a shark. She has a drowned woman's eyes. It is not permitted to look at her hands. \"Yes,\" she rasps. \"That story is sufficient.\"\u000d\u000a\u000d\u000aShe opens the Valves of Pearl, and permits you to pass into the conduit.",
                                      "LinkToEvent": {"Id": 169643},
                                      "Name": "門衛に話しかける@{I}Speaking to the Porter", "Id": 143362},
                     "Name": "下でファザムキングに謁見する@{I}$Fathomking -> ファザムキング$Descend to an audience with the Fathomking",
