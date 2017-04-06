@@ -20,7 +20,7 @@
                     "ButtonText": "", "Id": 131522},
                    {"DefaultEvent": {"Description": "The shopkeeper opens a trap-door. A pale and surly youth comes up, blinking, and hastily dons a pair of dark glasses. He helps you carry the Long-Box down to the dock, mute all the way.",
                                      "Name": "A misplaced delivery?", "Id": 154992},
-                    "Name": "Purchase a Soothe & Cooper Long-Box",
+                    "Name": "$Soothe (and|&) Cooper -> スード&クーパー$Purchase a Soothe & Cooper Long-Box",
                     "Description": "\"This great thing? It's been cluttering up my shop for too long. Please, take it off my hands. I mean to say, oh, I suppose I can part with it. For the usual price.\"",
                     "ButtonText": "", "Id": 131523},
                    {"DefaultEvent": {"Description": "$the White -> 白きもの, Khan -> カーン, Khanate -> カーネイト$\"Oh, no. No no. Mirrors are unloved here in the Khanate, you see. I can only suspect you of being a spy for the White-and-Golds. If I even had such a mirror, I could not sell it; and were you not a spy, still I would not d__n you with its seductions. Perhaps there is something else?\"",

@@ -43,7 +43,7 @@
                                          "LinkToEvent": {"Id": 149729},
                                          "Name": "クリスマスのようなもの@{I}Something like Christmas",
                                          "Id": 169526},
-                    "Name": "フェイバーネズミの技術者を雇う@{I}$rattus faber -> フェイバーネズミ$Employ rattus faber engineers",
+                    "Name": "フェイバーネズミの技術者を雇う@{I}$[Rr]attus faber -> フェイバーネズミ$Employ rattus faber engineers",
                     "Description": "　フォールン・ロンドンのネズミたちは卓越した技術者であり、船についてよく知っている。彼らはしかし、信頼の置ける相手とは言えない。支払いは通貨ではなく、物品で行われる。[これは船体をいくらか修復します。価格？何とも言えません。]@{I}$Fallen London -> フォールン・ロンドン$The rats of Fallen London are remarkably skilled engineers; and they know ships well. They are not, however, reliable. Payment is in kind, not currency. [This will repair some of your Hull. How much? Difficult to say.]",
                     "ButtonText": "", "Id": 128194},
                    {"SuccessEvent": {"Description": "　需品係は普段は好意的ではないのだが、しかし、あなたが持ち込んだ船乗りの冗談や港の噂話は、彼女から懐かしそうな笑いを引き出すのには十分だった。彼女は燃料の計量については実におおらかだった。@{I}The quartermaster is not usually friendly, but you have enough zailors' jokes and harbour gossip to set her laughing nostalgically. She is remarkably liberal about the measurement of fuel.",

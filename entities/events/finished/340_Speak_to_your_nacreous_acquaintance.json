@@ -10,7 +10,7 @@
                     "Name": "それを夕食に誘う@{M}Invite it to dine with you",
                     "Description": "貴方は適切な量の食事を用意する必要がある。@{M}You'll need a suitable morsel.",
                     "ButtonText": "", "Id": 137240},
-                   {"DefaultEvent": {"Description": "「塩花ぬ獅子...」それは舌をもつれさせながら話す。「サルツぬ注目。」そして、真剣な眼差しを貴方に向ける。明らかに、それが更なる言葉を伝える前に、塩花の獅子に向かいたいという事のようだ。少なくとも、人間の招待を拒否したこのゴムのような男を目撃出来るような場所に、他の船員は誰も居なかった。@{M}\"Shalt-Flions,\" it lisps. \"Shaltsh Ftention.\" It turns an earnest eye to you. Apparently it wants to visit the Salt-Lions before it will speak further to you. At least no other crew were around to witness a Rubbery Man rejecting a human invitation.",
+                   {"DefaultEvent": {"Description": "「塩花ぬ獅子...」それは舌をもつれさせながら話す。「サルツぬ注目。」そして、真剣な眼差しを貴方に向ける。明らかに、それが更なる言葉を伝える前に、塩花の獅子に向かいたいという事のようだ。少なくとも、人間の招待を拒否したこのゴムのような男を目撃出来るような場所に、他の船員は誰も居なかった。@{M}$Rubbery M[ae]n -> ラバリーマン$\"Shalt-Flions,\" it lisps. \"Shaltsh Ftention.\" It turns an earnest eye to you. Apparently it wants to visit the Salt-Lions before it will speak further to you. At least no other crew were around to witness a Rubbery Man rejecting a human invitation.",
                                      "LinkToEvent": {"Id": 165527},
                                      "Name": "それは頭を激しく振り、首筋に触手を叩きつけている@{M}It shakes its head firmly, tentacles slapping its neck",
                                      "Id": 165531},

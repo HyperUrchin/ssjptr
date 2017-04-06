@@ -63,7 +63,7 @@
                     "Name": "Fight off a Frenzied Assault",
                     "Description": "One, two - six, seven, eight - a rabble of leathery mummy-things, mouths agape, comes boiling from crevices. Crooked limbs reach for you.",
                     "ButtonText": "", "Id": 132102},
-                   {"SuccessEvent": {"Description": "$sorrow-spider -> ソロウ・スパイダー$You make your way through an asymmetrical foam of beehive dwellings, past faded frescos of the sea seen from above, beneath swags of cobweb where single sorrow-spiders scuttle, past a long-mummied human corpse. Its limbs are curled and knotted like vines. What happened here?",
+                   {"SuccessEvent": {"Description": "$[Ss]orrow-spider -> 悲哀蜘蛛$You make your way through an asymmetrical foam of beehive dwellings, past faded frescos of the sea seen from above, beneath swags of cobweb where single sorrow-spiders scuttle, past a long-mummied human corpse. Its limbs are curled and knotted like vines. What happened here?",
                                      "LinkToEvent": {"Id": 155227}, "Name": "Painstaking progress",
                                      "Id": 155894},
                     "DefaultEvent": {"Description": "Broken furniture carved in eye-twisting knots. Human bones flung carelessly in the corners, smeared and distorted like wax. Something was horribly wrong here. And you are horribly lost.",

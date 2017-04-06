@@ -9,4 +9,5 @@
                     "Description": "He's clearly weak with hunger. You can spare a little sustenance.",
                     "ButtonText": "", "Id": 130666}],
  "Description": "\"Oh thank god!\" the Dogged Apprentice gasps. \"I don't know how long I've been here... it's been days, weeks since I ran out of money. I've got to get back to Rosegate, beneath the waves.\" His crate rumbles beneath him. \"Please. Help me. And if you had anything I could eat...?\"",
- "Name": "Stranded in the Tomb Colonies", "Id": 152441}
+ "Name": "$Tomb[- ]Colon(y|ies) -> 墓人街$Stranded in the Tomb Colonies",
+ "Id": 152441}

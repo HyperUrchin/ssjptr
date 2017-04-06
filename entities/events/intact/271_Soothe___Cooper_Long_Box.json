@@ -4,4 +4,5 @@
                     "Description": "Curiosity kills.", "ButtonText": "",
                     "Id": 130149}],
  "Description": "Is it, in fact, a coffin?",
- "Name": "Soothe & Cooper Long-Box", "Id": 152840}
+ "Name": "$Soothe (and|&) Cooper -> スード&クーパー$Soothe & Cooper Long-Box",
+ "Id": 152840}

@@ -4,6 +4,6 @@
                     "Name": "There is a raw, broken certainty in their voices",
                     "Description": "Let it be a matter for another time then.",
                     "ButtonText": "", "Id": 138364}],
- "Description": "$sorrow-spider -> ソロウ・スパイダー, Nativity -> ネイティビティ$The Nativity has been dark since you awoke. Those of the crew that witnessed the sorrow-spiders' rage will not speak of it. Pressed, they only repeat, \"Not now. Please.\"",
+ "Description": "$[Ss]orrow-spider -> 悲哀蜘蛛, Nativity -> ネイティビティ$The Nativity has been dark since you awoke. Those of the crew that witnessed the sorrow-spiders' rage will not speak of it. Pressed, they only repeat, \"Not now. Please.\"",
  "Name": "$Nativity -> ネイティビティ$Silence of the Nativity",
  "Id": 167317}

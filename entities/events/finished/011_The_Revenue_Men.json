@@ -36,4 +36,5 @@
                     "Description": "　あなたが持っているこまごまとした物品について、彼らがいちいち知る必要はない。@{I}貴方の持っているつまらぬ物の詳細など、彼らはいちいち知る必要は無い。@{M}They needn't know about every little trinket you have.",
                     "ButtonText": "", "Id": 119008}],
  "Description": "　永遠なる女王陛下の下、関税庁は、良俗省とバザールの支配者たちと密に連携して職務にあたっている。今日は、あなたが彼らの査察対象として選ばれたようだ。彼らに生意気な口を利いてはならない。@{I}我らが忍耐強き女王陛下の税関役人は、公共風紀省とバザールの支配人双方の為に今日も業務にあたっている。今日彼らが検査の対象に選んだのは、貴方だった。彼らにはとりあえず大人しく従っておくべきだろう。\u000d\u000a@{M}$Customs Service -> 関税庁, Ministry of Public Decency -> 良俗省, Her Enduring Majesty -> 永遠なる女王陛下$Her Enduring Majesty's Customs Service works closely with both the Ministry of Public Decency, and the Masters of the Bazaar. Today, they have selected you for an inspection. Don't cheek them.",
- "Name": "徴税官@{I}税関役人@{M}The Revenue Men", "Id": 135245}
+ "Name": "徴税官@{I}税関役人@{M}$Revenue M[ae]n -> 徴税官$The Revenue Men",
+ "Id": 135245}

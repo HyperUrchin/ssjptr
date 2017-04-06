@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "The Dead Letter Office is still here, its machine still working, its baskets still filling with missed invitations and misplaced wills. Shouldn't it have been blasted away, destroyed by the force of what lies beneath?",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Dead Letter Office -> 配達不能郵便局$The Dead Letter Office is still here, its machine still working, its baskets still filling with missed invitations and misplaced wills. Shouldn't it have been blasted away, destroyed by the force of what lies beneath?",
                                      "LinkToEvent": {"Id": 180310}, "Name": "At the surface",
                                      "Id": 181373},
                     "Name": "Ascend", "Description": "There's no way out but up.",

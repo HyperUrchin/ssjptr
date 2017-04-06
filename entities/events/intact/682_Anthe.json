@@ -60,7 +60,7 @@
                    {"DefaultEvent": {"Description": "$Venderbight -> ヴェンダーバイト$She went clear in the skin to prevent bruising in the embrace of a mineralised wife. \u000d\u000a\u000d\u000a\"I thought I was rising to a challenge. I thought I should become a stronger person.\" Then she laughs. She does not offer the rest of the story, but you already know more than you would like.\u000d\u000a\u000d\u000aShe wishes to reach Venderbight without undue attention from strangers. She has a pile of bandages and a coffin she has built herself from scavenged wood. But she will need your help to do the rest. ",
                                      "LinkToEvent": {"Id": 238438}, "Name": "Plenty of bandages",
                                      "Id": 256175},
-                    "Name": "Offer passage to the Tomb Colonies",
+                    "Name": "$Tomb[- ]Colon(y|ies) -> 墓人街$Offer passage to the Tomb Colonies",
                     "Description": "There is a clear-skinned traveler who wishes to make an escape.",
                     "ButtonText": "", "Id": 191946},
                    {"DefaultEvent": {"Description": "Consult the woman with the cubical eyes. Learn how to accept the blessings that Anthe offers. Determine what is best for yourself, and whose companionship you seek in the bubble-caverns.",

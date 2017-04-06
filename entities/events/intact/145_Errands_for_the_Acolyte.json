@@ -10,7 +10,7 @@
                     "ButtonText": "", "Id": 127128},
                    {"DefaultEvent": {"Description": "Soothe meets you at the door. Cooper is not home.\u000d\u000a\u000d\u000aSoothe has a cauldron on the boil already, and in go the shavings. You wouldn't think they'd melt, but they go like butter, swirling into the mix.\u000d\u000a\u000d\u000a\"Have 'em bottled by tomorrow forenoon,\" Soothe says, not looking up from his stirring. ",
                                      "Name": "Boiling liquids", "Id": 148133},
-                    "Name": "A visit to Soothe and Cooper",
+                    "Name": "$Soothe (and|&) Cooper -> スード&クーパー$A visit to Soothe and Cooper",
                     "Description": "She has a little jar of heart-metal shavings, bits too small to be reused for any other purpose, picked out of the teeth of the nutcracker.",
                     "ButtonText": "", "Id": 127130},
                    {"DefaultEvent": {"Description": "$Clay M[ae]n -> クレイマン$It's sweltering inside the smithy. Best to deposit the boxes close to the door.\u000d\u000a\u000d\u000aThe smith follows your glance. \"Heat's not good for the Clay Men,\" he says. \"But the Acolyte doesn't much like it either, all bundled up the way she is.\"",

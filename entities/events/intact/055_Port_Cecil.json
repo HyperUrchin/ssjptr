@@ -23,7 +23,7 @@
                     "Name": "$Port Cecil -> ポート・セシル$Explore the coral knoll around Port Cecil",
                     "Description": "Sea laps dark around silvery coral. Humps and columns rise from the coral - a bewildering maze. Go carefully.",
                     "ButtonText": "", "Id": 127763},
-                   {"DefaultEvent": {"Description": "$Fallen London -> フォールン・ロンドン$Here is a Rubbery Man: one of the squid-faced bipedal things that infest the sadder hovels of Fallen London. It looks ill, or infected. The pearly glow of the coral throbs from a seam along its shoulder, its arm - pulses in its face-fronds. \"Otharooth,\" it pipes, cheerfully. It hands you a page of notes smeared with tangerine goo. Can Rubbery Men write? The hand is elegant and disciplined - times and dates precisely recorded.",
+                   {"DefaultEvent": {"Description": "$Rubbery M[ae]n -> ラバリーマン, Fallen London -> フォールン・ロンドン$Here is a Rubbery Man: one of the squid-faced bipedal things that infest the sadder hovels of Fallen London. It looks ill, or infected. The pearly glow of the coral throbs from a seam along its shoulder, its arm - pulses in its face-fronds. \"Otharooth,\" it pipes, cheerfully. It hands you a page of notes smeared with tangerine goo. Can Rubbery Men write? The hand is elegant and disciplined - times and dates precisely recorded.",
                                      "Name": "Rubbery torment", "Id": 153414},
                     "Name": "A contact in the labyrinth",
                     "Description": "$Port Cecil -> ポート・セシル$The Admiral gave you directions to take to meet your contact. Left, right, down, into the labyrinth of coral outside Port Cecil. Over the silvered vein. Past the castellations to the Unfinished Court.",

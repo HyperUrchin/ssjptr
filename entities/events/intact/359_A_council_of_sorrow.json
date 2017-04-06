@@ -10,7 +10,7 @@
                                      "Name": "\"Oh, my. Such pervasive propaganda...\"",
                                      "Id": 167646},
                     "Name": "$Tree of Ages -> ツリー・オブ・エイジズ$What of the Tree of Ages?",
-                    "Description": "$sorrow-spider -> ソロウ・スパイダー$A question! Why can the sorrow-spiders not send their own vessel to handle this problem?",
+                    "Description": "$[Ss]orrow-spider -> 悲哀蜘蛛$A question! Why can the sorrow-spiders not send their own vessel to handle this problem?",
                     "ButtonText": "", "Id": 138577},
                    {"DefaultEvent": {"Description": "But there is only one way to find out what.\u000d\u000a\u000d\u000a\"A simple task, is it not?\" says the Emissary of Spiders, no longer encumbered by his masters. He claps you on the shoulder. \"Do not of course neglect light to aid your search. Candles, yes. Candles enough to scare away the ghosts and burn the very skies a verdant green.\"",
                                      "Name": "There is more to this than there appears",

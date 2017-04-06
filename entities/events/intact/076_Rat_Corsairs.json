@@ -15,5 +15,5 @@
                     "Name": "Refuse the trade",
                     "Description": "You need your supplies. And they're vermin. [But rat-bites fester: you might lose crew.]",
                     "ButtonText": "", "Id": 124470}],
- "Description": "$rattus faber -> フェイバーネズミ$Ah, the gully: the ambusher's favourite terrain feature. It looked like such a short and easy way. But now a sudden flood of black and white fur confronts you: a starving torrent of rattus faber corsairs! Their chief addresses you in a piping unhuman voice: \"Easy there, me giants! We're in dire need, here. Lend us help, and we'll pay well for it. No need to fight.\" (But you notice his rat-hand is on the hilt of his rat-cutlass.)",
+ "Description": "$[Rr]attus faber -> フェイバーネズミ$Ah, the gully: the ambusher's favourite terrain feature. It looked like such a short and easy way. But now a sudden flood of black and white fur confronts you: a starving torrent of rattus faber corsairs! Their chief addresses you in a piping unhuman voice: \"Easy there, me giants! We're in dire need, here. Lend us help, and we'll pay well for it. No need to fight.\" (But you notice his rat-hand is on the hilt of his rat-cutlass.)",
  "Name": "Rat Corsairs", "Id": 143960}

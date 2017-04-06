@@ -179,5 +179,5 @@
                     "Description": "$Venderbight -> ヴェンダーバイト$There is whispering among the bandaged denizens of Venderbight: white carriages are visiting an abandoned storehouse. Maybe the Constable is looking into that?",
                     "ButtonText": "", "Id": 177595}],
  "Description": "甲板の上から、千を越す包帯巻きの死者達が咳き込み、足を引きずって歩く音が聞こえてくる。それはまるで、世界で最も落ち着きの無いコンサートの聴衆か、世界で最も疫病に乗っ取られた大聖堂のようだ。@{M}On deck, you can hear the sound that a thousand bandaged dead make as they shuffle and cough. It's something like the world's most restless concert audience, or the world's most plague-ridden cathedral.",
- "Name": "ベンダーバイトの墳墓街@{M}$Venderbight -> ヴェンダーバイト$The Tomb-Colony of Venderbight",
+ "Name": "ベンダーバイトの墳墓街@{M}$Tomb[- ]Colon(y|ies) -> 墓人街, Venderbight -> ヴェンダーバイト$The Tomb-Colony of Venderbight",
  "Id": 141878}

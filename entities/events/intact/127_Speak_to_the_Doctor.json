@@ -70,7 +70,7 @@
                     "Name": "Dine with the Determined Doctor",
                     "Description": "He will bring the wine, he tells you. Do you happen to have any more of that delightful zee-trout? No matter!",
                     "ButtonText": "", "Id": 146367},
-                   {"DefaultEvent": {"Description": "$sorrow-spider -> ソロウ・スパイダー$\"Eyes! What I could tell you about <i>eyes</i>!\" As the subject bounces from that to politics, to the intricacies of sunlight, to the complex breeding cycle of sorrow-spiders, it becomes impossible to keep up.\u000d\u000a\u000d\u000aStill, he is a man who intimately knows all of his subjects. You definitely leave feeling that you have learned something important, if perhaps not exactly what.",
+                   {"DefaultEvent": {"Description": "$[Ss]orrow-spider -> 悲哀蜘蛛$\"Eyes! What I could tell you about <i>eyes</i>!\" As the subject bounces from that to politics, to the intricacies of sunlight, to the complex breeding cycle of sorrow-spiders, it becomes impossible to keep up.\u000d\u000a\u000d\u000aStill, he is a man who intimately knows all of his subjects. You definitely leave feeling that you have learned something important, if perhaps not exactly what.",
                                      "LinkToEvent": {"Id": 147407}, "Name": "A distracted lesson",
                                      "Id": 180567},
                     "Name": "Increase your Hearts",

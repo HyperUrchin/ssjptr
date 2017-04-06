@@ -15,7 +15,7 @@
                     "Name": "Return to the boat",
                     "Description": "$Admiralty -> 海軍省$There's nothing here that will concern the Admiralty.",
                     "ButtonText": "", "Id": 143435},
-                   {"DefaultEvent": {"Description": "$sorrow-spider -> ソロウ・スパイダー$The heat wraps around your bare skin like a lover's embrace as you lean back and float in the deep pool. There is no responsibility here. No guilt. No zee monsters. No tomb-colonists or sorrow-spiders or tentacles or nightmares in the dark. Just a moment of peace, to enjoy and celebrate for what it is. Just-\u000d\u000a\u000d\u000aWait! What was that? Sounded like... giggling?",
+                   {"DefaultEvent": {"Description": "$[Ss]orrow-spider -> 悲哀蜘蛛$The heat wraps around your bare skin like a lover's embrace as you lean back and float in the deep pool. There is no responsibility here. No guilt. No zee monsters. No tomb-colonists or sorrow-spiders or tentacles or nightmares in the dark. Just a moment of peace, to enjoy and celebrate for what it is. Just-\u000d\u000a\u000d\u000aWait! What was that? Sounded like... giggling?",
                                      "LinkToEvent": {"Id": 175466},
                                      "Name": "Nothing but relaxation", "Id": 175688},
                     "Name": "No, no thoughts. Not right now...",

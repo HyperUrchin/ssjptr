@@ -27,7 +27,7 @@
                    {"DefaultEvent": {"Description": "$Pirate-King -> 海賊王$The Melliferous Sister seems reluctant to sell the honey to you, until you show her your silver Key to the Cage Gardens. \"You are an intimate of the Pirate-King!\" she exclaims. \"Well, why didn't you say so in the first place?\"",
                                      "Name": "", "Id": 169598},
                     "Name": "Buy a shipment of red honey",
-                    "Description": "You could sell it for a profit elsewhere. If you were inclined to take your chances with the Revenue Men.",
+                    "Description": "$Revenue M[ae]n -> 徴税官$You could sell it for a profit elsewhere. If you were inclined to take your chances with the Revenue Men.",
                     "ButtonText": "", "Id": 139709},
                    {"DefaultEvent": {"Description": "$Irem -> アイレム$\"The Sun orders time, do you see? Down here we can only touch time with our fingers. The devils know that. In Irem - In Irem - \"\u000d\u000a\u000d\u000aHis eyes well with tears. Abruptly he turns and plunges into the crowd. You're left with the crate.",
                                      "LinkToEvent": {"Id": 168435}, "Name": "Life and light",

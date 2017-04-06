@@ -4,7 +4,7 @@
                     "Name": "Witness a reunion",
                     "Description": "The Crotchety Tobacconist bends over the shop-counter, annotating a large sheet of paper. He glances up at the Dogged Apprentice, and bites down on his cigar. His face is blackened with soot. \"Last batch blew up on me. Doesn't look like you've been doing much better yourself.\"",
                     "ButtonText": "", "Id": 173298},
-                   {"DefaultEvent": {"Description": "$Empire of Hands -> エンパイア・オブ・ハンズ$\"I sent him on an errand. He just had to collect a parcel from - b____r, where was it? Either the Empire of Hands or the Tomb Colonies.\" He sits up and stretches. His joints crack loudly. \"I have very important work, and it can't continue without him. Please, unless you've news of the boy, leave me be.\"",
+                   {"DefaultEvent": {"Description": "$Empire of Hands -> エンパイア・オブ・ハンズ, Tomb[- ]Colon(y|ies) -> 墓人街$\"I sent him on an errand. He just had to collect a parcel from - b____r, where was it? Either the Empire of Hands or the Tomb Colonies.\" He sits up and stretches. His joints crack loudly. \"I have very important work, and it can't continue without him. Please, unless you've news of the boy, leave me be.\"",
                                      "LinkToEvent": {"Id": 223620}, "Name": "", "Id": 234596},
                     "Name": "\"Go away! We're closed!\"",
                     "Description": "The Crotchety Tobacconist sits smoking behind the shop-counter. The ashtray next to him is stacked with cigar butts. \"I cannot assist you until my Apprentice returns.\" Well, where did his Apprentice go?",

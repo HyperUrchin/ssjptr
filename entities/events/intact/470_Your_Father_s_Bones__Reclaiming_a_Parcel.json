@@ -5,7 +5,7 @@
                     "ButtonText": "", "Id": 143888},
                    {"DefaultEvent": {"Description": "$Fathomking's Hold -> ファザムキングの砦, Fathomking -> ファザムキング$\"I'm sorry,\" the postman yawns. \"I have something under 'Voluminous'; but you'll need to specify the address before I can release it.\"\u000d\u000a\u000d\u000aYou begin to protest that it's your father's body that they're holding, but the postman takes refuge in bureaucracy. You do learn that it wasn't addressed to your home; your family home; the Harbourmaster; or any other address you can think of.\u000d\u000a\u000d\u000aThe postman drums his fingers dispassionately on the oilskin package, just inches away behind the arm-thick iron bars. He sees you crane your neck, and turns it address-side down. \"Sorry-we-can't-be-of-any-more-assistance,\" he chants. Just as you're turning to leave, he adds: \"It does list the Fathomking as the return address. Perhaps you can ask him?\" [Find the Fathomking's Hold, somewhere in the south or central Unterzee, to continue.]",
                                      "Name": "So close", "Id": 177269},
-                    "Name": "Claim your parcel from the Dead Letter Office",
+                    "Name": "$Dead Letter Office -> 配達不能郵便局$Claim your parcel from the Dead Letter Office",
                     "Description": "You tell your story to the drooping, cadaverous postman behind the grating. He doesn't give any sign of interest or understanding. By the time you've finished your story, you're wondering if he might be dead. Perhaps no one has got around to closing those yellowed and staring eyes. But at last he jerks into life. \"What was the name again?\"",
                     "ButtonText": "", "Id": 144429},
                    {"DefaultEvent": {"Description": "$Fathomking's Hold -> ファザムキングの砦, Fathomking -> ファザムキング$[Find the Fathomking's Hold, somewhere in the south or central Unterzee, to continue.]",
@@ -13,6 +13,6 @@
                     "Name": "A scarred stone",
                     "Description": "Your father's first name - \"ELIAS\". He's the only Elias here. But the rest of the name has been smashed away, with one clean blow of a chisel. The rest is only pale scarred rock.",
                     "ButtonText": "", "Id": 145310}],
- "Description": "$Huffam -> ハッファム$Huffam told you your father's bones had been sent to 'Mr Voluminous', but misaddressed to 'the wrong door'. So here they must be, somewhere in the crypty windings of the Dead Letter Office.",
+ "Description": "$Dead Letter Office -> 配達不能郵便局, Huffam -> ハッファム$Huffam told you your father's bones had been sent to 'Mr Voluminous', but misaddressed to 'the wrong door'. So here they must be, somewhere in the crypty windings of the Dead Letter Office.",
  "Name": "$Your Father's Bones: -> 父の遺骨:$Your Father's Bones: Reclaiming a Parcel",
  "Id": 176405}
