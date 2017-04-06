@@ -88,3 +88,4 @@ Unread Log, 未だ読まれていない航海日誌
 Doomed Monster Hunter, 死の運命にあるモンスターハンター
 Icarus in Black, 黒のイカロス
 Parabox, パラボックス
+Soothe (and|&) Cooper, スード&クーパー

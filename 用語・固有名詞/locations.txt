@@ -219,7 +219,7 @@ Pigmote Isle, ピグモート・アイル
 Lick-a-Monkey Crag, 猿舐めの大岩
 Crabcake, クラブケーキ
 Saints-Haven, セインツ・ヘイヴン
-Tomb-Colonies, 墓人街
+Tomb[- ]Colon(y|ies), 墓人街
 Venderbight, ヴェンダーバイト
 Davies Bay, デイヴィス湾
 Carissa's Point, カリッサ岬

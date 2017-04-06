@@ -10,19 +10,19 @@ Forward, 前部
 Auxiliary, 補助
 Aft, 後部
 Bridge, 船橋
-Revenue Man, 徴税官
+Revenue M[ae]n, 徴税官
 Shapeling, シェイプリング
 Midnighter, ミッドナイター
 Truthbreaker Turbine, 真実砕きのタービン
 Clay M[ae]n, クレイマン
 Unfinished M[ae]n, 未完成クレイマン
-sorrow-spider, ソロウ・スパイダー
+[Ss]orrow-spider, 悲哀蜘蛛
 Greyfields, グレイフィールズ
 Broken Giant, ブロークン・ジャイアント
 [Bb]lemmigan, ブレミガン
 Pentecost, ペンテコステ
-knot-oracle, ノット・オラクル
-rattus faber, フェイバーネズミ
+[Kk]not-oracle, ノット・オラクル
+[Rr]attus faber, フェイバーネズミ
 Department of Infernal Rarefaction, 悪性希薄科
 Legend's Heart, 伝説的なるものの心臓
 Miracle of Science, 科学の奇跡
@@ -45,7 +45,7 @@ Serpent[- ]Image, 蛇の彫像
 Mountain of Light, 光輝の山
 Learning About:, 事情を知る:
 Supremacy:, 覇権:
-Rubbery Lump, ルベリー・ランプ
+Rubbery Lump, ラバリー・ランプ
 lacre, ラッカー
 Nom[ae]n, ノーマン
 Great Signs, グレート・サイン
@@ -66,3 +66,4 @@ Salt's Song, Saltの歌
 Seven-Serpent, セブン・サーペント
 Slowcake's Exceptionals, スロウケイクの名士録
 Nevercold Brass, 冷気逃れの真鍮
+Rubbery M[ae]n, ラバリーマン
