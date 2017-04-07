@@ -78,3 +78,4 @@ Monkey Foundling, 猿の拾い子
 Able Seaman Cargit, 腕利き船乗りのカージット
 Hairless Postwoman, 髪のない女郵便配達員
 Albino Rat, アルビノネズミ
+Bourdain, ボーデイン
