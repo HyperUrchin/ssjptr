@@ -1,0 +1,5 @@
+{"Description": "あなたは故郷から遥か遠く離れている。@{I}貴方は故郷から遠く離れている。@{M}You are far from home.",
+ "LevelDescriptionText": "0|アヴェルヌス~1|ナポリ~10|ウィーン@{I}0|アヴェルナス~1|ナポリ~10|ウィーン@{M}0|Avernus~1|Naples~10|Vienna",
+ "ChangeDescriptionText": "0|アヴェルヌス。灰色の岩と青い水。~1|ナポリ。混み合う街路と水平線。~10|ウィーン。革命の空気。@{I}0|アヴェルナス: 灰色の岩と青い水。~1|ナポリ: 人混みで一杯の通りと海の水平線。~10|ウィーン: 革命の空気。@{M}0|Avernus: grey rock and blue water.~1|Naples: crowded streets and the sea's horizon~10|Vienna: revolution in the air",
+ "Name": "太陽光の無慈悲@{I}陽光の虐待@{M}The Cruelty of Sunlight",
+ "Id": 110309}

@@ -1,0 +1,4 @@
+{"Description": "オフィサーを一人、ファザムキングに捧げよう。zeeでの自らの仕事を果たし終えた者で、なおかつ王の宮廷に留まることを厭わないような者を選ぼう。おそらく魚が好きな誰かだろう。@{I}水底帝の下へ幹部を連れて来い。ジーでの仕事を終え、帝の庭園に留まる事を望む誰かを選べ。恐らくその者は魚が大好きだ。@{M}Bring an Officer to the Fathomking. Choose someone who has finished their business on the zee, and might be willing to stay in the King's court. Probably someone who likes fish.",
+ "ChangeDescriptionText": "0|あなたは意欲的な客人をもたらし、ファザムキングの要求を満たした~1|ファザムキングは意欲的な客人を要求した@{I}0|貴方は水底帝の来訪を望む者の要求を達成した。~1|水底帝は貴方に来訪を望む者を要求した。@{M}0|You have fulfilled the Fathomking's request for a Willing Guest~1|The Fathomking has requested a Willing Guest",
+ "Name": "父の遺骨: ファザムキングに捧ぐ、意欲的な客人@{I}父親の遺骨: 水底帝へ贈る、来訪を望む者@{M}Your Father's Bones: a Willing Guest for the Fathomking",
+ "Id": 114893}

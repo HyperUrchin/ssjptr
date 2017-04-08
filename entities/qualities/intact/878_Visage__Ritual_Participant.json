@@ -1,0 +1,4 @@
+{"Description": "冥い場所へ、光を持ち込む。@{M}Taking light into the dark places.",
+ "LevelDescriptionText": "1|揺らめく炎を運ぶ。~2|何も持っていない。~3|揺らめく炎を運び、少し神経質になっている。~4|何も持っておらず、少し神経質になっている。~5|揺らめく炎を運び、勇気に溢れている。~6|何も持っておらず、勇気に溢れている。~9|神聖な謎を尊敬する者。~10|神聖な謎を冒涜する者。~11|神聖な謎を尊敬する学者。~12|神聖な謎を冒涜する学者@{M}2|Empty-handed~3|Carrying a flare and nervous~4|Empty-handed and nervous~5|Carrying a flare and brave~6|Empty-handed and brave~10|Violator of the Sacred Mysteries~1|Carrying a flare~9|Respecter of the Sacred Mysteries~11|Respectful Scholar of the Mysteries~12|Impertinent Scholar of the Mysteries",
+ "Name": "ヴィサージュ: 儀式の参加者@{M}Visage: Ritual Participant",
+ "Id": 113399}

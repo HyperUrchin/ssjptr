@@ -1,0 +1,5 @@
+{"Description": "誰かが仕事を求めている！@{I}誰かが貴方の船に乗りたい様だ！@{M}Someone wants to sign on!",
+ "LevelDescriptionText": "1|誰かが仕事を求めている！@{I}1|誰かが貴方の船に乗りたい様だ！@{M}1|Someone wants to sign on!",
+ "ChangeDescriptionText": "1|誰かが仕事を求めている！~0|現時点では求職者はいない。@{I}1|誰かが貴方の船に乗りたい様だ！~0|今の所、雇える新人はもう居ない。@{M}1|Someone wants to sign on!~0|You have no more recruits for the moment.",
+ "Name": "Another Day: 新しい乗船者？@{I}後日談: 新入りを雇う？@{M}Another Day: A New Recruit?",
+ "Id": 110364}

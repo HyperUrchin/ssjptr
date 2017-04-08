@@ -1,0 +1,4 @@
+{"Description": "貴方は秘めたる野望を見つけ出した！エスティバルを植民地化して改善し、貴方自身の王国を設立するのだ。@{M}You've found a hidden Ambition! Colonise and improve Aestival to found your own kingdom.",
+ "LevelDescriptionText": "1|植民地を創設するには、陽光から土地を保護する物をエスティバルに運べ。~2|貴方の植民地の人口を77まで、土地を100まで上げ、太守を任命した事を確認せよ。@{M}1|To found a colony, bring something to Aestival that can protect against sunlight.~2|Increase your colony's Population to 77 and Estate to 100, and ensure you have assigned a Viceroy.",
+ "ChangeDescriptionText": "1|植民地を創設するには、陽光から土地を保護する物をエスティバルに運べ。~2|貴方の植民地の人口を77まで、土地を100まで上げ、太守を任命した事を確認せよ。@{M}1|To found a colony, bring something to Aestival that can protect against sunlight.~2|Increase your colony's Population to 77 and Estate to 100, and ensure you have assigned a Viceroy.",
+ "Name": "目的: 王国@{M}Objective: Kingdom", "Id": 115979}

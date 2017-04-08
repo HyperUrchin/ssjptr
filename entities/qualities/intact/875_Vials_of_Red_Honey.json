@@ -1,0 +1,4 @@
+{"Description": "10本の印が入った瓶が慎重に緩衝材付きで小箱の中に収められている。[この荷物は適切に非合法とは言え、とても危険な物です。ロンドンに持ち込む際は十分に注意して下さい。]@{M}Ten marked vials packed in a carefully padded casket. [This stuff is too dangerous even to be properly illegal. Be cautious in taking it to London.]",
+ "LevelDescriptionText": "1|禁止されている赤蜂蜜の貨物を密輸している@{M}1|Smuggling a proscribed cargo of red honey",
+ "ChangeDescriptionText": "1|You are smuggling a proscribed cargo of red honey.",
+ "Name": "赤蜂蜜の瓶@{M}Vials of Red Honey", "Id": 113386}

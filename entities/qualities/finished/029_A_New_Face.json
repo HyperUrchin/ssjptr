@@ -1,0 +1,4 @@
+{"Description": "あなたは見知らぬ男を船に招き入れた。これは厄介事を招くかもしれない。@{I}貴方は身元不明の人間を乗船させた。もしかしたら何か面倒が起きるかもしれない。@{M}You've welcomed a stranger aboard your ship. This may lead to complications.",
+ "LevelDescriptionText": "1|結末が待っている。@{I}1|結末が待ち構えている。@{M}1|Consequences wait.",
+ "ChangeDescriptionText": "1|船にようこそ、見知らぬ人よ。~0|とある事柄が明らかになった。@{I}1|ようこそ、不審者。~0|いくつかの事が明らかになった。@{M}1|Welcome aboard, stranger.~0|A certain matter has become clear.",
+ "Name": "新顔@{I}新顔@{M}A New Face", "Id": 109508}

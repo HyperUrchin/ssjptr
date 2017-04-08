@@ -1,0 +1,5 @@
+{"Description": "彼女のよそよそしさの中に、僅かな亀裂がある。@{M}There is a slight fissure in her reserve.",
+ "LevelDescriptionText": "1|貴方は活発な従事者のよそよそしさを打ち砕いた。~2|活発な従事者が崩れ落ちるのを貴方は見た。~3|活発な従事者を助ける手立てを探す事を選んだ。~50|活発な従事者は回復した。~90|貴方と従事者との関係は終わった。~100|貴方はもう従事者を見る事は無いだろう。~101|従事者は貴方の太守となった。@{M}1|You've cracked the Brisk Campaigner's reserve~2|You've seen the Brisk Campaigner collapse~3|You've elected to help the Brisk Campaigner find what she needs~50|The Brisk Campaigner has recovered~100|You won't see the Campaigner again~90|The Campaigner ended your affair.~101|The Campaigner has become your viceroy. ",
+ "ChangeDescriptionText": "1|貴方は活発な従事者のよそよそしさを打ち砕いた。~2|活発な従事者が崩れ落ちるのを貴方は見た。~3|活発な従事者を助ける手立てを探す事を選んだ。~50|活発な従事者は回復した。~90|貴方と従事者との関係は終わった。~100|貴方はもう従事者を見る事は無いだろう。~101|従事者は貴方の太守となった。@{M}1|You've cracked the Brisk Campaigner's reserve.~2|You've seen the Brisk Campaigner collapse.~3|You've elected to help the Brisk Campaigner find what she needs.~50|The Brisk Campaigner has recovered!~100|You won't see the Campaigner again.~90|The Campaigner ended your affair.~101|The Campaigner has become your viceroy. ",
+ "Name": "人物観察: 活発な従事者@{M}Learning About: The Brisk Campaigner",
+ "Id": 111694}

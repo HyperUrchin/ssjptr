@@ -1,0 +1,3 @@
+{"Description": "あなたはどんな結末を望むか？[これにより、あなたの勝ち方が決定されています。とは言え、ロンドンで引退し、引き分けに持ち込むという選択肢は常に存在します。]@{I}貴方はどの様な終わりを迎えたいのか？[これは貴方の勝利条件を判断します。引き分けでなら、貴方は何時でもロンドンで引退出来ます。]@{M}How do you want it all to end? [This determines how you win: although you can always just retire in London, for a draw.]",
+ "LevelDescriptionText": "1|父親の骨を見つけ、そして引退する~2|引退し、贅沢な生活を送る~3|ロンドンで最も尊敬される冒険家になる~4|自らの王国を打ち立てる~5|Zeeを越え、東へ向かう~6|不死の秘密を解き放つ@{I}1|Find your father's bones, and then retire~2|Retire to a life of luxury~3|Become London's most venerated explorer~4|Found your own private kingdom~5|Sail East, beyond the Zee~6|Liberate the secret of immortality",
+ "Name": "目的: 大望@{I}目的: 野望@{M}Objective: Ambition", "Id": 108938}

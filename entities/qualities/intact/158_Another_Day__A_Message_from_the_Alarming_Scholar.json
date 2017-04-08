@@ -1,0 +1,5 @@
+{"Description": "ベンシック大学からの書き置きだ。彼が貴方に話があると言う。@{M}Notepaper from Benthic College. He'd like to speak to you.",
+ "LevelDescriptionText": "1|不安がる学者が貴方に、彼女(彼？)を訪れて欲しいと言って来ている。@{M}1|The Alarming Scholar has invited you to call on her (him?)",
+ "ChangeDescriptionText": "0|貴方と不安がる学者の間の用事は、今の所全て終わった。~1|不安がる学者が貴方に、彼女(彼？)を訪れて大学に来て欲しいと言って来ている。@{M}0|Your business with the Alarming Scholar is concluded, for now.~1|The Alarming Scholar has invited you to call on her (him?) at the University",
+ "Name": "後日談: 不安がる学者からの伝言@{M}Another Day: A Message from the Alarming Scholar",
+ "Id": 110362}

@@ -1,0 +1,4 @@
+{"Description": "You've been asked to find a certain person imprisoned in Dahut.",
+ "AvailableAt": "Wrack begins this story and Dahut continues it.",
+ "LevelDescriptionText": "1|Asked to seek and free a prisoner in Dahut~10|Freed a prisoner of Dahut~20|Delivered a prisoner of Dahut to Rosegate~30|Reported back to the Composer at Wrack that the Dahut Prisoner was set free~2|Begun asking about a prisoner in Dahut~15|Brought a Dahut Prisoner to visit her friend in Wrack~3|Saw a prisoner in the Crypt",
+ "Name": "Dahut: Seeking a Prisoner of Dahut", "Id": 126629}

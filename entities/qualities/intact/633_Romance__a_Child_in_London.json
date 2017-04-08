@@ -1,0 +1,5 @@
+{"Description": "産んだか、産ませたか、引き取ったか。何れにしても彼らは貴方の子だ。@{M}Born, sired, or adopted, they're yours.",
+ "LevelDescriptionText": "1|貴方には子供がいる~10|子供は貴方を父親と呼んでいる~11|子供は貴方を母親と呼んでいる~12|子供は貴方をキャプテンと呼んでいる~20|子供はジーに旅立った@{M}1|You have a child~10|Your child calls you Father~11|Your child calls you Mother~12|Your child calls you Captain~20|Your child has gone to zee",
+ "ChangeDescriptionText": "1|貴方には子供がいる~10|貴方は父親だ~11|貴方は母親だ~12|貴方は子供の人生に取って重要な存在だ。子供は貴方をキャプテンと呼んでいる。~20|子供はジーに旅立った！@{M}1|You have a child~10|You are a father~11|You are a mother~12|You are something significant in this child's life. They call you 'Captain'~20|Your child has gone to zee!",
+ "Name": "情事: ロンドンにいる子供@{M}Romance: a Child in London",
+ "Id": 109777}

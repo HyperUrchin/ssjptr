@@ -1,0 +1,4 @@
+{"Description": "国家には希望が必要だ。もしこの値が0になる事があれば、とても良くない事がピグモート島に起こるだろう。@{M}A nation needs hope. If this reaches 0, bad things will happen on Pigmote Isle.",
+ "LevelDescriptionText": "0|破滅的~1|本当に危険~2|危険~3|葛藤している~4|論争している~5|納得している~6|楽天的になっている~7|満足している~8|幸福を感じている~9|歓喜に浸っている~10|勝ち誇っている@{M}0|Catastrophe~9|Delighted~10|Triumphant~1|DANGER~2|Danger~3|Conflicted~5|Content~4|Argumentative~6|Optimistic~7|Pleased~8|Happy",
+ "ChangeDescriptionText": "",
+ "Name": "ピグモート島: 魂@{M}Pigmote Isle: Spirit", "Id": 120959}

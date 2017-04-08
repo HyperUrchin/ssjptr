@@ -1,0 +1,4 @@
+{"Description": "The Severe Chemist wishes to study tether.",
+ "LevelDescriptionText": "1|Bring the Chemist a jarful of tether from Wrack~5|The Severe Chemist is waiting on the Uttershroom to collect his jarful of tether~10|You delivered the jarful of tether to the Severe Chemist~25|You tasted the tether, instead of delivering it to the Severe Chemist",
+ "ChangeDescriptionText": "1|Find a jarful of tether in Wrack.~5|Bring the jarful of tether to the Severe Chemist, who waits on the Uttershroom.~10|A satisfied client.~25|A joy forever.",
+ "Name": "Wrack: Aiding Research", "Id": 128941}

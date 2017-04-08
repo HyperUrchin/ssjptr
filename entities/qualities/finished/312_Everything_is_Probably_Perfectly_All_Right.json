@@ -1,0 +1,5 @@
+{"Description": "色々なことがあったが、心配する必要はないだろう。多分。@{I}幾つかの様々な出来事が発生したが、恐らく心配する事は無いだろう。多分。@{M}Various events have occurred, but there's probably no need to worry, probably.",
+ "LevelDescriptionText": "1|心配はいらない@{I}1|心配は無い@{M}1|Don't worry",
+ "ChangeDescriptionText": "1|おそらく何もかも絶対に大丈夫だ。@{I}1|全ては恐らく完璧に問題無し。@{M}1|Everything is probably perfectly all right.",
+ "Name": "おそらく何もかも絶対に大丈夫@{I}全ては恐らく完璧に問題無し@{M}Everything is Probably Perfectly All Right",
+ "Id": 109622}

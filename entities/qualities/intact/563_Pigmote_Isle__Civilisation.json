@@ -1,0 +1,4 @@
+{"Description": "国家は発展しなければならない。もしこの値が0になる事があれば、とても良くない事がピグモート島に起こるだろう。@{M}A nation must build. If this reaches 0, bad things will happen on Pigmote Isle.",
+ "LevelDescriptionText": "0|破滅的~1|本当に危険~2|危険~3|もがいている~4|問題発生~5|普通~6|成長中~7|文化が根付いている~8|優れている~9|威厳がある~10|伝説的に雄大な国家@{M}0|Catastrophe~1|DANGER~7|Cultured~9|Dignified~10|Magnificent~8|Distinguished~2|Danger~5|Unexceptional~6|Rising~3|Struggling~4|Troubled",
+ "ChangeDescriptionText": "",
+ "Name": "ピグモート島: 文明@{M}Pigmote Isle: Civilisation", "Id": 120960}

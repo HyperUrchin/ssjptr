@@ -1,0 +1,3 @@
+{"Description": "黒き大海と、その背後に潜むものへの恐怖。[恐怖は上陸許可によって、特にロンドンでそれを与えることによって、減少します。またロンドンへの帰還時、zeeである程度の時間を過ごしていた場合、恐怖は50まで減少します。]@{I}広く冥きジーの恐怖、そしてその奥に潜むモノ。[特にロンドンでは、上陸して恐怖を減少させましょう。ジーで長い時間を過ごした後にロンドンに帰還した時、恐怖度は常に50まで下がります。]@{M}The fear of the wide black zee, and the things beyond. [Reduce this with Shore Leave, especially in London. When you return to London after time at zee, your Terror will always drop to 50.]",
+ "LevelDescriptionText": "100|発狂~25|緊張~50|恐怖~75|恐慌~1|不安~0|静穏@{I}0|安穏~1|用心~25|苛立ち~50|恐怖~75|苦悩~100|発狂@{M}100|Crazed~25|Nervous~50|Fearful~75|Haunted~1|Wary~0|Serene",
+ "Name": "Terror@{I}恐怖@{M}Terror", "Id": 102025}

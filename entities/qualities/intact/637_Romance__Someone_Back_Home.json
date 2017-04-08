@@ -1,0 +1,4 @@
+{"Description": "貴方は堕ちたるロンドンで恋人を選んだ。@{M}You chose a sweetheart in Fallen London.",
+ "ChangeDescriptionText": "1|貴方はロンドンに恋人がいる。~0|彼らは去った。~100|貴方はかつてロンドンに恋人がいた。@{M}1|You have a sweetheart in London.~0|They're gone.~100|You had a sweetheart in London",
+ "Name": "情事: 故郷で帰りを待つ誰か@{M}Romance: Someone Back Home",
+ "Id": 109523}

@@ -1,0 +1,4 @@
+{"Description": "Who will command the Seven's legions?",
+ "LevelDescriptionText": "1|You have yet to recruit someone~5|Batuk~3|Convince Batuk to rejoin the Seven",
+ "ChangeDescriptionText": "5|The Seven have found their commander.~1|The Seven need a commander.~3|Perhaps you can convince Batuk to rejoin the Seven.",
+ "Name": "Ambition: the Soldier", "Id": 128592}
