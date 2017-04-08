@@ -1,2 +1,3 @@
-{"Description": "檻の島、さもなくば託宣者の集団の食料庫だ。@{M}A prison island. Or the knot-oracles' larder. ",
- "Name": "港湾報告書: ウィズダム@{M}A Port Report: Wisdom", "Id": 116124}
+{"Description": "檻の島、さもなくば託宣者の集団の食料庫だ。@{M}$[Kk]not-oracle -> ノット・オラクル$A prison island. Or the knot-oracles' larder. ",
+ "Name": "港湾報告書: ウィズダム@{M}$Wisdom -> ウィズダム, Port Report -> 港湾報告書$A Port Report: Wisdom",
+ "Id": 116124}

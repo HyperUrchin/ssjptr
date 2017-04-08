@@ -1,5 +1,5 @@
 {"Description": "あなたは今や、彼の過去について少しだけ多くを知っている。@{I}今は、彼の過去について少しばかり知っている。@{M}You know a little more about his past, now.",
  "LevelDescriptionText": "101|マジシャンはあなたの国の総督となった。@{I}101|マジシャンは貴方の太守となった。@{M}101|The Magician has become your viceroy.",
  "ChangeDescriptionText": "1|マジシャンの物語は続く。~100|彼はいなくなった。~101|マジシャンはあなたの国の総督となった。@{I}1|マジシャンの物語は続く。~100|彼は居なくなった。~101|マジシャンは貴方の太守となった。@{M}1|The Magician's story continues.~100|He's gone.~101|The Magician has become your viceroy.",
- "Name": "事情を知る: マジシャン@{I}人物観察: マジシャン@{M}Learning About: The Magician",
+ "Name": "事情を知る: マジシャン@{I}人物観察: マジシャン@{M}$Learning About: -> 事情を知る:$Learning About: The Magician",
  "Id": 109228}

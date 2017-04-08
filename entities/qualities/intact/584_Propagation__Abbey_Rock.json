@@ -1,2 +1,3 @@
-{"Description": "貴方は修道尼の岩にブレミガンを蒔いた。もし修道尼が立ちはだかるなら、彼らはそれについて対処するだろう。@{M}You've sown blemmigans on Abbey Rock. No doubt if the nuns object, they'll do something about it.",
- "Name": "繁殖: 修道尼の岩@{M}Propagation: Abbey Rock", "Id": 111597}
+{"Description": "貴方は修道尼の岩にブレミガンを蒔いた。もし修道尼が立ちはだかるなら、彼らはそれについて対処するだろう。@{M}$[Bb]lemmigan -> ブレミガン, Abbey Rock -> 大修道岩$You've sown blemmigans on Abbey Rock. No doubt if the nuns object, they'll do something about it.",
+ "Name": "繁殖: 修道尼の岩@{M}$Abbey Rock -> 大修道岩$Propagation: Abbey Rock",
+ "Id": 111597}

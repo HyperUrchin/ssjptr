@@ -1,4 +1,4 @@
 {"Description": "箱一杯の秘密。開けてみよう！@{I}箱一杯の謎だ。開けろ！@{M}A boxful of mystery. Open it!",
  "ChangeDescriptionText": "0|あなたは物珍しい貯蔵品の開封を終えた。@{I}0|You have finished opening a cache of curiosities.",
- "Name": "物珍しい貯蔵品@{I}好奇な貴重品@{M}A Cache of Curiosities",
+ "Name": "物珍しい貯蔵品@{I}好奇な貴重品@{M}$Cache of Curiosities -> 物珍しい貯蔵品$A Cache of Curiosities",
  "Id": 108748}

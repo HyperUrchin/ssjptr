@@ -1,2 +1,3 @@
 {"Description": "貴方は墳墓外に新しく、紫色の生命を運んで来た。@{M}You've brought new, and purple, life to the tomb-colonies.",
- "Name": "繁殖: ベンダーバイト@{M}Propagation: Venderbight", "Id": 111609}
+ "Name": "繁殖: ベンダーバイト@{M}$Venderbight -> ヴェンダーバイト$Propagation: Venderbight",
+ "Id": 111609}

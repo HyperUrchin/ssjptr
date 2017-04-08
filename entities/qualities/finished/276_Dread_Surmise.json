@@ -1,2 +1,3 @@
 {"Description": "無知なる者が拒むことのできない、一瞬の推測の恐るべき大胆さ。[これを売ってしまうと、代わりを手に入れるのは簡単ではないかもしれません。]@{I}無知の時代が決して否定し得ない、刹那の推測のどうしようもない大胆さ。[これを売り払うと、替わりとなる物を見つけるのは簡単では無いかもしれません。]@{M}The awful daring of a moment's supposition which an age of ignorance can never deny. [If you sell this, you may not find it easy to replace.]",
- "Name": "恐るべき推測@{I}恐ろしい推測@{M}Dread Surmise", "Id": 115784}
+ "Name": "恐るべき推測@{I}恐ろしい推測@{M}$Dread Surmise -> 恐るべき推測$Dread Surmise",
+ "Id": 115784}

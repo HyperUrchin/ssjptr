@@ -1,2 +1,3 @@
 {"Description": "謎とは火。真実は燃え上がる。@{I}謎とは火だ。真実は燃える。@{M}Mysteries are fire. Truth burns.",
- "Name": "焼けつく謎@{I}昂ぶる物体@{M}Searing Enigma", "Id": 111726}
+ "Name": "焼けつく謎@{I}昂ぶる物体@{M}$Searing Enigma -> 焼けつく謎$Searing Enigma",
+ "Id": 111726}

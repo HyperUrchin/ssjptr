@@ -1,4 +1,4 @@
-{"Description": "The Fair King's most treasured possession. Incidentally, it contains the last vestige of Bourdain, who was one of the Seven Against Nidah.",
- "LevelDescriptionText": "5|The Fair King will not easily part from his mirror~10|You may speak to Bourdain on your ship~15|You recruited Bourdain",
- "ChangeDescriptionText": "5|The Fair King will not easily part from his mirror.~10|You may speak to Bourdain on your ship.~15|You have recruited Bourdain.",
+{"Description": "$Bourdain -> ボーデイン$The Fair King's most treasured possession. Incidentally, it contains the last vestige of Bourdain, who was one of the Seven Against Nidah.",
+ "LevelDescriptionText": "$Bourdain -> ボーデイン$5|The Fair King will not easily part from his mirror~10|You may speak to Bourdain on your ship~15|You recruited Bourdain",
+ "ChangeDescriptionText": "$Bourdain -> ボーデイン$5|The Fair King will not easily part from his mirror.~10|You may speak to Bourdain on your ship.~15|You have recruited Bourdain.",
  "Name": "Wrack: For Want of a Mirror", "Id": 127272}

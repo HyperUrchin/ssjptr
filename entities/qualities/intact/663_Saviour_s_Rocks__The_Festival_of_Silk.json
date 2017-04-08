@@ -1,4 +1,4 @@
-{"Description": "恩人ヶ岩は優しい隣人に感謝を捧げている。@{M}Saviour's Rocks gives thanks to its generous neighbours",
+{"Description": "恩人ヶ岩は優しい隣人に感謝を捧げている。@{M}$Saviour's Rocks -> 救い主の岩礁$Saviour's Rocks gives thanks to its generous neighbours",
  "LevelDescriptionText": "1|絹糸の饗宴が始まった。~2|絹糸の饗宴は終わった。~5|絹糸の饗宴は中止となった。~6|絹糸の饗宴は永遠に中止となった。@{M}1|The Festival of Silk has begun~2|The Festival of Silk is over~5|The Festival of Silk is cancelled~6|The Festival of Silk is cancelled forever",
- "Name": "恩人ヶ岩: 絹糸の饗宴@{M}Saviour's Rocks: The Festival of Silk",
+ "Name": "恩人ヶ岩: 絹糸の饗宴@{M}$Saviour's Rocks -> 救い主の岩礁$Saviour's Rocks: The Festival of Silk",
  "Id": 113321}

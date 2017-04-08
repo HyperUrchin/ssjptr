@@ -1,2 +1,3 @@
 {"Description": "夢の緑の蛇の皮、そして隙間なく書き込まれた紙片の集まり。@{I}夢歩きの蛇皮と、呪符の紙片が収められたお護り。@{M}Dream-greeh snake-skin and scraps of close-written paper",
- "Name": "鏡の護符@{I}鏡の護り@{M}A Mirror-Charm", "Id": 109968}
+ "Name": "鏡の護符@{I}鏡の護り@{M}$A Mirror-Charm -> 鏡の護符$A Mirror-Charm",
+ "Id": 109968}

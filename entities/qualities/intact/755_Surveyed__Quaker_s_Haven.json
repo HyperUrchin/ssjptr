@@ -1,3 +1,4 @@
 {"Description": "貴方は火が灯され続ける丘を見た。@{M}You have seen the hill where the fire is kept.",
- "ChangeDescriptionText": "1|貴方のクエーカーの停泊地への訪問は総督府記録事務局で確認されました。@{M}1|Your visit to Quaker's Haven has been confirmed by the Admiralty Records Office",
- "Name": "調査済: クエーカーの停泊地@{M}Surveyed: Quaker's Haven", "Id": 109627}
+ "ChangeDescriptionText": "1|貴方のクエーカーの停泊地への訪問は総督府記録事務局で確認されました。@{M}$Admiralty -> 海軍省, Quaker's Haven -> クエーカーズ・ヘイヴン$1|Your visit to Quaker's Haven has been confirmed by the Admiralty Records Office",
+ "Name": "調査済: クエーカーの停泊地@{M}$Quaker's Haven -> クエーカーズ・ヘイヴン$Surveyed: Quaker's Haven",
+ "Id": 109627}

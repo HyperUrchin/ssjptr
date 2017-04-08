@@ -1,5 +1,5 @@
-{"Description": "貴方は恩人ヶ岩の大悲哀蜘蛛の集団に遭遇した。@{M}You have encountered the grand spider-council of Saviour's Rocks.",
+{"Description": "貴方は恩人ヶ岩の大悲哀蜘蛛の集団に遭遇した。@{M}$Saviour's Rocks -> 救い主の岩礁$You have encountered the grand spider-council of Saviour's Rocks.",
  "LevelDescriptionText": "0|蜘蛛の不審者~10|蜘蛛の墳墓の入植者の供給者？~20|蜘蛛の供給者~30|蜘蛛の嘆願者~40|蜘蛛の配信回収者~50|蜘蛛の救出者~75|蜘蛛の太鼓持ち~90|蜘蛛が拒否する者~99|蜘蛛の天罰@{M}0|A Stranger to Spiders~99|A Scourge of Spiders~30|A Supplicant of Spiders~90|A Spurner of Spiders~40|A Scavenger for Spiders~50|A Salvager for Spiders~75|A Stooge of Spiders~20|A Supplier to Spiders~10|A Supplier of Tomb Colonists to Spiders?",
  "ChangeDescriptionText": "",
- "Name": "恩人ヶ岩: 恩人ヶ岩の蜘蛛糸に捕まる@{M}Saviour's Rocks: Caught in the webs of Saviour's Rocks",
+ "Name": "恩人ヶ岩: 恩人ヶ岩の蜘蛛糸に捕まる@{M}$Saviour's Rocks -> 救い主の岩礁$Saviour's Rocks: Caught in the webs of Saviour's Rocks",
  "Id": 113084}

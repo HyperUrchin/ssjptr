@@ -1,4 +1,5 @@
 {"Description": "Everything is quiet. That probably means that everything is fine.",
- "LevelDescriptionText": "0|Time is passing on Mutton Island",
- "ChangeDescriptionText": "0|Time passes on Mutton Island.",
- "Name": "Mutton Island: Another Day", "Id": 124603}
+ "LevelDescriptionText": "$Mutton Island -> マトン・アイランド$0|Time is passing on Mutton Island",
+ "ChangeDescriptionText": "$Mutton Island -> マトン・アイランド$0|Time passes on Mutton Island.",
+ "Name": "$Mutton Island -> マトン・アイランド$Mutton Island: Another Day",
+ "Id": 124603}

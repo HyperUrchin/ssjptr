@@ -1,4 +1,4 @@
 {"Description": "How well do you know the First Mate of the Fortas Kettle?",
  "AvailableAt": "Gain acquaintance at Aigul.",
- "LevelDescriptionText": "20|Seen them through at least one mission~30|Learned some of their deeper secrets~40|Old acquaintances~50|Asked an important question~60|Persuaded the First Mate to abandon Aigul~5|Gained hospitality through a gift of Solacefruits~10|Observed the formation of spines",
+ "LevelDescriptionText": "$[Ss]olacefruit -> サラスフルーツ$20|Seen them through at least one mission~30|Learned some of their deeper secrets~40|Old acquaintances~50|Asked an important question~60|Persuaded the First Mate to abandon Aigul~5|Gained hospitality through a gift of Solacefruits~10|Observed the formation of spines",
  "Name": "Aigul: Acquaintance with the First Mate", "Id": 125703}

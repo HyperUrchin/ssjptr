@@ -1,4 +1,4 @@
 {"Description": "朝に植えられ、正午には高く育ち、午後に芽吹き、夕には萎れる。外来人は落葉する前に船に戻らなければならない。@{M}It is planted in the morning, grows tall by lunch, buds in the afternoon, and withers in the evening. Foreigners must return to their ships before it falls.",
  "ChangeDescriptionText": "1|一日の樹は希望に満ち溢れた若芽で、新緑に芽吹いている。~2|一日の樹は高く力強い。枝葉が羽を広げ、目一杯に自己主張している。~3|一日の樹は花を咲かせている。白い花弁が広場中に漂っている。~4|一日の樹は萎れている。節くれだった幹が唸っている。~5|一日の樹はひび割れ、痩せ細っている。もう船に戻る時間だ。@{M}1|The Tree of a Single Day is a hopeful sapling, green and budding.~2|The Tree of a Single Day is tall and strong. Its branches stretch over the rooftops.~3|The Tree of a Single Day is flowering. White petals drift across the square.~5|The Tree of a Single Day cracks and leans. It is time to return to your ship.~4|The Tree of a Single Day is withered. Its gnarled trunk groans.",
- "Name": "アダムの道: 一日の樹@{M}Adam's Way: the Tree of a Single Day",
+ "Name": "アダムの道: 一日の樹@{M}$Adam's Way -> アダムの道$Adam's Way: the Tree of a Single Day",
  "Id": 115901}

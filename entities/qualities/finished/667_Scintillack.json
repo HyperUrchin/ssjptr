@@ -1,2 +1,3 @@
 {"Description": "まるで月明かりに照らされたかのように輝くサンゴ。素晴らしい宝飾品や、恐ろしく高価な紅茶の原料になる。@{I}月光の様に光る珊瑚。非常に素晴らしい宝飾品か、とんでもなく高価な茶の原料となる。@{M}Coral that glimmers as if moonlit. It makes marvellous jewellery or terribly expensive tea.",
- "Name": "シンティラック@{I}珊瑚の胞核@{M}Scintillack", "Id": 107719}
+ "Name": "シンティラック@{I}珊瑚の胞核@{M}$[Ss]cintillack -> シンティラック$Scintillack",
+ "Id": 107719}

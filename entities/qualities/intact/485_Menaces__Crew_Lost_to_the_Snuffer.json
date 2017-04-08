@@ -1,3 +1,3 @@
 {"Description": "貴方の船の何処かに、顔を盗む憎悪が乗り込んでいる。被害者は多数に及んだ。@{M}You have a face-stealing abomination somewhere on your ship. It's claimed this many victims.",
- "Name": "厄介事: 殺し屋に襲われる船員@{M}Menaces: Crew Lost to the Snuffer",
+ "Name": "厄介事: 殺し屋に襲われる船員@{M}$Snuffer -> スナッファー, Menaces: -> 危機:$Menaces: Crew Lost to the Snuffer",
  "Id": 109510}

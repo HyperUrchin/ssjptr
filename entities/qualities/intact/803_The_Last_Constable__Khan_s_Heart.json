@@ -1,4 +1,5 @@
 {"Description": "Could she be hiding out at London's rival?",
- "LevelDescriptionText": "1|You have not looked for her in Khan's Heart",
- "ChangeDescriptionText": "1|The Last Constable has been seen in Khan's Heart.",
- "Name": "The Last Constable: Khan's Heart", "Id": 124617}
+ "LevelDescriptionText": "$Khan -> カーン, Khan's Heart -> カーンの心臓$1|You have not looked for her in Khan's Heart",
+ "ChangeDescriptionText": "$Khan -> カーン, Khan's Heart -> カーンの心臓$1|The Last Constable has been seen in Khan's Heart.",
+ "Name": "$Khan -> カーン, Khan's Heart -> カーンの心臓$The Last Constable: Khan's Heart",
+ "Id": 124617}

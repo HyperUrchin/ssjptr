@@ -1,3 +1,4 @@
 {"Description": "An aging hunter borne for Scrimshander, searching for the great tales of her ancestors.",
- "ChangeDescriptionText": "1|The Truth-Hunting Chelonate boards your ship, where she eagerly scans the waves for Scrimshander",
- "Name": "Scrimshander: A Truth-Hunting Chelonate", "Id": 128277}
+ "ChangeDescriptionText": "$Chelonate -> キェロネイト$1|The Truth-Hunting Chelonate boards your ship, where she eagerly scans the waves for Scrimshander",
+ "Name": "$Chelonate -> キェロネイト$Scrimshander: A Truth-Hunting Chelonate",
+ "Id": 128277}

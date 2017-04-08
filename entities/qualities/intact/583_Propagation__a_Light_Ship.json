@@ -1,2 +1,3 @@
-{"Description": "貴方は灯台船にブレミガンを蒔いた。@{M}You've sown blemmigans on a Light-Ship.",
- "Name": "繁殖: 灯台船@{M}Propagation: a Light-Ship", "Id": 116008}
+{"Description": "貴方は灯台船にブレミガンを蒔いた。@{M}$[Bb]lemmigan -> ブレミガン, Light-Ship -> 灯台船$You've sown blemmigans on a Light-Ship.",
+ "Name": "繁殖: 灯台船@{M}$Light-Ship -> 灯台船$Propagation: a Light-Ship",
+ "Id": 116008}

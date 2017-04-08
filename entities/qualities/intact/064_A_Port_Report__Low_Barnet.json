@@ -1,3 +1,4 @@
 {"Description": "Some truth may be gleaned amidst exaggeration and falsehood.",
- "AvailableAt": "This must be assembled at Low Barnet.",
- "Name": "A Port Report: Low Barnet", "Id": 127128}
+ "AvailableAt": "$Low Barnet -> ロウ・バーネット$This must be assembled at Low Barnet.",
+ "Name": "$Low Barnet -> ロウ・バーネット, Port Report -> 港湾報告書$A Port Report: Low Barnet",
+ "Id": 127128}

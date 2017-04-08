@@ -1,2 +1,3 @@
-{"Description": "いつかは目を逸らすことになる。[あなたが破れぬ遺言を作成している場合、あなたはこれらの財宝を家宝に変えて、後継者に引き継ぐことができます。]@{I}結局、貴方は目を逸らすだろう。[貴方が不可破の遺書を作成した場合、貴方の後継者の為にこれを家宝に変換する事が可能です。]@{M}You'll look away, eventually. [If you've made an Ironclad Will, you can convert these into Heirlooms for your successor.]",
- "Name": "魅惑的な財宝@{I}魅惑的な財宝@{M}Captivating Treasure", "Id": 108975}
+{"Description": "いつかは目を逸らすことになる。[あなたが破れぬ遺言を作成している場合、あなたはこれらの財宝を家宝に変えて、後継者に引き継ぐことができます。]@{I}結局、貴方は目を逸らすだろう。[貴方が不可破の遺書を作成した場合、貴方の後継者の為にこれを家宝に変換する事が可能です。]@{M}$Heirloom -> 家宝, Ironclad Will -> 破れぬ遺言$You'll look away, eventually. [If you've made an Ironclad Will, you can convert these into Heirlooms for your successor.]",
+ "Name": "魅惑的な財宝@{I}魅惑的な財宝@{M}$Captivating Treasure -> 魅惑的な財宝$Captivating Treasure",
+ "Id": 108975}

@@ -1,4 +1,4 @@
-{"Description": "冬の赤獣があなたの船倉をうろついている。@{I}The Crimson Beast of Winter lurks in your hold.",
+{"Description": "冬の赤獣があなたの船倉をうろついている。@{I}$Crimson('s)? Beast of Winter -> 冬の赤獣$The Crimson Beast of Winter lurks in your hold.",
  "ChangeDescriptionText": "1|ミスター・サックスがあなたの船に乗船した。~0|ミスター・サックスは去った。@{I}$Mr Sacks -> ミスター・サックス$1|Mr Sacks has boarded your ship.~0|Mr Sacks has departed.",
  "Name": "ミスター・サックス@{I}$Mr Sacks -> ミスター・サックス$Mr Sacks",
  "Id": 123496}

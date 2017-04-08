@@ -1,3 +1,3 @@
 {"Description": "いつも人目につかないところにいる。[諜報網を強固にするために必要になることがあります。]@{I}この人物は人を近寄らせない。 [諜報網を改善する為に、時々彼らが必要になります。]@{M}This one keeps out of the way. [They will sometimes be needed to improve an espionage network]",
- "Name": "情報網: 外交官の諜報員@{I}諜報網: 外交工作員@{M}Networks: A Diplomatic Agent",
+ "Name": "情報網: 外交官の諜報員@{I}諜報網: 外交工作員@{M}$Diplomatic Agent -> 外交官の諜報員$Networks: A Diplomatic Agent",
  "Id": 114104}

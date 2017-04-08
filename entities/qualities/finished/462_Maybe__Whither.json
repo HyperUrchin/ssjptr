@@ -1,2 +1,3 @@
-{"Description": "ウィザーではまだ、メイビーの娘は母親を探していない。@{I}メイビーの娘はウィザーでまだ彼女の母親を探していない。@{M}Maybe's Daughter has not yet looked for her mother in Whither.",
- "Name": "メイビー: ウィザー@{I}メイビー: ウィザー@{M}Maybe: Whither", "Id": 115734}
+{"Description": "ウィザーではまだ、メイビーの娘は母親を探していない。@{I}メイビーの娘はウィザーでまだ彼女の母親を探していない。@{M}$Whither -> ウィザー, Maybe's Daughter -> メイビーの娘$Maybe's Daughter has not yet looked for her mother in Whither.",
+ "Name": "メイビー: ウィザー@{I}メイビー: ウィザー@{M}$Whither -> ウィザー$Maybe: Whither",
+ "Id": 115734}

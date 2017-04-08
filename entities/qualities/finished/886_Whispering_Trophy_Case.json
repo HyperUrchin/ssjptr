@@ -1,3 +1,3 @@
-{"Description": "「ああ、そうだ。今夜は、溺れた男が水底で鼻歌を歌っているよ。まるで魚の骨のように」@{I}「ああ、溺れし男も今夜は、魚の骨の様に水の中で歌を口ずさんでいる。」@{M}\"Oh yes, the Drowned Man is humming tonight, a song in the water like the bones of fish.\"",
- "Name": "囁くトロフィーケース@{I}啜り泣く傷痕@{M}Whispering Trophy-Case",
+{"Description": "「ああ、そうだ。今夜は、溺れた男が水底で鼻歌を歌っているよ。まるで魚の骨のように」@{I}「ああ、溺れし男も今夜は、魚の骨の様に水の中で歌を口ずさんでいる。」@{M}$Drowned Man -> 溺れた男$\"Oh yes, the Drowned Man is humming tonight, a song in the water like the bones of fish.\"",
+ "Name": "囁くトロフィーケース@{I}啜り泣く傷痕@{M}$Whispering Trophy-Case -> 囁くトロフィーケース$Whispering Trophy-Case",
  "Id": 117229}

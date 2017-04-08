@@ -1,3 +1,4 @@
 {"Description": "貴方は氷と塩を見た。@{M}You have seen the ice and salt.",
- "ChangeDescriptionText": "1|貴方のウィザーへの訪問は総督府記録事務局で確認されました。@{M}1|Your visit to Whither has been confirmed by the Admiralty Records Office",
- "Name": "調査済: ウィザー@{M}Surveyed: Whither", "Id": 109629}
+ "ChangeDescriptionText": "1|貴方のウィザーへの訪問は総督府記録事務局で確認されました。@{M}$Admiralty -> 海軍省, Whither -> ウィザー$1|Your visit to Whither has been confirmed by the Admiralty Records Office",
+ "Name": "調査済: ウィザー@{M}$Whither -> ウィザー$Surveyed: Whither",
+ "Id": 109629}

@@ -1,3 +1,3 @@
-{"Description": "「カミナス造船所：真後ろに立たないこと」野蛮で不安にさせるほどの力を持つ兵器。@{I}\"カミナスの製造場: 良く下がれ。\" 野蛮でただならぬ力を持った武器。@{M}\"Caminus Yards: Stand Well Back.\" A weapon of savage and alarming power. ",
- "Name": "カミナス造船所のヘルスラッシャー@{I}カミナスの製造場 'ヘルスラッシャー'@{M}Caminus Yards Hellthrasher",
+{"Description": "「カミナス造船所：真後ろに立たないこと」野蛮で不安にさせるほどの力を持つ兵器。@{I}\"カミナスの製造場: 良く下がれ。\" 野蛮でただならぬ力を持った武器。@{M}$Caminus Yards -> カミナス造船所$\"Caminus Yards: Stand Well Back.\" A weapon of savage and alarming power. ",
+ "Name": "カミナス造船所のヘルスラッシャー@{I}カミナスの製造場 'ヘルスラッシャー'@{M}$Caminus Yards -> カミナス造船所$Caminus Yards Hellthrasher",
  "Id": 107138}

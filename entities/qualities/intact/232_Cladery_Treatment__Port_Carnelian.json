@@ -1,3 +1,4 @@
 {"Description": "Has the Cladery Heir performed a treatment?",
- "AvailableAt": "Port Carnelian",
- "Name": "Cladery Treatment: Port Carnelian", "Id": 128213}
+ "AvailableAt": "$Port Carnelian -> ポート・カーネリアン$Port Carnelian",
+ "Name": "$Port Carnelian -> ポート・カーネリアン$Cladery Treatment: Port Carnelian",
+ "Id": 128213}

@@ -1,4 +1,4 @@
 {"Description": "To burn.",
- "LevelDescriptionText": "1|A stale pastry~10|An apple slice~30|A Surface rose~40|A Viennese greenhouse~50|A beloved's perfume~20|A fresh-baked pie",
- "ChangeDescriptionText": "10|Cultivating a luscious flavour: the taste of an apple slice.~30|Cultivating a luscious flavour: the taste of a Surface rose.~40|Cultivating a luscious flavour: the taste of a Viennese greenhouse.~50|Cultivating a luscious flavour: the taste of a beloved's perfume.~20|Cultivating a luscious flavour: the taste of a fresh-baked pie.~1|Cultivating a luscious flavour: the taste of a stale pastry.",
+ "LevelDescriptionText": "$Surface -> 地上$1|A stale pastry~10|An apple slice~30|A Surface rose~40|A Viennese greenhouse~50|A beloved's perfume~20|A fresh-baked pie",
+ "ChangeDescriptionText": "$Surface -> 地上$10|Cultivating a luscious flavour: the taste of an apple slice.~30|Cultivating a luscious flavour: the taste of a Surface rose.~40|Cultivating a luscious flavour: the taste of a Viennese greenhouse.~50|Cultivating a luscious flavour: the taste of a beloved's perfume.~20|Cultivating a luscious flavour: the taste of a fresh-baked pie.~1|Cultivating a luscious flavour: the taste of a stale pastry.",
  "Name": "Rosegate: The Luscious Flavour", "Id": 125661}

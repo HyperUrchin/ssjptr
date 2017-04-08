@@ -1,4 +1,4 @@
-{"Description": "配達不能郵便局で交代勤務を経験する。@{M}Experienced in shift work at the Dead Letter Office.",
+{"Description": "配達不能郵便局で交代勤務を経験する。@{M}$Dead Letter Office -> 配達不能郵便局$Experienced in shift work at the Dead Letter Office.",
  "LevelDescriptionText": "1|仕事に招かれる~2|一般事務員~3|熟練事務員~4|裏部屋への通行許可~5|地階管理人@{M}1|Invited to Serve~2|Working Shifts~3|Experienced Shiftworker~4|Authorised for Back Room Access~5|Basement Custodian",
- "Name": "ヌンシオ: 配達不能郵便物の作業員@{M}Nuncio: Worker in Dead Letters",
+ "Name": "ヌンシオ: 配達不能郵便物の作業員@{M}$Nuncio -> ナンシノウ$Nuncio: Worker in Dead Letters",
  "Id": 115748}

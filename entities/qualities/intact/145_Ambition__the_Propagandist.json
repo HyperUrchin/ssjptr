@@ -1,4 +1,4 @@
 {"Description": "Who will spread the word?",
- "LevelDescriptionText": "1|You have yet to recruit someone~5|Bourdain, or what is left of him~3|If you cannot retrieve Bourdain, a Voracious London Diplomat may make a suitable replacement~10|The Voracious Diplomat",
- "ChangeDescriptionText": "1|The Seven require a Propagandist.~5|The Seven have found their Propogandist.~3|Perhaps a Voracious London Diplomat could replace Bourdain.",
- "Name": "Ambition: the Propagandist", "Id": 128589}
+ "LevelDescriptionText": "$Voracious Diplomat -> 貪欲な外交官, Bourdain -> ボーデイン$1|You have yet to recruit someone~5|Bourdain, or what is left of him~3|If you cannot retrieve Bourdain, a Voracious London Diplomat may make a suitable replacement~10|The Voracious Diplomat",
+ "ChangeDescriptionText": "$Bourdain -> ボーデイン$1|The Seven require a Propagandist.~5|The Seven have found their Propogandist.~3|Perhaps a Voracious London Diplomat could replace Bourdain.",
+ "Name": "$Ambition -> 大望$Ambition: the Propagandist", "Id": 128589}

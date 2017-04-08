@@ -1,4 +1,5 @@
-{"Description": "A beast of the zee has gone to the Gant Pole.",
- "LevelDescriptionText": "2|Triskelegant~3|Beloved~4|Behemoustache~1|Thalatte",
- "ChangeDescriptionText": "0|The Gant Pole awaits its next weary beast.~1|A beast heads to the Gant Pole.",
- "Name": "Gant Pole: Something Ends", "Id": 126770}
+{"Description": "$Gant Pole -> ギャント・ポール$A beast of the zee has gone to the Gant Pole.",
+ "LevelDescriptionText": "$Behemoustache -> 髭ベヒモス$2|Triskelegant~3|Beloved~4|Behemoustache~1|Thalatte",
+ "ChangeDescriptionText": "$Gant Pole -> ギャント・ポール$0|The Gant Pole awaits its next weary beast.~1|A beast heads to the Gant Pole.",
+ "Name": "$Gant Pole -> ギャント・ポール$Gant Pole: Something Ends",
+ "Id": 126770}

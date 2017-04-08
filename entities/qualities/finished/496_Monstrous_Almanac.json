@@ -1,2 +1,3 @@
 {"Description": "財宝のインクで詳細に書き込まれたノートの山。@{I}財宝インクでびっしりと書かれた、筆記帳の束。@{M}A stack of notebooks, closely written in treasure-ink.",
- "Name": "怪物年鑑@{I}巨大な年鑑@{M}Monstrous Almanac", "Id": 117230}
+ "Name": "怪物年鑑@{I}巨大な年鑑@{M}$Monstrous Almanac -> 怪物年鑑$Monstrous Almanac",
+ "Id": 117230}

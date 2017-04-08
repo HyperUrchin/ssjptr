@@ -1,2 +1,2 @@
 {"Description": "死を介して伝えられるメッセージ。[これはあなたの宿に安全に保管されます。]@{I}伝言は死を媒体として伝えられた。[これは貴方の宿場に安全に保管されます。]@{M}A message transmitted through the medium of death. [This is stored safely in your Lodgings.]",
- "Name": "家宝@{I}家宝@{M}Heirloom", "Id": 110652}
+ "Name": "家宝@{I}家宝@{M}$Heirloom -> 家宝$Heirloom", "Id": 110652}

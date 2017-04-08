@@ -1,4 +1,4 @@
-{"Description": "類稀なる技術によって創り出されたエンジン、または兵器を届けよう。あなたのオフィサーたちが助けになってくれるだろう。@{I}ユニークな才気溢れるエンジンか武器を持参せよ。貴方の幹部が何か知っているだろう。@{M}Bring an engine or weapon of unique brilliance. Your Officers can help.",
- "ChangeDescriptionText": "0|あなたは科学の奇跡をもたらし、ファザムキングの要求を満たした~1|ファザムキングは科学の奇跡を要求した@{I}0|貴方は水底帝の科学の奇跡の要求を達成した。~1|水底帝は貴方に科学の奇跡を要求した。@{M}0|You have fulfilled the Fathomking's request for a Miracle of Science~1|The Fathomking has requested a Miracle of Science",
- "Name": "父の遺骨: ファザムキングに捧ぐ、科学の奇跡@{I}父親の遺骨: 水底帝へ贈る科学の奇跡@{M}Your Father's Bones: a Miracle of Science for the Fathomking",
+{"Description": "類稀なる技術によって創り出されたエンジン、または兵器を届けよう。あなたのオフィサーたちが助けになってくれるだろう。@{I}ユニークな才気溢れるエンジンか武器を持参せよ。貴方の幹部が何か知っているだろう。@{M}$Officer -> オフィサー$Bring an engine or weapon of unique brilliance. Your Officers can help.",
+ "ChangeDescriptionText": "0|あなたは科学の奇跡をもたらし、ファザムキングの要求を満たした~1|ファザムキングは科学の奇跡を要求した@{I}0|貴方は水底帝の科学の奇跡の要求を達成した。~1|水底帝は貴方に科学の奇跡を要求した。@{M}$Miracle of Science -> 科学の奇跡, Fathomking -> ファザムキング$0|You have fulfilled the Fathomking's request for a Miracle of Science~1|The Fathomking has requested a Miracle of Science",
+ "Name": "父の遺骨: ファザムキングに捧ぐ、科学の奇跡@{I}父親の遺骨: 水底帝へ贈る科学の奇跡@{M}$Miracle of Science -> 科学の奇跡, Your Father's Bones: -> 父の遺骨:, Fathomking -> ファザムキング$Your Father's Bones: a Miracle of Science for the Fathomking",
  "Id": 114907}

@@ -1,2 +1,3 @@
 {"Description": "有能かって？多分ね。信頼できるかって？もしかしたらね。@{I}有能？恐らく。信用出来る？多分。@{M}Competent? Probably. Trustworthy? Possibly.",
- "Name": "賢しげな航海士@{I}狡猾な航海士@{M}Sly Navigator", "Id": 107459}
+ "Name": "賢しげな航海士@{I}狡猾な航海士@{M}$Sly Navigator -> 賢しげな航海士$Sly Navigator",
+ "Id": 107459}

@@ -1,3 +1,4 @@
 {"Description": "You understand the power of the spoken word.",
- "LevelDescriptionText": "1|You have witnessed a story-trading contest at Low Barnet~0|You are unfamiliar with the story-trading contests at Low Barnet~2|You won a story-trading contest, and may enter the bell tower~3|You have stared into the mouth of oblivion~4|Your soul has been consumed by a bell",
- "Name": "Low Barnet: Story Contests", "Id": 127259}
+ "LevelDescriptionText": "$Low Barnet -> ロウ・バーネット$1|You have witnessed a story-trading contest at Low Barnet~0|You are unfamiliar with the story-trading contests at Low Barnet~2|You won a story-trading contest, and may enter the bell tower~3|You have stared into the mouth of oblivion~4|Your soul has been consumed by a bell",
+ "Name": "$Low Barnet -> ロウ・バーネット$Low Barnet: Story Contests",
+ "Id": 127259}

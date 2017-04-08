@@ -1,3 +1,4 @@
 {"Description": "貴方は常識以上に茸に溢れかえっている場所を見た。@{M}You have seen the place where they have more mushrooms than sense.",
- "ChangeDescriptionText": "1|貴方のデュモー島への訪問は総督府記録事務局で確認されました。@{M}1|Your visit to Demeaux Island has been confirmed by the Admiralty Records Office",
- "Name": "調査済: デュモー島@{M}Surveyed: Demeaux Island", "Id": 109631}
+ "ChangeDescriptionText": "1|貴方のデュモー島への訪問は総督府記録事務局で確認されました。@{M}$Admiralty -> 海軍省, Demeaux Island -> デミオー・アイランド$1|Your visit to Demeaux Island has been confirmed by the Admiralty Records Office",
+ "Name": "調査済: デュモー島@{M}$Demeaux Island -> デミオー・アイランド$Surveyed: Demeaux Island",
+ "Id": 109631}

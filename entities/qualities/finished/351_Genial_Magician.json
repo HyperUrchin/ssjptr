@@ -1,3 +1,4 @@
 {"Description": "",
  "AvailableAt": "　時々、ロンドンで雇えることがある。@{I}時々ロンドンで雇う事が出来る。@{M}Sometimes available for hire in London.",
- "Name": "気さくなマジシャン@{I}温和なマジシャン@{M}Genial Magician", "Id": 102985}
+ "Name": "気さくなマジシャン@{I}温和なマジシャン@{M}$Genial Magician -> 気さくなマジシャン$Genial Magician",
+ "Id": 102985}

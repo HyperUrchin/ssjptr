@@ -1,2 +1,3 @@
 {"Description": "これら黄色み掛かった欠片の素性ははっきりしない。ただ確かなのは、悪魔の死体から作られているわけではなさそうだということだけだ。これらはキャニスターの中に密閉保存される。もしかしたら、弾薬として。@{I}この黄色い欠片の特性は、これは死亡した悪魔から生み出された物には見えないという事以外は不明だ。それらは恐らく弾薬として、密封された金属容器に入れられている。@{M}The nature of these yellowish morsels is unclear, except that they are unlikely to be composed of deceased devils. They are kept in sealed cannisters, possibly as ammunition.",
- "Name": "悪魔骨の賽@{I}悪魔骨の賽子@{M}Devilbone Dice", "Id": 105969}
+ "Name": "悪魔骨の賽@{I}悪魔骨の賽子@{M}$Devilbone Dice -> 悪魔骨の賽$Devilbone Dice",
+ "Id": 105969}

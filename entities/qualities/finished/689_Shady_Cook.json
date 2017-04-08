@@ -1,2 +1,3 @@
 {"Description": "彼は物資を食べられるようにしてくれる。味は良くはないにせよ。@{I}彼は物資を食用に処理出来る。口に合うかどうかは置いといて。@{M}He can render the supplies edible, if not palatable.",
- "Name": "胡散臭い料理人@{I}影のある料理人@{M}Shady Cook", "Id": 107460}
+ "Name": "胡散臭い料理人@{I}影のある料理人@{M}$Shady Cook -> 胡散臭い料理人, Shady Cook -> 胡散臭い料理人$Shady Cook",
+ "Id": 107460}

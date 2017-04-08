@@ -1,2 +1,3 @@
-{"Description": "ヴァルカスでは太陽が崇められ、暗闇は街から徹底的に排除されている。@{M}They worship the sun in Varchas, and have banished darkness from the city.",
- "Name": "ヴァルカス: 鏡の街@{M}Varchas: the Mirrored City", "Id": 109963}
+{"Description": "ヴァルカスでは太陽が崇められ、暗闇は街から徹底的に排除されている。@{M}$Varchas -> ヴァーチャス$They worship the sun in Varchas, and have banished darkness from the city.",
+ "Name": "ヴァルカス: 鏡の街@{M}$Varchas -> ヴァーチャス$Varchas: the Mirrored City",
+ "Id": 109963}

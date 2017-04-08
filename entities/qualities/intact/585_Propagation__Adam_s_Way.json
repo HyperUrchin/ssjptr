@@ -1,2 +1,3 @@
-{"Description": "貴方はアダムの道にブレミガンを蒔いた。@{M}You've sown blemmigans at Adam's Way.",
- "Name": "繁殖: アダムの道@{M}Propagation: Adam's Way", "Id": 115582}
+{"Description": "貴方はアダムの道にブレミガンを蒔いた。@{M}$[Bb]lemmigan -> ブレミガン, Adam's Way -> アダムの道$You've sown blemmigans at Adam's Way.",
+ "Name": "繁殖: アダムの道@{M}$Adam's Way -> アダムの道$Propagation: Adam's Way",
+ "Id": 115582}

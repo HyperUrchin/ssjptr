@@ -1,4 +1,5 @@
 {"Description": "Is she working amongst the nearly-dead?",
- "LevelDescriptionText": "1|You have not looked for her in Venderbight",
- "ChangeDescriptionText": "1|The Last Constable has been seen in Venderbight.",
- "Name": "The Last Constable: Venderbight", "Id": 124616}
+ "LevelDescriptionText": "$Venderbight -> ヴェンダーバイト$1|You have not looked for her in Venderbight",
+ "ChangeDescriptionText": "$Venderbight -> ヴェンダーバイト$1|The Last Constable has been seen in Venderbight.",
+ "Name": "$Venderbight -> ヴェンダーバイト$The Last Constable: Venderbight",
+ "Id": 124616}

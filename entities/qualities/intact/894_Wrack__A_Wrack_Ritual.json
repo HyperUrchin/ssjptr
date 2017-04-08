@@ -1,4 +1,4 @@
 {"Description": "When two who are tethered first exchange a gift, the custom is to bury it in Dahut.",
- "LevelDescriptionText": "1|The Fair King has requested you bury your offering of scintillack in Dahut~5|You buried the scintillack in Dahut. Who knows what it may grow into?~10|You kept the scintillack for yourself. Who'll ever be the wiser?",
- "ChangeDescriptionText": "1|The Fair King has requested you bury your offering of scintillack in Dahut.~5|You buried the scintillack in Dahut. Who knows what it may grow into?\u0009~10|You kept the scintillack for yourself. Who'll ever be the wiser?\u0009",
+ "LevelDescriptionText": "$[Ss]cintillack -> シンティラック$1|The Fair King has requested you bury your offering of scintillack in Dahut~5|You buried the scintillack in Dahut. Who knows what it may grow into?~10|You kept the scintillack for yourself. Who'll ever be the wiser?",
+ "ChangeDescriptionText": "$[Ss]cintillack -> シンティラック$1|The Fair King has requested you bury your offering of scintillack in Dahut.~5|You buried the scintillack in Dahut. Who knows what it may grow into?\u0009~10|You kept the scintillack for yourself. Who'll ever be the wiser?\u0009",
  "Name": "Wrack: A Wrack Ritual", "Id": 127720}

@@ -1,5 +1,5 @@
 {"Description": "",
  "LevelDescriptionText": "1|見られている@{I}1|視られている。@{M}1|Watched",
  "ChangeDescriptionText": "1|あなたは巨大な目の悪夢に苦しみ始めた@{I}1|貴方は巨大な瞳の悪夢に苛まれ始めた。@{M}1|You have begun to suffer nightmares of a vast Eye",
- "Name": "危機: 繰り返す悪夢@{I}厄介事: 繰り返す悪夢@{M}Menaces: A Recurring Nightmare",
+ "Name": "危機: 繰り返す悪夢@{I}厄介事: 繰り返す悪夢@{M}$Menaces: -> 危機:$Menaces: A Recurring Nightmare",
  "Id": 105970}

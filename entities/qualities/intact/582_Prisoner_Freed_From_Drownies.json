@@ -1,3 +1,4 @@
 {"Description": "This former prisoner is travelling to Rosegate.",
  "AvailableAt": "The Prisoner is imprisoned at Dahut.",
- "Name": "Prisoner Freed From Drownies", "Id": 126434}
+ "Name": "$Drown(y|ies) -> ドロウニー$Prisoner Freed From Drownies",
+ "Id": 126434}

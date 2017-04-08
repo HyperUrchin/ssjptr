@@ -1,2 +1,3 @@
 {"Description": "貴方の子供はジーキャプテンになるのだろうか？[この値を十分高く上げれば、貴方は子孫を得られます。]@{M}Will your child become a zee-captain? [Raise this high enough, and you'll get a Scion.]",
- "Name": "回顧録: ジー・フィーバー@{M}Memoirs: Zee Fever", "Id": 113638}
+ "Name": "回顧録: ジー・フィーバー@{M}$Memoirs: -> 記憶:$Memoirs: Zee Fever",
+ "Id": 113638}

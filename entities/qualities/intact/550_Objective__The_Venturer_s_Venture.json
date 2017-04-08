@@ -1,4 +1,4 @@
 {"Description": "彼には計画がある。@{M}He has a plan.",
- "LevelDescriptionText": "1|夢と遠謀~11|準備完了~20|北へ、渇望した水平線へ~50|貿易商人は居なくなった~100|貿易商人は居なくなった@{M}1|A Dream and a Scheme~20|North, to Avid Horizon~100|The Venturer is gone~11|Preparations Complete~50|The Venturer is gone",
+ "LevelDescriptionText": "1|夢と遠謀~11|準備完了~20|北へ、渇望した水平線へ~50|貿易商人は居なくなった~100|貿易商人は居なくなった@{M}$Avid Horizon -> アビッド・ホライズン$1|A Dream and a Scheme~20|North, to Avid Horizon~100|The Venturer is gone~11|Preparations Complete~50|The Venturer is gone",
  "Name": "目的: 貿易商人の冒険@{M}Objective: The Venturer's Venture",
  "Id": 110541}

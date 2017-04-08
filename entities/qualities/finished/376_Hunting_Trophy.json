@@ -1,2 +1,3 @@
 {"Description": "あなたの獲物は打ち負かされた。その証拠がこれだ。@{I}獲物は打ち破られたが、これは手元に残る。@{M}Your prey is vanquished, but this remains.",
- "Name": "狩りの戦利品@{I}狩猟の記念品@{M}Hunting-Trophy", "Id": 109714}
+ "Name": "狩りの戦利品@{I}狩猟の記念品@{M}$Hunting[- ]Troph(y|ies) -> 狩りの戦利品$Hunting-Trophy",
+ "Id": 109714}

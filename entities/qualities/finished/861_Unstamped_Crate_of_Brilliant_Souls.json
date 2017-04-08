@@ -1,3 +1,3 @@
 {"Description": "並外れた人間の魂。これには、帝国の税関によるスタンプが押されていない。そのため、開かれた市場では売ることができないし、持っている所を捕まるのもまずい。@{I}卓越した人間の魂が入った木箱。王国税関の認印がほのかに付けられている事は知られていない。結果的に、表立って市場で販売する事は不可能であり、これを持って捕まる事は避けたほうが懸命だろう。@{M}A crate of exceptional human souls. It has never known the tender touch of the Imperial Customs stamp. Consequently, it cannot be sold on the open market, and you'd better not be caught with it.",
- "Name": "未押印の素晴らしい人間の魂@{I}輝く魂の入った消印の無い木箱@{M}Unstamped Crate of Brilliant Souls",
+ "Name": "未押印の素晴らしい人間の魂@{I}輝く魂の入った消印の無い木箱@{M}$Unstamped Crate of Brilliant Souls -> 未押印の素晴らしい人間の魂$Unstamped Crate of Brilliant Souls",
  "Id": 109679}

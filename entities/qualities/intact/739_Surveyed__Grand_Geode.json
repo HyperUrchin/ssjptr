@@ -1,2 +1,3 @@
-{"Description": "貴方は曙光機の選ばれし者の館を見てきた。@{M}You've seen the house of the elect of the Dawn Machine.",
- "Name": "調査済: グランジオード@{M}Surveyed: Grand Geode", "Id": 115592}
+{"Description": "貴方は曙光機の選ばれし者の館を見てきた。@{M}$Dawn Machine -> ドーン・マシン$You've seen the house of the elect of the Dawn Machine.",
+ "Name": "調査済: グランジオード@{M}$Grand Geode -> 大晶洞$Surveyed: Grand Geode",
+ "Id": 115592}

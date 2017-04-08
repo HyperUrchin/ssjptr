@@ -1,3 +1,4 @@
-{"Description": "貴方は郵便配達人にヌンシオを去る良い機会を与えた。@{M}You gave a postman an opportunity to leave Nuncio.",
- "ChangeDescriptionText": "0|貴方が救った郵便配達人にお礼を渡された。~1|貴方は郵便配達人にヌンシオを去る良い機会を与えた。@{M}1|You gave a postman an opportunity to leave Nuncio.~0|You have been repaid by the postman that you saved.",
- "Name": "ヌンシオ: 解放@{M}Nuncio: Deliverance", "Id": 115929}
+{"Description": "貴方は郵便配達人にヌンシオを去る良い機会を与えた。@{M}$Nuncio -> ナンシノウ$You gave a postman an opportunity to leave Nuncio.",
+ "ChangeDescriptionText": "0|貴方が救った郵便配達人にお礼を渡された。~1|貴方は郵便配達人にヌンシオを去る良い機会を与えた。@{M}$Nuncio -> ナンシノウ$1|You gave a postman an opportunity to leave Nuncio.~0|You have been repaid by the postman that you saved.",
+ "Name": "ヌンシオ: 解放@{M}$Nuncio -> ナンシノウ$Nuncio: Deliverance",
+ "Id": 115929}

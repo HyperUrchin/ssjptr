@@ -1,2 +1,3 @@
 {"Description": "この恐ろしい遺物から審判が孵ったのだろうか？あるいはまったくの別物か。目を痛める色彩の不在に、顔を近づけ過ぎてはならない。@{I}審判はこのおぞましい遺物から孵ったのか？それともこれは全く別の物なのか？目が痛くなるような色の欠如をまじまじと見てはならない。@{M}Did a Judgement hatch from this grim relic? Or was it something else entirely. Don't look too closely at the eye-hurting absence of colour.",
- "Name": "星の殻@{I}星の殻@{M}Star-Shell", "Id": 115914}
+ "Name": "星の殻@{I}星の殻@{M}$Star-Shell -> 星の殻$Star-Shell",
+ "Id": 115914}
