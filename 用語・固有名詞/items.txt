@@ -82,7 +82,6 @@ Hunting[- ]Troph(y|ies), 狩りの戦利品
 Lamentable Relic, 嘆かわしい遺物
 Romantic Literature, 恋愛小説
 (Firkin of)?[Pp]risoner's [Hh]oney, 囚人の蜜
-Cache of Curiosities, 物珍しい貯蔵品
 Unread Log, 未だ読まれていない航海日誌
 [Hh]eartmetal, ハートメタル
 Doomed Monster Hunter, 死の運命にあるモンスターハンター
