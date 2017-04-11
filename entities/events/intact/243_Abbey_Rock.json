@@ -42,7 +42,7 @@
                     "Name": "Watch the Convent",
                     "Description": "Wait a while and see...", "ButtonText": "",
                     "Id": 129938},
-                   {"DefaultEvent": {"Description": "$Visage -> ヴィシージ$Someone died here, far from home, long enough ago that their flesh is gone. A Visager, by the look of their frog-mask. The mask will be worth a bit. The skull would look good on a mantelpiece. And what's this map?",
+                   {"DefaultEvent": {"Description": "$Visage -> ヴィザージュ$Someone died here, far from home, long enough ago that their flesh is gone. A Visager, by the look of their frog-mask. The mask will be worth a bit. The skull would look good on a mantelpiece. And what's this map?",
                                      "Name": "A map, a mask, the face beneath", "Id": 152496},
                     "RareDefaultEvent": {"Description": "$Khan -> カーン, Admiralty -> 海軍省, Khanate -> カーネイト$You follow tracks into a sea-cave. Someone has stored food, supplies, ammunition. It can't be the nuns. These crates have a Khanate look. The Admiralty will want to know about this.",
                                          "Name": "A cache!", "Id": 180748},

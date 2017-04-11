@@ -1,7 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "\"All those who enter must play their parts.\" The sign is visible only after you've crossed the threshold.",
                                      "LinkToEvent": {"Id": 168605}, "Name": "Terms", "Id": 143377},
                     "Name": "Go ashore",
-                    "Description": "$Visage -> ヴィシージ$Inward and upward. [Once you set foot on Visage, you may be here for a little while.]",
+                    "Description": "$Visage -> ヴィザージュ$Inward and upward. [Once you set foot on Visage, you may be here for a little while.]",
                     "ButtonText": "", "Id": 124092},
                    {"DefaultEvent": {"Description": "A departing merchant gives you a confused account of crocodiles and honey-cakes and something about... ear blockage?\u000d\u000a\u000d\u000aTo this you add your own impressions about the street layout close to port and the types of commerce here. When the lights are especially bright, it is possible to make out the details of the profile of that great stone face.",
                                      "LinkToEvent": {"Id": 143376}, "Name": "That will have to do",
@@ -19,5 +19,5 @@
                     "Name": "A Wandering Parson",
                     "Description": "He glances nervously back at the face in the hill, but his handshake is strong.",
                     "ButtonText": "", "Id": 186597}],
- "Description": "$Visage -> ヴィシージ, Flourishing ?- ?of ?- ?Years -> 悠久の栄え$This is the port of Visage, where faces may not be naked. Except one: a stone monument the size of a village church, serenely gazing upwards. Flourishing-of-Years.",
- "Name": "$Visage -> ヴィシージ$Visage", "Id": 143376}
+ "Description": "$Visage -> ヴィザージュ, Flourishing ?- ?of ?- ?Years -> 悠久の栄え$This is the port of Visage, where faces may not be naked. Except one: a stone monument the size of a village church, serenely gazing upwards. Flourishing-of-Years.",
+ "Name": "$Visage -> ヴィザージュ$Visage", "Id": 143376}

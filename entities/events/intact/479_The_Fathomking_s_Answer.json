@@ -130,7 +130,7 @@
                     "Name": "What happened to your father's name?",
                     "Description": "Who broke the rock?", "ButtonText": "",
                     "Id": 145320},
-                   {"DefaultEvent": {"Description": "$Snuffer -> スナッファー, Visage -> ヴィシージ, Fathomking -> ファザムキング$\"Visage is a nexus of competing powers. The Masters. The Snuffers. And now the Widow. I will help you unpick the web - oh yes - but I will move carefully.\"\u000d\u000a\u000d\u000aHe leans back. \"Besides, I don't get nearly enough fruit down here.\" [You can review the Fathomking's requests in the Curiosities section of your Gazetteer.]",
+                   {"DefaultEvent": {"Description": "$Snuffer -> スナッファー, Visage -> ヴィザージュ, Fathomking -> ファザムキング$\"Visage is a nexus of competing powers. The Masters. The Snuffers. And now the Widow. I will help you unpick the web - oh yes - but I will move carefully.\"\u000d\u000a\u000d\u000aHe leans back. \"Besides, I don't get nearly enough fruit down here.\" [You can review the Fathomking's requests in the Curiosities section of your Gazetteer.]",
                                      "LinkToEvent": {"Id": 176515},
                                      "Name": "\"There's more here than you know.\"", "Id": 178721},
                     "Name": "All this for the name of a mask?",

@@ -112,5 +112,5 @@
                     "Description": "　黒い蝋で入念に封をされた、大きな柳網のバスケット。@{I}小枝で編まれ、黒蝋で丁寧に封印された大きな籠だ。@{M}A big wicker basket, scrupulously sealed with black wax.",
                     "ButtonText": "", "Id": 131299}],
  "Description": "　中身は何だろう？@{I}中には何が?@{M}What's inside?",
- "Name": "物珍しい貯蔵品を開く@{I}好奇の箱を開ける@{M}$Cache of Curiosities -> 物珍しい貯蔵品, Cache of Curiosities -> 物珍しい貯蔵品$Opening a Cache of Curiosities",
+ "Name": "物珍しい貯蔵品を開く@{I}好奇の箱を開ける@{M}$Cache of Curiosities -> 物珍しい貯蔵品$Opening a Cache of Curiosities",
  "Id": 140906}

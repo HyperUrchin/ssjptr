@@ -26,7 +26,7 @@
                    {"DefaultEvent": {"Description": "The Fair King slaps the side of his throne, and seems to rise in indignation. \"No, you absolutely may not have my mirror. No one may. It is one of our greatest treasures.\"\u000d\u000a\u000d\u000aHis expression softens after a moment, though, and he settles back into his throne. \"Not unless you brought me something more wonderful, of course.\"  ",
                                      "LinkToEvent": {"Id": 243326}, "Name": "", "Id": 243403},
                     "Name": "$Ambition -> 大望$Ambition: Can you have the mirror?",
-                    "Description": "You recognise the reflection inside from Mariam's statues. This is Bourdain, the Seven's Propagandist.",
+                    "Description": "$Bourdain -> ボーデイン$You recognise the reflection inside from Mariam's statues. This is Bourdain, the Seven's Propagandist.",
                     "ButtonText": "", "Id": 185956},
                    {"DefaultEvent": {"Description": "\"You've found me, haven't you? In many times and places. But today - what are we?\"",
                                      "LinkToEvent": {"Id": 243340}, "Name": "", "Id": 243407},

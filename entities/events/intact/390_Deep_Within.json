@@ -15,7 +15,7 @@
                     "Name": "Fight the urge to panic",
                     "Description": "The room may have got bigger, but you are still trapped like a bug in a bottle.",
                     "ButtonText": "", "Id": 139116},
-                   {"DefaultEvent": {"Description": "$Visage -> ヴィシージ$You manage to stifle yourself. The only thing that comes out sounds like a sneeze.\u000d\u000a\u000d\u000aHere and there people are talking around you, telling of childhoods in padded nurseries, silenced under the Scarab-shaped baby mask. Other pasts, too, not all lived on Visage.",
+                   {"DefaultEvent": {"Description": "$Visage -> ヴィザージュ$You manage to stifle yourself. The only thing that comes out sounds like a sneeze.\u000d\u000a\u000d\u000aHere and there people are talking around you, telling of childhoods in padded nurseries, silenced under the Scarab-shaped baby mask. Other pasts, too, not all lived on Visage.",
                                      "LinkToEvent": {"Id": 168628}, "Name": "Suppressed",
                                      "Id": 168626},
                     "Name": "Fight the urge to giggle",

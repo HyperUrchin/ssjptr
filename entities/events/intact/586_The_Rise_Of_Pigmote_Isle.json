@@ -39,7 +39,7 @@
                    {"DefaultEvent": {"Description": "The ambassador lifts her mask to whisper. The exchange made, she savours a breath of air through unencumbered lips before returning to her true face.",
                                      "LinkToEvent": {"Id": 208079}, "Name": "Revelations",
                                      "Id": 208130},
-                    "Name": "$Visage -> ヴィシージ$Trade with the Visage Ambassador",
+                    "Name": "$Visage -> ヴィザージュ$Trade with the Visage Ambassador",
                     "Description": "She earned her crocodile mask for sharing too many secrets. She has nothing to lose by selling one more.",
                     "ButtonText": "", "Id": 163512},
                    {"DefaultEvent": {"Description": "$Pigmote Isle -> ピグモート・アイル, [Ss]cintillack -> シンティラック$You have to kneel at the long table, but none rise without eating their fill. [q: Pigmote Isle: Mastery] is flourishing. London may laugh at its new neighbours, but other powers have sent envoys to negotiate for scintillack.\u000d\u000a\u000d\u000aSpiced soup is followed by glistening haunches of meat wrapped in tender chickenwood strips. Both are merely appetisers. By dessert, you fear having to be <i>rolled</i> back aboard ship. The Seneschal orders the leftovers delivered to the hold.",
