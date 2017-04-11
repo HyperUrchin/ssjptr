@@ -180,7 +180,7 @@
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 144833},
                                      "Name": "報告書提出！@{I}報告書は提出された!@{M}Report submitted!",
                                      "Id": 173539},
-                    "Name": "ヴィシージ@{I}ヴィサージュ@{M}$Visage -> ヴィシージ$Visage",
+                    "Name": "ヴィザージュ@{I}ヴィサージュ@{M}$Visage -> ヴィシージ$Visage",
                     "Description": "「ああ、見上げている島だな。何を見つめているのかは、君にも分からなかったとは思うが」@{I}「ああ、あの'見上げる'島ですか。一体何を見つめているのか貴方に分かった訳では無いと推察しますが。」@{M}\"Ah, the island that looks up. I don't suppose you found out what it's staring at.\"",
                     "ButtonText": "", "Id": 142040},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 144833},
