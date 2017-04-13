@@ -58,8 +58,8 @@
                     "ButtonText": "", "Id": 139896},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 176410},
                                      "Name": "", "Id": 177517},
-                    "Name": "$Assigner of Corpse -> 死体譲渡人$The Assigner of Corpses?",
-                    "Description": "$Gracious Widow -> 心優しい未亡人, Assigner of Corpse -> 死体譲渡人$One of these masked strangers is the Assigner of Corpses, if the Gracious Widow is to be believed. But which?",
+                    "Name": "死体譲渡人はどこにいる？@{K}$$Assigner of Corpse -> 死体譲渡人$The Assigner of Corpses?",
+                    "Description": "心優しい未亡人の言葉を信じるなら、この仮面を着けた異邦人たちの中の誰かが死体譲渡人のはずだ。しかし、どれがそうだろう？@{K}$Gracious Widow -> 心優しい未亡人, Assigner of Corpse -> 死体譲渡人$One of these masked strangers is the Assigner of Corpses, if the Gracious Widow is to be believed. But which?",
                     "ButtonText": "", "Id": 144563}],
  "Description": "On the lower slopes: stone buildings, flat roofs, archways. In the architecture there lingers a memory of lotus and palm frond. The hill above is a face, forever looking up at the ceiling of the Unterzee. No one inhabits its cheeks or the hollows of its eyes.",
  "Name": "$Visage -> ヴィザージュ$Ashore in Visage", "Id": 168605}
