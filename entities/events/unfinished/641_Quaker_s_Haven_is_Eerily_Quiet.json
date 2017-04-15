@@ -33,5 +33,5 @@
                     "Description": "You snatch a candlestick from a nearby sill. Your crew raise their fists. It's a long way to the ship.",
                     "ButtonText": "", "Id": 177544}],
  "Description": "A still, sleepy evening. Something is different. Fewer coils of smoke rise from the chimneys. Half the windows are dark, even at this early hour. What's going on?",
- "Name": "$Quaker's Haven -> クエーカーズ・ヘイヴン$Quaker's Haven is Eerily Quiet",
+ "Name": "クエーカーズ・ヘイヴンは不気味なほど静かだ@{I}$Quaker's Haven -> クエーカーズ・ヘイヴン$Quaker's Haven is Eerily Quiet",
  "Id": 230507}

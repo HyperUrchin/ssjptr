@@ -40,4 +40,4 @@
                     "Description": "Each of them has a theory about what happened on the island.",
                     "ButtonText": "", "Id": 180102}],
  "Description": "$false-star -> 偽星, Mutton Island -> マトン・アイランド$Mutton Island rests, silently, under the false-stars. No smoke rises from the chimneys. No feet tread the streets. No ruddy-cheeked locals trade rustic aphorisms on the jetty. What has happened?",
- "Name": "$Aft -> 後部$After the Festival", "Id": 230505}
+ "Name": "祭りの後@{I}$Aft -> 後部$After the Festival", "Id": 230505}
