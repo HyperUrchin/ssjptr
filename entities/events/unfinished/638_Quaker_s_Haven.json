@@ -63,7 +63,7 @@
                     "Name": "ミスター・サックスのための届け物@{I}$Mr Sacks -> ミスター・サックス$A delivery for Mr Sacks",
                     "Description": "　チアリー・マンの仲間が、パブで酒を飲んでいる。@{I}The Cheery Man's fellow is drinking in the pub.",
                     "ButtonText": "", "Id": 177535},
-                   {"DefaultEvent": {"Description": "　あなたが店に入ると、中の人々はあなたに向けてマグを掲げ、心のこもった挨拶で歓迎してくれた。「好きなところに座るといい」バーテンダーは大きな声でそう言って、グラスに水を注いだ。「今日はりんご酒はないよ。水だけだ。それで十分だと良いんだがね、[q:Addressed As]！俺たちはこれが好きになったんだよ、だよな？」常連たちはグラスを掲げると、それを呷った。@{I}They raise their mugs to you as you enter, and welcome you with a hearty hello. \"'ave a seat where you like,\" booms the barman, as he pours a glass of water. \"No cider today. Just the water. I 'ope that's all right, [q:Addressed As]! We've taken a likin' to it, 'avent we?\" The patrons raise their glasses, and drink.",
+                   {"DefaultEvent": {"Description": "　あなたが店に入ると、中の人々はあなたに向けてマグを掲げ、心のこもった挨拶で歓迎してくれた。「好きなところに座るといい」バーテンダーは大きな声でそう言って、グラスに水を注いだ。「今日は林檎酒はないよ。水だけだ。それで十分だと良いんだがね、[q:Addressed As]！俺たちはこれが好きになったんだよ、だよな？」常連たちはグラスを掲げると、それを呷った。@{I}They raise their mugs to you as you enter, and welcome you with a hearty hello. \"'ave a seat where you like,\" booms the barman, as he pours a glass of water. \"No cider today. Just the water. I 'ope that's all right, [q:Addressed As]! We've taken a likin' to it, 'avent we?\" The patrons raise their glasses, and drink.",
                                      "LinkToEvent": {"Id": 230481}, "Name": "まったくの陽気さ@{I}Altogether genial ",
                                      "Id": 230528},
                     "Name": "雄鳥とカササギ亭で飲む@{I}$Cock and Magpie -> 雄鳥とカササギ亭$Drinks at the Cock and Magpie ",
