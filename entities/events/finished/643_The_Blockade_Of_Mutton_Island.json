@@ -1,0 +1,8 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "「マトン・アイランドは現在隔離されている」血の気の引いた見張り番が、震える声で呼びかけた。「適切な風習と食欲が取り戻されるまでこれは続く！」あなたはここでは歓迎されなさそうだ。@{I}$Mutton Island -> マトン・アイランド$\"Mutton Island is under quarantine,\" a wan lookout calls, in a shaky voice. \"Until such time as proper manners and appetites are restored!\" You'll find no welcome here.",
+                                     "Name": "Turned away", "Id": 230527},
+                    "Name": "エンジンを減速する@{I}Slow the engines",
+                    "Description": "　フリゲート艦は突堤を封鎖し、あなたの上陸を阻んでいる。@{I}The frigate is blocking the jetty, preventing you from landing.",
+                    "ButtonText": "", "Id": 177556}],
+ "Description": "　海軍省のフリゲート艦が港に鎮座していた。その艦砲の大半は村に照準を合わせていることに、あなたは気づいた。@{I}An admiralty frigate sits in the harbour. Most of its guns, you notice, are trained on the village.",
+ "Name": "封鎖されたマトン・アイランド@{I}$Mutton Island -> マトン・アイランド$The Blockade Of Mutton Island",
+ "Id": 230526}

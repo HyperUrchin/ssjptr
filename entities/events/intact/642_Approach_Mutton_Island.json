@@ -1,8 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "The ship slides into dock.",
-                                     "Name": "The moment passes", "Id": 230515},
-                    "Name": "Approach the dock",
-                    "Description": "It's probably nothing. ", "ButtonText": "",
-                    "Id": 177546}],
- "Description": "Is there something in the air today? A restless breeze?",
- "Name": "$Mutton Island -> マトン・アイランド$Approach Mutton Island",
- "Id": 230514}
