@@ -13,7 +13,7 @@
                    {"DefaultEvent": {"Description": "[この先に進むには、Zeeの中央か南方にあるファザムキングの砦を探してください。]@{K}$Fathomking's Hold -> ファザムキングの砦, Fathomking -> ファザムキング$[Find the Fathomking's Hold, somewhere in the south or central Unterzee, to continue.]",
                                      "LinkToEvent": {"Id": 168605}, "Name": "", "Id": 178715},
                     "Name": "海を渡り@{K}Across the zee",
-                    "Description": {"この島の人間は死体譲渡人とその仕事について語ろうとしないが、ファザムキングであれば何か知っているかもしれない。@{K}$Fathomking -> ファザムキング$If no one here will speak to you of the Assigner and his Assignments, might the Fathomking know more?",
+                    "Description": "この島の人間は死体譲渡人とその仕事について語ろうとしないが、ファザムキングであれば何か知っているかもしれない。@{K}$Fathomking -> ファザムキング$If no one here will speak to you of the Assigner and his Assignments, might the Fathomking know more?",
                     "ButtonText": "", "Id": 145315}],
  "Description": "死体譲渡人は何の仮面を着けているのだろう？@{K}$Assigner of Corpse -> 死体譲渡人$What mask does the Assigner of Corpses wear? ",
  "Name": "父の遺骨:死体譲渡人@{K}$Your Father's Bones: -> 父の遺骨:, Assigner of Corpse -> 死体譲渡人$Your Father's Bones: the Assigner of Corpses",
