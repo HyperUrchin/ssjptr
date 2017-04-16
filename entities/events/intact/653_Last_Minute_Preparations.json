@@ -1,8 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "$Mutton Island -> マトン・アイランド$You manage to get a few moments' attention from the Custodial Chef. \"It's the Fruits of the Zee festival!\" he tells you. \"The thirtieth! Thirty were promised, thirty delivered! Now his Complexity comes to visit our fair island!\" \u000d\u000a\u000d\u000aHe turns to a hurrying fisherman, who struggles under a mound of bunting. \"Is that all there is? More bunting!\" he screeches. \"More bunting!\" You'll get nothing from Mutton Island at the moment. ",
-                                     "LinkToEvent": {"Id": 233404}, "Name": "In the way",
-                                     "Id": 233397},
-                    "Name": "Ask about-",
-                    "Description": "\"Sorry! Much too busy! A royal visit!\" You look for someone else.",
-                    "ButtonText": "", "Id": 179374}],
- "Description": "$Drown(y|ies) -> ドロウニー$Mutton island bustles. Villagers scurry on countless errands, and the smell of baking fish wafts from ovens. Locals touch up the whitewash on their cottages. Bunting crowns the village.\u000d\u000a\u000d\u000aDown on the shore, a band practices. And beyond, among the rocky shoals around the island, Drownies begin to congregate.",
- "Name": "Last-Minute Preparations", "Id": 233396}
