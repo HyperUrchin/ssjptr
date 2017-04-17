@@ -112,7 +112,7 @@
                                      "LinkToEvent": {"Id": 230481},
                                      "Name": "水夫たちはそれを船倉に放り込んだ@{I}Your zailors haul it into your hold", "Id": 260725},
                     "Name": "波止場近くの露店で物資を買う@{I}Buy Supplies from a dockside stall",
-                    "Description": "　薄紅色の鼻をした商人は、きのこと乾物の魚が入った木箱をたくさん蓄えていた。ここで買える中では一番良い物だ。@{I}A Rosy-Nosed Merchant is well stocked with crates of mushrooms and dried fish. It's the best you can do, here.",
+                    "Description": "　薄紅色の鼻をした商人は、きのこと乾物の魚を木箱にたくさん蓄えていた。ここで買える中では一番良い物だ。@{I}A Rosy-Nosed Merchant is well stocked with crates of mushrooms and dried fish. It's the best you can do, here.",
                     "ButtonText": "", "Id": 194422},
                    {"DefaultEvent": {"Description": "「一度に全部燃やすような馬鹿をやっちゃ駄目だからね。エンジンが爆発しちゃうよ」@{I}\"Don't go burnin' it all at once now, love. You'll explode your engines that way.\"",
                                      "LinkToEvent": {"Id": 230481},
@@ -140,6 +140,6 @@
                     "Name": "町の向こうにある丘の頂上まで登る@{I}Visit the hilltop above town",
                     "Description": "　Unterzeeではあまり風は吹かないものだ。だがマトン・アイランドは、不気味で暴力的な突風に晒されている。この島の、説明がつかないほど局所的な天候が、その原因だ。そして、丘の頂上の空気は、時折興味深い匂いを運んでくるのだ……@{I}$Mutton Island -> マトン・アイランド$There's not much wind on the Unterzee. But Mutton Island suffers eery gusts and buffets from an inexplicably local fragment of weather, and the air on the hilltop sometimes carries interesting scents...",
                     "ButtonText": "", "Id": 177528}],
- "Description": "　かつて、この簡素な漁村はロンドン郊外の一部だった。ロンドンが墜ち、海が押し寄せる前の話だ。コテージの煙突から出た煙が渦を巻いている。町の向こう、人里離れたところに、丘が見えた。@{I}Once, this simple fishing village was part of the London suburbs, before London fell and the waters rushed in. Smoke spirals from cottage chimneys. A lonely hill rises behind town.",
+ "Description": "　かつて、この簡素な漁村はロンドン郊外の一部だった。ロンドンが墜ち、海が押し寄せる前の話だ。家々の煙突から出た煙が渦を巻いている。町の向こう、人里離れたところに、丘が見えた。@{I}Once, this simple fishing village was part of the London suburbs, before London fell and the waters rushed in. Smoke spirals from cottage chimneys. A lonely hill rises behind town.",
  "Name": "クエーカーズ・ヘイヴン@{I}$Quaker's Haven -> クエーカーズ・ヘイヴン$Quaker's Haven",
  "Id": 230481}
