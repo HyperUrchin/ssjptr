@@ -1,5 +1,5 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "「マトン・アイランドは現在隔離されている」血の気の引いた見張り番が、震える声で呼びかけた。「適切な風習と食欲が取り戻されるまでこれは続く！」あなたはここでは歓迎されなさそうだ。@{I}$Mutton Island -> マトン・アイランド$\"Mutton Island is under quarantine,\" a wan lookout calls, in a shaky voice. \"Until such time as proper manners and appetites are restored!\" You'll find no welcome here.",
-                                     "Name": "Turned away", "Id": 230527},
+                                     "Name": "追い返されて@{I}Turned away", "Id": 230527},
                     "Name": "エンジンを減速する@{I}Slow the engines",
                     "Description": "　フリゲート艦は突堤を封鎖し、あなたの上陸を阻んでいる。@{I}The frigate is blocking the jetty, preventing you from landing.",
                     "ButtonText": "", "Id": 177556}],
