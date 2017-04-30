@@ -1,0 +1,8 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "そこに置かれていたのは、鉄の輪で封をされ三重に錠を掛けられた棺桶だった。貼られた貨物票には「上位の者に引き渡すこと」と書かれている。\u000d\u000a\u000d\u000a禁欲的な侍祭が鉄梃子を持ち決然とした表情でその棺の傍らに立っている。@{K}The coffin is banded with iron and triple locked. LEAVE FOR THE CHIEF, it's labelled.\u000d\u000a\u000d\u000aThe Austere Acolyte is standing over it with a crowbar and a fixed expression.",
+                                     "LinkToEvent": {"Id": 149082}, "Name": "鍵の掛かった棺桶@{K}A locked coffin",
+                                     "Id": 149075},
+                    "Name": "彼女の目的を明らかにする@{K}Find out what she wants",
+                    "Description": "何かあなたに渡すものが中にあるのかもしれない。@{K}Perhaps there will be something in it for you.",
+                    "ButtonText": "", "Id": 127807}],
+ "Description": "侍祭は手紙であなたに難しい検死解剖への介助を求めた。文面は秘密を口外せず、分別ある行動を取るように強調している。@{K}The Acolyte sends you a message, requesting assistance with a difficult autopsy. The message emphasizes silence and discretion.",
+ "Name": "下の建物への呼び出し@{K}Summons to the Low Building", "Id": 149074}
