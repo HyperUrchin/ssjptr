@@ -1,7 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "$Greyfields -> グレイフィールズ$Sitting on a blanket overlooking the choppy water, with a bottle of Greyfields at her side, she tells you she thinks her time here is coming to an end. That it's time to go back into medicine for the living, or at least the less-dead.\u000d\u000a\u000d\u000aIf you come to this port again, she won't be here.",
-                                     "Name": "Change of career", "Id": 151668},
-                    "Name": "See how she's doing",
-                    "Description": "Her eyes are expressive if she ever takes off those goggles.",
-                    "ButtonText": "", "Id": 129368}],
- "Description": "You see her one more time.",
- "Name": "Picnic with the Acolyte", "Id": 151667}
