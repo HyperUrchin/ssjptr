@@ -1,9 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "$[Hh]eartmetal -> ハートメタル$The smithy is a long low building that you missed on your first survey of the island. The smith is a quiet man with a pinched face, who works entirely in heartmetal.\u000d\u000a\u000d\u000aThe Cannoneer greets him with a yell of delight. The smith winces, puts down his hammer, pinches the bridge of his nose. \"It's you,\" he says. \"Two of you.\"",
-                                     "LinkToEvent": {"Id": 149033}, "Name": "Easy to overlook",
-                                     "Id": 180166},
-                    "Name": "Ask directions",
-                    "Description": "$Clay M[ae]n -> クレイマン$A Clay Man directs you, with a minimum of enthusiasm and even fewer words.",
-                    "ButtonText": "", "Id": 146138}],
- "Description": "\"I don't know where he is!! Can we ask directions?\"",
- "Name": "$[Hh]eartmetal -> ハートメタル$Meeting the Heartmetal Smith",
- "Id": 180165}
