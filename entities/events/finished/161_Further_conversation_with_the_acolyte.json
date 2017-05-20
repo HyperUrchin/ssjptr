@@ -11,7 +11,7 @@
                     "Description": "彼女が知る必要のあるような事は何もない。@{K}There's nothing she needs to hear.",
                     "ButtonText": "", "Id": 127755},
                    {"DefaultEvent": {"Description": "それを認めるのは思ったよりも骨の折れる事だった。あなたは詳しくは語らず、彼女も無理に語らせようとはしなかった。\u000d\u000a\u000d\u000a「結局のところもしその秘密がある程度以上のものであれば、私はいずれ知ることになるのですからね」彼女の瞳が眼鏡の縁越しにきらめいた。@{K}$Aft -> 後部$The admission is harder than you might have expected. You don't go into detail, and she doesn't press you for further explanations.\u000d\u000a\u000d\u000a\"After all, if it's bad enough, I'll find out in the end,\" she says, her eyes glittering sideways at you through her goggles.",
-                                     "LinkToEvent": {"Id": 149012}, "Name": 一瞬の沈黙@{K}"A moment in silence",
+                                     "LinkToEvent": {"Id": 149012}, "Name": "一瞬の沈黙@{K}A moment in silence",
                                      "Id": 148995},
                     "Name": "秘密があることを認める@{K}Admit that you do have certain secrets",
                     "Description": "秘密の無い者などいるだろうか？@{K}Who doesn't?", "ButtonText": "", "Id": 127756},
