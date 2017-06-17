@@ -1,0 +1,10 @@
+﻿{"ChildBranches": [{"DefaultEvent": {"Id": 144315},
+                    "Name": "穴を開けて沈める@{K}Scuttle her", "Description": "", "ButtonText": "",
+                    "Id": 124702},
+                   {"DefaultEvent": {"Description": "[Something!]",
+                                     "LinkToEvent": {"Id": 144312}, "Name": "", "Id": 155760},
+                    "Name": "観察し全てを記録する@{K}Record any Observations",
+                    "Description": "十分に知識を集めることが出来れば、何かを学べるかもしれない……@{K}If you've gathered enough, you may learn something...",
+                    "ButtonText": "", "Id": 132004}],
+ "Description": "この船はあなたのものだ！さて、これをどうしようか？@{K}The ship is yours! What will you do with her?",
+ "Name": "燦然たるドレッドノートを打ち倒した@{K}You've destroyed a Glorious Dreadnought", "Id": 144312}

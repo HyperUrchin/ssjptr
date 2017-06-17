@@ -1,0 +1,13 @@
+﻿{"ChildBranches": [{"DefaultEvent": {"Description": "この船倉の奥のほうに何かがあった……@{K}Here's something at the back of the hold...",
+                                     "LinkToEvent": {"Id": 140906}, "Name": "これは何だ？@{K}What's this?",
+                                     "Id": 171421},
+                    "Name": "略奪してから沈める@{K}Loot and scuttle her",
+                    "Description": "この船は汚く古びていて、Zeeは安全ではない。取れるものだけ取って、先に進もう。@{K}She's a vile old vessel, and these zees aren't safe. Take what you can and move on.",
+                    "ButtonText": "", "Id": 140762},
+                   {"DefaultEvent": {"Description": "私掠船か！機械仕掛けの猿で一杯の下水道のように独創的かつ不愉快だ。あなた細部の情報を苦労して集めた。論文か戦術書か刺激的な三文小説を書くのには十分だろう。@{K}Corsairs! Inventive and disgusting as a sewerful of clockwork apes. You've gleaned enough details to write a treatise, a strategy manual or a titillating penny-dreadful.",
+                                     "Name": "むさ苦しさの見本のよう@{K}The study of squalor", "Id": 171422},
+                    "Name": "観察し全てを記録する@{K}Record any Observations",
+                    "Description": "十分に知識を集めることが出来れば、何かを学べるかもしれない……@{K}If you've gathered enough, you may learn something...",
+                    "ButtonText": "", "Id": 140763}],
+ "Description": "この船はあなたのものだ！さて、これをどうしようか？@{K}The ship is yours! What will you do with her?",
+ "Name": "海賊の上級フリゲート艦を打ち倒した@{K}You've destroyed a Crack Pirate Frigate", "Id": 171418}

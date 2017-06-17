@@ -1,0 +1,10 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "船員たちが船を捜索した。海賊行為の片棒を担ぐことになり不満気だが、今のところは従順だ。さあこれが彼らの見つけてきたものだ……@{K}Your crew searches the ship, complicit together in this act of banditry, unhappy, but obedient for now. Here's what they've found - ",
+                                     "LinkToEvent": {"Id": 140906}, "Name": "これは何だ？@{K}What's this?",
+                                     "Id": 174350},
+                    "RareDefaultEvent": {"Description": "一人の船員が突然泣き崩れた。私は海賊になるために海に出たんじゃない！あんたは海の同胞を裏切ったんだ！そして彼女はあなたに飛び掛かり、ほかの船員たちが彼女を撃たなければならなかった。険しい目と固く引き結ばれた唇が散見される。しかし、これが苦労して得た財宝だ。@{K}One of your sailors breaks down. She didn't go to sea to be a pirate! You've betrayed the fellowship of the sea! Your bo'sun is forced to shoot her when she leaps at you. Grim eyes, tightened lips. But here's your hard-won treasure.",
+                                         "Name": "残念な出来事@{K}A regrettable incident", "Id": 174351},
+                    "Name": "略奪してから沈める@{K}Loot and scuttle her",
+                    "Description": "奪えるだけ奪い、罪の証拠を消し去る。@{K}Take what you can. Hide the evidence of your crime.",
+                    "ButtonText": "", "Id": 142563}],
+ "Description": "罪のない男女が死んだが、それは彼らの問題だ。もしも捕まればあなたの問題にもなるが。しかしその事についてはあまり考えないようにしよう。さてどうする？@{K}Innocent men and women are dead, but that's their problem. And yours, if you're caught, but let's not dwell on that. What now?",
+ "Name": "商船を破壊した@{K}You've destroyed a Merchant Cruiser", "Id": 174347}
