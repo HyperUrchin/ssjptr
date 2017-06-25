@@ -1,0 +1,27 @@
+{
+  "Id": 180551,
+  "Name": "その夜――@{I}That night -",
+  "Description": "　あなたは蛇の川のそばを歩いていた。熱情の篭った密林の中を、橙色の太陽を戴きながら。あなたには一匹の虎が一緒だった。虎は疲れ、おどけた目つきで、あなたのことを観察していた。@{I}You walk beside a river of serpents, through a green and fervid jungle, beneath an orange sun: in the company of a tiger. It watches you with weary, humorous eyes.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 180552,
+        "Name": "虎の物語@{I}Tiger tales",
+        "Description": "　この猫は、夢の端にあるミラー・マーチで暮らしていた。そのため、鏡を通して多くの興味深いものを目にしてきた。のたうつ川のそばを歩きながら、虎はそれら目にしたものをあなたに教えてくれた。目が覚めた時、あなたはそれらをはっきりと思い出すことができた。@{I}$Mirror-Marches -> ミラー・マーチ, Writhing River -> のたうつ川$This cat walks in the Mirror-Marches, at the edge of dream. Consequently, it sees many and curious things through mirrors. It shares them with you, as you walk with it beside the Writhing River. When you wake, you remember them clearly."
+      },
+      "Id": 146383,
+      "Name": "虎と話す@{I}Speak with the tiger",
+      "Description": "「お主が我が娘の企てに関わっておるのは理解している。まあ、お主は自分の面倒は自分で見れるたぐいの者ではあるようだ。だがそれでも、我に可能な限りの返礼をしよう――」@{I}\"I understand you've become involved in my daughter's intrigues. Well, you look like the sort who can take care of yourself. But let me repay you as best I may - \""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180553,
+        "Name": "",
+        "Description": "　この猫は、夢の端にあるミラー・マーチで暮らしていた。そのため、鏡を通して多くの興味深いものを目にしてきた。のたうつ川のそばを歩きながら、虎はそれら目にしたものをあなたに教えてくれた。目が覚めた時、あなたはそれらをはっきりと思い出すことができた。@{I}$Mirror-Marches -> ミラー・マーチ, Writhing River -> のたうつ川$This cat walks in the Mirror-Marches, at the edge of dream. Consequently, it sees many and curious things through mirrors. It shares them with you, as you walk with it beside the Writhing River. When you wake, you remember them clearly."
+      },
+      "Id": 146384,
+      "Name": "虎と話す@{I}Speak with the tiger",
+      "Description": "「お主が我が娘の企てに関わっておるのは理解している。(そして我が妹の企てにもな。あ奴は本当に縁起物として仕えておるのか？)まあ、お主は自分の面倒は自分で見れるたぐいの者ではあるようだ。だがそれでも、我に可能な限りの返礼をしよう――」@{I}\"I understand you've become involved in my daughter's intrigues. (And my sister's. Is she really serving as a mascot?) Well, you look like the sort who can take care of yourself. But let me repay you as best I may - \""
+    }
+  ]
+}

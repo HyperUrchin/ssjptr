@@ -1,0 +1,117 @@
+{
+  "Id": 140908,
+  "Name": "気の進まない肉塊を開ける@{I}魅力を感じない塊を開ける@{M}$Unprepossessing Mass -> 気の進まない肉塊$Open an Unprepossessing Mass",
+  "Description": "　おそらく、中には身の毛のよだつものが入っているのだろう。しかし、ひょっとしたら違うかもしれない。@{I}こういう物の中には大抵恐ろしいものが入っている。だが、今回は違うかもしれない。@{M}There is probably something horrible inside. But possibly there is not.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 140909,
+        "Name": "ワインの大樽@{I}ワイン樽@{M}A cask of wine",
+        "Description": "　綺麗なままのように見える。もっとも、味の変化については何とも言えないが。これをどこで見つけたのかについて、あなたが買い手に伝えることはないだろう。@{I}誰も手を付けていない様に見えるが、中身がすり替えられたかどうかは誰にも分からない。何処から持ってきたのかを、買い手には伝えないほうが良いかもしれない。@{M}It seems intact, although who knows how the taste may have altered. Perhaps you won't tell the buyers where you found it."
+      },
+      "Id": 122501,
+      "Name": "木製の角が見えている@{I}木製の箱にご注意@{M}A wooden corner shows",
+      "Description": "　何らかの容器ないし箱が、塩っぽいゼリー状の物質に包まれている……@{I}とある種類の容器、または箱には、塩っぱいゼリー...が詰められており...@{M}Some kind of case, or box, is encased in the salty jelly..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148278,
+        "Name": "綺麗に皮を剥かれて@{I}綺麗に剥かれている@{M}Stripped clean",
+        "Description": "　人間の頭蓋骨だ！これはzee-beastの好みには合わない。これは胃袋の中で何をしていたのだろう？ひょうたんの中の種のようなものだろうか？@{I}人間の頭蓋骨だ! これはジービーストの胃袋ではない。一体その中で何をしていたのだ? 瓢箪の種の様に...?@{M}A human skull! This isn't the zee-beast's stomach. What is it doing in there? Like a seed in a gourd?"
+      },
+      "Id": 127242,
+      "Name": "興味を引く嚢胞@{I}興味を引く嚢@{M}A curious sac",
+      "Description": "　切り開いてみよう。中身は何だろうか？@{I}切って開けよう。中には何が?@{M}Slice it open. What's within?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148279,
+        "Name": "公正な取引@{I}公正な取引@{M}Fair dealing",
+        "Description": "……私は九月に再び彼女と出会った。彼女は髪と片腕を失くしていた。その上、彼女は、自分が十九歳になる以前のことを何も思い出せなくなっていた。私は恐怖のあまりほとんど口を利けなかったが、彼女は何喰わぬ顔で応じた。「次は目だと思うの」彼女は私に言った。「この地下の暗闇ではほとんど必要にならないし、それに、総会は素晴らしい値段を付けてくれるでしょうから」<br/><br/>　読者へ。ブリムストーン総会には近づくな。彼らはあなたを欺いたりはしないだろう。より悪いことに、彼らは、あなたがとても拒めないような申し出をするのだ……@{I}'私はあの9月に、また彼女と会った。彼女の髪と手は無くなってしまっていて、彼女が19歳になるまでに彼女に起きた出来事の一切を思い出す事が出来ないでいた。私は恐怖の余りほとんど何も話せずにいたが、彼女は平然と反応していた。「...次は、目だと思うの。」彼女は私に告げた。「この暗闇の中だと目が必要だとは余り思えないし、それに...総会の人は素晴らしい代償を与えてくれるの。」\r\n\r\n読者へ: 硫黄の総会には近づくな。彼らはお前を騙す事はしない。更に質の悪い事に、彼らはお前に拒否しようがない提案を持ちかけてくるのだ...'@{M}$Brimstone Convention -> ブリムストーン総会$'...I met her again that September. Her hair was gone, and her hand, and she could remember nothing that had occurred to her before the age of nineteen. I could scarcely speak for horror, but she responded nonchalantly. \"I think my eyes will be next,\" she told me. \"I hardly need them down here in the dark, and the Convention will offer me an excellent price for them.\"\r\n\r\nReader: shun the Brimstone Convention. They will not cheat you. Worse, they will make you offers you cannot bear to refuse...'"
+      },
+      "Id": 127243,
+      "Name": "人間の遺体@{I}遺された死体@{M}Mortal remains",
+      "Description": "　膜を引き剥がして――そこで怖気が走るのを堪える。中では、半ば消化された船乗りが、半ば消化された本を握りしめていた。この哀れな遺体は適切に処理するとして、本には何と書いてある？@{I}膜を剥がし取り - 身震いを噛み殺しながら - 半分消化された船乗りが、半分消化された本をしっかり握りしめているのを発見した。この哀れな死体は処分するとして、この本には何が書いてあるのだろうか?@{M}Peel away the membrane, and - stifle a shudder - a half-digested zailor clutching a half-digested book. You'll dispose of the poor remnant decently, but what does the book say?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148283,
+        "Name": "琥珀？@{I}琥珀?@{M}Amber?",
+        "Description": "　ディープ・アンバーというものがあって、ロンドンでは安物のブレスレットの材料として使われている。これは、そのディープ・アンバーによく似ているが、濃密な紫色をしている点が異なる。珍しいものだ。@{I}見た目はどう見ても琥珀だ - ロンドンで売られる安物のブレスレットに使われるような濃い琥珀 - だが、これは豊かで深い紫色をしている。何やら貴重な気がする。@{M}$deep amber -> ディープ・アンバー$It's very like amber - the deep amber that they use for cheap bracelets in London - but it's a rich deep violet. Something rare."
+      },
+      "Id": 127244,
+      "Name": "紫色の微光@{I}紫の閃輝@{M}A violet gleam",
+      "Description": "　あなたは一瞬、また体液の袋かと思った。だが違う。何かが輝いている。@{I}また液体の入った小袋かと一瞬思った貴方だったが、直ぐに思い直した。何かが光っているのだ。@{M}You think for a moment it's another pocket of fluid, but no, something's shining."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148284,
+        "Name": "そしてその更に内なる――@{I}中にまだ何かが -@{M}And still within - ",
+        "Description": "　それは何か、出来損ないの小さなサメのようだった。それは暗い虹のような鱗を持っていた。奇妙な燧石の塊が、その口に横向きに突っ込まれている。どのようにして、こんなことになったのだろうか？@{I}これは小鮫の断片のような何かだ。闇の虹のような鱗を持っている。奇妙な形をした、とても硬い節が口の横に押し込まれている。一体どうやってこの様な事が?\r\n@{M}It's something like a scrappy little shark. It has scales like dark rainbows. A peculiar flint nodule is crammed sideways into its mouth. How did that happen?"
+      },
+      "Id": 127245,
+      "Name": "獣の内なる獣@{I}獣の中に獣@{M}A beast within a beast",
+      "Description": "　どうも、より大きな獣が、より小さな獣を飲み込んでいたようだ。ほら。@{I}より強い獣が、弱者を飲み込んだ、という事か。これがそうだ。@{M}The greater beast, it seems, swallowed a lesser. Here it is."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148285,
+        "Name": "静かに@{I}静粛に@{M}Hush",
+        "Description": "　そう。そこには何かがあった。とても赤く、とても輝いていて、まるで殺されたルビーのような何かが。それについて語ってはならない。@{I}ああ...確かにそこには何かが入っている。それは赤く、それは輝いている。まるで死のムアッジン・ルビーの様に。口には出さない事だ。@{M}Yes: there's something in there. So red and shining, like a murdered ruby. Never speak of it."
+      },
+      "Id": 127246,
+      "Name": "硬化した粘液で固まったもの@{I}固くなった粘液@{M}Gummed with hardened mucus",
+      "Description": "　この見込みのなさそうな小さな塊の中に、ごつごつしたものが固まっている。何か小さな小石のような……@{I}この何の価値も見いだせない小塊の中にごつごつとした、小石のような物がある。@{M}There are lumpy objects inside this unpromising blob, like little pebbles..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148286,
+        "Name": "ひとたび焼いてねじ伏せれば食べられる@{I}服従という名の調理をされた食物@{M}Edible once roasted into submission",
+        "Description": "　それは役に立つだろう。しかし、煙は一種の恐怖をもたらした。すなわち、押し潰すような光なき黒さの中で、巨大なものがとぐろを巻いているという白昼夢、あるいは運動感覚上の印象だ。@{I}それは役に立つだろう。しかし、煙が恐怖を呼ぶ。まるで白昼夢のような、無明の黒を叩き壊しながら巻かれる、絶えず動く巨大な何かの感覚を...@{M}It will serve. But the smoke brings a kind of horror: a waking dream, a kinaesthetic sense of vast things coiling in crushing lightless black..."
+      },
+      "Id": 127247,
+      "Name": "燻製に最適@{M}燻製にすると良さそうなもの@{I}Suitable for smoking",
+      "Description": "　あなたは、これを好きなときに食べられるよう保存しておくことができるだろう。@{I}後で楽しみながら食す為に保存出来るだろう。@{M}You can probably preserve this to eat at your leisure."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148287,
+        "Name": "懇願する目@{I}訴えかける目@{M}Pleading eyes",
+        "Description": "　取り出されたそれは、火山の岩を削って作られた小像だった。その表情はどこか切羽詰っている。異郷の、それも熟練した手になる作品。間違いなく、買い手が見つかるだろう。@{I}火山岩から彫って作られた小さい像で、原価はかかっていない。表情は何というか、絶望的である。熟練した技術であり、エキゾチックな作品である。絶対に買い手がつくという自信はある。@{M}It comes free: a statuette chipped from volcanic rock. Its expression is somehow desperate. The work is both skilled and exotic. You'll find a buyer, you're certain."
+      },
+      "Id": 127248,
+      "Name": "角ばったもの@{I}骨ばった何か@{M}Something angular",
+      "Description": "　塩っぽい肉の中にとらわれた、この奇妙に角ばった物体は何だ？@{I}この塩漬けの肉の中に絡まった、やけに骨ばったものは一体何だ?@{M}What is this oddly angled object trapped in salty flesh?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148288,
+        "Name": "投下と水飛沫@{I}波打って、水を散らして@{M}A heave and a splash",
+        "Description": "　そしてそれは見えなくなった。@{I}そして視界から消えた。@{M}and it's gone."
+      },
+      "Id": 127249,
+      "Name": "船の外に投げ捨てる！@{I}船から投げ捨てろ!@{M}Fling it overboard!",
+      "Description": "　その臭いだけでも理由としては十分だ。[あなたは何も手に入れることはありませんが、少なくとも恐怖に苦しめられることはないでしょう。]@{I}[何も得られませんが、少なくとも恐怖度に悪影響はありません。]@{M}The smell alone is reason enough. [You will gain nothing. But at least you won't suffer Terror effects.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148289,
+        "Name": "味の薄い、しかし元気の出る食事@{I}あっさりとして、それでいてしつこい@{M}Bland, but sustaining.",
+        "Description": "　大体マスを食べているような感じだ。もしもそのマスが数時間前にあなたを殺そうとしていたのであれば。これでも喰らえ、偽マスめ。@{I}数時間前に貴方を殺そうとしては居たが、マスの様に見えなくもない。マスの代用として、頂いておこう。@{M}It's rather like eating trout, if the trout had tried to kill you a few hours ago. Take that, ersatz trout."
+      },
+      "Id": 127250,
+      "Name": "厳選された部位@{M}極上の切り身@{I}Choice cuts",
+      "Description": "　保存は効かないだろうが、美味しそうに見える。@{I}足が早そうだが、とても美味しそうだ。@{M}It won't keep, but it looks tasty."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148310,
+        "Name": "立ち退き要求@{I}ほら出ておいで@{M}Eviction",
+        "Description": "　この大きな缶にはかつて大量のコーンビーフが入っていた。今では、とぐろを巻いた用心深いものの棲家になっている。注意深く引っ張りだしてみよう。使い途があるかもしれない。@{I}この巨大な缶にはかつて、特筆すべき量のコーンビーフが入っていた様だ。今その中に、何かがぐるぐる巻きになって、用心深く隠れている。注意深く取り出せ。何かに使えるかもしれない。@{M}This sizeable can once held a significant quantity of corned beef. Now, something coiled and watchful lairs in it. Extract it carefully. It may have a use."
+      },
+      "Id": 127260,
+      "Name": "ブリキの缶？@{I}錫の缶?@{M}A tin can?",
+      "Description": "　あなたはそれを脇に退ける寸前だった。だが、何かがあなたの目を引いた。@{I}一旦脇に放り投げかけたが、何かが貴方の気を引いたようだ。じっくり見てみる事にした。@{M}You're about to toss it aside, but something makes you look at it more closely."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Id": 240141,
+  "Name": "The Crowded Mouth",
+  "Description": "The tavern is rammed floor-to-ceiling. The vigorous shaking of the city has driven the Nookers to seek company, and to drink. \r\n\r\nIf you wish, you could procure the local tipple - 'milk'. It is not milk. The spiced rum is served in a sewn leather pouch with a steel straw.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 240144,
+        "Name": "There's a sphere of space around her",
+        "Description": "\"I'm normally overwhelmed by admirers. The Nookers must want to let me think. Shrewd of them. I'll save the city in no time.\" \r\n\r\nSave the city? Wasn't this about missing children? \r\n\r\n\"Of course. But in these situations everything's connected. The Maw quakes, a mysterious masked priest... and the missing children. It's obvious really. The children have probably gone against the priest and met their match. Maybe they've been sacrificed in some dark ritual.\" She widens her eyes in mock horror. \"After all, you'd need a mind of my calibre to succeed against such a villain.\"\r\n\r\nShe seems remarkably blasé about the children. Isn't that a little callous?\r\n\r\n\"I'm sure they're fine. He wouldn't- I'm sure they're fine.\" She smiles brightly."
+      },
+      "Id": 183830,
+      "Name": "Talk to the Deductress",
+      "Description": "She floats in one corner of the tavern. When she realises you've spotted her, she waves vigorously."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243564,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 186057,
+      "Name": "Leave the Crowded Mouth",
+      "Description": "Return to central Nook."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243574,
+        "Name": "Too close",
+        "Description": "You claw wildly through the water towards your vessel. Your aim is desperate; dark blotches and white cracks flare through your vision. The effort of not breathing burns. The airlock is ready, open; but it must be closed and emptied. Finally, air inches into the top of the chamber. You cough and retch the Nookwater from your lungs. "
+      },
+      "Id": 186065,
+      "Name": "The Creeping Drown",
+      "Description": "The lungweed is wearing off. You have to get to air. Swim for your ship - fast!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245676,
+        "Name": "Eminently drinkable",
+        "Description": "It's not just the flavour - which is honey-sweet and throat warming - it's the delivery mechanism. The straw means every mouthful is a slurp, not a sip. The pouch is swiftly empty - but it has taken the edge off. "
+      },
+      "Id": 187429,
+      "Name": "Sample the local brew",
+      "Description": "Milk seems popular with Nookers and bubble-mouths alike. From the relaxed demeanour of those floating in the tavern, it's certainly alcoholic. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245711,
+        "Name": "\"Not for you, bubble-mouth.\"",
+        "Description": "There is a sound of creaking, as something is pushed into a wall. This is followed by a low groaning from the crowd. But as you try to duck under the group for a better look, a smiling Nooker darts quickly to block your view. \"Go back to your drink. Some things are just for us.\"\r\n\r\nObviously there's no rule to enforce this. But her expression suggests you'd do wise not to push it. "
+      },
+      "Id": 187453,
+      "Name": "Investigate that scuffle in the corner",
+      "Description": "A group of Nookers are gathering in one of the room corners. They float close together, and obscure what's occurring beyond them. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240142,
+        "Name": "Not a sound",
+        "Description": "It's rare to find real silence in the underwater city, but you seem to be carrying a bubble of noiselessness about with you. Groups of drinkers fall silent as you pass, and your questions fall on resolutely deaf ears. "
+      },
+      "Id": 183829,
+      "Name": "Pursue your investigations",
+      "Description": "Where people drink, people talk."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240145,
+        "Name": "Blood, silence",
+        "Description": "They are grappling, and then-\r\n\r\nIt is a moment before you realise that one of the fighters floats dead. The crowd turns to their drinks; the barman uses a billhook to send the body out of the back entrance. It will be weighted down and sent into the Gullet, as is the Nooker way."
+      },
+      "Id": 183831,
+      "Name": "Observe a fight",
+      "Description": "This is an old Nook tradition. There are strong feelings against letting Trespassers watch. But for you, they'll make an exception. The brawlers grapple in silence, rolling like crocodiles. "
+    }
+  ]
+}

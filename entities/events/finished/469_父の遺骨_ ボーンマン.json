@@ -1,0 +1,37 @@
+{
+  "Id": 176399,
+  "Name": "父の遺骨: ボーンマン@{I}$Your Father's Bones: -> 父の遺骨:$Your Father's Bones: the Bone Men",
+  "Description": "　ボーンマンは、キェロネイト人の遺産を守る聖職者たちだ。浮浪児のスリヴィーによると、彼らがあなたの父の骨を持っているのだという。だが、どうして？@{I}$Slivvy -> スリヴィー$The Bone Men are the priests who guard the Chelonites' relics. The urchin Slivvy said they keep your father's bones. But why?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 176400,
+        "Name": "骨の袋@{I}A bag of bones",
+        "Description": "　低い吐息を漏らしながら、ボーンマンが隙間から出てきた。彼の顔の白土には、汗の跡があった。彼はがちゃがちゃと音を立てる、骨の詰まった革袋を抱えていた。しかしその骨は、人間のものではなかった。象牙材からなる、巨大な梁のようなものがあった。そして、手の先ほどの大きさの、残忍な歯列を備えた顎があった。<br/><br/>　ボーンマンは顔をしかめた。「驚いたか？もう知っておるのかもしれんが、そなたもまた、完全には人間ではない。だがな、そなたの父は、正真正銘の怪物であったのだよ」<br/><br/>　あなたは父のことを何も知らなかった。かつて孤児院では、こんな冗談を言われたものだ。すなわち、浜辺で見つかったお前は、まるで打ち上げられた魚のようだった、と。あなたは膝からくずおれた。血流が塩で脈打った。脳髄でzeeが吠え猛った。視界の隅で、何か鱗のある影が、ぐるぐるとぐろを巻いていた。空気が赤く染まり、次いで黒くなり、そしてあらゆる色彩が失われた。<br/><br/>　あなたが目覚めた時には、ボーンマンたちは、彼らの寺院であるテントからあなたを引きずり出し、外の甲羅の上に置き去りにしていた。あなたの父親であった怪物の骨が、あなたの腕の中に押し込まれていた。今や、zeeはあなたと共にあった。それも、今までは決して気付かなかったようなあり方で。[ロンドンに帰還し、あなたの父を埋葬し、ゲームに勝利しましょう。あなた以外の者が棺の中身を知ることは、決してないでしょう。]@{I}The Bone Man squeezes out, grunting, his white clay coating tracked with sweat. He holds a clattering leather sack crammed with - not human bones. Things like great beams of ivory timber. A jaw crowded with savage teeth the size of fingers.\r\n\r\nThe Bone Man frowns at you. \"SURPRISED? YOU ARE NOT QUITE HUMAN EITHER, AS YOU MAY KNOW. BUT YOUR FATHER WAS AN AUTHENTIC MONSTER.\"\r\n\r\nYou never knew your parents. There was a joke at the Orphanage that you were found on the beach like a stranded fish.You fall to your knees, your blood pulsing with salt. The zee roars in your brain. At the edge of your vision, scaled shapes coil. The air turns red, then black, and then no colour at all.\r\n\r\nBy the time you wake, the Bone Men have dragged you out of their temple-tent and left you on the floor of the Shell. The bones of your father-monster are tucked into the curve of your arm. The zee is with you now, in a way you had never known before. [Return to London, and bury your father, to win the game. No one but you will ever know what lies in the coffin.]"
+      },
+      "Id": 143884,
+      "Name": "盗まれた骨を渡す@{I}Hand over the Stolen Bone",
+      "Description": "　ボーンマンたちは頷き、不明瞭な呟きを漏らした。彼らは、長い爪のある指先で骨をつつき、匂いを嗅ぎ、味を確かめた。「まさに」手指の欠けた者が言った。「皆、待ちわびておったぞ」最も背の高い者が、あなたに向けて頷くと、身を縮めながら甲羅の裂け目の中へと入っていった。@{I}The Bone Men nod and mutter. They poke the bone with their long-nailed fingers, sniff, taste. \"YES,\" says the one with the missing hand. \"WE HAVE MISSED YOU.\" The tallest nods to you, and squeezes into a crack in the Shell."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 177299,
+        "Name": "盗まれた骨@{I}A stolen bone",
+        "Description": "　あなたは何時間にも渡って交渉し、議論した。ボーンマンは秘密も、金も、貴重な狩りの遺品ですらも、条件として受け入れようとはしなかった。「しかし」とうとうある者が言った。「しかし、ファザムキングが我らより盗んだものを返すならば、そなたの父を譲り渡そう。これが唯一の条件だ」[この企てを更に先へと進めるには、ファザムキングの砦へと向かいましょう。]@{I}$Fathomking's Hold -> ファザムキングの砦, Fathomking -> ファザムキング$You dicker and argue for hours. The Bone Men won't accept secrets, money, or even hunting-relics. \"BUT\" - one says at last - \"BUT IF THE FATHOMKING WILL RETURN WHAT HE HAS STOLEN, THEN WE WILL RELINQUISH YOUR FATHER. ONLY THEN.\" [Travel to the Fathomking's Hold to pursue this quest further.]"
+      },
+      "Id": 144449,
+      "Name": "厳重な保管@{I}Safekeeping",
+      "Description": "　ボーンマンは、白土の仮面の向こうからあなたに向けて唸った。「我らは、そうたやすくは我らの宝を明け渡さん」彼は重々しく言った。「そなたは、我らに何を差し出すというのだ？」@{I}This Bone Man snarls at you from behind a mask of white clay. \"WE DO NOT LIGHTLY GIVE UP OUR TREASURES,\" he intones. \"WHAT WILL YOU OFFER US?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 178716,
+        "Name": "",
+        "Description": "[先へ進むには、Unterzeeの中央または南方のどこかにある、ファザムキングの砦を見つけましょう。]@{I}$Fathomking's Hold -> ファザムキングの砦, Fathomking -> ファザムキング$[Find the Fathomking's Hold, somewhere in the south or central Unterzee, to continue.]"
+      },
+      "Id": 145316,
+      "Name": "ボーンマンは強情である@{I}The Bone Men are obdurate",
+      "Description": "「ファザムキングが我らより盗んだものを返すならば、そなたの父を譲り渡そう。これが唯一の条件だ」@{I}\"IF THE FATHOMKING WILL RETURN WHAT HE HAS STOLEN, THEN WE WILL RELINQUISH YOUR FATHER. ONLY THEN.\""
+    }
+  ]
+}

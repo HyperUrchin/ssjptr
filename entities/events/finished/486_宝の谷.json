@@ -1,0 +1,287 @@
+{
+  "Id": 176754,
+  "Name": "宝の谷@{M}Treasure Valley",
+  "Description": "有望な鬱蒼と生い茂った木々の盆地。失われた金銀や財宝が何処かに隠されて眠っているとされている。船に財宝を積むだけの十分なスペースが在る事を先ず確認した方が良いだろう。@{M}A promising bowl of thick trees and occasional bursts of space, as silent as lost gold and filled with hiding places. Be sure you have space in your hold for treasure.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 176755,
+        "Name": "北だ!@{M}North!",
+        "Description": "貴方が奥へ掻き分けて行くと、何かが枝の奥へと引っ込んで行く。@{M}Something scuttles in the branches as you push past."
+      },
+      "Id": 144144,
+      "Name": "北へ行く@{M}Go north",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176756,
+        "Name": "南だ!@{M}South!",
+        "Description": "木々の間をすり抜けるたび、枝が貴方の顔に当たる。@{M}Branches whip at your face as you push through the trees."
+      },
+      "Id": 144145,
+      "Name": "南へ行く@{M}Go south",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176757,
+        "Name": "西だ!@{M}West!",
+        "Description": "探索を続けていくと、足元で枝が折れる音がする。@{M}Sticks crunch underfoot as you continue exploring."
+      },
+      "Id": 144146,
+      "Name": "西へ行く@{M}Go west",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176758,
+        "Name": "東だ!@{M}East!",
+        "Description": "蔓が行く手を阻もうと試みているが、長くは保たない。@{M}A few vines put up some resistance. But not for long."
+      },
+      "Id": 144147,
+      "Name": "東へ行く@{M}Go east",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176759,
+        "Name": "財宝だ!@{M}Treasure!",
+        "Description": "ショベルが何かの箱に当たった音がする。この戦利品の山を此処に隠したのは一体誰だろうか?それは貴方が考えるべき問題ではない。もしその誰かが今後此処に戻ってきたとしても、ただ彼らががっかりするだけだろう。@{M}Your shovel clinks against a box. Who buried this mountain of loot here? It is not your problem. If they ever come back, they will be sorely disappointed."
+      },
+      "Id": 144148,
+      "Name": "交差する骨の目印@{M}A marker of crossed bones",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 178362,
+        "Name": "地図は次の様に読める...@{M}The map reads as follows...",
+        "Description": "其々の街の北に蝙蝠が撃ち落とされる\r\n川の東には溺れるを恐れぬ男が居る\r\n帝国の御為に其々の島の南を探せ\r\n帝王陛下の名を其々の西に探せ\r\n水平線に真っ直ぐ向かい、もう一歩踏み出せ\r\n西で汝の探索を終わらせ、1、2、3...\r\nXの形の中に、欺く探索者を探せ\r\n死者が司るは、ただ永遠のみなれば。@{M}North for each City the bats have brought down\r\n\r\nThen east to the river where no man fears to drown\r\n\r\nVenture south for each island the Empire can claim\r\n\r\nAnd west for each bearer of the Emperor's name\r\n\r\nHead straight for the Horizon, then take a step more\r\n\r\nLetting west end your search, with a one, two, three...\r\n \r\nIn the shape of an X, find a seeker misled\r\n\r\nNothing but eternity belongs to the dead"
+      },
+      "Id": 145080,
+      "Name": "地図を調べる@{M}Consult the Map",
+      "Description": "さて、指示はどんな物だっただろうか?@{M}What were its instructions again?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179519,
+        "Name": "地図をしまう@{M}You roll up the map",
+        "Description": "少なくとも誰も他にそれを咎める者は居ないだろう。@{M}At least nobody else is likely to beat you to it."
+      },
+      "Id": 145785,
+      "Name": "今回は諦める@{M}Give up for now",
+      "Description": "貴方は何時でも再挑戦する事が出来る。@{M}You can try again any time."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179523,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145788,
+      "Name": "小さな湧き水の泉@{M}A small spring of water",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179524,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145789,
+      "Name": "森の樹の幹@{M}A tree trunk in the woods",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179525,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145790,
+      "Name": "木々の集まり@{M}A cluster of trees",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179526,
+        "Name": "余りに文字通りの解釈?@{M}An overly literal interpretation?",
+        "Description": "当然ながら、此処は財宝の埋められた'正しい地点'ではない。それでは指示の目的がまるでなっていない。@{M}This is not the 'correct point' where the treasure is buried, of course. That would rather defeat the purpose of the instructions."
+      },
+      "Id": 145791,
+      "Name": "始まりの地点@{M}The starting point",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179527,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145792,
+      "Name": "忘れられた木立@{M}A forgotten grove",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179528,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145793,
+      "Name": "儀式円@{M}A ceremonial circle",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179529,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145794,
+      "Name": "花の円@{M}A circle of flowers",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179530,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145795,
+      "Name": "乾燥した川床@{M}A dried up river bed",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179531,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145796,
+      "Name": "障害の見える地面@{M}The ground here looks disturbed",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179532,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145797,
+      "Name": "小さな丘@{M}A small hill",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179533,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145798,
+      "Name": "大きな石の偶像@{M}A large stone idol",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179534,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145799,
+      "Name": "歴史と恐怖の眠る場所@{M}A place of history and terror",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179535,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145800,
+      "Name": "葉の折り重なった区域@{M}A patch of leaves",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179536,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145801,
+      "Name": "暗い森の一角@{M}A dark corner of the wood",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179541,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145804,
+      "Name": "打ち捨てられた野生の猿の巣@{M}An abandoned wild monkey nest",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179542,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145805,
+      "Name": "チョークで地面に描かれた顔@{M}A face drawn on the ground in chalk",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179543,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145806,
+      "Name": "森の神殿@{M}A wooden shrine",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179575,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145823,
+      "Name": "絵のような低木林@{M}A picturesque copse",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179576,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145824,
+      "Name": "隠れた木立@{M}A hidden grove",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179577,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145825,
+      "Name": "小さな泥沼@{M}A small marshy pool",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179578,
+        "Name": "掘ったが何も得られなかった@{M}You dig, but find nothing",
+        "Description": "もう夜も更けた。別の機会にまた挑戦する必要がある。@{M}It is getting late. You will need to try again another day."
+      },
+      "Id": 145826,
+      "Name": "森の中で最も大きな樹@{M}The largest tree in the forest",
+      "Description": "此処を掘る事が出来る。さて財宝は有るだろうか?@{M}You could dig here. Will there be treasure?"
+    }
+  ]
+}

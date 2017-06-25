@@ -1,0 +1,97 @@
+{
+  "Id": 255589,
+  "Name": "The Abyss of Pomegranates",
+  "Description": "The walls of the chasm are as abundant as a garden. Rippling lawns of posidonia. Copses of shadowed kelp. Garlands of coral, pulsating with tubular sponges. And here, a vine bearing melon-sized nodules the colour and shape of pomegranates.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 258156,
+        "Name": "",
+        "Description": "Your bo'sun mutters a rapid prayer to Salt, off whom blessings and curses alike slide. The St Brendan's fire in your lights gutters, dies. "
+      },
+      "Id": 192612,
+      "Name": "Forsake the Rite of the Hearth",
+      "Description": "So that you may partake in a different one. [You may only benefit from one Rite at a time.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258157,
+        "Name": "",
+        "Description": "Your bo'sun mutters a rapid prayer to Salt, off whom blessings and curses alike slide. There is no immediate effect, but that night you dream of being vehemently, vigorously sick. You wake in a pensive mood."
+      },
+      "Id": 192613,
+      "Name": "Forsake the Rite of Feasting",
+      "Description": "So that you may partake in a different one. [You may only benefit from one Rite at a time.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258158,
+        "Name": "",
+        "Description": "Your bo'sun mutters a rapid prayer to Salt, off whom blessings and curses alike slide. Your vigorous coughing fit is unquestionably a coincidence. You are hoarse for the rest of the day, but swiftly recover."
+      },
+      "Id": 192614,
+      "Name": "Forsake the Rite of Greeting",
+      "Description": "So that you may partake in a different one. [You may only benefit from one Rite at a time.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258159,
+        "Name": "",
+        "Description": "Your bo'sun mutters a rapid prayer to Salt, off whom blessings and curses alike slide. There is no effect, of course. But that night you do not dream of a woman clad in black. Her absence is as notable as a missing tooth."
+      },
+      "Id": 192615,
+      "Name": "Forsake the Rite of Solace",
+      "Description": "So that you may partake in a different one. [You may only benefit from one Rite at a time.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258160,
+        "Name": "Away",
+        "Description": "You drift steadily up and out of the maw."
+      },
+      "Id": 192616,
+      "Name": "Depart",
+      "Description": "You've seen what you came to see."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259792,
+        "Name": "You don your diving gear",
+        "Description": "At the end of the upturned nave, gigantic stone feet are firmly planted on the floor above you. You swim down toward the ceiling, following the legs until you come to a pair of cupped hands. Growing out of the feminine palms is an oyster of preposterous enormity. It opens at your approach. You enter; it closes around you and drains of water, allowing you to remove your diving helmet. Not that there's reason to continue wearing it; your air-hose is severed.\r\n\r\nThe oyster is heavy with grey, slimy meat. Its flesh is succulent. Juice sprays with each bite. When you finish, you tie off your air-hose and don your helmet. You take a deep breath and swim back to your zubmarine."
+      },
+      "Id": 193718,
+      "Name": "Perform the Ritual of Feasting",
+      "Description": "A fresco adorns the church's frontage. Burned pilgrims supplicate themselves before a woman's upturned hands. Oysters grow in her palms. Will you enter the church in search of communion?  [Performing the abyssal rituals in the correct order will lead to a discovery.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259793,
+        "Name": "Rising",
+        "Description": "With every meter climbed you feel the probability of you meeting an untimely death decline, from absolutely certain to just likely.  "
+      },
+      "Id": 193719,
+      "Name": "Ascend",
+      "Description": "You have seen enough of darkness for now."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255590,
+        "Name": "You don your diving gear",
+        "Description": "You struggle through the spore-clouded waters, then through a forest of undulating kelp. A bell rings from your ship; you've been seven minutes: deep-madness will soon set in. You hurry on as fronts of kelp caress your helmet, twine pleadingly through your fingers. When you reach the vine, you pick a nodule with frantic fingers. It shrieks as it comes free. \r\n\r\nBack on your ship, your cook slices it open and bloody, pulpy seeds spill out. You manage seven of them before the taste of orange and bronze and gunpowder is too much. Fire is in your veins! Thunder in your ears!"
+      },
+      "Id": 191510,
+      "Name": "Retrieve and eat one of the nodules",
+      "Description": "A true zailor will find the taste familiar, it is said. [This Rite will increase your Iron by 20 but decrease your Mirrors by 10. Succeed or fail, you will gain the rite, but failure will increase your Terror.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259791,
+        "Name": "Deeper still",
+        "Description": "Your helmsman obeys the order silently, driving the vessel even deeper down. Soon, the zubmarine creaks against the pressure. The weight of the zee is crushing, and though your shell can hold, it suffers. \r\n\r\nYour zubmarine's pinprick of light shines onto a cliff side, illuminating only a spot of a vast, inverted cathedral: a Fathomless Church. "
+      },
+      "Id": 193717,
+      "Name": "Dive deeper",
+      "Description": "There is something even further down in the darkness. [Succeed or fail, you will go deeper. But a failure will damage your hull.]"
+    }
+  ]
+}

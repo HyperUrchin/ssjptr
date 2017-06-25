@@ -1,0 +1,17 @@
+{
+  "Id": 257022,
+  "Name": "Consider a specialist surgeon",
+  "Description": "She is staying at a respectable boarding-house near the docks, and has made it known that she is available for work. \"I specialise in amputations. It's easy to acquire unwanted appendages at zee.\"  ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 257023,
+        "Name": "Welcome aboard",
+        "Description": "She comes with a bag full of knives and her own personal sharpening stone. \"Don't touch these. Don't let anyone else touch them.\" [Appoint your new Officer by dragging her from the Officers tab to her slot at the top of the screen. Do this in port, not at sea, or you may unsettle your crew.]"
+      },
+      "Id": 192320,
+      "Name": "Employ the Cladery Heir",
+      "Description": "Her talents could be well employed on your vessel. [The Cladery Heir is a Doctor who increases Hearts and Iron.]"
+    }
+  ]
+}

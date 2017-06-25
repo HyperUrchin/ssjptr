@@ -1,0 +1,17 @@
+{
+  "Id": 243631,
+  "Name": "Auroral Crab Carcass ",
+  "Description": "The corpse of a vast crab is sunken into the zee-floor. Its shell is a vivid saffron. The water around it is luminescent. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243632,
+        "Name": "Terrible luminescence ",
+        "Description": "You don a diving suit and approach the shining shell. Gold light pours into your eyes. You see turning wheels of fire; you hear the endless tick of grinding gears. When the light fades, the darkness is deep as mourning velvet. "
+      },
+      "Id": 186101,
+      "Name": "Investigate the corpse ",
+      "Description": "The crab is both like and unlike others of its species. "
+    }
+  ]
+}

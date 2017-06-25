@@ -1,0 +1,17 @@
+{
+  "Id": 174353,
+  "Name": "貨物汽船を破壊した@{K}You've destroyed a Tramp Steamer",
+  "Description": "罪のない男女が死んだが、それは彼らの問題だ。もしも捕まればあなたの問題にもなるが。しかしその事についてはあまり考えないようにしよう。さてどうする？@{K}Innocent men and women are dead, but that's their problem. And yours, if you're caught, but let's not dwell on that. What now?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 174356,
+        "Name": "これは何だ？@{K}What's this?",
+        "Description": "船員たちはこの犯罪の片棒を担ぐことに不満そうだったが、今のところは従順だ。さあこれが彼らの見つけてきたものだ……@{K}Your crew is unhappy to be complicit in this crime, but obedient for now. Here's what they've found - "
+      },
+      "Id": 142566,
+      "Name": "船の残骸を漁る@{K}Poke through the wreckage",
+      "Description": "奪えるだけ奪え。@{K}Take what you can."
+    }
+  ]
+}

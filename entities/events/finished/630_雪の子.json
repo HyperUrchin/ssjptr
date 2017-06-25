@@ -1,0 +1,97 @@
+{
+  "Id": 223608,
+  "Name": "雪の子@{I}$Snow Child -> 雪の子$The Snow Child",
+  "Description": "　あなたを見上げたそれは怯えていて、寒さとは関係のない理由でその体を震わせていた。その氷の中には、あなたの血が流れている。「あなたがぼくを家まで連れて行ってくれるの？」@{I}It looks up at you, frightened and shivering for reasons that have nothing to do with cold. Your blood streaks through its ice. \"Are- Are you taking me home now?\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 223613,
+        "Name": "　キオネーは微笑んだ。「気に入ったよ！」@{I}Chione smiles. \"I like that name!\"",
+        "Description": "　あなたは手を伸ばしてその子の冷たい手を握り、冬の赤獣を後に残した。@{I}You reach out to take its cold hand in yours, leaving the Crimson Beast behind."
+      },
+      "Id": 173292,
+      "Name": "キオネー@{I}Chione",
+      "Description": "　決して時代遅れにはならない伝統的な名前だ。@{I}A classical name never goes out of fashion."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223614,
+        "Name": "　ロキはにやりと笑った。「じゃあそれがぼくの名前だね！」@{I}Loki smirks. \"Then that is my name!\"",
+        "Description": "　あなたは手を伸ばしてその子の冷たい手を握り、冬の赤獣を後に残した。@{I}You reach out to take its cold hand in yours, leaving the Crimson Beast behind."
+      },
+      "Id": 173293,
+      "Name": "ロキ@{I}Loki",
+      "Description": "　雪の巨人とはとても言えないが、成長すればそうなるかもしれない。@{I}Hardly a frost giant, but perhaps when it grows."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223615,
+        "Name": "　ボレアスはすぐに微笑んだ。「分かった」@{I}Boreas breaks into a smile. \"Okay.\"",
+        "Description": "　あなたは手を伸ばしてその子の冷たい手を握り、冬の赤獣を後に残した。@{I}You reach out to take its cold hand in yours, leaving the Crimson Beast behind."
+      },
+      "Id": 173294,
+      "Name": "ボレアス@{I}Boreas",
+      "Description": "　北風の子どもにふさわしい名前だ。@{I}A fitting name for a child of the North winds."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223616,
+        "Name": "　ウィンターは歯を見せて笑った。「気に入ったよ！」@{I}Winter grins. \"I like that name!\"",
+        "Description": "　あなたは手を伸ばしてその子の冷たい手を握り、冬の赤獣を後に残した。@{I}You reach out to take its cold hand in yours, leaving the Crimson Beast behind."
+      },
+      "Id": 173295,
+      "Name": "ウィンター@{I}Winter",
+      "Description": "　季節にぴったりの名前だ。@{I}An appropriately seasonal name."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223919,
+        "Name": "　スネグーラチカはその名前を反芻していた。「気に入ったよ！」@{I}Snegurochka considers it. \"I like that name!\"",
+        "Description": "　あなたは手を伸ばしてその子の冷たい手を握り、冬の赤獣を後に残した。@{I}You reach out to take its cold hand in yours, leaving the Crimson Beast behind."
+      },
+      "Id": 173536,
+      "Name": "スネグーラチカ@{I}Snegurochka",
+      "Description": "　あなたがかつて読んだ物語に登場する、雪のお姫様。@{I}A snow princess, from a story you once read."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223920,
+        "Name": "　エリオットは得意げだ。「それは凄い名前だよね」@{I}Elliot preens. \"That's a great name.\"",
+        "Description": "　あなたは手を伸ばしてその子の冷たい手を握り、冬の赤獣を後に残した。@{I}You reach out to take its cold hand in yours, leaving the Crimson Beast behind."
+      },
+      "Id": 173537,
+      "Name": "エリオット@{I}Elliot",
+      "Description": "　どんなときでも素晴らしい名前だ。@{I}A good name for any occasion."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223921,
+        "Name": "　ローズは歯を見せて笑った。「かわいい名前。良いと思う」@{I}Rose grins. \"That's pretty. I like it.\"",
+        "Description": "　あなたは手を伸ばしてその子の冷たい手を握り、冬の赤獣を後に残した。@{I}You reach out to take its cold hand in yours, leaving the Crimson Beast behind."
+      },
+      "Id": 173538,
+      "Name": "ローズ@{I}Rose",
+      "Description": "　赤色が花開いて生まれた命にはよく似合う名前だ。@{I}A good name for life that began as a bloom of red."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 224383,
+        "Name": "遠い記憶@{I}A distant memory",
+        "Description": "「ロンドン？そうだ！ロンドン！ぼくは屋上で遊びたかったんだけど、そうしたらママが泣いちゃった。ママはたくさん泣くんだけど、それはぼくのせいじゃないんだって。ママは心配しそう。あなたは悪魔じゃないよね？ママは悪魔には気をつけろって言ってた」それは疑り深い様子であなたの方に鼻を鳴らした。「違う。卵みたいな匂いはしない。あなたはぼくを連れて帰ってくれるの？ぼくはずっと航海に出たかったんだ」<br/><br/>　雪の子はあなたを見上げた。それは大して場所は取らないだろう。しかし名前があると便利だ。少なくとも、雪の子が、かつて名前を持っていたかどうかを思い出すまでの間は。@{I}$Snow Child -> 雪の子$\"London? London! Yes! I wanted to play on the roof-tops, but it made mother cry. She cries a lot, but she says it's not my fault. She'll be worried. Wait - you're not a devil are you? Mother says to look out for devils.\" It gives you a suspicious sniff. \"No. No eggy smell. You can take me back, right? I've always wanted to go zailing.\" \r\n\r\nThe Snow Child looks up at you. It won't take up much room. It could do with a name though, at least until remembers if it used to have one."
+      },
+      "Id": 173836,
+      "Name": "雪の子に家のことを尋ねる@{I}$Snow Child -> 雪の子$Ask the Snow Child about home",
+      "Description": "　それはロンドンの街路での生活を憶えているのだろうか？@{I}It remembers a life on the streets of London?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 224384,
+        "Name": "雪の子は目を伏せた@{I}$Snow Child -> 雪の子$The Snow Child's eyes fall",
+        "Description": "　それは顎を膝に乗せて、冬の赤獣をじっと見つめている。もしもあなたが何もしなければ、ミスター・サックスが対処するはずだ。自分の仕事を終わらせたあとで。@{I}$Mr Sacks -> ミスター・サックス, Crimson('s)? Beast of Winter -> 冬の赤獣$It presses its chin against its knees, staring fixedly at the Crimson Beast of Winter. If you do not do something, Mr Sacks surely will once it finishes its business."
+      },
+      "Id": 173837,
+      "Name": "置き去りにする@{I}Leave it here",
+      "Description": "　あなたには関わりのないことだ。@{I}It is not your concern."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Id": 143355,
+  "Name": "虎の迷宮@{I}猛虎の迷宮@{M}The Labyrinth of Tigers",
+  "Description": "……はロンドン動物学会の後援の下、教育上の目的により訪問される注意深い方々のために公開されています。ここでは、以下の展示物をご覧になれます：遥かマンダレーの魔猿・鏡の中に潜むもの・キンチャクフグの仔・穴居性の大蛇・狼の住人・混種の悪鬼。注意：管理上、閉門時間までには十分に余裕を持って退出されることを推奨いたします。@{I}...は、ロンドン動物学協会の後援を受け、学術目的での顧客に限定して開かれている。ここでは、様々な動物を見ることが出来る。遠方のマンダレイの悪魔猿。鏡の中のモノ。カンティガスターの子供達。巨大な洞窟蛇。狼の群れ、混成の悪魔。他にも様々な希少種が居る。経営者は、閉店までに余裕をもって退店する事を強く推奨しているようだ。@{M}...is open under the patronage of the LONDON ZOOLOGICAL SOCIETY to CAUTIOUS VISITORS for EDUCATIONAL PURPOSES. Here you may see the DEVIL-APES of FAR MANDELAY. The THING IN THE MIRROR. The CANTIGASTER'S CHILDREN. The gargantuan CAVE-SNAKE. The INHABITER OF WOLVES. The HYBRID FIEND. N.B. The MANAGEMENT RECOMMENDS that you arrange your exit WELL BEFORE CLOSING TIME.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 143356,
+        "Name": "礼儀正しさの報酬@{I}礼儀の報酬@{M}Decorum's reward",
+        "Description": "「いいえ、[q:Addressed As]、ここ迷宮では、我々は船乗りの言葉は使いません。zeeではね、[q:Addressed As]、こいつは『ネプチューンの××婦』でも良いのです。しかしここでは、我々は礼儀作法には注意しておりますので。あなたの報酬です、[q:Addressed As]。別の個体を見つけたら、またお願いしますよ」@{I}「[q:Addressed As]、ここは迷宮だぜ。船乗りのやり方はここじゃ使えねぇ。ジーではよ、[q:Addressed As]、'海神様の＿＿'ってのがあるかもしれねぇが、俺達には俺達のルールってもんがある。これが取り分だ、[q:Addressed As]。また別のもんを見たら戻って来な。」@{M}\"No, [q:Addressed As], we do not use the zailors' term, here in the labyrinth. At zee, [q:Addressed As], it may be 'Neptune's H____t', but here, we have a care for our manners. Your payment, [q:Addressed As]. Do come back if you find another.\""
+      },
+      "Id": 124078,
+      "Name": "迷宮に珍しい生き物を提供する@{I}迷宮の珍しい生物を売る@{M}Provide a rare creature of the Labyrinth",
+      "Description": "「これは――これは、セイレーン・サーペントの幼体ですか？素晴らしい、素晴らしいです！報酬はたっぷりとお支払いしますよ。ええ、もちろんです」[売春婦の稚魚を500エコーで売却します。]@{I}「こいつらは - こいつらは妖婦蛇の幼生か?素晴らしい、素晴らしいぞ!報酬は弾ませてもらうぜ。ああ、心配するな。」@{M}\"Are those - are those young siren-serpents? Marvellous, marvellous! We'll pay you handsomely. Of course we will.\" [Sell a Harlot-Fry for 500 echoes.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182158,
+        "Name": "「申し分ない」@{I}\"十分満足だ。\"@{M}\"Most satisfactory.\"",
+        "Description": "「我々は第二階層の水槽のためにこの種の生き物を必要としていました。水槽には、あなたの名前入りの小さな銘を取りつけておきますよ」@{I}「第二層のタンクに入れる為に、その類の何かが欲しかったんだ。お前の名前を銘板に書いて飾っておいてやるよ。」@{M}\"We needed something of that nature for the tanks on the second-level. We will furnish a little plaque with your name.\""
+      },
+      "Id": 147411,
+      "Name": "生体標本@{I}生きた標本@{M}$Live Specimen -> 生体標本$A Live Specimen",
+      "Description": "　未だ絶滅していないもの。[生体標本を125エコーで売却します。]@{I}まだ絶滅していない何か。@{M}$Live Specimen -> 生体標本$Something not yet extinct. [Sell a Live Specimen for 125 echoes.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182159,
+        "Name": "「早く！」@{I}\"早くしろ!\"@{M}\"Quickly!\"",
+        "Description": "「もし誰かに訊かれたら、良くねえ虫を食って死んだってことにしとくよ」@{I}「誰かに聞かれたら、怠慢蟲を食ってくたばったって言っとくよ。」@{M}\"If anyone asked, it died of eating a delinquent worm.\""
+      },
+      "Id": 147412,
+      "Name": "迷宮から生体標本を購入する@{I}迷宮から生きた標本を買い取る@{M}$Live Specimen -> 生体標本$Purchase a Live Specimen from the Labyrinth",
+      "Description": "　迷宮では展示物の販売は行っていない。しかし、賄賂の通用する管理人もいる。@{I}迷宮は展示物を売る事はしないが、何人かの飼育者は袖の下で取引をしているようだ。@{M}The Labyrinth does not sell its exhibits. But some keepers can be bribed."
+    }
+  ]
+}

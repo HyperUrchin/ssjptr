@@ -1,0 +1,217 @@
+{
+  "Id": 152190,
+  "Name": "Hideaway",
+  "Description": "On the back of a gigantic beast live exiles from every corner of the Neath. Here gather the traitors, heretics, artists, fools, and the too-honest. Despite possessing a range of radically different ideologies, these outcasts live together peacefully.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 237492,
+        "Name": "A city of strict custom",
+        "Description": "Most Hideaway dwellers toil to strengthen their city against the zee's crushing weight. Those that don't instead prepare for that night's festival. And all without a word spoken aloud! If they need to communicate, the people of Hideaway rely on a strict system of acutely formal gestures."
+      },
+      "Id": 182154,
+      "Name": "Assemble a Port Report",
+      "Description": "Explore the city. Record the habits of those that dwell within."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 237532,
+        "Name": "Welcomed",
+        "Description": "The blemmigan rushes towards an open grate and leaps into the darkness. A worker standing nearby smiles broadly. She waves at a group of her fellows to gain their attention. Then, she points down and sweeps her hand up to her heart. She takes a few sidesteps before throwing her hands into the air. What could she be saying? Her co-workers nod, raise their own hands into the air, and sway for a moment. It's unclear whether they're happy, but they're certainly not displeased. "
+      },
+      "Id": 182181,
+      "Name": "Introduce a blemmigan to Hideaway",
+      "Description": "Maybe it can provide the beast that carries the city with some measure of companionship."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 237534,
+        "Name": "",
+        "Description": "The Impolite Investigator grins as he disembarks. As soon as he's exited your ship, he spots a small, ancient man: the Sprightly Visionary. The Investigator rushes over to him and shakes his hand while unleashing a barrage of questions: \"What's your name? Reason for exile? How's the food?\"\r\n\r\nThe Visionary writes a message in the notebook chained to his wrist. He presents it to you both: '<i>Welcome. Sorry, must run. You need to register yourself - go straight ahead. Advice: no questions. Befriend Temtum. Good day.</i>'"
+      },
+      "Id": 182183,
+      "Name": "Drop off the Impolite Investigator",
+      "Description": "This is where he requested you bring him. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 237535,
+        "Name": "",
+        "Description": "Together, you roll the wheel through Hideaway. You pass women lugging blow torches and bags of cement, and men trying to smile as they put on diving suits. Eventually you pass through an iron gate to a work room.\r\n\r\nAt the room's centre is a deep pit. A large electrical alternator looms against the back wall. The Visionary plugs the cable into the alternator, and slowly feeds the rest down into the pit. When finished, he writes a short message in the notebook chained to his wrist. '<i>Thank you. Usual help's working on faulty line. May need you in future.</i>' As he hands you the note he looks up, revealing his neck. It's one huge scar."
+      },
+      "Id": 182184,
+      "Name": "Aid the Sprightly Visionary",
+      "Description": "A small man with liver spots on his head and wispy white hairs on his chin is struggling to roll a wheel of heavy cabling. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 237536,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 182185,
+      "Name": "Help the Sprightly Visionary",
+      "Description": "He's industrious for one so old. He's always running around the city, aiding his cablemen or repairing electrical faults."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 237537,
+        "Name": "A request",
+        "Description": "The Sprightly Visionary shows you a page of the notebook chained to his wrist. He has written a request for you."
+      },
+      "Id": 182186,
+      "Name": "Speak to the Sprightly Visionary",
+      "Description": "He's waving to you from a brightly lit alleyway. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 237538,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 182187,
+      "Name": "Check on the Investigator",
+      "Description": "The Impolite Investigator ignores the patterns of resting and waking established in Hideaway. He never seems to sleep. At all hours, he can be be found asking questions or studying the city. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 237542,
+        "Name": "",
+        "Description": "On the night of the festival, you join the dwellers of Hideaway around a large wooden model of Temtum placed in the festival square. Some people exchange shrugs; others twiddle their thumbs politely. Eventually, the Impolite Investigator appears on a balcony overlooking the square. He shouts a hello; the dwellers wince, but maintain their customary smiles. \r\n\r\n\"Hideaway,\" he shouts, \"is doomed. This is a biological fact. Temtum has already begun to outgrow his shell, our home. Everyone needs to evacuate, before...\" He gives you a nod: you set the model ablaze, and it begins to crack apart and fall to ruin. The dwellers scream. \r\n\r\nThe Sprightly Visionary turns his back on the spectacle and walks away. He taps a few cablemen on the shoulder; they follow him. The rest of the people of Hideaway stands idly, watching the wooden city crack and burn."
+      },
+      "Id": 182191,
+      "Name": "Begin the war for hearts and minds",
+      "Description": "The Impolite Investigator will hold his own festival soon. He plans on revealing the doomed nature of Hideaway then, using an informative pyrotechnic display."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 237543,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 182192,
+      "Name": "A battle for hearts and minds: the Silent Reel",
+      "Description": "You've heard a rumour from your crew: the Investigator and his followers will play break the silence of the Silent Reel. They will sing songs about the doomed city. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 237545,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 182194,
+      "Name": "A battle for hearts and minds: the Hour of Our Reflection",
+      "Description": "You've heard a rumour from your crew: the Visionary has set a patrol around the Suggester. Apparently, the Investigator's attempting to entreat the Suggester to speak the truth of Hideaway."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 237596,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 182243,
+      "Name": "A battle for hearts and minds: the Rainbowing",
+      "Description": "Thanks to the efforts of the Sprightly Visionary, the upcoming Rainbowing festival will be an unparalleled spectacle of colour - unless the Investigator can destroy the Visionary's kaleidoscopic lights. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239360,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 183347,
+      "Name": "Join a festival",
+      "Description": "Though you do not reside in Hideaway, the people of the city will allow you to participate in their festivals, if you aid in the preparation for them. But they don't like trespassers learning their customs - festivals will become increasingly costly to attend."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239361,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 183348,
+      "Name": "Rejoin the festivals",
+      "Description": "Though you do not reside in Hideaway, the people of the city will allow you to participate in their festivals, if you aid in the preparation for them. It has been long enough since you last  attended that that they feel comfortable with you joining them once again. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240098,
+        "Name": "",
+        "Description": "One of the dwellers bows deeply before you, and performs the gesture of friendship by showing you her wrists and crossing her arms to touch her shoulders. She then fumbles in her pockets, before she presses a small shell into your hand. It's curled like a wave. A little claw darts out and nips at your finger. The woman coos at the tiny creature."
+      },
+      "Id": 183804,
+      "Name": "Join a festival",
+      "Description": "Though you do not reside in Hideaway, the people of the city will allow you to participate in their festivals, if you aid in the preparation for them. They'll even be grateful to have extra help."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246504,
+        "Name": "A farewell accepted",
+        "Description": "The Sprightly Visionary tears open the letter, scanning it quickly, then reading it again more closely. His emotions are guarded, but his fingers gently trace the ascot around his neck.\r\n\r\nIn response, the Visionary writes only '<i>Tell Lorenzo he is dismissed from his service.</i>' Hesitantly, he gives you the salute of a Khaganate commander, before rushing off to busy himself with other work."
+      },
+      "Id": 188110,
+      "Name": "Present a farewell letter to the Sprightly Visionary",
+      "Description": "The withered man stares at the letter in silent anticipation."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 247148,
+        "Name": "",
+        "Description": "They do not have much to offer. But maybe you'll find something of interest.  [Visit the Shops tab.]"
+      },
+      "Id": 188553,
+      "Name": "Where do they store their goods?",
+      "Description": "Perhaps they have something to trade."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258823,
+        "Name": "Destined for frustration",
+        "Description": "The last you see of the scholar, he is trying to get an artist to answer his questions and shaking in frustration. A crowd seems to be closing around him."
+      },
+      "Id": 193036,
+      "Name": "Deliver a scholar of lost causes",
+      "Description": "The bandaged scholar surveys the miserable crowd with open disdain. \"Yes, these should suffice.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258997,
+        "Name": "",
+        "Description": "The Sprightly Visionary presents you a letter. '<i>Unmask the Gov. of Wisdom. Tell him his capt. orders him to Hideaway; say I swear by Lady Miriam the consequences will be morbid if duty's neglected.</i>' He then performs the bow of gracious thanks and departs. "
+      },
+      "Id": 193155,
+      "Name": "Fulfil a last request",
+      "Description": "The Sprightly Visionary presents you a note. '<i>I have a request for you. Will you accept?</i>' "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260519,
+        "Name": "",
+        "Description": "He grins wickedly and squeezes your arm. Then he begins scribbling in his notebook. '<i>Have been waiting</i>,' he writes. '<i>Tell Mariam I've not been idle. Help me, and the Seven will have a potent weapon against Nidah</i>.'"
+      },
+      "Id": 194288,
+      "Name": "Inform the Sprightly Visionary that the Seven Against Nidah have returned",
+      "Description": "You recognise him from Mariam's bone statue: he is Arik, the Seven's Captain."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 237533,
+        "Name": "",
+        "Description": "She passes you three lumps of festering flesh. She presses her fingers to her forehead, and then makes a fist: the Hideaway gesture of 'creation'. These balls of flesh are apparently art! It takes some time for her to convey more about the artwork. One lump is a smaller version of the beast who carries the city, although missing a shell. Another is a man with a terribly pointed chin; the last is... (the Vendor points vigorously above you - ) a lamp-post! It represents the miracle of modern light, here in this dark place. "
+      },
+      "Id": 182182,
+      "Name": "Buy a memento from the Slow-Blinking Vendor",
+      "Description": "She touches her lips and tilts her head back. Her fingers travel down her throat to her belly, which she pats. That'll be the trade: goods for food."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259151,
+        "Name": "No luck",
+        "Description": "Your enquiries are exhaustive - the Philanthropist's husband is not here. You can cross this port off your list. [Check your journal for reminders about where the Philanthropist's husband might be.]"
+      },
+      "Id": 193259,
+      "Name": "Search for the Fierce Philanthropist's husband",
+      "Description": "Did he hide here, among the outcasts and the pariahs?"
+    }
+  ]
+}

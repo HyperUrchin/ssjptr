@@ -1,0 +1,17 @@
+{
+  "Id": 120811,
+  "Name": "A Camp in the Ruins",
+  "Description": "",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 120812,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 109946,
+      "Name": "Anarchists",
+      "Description": ""
+    }
+  ]
+}

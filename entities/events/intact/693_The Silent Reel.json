@@ -1,0 +1,57 @@
+{
+  "Id": 239346,
+  "Name": "The Silent Reel",
+  "Description": "A high lattice has been constructed over the festival square. It holds dozens of filament-bulbs. A spool has been suspended in the centre of the square. It is wound with a dull puce ribbon. When the ribbon is entirely unwound, the festival will end.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 239347,
+        "Name": "",
+        "Description": "The Master claps his hands at a shuffling dancer. The shuffler gives a smile, but his eyes fill with hate. He bites a section of ribbon, fixing it between his teeth, and joins the Master's dance."
+      },
+      "Id": 183334,
+      "Name": "Dance",
+      "Description": "The Master of the Dance holds the ribbon in his teeth. He is dancing through the crowd."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239348,
+        "Name": "",
+        "Description": "You must have been dancing for a few hours now, but it just goes on. The only relief from the quiet is the irregular clap from the Master of the Dance. The great chain of dancers weaves through the crowd without a noise. There are formerly holy teachers; once monarchs; warriors without battles; short-changed merchants - a growing and ceaseless parade. Some move with grace, others only sway in their steps out of obligation. The spool continues to unreel."
+      },
+      "Id": 183335,
+      "Name": "Keep dancing",
+      "Description": "How long has it been? The Master of the Dance has obliged more to bite onto the ribbon, but he still has so many left to claim."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239349,
+        "Name": "",
+        "Description": "Eventually, the Master claps at you, and you bite the ribbon and take your place. Shortly thereafter, the spool unwinds completely. There is a modest bang, and the air fills with fluttering papers. On each, a resident of Hideaway has written their secret. The dancers fall on them in a frenzy. You snatch as many as you can.\r\n\r\nThe one whose mercy led to colonial establishment. The seller of names. The one whose theories on Is-Not proved too dangerous. The one who stormed the city - what's this? The name is too smudged to read."
+      },
+      "Id": 183336,
+      "Name": "Just keep dancing",
+      "Description": "It has been many hours. They cannot maintain this forever."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239350,
+        "Name": "",
+        "Description": "No one tries to stop you. Most merely clear their throats and look away, feigning distraction. The few who do look directly at you scowl. But a few offer half-smiles - \"I know,\" they seem to say. \"We all know.\" "
+      },
+      "Id": 183337,
+      "Name": "Leave the festival early",
+      "Description": "You're a visitor. Surely they won't mind if you decline to participate."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239351,
+        "Name": "The dancing stops",
+        "Description": "The Master of the Dance almost lets out a shout; the ribbon falls from his mouth. A few dancers curl their lips and step from the line. The Master clears his throat, and signs - with trembling hands - the closing of the festival. He thanks the people of Hideaway for the celebration of unity, and thanks Temtum for their home. The crowd responds with silent applause. Here and there, you spot a few thanking you with secretive smiles. One even pushes something into your hand: a small token of thanks."
+      },
+      "Id": 183338,
+      "Name": "Sing!",
+      "Description": "The people look like they're on the edge of miserable tears. And who wouldn't be, dancing in this awful quiet? Give them a song!"
+    }
+  ]
+}

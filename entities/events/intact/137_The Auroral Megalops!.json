@@ -1,0 +1,27 @@
+{
+  "Id": 148072,
+  "Name": "The Auroral Megalops!",
+  "Description": "\"These are the younger form of gargantuan zee-crabs - driven up from their spawning grounds in the south by peculiar radiations. Younger they may be, but they are still large enough to consume a pony with messy and clattering glee, or to pose a menace to ill-prepared ships.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 148073,
+        "Name": "",
+        "Description": "COMBAT TIPS: You are trying to increase your enemy's Illumination - the yellow bar by their portrait - so you can see and damage them. They are trying to increase yours.\r\n\r\nEvasion actions will reduce your Illumination; Attacking actions will do Hull, Crew or Life damage. Your Mirrors, Veils and Iron score make a big difference to the effectiveness of all these actions."
+      },
+      "Id": 127091,
+      "Name": "Fight!",
+      "Description": "It surges from the water, its carapace throbbing with a queasy golden glow!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148074,
+        "Name": "Tenacity",
+        "Description": "It may only be little, but it doesn't mess about."
+      },
+      "Id": 127092,
+      "Name": "Flee!",
+      "Description": "It's only little, but you've better things to do."
+    }
+  ]
+}

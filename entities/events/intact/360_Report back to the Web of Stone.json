@@ -1,0 +1,17 @@
+{
+  "Id": 167503,
+  "Name": "Report back to the Web of Stone",
+  "Description": "Hospitality or not, you sense it would be a very bad idea to return empty-handed. A Weaver stands ready to receive the good news.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 167504,
+        "Name": "She bids you follow her into the Reaches",
+        "Description": "There is no cart this time. This will be a long walk."
+      },
+      "Id": 138485,
+      "Name": "The Secret of the Nocturne",
+      "Description": "Here is what they sent you to find. Hopefully."
+    }
+  ]
+}

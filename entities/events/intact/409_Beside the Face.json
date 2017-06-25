@@ -1,0 +1,77 @@
+{
+  "Id": 169914,
+  "Name": "Beside the Face",
+  "Description": "Up on the hillside, the buildings become scarcer and then vanish entirely, leaving you looking at the bottom of a great chin.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 169918,
+        "Name": "Perhaps not",
+        "Description": "You approach the Bat. It takes a step sideways away from the cliff edge and cocks its head at you. \"Ey there,\" it says. \"You're not me executioner.\"\r\n\r\nPerhaps it's not your role, then."
+      },
+      "Id": 139890,
+      "Name": "Push a visiting Bat off the stone chin",
+      "Description": "The visitor is wearing all black, and keeps reaching up to scratch under its bat-mask. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169919,
+        "Name": "Caught in the act",
+        "Description": "You ready your hand to write, but you don't get further than a few exclamatory glyphs before you're interrupted by a Jackal and led away for judgement. They don't take kindly to such interventions.\r\n\r\nWhen you recover from the pain they visit on you, you're back where you started. No mask, no costume, no reputation for expertise."
+      },
+      "Id": 139891,
+      "Name": "Deface the stone with new markings",
+      "Description": "Imprint yourself on history. [This will get you kicked off the island, in all likelihood.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169920,
+        "Name": "Service and worship",
+        "Description": "You contemplate the Lion for some time. There is an arithmetic sequence to the count of bows that it performs to each feature: the eyes, the nose, each lip. It is hard to know whether Lion is meant to be her worshipper or her lover. Perhaps the two functions are not very distinct.\r\n\r\nWhen at last the Lion's bows are complete, it passes you with a slight snap of its mask-jaws. It was rude of you to stand there watching. The Moth watches visitors. It does not watch citizens. To do so has violated the strictures of both of your roles."
+      },
+      "Id": 139892,
+      "Name": "Silently observe the attitude of the visiting Lion",
+      "Description": "It is paying obeisance to the face."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169921,
+        "Name": "Flourishing in eternity",
+        "Description": "The citizens give many meanings to the face: perpetual beauty; stasis; the idea of looking upward into an unyielding darkness. But most of all they speak of the idea of someone above looking down. The face is not convenient to view from down here. It would look its best from the perspective of the ceiling of the Unterzee, beyond reach."
+      },
+      "Id": 139893,
+      "Name": "Meditate on the meaning of the face",
+      "Description": "It offers many forms of inspiration."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169930,
+        "Name": "Harder to find",
+        "Description": "You climb up along the side of Flourishing's cheek, following a staircase of worn steps. You don't remember the path being this difficult before.\r\n\r\nThe entry, when you come to it, is plugged with a substance fibrous as spider silk but slick and waxy to the touch. Is this new? Does it grow here? Do they clear it away every year? Is it a form of security?\r\n\r\nBut it doesn't yield to your hand."
+      },
+      "Id": 139900,
+      "Name": "Look for the doorway into the Ear",
+      "Description": "It must be around here somewhere."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169916,
+        "Name": "Attended by some awkwardness",
+        "Description": "You tell the Frog a partially true story about how this face was carved. \r\n\r\nIt replies with questions. Detailed, astute, scholarly questions, about who the original people were who inhabited the island and whether the present citizens are their descendants, and, if not, where the original inhabitants might have gone. It hasn't learned the role of stupid credulity at all.\r\n\r\nCaught off guard like this, you have a hard time answering its questions smoothly. You part with irritation on both sides."
+      },
+      "Id": 139889,
+      "Name": "Offer instruction to the Frog that found its way up here",
+      "Description": "That's the sort of thing your Moth would have done to you."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169915,
+        "Name": "Old words",
+        "Description": "No matter how you hold your head, no matter in what direction you try to read the script, you can't make out the meaning. They're in too old a dialect. Not to mention that the ones near the bottom get smaller and harder to read."
+      },
+      "Id": 139888,
+      "Name": "Study ancient marks",
+      "Description": "Tiny pictures march across the stone."
+    }
+  ]
+}

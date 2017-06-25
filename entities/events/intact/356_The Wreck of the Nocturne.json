@@ -1,0 +1,67 @@
+{
+  "Id": 167366,
+  "Name": "The Wreck of the Nocturne",
+  "Description": "The webbed hulk of this once proud vessel refuses to be dragged beneath the black waves.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 167367,
+        "Name": "A harrowing emptiness",
+        "Description": "The fate of the Nocturne is well known, and proven by the webs stretching across its battered hull. Aside from those and a few signs of struggle, the contents lie mostly undisturbed. After all, what use have the masters of Saviour's Rocks for trinkets, baubles, gold and gems?\r\n\r\nIf the crew and passengers were lucky, they merely became lunch. If not... you've heard the stories; the kind of zee ztories saved for campfires on distant shores and cold nights when the rigging creaks. Of the Tree of Ages, a harbinger of doom crewed by sorrow-spiders. \u0010What happened to the lovers who found Storm's broken heart in a sandalwood box. The suicide songs of-\r\n\r\nMere superstitious nonsense, of course. Of course. Even so, it remains a relief when the candle finally melts and it is time to leave this place to the waves and rocks."
+      },
+      "Id": 138397,
+      "Name": "Board this empty mausoleum",
+      "Description": "Superstitions of the zee give even cynical zailors pause before ransacking half-drowned vessels. Still, nothing in the code prohibits indulging curiosity."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167505,
+        "Name": "Leave it to its fate",
+        "Description": "There is nothing more to be done here."
+      },
+      "Id": 138486,
+      "Name": "The Nocturne rests",
+      "Description": "Water seeping in, its spine broken, the Nocturne is finished. Soon it will sink and be forgotten."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167514,
+        "Name": "The crew boards the ship",
+        "Description": "The supplies are taken on board by the crew-members who drew the shortest straws. Despite appearances, the Nocturne will not be difficult to temporarily make zeeworthy. It remains to be seen if it will be sturdy enough to make the journey to Saviour's Rocks."
+      },
+      "Id": 138492,
+      "Name": "The Final Voyage of the Nocturne",
+      "Description": "Patch up the holes and bring the Nocturne safely to the spider-council of Saviour's Rocks. [You will be unable to return to your ship until the journey is complete. Should any unfortunate accidents befall your crew while on board, they will be lost.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167515,
+        "Name": "Light in the darkness",
+        "Description": "It is true that the interior of the Nocturne is a dark, unwelcoming place that demands a candle for exploration. With the whole crew searching it thoroughly though, the wrecked ship will be a beacon to anyone... anything that might be passing.\r\n\r\nIt would best to finish this as quickly as possible."
+      },
+      "Id": 138493,
+      "Name": "The Secret of the Nocturne",
+      "Description": "Superstitions of the zee give even cynical zailors pause before ransacking half-drowned vessels. Merely investigating however is no crime against Salt. [You will be unable to return to your ship until you finish your investigation for the spider-council.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167551,
+        "Name": "A question for another time",
+        "Description": "You should report back to the spider-council of Saviour's Rocks to get your promised reward."
+      },
+      "Id": 138515,
+      "Name": "A continuing mystery...",
+      "Description": "You cannot help but think there is something more going on here than you have been led to believe."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167586,
+        "Name": "A harrowing emptiness",
+        "Description": "The former crew and passengers of the Nocturne were taken by the sorrow-spiders to become part of the Tree of Seasons. You have freed them from that at least, though find little of interest in their abandoned belongings. To plunder the half-drowned ship could only bring down the wrath of Salt. It is best left well alone, as you sail away from this whole accursed mess."
+      },
+      "Id": 138545,
+      "Name": "A mystery unresolved",
+      "Description": "The fate of the Nocturne is tied to the machinations of the sorrow-spiders of Saviour's Rocks. As you are now their sworn enemy, its story must remain untold."
+    }
+  ]
+}

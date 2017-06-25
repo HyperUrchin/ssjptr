@@ -1,0 +1,37 @@
+{
+  "Id": 260557,
+  "Name": "Seven Years Later",
+  "Description": "Across the gloomy sea. Across the carmine sands and the lurid, violet jungles and the brazen veldt. To the Mountain, blazing bright! To Nidah.\r\n\r\nHer basalt walls are broken. Bloodshed stains her gemstoned streets. This close, the light of the Mountain is savage. Lenses of sapphire protect your eyes as you march along the Avenue of Lament. At its end, beyond a statue of the first Presbyter, is the funereal facade of the College of Mortality. Grey. Grim. \r\n\r\nYour detachment has penetrated furthest into the city. Batuk is at your side, bearing the Seven's apple-and-ploughshare banner. \"This is it,\" he bellows, over the sound of battle. \"The last time, this is as far as we got.\" Your moment is at hand.\r\n",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 260558,
+        "Name": "Honour among theives",
+        "Description": "You clap Batuk on the shoulder. Then you reach up and pluck his sapphire lenses away. He screams as his eyes boil. You retrieve his fallen banner, tie a length of red silk to it, and raise it high.\r\n \r\nAt your signal, your assassins strike at the remaining Seven. Your second-in-command curses and draws her pistol, pushing her way towards you. Fortunately, you identified her as one of Isery's agents several months ago. Your men, forewarned, fire first.\r\n\r\nYou give an order. Your gun emplacements begin methodically shelling the College of Mortality. Its mortuary-friezes vanish in clouds of dust. Holes are blasted in the walls, revealing glimpses of a facsimile-paradise: chambers of extravagant wealth; gardens of fruit-heavy trees; seraphically-beautiful servants, now shredded by shrapnel.\r\n\r\nPerhaps you will repair it and make it your palace, when the once-Presbyters of the College surrender. Ah. There we are: a white flag. A rag of dusty bed sheet, but the most beautiful sight in the Neath. It means the city is yours. It means the Mountain is yours. It means eternal life is yours. And yours alone."
+      },
+      "Id": 194314,
+      "Name": "Betray the Seven and seize immortality solely for yourself ",
+      "Description": "'Seven' is an unwieldy number. 'One' is much more straightforward."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260559,
+        "Name": "Liberty, equality, eternity",
+        "Description": "With a cry, you charge, and in a short, bloody battle force your way into the College. Behind its mausoleum-grim walls, it is as close to a paradisiac afterlife as can be achieved. Ceilings aglow with stars, or azure with dazzling recreations of a summer's sky. Pools of cold crystal water. Servants of seraphic beauty.\r\n\r\nThe once-Presters fight back. Their vitality is impossible. Bullets do not kill them, nor swords. Your men stop fighting like soldiers and start fighting like butchers. Your victory is slow, but inevitable.\r\n\r\nAt the back of the College a vast door guards the way into the Mountain's heart. Your remaining soldiers drag it open, revealing a tunnel reaching into the Mountain's searing stone. Not even your sapphire goggles allow you to see within. A warm breeze spills out, carrying the scents of saffron, of lavender, of apples. \r\n\r\nBeyond lies the Garden, root of immortality. The rest of the Seven join you, and you enter as one. Your followers are close behind - part march, part procession, part festival. You lead them through the blazing light, whiter than a sun's heart. [This captain's career is complete.]"
+      },
+      "Id": 194315,
+      "Name": "Democratise death",
+      "Description": "Hold to the plan. Stay loyal to the Seven."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260560,
+        "Name": "Just rewards",
+        "Description": "You clap Batuk on the shoulder. Then you reach up and pluck his sapphire lenses away. He screams as his eyes boil. You retrieve his fallen banner, tie a length of red silk to it, and raise it high.\r\n \r\nAt your signal, your assassins strike at the remaining Seven. Your second-in-command curses and draws her pistol, pushing her way towards you. Fortunately, you identified her as one of Isery's agents several months ago. Your men, forewarned, fire first.\r\n\r\nThe troops loyal to you gather, and form a ring around the College of Mortality. You only need to hold out for a day. Then the Replete arrive, at the head of a glass-eyed army from Arbour. The remaining forces of the Seven are trapped, divided, and cut down.\r\n\r\nThe gate of the College opens. A once-Presbyter steps out. There is something familiar about his face - the high cheeks, the stern nose; so like Mariam's. He shakes your hand. \"Seven and seventy kingdoms make up the Presbyterate,\" he tells you, unrolling a golden map. \"Choose one.\""
+      },
+      "Id": 194316,
+      "Name": "Forsake your quest. Protect the Presbyter",
+      "Description": "On reflection, better a lifetime of pleasure than an eternity of trouble. Immortality begets envy - or none of you would be here."
+    }
+  ]
+}

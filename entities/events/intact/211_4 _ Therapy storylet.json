@@ -1,0 +1,187 @@
+{
+  "Id": 150922,
+  "Name": "4 - Therapy storylet",
+  "Description": "You aren't aware of it, you just try to fix it.\r\nAdmit to truth.\r\nTalk about you - maybe your ancestors played in me. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 150923,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 128883,
+      "Name": "Its various worries #1",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151025,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 128973,
+      "Name": "various worries #2",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151026,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 128974,
+      "Name": "various worries #3",
+      "Description": "Left its own confession."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151043,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 128991,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151044,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 128992,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151045,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 128993,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151046,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 128994,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151047,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 128995,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151048,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 128996,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151049,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 128997,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151050,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 128998,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151051,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 128999,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151052,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 129000,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151053,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 129001,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151054,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 129002,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151055,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 129003,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151057,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 129005,
+      "Name": null,
+      "Description": null
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151058,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 129006,
+      "Name": "Catalogue her",
+      "Description": ""
+    }
+  ]
+}

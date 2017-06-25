@@ -1,0 +1,37 @@
+{
+  "Id": 239995,
+  "Name": "The Pulp-Mines",
+  "Description": "Miners work on one tooth at a time: carefully severing and cauterising the nerve-cord, excavating the pulp for rendering and sale, and leaving behind the crown to be carved and polished. \r\n\r\nThe huge eel-drawn zee-wagons are piled high with slabs of something rich and bloody. Are the Miners trading in more than just pulp?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 240536,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 184096,
+      "Name": "Return to the Cavities",
+      "Description": "The noise of the mining-engines surrounds you. It's less unpleasant elsewhere."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243570,
+        "Name": "Too close",
+        "Description": "You claw wildly through the water towards your vessel. Your aim is desperate; dark blotches and white cracks flare through your vision. The effort of not breathing burns. The airlock is ready, open; but it must be closed and emptied. Finally, air inches into the top of the chamber. You cough and retch the Nookwater from your lungs. "
+      },
+      "Id": 186061,
+      "Name": "The Creeping Drown",
+      "Description": "The lungweed is wearing off. You have to get to air. Swim for your ship - fast!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239996,
+        "Name": "",
+        "Description": "The miners heft their drills and shovels and do their best to ignore you. The foreman occupies himself shouting at already focused workers. Somehow he always needs to be elsewhere when you swim near. There is a strange taste to the water here - metallic, bitter... rich."
+      },
+      "Id": 183746,
+      "Name": "Pursue your investigations",
+      "Description": "The foreman is treading water amid skeins of blood. What is going on? Did <i>they</i> cause the Maw quakes?"
+    }
+  ]
+}

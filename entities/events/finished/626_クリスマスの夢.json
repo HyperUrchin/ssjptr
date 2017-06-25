@@ -1,0 +1,67 @@
+{
+  "Id": 223591,
+  "Name": "クリスマスの夢@{I}A Dream of Christmas",
+  "Description": "　雪に埋もれた街路の只中で、冬の赤獣が、あなたの上に覆いかぶさるように立っていた。その袋は、あなたの捧げ物を受け取るために、大きく口を開かれていた。「私はお前が与えられるものすべてを貰う。私はお前が持つものすべてを貰う。私はそれ以上をも貰う」@{I}$Crimson('s)? Beast of Winter -> 冬の赤獣$The Crimson Beast of Winter towers above you on the snow-drowned street, its sack open wide to receive your offering. \"I WILL TAKE ALL YOU CAN GIVE. I WILL TAKE EVERYTHING YOU HAVE. I WILL TAKE MORE.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 223592,
+        "Name": "防がれた損失@{I}A loss averted",
+        "Description": "　ミスター・サックスは一瞬だけ沈黙した。「お前が、お前の価値に見合うだけの寛大さを享受せんことを」そう言うと、それは暗闇の中へと歩み出した。光と、光の記憶のすべてと共に。<br/><br/>　目を覚ますと、冷たい汗をかいていた。ベッドの傍らのランタンを手探りする。ただの夢だ。だが、かろうじて喪失を免れたのだという、嫌な感覚を残す夢だった。@{I}$Mr Sacks -> ミスター・サックス$Mr Sacks is silent for a moment. \"MAY YOU EXPERIENCE ALL THE GENEROSITY THAT YOU DESERVE,\" it intones, stepping into the darkness and taking the light and all memory of light with it.\r\n\r\nYou wake up in a cold sweat, fumbling to light the lantern beside your bed. Just a nightmare, but one that leaves behind a sick sense of something barely averted."
+      },
+      "Id": 173275,
+      "Name": "ミスター・サックス！私からのとびきりの挨拶を受け取って！@{I}$Mr Sacks -> ミスター・サックス$Mr Sacks! Take my best regards.",
+      "Description": "　ロンドン人の間で使い古されたペテンだ。これは通用する……ただし一度だけ。@{I}An old Londoners' trick. It can work... once."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223600,
+        "Name": "供物は捧げられた@{I}An Offering is made",
+        "Description": "　袋はただ、空腹だけを知っていた。あなたはそれに財産を与えた。あなたの宿を与えた。あなたの船を与えた。あなたの着ている服を与えた。あなたは裸で、宿無しの無一文で、ロンドンの街路に立っていた。それでもなお、ミスター・サックスは求めた。「もっとだ」<br/><br/>　目を覚ますと、また、冷たい汗をかいていた。シーツを握りしめて、今はまだあなたのものである船の、安心させるような物音を聞く。ただの夢だ。何の意味もない。@{I}$Mr Sacks -> ミスター・サックス$The sack knows only hunger. You give it your fortunes. You give it your Lodgings. You give it your ship. You give it the clothes off your back. You stand naked, homeless and penniless on the streets of London, and still Mr Sacks demands \"MORE.\"\r\n\r\nYou wake in another cold sweat, clutching at sheets, hearing the reassuring hum of a vessel that remains yours, for now. Just a dream. It means nothing. "
+      },
+      "Id": 173281,
+      "Name": "ミスター・サックス！私の富を受け取って！@{I}$Mr Sacks -> ミスター・サックス$Mr Sacks! Take my wealth.",
+      "Description": "　あなたはそれを持ったままでいることはできない。時間稼ぎにはなるだろう。[これは、あなたのエコーを消費します。]@{I}You cannot take it with you. It will buy time.\r\n [This will cost you Echoes.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223601,
+        "Name": "供物は捧げられた@{I}An Offering is made",
+        "Description": "　あなたは前回の夢でそうだったように、文無しの浮浪者として、凍えながら、ロンドンのラッカーの雪の中に立っていた。獣は、あなたの素肌に片手を押し当てた。冷気が、あなたの肉体と精神から熱を奪い取った。汗の珠が、あなたの肌にチクリとした痛みを与えて凍りついた。あなたの吐息は、もはやあなたの目の前に漂うことはなかった。獣は唸った。「もっとだ」<br/><br/>　あなたは震えながら目を覚ました。頭の中に炎を、心の中に氷を感じた。あなたはこの悪夢から開放されなければならない。今すぐにでも。@{I}$lacre -> ラッカー$You stand as you were in your last dream, a penniless vagrant, freezing in the lacre-snow of London. The Beast presses a hand to your bare skin; a coldness that drains the heat from your flesh and spirit. Beads of sweat prickle your skin, turning to ice. Your breath no longer hangs in front of you. The Beast growls. \"MORE.\"\r\n\r\nYou wake shivering; a fire in your head and ice in your heart. You need to free yourself of this nightmare, and soon."
+      },
+      "Id": 173282,
+      "Name": "ミスター・サックス！私の温かさを受け取って！@{I}$Mr Sacks -> ミスター・サックス$Mr Sacks! Take my warmth.",
+      "Description": "　その温かさは、冷たいラッカーの中ではそう長くは保たないだろう。[これは、あなたのHeartsを消費します。]@{I}$lacre -> ラッカー$It will not last much longer in the cold lacre.\r\n [This will cost you Hearts.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223602,
+        "Name": "供物は捧げられた@{I}An Offering is made",
+        "Description": "　獣が苛立たしげに待っている。あなたは自分の口の中に手を突っ込んだ。ほんの軽く触れるだけで、あなたの歯はひび割れ、血が滲み出た。あなたはまず、犬歯を掴んだが、指が滑った。今度はもっとしっかりと掴み、引っ張って、捻って、苦闘した。それがあなたの歯茎から引き剥がされると、足元の雪に血が飛び散った。神経が外の冷気を感じて震えた。あなたは、その血まみれの供物を、ミスター・サックスの足元に放り投げた。獣は見下ろすことはなかった。「もっとだ」獣ははっきりとそう言った。<br/><br/>　目が覚めると、喉の奥で銅の味がした。口に手を伸ばす。ありがたいことに、あなたの歯は元のままだった。少なくとも、ベッドに入る時にあると思っていた分は、すべて残っていた。@{I}$Mr Sacks -> ミスター・サックス$The Beast waits impatiently. You reach into your mouth, each tooth cracking and bleeding at the slightest touch. You grip the first; a canine. Your fingers slip. You grip tighter, pulling, wrenching, fighting. It tears free from your gums, blood splattering down onto the snow at your feet, nerves shrieking as they taste the chill in the air. You throw the bloody prize at Mr Sacks' feet. It doesn't look down. \"MORE,\" it booms.\r\n\r\nYou wake, a taste of copper in your throat. Your hand goes to your mouth; thankfully, your teeth remain. All that were present when you took to your bed, at least. "
+      },
+      "Id": 173283,
+      "Name": "ミスター・サックス！私の歯を受け取って！@{I}$Mr Sacks -> ミスター・サックス$Mr Sacks! Take my teeth.",
+      "Description": "　体の一部を。それの飢えを満たすためだ。[これはあなたのIronを消費します。]@{I}Something of the body, to satiate its hunger.\r\n [This will cost you Iron.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223603,
+        "Name": "供物は捧げられた@{I}An Offering is made",
+        "Description": "　雪の中、彼らは死んだ目で整列していた。遠くから聞こえる拍子を目指して、彼らは行進した。一人また一人と、袋の中へ。一人また一人と、あなたの方を振り返って、そして消えた。獣は、袋の紐を固く引き締めた。「もっとだ」そう要求した。「もっとだ」<br/><br/>　扉をノックする音がして、あなたは目を覚ました。あなたは興奮して起き上がった。頭はまだ、半ば記憶に残っている太鼓の音のために、がんがんと鳴っていた。外にいた船員は厄介な知らせを運んできた。何だって？どうしてそんなことに？何人だ？あなたは扉を閉めた。偶然だ。間違いなく。ただの偶然だ。@{I}They line up, dead-eyed in the snow. To a distant beat, they march. One by one, into the sack. One by one, their heads turn to face you, and then away. The Beast pulls the drawstrings tight. \"MORE.\" it demands. \"MORE.\"\r\n\r\nA knock on the door wakes you. You rise with a fever, head still pounding from a half-remembered drumbeat. The crewman outside brings troubling news. What? How did this happen? How many? You close the door. A coincidence, surely. Just a coincidence."
+      },
+      "Id": 173284,
+      "Name": "ミスター・サックス！私の仲間を受け取って！@{I}$Mr Sacks -> ミスター・サックス$Mr Sacks! Take my crew.",
+      "Description": "　彼らが先だ。それが船長のやり方じゃないか？[この選択が要求する船員の数は、どんどん増えていきます。]@{I}Better them than you. Isn't that the Captain's way?\r\n [This will demand increasing numbers of crew.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223975,
+        "Name": "最後の供物@{I}The final Offering",
+        "Description": "　獣の空腹には果てがなかった。獣は大きく袋を開き、あなたはなすがままに、それに飲み込まれた。とても遠くから、自分たちの船長を眠りから起こそうとする必死な声が、虚しく響いた。それはすぐに遠ざかって消え、後にはただ、袋の中の静寂だけが残された。@{I}The Beast's hunger knows no end. It opens the sack wide and you let it take you. Far away, desperate voices try in vain to wake their sleeping Captain. Soon, they fade, leaving only the silence of the sack. "
+      },
+      "Id": 173578,
+      "Name": "ミスター・サックス！……私を、受け取って！@{I}$Mr Sacks -> ミスター・サックス$Mr Sacks! Take... me.",
+      "Description": "　あなたにはもう、他に与えられるものが残っていない。[悪夢があなたを捕らえました。これはあなたのゲームを終了させます。ここに至る前に奉仕を終えるか、奉仕から逃げ出しましょう。]@{I}You have nothing else left to give.\r\n [The nightmare has you. This will end your game. Finish or escape your Service before it comes to this.]"
+    }
+  ]
+}

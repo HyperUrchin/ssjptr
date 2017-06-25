@@ -1,0 +1,5 @@
+{
+  "Id": 102021,
+  "Name": "墓人@{I}墳墓の入植者@{M}Tomb-Colonist",
+  "Description": "厳密には、商材ではなく乗客である。しかし、話し掛けてみないと、そのことには気付けないだろう。[彼らを墓人街に送り届けると、運賃が支払われます。そこで売れば良いのです。]@{I}本来なら荷物と言うよりは同行者だ。しかし貴方は彼らに話しかけながら、それに気づかないだろう。[彼らは墳墓街で旅賃を支払います。彼らをそこで売り払いましょう。]@{M}$Tomb[- ]Colon(y|ies) -> 墓人街$Technically, passengers rather than goods. But you'd never know it to talk to them. [They'll pay their passage to the Tomb-Colonies: sell them there.]"
+}

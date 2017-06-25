@@ -1,0 +1,57 @@
+{
+  "Id": 144251,
+  "Name": "大使館を受け入れる@{K}Receive an Embassy",
+  "Description": "どんなぼろ屋に住む海賊であっても旗を掲げることはできる。しかしあなたは今やそれよりはるかに大きな存在となった。繁栄する居住地の長に。しかし国として真っ当に扱ってもらうには、他の国に正式に存在を認められ、同盟を結ばなければならないだろう。どの国を盟友としようか？[この選択肢を選ぶことで勝利し、このゲームを終わらせることが出来ます。]@{K}Any pirate in a hut can raise a flag. You're much more than that, now - the governor of a thriving settlement. But to be taken seriously as a nation, you must be formally recognised, and make an alliance. Who is your chosen ally? [This will end, and win, the game.]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 144253,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 124663,
+      "Name": "カーンの影との協定@{K}$Khan -> カーン, Khan's Shadow -> カーンの影$A pact with Khan's Shadow",
+      "Description": "影の人間は同盟相手探しに必死だ……しかし彼らは疑い深い。あなたの総督が彼らのやり方に詳しい人間であり、なおかつ相手方の友人から紹介を受けることが出来ればあなたと共に働いてくれるかもしれない。@{K}The Shadow is desperate for allies... but they're mistrustful. If your Viceroy is someone who knows their ways, and if you have an introduction from their friends, then they'll work with you."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 185293,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 149343,
+      "Name": "ロンドンとの和解@{K}An accommodation with London",
+      "Description": "帝国はその臣民が敵対国家を築くのを歓迎はしない。しかし正直なところ彼らに出来ることは多くはない上に、その勢力も衰えつつある。もしあなたの国に確固たる力があり、海軍省に十分な影響力を持っているならば黙認してもらえるかもしれない。@{K}$Admiralty -> 海軍省$The Empire doesn't like its subjects founding rival nations. But honestly, there's not much they can do about it, and the Empire's power is on the wane. If you are credibly powerful - and if you have enough sway at the Admiralty - perhaps you can persuade them to wink at you."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 185296,
+        "Name": "血とあぁ！@{K}Blood and ow!",
+        "Description": "あなたたちは最初の週にはアイル・オブ・キャッツの襲撃部隊を退け、二週目には“未完成の”海賊たちに襲われた。そして三週間目にはカーネイトのトリマラン船を追い払う。彼らはどうやらあなたの菜園が気にくわなかったらしく、きゅうりをペースト状になるまで磨り潰してしまった。一つ一つの戦いで被害が積み重なり、墓場が広がっていく。\r\n\r\nあなたたちは本当に独立した国家として自分の身を守ることが出来るのだろうか？今までのところは生き延びたが、考え直すべき時かもしれない。@{K}$Khan -> カーン, Khanate -> カーネイト, Isle of Cats -> アイル・オブ・キャッツ$The first week, you fight off a raiding party from the Isle of Cats. The second week, you suffer an assault by Unfinished Pirates. The third, you drive off a Khanate trimaran which has apparently taken a dislike to your kitchen garden, and shells your cucumbers into paste. Every fight takes its toll. The graveyard begins to grow.\r\n\r\nCan you really defend yourself as an independent nation? You've survived so far; but perhaps it's time to rethink this."
+      },
+      "Id": 149346,
+      "Name": "誰とも同盟を結ばない@{K}No one",
+      "Description": "領土権の主張などする必要はない。自分たちの国土は血と炎によって確かなものとしよう。誰かが奪い取ろうとしたなら、追い返してやるまでのことだ。@{K}Never mind staking a claim. You'll forge that claim in blood and fire. If anyone tries to take it from you, you'll fling it back at them."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 185294,
+        "Name": "助けにはならない@{K}Not helpful",
+        "Description": "あなたは成果が出るように祈りつつ一文だけ彼らに送った。\r\n\r\n燧石の薄片に刻まれた一行が返信として届いた。『旅人還りぬ』@{K}You send the single sentence you hope will have a result.\r\n\r\nA single line comes back, inscribed on a flake of flint. It reads: \"TRAVELLER RETURNING.\""
+      },
+      "Id": 149344,
+      "Name": "プレズビターとの合意@{K}$Presbyter -> プレズビター$An understanding with the Presbyterate",
+      "Description": "旧大陸の心臓部に位置する、ロンドンとカーネイトを合わせたよりも古い国だ。彼らの政府にはmithridacy（異邦人を困惑させる術）の追及に専念している部門さえあるという。もしかすると、本当に可能性は低いが、正しい伝言を考え出すことが出来るかもしれない。@{K}$Khan -> カーン, Khanate -> カーネイト, Elder Continent -> 旧大陸$The nation at the heart of the Elder Continent is older than London and the Khanate put together. They have an entire government department devoted to mithridacy - the art of confusing foreigners. Perhaps - just perhaps - you can work out the right thing to say to them."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144252,
+        "Name": "返事なし@{K}No reply",
+        "Description": "あなたは贈り物と言伝を送り……返事を待った。そしてただひたすらに待ち……さらに待ち……待ち続けた。もしかしたら相手に届かなかったのかもしれない。あるいは彼らは文章の誤りを寛大にもくすくす笑っているのかもしれない。もしくは重大な侮辱として今も戦艦がこちらに向かっているところかもしれない……@{K}$Khan -> カーン, Khanate -> カーネイト$You send your gift and your message... and wait. And wait... and wait... and wait. Perhaps it was lost at zee. Perhaps they're chuckling indulgently over some error of composition. Perhaps the insult is so grave that even now a Khanate war-fleet is steaming towards you..."
+      },
+      "Id": 124662,
+      "Name": "カーンとの交渉を開始する@{K}$Khan -> カーン, Khanate -> カーネイト$Overtures to the Khanate",
+      "Description": "カーネイトを感心させるのは簡単な事ではない。正しい呼称と文学的仄めかしを完璧に覚え使いこなす必要がある。最も良い教育を受けた野蛮人にとっても非常に困難な仕事だ。あなたは王族であるレオポルドの好意を勝ち取らねばならない。適切な贈り物も必要だろう。@{K}$Khan -> カーン, Khanate -> カーネイト, Leopard -> レオパルド$The Khanate is not easily impressed. You'll need to master the proper forms of address, and the proper literary allusions - tremendously difficult, even for the best-educated barbarian. You'll need the favour of the Leopard, the royal clan. And you'll need to send a suitable gift."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Id": 240002,
+  "Name": "The Cleft",
+  "Description": "A colossal bore is cutting into the wall of the gullet. The water is tinged with a miasma of blood. Weary-looking children chained to a swim-wheel are driving the bore. Another group floats, crossed legs, knotting nerve-cord into a long line. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 240066,
+        "Name": "The Debonair Deductress emerges from the blood-fog.",
+        "Description": "\"Don't worry you si- you villain! I'm here.\" She turns, and sweeps you a mock bow. \"First time in a decade that a Nemesis has beaten me to the end. I'd tip my hat to you, if it didn't keep floating away.\"\r\n\r\n\"Can we get on?\" The Hempen Man sounds impatient.\r\n\r\n\"Don't rush me, Arnold. And take off that ridiculous getup.\" The Deductress frowns. \"This certainly is not your finest work. And why did you have to involve children? You know I hate that.\"\r\n\r\n\"Couldn't have converted my Nerveless if I could only promise them hard work.\" The Hempen Man is ignoring you entirely. \"Look Mina - I can save this city. The people needn't live in a gulping monster. I can do something <i>good</i> for once.\" He darts backwards towards the wound, swimming like a Nooker. \"You shan't stop me.\"\r\n\r\n\"What - you can't!\" the Deductress cries, aghast. \"<i>I'm</i> the hero! Come back here!\""
+      },
+      "Id": 183785,
+      "Name": "\"What have you done with her?\"",
+      "Description": "The Hempen Man's tone is angry, and... anxious?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240657,
+        "Name": "Too close",
+        "Description": "You claw wildly through the water towards your vessel. Your aim is desperate; dark blotches and white cracks flare through your vision. The effort of not breathing burns. The airlock is ready, open; but it must be closed and emptied. Finally, air inches into the top of the chamber. You cough and retch the Nookwater from your lungs. "
+      },
+      "Id": 184178,
+      "Name": "The Creeping Drown ",
+      "Description": "The lungweed is wearing off. You have to get to air. Swim for your ship - fast!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243768,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 186188,
+      "Name": "Leave the Cleft",
+      "Description": "Return to central Nook."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240003,
+        "Name": "",
+        "Description": "A woven-hooded member of the Hempen Man's Nerveless cult patrols the bore's structure. You swim past him easily enough, but cannot spot a swift way way to destroy the mechanism before the patrol returns and you are forced to retreat. You will have to try again."
+      },
+      "Id": 183751,
+      "Name": "Destroy the workings",
+      "Description": "The bore looks fairly ramshackle. It should be easy enough to destroy - if you can remove a couple of key components."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240659,
+        "Name": "",
+        "Description": "You swim past the cultist guarding the weaving children easily enough - but the two feeding the rope into the borehole are edgy, and vigilant. You can't get close without risking attention. You'll need to try again, or something else."
+      },
+      "Id": 184179,
+      "Name": "Sabotage the nerve-cord",
+      "Description": "The children working on the nerve-cord are being guarded diligently by a Nerveless cultist. But the cord itself is unattended. "
+    }
+  ]
+}

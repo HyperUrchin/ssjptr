@@ -1,0 +1,47 @@
+{
+  "Id": 246528,
+  "Name": "The Ivories",
+  "Description": "The area throbs with activity. Merchants cry their wares and buoy goods for easy transport to and from the docked zubmarines. Crates and barrels flow around you, skillfully directed by vigorous Nookers. The working hubbub is jovial.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 246533,
+        "Name": "\"Whatever you do, don't shake it.\"",
+        "Description": "The trader holds each drowning-pearl to his ear before tucking them away. \"A pleasure doing business,\" he says, as he hands you an artefact in exchange. You've barely secured it before he gives you a gentle push which sends you floating out of his shop. It's a gesture of respect among the Nookers, you're told."
+      },
+      "Id": 188129,
+      "Name": "Trade in Outlandish Artefacts",
+      "Description": "Nook's lack of regulation has created a small but flourishing trade in antiquarian curios of questionable provenance."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246535,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 188130,
+      "Name": "Play a round of Snaplamprey",
+      "Description": "During lulls in work, Nook dockworkers entertain themselves with this game. Distinctive circular scars mark out enthusiasts. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246536,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 188131,
+      "Name": "Leave the Ivories",
+      "Description": "Return to central Nook."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246537,
+        "Name": "Too close",
+        "Description": "You claw wildly through the water towards your vessel. Your aim is desperate; dark blotches and white cracks flare through your vision. The effort of not breathing burns. The airlock is ready, open; but it must be closed and emptied. Finally, air inches into the top of the chamber. You cough and retch the Nookwater from your lungs. "
+      },
+      "Id": 188132,
+      "Name": "The Creeping Drown",
+      "Description": "The lungweed is wearing off. You have to get to air. Swim for your ship - fast!"
+    }
+  ]
+}

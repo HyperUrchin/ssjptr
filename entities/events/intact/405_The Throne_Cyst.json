@@ -1,0 +1,147 @@
+{
+  "Id": 169643,
+  "Name": "The Throne-Cyst",
+  "Description": "This is the salt-blown heart of the Hold. The Fathomking floats in his throne: a gem-starred bowl of sea-stone, the size of a banqueting table. He's wearing a dressing gown of purple brocade, soaked dark with salt water. He leans his chin calmly on his hand. Beneath the surface of the water in his throne, his hidden regions pulse, constantly, insistently.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 169644,
+        "Name": "",
+        "Description": "Guards in thorned exoskeletons issue from a dark slit behind the throne. The Campaigner walks between them, wrists chained with bronze, face calm and empty.\r\n\r\n\"The flames,\" the Fathomking remarks, \"have been quenched in the zee. Is she as she was? Not entirely. But you will be unable to discern any differences that might trouble you.\""
+      },
+      "Id": 139731,
+      "Name": "\"Your Complexity: I pray you, give me back my Campaigner.\"",
+      "Description": "She died at sea. Perhaps he can return her. His price will be steep."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169645,
+        "Name": "",
+        "Description": "Guards in thorned exoskeletons issue from a dark slit behind the throne. The Magician walks between them, wrists chained with bronze, face calm and empty.\r\n\r\n\"I have made adjustments,\" the Fathomking confesses. \"I couldn't quite restore the man you lost. In dreams or in sea, my authority is limited. But you should find this one suitable for your needs.\""
+      },
+      "Id": 139732,
+      "Name": "\"Give me back my Magician.\"",
+      "Description": "Perhaps the Fathomking, with his allies in dreams, can return the Magician."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169646,
+        "Name": "A triple hybrid?",
+        "Description": "Guards in thorned exoskeletons issue from a dark slit behind the throne. Your Nacreous friend walks between them. Its eyes are unreadable.\r\n\r\n\"It is not as it was,\" the King informs you. \"That is gone forever. Rejoice. You walk in the company of a risen god.\""
+      },
+      "Id": 139733,
+      "Name": "\"Give me back my Outcast.\"",
+      "Description": "\"Its mind is gone,\" the King warns you. \"But if you have a Fluke-Core, the Core can become its new identity - \""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169647,
+        "Name": "",
+        "Description": "A wall puckers open, and a guard in a thorned exoskeleton brings in a shivering zailor. \"Captain!\" she cries. \"I was - it was - the cold - \"\r\n\r\n\"Go,\" the Fathomking says languidly. \"I won't release her twice.\""
+      },
+      "Id": 139734,
+      "Name": "\"I have come to plead for a zailor's life.\"",
+      "Description": "Perhaps it's someone you knew. Perhaps you're feeling philanthropic. Perhaps you're simply desperate for crew. [This is an expensive way to gain crew.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169649,
+        "Name": "A spray of seawater",
+        "Description": "The guards fling the Drownie into the pool. The splash soaks the King, but his dignity is unmarred. The pulsing in the pool intensifies into threshing. The Drownie sinks from view, and the waters grow thick and dark. \"Next,\" the King says peaceably."
+      },
+      "Id": 139736,
+      "Name": "Witness an execution",
+      "Description": "Two silent guards in thorned exoskeletons drag a babbling Drownie forwards. \"No!\" she shrieks. \"I am no friend of spiders! I have never purchased silk! It was a gift! Your Complexity! I have always been loyal - \""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169652,
+        "Name": "Boasting?",
+        "Description": "He's speaking of the nature of the wounds - their dramatic effects on the landscapes of the body. He sounds like he's boasting - but a single tear trickles down from beneath his mask. At last the King nods. \"The offering is acceptable,\" he says. Thorn-armoured guards carry the bier through a dark slit behind his throne.\r\n\r\nThe King begins, off-handedly, to outline the cartography of the deep undersea, and the patrol-routes of monsters. He notices your presence and snaps his fingers: the guard ushers you out, but not before you've heard valuable deep-gossip."
+      },
+      "Id": 139739,
+      "Name": "Watch a Crocodile-Masked Visitor make an offering",
+      "Description": "A body lies on a bier in the centre of the chamber. The Crocodile-Masked Visitor moves around it, indicating wounds in its head, neck, chest; muttering."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169653,
+        "Name": "Valuable information",
+        "Description": "At last the King nods, and awards the Emissary a pouch of drowning-pearls. The hour of audience is past. Thorn-armoured guards escort you back to the surface. But the Emissary's words, and the King's questions, have taught you a great deal."
+      },
+      "Id": 139740,
+      "Name": "Listen to a Khaganian Emissary",
+      "Description": "Here's a visitor from the Taimen clan, in a grey robe patterned with leaping fish. She describes events at the Khan's Court; skirmishes with the Chelonate; zee-beast attacks."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169654,
+        "Name": "An abrupt end",
+        "Description": "The King makes a chopping motion with his hand. A tide of crabs rushes from the shadows of the Throne-Cyst. They're on the hunter before he can turn, but not before he can scream. The King watches in satisfaction as they swarm the hunter, snipping the flesh from his bones. Thorn-armoured guards block the chamber door.\r\n\r\nWhen it's done; when his cries are long silenced, and scarred bones remain - the King motions you forwards. \"Take something,\" he commands. \"Let our justice be remembered above. You may go.\""
+      },
+      "Id": 139741,
+      "Name": "Listen to a Chelonate Envoy",
+      "Description": "A hunter in sharkskin is haranguing the King. \"...unpardonable intrusion! Our ancient rights have been impugned! King you may be, but not of the Shell-Slayers. We will pay no more tribute - \""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169655,
+        "Name": "Sea-bounty",
+        "Description": "\"Rosy flesh,\" the King intones, \"won from the water. Taste it in good health.\" He waves a gracious hand, while his waters thresh. The audience is over. As you return, crab- slaves carry ice-boxes filled with sweet fresh meat - pink as dawn."
+      },
+      "Id": 139742,
+      "Name": "Ask a boon of the King",
+      "Description": "You have brought the King a story-gift. You may ask a gift in return. It's impossible to know what you'll receive..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169657,
+        "Name": "Return to the Valves of Pearl",
+        "Description": "Back at the dock, the air no longer smells of stone and copper. The light is the familiar glow of false-stars, not the piercing green of the Hold's eyes."
+      },
+      "Id": 139743,
+      "Name": "Leave",
+      "Description": "You've finished here."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169674,
+        "Name": "Another rite",
+        "Description": "Crocodile is describing the wounds on the body, but the wounds he describes don't match the wounds you see. This is another Visage ritual. He sounds like he's boasting - but a single tear trickles down from beneath his mask. At last the King nods. \"The offering is acceptable,\" he says. Thorn-armoured guards carry the bier through a dark slit behind his throne.\r\n\r\nThe King begins, off-handedly, to outline the cartography of the deep undersea, and the patrol-routes of monsters. He notices your presence and snaps his fingers. The guard ushers you out, but not before you've heard valuable deep-gossip. And you understand a little more Visage-lore. Crocodile has given this body to another kind of flood."
+      },
+      "Id": 139752,
+      "Name": "Watch a Visager",
+      "Description": "Crocodile moves around a corpse-offering on a bier, clockwise. He indicates its wounds to the Fathomking. Why is he here?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176514,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 143966,
+      "Name": "Discuss the matter of your Father's Bones",
+      "Description": "\"Your Complexity: I have a more personal petition. You know something of my father, or what remains of him.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181958,
+        "Name": "The Seventh Miracle",
+        "Description": "There are seven courses, each named. It begins with <i>The First Touch on the Skin</i>: a plate of silky white flesh submerged in yellow sauce - fresh, sharp, shocking. Next comes <i>Struggling Against the Current</i>, a fierce terrine of coursing flavours. It leaves the diners watery-eyed and reaching for their wine. Before they recover, bowls of peligin soup are set before them. <i>\"Swallowed!\"</i> the Poissonnier intones. The taste is deep and rich and heavy, lining the stomach. Several drownies lift the bowls to their lips to catch the last drops.\r\n\r\nA merciful interlude follows. <i>The Surface, High Above</i> is a mild, palate-cleansing mousse. Afterwards comes <i>Lost Breath</i> - a roulade of still-wriggling tentacles; bitter on the tongue's tip, but departing with a long, mellow aftertaste as it slides down the throat. The penultimate course <i>The Abandonment of the Self</i> is spun with sugar and crunchy with salt. Spherical cages of solidified syrup, containing fiery sweetmeats. The filigree cracks between Drownie teeth. The sweetmeats vanish down damp gullets.\r\n\r\nLast of all, <i>The Promise of What is to Follow</i> - a brûléed cream of inexplicable pungency - indescribably more-ish. The diners lean back, bloated. When their senses return, they call for the Poissonnier and congratulate him upon impeccably reproducing the sensation of drowning in culinary form. \"It was not drowning,\" the Fathomking says, his baritone rolling over their babble. \"It was love.\" He raises his glass to the Poissonnier. "
+      },
+      "Id": 147281,
+      "Name": "Attend the Poissonnier's feast",
+      "Description": "The Drownie court - soggy, chattering, hungry - populate a table of carved coral. The Poissonnier claps his hands. Your crew scurry in with steaming plates."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 263389,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 196207,
+      "Name": "Deliver the Cargo of Answers to the Fathomking",
+      "Description": "The Drownies of Scrimshander asked you to deliver evidence that the Chelonate's history is not all it's made out to be. "
+    }
+  ]
+}

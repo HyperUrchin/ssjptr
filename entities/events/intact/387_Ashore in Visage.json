@@ -1,0 +1,117 @@
+{
+  "Id": 168605,
+  "Name": "Ashore in Visage",
+  "Description": "On the lower slopes: stone buildings, flat roofs, archways. In the architecture there lingers a memory of lotus and palm frond. The hill above is a face, forever looking up at the ceiling of the Unterzee. No one inhabits its cheeks or the hollows of its eyes.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 168606,
+        "Name": "A changing room",
+        "Description": "All visitors must pass, one by one, through a room guarded by a person in the mask of a Moon-Moth."
+      },
+      "Id": 139100,
+      "Name": "Check in at the Customs House",
+      "Description": "One may not wander Visage at will."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168609,
+        "Name": "Stoop at the lintel, enter the dark",
+        "Description": "A room of heavy stone, guarded by a golden statuette of a woman with outstretched arms. The scroll niches, sorted to correspond to a variety of masks: the jackal and the lioness, the crocodile and dung beetle. \r\n\r\nA woman in the mask of a lotus blossom is standing at a lectern, reading in silence."
+      },
+      "Id": 139103,
+      "Name": "Visit the Library of Parts",
+      "Description": "So called because all the books are fragmentary, perhaps."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168610,
+        "Name": "High water",
+        "Description": "The Flood Court is a long stone room with two ranks of columns on each side. Currently the court is ankle-deep in water, though water stains on the stone show that the flood has often reached higher, sometimes up to the height of your waist.\r\n\r\nIn a raised niche at the far end of the room sits a statue of a man with the head of a ram. He holds a jar from which water flows out onto the floor."
+      },
+      "Id": 139104,
+      "Name": "Visit the Flood Court",
+      "Description": "The Moon-Moth speaks as though you should already know what that is."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168611,
+        "Name": "Lines in wet ground",
+        "Description": "Each morning the man in the cobra mask draws lines in the mud flat with a pointed steel rod. This apportions to each inhabitant a small trapezoidal area from which to harvest mushrooms and to scrape salt. No plot is ever preserved from one day to the next. \r\n\r\nThis man is the Chief Geometer, the Keeper of Directions, Master of Land Measures and Sea Measures. "
+      },
+      "Id": 139105,
+      "Name": "Visit the House of the Chief Geometer",
+      "Description": "It is understood to be an honour."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168612,
+        "Name": "The wounded god",
+        "Description": "In the center of the temple is a black bull with a white diamond on its face. It is tied in place with heavy ropes, and it is wounded in the thigh. From this wound it bleeds copiously without dying."
+      },
+      "Id": 139106,
+      "Name": "Visit the Temple of Apis",
+      "Description": "All the denizens of Visage go there sooner or later."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168613,
+        "Name": "At the proper time",
+        "Description": "You must, of course, wait until your work with this day's crop of frogs and locusts is complete. It would not be suitable to bring them along."
+      },
+      "Id": 139107,
+      "Name": "Visit the Side of the Face",
+      "Description": "The stone cheek of Flourishing-of-Years is visited as a pilgrimage by the inhabitants of Visage, and if you are in good favour, you too may go. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168614,
+        "Name": "A proud nose",
+        "Description": "It is a festival day. The great stone face has been illuminated from forehead to chin with blazing torches, so that the profile is visible from the side more clearly than you have ever seen it. \r\n\r\n\"Flourishing-of-Years is awake,\" says the genderless figure in the crocodile mask. "
+      },
+      "Id": 139108,
+      "Name": "Enter the Hollow of the Ear",
+      "Description": "It is a place of still greater pageantry. [This is a journey of several steps, and may conclude your current visit.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168905,
+        "Name": "It is keen to go",
+        "Description": "It draws you aside into a closet in the Customs House. \"Had enough of Visage,\" it tells you frankly. \"Here, you take my mask and pretend to be me, and I'll trade in the visitor mask and get on some departing ship. Get my life back.\"\r\n\r\nIts face - no, now you see, her face - is aging but unlined. A lifetime of never needing to use a facial expression."
+      },
+      "Id": 139269,
+      "Name": "Trade masks with the Moon-Moth",
+      "Description": "It has been making subtle overtures for some time. You only now understand them."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169901,
+        "Name": "A shame about the Moth",
+        "Description": "You say farewell to the Moon-Moth. It makes gestures you now recognise as agitation. Perhaps there was some other plan for you here, but no one consulted you about it. You have other things to attend to.\r\n\r\nYour last sight of Visage: the Moth smoothing the folds from your robe and hanging your mask on a peg for the next visitor."
+      },
+      "Id": 139878,
+      "Name": "End your performance and leave the island",
+      "Description": "You can't stay in character forever."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169925,
+        "Name": "Calmer",
+        "Description": "When the other citizens are distracted, you find your way to the familiar Customs House and rid yourself of mask and robe. There is satisfaction in laying aside a role well performed."
+      },
+      "Id": 139896,
+      "Name": "End your performance and leave the island",
+      "Description": "You can't stay in character forever."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 177517,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 144563,
+      "Name": "The Assigner of Corpses?",
+      "Description": "One of these masked strangers is the Assigner of Corpses, if the Gracious Widow is to be believed. But which?"
+    }
+  ]
+}

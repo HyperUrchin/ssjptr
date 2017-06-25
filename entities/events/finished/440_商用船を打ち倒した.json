@@ -1,0 +1,27 @@
+{
+  "Id": 174339,
+  "Name": "商用船を打ち倒した@{K}You've defeated a Merchant Cruiser",
+  "Description": "罪のない男女が死んだが、それは彼らの問題だ。もしも捕まればあなたの問題にもなるが。しかしその事についてはあまり考えないようにしよう。さてどうする？@{K}Innocent men and women are dead, but that's their problem. And yours, if you're caught, but let's not dwell on that. What now?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 174342,
+        "Name": "これは何だ？@{K}What's this?",
+        "Description": "船員たちが船を捜索した。海賊行為の片棒を担ぐことになり不満気だが、今のところは従順だ。さあこれが彼らの見つけてきたものだ……@{K}Your crew searches the ship, complicit together in this act of banditry, unhappy, but obedient for now. Here's what they've found - "
+      },
+      "Id": 142559,
+      "Name": "略奪してから沈める@{K}Loot and scuttle her",
+      "Description": "奪えるものは奪い、犯罪の証拠を消し去る。@{K}Take what you can. Hide the evidence of your crime."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 174340,
+        "Name": "闇の中へ@{K}Into the darkness",
+        "Description": "あなたの戦利品が再び目撃されることはなかった。まあ、あなたは彼らをいかがわしい仕事に出していたし、海は広い。残った船員たちはあなたの様子を盗み見ている。我々は今や海賊なのだろうか？次の港で船を離れる者が出るかもしれない。あるいは彼らはあなたの傍らで傷を負い獰猛に、そして自暴自棄になっていくかもしれない。@{K}Your prize is never seen again. Well, you set them on a dubious errand, and the sea is wide. Your remaining crew watches you covertly. Are you all pirates now? Perhaps they'll slip away at the next port, in ones and twos. Perhaps they'll grow scarred and fierce and desperate alongside you."
+      },
+      "Id": 142558,
+      "Name": "船員を乗せ、コルセアズ・フォレストへ向かわせる@{K}Send her to Corsair's Forest, with a prize crew",
+      "Description": "この船をロンドンに持って帰ることは出来ない。面倒なことになるだろう。しかしフォレストの人間なら買い取ってくれる可能性が高い。@{K}You can hardly take her home to London. It will cause a fuss. But someone in the Forest will likely buy her."
+    }
+  ]
+}

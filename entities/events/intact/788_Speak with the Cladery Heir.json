@@ -1,0 +1,217 @@
+{
+  "Id": 245067,
+  "Name": "Speak with the Cladery Heir",
+  "Description": "She works with two scalpels at a time, or with a scalpel and a tined instrument, pinning open the flesh she's working on. Her operations are brisk and yield very little blood.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 245070,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 187068,
+      "Name": "Answer questions about your past",
+      "Description": "You've kept your secrets long enough. [Unmask yourself! This will allow you to select a Past, Ambition, and form of preferred address - also providing you with a specialist ability bonus.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245071,
+        "Name": "Precise bite sizes",
+        "Description": "The cooked flesh arrives still in its shell. From the claws, eight legs, body, and head, she renders a dozen neat bite-sized piles of shredded flesh, sutured with mushroom, or pinned together with a needle of chiton. Perhaps she has missed a calling as a chef?\r\n\r\nShe denies it. \"My mother was the child of a surgeon in the First City. You might say that knifework runs in the family.\" There is a wicked quirking smile at the corner of her mouth. \"Then there are the rumours about my father. She would deny there's any truth in those.\""
+      },
+      "Id": 187069,
+      "Name": "Invite her to dine with you",
+      "Description": "Does she wield a fork the way she wields a surgical instrument?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245072,
+        "Name": "Too casual",
+        "Description": "\"Last my mother heard, it was in Adam's Way, or somewhere further into the Elder Continent. It might still be zeeworthy. In its day, it was a most unusual ship. Do I want it back? I try not to want anything too much. But if you cared to travel in that direction, I could hardly stop you.\"\r\n\r\nWhen you wait long enough, she says a little more. \"I avoid obsessions, myself. But I know one of these days I'll have to operate on myself. Remove some desire that has gotten too unwieldy.\""
+      },
+      "Id": 187070,
+      "Name": "Where is the Cladery Heart now?",
+      "Description": "And would she care to claim her inheritance?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245073,
+        "Name": "Exchange",
+        "Description": "It's a straight trade: one of your best discoveries for one of hers. It's not hard to drive the bargain. She sits back after dinner and tells you this:\r\n\r\n\"Most people think that the hard part of surgery is finding what's wrong and taking it out, but any fool could do that. A ship's cook with a cleaver can have that part of the job. The hard part is cutting so you can sew it all back up again afterwards.\" And she demonstrates on a shark fin, leaving it in a better condition than it started."
+      },
+      "Id": 187071,
+      "Name": "Increase your Hearts",
+      "Description": "The best way to extract a secret is to offer one in turn. [Spend a Secret to improve your Hearts, unless it's higher than 100.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245074,
+        "Name": "Who was he, then?",
+        "Description": "There's flensing, deboning, an orderly arranging of scales from large to small. \"This was the creature's favourite organ,\" she says, working briskly with tweezers and blade. \"Don't touch it. The purple bits are toxic.\"\r\n\r\nShe only turns to personal matters when she's had a chance to rinse her fingers. \"I get my proficiency with metal from both sides of the family,\" she says, watching your expression closely. Then: \"Mother was a favourite with Mr Iron. She says that they only worked together, that Mr Iron sponsored her work and provided her with tools. Sharper tools that do not bend so easily.\""
+      },
+      "Id": 187072,
+      "Name": "Her father...?",
+      "Description": "She becomes more talkative when she has something to cut. Perhaps you can get her to say more about her father."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245076,
+        "Name": "An awkward inheritance",
+        "Description": "\"Mother experimented on the lobe, various ways, with Mr Iron bringing her new implements. It wanted to be on the move, however, and in the end she put it on a ship, or built a ship around it: the Cladery Heart. But it got away from her.\""
+      },
+      "Id": 187074,
+      "Name": "What happened to the cladent lobe?",
+      "Description": "If the Cladery Heir's mother cut off a piece of London's Echo Bazaar, where did it go? [To acquire a Cladery Souvenir, you must find something for the Heir to operate on. Certain unusual items might do, or you can find opportunities to gain one at some ports.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245079,
+        "Name": "Twisted smile",
+        "Description": "You sit with her in a surgery lined with bottles of preserved and pickled body parts.\r\n\r\n\"I can't offer you proof,\" she says. \"The only strange tongue I speak is my mother's, which is ancient but human. Blades can cut me. I'm not immune to fire (though perhaps the Masters are not either). But I have not met anyone who shares my particular skills. And I know my mother. I cannot see her in any ordinary liaison with an ordinary man, much less a husband. She was in her third millennium when she bore me.\""
+      },
+      "Id": 187077,
+      "Name": "Mr Iron? Truly?",
+      "Description": "Find her during an operation. Does the blood of London's cowled Masters really run through her veins?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245086,
+        "Name": "No caresses",
+        "Description": "She undresses you and stands scowling at you, as if choosing where to make an incision.\r\n\r\nThen: fingertips and the point of her tongue. She is not exactly impatient, but determined and precise, and she knows exactly what will produce the most intense sensation. Your vision blackens near the end, but she never <i>quite</i> goes too far. \r\n\r\nWhen you are too drained and dizzy to move, she gives you a smug look that you could possibly interpret as affection."
+      },
+      "Id": 187081,
+      "Name": "Proposition the Cladery Heir",
+      "Description": "Despite her ironical eye."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245654,
+        "Name": "A skeptical expression",
+        "Description": "Did he offer proof? Did he look familiar? Did he know secrets about her mother that no one else could have known? Did you even see his face, under all those bandages? Did you even hear his real voice? He could have been anyone! He could have been looking for the Cladery Heir's inheritance, and using you to find out more!\r\n\r\nThen she avoids you for a day or two, which is not easy at sea. "
+      },
+      "Id": 187416,
+      "Name": "Tell her about meeting her father",
+      "Description": "She should know the truth."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254126,
+        "Name": "",
+        "Description": "There!"
+      },
+      "Id": 190855,
+      "Name": "Reset the Cladery Heir",
+      "Description": "Reset!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254213,
+        "Name": "Dead, or merely hibernating?",
+        "Description": "\"If the ship is in ice, then perhaps the cladent lobe has frozen. The <i>Cladery Heart</i> might be no more than an ordinary vessel now... still, even if that is so, there would be much to study.\" But whatever she says, the Cladery Heir plainly hopes to find the ship alive."
+      },
+      "Id": 190918,
+      "Name": "Speak to the Heir of the Cladery Heart",
+      "Description": "At Khan's Shadow, they said to look at Frostfound..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254215,
+        "Name": "Not determined, but not giving up",
+        "Description": "\"It's a unique ship, of course. I wouldn't want to recommend any foolish efforts to find her, but if she's there for the taking...\" The Cladery Heir shrugs. \"My mother always liked a challenge.\""
+      },
+      "Id": 190920,
+      "Name": "Raise the subject of the Cladery Heart",
+      "Description": "Is it worth seeking the ship further in Khan's Shadow?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254221,
+        "Name": "A grim headshake",
+        "Description": "\"The sigil is an outside power,\" she says. \"And it's consumed too much of him. If I cut it out, there would be nothing left.\""
+      },
+      "Id": 190925,
+      "Name": "Ask her help with the Sigil-Ridden Navigator",
+      "Description": "If anyone could assist with him, surely it is the Cladery Heir."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254309,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 190979,
+      "Name": "test for new ship",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 257020,
+        "Name": "The knife cuts",
+        "Description": "She asks what you want removed. Then she makes you consent three times to having it taken away.\r\n\r\nThen, the blade. There's pain in your ear, yes, but that is not the chief sensation. The other thing is a noise and a resistance like shears through heavy cloth. It is located in your mind and at the back of your neck. Your eyes go black.\r\n\r\n\"I haven't blinded you,\" she says mildly, as you sit there blinking and swallowing. \"But it will feel for a time as if I had. You lost a great deal of light.\""
+      },
+      "Id": 192318,
+      "Name": "Volunteer for your own Cladery Operation",
+      "Description": "You yearn. She could make the yearning stop."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245648,
+        "Name": "Box delivered to the surgery",
+        "Description": "She investigates the box when there are no patients urgent for her attention. You are not allowed to attend. Afterwards, she pushes the box overboard, and there's a new item in her surgery: an uneven ball of silvery metal, the wrong shape for a spent bullet."
+      },
+      "Id": 187411,
+      "Name": "Let her have her experiment",
+      "Description": "She has expressed an interest in experimenting with the content of a Long-Box. [This will produce a Cladery Souvenir, and may have additional results.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245655,
+        "Name": "No",
+        "Description": "No no no.\r\n\r\nYou must be jealous of her history. You must be trying to manage her for yourself. You must have been using her for the Cladery Heart all along. She has no more use for you. People like her can make their fortunes anywhere. \r\n\r\nYou don't see her go, but when you check the ship in the morning, she has gone. Overboard? Did she swim? However she went, she took her knives and her specimens with her."
+      },
+      "Id": 187417,
+      "Name": "Push her about meeting her father",
+      "Description": "Try to convince her that her father is not Mr Iron. She is clinging to this idea. [If things go poorly, you will lose her.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245075,
+        "Name": "Why do you have this tailbone?",
+        "Description": "\"These are souvenirs,\" she says. \"Here's the patch of skin from the palm of a woman's hand. I took it from her in order to cure her of the urge to adultery. Now she wears gloves, but she's kept her marriage.\"\r\n\r\n\"There's more difficult work I could be doing.\" She is playing her blade between her fingers. \"Did you know my mother operated on the Bazaar itself? She cut away its cladent lobe so that it would be at peace and not have to wander on and on. But the operation changed her. She got some of the ichor on her skin.\" [To acquire a Cladery Souvenir, you must find something for the Heir to operate on. Certain unusual items might do, or you can find opportunities to gain one at some ports.]"
+      },
+      "Id": 187073,
+      "Name": "Explore her Surgery",
+      "Description": "On her shelf she keeps things preserved in alcohol or packed in oil. Things she cut from patients."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254202,
+        "Name": "Not much left",
+        "Description": "The Cladery Heir emerges from her surgery in a depressed mood. The body is wrapped in linen for disposal.\r\n\r\n\"There was nothing wrong with the technique,\" she tells you. \"If they'd been willing, it might have cured them of certain ailments... but they fought back under the knife. And what I extracted wouldn't be fit to stuff a sausage.\""
+      },
+      "Id": 190912,
+      "Name": "Give the Cladery Heir a Prisoner to cut open",
+      "Description": "\"This prisoner seeks revenge. I can make them stop wanting that.\" [This may lose a prisoner and may create a souvenir.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254205,
+        "Name": "The wrong implements",
+        "Description": "She goes in with knives and glass plates and lenses. She comes out with a heap of minced fungus. \"It's no good,\" she says. \"The motive power is too diffuse within the entity. Unless you want some of this for a stew?\""
+      },
+      "Id": 190913,
+      "Name": "Let the Cladery Heir have a Blemmigan",
+      "Description": "She has expressed interest in discovering how it works. Why does it propagate? Where is its obsession located?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254222,
+        "Name": "A study, and insights",
+        "Description": "She draws the creature in both its appearances, as fish and as blossom. Afterwards, she gives you an account of how it works, but you understand perhaps one sentence in ten.\r\n\r\nWhen you ask her to explain a second time, she takes off her hat and glares at you."
+      },
+      "Id": 190926,
+      "Name": "Give her your White Mollyflower",
+      "Description": "When you bought it, they told you it would take away delusions. But how does it work?"
+    }
+  ]
+}

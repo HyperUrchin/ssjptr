@@ -1,0 +1,57 @@
+{
+  "Id": 254174,
+  "Name": "Near-Nook",
+  "Description": "You approach the gaping mouth-cityof Nook. Its inhabitants - barely-clad - dart like remoras between the house-sized teeth.\r\n\r\nThe water of Nook is oxygen-rich and breathable, but contains hysteria-inducing toxins. Fortunately, the lungweed that grows in the maw staves off their effects. For a time. [Purchase lungweed to enter Nook. Each dose will allow you a short time in the city.]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 254175,
+        "Name": "",
+        "Description": "He squats in the corner of your airlock, nervous as a sparrow. You recount recent events in London, and he titters with delight. He has questions about the most ordinary things: books, shoes, kettles. Your answers please him; he dares come close enough to press your lungweed into your outstretched hand."
+      },
+      "Id": 190895,
+      "Name": "Trade gossip for lungweed",
+      "Description": "A Chattering Fang-Miner craves wod of London. He has heard unlikely tales about it."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254176,
+        "Name": "",
+        "Description": "A Wary Deep-Diver waits in your airlock, his breathing shallow out of the water. He wears only a loin-rag. Flinging a dripping bundle of lungweed to you, he snatches your offering as quickly as a cat stealing its mistress' fish from her plate. They are are suspicious lot, in Nook."
+      },
+      "Id": 190896,
+      "Name": "Trade a 'delicacy' for lungweed",
+      "Description": "The Nook-folk eat mostly fish and sheets of filmy, edible, awful residue chiselled from between their city's teeth. They are always eager for something different."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254177,
+        "Name": "",
+        "Description": "The trade takes place in your airlock - the Nook-folk can manage honest air, for a time. After she's heard your tale, the Spear-Fisher bares her teeth, and parts with a handful of dark green lungweed."
+      },
+      "Id": 190897,
+      "Name": "Trade a horror for lungweed",
+      "Description": "A Vigilant Spear-Fisher wants to stay sharp and sleep lightly. She will trade lungweed for nightmares."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254178,
+        "Name": "",
+        "Description": "Standing in the airlock, the lungweed deepening and slowing your heartbeat, you open the outer hatch. In comes the Nook-water, warm and clouded with sediment. You let it fill your mouth, your lungs. It's not so bad, once the panic dies."
+      },
+      "Id": 190898,
+      "Name": "Visit Nook",
+      "Description": "The lungweed tastes like fishy tar. You force it down."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254189,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 190907,
+      "Name": "Get enough lungweed to enter the Gullet",
+      "Description": "\"You've a lead on the children? You'll need this.\" The trader passes you a large fistful of lungweed, then slumps on a bench by the airlock. She does not journey back with you. [You will need Something Awaits You to enter the Gullet.]"
+    }
+  ]
+}

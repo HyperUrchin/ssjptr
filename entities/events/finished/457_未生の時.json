@@ -1,0 +1,17 @@
+{
+  "Id": 175585,
+  "Name": "未生の時@{I}Unborn time",
+  "Description": "　ドーン・マシンの根はここ、光り輝くあり得ざる空間にまで拡がっている。あなたは黄金を呼吸する。あなたは光を思考する。@{I}$Dawn Machine -> ドーン・マシン$The Dawn Machine's roots extend here, into a luminous, impossible space. You breathe gold. You think light.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 175586,
+        "Name": "安堵@{I}Relief",
+        "Description": "「我々は君が漂流しているところを見つけたのだがね」シーケンサーがそんなことを話している。あなたは瞬きをした。彼はあなたの肩を叩くと、こう言った。「おかえり。君はね、祝福を受けたのだよ」@{I}\"We found you drifting,\" the Sequencer is saying. You blink. He slaps you on the shoulder. \"You were blessed, my friend. Welcome home.\""
+      },
+      "Id": 143362,
+      "Name": "ドーンの指先@{I}Dawn's fingers",
+      "Description": "　蛆虫の運命があなたの肌の上をのたくる。マシンは病。その憎悪があなたの血脈に滑り込む。時は死ぬ。鎖は果てる。@{I}Worm-fates crawl on your skin. The Machine is sick. Its hatred threads your veins. Time will die. The Chain will end."
+    }
+  ]
+}

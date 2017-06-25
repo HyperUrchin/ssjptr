@@ -1,0 +1,97 @@
+{
+  "Id": 243577,
+  "Name": "A Wreck!",
+  "Description": "The wreck waits below, a dark shape in dark water. What caused it to sink? And does anything salvageable remain?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243578,
+        "Name": "You don your diving suit...",
+        "Description": "The hold is a wretched half-collapsed thing; shattered beams and floating debris. Your navigator helps you move a spar of fallen steel, uncovering sealed boxes. They contain heavily salted biscuits, hard tack, preservatives and lard. "
+      },
+      "Id": 186068,
+      "Name": "Retrieve supplies",
+      "Description": "The cargo hold is intact. Perishables will have spoiled, but preserved supplies may endure. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243579,
+        "Name": "You don your diving suit...",
+        "Description": "You lead a small crew down to the wreck. The lights of your zubmarine scratch at the darkness around you."
+      },
+      "Id": 186069,
+      "Name": "Retrieve sunken treasure ",
+      "Description": "The cabins of the wreck are intact. Something of value may have survived."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243580,
+        "Name": "You don your diving suit...",
+        "Description": "You lead a small crew down to the wreck. The lights of your zubmarine push at the darkness around you and reveal a gash in the ship's hull which allows easy entrance. Your search uncovers neither reward nor peril. \r\n\r\nA crewman expels a stream of bubbles - in relief? In frustration? - the moment before an eel as thick as the barrel of your deck gun engulfs his helmeted head. You do for the eel with a machete, but it is too late for your crewman. The zee teaches its lessons swiftly."
+      },
+      "Id": 186070,
+      "Name": "Retrieve sunken treasure",
+      "Description": "The cabins of the wreck are intact. Something of value may have survived. As you peer in through a porthole, a finned shadow sweeps past."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243582,
+        "Name": "Burial by zee ",
+        "Description": "You and several crew don diving-suits and hurry to help. As you try to clear a safe path to the survivor, though, his struggles grow frenzied. By the time you reach him, he has foolishly consumed the last of his air. There is nothing to retrieve, except his remains and last belongings."
+      },
+      "Id": 186071,
+      "Name": "Rescue a survivor!",
+      "Description": "The wreck is recent - and a rhythmic knocking from within indicates someone is alive down there."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243585,
+        "Name": "You don your diving suit...",
+        "Description": "The wreck groans as you pull yourself through its passages. At the foot of a rotting stair is the captain's cabin. Her greatcoat is still on her chair, an olive-green water-damaged journal poking from the left pocket. \r\n\r\nBack on the zubmarine, you read what little remains legible. A defection was intended, to the 'New Sequence.' 'I want only to remember the sun,' she wrote, 'the sun, the sun, the sun.' An ambition thwarted by the zee."
+      },
+      "Id": 186073,
+      "Name": "Search a London wreck ",
+      "Description": "This stately, shattered vessel is of familiar manufacture. Your lights illuminate a tattered Admiralty flag, shivering forlornly in the current. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243590,
+        "Name": "You don your diving suit...",
+        "Description": "You ensure your airline has plenty of slack, in case the wreck shifts. You requisition prybars and saws. The wreck's hull yields with a dull clang. \r\n\r\nInside, gloomy steel corridors extend through the tilting vessel. The dead zubmarine is empty, but for its captain - still in his seat. His jaw hangs open; the fish have had his eyes. You move behind him to examine the room; your navigator bangs on the cabin door twice. The captain is facing you. You depart, quickly.."
+      },
+      "Id": 186076,
+      "Name": "Search a zubmarine wreck! ",
+      "Description": "Your prow light reveals the gleam of a shell-hull."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243592,
+        "Name": "You don your diving suit...",
+        "Description": "Where is the zubmarine's crew? You clamber through passages thick with drifting sediment. You squeeze through buckled doors. A corridor stretches before you, and here is what's left of the vessel's crew.\r\n\r\nTwo neatly-placed lines of skulls face each other. Their eye sockets and jaws have been caulked closed with something resinous. Your diving gear is awkward. Your foot disturbs a skull; it rolls on its side, and you see it's sealed underneath. \r\n\r\nA cracking sound. The skull rocks, this time without your help. Another dull crack. Its parietal bone breaks, drifts away. From inside something uncoils, black and glistening, centipedal, trimmed with writhing cilia. It gropes towards you, unwinding to shoulder height - how did all that fit inside a skull?\r\n\r\nAnother crack from behind you. Another. You flee, as the skulls begin to hatch."
+      },
+      "Id": 186077,
+      "Name": "Search a zubmarine wreck! ",
+      "Description": "Your prow light reveals the gleam of steel wreckage. A single light flickers through the wrecked zubmarine's observation window. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243597,
+        "Name": "You don your diving suit...",
+        "Description": "The descent is precarious; once lowered onto the upraised deck, you are forced to cling to a railing to resist being dragged into the deeps by a savage current. The wood of the deck is blistered and scorched by old gunfire. \r\n\r\nBelow decks, the cabins show evidence of a slaughter. Old stains coat the walls. The blood must have dried before the ship sank. In the third cabin you reach, a white-eyed woman, her skin bloated, gnaws on a comrade's severed hand. Strings of gristle cling to her teeth. She looks up, uncomprehending. Your first officer cleaves her head from her shoulders. "
+      },
+      "Id": 186081,
+      "Name": "Search a corsair wreck ",
+      "Description": "The ship's bow is raised, as though struggling to escape the depths. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243599,
+        "Name": "Your boarding party don their diving suits...",
+        "Description": "The wreck is broken near the main guns. Though heavy doors spared half of the ship from the water, the crew were trapped inside without hope of escape. They chose to forgo starvation; their corpses litter the azure floors. \r\n\r\nThe wreck suddenly shifts. A change in the current? Or did you disturb it? Your party crams their helmets back on, fleeing for your vessel."
+      },
+      "Id": 186082,
+      "Name": "Search a Khanate wreck ",
+      "Description": "It lies on the zee-bed like a closed casket. "
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "Id": 167219,
+  "Name": "The Festival of Silk",
+  "Description": "Once a year, the Nativity explodes with forbidden music and colour. Silks the envy of any in the Neath stream from every ship in a rainbow of red, green and gold.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 167220,
+        "Name": "The mushroom wine flows free",
+        "Description": "A spider on your head? There's a spider on YOUR head. No, no really. But with this much still to drink before dawn, who even cares?"
+      },
+      "Id": 138297,
+      "Name": "Eat, drink, be merry!",
+      "Description": "It's almost as if there are no spiders at all!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167797,
+        "Name": "She peels them away, one at a time",
+        "Description": "A crowd has gathered around a lithe dancer clothed in veils. They flutter into the audience one by one, caught and clutched and their perfume drunk deep by the rowdy audience. The hollering soon changes though as, still clothed in little but scandal, she disappears behind a conveniently placed bit of painted scenery and an obese dockworker emerges to finish the job. \r\n\r\nNobody feels a desire to sniff his silks. Though he does still gets his share of cat-calls."
+      },
+      "Id": 138658,
+      "Name": "Enjoy the entertainments",
+      "Description": "As the mushroom wine flows, the atmosphere becomes increasingly like home."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167798,
+        "Name": "\"A gift, from the pestiferous masters.\"",
+        "Description": "The Nocturne? The Lorn-Fluke? Of such things, he will not speak. But his masters appear quite content with how things have resolved, even volunteering a prize secret from their own collection as payment.\r\n\r\n\"Curiosity can be such a curse, can it not?\" says the Emissary of Spiders. \"If you are to be absorbed by an enigma I would heartily recommend it be this. A far safer one than any other you shall find here, to be sure.\"\r\n\r\nHe bows. And, stroking the sorrow-spider on his shoulder, he returns to his masters, where a tortured Lorn-Fluke already screams for the sake of a secret that never was and another the spiders will never tell."
+      },
+      "Id": 138659,
+      "Name": "The Emissary of Spiders",
+      "Description": "As the festival draws to a close, he waits by the Reaches to present your hard-earned reward.\r\n [This will end the Festival of Silk]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167800,
+        "Name": "Did you hear the one about...",
+        "Description": "...a ring of rostygold forged by leaders of the Iron Republic that can only be destroyed by being dropped into Mt Palmerston? \"Why not just tie it to a trained zee-bat?\" demands a Pedantic Listener. The crowd jeers, but the mood is still spoiled."
+      },
+      "Id": 138661,
+      "Name": "Spin a few zee-ztories",
+      "Description": "The drunken crowd cheers at the promise of tales of adventure, the more fanciful the better."
+    }
+  ]
+}

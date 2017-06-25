@@ -1,0 +1,67 @@
+{
+  "Id": 175844,
+  "Name": "The Soaring Glory Of Etc. Etc. Etc.",
+  "Description": "If the monkeys insist on calling it that. In your heart though, it will always be the... well, never mind.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 175845,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 143521,
+      "Name": "Steal the Zeppelin",
+      "Description": "The East beckons. With the blessing of Storm and Salt, your crew will trade zee for sky. You will need to get behind the Emperor though, to stab him in the back...\r\n [This will end your game. But your next captain will begin with something interesting.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176512,
+        "Name": "You leave the Soaring Glory for now",
+        "Description": "The Admiralty will not be happy about this."
+      },
+      "Id": 143964,
+      "Name": "Return to Port Stanton",
+      "Description": "With the Zeppelin complete, your work here is done."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 178993,
+        "Name": "Dawn of a new Empire",
+        "Description": "You watch the launch preparations of the The Soaring Glory Of Emperor Crispin IV (Greatest Of His Name), surrounded by hundreds of excited monkeys. The Emperor is carried past the guards and up the ramp on a sedan chair. After him, in uniforms of gold and purple, walk the nobility. They are followed by the mandarins, led by the Exquisite Seneschal. Next to board are the lower-souled monkeys, who-\r\n\r\nThe guards open fire with their rifles; holding back the crowd as the ramp is pulled up. A sea of betrayed faces can only stare in horror as the Soaring Glory rises into the sky and away to the East, taking with it their stockpiled food and the last of their hopes. The howl grows angrier with each new voice."
+      },
+      "Id": 145466,
+      "Name": "Flight of the Soaring Glory",
+      "Description": "The Pentecost apes are ready to depart."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 178994,
+        "Name": "Dawn of a new Empire",
+        "Description": "You watch the launch preparations of the The Soaring Glory Of Emperor Crispin IV (Greatest Of His Name), surrounded by hundreds of excited monkeys. The Emperor is carried past the guards and up the ramp on a sedan chair. After him, in uniforms of gold and purple, walk the nobility. They are followed by the mandarins, led by the Exquisite Seneschal. Next to board are the lower-souled monkeys, who-\r\n\r\nThe guards open fire with their rifles; holding back the crowd as the ramp is pulled up. A sea of betrayed faces can only stare in horror as the Soaring Glory rises into the sky and and turns towards the Elder Continent, taking with it their stockpiled food and the last of their hopes. The howl grows angrier with each new voice."
+      },
+      "Id": 145467,
+      "Name": "Flight of the Soaring Glory",
+      "Description": "The Pentecost apes are ready to depart."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 179003,
+        "Name": "To the East? Or to the South?",
+        "Description": "It transpires that your help meant the Zeppelin was finished far earlier than expected, and the Wildweald Court has yet to decide where to go. Both factions are likely still arguing about it in the Silent Gallery..."
+      },
+      "Id": 145474,
+      "Name": "Check on the Zeppelin",
+      "Description": "Why is the Great Exodus not yet underway?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176511,
+        "Name": "Boom!",
+        "Description": "It is a slow, careful business, crawling around the island where The Soaring Glory is being prepared.Luckily, a Zeppelin makes for a big target, and soon enough you find somewhere the guards have overlooked.\r\n\r\nYou take aim with your flare gun. Fire. The fireball catches a glancing blow on the cloth, but it's enough. As the monkeys wail and run helplessly for water, the flames work into the hydrogen below. When the explosion comes, it shakes the ground and rains down an apocalypse of shards and flame and broken dreams.\r\n\r\nWhite pain floods behind your eyes and gut. The bloody shard in your flesh is jagged and twisted; bone-deep, snapped. The scream goes unnoticed, lost in the noise."
+      },
+      "Id": 143963,
+      "Name": "Destroy the Zeppelin",
+      "Description": "The Great Exodus cannot be allowed to happen. Luckily, you know a little something about hydrogen."
+    }
+  ]
+}

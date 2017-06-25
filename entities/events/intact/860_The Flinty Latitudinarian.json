@@ -1,0 +1,87 @@
+{
+  "Id": 260523,
+  "Name": "The Flinty Latitudinarian",
+  "Description": "In the cavities of his etched tooth-home, trapped air-pockets allow an activity largely forsaken in Nook: conversation. A handful of Nookfolk gather there to reminisce. Brevity is admired: the air is precious, and rapidly fouls.\r\n\r\nThe Latitudinarian watches, and listens. He keeps a merciless peace within his house, and cares not a damn for what happens outside it.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 260524,
+        "Name": "The gentleman protests too much",
+        "Description": "He squints at you. \"No,\" he says. No what? \"No, I'm done with responsibility. And <i>causes</i>. I came here to be left alone. What goes on out there isn't my concern. Not anymore.\"\r\n\r\nInteresting, then, that he chooses to preside over the only place in Nook where people come to speak of the wider world. Perhaps if you shared some of your own experiences, you could remind him what he's missing."
+      },
+      "Id": 194291,
+      "Name": "Greet Batuk",
+      "Description": "You recognise him from Mariam's statues. The same enviable chin. The same heavyset shoulders. The same scowl. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260526,
+        "Name": "",
+        "Description": "Tales of Dahut and Anthe and Aigul. Of Drownies and lorn-flukes and Salt."
+      },
+      "Id": 194293,
+      "Name": "Tell of your recent news...",
+      "Description": "...and listen to their stories in turn. [Trade Recent News for Intriguing Snippets or other rewards.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260527,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 194294,
+      "Name": "Return to the Great Maw",
+      "Description": "Back into the Nookwater. Back out to the great throat."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260531,
+        "Name": "The privilege of the mighty",
+        "Description": "You tell of the great Neathy powers. The robed Masters, comfortable in London's Bazaar. The Khan, secure in his fortress. The Presbyter, reigning for a thousand years over his seven-and-seventy kingdoms..."
+      },
+      "Id": 194296,
+      "Name": "Stoke Batuk's rekindled curiosity",
+      "Description": "You have him on the line. He leans forward when you speak, his eyes misty with memory. [Trade a secret to restore Batuk's passion.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260533,
+        "Name": "Don't lose your mind",
+        "Description": "The zee teaches many lessons, and each one has a tale to it. The Nookfolk listen closely, keeping their breathing slow to preserve the air. Batuk sits statue-still, his broad soldier's hands clasped before him."
+      },
+      "Id": 194297,
+      "Name": "Rekindle Batuk's curiosity",
+      "Description": "It's your turn to speak. Tell them a lesson you learned at zee. [Trade a Secret to restore Batuk's passion.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260535,
+        "Name": "",
+        "Description": "\"You know, when we sacked Nidah I broke one of their tablets. The ones they keep their precious laws on? Smashed it on their pretty, gem-stone street.  It said, 'THE PRESTER SAITH: none shall set foot in Nidah save he that was born there. He who violates this law shall be cast into the deepest deep, and always forsaken.' Well, b____r that.\" \r\n\r\n\"Tell Mariam I'll be ready when she calls me. In the meantime, I'll start looking for some soldiers.\""
+      },
+      "Id": 194298,
+      "Name": "Welcome Batuk back to the Seven Against Nidah",
+      "Description": "\"Yes, all right. Try not to look so pleased with yourself. It wasn't that clever. You just reminded me how angry I am. Arrogant Presbyter b_____ds. It takes solid flint b_lls to monopolise immortality, I'll tell you that!\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260537,
+        "Name": "",
+        "Description": "He reads slowly - correspondence is unknown in Nook. When he finishes, he reads it again. \"Fool,\" he says. His voice is rough and fond. \"Tell Lorenzo that Rosina makes her own choices. And tell him the rout was never his d_mn fault. <i>I</i> took the decision to charge the gate. <i>I</i> missed the Hyenas' approach. \r\n\r\n\"He blames himself for too much, and I'll be d_mned if he's taking this one from me. Its my fault, and I mean to be buried with it. Tell him he can get his own failures. And tell him... No. Never mind. Too late. Too bl__dy late.\""
+      },
+      "Id": 194300,
+      "Name": "Deliver the Almost Dead Man's letter",
+      "Description": "The Flinty Latitudinarian takes it, suspiciously."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260528,
+        "Name": "\"Sounds like...\" No. Bad idea.",
+        "Description": "You do your best to ask about your mark, but those few Nookfolk willing to help are unable to make their signing comprehensible."
+      },
+      "Id": 194295,
+      "Name": "OLD VERSION (RETIRED) Deliver the Almost Dead Man's letter",
+      "Description": "How will you find Batuk in a place like this?"
+    }
+  ]
+}

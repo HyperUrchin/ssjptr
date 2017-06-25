@@ -1,0 +1,127 @@
+{
+  "Id": 243314,
+  "Name": "Wrack ",
+  "Description": "Ships lured by false promises and lights litter the zee-floor. Their broken hulls make a city for the wreckers. The citizens are in constant motion, working to survive and appease the Fair King, who sits deep within the city on his wheeled throne.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243315,
+        "Name": "",
+        "Description": "\"Right then, Trespasser. We've heard fine things about some captains in [q:Wrack: New Prey for the Wreckers] - why don't you go there and convince them to come our way?\""
+      },
+      "Id": 185893,
+      "Name": "Go Wrecking!",
+      "Description": "If you can lure ships toward Wrack, the wreckers may sink them. The King himself will reward you."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243331,
+        "Name": "",
+        "Description": "\"Do you really think she can convince the b____rs to zail our way?\"\r\n\r\n\"Of course. They're fools up in [q:Wrack: A City with Ships to Save], and she's one of our best talkers. She'll find a nice captain with lots of cargo...\""
+      },
+      "Id": 185903,
+      "Name": "Eavesdrop on the Wreckers",
+      "Description": "Learn where they are operating. Maybe you can warn the ports for the sake of goodness and profit."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243332,
+        "Name": "Sometimes, it happens in this way:",
+        "Description": "The rusted walls behind him are draped with two banners made of the tattooed flesh of his amputated legs. He is admiring the scintillack through a jeweller's lens as you enter. \r\n\r\n\"We are pleased. Tell me,\" he says, looking at you, \"How would you... good God.\" He wheels toward you. His voice is hoarse. \"We are not strangers, you and I. Taste the tether and see for yourself.\"  "
+      },
+      "Id": 185904,
+      "Name": "Buy an audience with the Fair King",
+      "Description": "The wreckers fear and adore their King. With the right offering, you may be able to meet him."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243333,
+        "Name": "",
+        "Description": "The wreckers look on you with a quiet awe. They whisper as you pass. \"...tethered to the King!\""
+      },
+      "Id": 185905,
+      "Name": "Visit the Royal Hull",
+      "Description": "The Fair King is always glad to see you."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243334,
+        "Name": "",
+        "Description": "Within the rusting innards of a broken battle ship, the Wreckers keep the tether. It is guarded by heavy bulwarks and priests capable of launching cannonballs across a room with their bare hands. It is the glory of Wrack."
+      },
+      "Id": 185906,
+      "Name": "Taste the tether",
+      "Description": "There is a weed that grows on the broken ships: to taste it is a privilege reserved for succesful wreckers."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243335,
+        "Name": "",
+        "Description": "The wreckers know their duties. The poets write enticing lies; talkers travel to other ports to spread them; miners construct the devices which'll sink the lured ships; and salvagers strip them bare. \r\n\r\nThe most celebrated of the wreckers wear no special costume, but are easily identified. They mumble poems in Arabic to themselves. They whistle lively tunes in new scales. They wear heavy gloves and carry silver clippers with which to cultivate tether. "
+      },
+      "Id": 185907,
+      "Name": "Compile a Port Report",
+      "Description": "The Admiralty would be very interested in the wreckers' activities. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243349,
+        "Name": "Inspiration!",
+        "Description": "The blemmigan seems to totter down the hall. It pauses before a damp, stinking patch of sawdust, to write a couplet in the detritus. Yes, it will certainly be at home here.  "
+      },
+      "Id": 185915,
+      "Name": "Put a blemmigan ashore",
+      "Description": "Outside the wrecks, botanical life seems to flourish. Certainly mycological life stands a chance inside."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245733,
+        "Name": "",
+        "Description": "Stores are running low. There is enough food to subsist for a time, but the poets may soon be out of paper, and the miners won't be able to make their explosives if their powder isn't refreshed. \r\n\r\nBut the Fair King ensures there is order. He goes without, just as his subjects do. And he sees that those who forsake their work for despair are flogged.  [Visit the Shops tab.]"
+      },
+      "Id": 187470,
+      "Name": "Consider the state of the city",
+      "Description": "The wreckers look sallow."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245734,
+        "Name": "",
+        "Description": "They have done well! Supplies have floated from the broken ships like manna from Heaven. The city is bigger too, with the new wrecks added to it. The King has given one of the new hulls a name in Gaelic. Few understand the meaning, but everyone is sure it was selected in your honour.  [Visit the Shops tab.]"
+      },
+      "Id": 187471,
+      "Name": "Consider the state of the city",
+      "Description": "The wreckers are looking flush!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245735,
+        "Name": "",
+        "Description": "\"Careful, Trespasser,\" a wrecker warns as you approach. \"He escaped from Dahut. Mind your manners, or you might lose an ear.\""
+      },
+      "Id": 187472,
+      "Name": "Follow an echo through the hulls",
+      "Description": "Many wreckers sing; but none quite like this."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260583,
+        "Name": "Blue skies",
+        "Description": "It is not difficult to find a private cabin; the wreckers avoid him already. When you present him the honey, he snatches it from your hands and slurps it down. He crumbles onto the floor, eyes glazing, his voracious bites turning into stupid nibbles. A jarful of tether rolls out of his robe pocket right before he vanishes bodily."
+      },
+      "Id": 194331,
+      "Name": "Provide for a Disgraced Tether-Priest, so he may provide for you",
+      "Description": "There is a gluttonous priest the wreckers avoid, who lost his ability to experience tether after carelessly letting it touch his hand. Now, he goes to debasing lengths to experience another vision."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259148,
+        "Name": "No luck",
+        "Description": "Your enquiries are exhaustive - the Philanthropist's husband is not here. You can cross this port off your list. [Check your journal for reminders about where the Philanthropist's husband might be.]"
+      },
+      "Id": 193257,
+      "Name": "Search for the Fierce Philanthropist's husband",
+      "Description": "Did he seek the Fair King's protection?"
+    }
+  ]
+}

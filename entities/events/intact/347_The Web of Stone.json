@@ -1,0 +1,127 @@
+{
+  "Id": 167215,
+  "Name": "The Web of Stone",
+  "Description": "The last remnants of an ancient citadel, now home to the spider-council of Saviour's Rocks. Eyeless Weavers and Widows busy themselves tending to the spiders and their Tree of Seasons, showing neither interest or concern at your presence. You will be Summoned.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 167216,
+        "Name": "A family of red and green",
+        "Description": "The cultists politely ignore you as you watch them at work; the Weavers in red, tending the webs, the Widows in green, caring for their masters by reducing grisly foodstuffs to paste and feeding the more senior members of the spider-council by hand.\r\n\r\nIf there is any reason for these assignments, it is impossible to tell. Certainly, there is an assortment of male Widows and female Weavers amongst the cultists' ranks.Perhaps the sorrow-spiders have as much interest in human gender as in spider-gender."
+      },
+      "Id": 138295,
+      "Name": "Spy on the Weavers and Widows",
+      "Description": "To spy on the blind is no challenge, but the glares of the sorrow-spiders all around make it clear that while here, you will never not be under observation."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167301,
+        "Name": "The Tree of Seasons runs black with sorrow",
+        "Description": "From the eyes of the statue pours a poisonous conclave, a thousand lesser sorrow-spiders perching on every rock, brick and outcropping. The Emissary of Spiders rises from his meditation at the base, his robe festooned with the most senior members of the council that they might whisper their will in his ear. They speak, of course. Most eloquently, in fact. That does not mean they will lower themselves to speak to you. Not directly.\r\n\r\n\"Excellent. Excellent.\" The Emissary of Spiders bows slightly. \"My mephitic masters bid you welcome. I believe we have business to discuss.\""
+      },
+      "Id": 138353,
+      "Name": "Summoned by the spider-council",
+      "Description": "It is time. You have been called."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167313,
+        "Name": "Pride of the sorrow-spiders",
+        "Description": "Branches of webs hang in their thousands from the colossal statue of some being as far from an angel as an angel from a man. The spider-council has made its home in the chipped out eyes, surrounded by its lessers and a precious collection of ensnared unfortunates. Hundreds of these captives dangle in silk cocoons, the sane and still-living tended to just enough to serve their full measure of both use and suffering."
+      },
+      "Id": 138361,
+      "Name": "Behold the Tree of Seasons",
+      "Description": "The heart of the spider-council. Few have laid eyes upon it, and most of those have had said eyes ritually removed to birth new sorrow-spiders shortly afterwards."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167314,
+        "Name": "Time slows to a crystal moment",
+        "Description": "Wait. Are you making a terrible mistake?"
+      },
+      "Id": 138362,
+      "Name": "Burn the Tree of Seasons",
+      "Description": "The Weavers and Widows have torches to warm them during their work. Now you will use them to put an end to it! D__n the consequences!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167331,
+        "Name": "An uneasy rest",
+        "Description": "There is little to be had. Every time you close your eyes for more than a moment, you feel the hairs of a sorrow-spider on your skin or an exploratory rub of a mandible against your eyes. But time slowly passes even so, and eventually, time is what it is."
+      },
+      "Id": 138376,
+      "Name": "Attempt to rest until summoned",
+      "Description": "Amongst an army of poisonous spiders and deranged cultists? Still not as rough as the flophouses of Spite."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167332,
+        "Name": "A feast of gods",
+        "Description": "The sorrow-spiders often resort to cannibalism when food is low. It is on occasion the Weavers and Widows' privilege to share that bounty, that they may be a greater part of the whole. At least the poison has been removed, and the legs are surprisingly effective when pressed into duty as impromptu toothpicks."
+      },
+      "Id": 138377,
+      "Name": "Hospitality of the sorrow-spiders",
+      "Description": "A polite Widow indicates her fellow disciples' willingness for you to take a meal with them."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167447,
+        "Name": "An eye for an I, said the spider to the fly",
+        "Description": "There is no chanting and no singing. There is just a low-pitched noise from the cultists' throats as a sorrow-spider climbs up the initiate's body. He quivers as it reaches his face, drips of excited poison dripping into his lips. Strong, caring, but above all else, firm fingers peel back his eyelids and hold them wide.\r\n\r\nA scream. A mouth silenced with bundled cloth. An embrace. A note raised high and loud, until the Tree of Seasons itself seems to shake in the cacophony.\r\n\r\nA Widow gently kisses his new brother on the forehead, wrapping a silk blindfold around his hollow eyes."
+      },
+      "Id": 138452,
+      "Name": "A new initiate",
+      "Description": "A naked young man lies on a stone platform, his shaking hands squeezed tight by his brothers and sisters to be."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168334,
+        "Name": "There is no escape but death",
+        "Description": "The captives have long since ceased moaning, though some still quiver as sorrow-spiders crawl across their bodies, milking their secrets. A Venturing Cartographer who travelled too far east. A Lady of Means, from a voyage eighteen years prior. The Captain of the wrecked ship Nocturne. A broken Devil, old enough to have forgotten the smell of brimstone. Their eyes long since harvested to birth the sorrow-spiders' progeny, they hang immobile in darkness, dreaming of oblivion."
+      },
+      "Id": 138939,
+      "Name": "Further investigate the Tree of Seasons",
+      "Description": "The sorrow-spiders have taken many prisoners."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167695,
+        "Name": "The cultists go quiet",
+        "Description": "Did they hear your footsteps? Did something else alert them? Either way, you will hear nothing."
+      },
+      "Id": 138607,
+      "Name": "Spying: On the grand spider-council",
+      "Description": "A group of Weavers and Widows is quietly discussing something. You might be able to listen in."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167698,
+        "Name": "The cultists go quiet",
+        "Description": "Did they hear your footsteps? Did something else alert them? Either way, you will hear nothing."
+      },
+      "Id": 138608,
+      "Name": "Spying: On a deal with a... ?",
+      "Description": "A group of Weavers and Widows is quietly discussing something. You might be able to listen in."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167701,
+        "Name": "The cultists go quiet",
+        "Description": "Did they hear your footsteps? Did something else alert them? Either way, you will hear nothing."
+      },
+      "Id": 138609,
+      "Name": "Spying: On the Tree of Ages",
+      "Description": "A group of Weavers and Widows is quietly discussing something. You might be able to listen in."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167704,
+        "Name": "The cultists go quiet",
+        "Description": "Did they hear your footsteps? Did something else alert them? Either way, you will hear nothing."
+      },
+      "Id": 138610,
+      "Name": "Spying: On the subject of eyes",
+      "Description": "A group of Weavers and Widows is quietly discussing something. You might be able to listen in."
+    }
+  ]
+}

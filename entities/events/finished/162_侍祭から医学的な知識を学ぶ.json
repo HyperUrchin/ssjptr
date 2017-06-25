@@ -1,0 +1,27 @@
+{
+  "Id": 149001,
+  "Name": "侍祭から医学的な知識を学ぶ@{K}Medical details from the Acolyte",
+  "Description": "彼女の言葉には今まで医者の口から聞いたことのない知識が溢れている。@{K}There is a great deal in what she says that you don't think you've heard any doctor mention before.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 149003,
+        "Name": "今の単語をもう一度お聞きしても？@{K}What word was that again?",
+        "Description": "彼女は早口に長ったらしい言葉を次々と繰り出したため、内容の全てを書き留めるのは難しい。翌日になってから手帳を見返してみると、その記録は酔っ払いの書いた物のようだった。この部分は何だ？イディオグラフだろうか？\r\n\r\nそして彼女は本当に心臓はキャベツの形になることが可能だと言ったのだろうか？@{K}She talks so quickly, and in such long words, that it's hard work getting it all down. The next day on review the notes look like they were taken down by a drunk man. What's this bit? Idiography? \r\n\r\nAnd did she really say that the heart is able to turn into a form of cabbage?"
+      },
+      "Id": 127762,
+      "Name": "詳細に記録をつける@{K}Make copious notes",
+      "Description": "この情報は価値のある物かもしれない。@{K}This information might be valuable."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149008,
+        "Name": "しかし、もし動脈がそこにあるというのなら……@{K}But if the artery grows there, then...",
+        "Description": "あなたが意識を集中するほどに、彼女の言葉は意味の分からないものになっていく。二つ三つは理解しようと食らいついていくことができる事柄もあったが、残りはその内容をしっかりと振り返ることさえままならない。侍祭の言ったことが正しいのかどうかすら分からなかった。@{K}The more you concentrate, the less sense it makes. There are two or three ideas clear enough to hang on to, but the rest is imponderable. You are not sure that what the Acolyte says is even true."
+      },
+      "Id": 127766,
+      "Name": "独自の結論を導きだす@{K}Draw your own conclusions",
+      "Description": "医学的な知識を一通り身に付けた者にとっては、目を開かせるような話ばかりだ。@{K}To someone with sufficient medical knowledge, this is all quite enlightening."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "Id": 143928,
+  "Name": "An Intriguing Smell",
+  "Description": "\"Who'll try? Who'll buy?\" A street-vendor turns skewers on a grill. The mixed scents are nothing like anything sold in London.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 143929,
+        "Name": "Not bad at all",
+        "Description": "Tangy and toothsome. Walk on, chewing cheerfully."
+      },
+      "Id": 124444,
+      "Name": "Try the grilled troglodyte prawns",
+      "Description": "Huge and pale, and their eyes stare bleakly into yours. But they smell fresh."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149360,
+        "Name": "That particular hunger",
+        "Description": "Now satisfied. How rich and red."
+      },
+      "Id": 127979,
+      "Name": "\"Do you have anything more... robust?\"",
+      "Description": "The vendor winks, and produces a usefully anonymous skewer of meat."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149352,
+        "Name": "Hold your nose",
+        "Description": "You follow the vendor's advice, holding your nose as you swallow, but the smell - something like rotting fruit - still makes you gag. The 'stick' is leathery - the blue stuff is rubbery as drying mucus. You fail to keep it down, and disgrace your captaincy there on the street."
+      },
+      "Id": 127974,
+      "Name": "Try something mysterious",
+      "Description": "What exactly is 'tyrant's treat'? The vendor is vague. It looks something like a charred stick dripping with bluish fluid."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143930,
+        "Name": "Force it down",
+        "Description": "Urgh. You'll regret it later. The jillyfish's venom numbs your tongue and roils your stomach."
+      },
+      "Id": 124445,
+      "Name": "Try the shredded jillyfish",
+      "Description": "It's not to everyone's taste."
+    }
+  ]
+}

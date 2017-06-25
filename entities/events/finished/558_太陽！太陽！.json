@@ -1,0 +1,17 @@
+{
+  "Id": 187748,
+  "Name": "太陽！太陽！@{I}嗚呼、太陽! 嗚呼、太陽!@{M}THE SUN! THE SUN!",
+  "Description": "　あなたは意志の力でそれを堪えることができると考えていた。しかし、あなたが目を覚ますと、あなたはもう箱の前に立っていた。箱にその手を伸ばして――@{I}貴方は自分の意志が十分に強いものと思っていた。しかし眠りから醒めた貴方は既に箱の上に立ち、その両手が箱に -@{M}You had thought your will was strong enough, but now you wake from sleep, already standing over the box, your hands reaching out - ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 187749,
+        "Name": "あまりに早い終わり@{I}早すぎる終焉@{M}Over too soon",
+        "Description": "　光はあなたを弱らせた。光は、今このときも、あなたの体に酷い傷を生み出している。傷が増えれば、あなたの命はないだろう。だが、おお、太陽、太陽……[あなたは極めて危険な状態にあります。他に箱が残っているならば、手遅れになる前に海に投げ捨てましょう。]@{I}光は貴方を弱らせ、貴方の皮膚に恐ろしい病魔を刻みつけるだろう。貴方に生き延びる術は残されない。だが、ああ...太陽が...太陽が... [貴方はとても危険な状態です。手遅れになる前に他の箱を全て放棄しましょう。]@{M}The light has enfeebled you. It's raising terrible lesions on your skin. You can't survive much more of this. But oh, the Sun, the Sun... [You are in terrible danger. Throw away any other boxes while you still can.]"
+      },
+      "Id": 150873,
+      "Name": "光の歓喜@{I}光の歓び@{M}The light's delights",
+      "Description": "　箱を開けよう。光を存分に身に浴びよう。そのぬくもりは長く待ち望んだ眠り、清らかで透き通った大気、愛する者の抱擁――@{I}箱をお開けなさい。それに自身を委ねなさい。その暖かさは永き眠り、透き通った空気、恋人の抱擁 -@{M}Open the box. Let it bathe you. Its warmth is long-needed sleep, clear crystal air, a lover's embrace -"
+    }
+  ]
+}

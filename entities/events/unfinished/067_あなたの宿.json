@@ -1,0 +1,257 @@
+{
+  "Id": 143503,
+  "Name": "あなたの宿@{I}貴方の宿場@{M}Your Lodgings",
+  "Description": "　あなたはここで書状への対応や、休息を取るほか、船乗りとしての生活から完全に引退することができる。当然、宿が良いものであればあるほど、引退後の生活の質は向上する。@{I}ここで貴方は文書の確認を行ったり、休憩したり、航海続きの人生から引退する事も出来る。宿場の質が上がると、その分引退後の質も上がる。当然の事だ。@{M}Here you may catch up with your correspondence, rest, or retire altogether from sea-faring life. The better your Lodgings, the better the quality of your retirement. Naturally.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 143504,
+        "Name": "",
+        "Description": "　鼠のたてる物音のせいで夜は眠ることができなかった。けれど、ベッドは暖かかったし、ドアにはきちんと鍵が掛かっていた。@{I}声を立て走り回る鼠が貴方を眠りから遠ざけているが、ベッドはそれでも温かく、部屋のドアには鍵がかけられている。@{M}The rats keep you awake of nights with their muttering and skirmishing, but the bed is warm and the door has a lock."
+      },
+      "Id": 124177,
+      "Name": "盲た操舵手亭の上の部屋で休息を取る@{I}\"盲た操舵手亭\"の上の部屋で休憩する@{M}$Blind Helmsman -> 盲た操舵手亭$Rest in a Room Above the Blind Helmsman",
+      "Description": "　外で浮かれ騒ぐだけのエコーを持っていないのであれば、家に留まっているのが一番だ。[これは恐怖を減少させ、1つの傷を癒やし、1つの安らかな夜を与えてくれます。]@{I}外で遊びに興じるだけのエコーがない時は、家に居るのが一番だ。[この選択肢は恐怖を下げ、傷を癒やし、貴方に\"安心する夜\"の印を与えます。]@{M}$Restful Night -> 安らかな夜$If you don't have the Echoes to go out roistering, best stay at home. [This will reduce your Terror, heal a Wound, and give you a Restful Night.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143525,
+        "Name": "船乗りたちの奉仕@{I}船乗りの骨折り@{M}Zailors' service",
+        "Description": "　あなたは船員たちに、盲た操舵手亭の荷物を新しい住所に運び込ませた。立派な人物が訪れたとしても、彼らは召使として通るだろう。[これからは、休息はより高価になりますが、より効果的になります。]@{I}貴方は自分の荷物を部下の船員に運ばせ、\"盲た操舵手亭\"から新居に移動した。今後誰かが貴方に用事がある時は、彼らが召使いの様に走るだろう。[休憩のコストが更に高くなりましたが、更に効率的にもなりました。]@{M}$Blind Helmsman -> 盲た操舵手亭$You have your crew cart your things from the Blind Helmsman to your new address. If anyone respectable calls, they'll pass as servants. [Resting is now more expensive, but more effective.]"
+      },
+      "Id": 124190,
+      "Name": "優雅な邸宅を購入する@{I}優美な邸宅を購入する@{M}$Elegant Townhouse -> 優雅な邸宅$Purchase an Elegant Townhouse",
+      "Description": "　ホロウ・ストリートの良い立地だ。安くはないぞ。@{I}ホロウ通りに面する立地の良い邸宅。安くはない買い物だ。@{M}A good address on Hollow Street. It won't be cheap."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143526,
+        "Name": "早くに寝て、遅くに起きる@{I}早寝、遅起き@{M}Sleep early, rise late",
+        "Description": "　タイラント・ガーデンの空気を吸い込み、カリギュラの珈琲屋の珈琲を味わう。zeeの船長としての評判を上手く利用する。こういうことにも、あなたは慣れてくるだろう。@{I}暴君の庭園の空気を吸い込む。カリギュラの珈琲店のドリップを楽しむ。ジーキャプテンの声望を思う存分堪能する。これが貴方の日常なのだ。@{M}$Caligula -> カリギュラ$Take the air in Tyrant's Gardens. Take coffee at Caligula's Coffee House. Take advantage of a zee-captain's reputation. You could get used to this."
+      },
+      "Id": 124191,
+      "Name": "優雅な邸宅で休息を取る@{I}優美な邸宅で休憩する@{M}$Elegant Townhouse -> 優雅な邸宅$Rest in your Elegant Townhouse",
+      "Description": "　楽しい幕間。[これは恐怖を減少させ、2つの傷を癒やし、2つの安らかな夜を与えてくれます。]@{I}快適な幕間となろう。[ここでの休憩は恐怖を下げ、傷を2つ分癒やし、貴方に\"安心する夜\"の印を2つ与えます。]@{M}$Restful Night -> 安らかな夜$A pleasant interlude. [Resting here will reduce your Terror, heal two Wounds, and give you two Restful Nights.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143527,
+        "Name": "壮大な地所@{I}巨大な不動産@{M}Grand estate",
+        "Description": "　その豪邸は悲しい時代に打ち捨てられた。しかし、あなたの船員たちがそれを船の形に整えた。すなわち、壁を塗り、床を磨き、所々にある目玉泥棒の悲哀蜘蛛の巣を一掃したのだ。[これからは、休息は更に高価になりますが、より一層効果的に恐怖を下げられるようになります。]@{I}不景気のあおりを食って舘は倒壊していたが、貴方の船員が船の形に修復した。壁は塗装され、床は磨かれた。あちこちに張っていた悲哀の蜘蛛の巣も乱雑に打ち払われた。[休憩は更に高価となりますが、効果も劇的に上昇し、恐怖が大きく減少します。]@{M}$[Ss]orrow-spider -> 悲哀蜘蛛$The mansion has fallen on sad times, but your crew get it ship-shape: painting walls, polishing floors, rousting out the occasional nest of eye-stealing sorrow-spiders. [Resting is now more expensive, but very much more effective at reducing Terror.]"
+      },
+      "Id": 124192,
+      "Name": "浜辺の豪邸を購入する@{I}ジーサイドの舘を購入する@{M}$Zeeside Mansion -> 浜辺の豪邸$Purchase a Zeeside Mansion",
+      "Description": "　プリックフィンガー・ウェイストを上がったところ、しかしカーニバルには近すぎない。眺め良し。@{I}指差しの荒地の近く、しかしカーニバルに近すぎない絶妙の立地で、景観が素晴らしい物件だ。@{M}$Prickfinger Wastes -> プリックフィンガー・ウェイスト$Something up by the Prickfinger Wastes, but not too near the Carnival. Something with a view."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143528,
+        "Name": "",
+        "Description": "　朝食は朝食室で。昼食は芝生の庭で。夕食はダンテの肉料理店で。また航海に出る理由なんて、一体どこにあるっていうんだろう？ああそうだった。請求書だ。@{I}朝食室で朝食、芝生の上で昼食、そして、ダンテの竈で夕食を摂る。そんな貴方がジーに再び赴くのは一体何故か?そう、請求書だ。@{M}$Dante's Grill -> ダンテの肉料理店$Breakfast in the breakfast-room; lunch on the lawn; dinner at Dante's Grill. Why exactly is it you go to sea again? Oh yes. The bills."
+      },
+      "Id": 124193,
+      "Name": "浜辺の豪邸で休息を取る@{I}ジーサイドの舘で休憩する@{M}$Zeeside Mansion -> 浜辺の豪邸$Rest in your Zeeside Mansion",
+      "Description": "　素晴らしい生活。[これは恐怖を減少させ、すべての傷を癒やし、3つの安らかな夜を与えてくれます。]@{I}上質な人生である。 [ここでの休憩は恐怖を下げ、傷を全て癒やし、貴方に\"安心する夜\"の印を3つ与えます。]@{M}$Restful Night -> 安らかな夜$The life of quality. [Resting here will reduce Terror, heal all Wounds and give you three Restful Nights.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143529,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 124194,
+      "Name": "船乗りとしての生活からの引退を考える@{I}航海続きの人生からの引退を考える@{M}$Zeefaring Life -> 船乗りとしての生活$Consider Retirement from Zeefaring Life",
+      "Description": "　もう頃合いかも知れない。[ゲームを終わらせるための選択肢を確認できます。それらは、実際に選ぶことなく調べることが可能です。]@{I}[この選択肢はゲーム終了の選択肢を再吟味する機会を与えます。何れか一つを選ぶ事無く、全てを安全に綿密調査する事が可能です。]@{M}Maybe it's time. [This allows you to review options which will end the game. You can safely scrutinise them without choosing one.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 147904,
+        "Name": "素敵なことに使おう@{I}お金の浪費は計画的に@{M}Spend it on something nice",
+        "Description": "　あなたが家に送った賞金の全額から、王権とバザールによって、賞金にかかる税やら関税やら維持管理費やら修繕費やら『不慮の付加料金』やらが控除されていたが、それでも十分な額が残されていた。上手に運用しよう。@{I}貴方が家に送った報奨金の総額から、王室とバザールがそれぞれ財宝税及び財宝関税、諸経費、修繕費、'苦難基金'を算定、徴収した。それでも尚、相当な額のお金が残った。それらを使って息災に過ごせ。@{M}$Crown -> 王権$From the total value of the prizes you've sent home, the Crown and the Bazaar have deducted prize tax, prize tariffs, running costs, repairs and 'misery surcharge'. Nevertheless, a good sum remains. Spend it in good health."
+      },
+      "Id": 127008,
+      "Name": "待ち焦がれた報奨金@{M}長く待たされた賞金@{I}Long-awaited prize money",
+      "Description": "　手紙だ！『[q:Addressed As]――我々の査定の結果……云々……zeeの法に照らし……云々……為替を同封できることを喜ばしく……』@{I}手紙だ!'[q:Addressed As] - 私共の査定の結果 ... (中略) ... ジー法(海洋法)に従いまして ... (中略) ... ここに為替交換の小切手を同封致し ...'@{M}A letter! '[q:Addressed As] - we have assessed the...dah dah dah... in accordance with the law of the Zee... dah dah dah... pleased to enclose a money-order for...'"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148611,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 127503,
+      "Name": "訪問を示す名刺@{I}名刺@{M}A calling card",
+      "Description": "　手書きされた、煙を上げる羊皮紙の小片。物思わしげな女悪魔が訪れていた。@{I}上質皮紙に手書きで書かれた、燻ぶる火の粉デザインのカード。物欲しそうな女悪魔が訪れていたようだ。@{M}$Wistful Deviless -> 物思わしげな女悪魔$A smoky flake of hand-lettered vellum. The Wistful Deviless has come to visit."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149770,
+        "Name": "国内の知らせ@{I}故郷のニュース@{M}News from home",
+        "Description": "　謎に満ちた市場であるエコー・バザール、恋愛小説への関税を引き上げ。裏切りの女帝、王宮外の街路で歌を歌うことを禁止。暦法議会の無政府主義者、公共の水飲み場を爆破。動機は不明。良俗省、膨らせ蜂の巣を特定、駆除へ――@{I}得体の知れない市場であるエコー・バザールは、恋愛小説への増税を実施。売国の女帝は彼女の王宮外の通りの上で歌を唄う事を禁止した。年暦評議会の無政府主義者達は不可解にも水飲み場を爆破した模様。公共風紀省は明憎蜂の巣を特定し、破壊したと発表した...@{M}$Calendar Council -> 暦法議会, Ministry of Public Decency -> 良俗省, Echo Bazaar -> エコー・バザール, Traitor Empress -> 裏切りの女帝$The Echo Bazaar, that enigmatic marketplace, has increased its tax on love stories. The Traitor Empress has forbidden singing in the street outside her palace. The anarchists of the Calendar Council have inexplicably dynamited a drinking-fountain. The Ministry of Public Decency has located and destroyed a nest of gallblighter wasps..."
+      },
+      "Id": 128214,
+      "Name": "朝刊を読む@{I}朝刊を読む@{M}Read the morning papers",
+      "Description": "　『無検閲新聞』『かつてはロンドン・マガジン』『意地悪トランペッター』からの知らせ。@{I}かつては\"ロンドン・マガジン\"として知られていた、\"ありのままを伝えるロンドン雑誌\"、\"スパイトフル・トランペッター\"を手に取り、ニュースを読む。@{M}The Unexpurgated Gazette, the Magazine Formerly Known as the London Magazine, the Spiteful Trumpeter. News."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149827,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 128251,
+      "Name": "街に戻る@{I}街中に戻る@{M}Back to the rest of the city",
+      "Description": "　ロンドンでは、何があなたを待ち構えているだろうか？[あるいは、右側にあるロンドン！の項をクリックしても同じです。]@{I}[もしくは画面右の\"ロンドン!\"アイコンをクリックして下さい。]@{M}What's waiting for you in London? [Or you could click the London! card on the right.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 155881,
+        "Name": "必要な処置@{I}必要な方策@{M}A necessary measure",
+        "Description": "　あなたはそれを買い手がつくような値段で売った。元の価値ぐらいの値段にもなっているかもしれないが。@{I}お金の為に貴方はそれを売り払った。今はお金のほうが大事だ。@{M}You've sold it for what it will fetch. Perhaps even for what it's worth."
+      },
+      "Id": 132095,
+      "Name": "家宝を売却する@{I}家宝を売り払う@{M}$Heirloom -> 家宝$Sell off an Heirloom",
+      "Description": "　その通り、これは歴史の一部だとも。それで、いくらの値がつくんだろう？[通常は、元の価値よりもやや少ない額を受け取る事になります。注意！あなたが遺言を残さずに死んでしまった場合、次のキャラクターはこれらを引き継ぐことはできません。]@{I}うむ、うむ。それは歴史の欠片だ。一体どれ位の価値があるのだろう?[大体、アイテム本来の価値よりもやや低い金額を受け取る事になります。]注意!遺書が書かれていない状態で死亡すると、貴方の次のキャラクターはこれらを受け継ぐ事が出来ません。]@{M}Yes, yes, it's a piece of history. How much is it worth? [You will usually get slightly less than the item was originally worth. Warning! If you die without a Will in place, your next character will not inherit these.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 174439,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 142616,
+      "Name": "家族との時間@{I}家族とのひと時@{M}Time with your Family",
+      "Description": "　あなたの愛しい人は家にいたりいなかったりする。そちらはそちらで、込み入った仕事を抱えているのだ。けれど、愛しい人はいつだって、あなたと子供のいる家族の家に帰ってくる。@{I}貴方の恋人は出入りが激しい。彼/彼女には彼/彼女なりの、複雑な事情があるのだ。しかし彼/彼女は必ず貴方の家に戻ってくる。貴方の子供も。@{M}Your sweetheart comes and goes. They have their own, complicated business. But they always return to your shared home, and your child."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 174596,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 142720,
+      "Name": "あなたの子供に会いに行く@{I}子供に会う@{M}See your Child",
+      "Description": "　ちびっ子はどこにいるのかな？@{I}あの小さな生き物は何処にいるんだ?@{M}Where is the little creature?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181056,
+        "Name": "今よりも質素な生活@{I}より単純な人生@{M}A simpler life",
+        "Description": "　土地斡旋業者のペンストックは、陰気な目で豪邸を見上げた。「屋根が壊れてますな」彼はそれとなく言った。「しかし、十分な大きさだとは思いますね」@{I}不動産業者のペンストックが、陰気な目で舘を見渡している。「屋根が剥げておりますな...」彼は呟く。「まぁ、良い大きさなのでは無いでしょうか。」@{M}$Penstock -> ペンストック$Penstock, the land agent, looks over the Mansion with a gloomy eye. \"Roof's going,\" he suggests. \"But it's a good size, I suppose.\""
+      },
+      "Id": 146662,
+      "Name": "豪邸を売る@{I}舘を売り払う@{M}Sell your Mansion",
+      "Description": "　豪邸なんて本当に必要だろうか？そんなにたくさんの物を持っているわけでもないだろう？[豪邸を売却します。引っ越し費用と手数料を差し引いて、あなたは7500エコーだけお金持ちになります。引越し後の邸宅に収まるよう、家宝の数は12個を越えていてはいけません。]@{I}貴方には本当に舘が必要なのか?そんなに沢山の物を持っている訳では無いだろう?[この選択肢で舘を売却します。引越し費用や諸経費を差し引いて、7500エコーの収入を得ます。家宝は12個を超えては所持出来ません - これは邸宅に置ける家宝の数の上限です。]@{M}$Heirloom -> 家宝$Do you really need a Mansion? You don't have so very many things, do you? [This will sell your Mansion: after moving expenses and fees, you'll be 7500 Echoes richer. You must have no more than 12 Heirlooms - that's all you can fit in a Townhouse.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181057,
+        "Name": "謙遜の中の教訓@{I}謙遜の教訓@{M}A lesson in humility",
+        "Description": "　ペンストックの土地斡旋屋での書類業務が済むと、あなたへの支払いが手配された。盲た操舵手亭の部屋があなたの帰りを待っている。あの、玉ねぎの臭いのする部屋が。@{I}ペンストック不動産は書類を作成し、貴方の支払いを減免した。\"盲た操舵手亭\"の、玉ねぎ臭いあの部屋が、貴方の帰りを待っている。@{M}$Blind Helmsman -> 盲た操舵手亭, Penstock's Land Agency -> ペンストックの土地斡旋屋, Penstock -> ペンストック$Penstock's Land Agency processes the paperwork and remits you your payment. A room at the Blind Helmsman awaits. It smells like onions."
+      },
+      "Id": 146663,
+      "Name": "邸宅を売る@{I}邸宅を売り払う@{M}Sell your Townhouse",
+      "Description": "　時勢は厳しい。より質素な生活へと戻るべきかもしれない。[邸宅を売却します。引っ越し費用と手数料を差し引いて、あなたは500エコーだけお金持ちになります。邸宅を売るには、まず家宝をすべて売却しなければなりません。]@{I}時間とは難しいものだ。貴方は更により単純な人生に戻るべきなのかもしれない。[この選択肢で邸宅を売却します。引越し費用や諸経費を差し引いて、500エコーの収入を得ます。また、邸宅の売却に先駆けて家宝を全て売り払わなければなりません。]@{M}$Heirloom -> 家宝$Times are hard. Perhaps you should return to a simpler life. [This will sell your Townhouse: after moving expenses and fees, you'll be 500 Echoes richer. You must also sell off any Heirlooms first.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181648,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 147073,
+      "Name": "ベンシック学寮への招待@{I}ベンシック大学への招待@{M}$Benthic College -> ベンシック学寮$An invitation to Benthic College",
+      "Description": "　あなたの船旅が誰かの注意を引いたようだ。@{I}貴方の航海は何者かの興味を引いたようだ。@{M}Your travels have caught someone's attention."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181652,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 147076,
+      "Name": "愉快な女冒険家@{I}明るい女冒険者@{M}$Delightful Adventuress -> 愉快な女冒険家$The Delightful Adventuress",
+      "Description": "　彼女は未だにエンパイア・オブ・ハンズへの渡航を求めている。@{I}彼女はまだ、手掌の帝国への道行を探している。@{M}$Empire of Hands -> エンパイア・オブ・ハンズ$She still seeks passage to the Empire of Hands."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181655,
+        "Name": "感謝の意@{I}謝意@{M}Gratitude",
+        "Description": "　包装を解くとガラスケースが現れた。その中では詰め物をされた郵便ネズミが、防腐処理をされたブレミガンとの死闘を演じていた。剥製師の腕前は明白だった。それら小さな体の皺一本一本に至るまで、緊張と興奮が刻まれていた。中には手紙も入っていた。<br/><br/>「これは別のところへ送るように言われていたんだけど、あなたへの恩返しをしなくちゃいけないと思って。バザールが大義のために自らの義務を放棄して良いのなら、私だってそうするわ」@{I}包装が剥がれ落ちる。中にはガラスケースがあり、そこには郵便鼠の剥製と、塩漬けになったブレミガンが死闘を繰り広げるポーズで固定されていた。剥製師の腕は確かだった。どちらの剥製にも怒りと緊張が見事にその小さな体に表現されている。荷物にはノートが挟まっていた。\r\n\r\n「私はこれを別の所に届ける様に命令されていたが、私は貴方に借りを返さなければならない。バザールが何かより重大な理由でこの任務を破棄してくれたら、私もそうするのに。」@{M}$[Bb]lemmigan -> ブレミガン$The wrappings fall away. In a glass case, a stuffed Postal Rat is locked in mortal combat with a preserved blemmigan. The taxidermist's skill is evident: there is tension and fury in each line of their tiny bodies. There is also a note.\r\n\r\n\"I was charged to deliver this elsewhere, but you did me a service I must repay. If the Bazaar can abandon its duty for a greater cause, so too may I.\""
+      },
+      "Id": 147079,
+      "Name": "丁寧に包装された褐色の小包@{I}綺麗に包装された茶色紙の小包@{M}A neatly wrapped brown paper package",
+      "Description": "　小包は隅々までぴっちりと包装されていた。住所は大きなブロック体で細心の注意を払って書かれており、送り主は必要な額の二倍もの切手を貼り付けていた。それらは、絶対にここに送り届けるという強い意志の元になされたのは間違いなかった。返送用の住所はどこにも書かれていなかった。@{I}角はピチっとしてきつく包装されている。宛名は丁寧な字体の大きなブロック体で書かれていた。送り主は、この荷物の郵送に必要な料金の倍の切手を貼り付けている。彼らは、この荷物がここに絶対に届くように厳しく申し付けられたに違いない。送り主の住所は、書いてなかった。@{M}The corners are crisp and tight. The address has been printed in large block letters with scrupulous care. The sender has applied double the necessary number of postage stamps. They must have been very determined it get here. There is no return address."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181867,
+        "Name": "選り分けるだけ多く@{I}厳密に調べるものは沢山ある@{M}Much to sift through",
+        "Description": "　エンパイア・オブ・ハンズ。ロンドンの足元にも及ばない、けれど、確かな雌伏の勢力。類人猿の複雑性の迷宮！この機会をよくよく考えてみるべきだ。<br/><br/>　どうやら、他にも同じように考えた者がいるらしい。招待が来ている。[あなたの宿に目新しい物があります。]@{I}手掌の帝国。ロンドンとは同等ではないが、力を持っている事は間違いない。猿達の複雑な迷宮だ。この機会を考慮せよ。\r\n\r\n誰か別の者も、この機会について考えたようだ。貴方は招待を受けている...\r\n[貴方の宿場で新しい何かが待っています。]@{M}$Empire of Hands -> エンパイア・オブ・ハンズ$The Empire of Hands: no equal to London, but certainly a power in waiting. A labyrinth of simian complexities! Consider the opportunities.\r\n\r\nSomeone else has also considered the opportunities. You have an invitation... [Something new awaits in your Lodgings]"
+      },
+      "Id": 147219,
+      "Name": "包括的な港湾報告書を私的に精読する@{I}個人的に港湾報告書をゆっくり熟読する@{M}$Port Report -> 港湾報告書$Peruse your Comprehensive Port Report in private",
+      "Description": "　あなたはこれを海軍省に持ち込むことができなかったり、気が進まなかったりするかもしれない。[これを選択すると、報酬の代わりに1つの秘密が手に入ります。]@{I}貴方はこれを総督府に持ち込みたくないのか、あるいは持ち込めないのか... [この選択肢は報酬の代わりに秘密を1つもたらします。]@{M}$Admiralty -> 海軍省$Perhaps you are unwilling or unable to take it to the Admiralty... [This will give you a single Secret rather than a fee.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 187360,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 150629,
+      "Name": "あなたの書斎を訪れる@{I}書斎を訪れる@{M}Visit your Study",
+      "Description": "　あなただけの聖域。[あなたの宿が書斎を持てるだけの大きさになれば、あなたはそこで破れぬ遺言や囁くトロフィーキャビネット、あるいはZong_of_the_Zeeなどのアイテムを作製することができます。]@{I}[貴方の宿場が書斎を持てる程大きくなれば、貴方はアイテムを作成出来る様になります。例えば不可破の遺書、囁くトロフィー棚、もしくはジーの唄声などです。]@{M}$Ironclad Will -> 破れぬ遺言$A private sanctuary. [Once your Lodgings are large enough to support a study, you can create items, such as an Ironclad Will, a Whispering Trophy-Cabinet, or the Zong of the Zee.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 195687,
+        "Name": "グローリーの物語@{I}栄光の逸話@{M}$Glory -> グローリー$Glory's Story",
+        "Description": "　それは骨細工彫りの年代史家からの贈り物だった。それはギャント・ポールのように真っ黒な、漆黒の象牙から彫り出された銛だった。その端から端までに、あなたの創り出した英雄たちと、その死の様子が刻まれていた。彼らの死の苦しみは見事に表現されていた。それら勇壮なる小さな者たちが、一陣となって太古の怪物に対峙する姿は、最も平和的な心の持ち主さえも興奮させるだろうと思われた。グローリーと呼ばれた大亀は、銛の流れに沿い、遂には討ち果たされた。そして、なめし革で覆われた持ち手には、勝ち誇るキェロネイトの姿が描かれていた。この作品は、どんな美術館に飾られたとしても、他に引けを取ることはないだろう。公爵の暖炉にだって気品を添えてくれるだろう。もちろん、これは虚構だ。しかしおそらく、あなた以外の誰かがそれを知ることは決してないのだ。@{I}\"骨細工の記録者\"が貴方に贈物をよこしてきた。地獄の象牙で造られた銛で、ガント・ポールの様に暗く、貴方が創り上げた英雄たちとその死が技術の粋を尽くして彫り込まれていた。それぞれの\"死の苦痛\"が見事なまでに美しく表現されている。これらの小さい英雄の肖像は、古代の怪物と相対する形で並べられており、その勇気に溢れる姿は平和を愛する心をかき混ぜる。\"栄光\"と呼ばれた亀は銛の長さと同じ位成長した時に息絶え、革が張られた柄には、誇り高きケロネイトの意匠がある。これはどの美術館でも欲しがる品だろう - もしくは、あらゆる公爵家の暖炉に品格を与え得る逸品である。勿論、全ては嘘だ。嘘だが、貴方以外の誰が、それを知り得ようか。@{M}$Chelonate -> キェロネイト, Gant Pole -> ギャント・ポール, Scrimshaw Chronicler -> 骨細工彫りの年代史家, Glory -> グローリー$The Scrimshaw Chronicler has sent you a gift: a harpoon of Stygian ivory, dark as the Gant Pole, engraved up and down with the heroes you invented, and their deaths. Each death-agony is beautifully presented. The courage of these tiny shapes, arrayed against the ancient monster, would stir the most peaceable heart. The turtle called Glory dies at length along the harpoon's length, and at its leather-wrapped handle, the Chelonate is shown triumphant. This piece would grace any museum - it would ennoble any duke's fire-place. It's a lie, of course. Probably no one but you will ever know that."
+      },
+      "Id": 155602,
+      "Name": "魚皮の小包@{I}魚皮の小包@{M}A fish-skin parcel",
+      "Description": "　包みの一枚一枚は半透明だが、何枚も重なっているために水に濡れたような灰色に見える。包みからはzeeで死んだ生き物の臭いがした。@{I}各層は半透明なのだが、それが幾重にも折り重なってる為に全体として光沢のある灰色に見える。中からは、ジーで死んだ何かの臭いがする。@{M}Each layer is translucent, but a dozen layers together are a soggy grey. It smells of things that die at zee."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223622,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 173299,
+      "Name": "ミスター・サックスへの奉仕について再考する@{I}$Mr Sacks -> ミスター・サックス$Reconsider serving Mr Sacks",
+      "Description": "　冬の赤獣は、単なるシェリー酒やミンスパイに釣られることはないだろう。しかし、窓の中のランタンには、注意を惹かれるかもしれない。もしもそれが、まだ目を見張っているのであれば。@{I}$Crimson('s)? Beast of Winter -> 冬の赤獣$The Crimson Beast of Winter will not be drawn by a mere glass of sherry and a mince pie. But a lantern in the window may get its attention, if it is still watching."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223623,
+        "Name": "HO HO HO",
+        "Description": "　ロンドン人はミスター・サックスに施すことを惜しまない。一年の正にこの時期には、疑問を抱く者もいる。しかし、そのような者も、それの袋の一振りだけで、冬の赤獣の不興を買うよりも、施す方が賢明なのだと納得させられてしまうのだ。あなたは、ぴかぴかの新しいおもちゃで膨らんだ袋を携えて帰途についた。翌日あなたが目覚めると、ローブの姿は消えていた。@{I}$Mr Sacks -> ミスター・サックス, Crimson('s)? Beast of Winter -> 冬の赤獣$Londoners give generously to Mr Sacks. Is it really that time of the year, some of them ask; but a shake of the sack is all that it takes to convince them it is better to give than to receive the Crimson's Beast of Winter's displeasure. You return home with a bulging sack of shiny new toys. When you next wake, the robe is gone."
+      },
+      "Id": 173300,
+      "Name": "ミスター・サックスの血肉色のローブ@{I}$Mr Sacks -> ミスター・サックス$The Incarnadine Robe of Mr Sacks",
+      "Description": "　それはあなたの椅子に鎮座していた。多くの可能性を秘めているものだ。[これを回収する前に、船倉に5つの空きを作っておきましょう。]@{I}It sits on your chair. This has possibilities.\r\n [Have 5 spaces of cargo clear before collecting this.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223974,
+        "Name": "素晴らしい銘柄の詰め合わせ@{I}A medley of fine vintages",
+        "Description": "　まさか――ありえない。グレイフィールズの1868年産だって？加えてブロークン・ジャイアントの1844年産が数本……これらはロンドンが墜ちる以前のものではないのか？現在、そのような品を収蔵しているのは、その多寡に関わらず、ただミスター・ワインだけなのだと言われている。そしてミスター・ワインは、自分自身と、そしてミスター・ワイン自らが親密な間柄であるとみなす、ごくわずかな者のためだけに、それらを取って置くのだという。あなたは自分で味わうために、そのうち数本だけを抜き出した。残りは、とても良い値がつくことだろう。@{I}$Greyfields -> グレイフィールズ, Broken Giant -> ブロークン・ジャイアント, Mr Wines -> ミスター・ワイン$No - it can't be. Greyfields 1868? A few bottles of Broken Giant 1844... isn't that from before the Fall? Only Mr Wines is said to stock these in any quantity, and it reserves them for itself and the very few with whom it considers itself on intimate terms. You extract the best ones for personal consumption. The rest will fetch a fine price."
+      },
+      "Id": 173577,
+      "Name": "感謝を示す友人からの贈り物@{I}A delivery from a grateful friend",
+      "Description": "　あなたの宿所に数箱のワインが届いていた。メモにはこう記されていた。『君の貢献と賢明さに報いて――Jより』[これを回収する前に、船倉に10の空きを作っておきましょう。]@{I}Several crates of wine sit in your Lodgings. The note on the top reads \"For your service and discretion - J\"\r\n [Have 10 spaces of cargo clear before collecting this.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 230640,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 177629,
+      "Name": "$Blind Bruiser -> 盲目の粗暴者$DEV - Summon Blind Bruiser",
+      "Description": "Jump straight to Part 2 of the Cheery Man questline."
+    }
+  ]
+}

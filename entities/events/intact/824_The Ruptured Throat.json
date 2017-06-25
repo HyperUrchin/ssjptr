@@ -1,0 +1,107 @@
+{
+  "Id": 255567,
+  "Name": "The Ruptured Throat",
+  "Description": "A torn, pinned-back cavity in the flesh wall offers access to the city's monstrous host. Razor-sharp teeth the size of buildings jut from fatty, garnet-red flesh. Many teeth have been quarried out into homes, barricaded by scraps of wood from shipwrecks.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 255568,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 191499,
+      "Name": "Swim Upwards",
+      "Description": "To the Great Maw."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255837,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 191698,
+      "Name": "Swim Downwards",
+      "Description": "To the Serrated Abyss."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255857,
+        "Name": "Notes on Nook",
+        "Description": "A vile place. Festering. Acidic. No laws but those of tooth and claw, written in scars. Civilisation? Impossible - making tea would be a logistical impossibility.\r\n\r\nYet the inhabitants seem content. Many have come here from London, the Khanate, the Presbyterate; abandoning cultured life for this tenuous existence. They grin, their mouths full of stolen flesh, or float naked and carefree. Many have nothing, and nothing to lose.\r\n\r\nA group of swimmers dart past, hunting gleefully. One squeezes your shoulder, companionably. You've never met her before."
+      },
+      "Id": 191717,
+      "Name": "Compile a Port Report",
+      "Description": "No one here has anything to hide. Actually, no one here is hiding anything at all."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255858,
+        "Name": "A place to thrive",
+        "Description": "The blemmigan adapts to the water before it has even left the zubmarine's airlock. It bubbles contentedly and sinks deep down into the depths, where meat is fresher and the light is low."
+      },
+      "Id": 191718,
+      "Name": "Release a blemmigan",
+      "Description": "Go, little mushroom. Be free!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255994,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 191817,
+      "Name": "Return to the Zubmarine",
+      "Description": "Better not leave the crew waiting too long."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255999,
+        "Name": "Lost in freedom",
+        "Description": "They acknowledge your presence, but little more. Most shrink back, assuming you mean harm. Other's deliberately swim just above you in a crude attempt at intimidation. They carry bone knives, or tooth-tipped spears.\r\n\r\nA few gesture to you - in welcome? Invitation? It is unclear. The slightly glutinous water makes speech impossible, so the natives have developed a language of signs. You can interpret the most basic: a finger pulled across a throat, for example, is one of the more polite invitations to depart."
+      },
+      "Id": 191821,
+      "Name": "Attempt to mingle with the Nookfolk",
+      "Description": "They may be friendlier now that you're fashionably undressed."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258186,
+        "Name": "Old habits",
+        "Description": "There: the bright light of your zubmarine's main beam. The airlock. Home."
+      },
+      "Id": 192639,
+      "Name": "Time to leave",
+      "Description": "Your lungs - unaccustomed to breathing water - are beginning to labour. You must return to your ship."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255836,
+        "Name": "'Sounds like...' No. Bad idea.",
+        "Description": "You do your best, but those few Nookfolk willing to help are unable to make their signing comprehensible."
+      },
+      "Id": 191697,
+      "Name": "Search for the recipient of the Almost Dead Man's letter",
+      "Description": "Where will you find this 'etched tooth-house'?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255843,
+        "Name": "As above, so below",
+        "Description": "You pick one of the feebler-seeming Nookfolk - an elderly gentleman, perhaps once a zailor. But the heavy water blunts your blows and your movement, while your victim is practiced, nimble, vicious. His teeth sink into your shoulder. You manage to tear him off you, and he swims away like a minnow."
+      },
+      "Id": 191704,
+      "Name": "Take from the weak",
+      "Description": "There is only one law here: survival of the fittest."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259155,
+        "Name": "No luck",
+        "Description": "Your enquiries are exhaustive - the Philanthropist's husband is not here. You can cross this port off your list. [Check your journal for reminders about where the Philanthropist's husband might be.]"
+      },
+      "Id": 193261,
+      "Name": "Search for the Fierce Philanthropist's husband",
+      "Description": "Did he come here, to lose himself in liberty and poverty?"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "Id": 254675,
+  "Name": "Departing Scrimshander",
+  "Description": "No one may depart Scrimshander without leaving something of themselves behind by which to be remembered. Tradition demands it, as do the muscular guards at the gate. Their sharpened bone quills are at the ready to collect your donation.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 254676,
+        "Name": "A block of memories",
+        "Description": "You take a deep breath of bittersweet incense and recount your tales. As you speak, a chronicler carves your words onto bricks of ash and bone powder. The bone quill's scratching grates and the incense stings your eyes, but you continue.\r\n\r\nBy the time you've finished, your head aches and the chronicler holds a handful of bricks. Before returning to your ship, you examine one. It bears your name and a short tale. \r\n\r\nBut it isn't a memory of yours. You'd remember anything that outlandish. Best to leave before they realise the mistake they've made."
+      },
+      "Id": 191208,
+      "Name": "Leave behind a story",
+      "Description": "You can always make more."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255866,
+        "Name": "Some other hero's tale",
+        "Description": "The guards light incense and clean the trophy with a musky oil. As you recount the victory that won it, a chronicler etches your words into its surface. The scratching of the bone quill grows louder in your ears with every word.\r\n\r\nBy the time you've finished, your trophy has been replaced with an identical copy. But this one has been inscribed with a thrilling, fictional tale. As you depart, you wonder if you would recognise the hero of such a thrilling yarn."
+      },
+      "Id": 191725,
+      "Name": "Leave behind a past triumph",
+      "Description": "It was dearly earned. Only fair that it be dearly spent."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255867,
+        "Name": "Brick by brick, the tower is built",
+        "Description": "The guards take you to an upper chamber. The floor is bare except for burning incense and a pile of grey bricks in the corner. Each one bears a name and a tale, but you can't pause to read them all. One by one, you carry the bricks across the room, stacking them neatly into a wall. \r\n\r\nThe work is slow, and the air thick with bittersweet incense. Each brick is heavier than the last, and the work becomes a blur. Sweat beads and trickles down your back. Running down your face. Soaking through your clothes. Drowning you in salt.\r\n\r\nYou awake from the dream with a start. You are clean and dry, lying in an unfamiliar room. You pull yourself out of bed with great effort and leave the grey-bricked house behind."
+      },
+      "Id": 191726,
+      "Name": "Leave behind vitality",
+      "Description": "Stack bricks of bone and ash to build the tower and earn your leave."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255868,
+        "Name": "Burnt away",
+        "Description": "The chronicler kindly offers you a seat at her desk. She lights some incense and lays out a fine scroll of vellum. When you've made yourself comfortable, she hands you her bone quill and asks you to write the names of your crew.\r\n\r\nThe quill is clumsy in your hand as you write. After the third name, it slips from your grasp, pricking your finger. Gripping it tighter, the sharp edges press into your flesh. Blood runs down its length and pools on the page. You feel a pang of guilt for ruining the vellum, but it passes as the names continue. \r\n\r\nYou wake up with a start. The paper is covered in ash. It doesn't matter. You leave without looking back."
+      },
+      "Id": 191727,
+      "Name": "Leave behind your warmth",
+      "Description": "You don't really need it down here, do you?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255870,
+        "Name": "A brief pinch, then blissful numbness",
+        "Description": "It's a simple enough process. The guard lights a bittersweet incense and after a few deep breaths, you're ready. All you have to do is place your hand on a low table. The guard takes it from there. \r\n\r\nHe even offers you a glove afterwards. Its finger is stuffed with a poultice to ease the pain. A moment later, you could even pretend it never happened. Yes, let's do that."
+      },
+      "Id": 191729,
+      "Name": "Leave something a little more tangible",
+      "Description": "One guard carries a butcher's cleaver. With a shudder, you recall how many finger-bones decorate the tower."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 256390,
+        "Name": "On second thought...",
+        "Description": "The guards watch you turn away impassively. One offers you an ashen robe of your own, but you politely decline."
+      },
+      "Id": 192113,
+      "Name": "Stay a while",
+      "Description": "You won't lose anything by staying a little longer. Will you?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258819,
+        "Name": "To the home of the lost",
+        "Description": "Too many trips through Scrimshander, perhaps. Or any number of other causes. But after careful questioning, she ventures that she may be nearly finished with her pilgrimage. Only one holy place remains for her. The Gant Pole."
+      },
+      "Id": 193033,
+      "Name": "Assist a lost pilgrim's passage",
+      "Description": "A pilgrim stands by the exit with a confused smile. She hesitantly begs you for passage to... somewhere else?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258820,
+        "Name": "In search of history's losers",
+        "Description": "He's studied remains of a hundred wars and read a thousand bitter ends. Now he seeks the survivors so he can interview them in person. He assures you it's a purely academic interest - he his life has been splendid, personally. He merely wishes to see how they live with themselves. "
+      },
+      "Id": 193034,
+      "Name": "Provide transport for a scholar",
+      "Description": "A bandaged scholar stands near the exit, angrily brushing ash off of himself. At your approach, he brusquely demands passage to Hideaway. Of course he'll pay."
+    }
+  ]
+}

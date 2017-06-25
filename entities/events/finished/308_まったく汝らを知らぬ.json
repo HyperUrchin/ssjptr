@@ -1,0 +1,17 @@
+{
+  "Id": 155192,
+  "Name": "まったく汝らを知らぬ@{I}おめぇなんぞ知らねぇ@{M}Never Knew Ye",
+  "Description": "　見回してみなよ。ここに誰がいたって？@{I}周りを見渡す。誰が此処に居た?@{M}Look around. Who was here?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 155193,
+        "Name": "消えてしまった@{I}消滅@{M}Vanished",
+        "Description": "　ライラックの服の女はどうしたのかとあなたが尋ねると、水夫たちは注意深く微笑んで頭をひょいと下げた。何かの食い違いがあったに違いない。ただ詳細を思い出すことさえできれば……@{I}貴方がライラックレディに何があったのかを問うた時、船乗りは慎重な笑みを浮かべながら頭を振る。何か意見の相違があったに違いない。事の詳細を覚えてさえいれば...@{M}$Lady in Lilac -> ライラックの服の女$Zailors smile cautiously and duck their heads when you ask what happened to the Lady in Lilac. There must have been some sort of disagreement. If only you could remember the details..."
+      },
+      "Id": 131657,
+      "Name": "行ってしまった@{I}居なくなった@{M}Gone",
+      "Description": "　紫の服を来た女性がいたのだが――@{I}紫のドレスに身を包んだ女性が居た -@{M}There was a woman in a purple dress -"
+    }
+  ]
+}

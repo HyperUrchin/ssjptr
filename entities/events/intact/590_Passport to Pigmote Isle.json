@@ -1,0 +1,37 @@
+{
+  "Id": 208109,
+  "Name": "Passport to Pigmote Isle",
+  "Description": "An imperious guinea pig sits at a small desk. \"Passport!\" it demands. \"Or a bit of paper, if that's easier. His Highness insists I stamp something. It makes everything Proper. And Official.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 208110,
+        "Name": "The Return to Pigmote Isle",
+        "Description": "The guinea pig proudly marks your paper with a stamp carved out of a mushroom. \"Welcome to Cavia,\" it declares, saluting. \"Enjoy your stay.\""
+      },
+      "Id": 163499,
+      "Name": "Find something for it to stamp",
+      "Description": "Here. This scrap will do."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 209973,
+        "Name": "The Return to Pigmote Isle",
+        "Description": "The guinea pig proudly marks your paper with a stamp carved out of a mushroom. \"Welcome to Cavia,\" it declares, saluting. \"Enjoy your stay.\""
+      },
+      "Id": 164729,
+      "Name": "Find something for it to stamp",
+      "Description": "A piece of paper should do."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 210217,
+        "Name": "Persona non grata",
+        "Description": "The guinea pig reaches down to stamp your paper. It looks up. Its whiskers quiver as it looks properly at your face. It screams, a high-pitched howl that soon summons the House of Cavy's Knights to escort you right back to the ship.\r\n\r\nThat'll be a 'no', then..."
+      },
+      "Id": 164874,
+      "Name": "A quiet return",
+      "Description": "Hopefully they have forgotten what happened last time."
+    }
+  ]
+}

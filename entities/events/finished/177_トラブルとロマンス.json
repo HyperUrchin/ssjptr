@@ -1,0 +1,57 @@
+{
+  "Id": 149156,
+  "Name": "トラブルとロマンス@{K}Trouble, and romance",
+  "Description": "その晩ウルフスタック港で、あなたはとある人物と夕べを共にした……$Wolfstack -> ウルフスタック, Wolf -> ウルフ$That night in Wolfstack, you find yourself sharing a table with....",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 149157,
+        "Name": "間奏@{K}An interlude",
+        "Description": "翌朝、彼女はスズ製のロケットを差し出した。あなたが手を伸ばすと、彼女は一瞬それを掌の中に握りしめる。「わたしのこと、忘れるんじゃないわよ」彼女は言った。@{K}The next morning, she gives you a pewter locket. As you reach for it, she grips it briefly in her fist. \"Don't you dare forget me,\" she says."
+      },
+      "Id": 127852,
+      "Name": "人好きのするレディ@{K}A Likely Lass",
+      "Description": "彼女はほろ酔いで自分はスパイなのだ主張した。本当は何者であるにせよ彼女はとても親しみやすい。そして夜が更けた後も、あなたたちが別れることはなかった……@{K}She tipsily claims to be a spy. Whatever she is, she's easy to like, and when the evening ends you're still together..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149158,
+        "Name": "間奏@{K}An interlude",
+        "Description": "翌朝、彼は金色のロケットを差し出した。「失くさないでくださいよ」彼は微笑んで言った。しかし突然深刻な顔つきになる。「真剣に言ってるんです。失くさないでくれ」@{K}The next morning, he gives you a golden locket. \"Don't lose it,\" he says with a grin. Then he grows suddenly grave. \"Truly. Don't lose it.\""
+      },
+      "Id": 127853,
+      "Name": "粋な紳士@{K}A Dapper Chap",
+      "Description": "彼はプレズビターのアクセントと意外なほど楽し気な笑い声を持つ優雅な人物だ。夜も更けるころには、彼が家まで付き添ってくれるのはごく自然な事に思えた。@{K}$Presbyter -> プレズビター$An elegant fellow with a Presbyterate accent and an unexpectedly delighted laugh. By the evening's end, it seems natural that he should accompany you home."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149159,
+        "Name": "くつろいだ夕べ@{K}A relaxing evening",
+        "Description": "二人なら地下の冷気すら祓うことが出来る。目が覚めた時には、あなたは独りだった。しかしあなたにはその方が好ましい。@{K}Together, you exorcise the chill of the Neath. When you wake, you're alone, but that's how you've always preferred it."
+      },
+      "Id": 127854,
+      "Name": "名前も覚えていない誰か@{K}Someone whose name you do not afterwards recall",
+      "Description": "あなたが愛するのは海だけだ。どこかに慰めを見出しそれに浸ることもあるかもしれないが、それは一時のものに過ぎない。@{K}Your only love is the zee. You'll take comfort where you find it, but that's all it is."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149167,
+        "Name": "共に過ごした数時間@{K}A few hours together",
+        "Description": "分かち合った温もりと、新たな思い出。今回は別れを告げるのがより辛く感じた。@{K}Shared warmth, new memories. It's harder to say goodbye, this time."
+      },
+      "Id": 127859,
+      "Name": "……人好きのするレディだ@{K}..the Likely Lass",
+      "Description": "「あなたに会うためだけに港に来たなんて思わないで。わたしにはここで仕事があったの。でも、分かったわよ、確かにあなたが来るかもってちらっと思った……」@{K}\"Don't think I came down to the docks just to see you. I've got business here. But, all right, it did cross my mind that you might drop by...\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149168,
+        "Name": "共に過ごした数時間@{K}A few hours together",
+        "Description": "分かち合った温もりと、新たな思い出。今回は別れを告げるのがより辛く感じた。@{K}Shared warmth, new memories. It's harder to say goodbye, this time."
+      },
+      "Id": 127860,
+      "Name": "……粋な紳士だ@{K}...the Dapper Chap",
+      "Description": "「これは大した偶然でもありませんよ」彼は反論した。「私は故郷から来る船と会う必要があったのです。あなたの船でなく」彼の目があなたの目と合う。「それでも、あなたと会えてよかった」@{K}\"It's not such a coincidence,\" he protests. \"I had to meet a ship from home. Another one.\" His eyes meet yours. \"But it's good to see you.\""
+    }
+  ]
+}

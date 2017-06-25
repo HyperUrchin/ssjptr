@@ -1,0 +1,27 @@
+{
+  "Id": 155236,
+  "Name": "Tomb-Colonists in Shepherd's Wash",
+  "Description": "\"Something of the peace of old Kent still clings to this place. I always hated Kent. But this is the tour.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 155237,
+        "Name": "Too quiet?",
+        "Description": "Your decaying charges return cheerful and a little tipsy, singing alarming Napoleonic-era drinking songs, chucking pebbles at bats. \"Captain!\" one hails you. \"Rocks! I adore rocks. But now I am bored of rocks. Take us somewhere else.\""
+      },
+      "Id": 131688,
+      "Name": "A picnic at the Stones",
+      "Description": "No, they haven't brought their own picnic materials. That's your job, isn't it? Aren't you in charge? They certainly seem to think so."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 175334,
+        "Name": "Sombre silence",
+        "Description": "\"Four graves now, Captain. Four graves. Let's go.\""
+      },
+      "Id": 143191,
+      "Name": "A visit to the Three Graves",
+      "Description": "The island to the north-west has what might be graves. Or treasure-troves. Or follies created by the villagers to confuse you. Anyway, it'll do as a tourist destination."
+    }
+  ]
+}

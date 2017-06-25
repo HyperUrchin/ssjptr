@@ -1,0 +1,67 @@
+{
+  "Id": 245036,
+  "Name": "The Garden of the Sharpest",
+  "Description": "It is a cavern of giants. They were all at one time men or women or other creatures you might meet familiarly on a London street. But they are larger now, grown like oaks into the cavern floor. Their bodies are clear as lens-glass. Their faces are past the necessity of expression. They are your superiors, but you have come far enough that they are willing to help you if you wish. [Note that you can develop at most one of these areas. You will not be able to change your mind. Choose wisely.]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 245037,
+        "Name": "You withdraw",
+        "Description": "Back down the long tunnel. You know that they are watching you go. They know that they perceived and comprehended you even though you were only among them for a moment. You cannot guess what they would say about you, if they were given leave to speak their opinion."
+      },
+      "Id": 187043,
+      "Name": "Return to the rest of Anthe without changing anything",
+      "Description": "You have seen this. That is enough."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 256301,
+        "Name": "Generous instruction",
+        "Description": "Your teacher sits beside you. She is thirty feet tall. \"The sharpness of the eyes is more difficult than any sharpness you have yet studied. Indeed, you may lose the mastery of everything else, in pursuing this one. You must begin not with the lens nor with the vitreous humour, but with the tear ducts. If your eyes are not dry, they will never go sharp.\""
+      },
+      "Id": 192048,
+      "Name": "Train your eyes to sharpness, with their help",
+      "Description": "A difficult lesson. [This will exchange all your current sharpness and your Capacity for Sharpness for a substantial boost of Mirrors.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 256302,
+        "Name": "Systematic inquiry",
+        "Description": "\"You will lose your other sharpness,\" says your teacher, holding you up near his ear. \"But do not feel the effort was wasted. To come to this place, you had to silence the sensations. Now you can gain a philosopher's mind; then you will easily master your body a second time.\"\r\n\r\nFor ten days you sit on the prism of his forefinger, next to his ear, and debate with him. He tells you distasteful facts that you do not like to accept. He tells you fearful facts that are difficult to imagine. He tells you convoluted facts that you can barely comprehend.\r\n\r\nBut in the end, your brain is a cultivated latticework, two enantiomorphic lobes through which you can diffract both truth and its opposite."
+      },
+      "Id": 192049,
+      "Name": "Hone your wits to a point",
+      "Description": "An exchange. [This will trade all your current sharpness and your Capacity for Sharpness for a substantial boost of Pages.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 256303,
+        "Name": "Ruthless instruction",
+        "Description": "Your instructor sets you on her knee. \"Here is the business of a well-trained heart,\" she says. \"To pity, but not to make undeserved allowances. To protect, but not to treat the beloved as a child. To admire, but not to lose the capacity of discrimination. To serve without abasement. To govern without dominance. To care for each, without forgetting the demands of all.\"\r\n\r\nThen she teaches you to dissolve and to regrow your heart from a grain of sorrow."
+      },
+      "Id": 192050,
+      "Name": "Harden your heart to a chunk of salt",
+      "Description": "A specific gravity. [This will exchange all your current sharpness and your Capacity for Sharpness for a substantial boost of Hearts.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258499,
+        "Name": "Between the skin and the bone",
+        "Description": "Your instructor squeezes you painfully between her finger and her thumb. \"This will hurt,\" she says without sympathy. \"And it will take a long time. You must go sharp without becoming too inflexible. Keep all the proper links between bone and bone. Respect the ligaments.\"\r\n\r\nAll day you lie still developing the sharpness of your muscles, and then at night your instructor hits you with a stick to break the bad connections. Each morning, you begin again."
+      },
+      "Id": 192845,
+      "Name": "Turn your muscles to stone",
+      "Description": "Like rock. [This will exchange all your current sharpness and your Capacity for Sharpness for a substantial boost of Iron.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258501,
+        "Name": "Refusal",
+        "Description": "\"Do not ask for more instruction,\" says your teacher. \"If you go sharper than you are now, you will never leave Anthe again.\""
+      },
+      "Id": 192847,
+      "Name": "Greet your old teacher",
+      "Description": "No one has moved, but all are a bit taller than they were last time you came this way."
+    }
+  ]
+}

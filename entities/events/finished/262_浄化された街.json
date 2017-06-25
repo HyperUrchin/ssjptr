@@ -1,0 +1,37 @@
+{
+  "Id": 152419,
+  "Name": "浄化された街@{M}The Purified City",
+  "Description": "壁に囲まれた街ヴァルカスは、緑色のもつれ合った蔓と蛍光色で遅咲きの茸花に、苔に覆われた石で出来ている。五点形に配置された段塔が壁より遥かに高く聳え立ち、寒々しい空に燃え盛る白光を投げかけている。\r\n\r\n波止場から続く大して舗装もされていない暗い道が、ヴァルカスの鏡の門へと続いている。だが、門の側にある石灯籠に火は灯っておらず、青い外套を纏った衛兵が立っている事も無い。\r\n\r\nヴァルカスの門は、外来の異邦人に向けて開けられる事は無かった。@{M}$Varchas -> ヴァーチャス$The walled city of Varchas is a tangle of green vines and luminescent fungal flowers slow-blooming around mouldering stone. A quincunx of carved stepped-towers rise over the walls and pour burning white light into the bleak sky. \r\n\r\nA rough, shadowed path leads from the docks to the Mirrored Gates of Varchas. But there is no fire burning in the towering stone-lamps beside the gates, and no blue-cloaked Guard.\r\n\r\nVarchas is barred to visitors.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 152420,
+        "Name": "",
+        "Description": "宝石ターバンを巻いた若者が、握手をしながら貴方を歓迎する。ただ、彼は最早宝石ターバンを巻いておらず、若者に見える容貌をすら保っても居なかった。テントの中には、運命に弄ばれたネザール達が他にも多数居る。彼らはカビの生えたクッションの上に座り、茸茶をすすっていた。\r\n\r\n「俺達はヴァルカスを去ることに決めた。つまり俺たちはもうヴァルカーシでは無い。」彼はそう説明する。だが、それにしてはまだヴァルカスの極めて近くに留まっているのではあるが。彼は皮肉交じりの視線を投げかける。「まだ俺達は諦めた訳じゃない。だけど、この開かれた海に飛び出るには、まだ準備が足りないのさ。」\r\n\r\n彼はこの黒く輝きながら広がるウンタージーを見渡し、微笑む。その笑みは彼の顔を彩る青白い色を際立たせていた。「もうすぐだ。」彼は呟く。「もうすぐなんだ。」\r\n\r\n貴方はもう少し、互いに言うべき事があったと思いながら、船に歩いて戻る。男はその姿を羨望の眼差しで、じっと見つめるだけだった。@{M}$Varchas -> ヴァーチャス$The Jewel-Turbaned Youth greets you with his hands pressed together. Only he is not Jewel-Turbaned any more, nor does he look particularly youthful. You can see other ill-fated Neathers through open-tent flaps. They sit on mouldering cushions and sip mushroom-tea.\r\n\r\n\"We decided to leave Varchas, now that we are no longer Varchaasi,\" he explains. Though they haven't gone particularly far. He gives you an ironic look. \"We have not given up our cause, but we are not quite ready for the wide open sea yet.\" \r\n\r\nHe looks out over the glistening black expanse of the Unterzee, and a smile spreads slowly over his wan features. \"Soon,\" he whispers. \"Soon.\"\r\n\r\nThere is little more you have to say to each other; he watches you closely, almost yearningly, as you walk back to your ship."
+      },
+      "Id": 129879,
+      "Name": "新たな拠点@{M}A new settlement",
+      "Description": "街の外壁に沿って照らされる光の輪の中、街を囲むようにしてテントやあばら屋が密集している。もしかしたら彼らに話を聞けるかも?@{M}There is a collection of tents and huts clustered in the thin ring of light around the city's walls. Perhaps you could speak to them?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182415,
+        "Name": "苦い笑い@{M}Bitter laughter",
+        "Description": "ブレミガンが影の中に消え、テントの中にいるネザール達は悪意ある喜びの高笑いを漏らした。「さぁ、ミヒルが<i>あれ</i>に加護を与えるか見てやろうじゃねぇか!」一人が声を上げる。誰が知り得ようか?もしかするとブレミガンは、彼らが誰も出来ない街への侵入を果たすかもしれない。もしかするとブレミガンこそが、ミヒルの光を消し去るモノとなるかもしれない。もしかすると貴方が何時の日か戻ってきた時、この街は一つの巨大な、紫の物体がそこら中にひしめく街となっているのを見るかもしれない。もしかするとブレミガンこそが、人類と菌類の共生を促進する使者となり得るかもしれない。もしかすると、ただこの地下界を菌類で溢れ返らせるだけなのかもしれない。そもそも、ブレミガンは荷車の車輪に押し潰されてそのまま消えるだけかもしれないのだ。未来など、標のない大海だ。それはこのウンタージーでも変わらない。@{M}$[Bb]lemmigan -> ブレミガン$The Neathers in the tents cackle with malicious delight as the blemmigan vanishes into the shadows. \"Let's see Mihir take care of <i>that</i>!\" one cries. Who knows? Perhaps blemmigans will creep into the city where they cannot. Perhaps blemmigans will be the ones to extinguish the light of Mihir. Perhaps you will return, one day, to find the city a single, vast, pulsating mass of purple sentience. Perhaps that will herald a new era of cooperation between Fungus and Humanity. Perhaps it will only herald the fungal violation of the whole Neath. Or perhaps the blemmigan will find itself crushed beneath a cart-wheel. The future is a trackless ocean that dwarfs even the Unterzee."
+      },
+      "Id": 147590,
+      "Name": "ブレミガンを浜に揚げる@{M}$[Bb]lemmigan -> ブレミガン$Put a blemmigan ashore",
+      "Description": "邪魔をする者は居るのか?@{M}Will anyone object?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182513,
+        "Name": "可能性@{M}Possibilities",
+        "Description": "恐らく、ネザールはロンドンの役に立つだろう...@{M}Perhaps the Neathers will prove useful to London..."
+      },
+      "Id": 147657,
+      "Name": "港湾報告書をまとめる@{M}$Port Report -> 港湾報告書$Compile a Port Report",
+      "Description": "門は固く閉じられている。総督府は情報を欲しがるだろう。@{M}$Admiralty -> 海軍省$The gates are closed. The Admiralty will want to know."
+    }
+  ]
+}

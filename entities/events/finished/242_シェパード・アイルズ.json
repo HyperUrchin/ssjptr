@@ -1,0 +1,117 @@
+{
+  "Id": 152313,
+  "Name": "シェパード・アイルズ@{K}$Shepherd Isles -> シェファード・アイルズ$Shepherd Isles",
+  "Description": "「もちろん、シェパードアイルズに本物の羊飼い（シェパード）はいない。羊はここらでは大体禁じられてるからな。いや本当に、単にこの島を見つけた人の名前なんだ」髭の見張りがあなたに教えてくれた。\r\n\r\n村に座る白いものの混ざった髭の男たちが一様に厳格な顔で頷く。その内の一人が口を開いた。「羊はいないが、物語はたくさんある。何でも聞くといい」@{K}$Shepherd Isles -> シェファード・アイルズ$\"Course,\" the Bearded Watchman tells you, \"there are no actual shepherds on the Shepherd Isles. Sheep are mostly illegal here. No indeed, it's just the name of the genterman that found the islands.\"\r\n\r\nGreybeards sitting in the village square nod solemnly. \"No sheep,\" one says. \"But plenty o' tales. Ask us anything.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 152314,
+        "Name": "「故郷から遥かに離れ……」@{K}\"A long way from home...\"",
+        "Description": "「アイレムのある柱立ち並ぶ海のことは聞いたことがあるか？この島にアイレムから賢人がやってきたことがある。そうだな、八十年前のことだ。彼は三本の柱をあそこに立てた。あれは俺が若かったころは指ほどの背丈だったが、今やあの大きさだ。俺の息子の代ともなれば港のクレーンぐらい大きくなっていることだろう」@{K}$Irem -> アイレム$\"You heard of the Pillared Sea, where Irem lies? Wise man from Irem came here, oh, eighty year ago. He planted three pillars. They were as big as fingers when I were young. Now they're as you see them. In my son's time, they'll be big as dock-cranes.\""
+      },
+      "Id": 129812,
+      "Name": "岩の柱の物語@{K}Tales of the Standing Stones",
+      "Description": "髭の村人たちは島の名所について喜んで話してくれた。名所と言っても一か所しかないが。@{K}The bearded villagers are happy to talk about the local sights. Well, sight."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152315,
+        "Name": "穏やかな午後@{K}A peaceful afternoon",
+        "Description": "船員たちは蛍の光がさざめくのを眺め、舟歌を歌いかわし、ラム酒を回し飲みし、獰猛なジーバットに石を投げている。草原がそよ風に揺れた。暗い海面の遥か向こうには、大修道岩の用心深く見張っているような光が見える。@{K}$Abbey Rock -> 大修道岩$Your zailors watch the fireflies shimmer, swap shanties, pass round the grog and shy stones at the more vampirically inclined zee-bats. Grasses nod in the breeze. Across the dark water, the lights of Abbey Rock glow watchfully."
+      },
+      "Id": 129813,
+      "Name": "巨石へのピクニック@{K}A picnic at the standing stones",
+      "Description": "髭の村人たちが羊肉のシチューとケフィア、そして冷たい泉の水の入った石造りの水筒を売っている。彼らはあの石まで船を出してくれるだろう。@{K}The bearded villagers will sell you mutton stew and kefir, and stone bottles of cold fresh spring-water, and row you over to the stones."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152319,
+        "Name": "「安息の内にある狩人たち……」@{K}\"Hunters at rest...\"",
+        "Description": "「キェロネイトか。彼らは狩人だ。ロンドンほどもある亀を殺しその甲羅の上に街を作った。夜半鯨を追う船があそこから来たことがある。その中の三人が臆病な真似をして死に、海にその死体を沈めることができなかった。彼らは俺たちから鯨の骨を対価として土地を買ったんだ。俺はまだその欠片を持ってるよ、安全なところに仕舞ってあるがな」@{K}$Chelonate -> キェロネイト$\"The Chelonate, right - they're hunters. They killed a turtle the size of London and built their city in its shell. A ship from the Chelonate came by, hunting the Midnight Whale. Three of them had died cowards, so their bodies couldn't go into the zee. They paid us for the land, in whale-ivory. I still got a piece, but I keeps it safe.\""
+      },
+      "Id": 129816,
+      "Name": "三つの墓の物語@{K}Tales of the Three Graves",
+      "Description": "北西の島の芝地にはどのような人々が眠っているのだろう？@{K}Who sleeps beneath the turf, over on that island to the north-west?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152320,
+        "Name": "「妙な奴らだ……」@{K}\"The wrong kind of people...\"",
+        "Description": "「あそこで暮らしてるのはな――俺たちなんだよ。俺とお前だ。別の自分たち。妙な足の奴にいとこと結婚した者、それに生きたまま埋められた奴。別の歴史から来た人間たちだ。奴らはあそこで仲間を集め計略を練りながら待ってるのさ。俺たちの歴史を奴らのものにする時をな。だからあそこには行くんじゃないぞ。あいつらは納屋に隠れてるからどうせ見つけられない」@{K}\"The ones that farm up there - they're us. Me and you. All the other versions of us. One with a trick leg, one that married his cousin, one that was buried alive. Characters out of another history. They're waiting up there and plotting, gathering allies. Waiting to make their history ours. So don't go there. You won't find 'em anywise, being that they hides in the barn.\""
+      },
+      "Id": 129817,
+      "Name": "ソーンウェル農場の物語@{K}$Thornwell Croft -> ソーンウェル農場$Tales of Thornwell Croft",
+      "Description": "北にある橋のない島にはどんな物語があるのだろう？@{K}What about that isle to the North, the one that isn't bridged?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152321,
+        "Name": "ナンシノウ@{K}$Nuncio -> ナンシノウ$Nuncio",
+        "Description": "「ネズミで一杯の島だ。でもそれは大したことじゃない。あんたもネズミとモルモットが戦ってる島を見に行くべきだね。モルモットたちが海を渡ってきたんだ」@{K}\"An island filled entirely with rats. But that's nothing. You should see the one where the rats and cavies war. These are the cavies' voyages.\""
+      },
+      "Id": 129818,
+      "Name": "海の他の場所について@{K}The rest of the zee",
+      "Description": "「他の場所だって！」髭の見張りは嘲笑した。「あんたはここにいるんだからそれで十分だろう。俺たちは他の場所については話さない」しかし泣き言をいう卑怯者があなたを傍らに引っ張った。「俺ならあんたに教えてやれる」[アイコンにマウスオーバーして彼が何を欲しがっているのか確認しましょう。]@{K}\"Rest of the zee!\" the Bearded Watchman scoffs. \"Here's where you need to be. We don't talk about the rest of the zee.\" But a Snivelling Caitiff draws you aside. \"I got something for you,\" he promises. \"But I'll need some of that good stuff from London. A lot of that good stuff.\" [Mouse over the icons to the right to find out exactly what he needs.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152452,
+        "Name": "「……偽星の寒々しい光の下で……」@{K}$false-star -> 偽星$\"...in the bleak light o' the false-stars..\"",
+        "Description": "「……海面は粥を煮る鍋のように濁り……そこから轟音共に蒸気と一瞬の炎が吹き上がった！……三つの窓からはその泳ぐ姿が……触手だ！……そして俺たちは陛下の御姿を眼にして……」\r\n\r\n(この話はずいぶんと長く続いた。)@{K}\"...surface roilin' like a porridge-pot...up with a roar of steam and flash of fire!...three widows swimmin'... TENTACLES!... and then we saw His Highness...\"\r\n\r\n(There is rather a lot of this material.)"
+      },
+      "Id": 129907,
+      "Name": "港湾報告書を纏める@{K}$Port Report -> 港湾報告書$Compile a Port Report",
+      "Description": "「あぁ、もちろんもちろん喜んで。ここではいろいろな出来事があるぞ」@{K}\"Oh, yes yes my yes. There's been goings on.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 158943,
+        "Name": "茸の物語@{K}A mushroom tale",
+        "Description": "「これは！」髭の見張りが叫び声をあげた。「かつてここにはこのモノたちがいた。遥か昔のことだ。彼らがあの巨石を地中から起こしたという話だ。その詩によってな」@{K}\"These!\" the Bearded Watchman exclaims. \"We used to have these. Long ago. They raised the standing stones, you know. With poetry.\""
+      },
+      "Id": 133951,
+      "Name": "ブレミガンを岸に揚げる@{K}$[Bb]lemmigan -> ブレミガン$Put a blemmigan ashore",
+      "Description": "此処は暗く、静かだ。きっと生き延びるだろう。@{K}Dark and quiet: it should survive."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182208,
+        "Name": "安堵@{K}Relief",
+        "Description": "「ありがとうございます。ここの戯言はしばらくの間気を紛らわせてくれましたが、今となっては海だけが俺を救ってくれる。おぉ、空気が。空気が。ここはもう、陸地よりも綺麗だ。さあ、あなたの船の航路を引かせてください。(あぁ、頭が。頭が。)」[この新しいオフィサーを職務に就かせたいと思ったなら、彼のアイコンを、オフィサーのタブから画面の一番上のスロットまでドラッグしましょう。これは航海中ではなく、港で行いましょう。さもなくば、船員たちを不安にさせてしまうかもしれません。]@{I/K}@{K}$Officer -> オフィサー$\"Thank you. The nonsense here was a distraction for a while, but only the zee can help me now. Ah, my God, the air, the air. It's clearer already. Let me chart a course for you. (Ah, my head. My head.)\" [Appoint your new Officer by dragging him from the Officers tab to his slot at the top of the screen. Do this in port, not at sea, or you may unsettle your crew.]"
+      },
+      "Id": 147445,
+      "Name": "オフィサーを雇う：印に苦しむ航海士@{I}$Officer -> オフィサー, Sigil[- ]Ridden Navigator -> 印に苦しむ航海士$Engage an Officer: the Sigil-Ridden Navigator.",
+      "Description": "「俺は……俺に、船の舵取りをさせてください。俺はzeeのすべてを知っています。zeeがかつてどうだったか。これからどうなるか。お願いです。俺の……この頭痛は、俺が働いているときにだけ治まるんです」[彼は一等航海士として、MirrorsとVeilsにボーナスを与えてくれます。]@{I}$Officer -> オフィサー$\"I... let me guide your ship. I know all the zee, how it was, how it will be. Please... the headaches only stop when I'm working.\" [The Navigator is a First Officer who increases Mirrors and Veils.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 230214,
+        "Name": "墓@{K}The tomb",
+        "Description": "彼は戦利品を受取り、頷いた。「かつてはこういった悪党どもと取っ組み合ったものだ。その傷を見せてやりたいところだが、場所が悪い」\r\n\r\n彼はあなたを低い崖の縁まで連れて行った。身を乗り出すと岩肌に刻まれた草の茂る階段が見えた。その階段は湿った洞窟に続いている。壁の傍には棺がきちんとした列に並べられていた。「ロンドンのお高くとまった家がそこの死人をここに運び込んだ。黒い船に乗せてな。一番古いやつを取ると良い、奴らは気づきゃしないさ」@{K}He takes your trophy and nods. \"Wrestled one o' these devils, once. I'd show you the scar, but decency forbids.\"\r\n\r\nHe leads you to a low cliff. Leaning over, you see a grassy stair cut into the rock. It leads to a dripping cave. Against one wall, coffins are arranged in a careful line. \"Some la-de-dah London family bring their dead 'ere. Sail up in a black ship, they do. Help yourself to the oldest one - they won't notice.\""
+      },
+      "Id": 177348,
+      "Name": "引退した怪物狩りは栄光の日々を思い出すよすがとなる物を探している@{K}A Retired Monster-Hunter wants something to remember his glory days",
+      "Description": "代わりに彼はあなたに「奇妙な死体が奇妙な箱に収められている秘密の墓場」を見せてくれるという。[狩りの戦利品をスード＆クーパーの長箱と交換します。]@{K}$Hunting[- ]Troph(y|ies) -> 狩りの戦利品, Soothe (and|&) Cooper -> スード&クーパー$In return, he will show you \"...a secret graveyard populated by curious corpses in curious boxes.\" [Trade a Hunting-Trophy for a Soothe & Cooper Long-Box.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 230536,
+        "Name": "望まなかった振り出し@{I}An unwanted beginning ",
+        "Description": "　避難民たちは怯えた様子で甲板から足を踏み出した。「何とかならせなくちゃだな」一人が言った。「どうにかやっていけるさ」もう一人が答えた。彼らの一人があなたの手を握った。「船長。あなたの善き行いに祝福がありますように。あなたが決して飢えてしまいませんように」それはマトン・アイランドに古くから伝わる言い回しだった。@{I}$Mutton Island -> マトン・アイランド$The refugees timidly step from your deck. \"It will have to do,\" one says. \"We'll manage,\" another replies. One of them shakes your hand. \"Bless you for the good deed, captain. May you never go hungry.\" It's an old Mutton Island saying. "
+      },
+      "Id": 177564,
+      "Name": "マトン・アイランドからの避難民を送り届ける@{I}$Mutton Island -> マトン・アイランド$Deliver refugees from Mutton Island",
+      "Description": "　ここは故郷ではないかもしれないが、ひとまずは何とかなるだろう。@{I}It may not be home, but it will do for now."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245560,
+        "Name": "新しい聞き手@{K}Fresh Ears",
+        "Description": "「改めてありがとうございます、[q:Addressed As]」牧師は運賃を数えてあなたの手に渡した。\r\n\r\n「此処の人々は新しい何かを信じる準備ができているようです」船板を渡る前に彼の口の端には笑みがちらついていた。\r\n\r\n髭の見張りは牧師に挨拶すると彼を浜辺から先導していった。「私たちの島の有名な巨石にまつわる話をお聞きになったことはありますかな、牧師さま？ありませんか？では、お聞きください、昔々三人の悪魔がおりました。地獄で最も恐ろしい三人です……」信徒たちは彼らの後をついていった。みんな幸せになったようだ。@{K}\"Thank you again, [q:Addressed As].\" The Parson counts his fare into your hand. \"These islanders look ready for something new to believe.\" A smile plays around the corner of his mouth before he descends the gangplank.\r\n\r\nThe Bearded Watchman greets the Parson and ushers him up the beach. \"Have you heard tell of our famous Standing Stones, Reverend? No? Well, you see, there were three devils, three of Hell's fiercest...\" The committee follows in their footsteps. Everybody seems happy."
+      },
+      "Id": 187346,
+      "Name": "放浪の牧師を送り届ける@{K}Deliver a Wandering Parson",
+      "Description": "あなたが近づくのを見て岸には小さな信徒の集まりができていた。牧師は喜んでいる。@{K}Seeing your approach, a small committee has assembled on the shore. The Parson is delighted."
+    }
+  ]
+}

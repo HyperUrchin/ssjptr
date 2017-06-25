@@ -1,0 +1,37 @@
+{
+  "Id": 144258,
+  "Name": "失われた時@{M}Lost Time",
+  "Description": "渡すのだ、貴方の過去を、現在を、未来を。@{M}Give up your past, your present, and your future.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 144259,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 124667,
+      "Name": "貴方の過去@{M}Your past",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144260,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 124668,
+      "Name": "貴方の現在@{M}Your present",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144261,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 124669,
+      "Name": "貴方の未来@{M}Your future",
+      "Description": ""
+    }
+  ]
+}

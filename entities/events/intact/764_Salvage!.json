@@ -1,0 +1,77 @@
+{
+  "Id": 243607,
+  "Name": "Salvage!",
+  "Description": "What have you found? Could anything of value have survived? ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243608,
+        "Name": "A crate of fuel",
+        "Description": "Coke! The university's Department of Infernal Rarefactions would be pleased at how well it's lasted. A few minutes in front of the boiler and it'll be ready for the fires."
+      },
+      "Id": 186087,
+      "Name": "A heavy wooden crate",
+      "Description": "Soaked, but intact. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243609,
+        "Name": "A warning ",
+        "Description": "<i>'We found Wrack, and were safe from the wreckships that had hunted us. But there are sweeter dangers in the City of Delights. We had a taste of the tether-weed, and in order to have more we sold such parts of our ship as we could hope to manage without. It need only get us to the next port.'</i>"
+      },
+      "Id": 186088,
+      "Name": "A watery journal",
+      "Description": "Most of the pages are unreadable. But on the inside of the leather cover, something remains. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243610,
+        "Name": "A handful of scintillack ",
+        "Description": "A pleasing pile of scintillack gleams at you from the bottom of the sack. Your crew crowd around, crooning appreciatively. "
+      },
+      "Id": 186089,
+      "Name": "A hemp sack ",
+      "Description": "The sack is almost rotted-away. There is a promising bulge at the bottom."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243611,
+        "Name": "A pallid crystal ",
+        "Description": "The light from your lamp shines back at you. The crystal is a large fragment of something greater; jagged edges suggest this piece was broken off. Below the crown, a peculiar formation of small, sharp fragments puts you in mind of teeth. "
+      },
+      "Id": 186090,
+      "Name": "A locked chest ",
+      "Description": "The chest is so rusted it's easier to chisel away the metal than to open it. What could be inside? "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243612,
+        "Name": "A diminutive horror",
+        "Description": "Something peers up at you from the bottom of the crate. It rises up on its fronds, its mouth-orifice aquiver. Your doctor removes it from the box. It wriggles, and spouts ink-dark water in their face before being bundled into a sack. "
+      },
+      "Id": 186091,
+      "Name": "A sealed container ",
+      "Description": "Rusted bolts keep the steel lid firmly in place. You'll need a hammer. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243613,
+        "Name": "A fevered account ",
+        "Description": "The penmanship is small and cramped. Sentences run on untidily. The grammar is a disgrace. <i>'We parted at the confluence of the three rivers and the heretic ran on ahead with his armies but the daughter of the city stayed behind. She will not leave until she knows Nidah will stand: we begged because there was no mercy coming but she must see for herself.'</i> "
+      },
+      "Id": 186092,
+      "Name": "A leather-bound journal ",
+      "Description": "Its pages are sealed with wax."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243614,
+        "Name": "A deactivated mine ",
+        "Description": "Why was it in the chest? Why wasn't it activated? What happens if you press the copper imprint between the metal spines? \r\n\r\nIt was a joke! There was no need for your crew to react like that. Once they're calm, you have it hauled aboard. It'll fetch a pretty penny - there are many above curious to know how they've been losing so many ships."
+      },
+      "Id": 186093,
+      "Name": "A locked chest ",
+      "Description": "This chest was once ornate, but the gold-leaf has mostly flaked off. The heavy iron lock is corroded - it'll present no challenge to a good crowbar. "
+    }
+  ]
+}

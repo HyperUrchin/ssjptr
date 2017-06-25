@@ -1,0 +1,67 @@
+{
+  "Id": 175994,
+  "Name": "The Lost Treasure Hunter",
+  "Description": "His adventures have left him with many tools for finding gold and glory. A sense of direction is not one of them.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 175995,
+        "Name": "Tales of adventure and terror!",
+        "Description": "Pirates! Treasure! Lost islands! Undead horrors! Ancient terror! Dreadful beasts! Intrigue! Star-crossed lovers! Battles of wit and cunning!\r\n\r\nWell, that's your stories told. His turn..."
+      },
+      "Id": 143618,
+      "Name": "Trade stories with the Lost Treasure Hunter",
+      "Description": "He has survived many adventures. So have you.\r\n [This will trade 10 x Tale of Terror!! for 10 x Zee-ztories]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 175996,
+        "Name": "The trade is complete",
+        "Description": "The Lost Treasure Hunter scans the latest headlines. \"Fascinating,\" he mutters. \"And should be most absorbent, if needs must.\""
+      },
+      "Id": 143619,
+      "Name": "Trade Recent News for Dynamite",
+      "Description": "\"You have a newspaper? At least I won't feel entirely lost when I finally get back home.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 175997,
+        "Name": "The trade is complete",
+        "Description": "He breathes with relief. \"Thank you. His Nibs can talk your ears off about leaving things on your plate. Not least other peoples' ears...\""
+      },
+      "Id": 143620,
+      "Name": "Trade Supplies for Foxfire Candles",
+      "Description": "\"Don't tell the others, but I still can't bring myself to eat like they do. I pretend, but it's a good thing there's berries. Wouldn't say no to something a bit more.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 175998,
+        "Name": "The trade is complete",
+        "Description": "\"What is it?\" He peers. \"I think this might be a whole new species. That raises some problematic questions. Red or white wine? His Loudship will want to know...\""
+      },
+      "Id": 143621,
+      "Name": "Trade a Live Specimen for a Flare",
+      "Description": "\"The chaps will sometimes eat fish, if it falls in their laps.\" He looks hopeful. \"Do you have any that could be, ah, carefully thrown?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 175999,
+        "Name": "A secret revealed",
+        "Description": "You bury the 'treasure', and with a few careful coughs and prods push the Lost Treasure Hunter towards it. He falls to the ground, digging furiously until he unearths his prize: bright, shining - his gaze pulled into its revelatory core.\r\n\r\nBut soon, his excitement fades. Having found what he thought he wanted, his obsession is over and the reward merely a bauble; as diminished by being dragged from desire to reality as the face of an angel in mere paint.\r\n\r\nSadder still is that once you persuade him to give you the map, it takes but a moment to realise his mistake. It's of Fountainhead! The fool had it upside down!"
+      },
+      "Id": 143622,
+      "Name": "Persuade him to give you his map",
+      "Description": "It could be a profitable kindness."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176561,
+        "Name": "He bids you a good day",
+        "Description": "\"And good hunting, of course!\""
+      },
+      "Id": 144005,
+      "Name": "Leave him to his search",
+      "Description": "You have your own treasures to discover."
+    }
+  ]
+}

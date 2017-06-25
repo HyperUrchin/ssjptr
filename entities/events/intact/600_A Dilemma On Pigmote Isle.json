@@ -1,0 +1,37 @@
+{
+  "Id": 209685,
+  "Name": "A Dilemma On Pigmote Isle",
+  "Description": "A guilty rodent stands, his head bowed. The aide pushes him forward. \"Hairless Adviser, this traitor stole food from our stores. To feed a sick child, he claims. Do we show mercy or make an example of the wretch?\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 209686,
+        "Name": "Forgiven and forgotten",
+        "Description": "The guilty rodent is released back to his family, all wheeking with relief. Few claim justice has not been done. But it is not the last such theft, and with each one, it becomes harder for the [q:Pigmote Isle: Mastery]ns to tell where the line between clemency and weakness is drawn."
+      },
+      "Id": 164547,
+      "Name": "Advocate mercy",
+      "Description": "His actions were understandable, if unfortunate."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 210223,
+        "Name": "Law and order",
+        "Description": "The execution is kept as painless as possible, but conducted in public. Citizens argue bitterly whether what they witnessed can be called justice, but its impact is clear: few dare risk theft again."
+      },
+      "Id": 164878,
+      "Name": "Insist an example be made of him",
+      "Description": "A new nation cannot afford to set a such a precedent."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 210224,
+        "Name": "Excessive force",
+        "Description": "There is a long silence. Much twitching of whiskers. \"As... as you counsel, Hairless Adviser,\" the advisor just about manages to squeak in a moderately respectful tone. The shrieks that follow will not soon be forgotten, by thieves or anyone else."
+      },
+      "Id": 164879,
+      "Name": "No half-measures!",
+      "Description": "Insist the wretch be hung, drawn, quartered and the pieces impaled on spikes as a warning to all! And his family too!"
+    }
+  ]
+}

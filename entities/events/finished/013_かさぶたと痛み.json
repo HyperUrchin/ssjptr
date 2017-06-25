@@ -1,0 +1,17 @@
+{
+  "Id": 135252,
+  "Name": "かさぶたと痛み@{M}Scale and Substance",
+  "Description": "ジーは、日に日に自分を誘っているように見える。かつてこの様に敵意を感じた事があっただろうか?貴方を甘く誘っている...とても抗いがたい。貴方は腕を掻き毟る。皮膚のそこかしこが乾き、常にムズムズするのだ。[このカードは、貴方が父親の遺骨を葬るか、誘惑に負けるまで表示され続けます。]@{M}The zee looks more inviting by the day. How could you have thought it hostile? It is invigorating; fruitful. You scratch at your arm. Your skin is always itching, up here in the dry. [This card will continue to appear until you bury your father's bones or give in to temptation.]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 135253,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 119013,
+      "Name": "永遠に船から下りる@{M}Leave your ship forever",
+      "Description": "貴方の父親は海から来た。貴方は彼の立場を受け継ぐ事が出来る事を、今は知っている。[これにより勝利(に近い)状態でゲームを終わらせる事が出来ます。]@{M}Your father came from the sea. You know now that you could take his place there. [This will end the game in a victory, of sorts.]"
+    }
+  ]
+}

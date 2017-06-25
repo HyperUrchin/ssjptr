@@ -1,0 +1,17 @@
+{
+  "Id": 143379,
+  "Name": "ロンドンの街路を恐怖が歩む@{I}ロンドンの道を往く恐怖@{M}Fear walks the streets of London",
+  "Description": "　恐怖はたなびく霧の外套をまとい、あなたの名前を囁いた。暦法議会、無政府主義者の支配者たちが、権勢を拡大している。彼らは、あなたの功績に感謝していた。@{I}恐怖は霞の外套を身に纏い、徘徊している。恐怖は貴方の名前を囁いている。年暦評議会 - 無政府主義者の母体 - が勢力を拡大している。そして彼らはそれについて、貴方に感謝しているのだ。@{M}$Calendar Council -> 暦法議会$Fear has a cloak of trailing mist. Fear whispers your name. The Calendar Council, that master-cell of anarchists, is on the rise: and they have you to thank for it.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 143380,
+        "Name": "何もかもが@{I}全てと皆無と@{M}Everything and nothing",
+        "Description": "　暦法議会は光を嫌うと、人々は言った。商店は、窓を破壊され、商品を押収されるよりは、ランプを掲げずに商売する方を選んだ。帝国議会は未だ存在するものの、ただランプのない静けさの中に身を置くだけの存在となった。海軍省の扉には錠が下ろされ、海軍の残党たちは地下に身を隠すことを余儀なくされた。<br/><br/>　あなたが宿に戻ると、包が待ち構えていた。メモには『解放のために』と記されていた。何者かが、あなたへの感謝を示していた。@{I}彼ら自身の言葉に拠れば、年暦評議会は、光を嫌う。店舗はランプの灯を使わずに商売を行う事を奨励されており、従わない者は窓を叩き割られ、品物を押収されてしまう恐れがあった。議会は機能しているが、彼らもまた、灯り無しでの活動を余儀なくされている。海軍本部の扉は堅く閉じられてしまっている。残された海軍兵達は、地上に散り散りになってしまった。\r\n\r\n貴方が宿場に戻ると、荷物が置いてあった。走り書きには\"解放の礼として\"とある。誰かが感謝しているようだ。@{M}$Calendar Council -> 暦法議会, Admiralty -> 海軍省$The Calendar Council, they say, dislikes light. Shops prefer to conduct their business without lamps, or they might find their windows broken and wares confiscated. Parliament still sits, but they do so in lampless hush. The Admiralty has locked its doors: the Navy, what's left of it, has gone to ground.\r\n\r\nWhen you return to your lodgings, a package awaits you. A note reads FOR THE LIBERATION. Someone is grateful."
+      },
+      "Id": 124094,
+      "Name": "暗闇を探索する@{M}闇の中を探索する@{I}Explore that darkness",
+      "Description": "　何が起こったんだ？@{I}何があったんだ?@{M}What has happened?"
+    }
+  ]
+}

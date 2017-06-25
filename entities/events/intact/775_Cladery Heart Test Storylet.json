@@ -1,0 +1,27 @@
+{
+  "Id": 244233,
+  "Name": "Cladery Heart Test Storylet",
+  "Description": "Testy testy",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 244234,
+        "Name": "Caligo-class Merchant Cruiser",
+        "Description": "Branch wot I wrote"
+      },
+      "Id": 186471,
+      "Name": "Change to Calligo-class Merchant Cruiser",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 244235,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 186472,
+      "Name": "Unequip the Cladery Heart",
+      "Description": ""
+    }
+  ]
+}

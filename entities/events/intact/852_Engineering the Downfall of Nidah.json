@@ -1,0 +1,97 @@
+{
+  "Id": 259254,
+  "Name": "Engineering the Downfall of Nidah",
+  "Description": "\"Nidah is a closed city, the guarded heart of the Presbyterate. We must cross the Elder Continent, destroy her numberless armies, and breach her basalt walls.\"\r\n\r\nMariam surveys the broad map of the Neath. \"We have a lot of scheming to do, [q:Addressed As].\" [Choose and pursue a method to overcome each of the three obstacles in your way: the armies of the Presbyterate, the way to Nidah, and the city's walls.]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 259255,
+        "Name": "",
+        "Description": "Mariam's eyes widen as you lay out the extent of your espionage network upon the map-board. \"A foothold on the Elder Continent!\" She exclaims, and grins with her blue-black teeth. \"You've planted the seed, [q:Addressed As]. Now, we nurture it; encourage it to grow like vines through the Prester's alliances. Then, in a number of years, we give the order - and the Presbyterate turns against itself.\" Mariam's memory is more reliable when she's scheming.\r\n\r\n\"With a little luck, we will be able to take Nidah with a detachment of mercenaries; I think I know just the fellows...\""
+      },
+      "Id": 193328,
+      "Name": "Defeat the Presbyter's armies: commit a spy network",
+      "Description": "The Presbyterate's military is a patchwork of feudal obligations and treaties agreed between its seventy-six sub-kingdoms. It is a knot, ready to be unpicked. [To unlock espionage options, if you haven't already, deliver Vital Intelligence to the Dark-Spectacled Admiral in London, then talk to the Voracious Diplomat.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259724,
+        "Name": "A rumble on the mountain",
+        "Description": "Movements begin in small ways. Whispers in the bazaar; slogans daubed in alleyways. In this case, the words that spread are sacred - an order of the first Presbyter, written long ago in Nidah. \"No man shall live a thousand years.\"\r\n\r\nWhen the people of the Elder Continent learn that their Presbyters don't die when they live to a thousand, but instead retire to the College of Mortality to advise the next ruler, they are incensed. The movement spreads slowly, the Mithridate Office - the Prester's own misinformers - working hard to stamp it out. \r\n\r\nYou keep it alive with the liberal application of money. The pebble is rolling, now. In a few years, you will lead the avalanche to Nidah."
+      },
+      "Id": 193658,
+      "Name": "Defeat the Presbyter's armies: foster a popular uprising",
+      "Description": "Your Propagandist proposes it. \"The Prester has vast wealth, unguessable power, and immortality. He is an easy man to resent.\" It will take time. More immediately, it will take a secret capable of toppling a government. And, inevitably, a great deal of money. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260395,
+        "Name": "The bargain",
+        "Description": "What does the living city want with fluke-cores? Its Hundred-Hearted King will not say. The crewman who delivered them reports carrying them to the white villa atop the hill, where countless statues waited with stony, avid eyes.\r\n\r\nIt will take years to construct the whole fleet, but when the first vessel slides gracefully into Batuk's hidden shoreside encampment, its oars sing a joyous hosannah. Their harmony is impeccable."
+      },
+      "Id": 194195,
+      "Name": "Secure the route to Nidah: procure a living fleet to traverse the red river",
+      "Description": "Your Soldier advocates the route the Seven took on their initial attempt against Nidah. It worked then; and will serve again. Unfortunately, Polythreme - the only source of the ships able to navigate the red river - demands an unusual price."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260396,
+        "Name": "",
+        "Description": "Isery explains their plan. \"First, we must cross the Desert of Eyes, where eyes bloom in the sands. Their regard strips all pretence, reducing the traveller to a state of foetal self-loathing. Hence the sunlight: we will blind them.\r\n\r\n\"Next is the Listening Desert, where earthquakes pursue the unwary. Thus, the primordial shrieks - I propose to deafen it. Perhaps you notice a theme?\r\n\r\n\"Lastly, we would reach at the Desert of Delights. The touch of its sands is indescribably engrossing. Our best hope here is something equally as captivating, to divert us. The whole journey will undoubtedly be awful, but I believe it can be done.\" Isery taps a clawed finger-ring on one sharp cheek-bone. What they have described is only the beginning of it. Finding the route is one thing. Making it safe for your forces to follow is another, and will take years."
+      },
+      "Id": 194196,
+      "Name": "Secure the route to Nidah: plot a course across three deserts",
+      "Description": "To reach Nidah overland, you must cross three deserts, each more impossible than the last. Your Guide, however, believes a way can be made. They will need some unusual supplies."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260397,
+        "Name": "Leviathan",
+        "Description": "Arik's plan involves steering Temtum from the zee, across the Elder Continent, and using the beast as a siege engine. 'Temtum will topple the walls like meringue,' his report claims. He seems confident. But it will take a long period of gradual excursions for the great city-beast of Hideaway to build up a tolerance for life above the waves. Arik gets started immediately."
+      },
+      "Id": 194197,
+      "Name": "Breaching Nidah's walls: deploy a leviathan from the depths of the zee",
+      "Description": "Arik has not been idle since the defeat of the Seven. He has tamed a monster of the deep zee, and presents you with a report on its deployment. [Advance the story on Hideaway and favour the Sprightly Visionary to unlock this option.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260398,
+        "Name": "Science!",
+        "Description": "The test-site still glows. Heat hangs in the air like a blanket, crisping the hairs on the back of your hand. You remove your safety goggles (their lenses are warped beyond use now, anyway) and examine what used to be a monolith of basalt and is now a shapeless, seeping mass, hissing as it cools.\r\n\r\n\"I rather think that will do,\" says your Financier, whose engineers are engaging in a hearty round of back-slapping. \"We'll have to go into mass production, of course. It'll take time.\""
+      },
+      "Id": 194198,
+      "Name": "Breaching Nidah's walls: invest in experimental munitions research",
+      "Description": "Cotterell & Hathersage have made great strides, recently, in the art of fulmination. If you could combine their chemistry with recent developments in blast-shaping and some terribly modern research into thermobaric expulsion, you could be onto something."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260408,
+        "Name": "",
+        "Description": "The two of you leave the Chamber of Sevens, conversing as you pick your way through the bone statues."
+      },
+      "Id": 194206,
+      "Name": "Speak to Mariam",
+      "Description": "You have questions for her."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260409,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 194207,
+      "Name": "Return to Scrimshander proper",
+      "Description": "You have other matters to attend to."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260414,
+        "Name": "",
+        "Description": "Her memories are fading. There is much she must pass onto you regarding the Presbyterate before they vanish altogether, beyond the means of her engravings and statues to recover."
+      },
+      "Id": 194211,
+      "Name": "Retire from the zeefaring life to plan the conquest of Nidah",
+      "Description": "\"The time has come,\" Mariam says, \"to dedicate yourself wholeheartedly to our endeavour. We have much work to do.\""
+    }
+  ]
+}

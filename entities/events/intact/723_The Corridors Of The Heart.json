@@ -1,0 +1,27 @@
+{
+  "Id": 241417,
+  "Name": "The Corridors Of The Heart",
+  "Description": "You wander, lost in the depths of the Gant Pole.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 241422,
+        "Name": "Lost, lost and thrice lost",
+        "Description": "There is no remembering the route once the candle goes out. You stumble through the darkness for just a sliver less than forever. Finally, light in the distance, and the suddenly comforting smell of decay in the Gant Pole's charnel house of an aorta."
+      },
+      "Id": 184711,
+      "Name": "Return to the main chamber",
+      "Description": "The writing on the wall should lead the way."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 241426,
+        "Name": "Endless tunnels",
+        "Description": "[q:Gant Pole: Lost In The Darkness]"
+      },
+      "Id": 184712,
+      "Name": "Continue onwards and inward",
+      "Description": "Something at the centre of the Gant Pole calls to you. To the part of you that feels tired. Weary. That craves sleep without the inevitability of waking.\r\n [The more you walk, the closer you will get.]"
+    }
+  ]
+}

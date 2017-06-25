@@ -1,0 +1,347 @@
+{
+  "Id": 234938,
+  "Name": "Aigul",
+  "Description": "The station is pinned to the surface of Aigul. Once it was a roving vessel, the <i>Fortas Kettle</i>, and floated freely from place to place. Now it is stuck on spines of fluke-rock.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 234939,
+        "Name": "Gratefully received",
+        "Description": "The First Mate's features are softer than the average Londoner's, as though they have become part Rubbery Man. Their skin is marked in dozens of places with shiny, calcified ovals, around which the skin is reddened. \r\n\r\nYou offer them the Solacefruit, and they receive it reverently. They don't eat it in front of you, but withdraw through a hatch that is usually kept locked. They are gone a long time, and far off you hear a man's deep laughter. It is a surprising sound in the whispering ship. \r\n\r\nAt last the First Mate returns, fingers stained."
+      },
+      "Id": 180419,
+      "Name": "Bribe the First Mate",
+      "Description": "The crew can't show you around. \"The First Mate keeps the hatch-keys. They rarely leave the engine room, but they'll come out for Solacefruit.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234940,
+        "Name": "The postulant brings ten Solacefruit, a generous offering",
+        "Description": "The First Mate leads the Crocodile to a makeshift bed. Attendants wrap the Crocodile's hands in silk and set them on a spike of Aigul. The Crocodile weeps copiously through the eye-holes of its mask. Then it goes to sleep.\r\n\r\n\"After relinquishing a regret to Aigul, one needs a good rest,\" the First Mate says, ushering you out. \r\n\r\nAn hour or two later, the Crocodile comes out again, cheerful and refreshed. It departs in its Zubmarine. Its deposited regret is not left behind for long, however. The First Mate attends the engine room."
+      },
+      "Id": 180420,
+      "Name": "Observe the First Mate with a Pilgrim",
+      "Description": "Another Zubmarine has docked at Aigul, releasing a person in a Crocodile mask and long gold robes."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234941,
+        "Name": "The Captain and the First Mate are absent",
+        "Description": "The crew gather and tell stories of when the <i>Fortas Kettle</i> was still free to roam the sea floor. The Captain was a jolly man, fond of a drink, who laughed at icebergs. The First Mate was everyone's confidante. The two were meant to be married, even, when they got back to London. But Aigul called, imperiously, and the First Mate drove the <i>Kettle</i> full-throttle onto the spines.\r\n\r\nAfter the meal, the First Mate returns from their latest exploration in the engine room. The Tomb Colonist rises with a sigh. \"It'll be time to rebandage the Captain, then.\""
+      },
+      "Id": 180421,
+      "Name": "Dine with the crew",
+      "Description": "There are few people aboard the <i>Fortas Kettle</i>, and guests provide variety."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234942,
+        "Name": "Attentive listening",
+        "Description": "You hear: the Tomb Colonist and the surprisingly strong old woman, bickering over a hand of cards. The Captain, complaining about the bandage sticking to his thigh. (You hear us.) The scrape of metal as a new Zubmarine docks. Your own crew, talking about how the spines give them the shivers. (Your crew hears us too.) The First Mate is talking to the Captain in a low voice about what they found in their last exploration. There are fresh Needles in the collection."
+      },
+      "Id": 180422,
+      "Name": "Eavesdrop in the Kettle",
+      "Description": "Voices echo in the coppery corridors."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234943,
+        "Name": "The Tomb Colonist hands you bottles",
+        "Description": "...and you nestle them in straw. \"Don't worry too much if you touch the powder,\" the Tomb Colonist says. \"Looks poisonous, but there's no harm in it. The First Mate uses some of it to make the Needles, and sells the rest.\"\r\n\r\nThe Colonist obviously doesn't approve of the First Mate's regret-collection, and clarifies with only a little prompting. \"Maybe I'm the wrong person to ask,\" the Tomb Colonist says. \"But there's no need for wearing the scars of other people's wounds, on top of your own.\"\r\n\r\nAs if summoned, the First Mate comes out of the engine room, fresh-spined."
+      },
+      "Id": 180423,
+      "Name": "Help pack the exports",
+      "Description": "Bottles and bottles of silver powder, ground from Aigul-spine, wait to be sent away."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234944,
+        "Name": "The hold",
+        "Description": "The lowest level of the <i>Fortas Kettle</i> is crossed with so many spines that it is a wonder it keeps out water at all, even with sealant. (We have grown into our place.) It is hard to walk in the space, and there is barely room to store anything sizeable. Instead, the room has collected garbage: log books from past voyages, a coffee pot with a broken bottom, a holiday wreath made of bats'-heads, and all the other sorts of things that gather in a long time at Zee.\r\n\r\nWhen you go above, the First Mate has been in the engine room again."
+      },
+      "Id": 180424,
+      "Name": "Explore the depths of the Kettle",
+      "Description": "The ship has been expanded, through the years, with extra hulls bolted on."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234945,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 180425,
+      "Name": "GEAR UP",
+      "Description": "Provide yourself with solacefruit to start this journey and reroll SAY."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234946,
+        "Name": "Memories layered with memories",
+        "Description": "You remember: a woman who had persuaded herself into a marriage. She never fell in love with someone else, or betrayed her husband, or did any of the usual things. She lived a dusty life, and wondered whether she even had any appetites to satisfy.\r\n\r\nFaintly overlying this is the First Mate's reaction - pity, annoyance, and a tangle of feelings about a different broken relationship, between themselves and the Wounded Captain."
+      },
+      "Id": 180426,
+      "Name": "Consume a Needle of Fortas",
+      "Description": "Press the spike into your own flesh. Know what it knows. Little worse than a tattoo, surely?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234947,
+        "Name": "A piquant blend",
+        "Description": "The First Mate has selected three particular flavours for you. Here is a prisoner's breath of fresh air after fifty years in the cell. Here's a proud father, summonsed to court in a sordid case against his son. Here's lavender water on a widow's kerchief, and the square of light on the wall of an empty bedroom."
+      },
+      "Id": 180427,
+      "Name": "Consume three Needles of Fortas",
+      "Description": "Three is more resonant than one."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234948,
+        "Name": "At this intensity, there is no sorting one regret from another",
+        "Description": "They pierce your skin and blend into you: misunderstandings, injustices, accidents, betrayals; sudden death, and lingering death, and the consuming fear of death that eats up happiness in advance.\r\n\r\n\"When there is nothing left of my skin but the spines of Aigul, then I will be allowed to rest,\" says the First Mate. \"Until then, if I cannot alleviate these sorrows, I must at least bear witness.\""
+      },
+      "Id": 180428,
+      "Name": "Consume ten Needles of Fortas",
+      "Description": "A person may embrace a cactus and survive."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234949,
+        "Name": "Into the Fortas Kettle",
+        "Description": "The First Mate leads you through hatches usually kept locked, down to the depths of the <i>Fortas Kettle</i>. They begin to limp more evidently, the further you descend. At last, you come to the engine room where a spike of Aigul jabs through the hull. The engine is thoroughly destroyed: its furnace is cold, its great wheels will never turn again.\r\n\r\nThe surface of Aigul is exposed to your touch. It shimmers. (We make it beautiful on purpose.) \r\n\r\nThere is a shiny silver patch on the spike. (We allow the silver to be harvested.) Touch it with one hand. (Touch our face.)"
+      },
+      "Id": 180429,
+      "Name": "Ask the First Mate for help finding the regret of the Sensitive Brother",
+      "Description": "The Imperious Sister awaits an answer; she has set a rendezvous at Hunter's Keep."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234950,
+        "Name": "\"You are not so indifferent to his suffering after all!\"",
+        "Description": "The First Mate scrubs wet eyes, trying to compose themselves. Finally: \"The Captain was hurt when the <i>Kettle</i> went aground. We kept him from the brink of death.\" (The Captain is still capable of laughter.)\r\n\r\n\"It seems every time I return to him, his wound has reopened.\" (The spines in the First Mate's flesh are a lance in the Captain as well.)\r\n\r\n\"If there were anything I could do...\" (The First Mate would give up anything for the Captain, except <i>us</i>.)"
+      },
+      "Id": 180430,
+      "Name": "Ask the First Mate about the Captain",
+      "Description": "(Ask in our hearing and we, too, will answer.)"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234951,
+        "Name": "A blasted land",
+        "Description": "You try to release the blemmigan, by airlock, onto the spiny surface of Aigul.\r\n\r\nIts determination is fierce and it tries gamely to climb down a spine. Almost at once it begins to shrivel and shrink in on itself, its shroomy flesh blackening and then coming away in ragged strips. It cannot take hold in this waste-space.\r\n\r\nBut the sacrifice was not wholly without effect. The First Mate says, later, that Aigul has been made just a little gentler; and when someone communes with the secrets of Aigul, he brings away more discoveries."
+      },
+      "Id": 180431,
+      "Name": "Introduce a blemmigan to Aigul",
+      "Description": "Wouldn't the spikes of Aigul look friendlier with a bit of mushroom foliage?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234952,
+        "Name": "Loose information",
+        "Description": "You gather a description of the <i>Fortas Kettle</i> and a survey of its resources. You scrape away a little of the sealant, the colour of amber and the texture of wax, that keeps out seawater where the hull is pierced by the spines of Aigul; you sketch the arrangement of decks and hatches, so far as you have been able to reach. But about the population, you cannot offer as much detail. The Tomb Colonist declines to be identified and the travelling postman laughs at you. "
+      },
+      "Id": 180432,
+      "Name": "Assemble a Port Report",
+      "Description": "The Admiralty would find this a curious place."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234953,
+        "Name": "A grave and holy place",
+        "Description": "You invent a tale of life in the <i>Fortas Kettle</i>: daily feasts held at midnight in Jerusalem - according to the Purser's pocketwatch. Switches of holy thorn hung above the doorways. Garments of grey linen and black stitching.\r\n\r\nYou do not mention the sickness or the constant need for Solacefruit, or the hatches of the <i>Fortas Kettle</i> that are kept locked, or the occasional groans from below. You say nothing of the Wounded Captain."
+      },
+      "Id": 180433,
+      "Name": "Assemble a Compromised Port Report",
+      "Description": "The First Mate does not want an accurate report to reach the Admiralty. They will reward you with extra Needles, they say."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234964,
+        "Name": "You grow a spine, just next to your thumb",
+        "Description": "It is challenging to clip off, but you manage, and then file down the spur. There is a little blood and some itching, and the spot remains sensitive."
+      },
+      "Id": 180441,
+      "Name": "Grow the Brother's Regret into a spine",
+      "Description": "It is possible, given certain Rubbery rituals and preparations. The First Mate can show you how."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 235910,
+        "Name": "Propped in bed",
+        "Description": "The Wounded Captain's bed is a tangle of blankets and bandages. A tripod of myrrh does not wholly mask the festering scent. But the Captain's eye is bright and his laugh is hearty.\r\n\r\n\"I've heard all about you,\" he says, gesturing for you to sit. \"I won't say you've cheered up my First Mate, as we both know that can't be done! But you've come as close as anyone could.\"\r\n\r\nHe grimaces. \"It's about that time,\" he says. \"You won't want to watch the wound reopening. There's a lot of blood. Best go.\""
+      },
+      "Id": 181021,
+      "Name": "Pay a visit to the Wounded Captain",
+      "Description": "The First Mate trusts you, and grows careless with their keys."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 235975,
+        "Name": "A gathering of silver in the storeroom",
+        "Description": "This room is blocked by a thick spine at waist level. The spine is purple-black, but the crew have been working at it with planes, grinding away a silvery powder. The powder is collected on mats and sieved into bottles. \"Our export,\" the First Mate explains. \"It goes to Station III. But that is not what we've come for.\"\r\n\r\nThe First Mate touches the spine, and for a time their spirit is absent. Then, from one of their few patches of unmarked skin, they grow a needle-shaped protrusion and snap it free. \"A memento of what I saw when my mind was with Aigul.\""
+      },
+      "Id": 181064,
+      "Name": "Observe the First Mate in research",
+      "Description": "The <i>Kettle</i> was a research vessel. Now, the First Mate sometimes engages in 'research' on the fluke spines that pierce the ship."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 235976,
+        "Name": "A blasted land",
+        "Description": "You try to release the blemmigan, by airlock, onto the spiny surface of Aigul.\r\n\r\nIts determination is fierce and it tries gamely to climb down a spine. Almost at once it begins to shrivel and shrink in on itself, its shroomy flesh blackening and then coming away in ragged strips. It cannot take hold in this waste-space."
+      },
+      "Id": 181065,
+      "Name": "Introduce a blemmigan to Aigul",
+      "Description": "Wouldn't the spikes of Aigul look friendlier with a bit of mushroom foliage?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 236109,
+        "Name": "Presentation with a flourish",
+        "Description": "The First Mate accepts it with gratitude and consumes it, their eyes slipping gratefully shut. The two of you have become equals.\r\n\r\nAfterwards, they say: \"You do not ask me about the Captain. Someone must ask about his wound, or he will never be healed.\""
+      },
+      "Id": 181163,
+      "Name": "Share the Brother's regret with the First Mate",
+      "Description": "They are curious. Sharing the spine would relinquish one means of delivering the regret to the Sister, but there are other ways."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240935,
+        "Name": "Here you go",
+        "Description": "Here here"
+      },
+      "Id": 184360,
+      "Name": "Roll only a new SAY",
+      "Description": "MORE SAY"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240936,
+        "Name": "Secrets and Healing",
+        "Description": "You tell your story: how you made the descent, how you found what you were looking for, how you could not harvest it after all.\r\n\r\nThey smile. \"I've never shown such restraint myself. Aigul has too strong a hold on me.\" \r\n\r\nThen, when you think the conversation has closed, the First Mate adds, \"You do not ask me about the Captain. Someone must ask about his wound, or he will never be healed.\""
+      },
+      "Id": 184361,
+      "Name": "Tell the First Mate of your experiences",
+      "Description": "You did not bring back the Brother's regret. Has the first mate ever returned without the thing they went to fetch? "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240994,
+        "Name": "Old needles",
+        "Description": "There are glass jars, stoppered with wax, where the First Mate keeps yet more Needles, labelled in writing that is too faded to read. This business of growing and collecting the Needles has been going on for a very long time, it appears."
+      },
+      "Id": 184409,
+      "Name": "Explore the supply rooms",
+      "Description": "There are storerooms where no inventory has been taken."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240995,
+        "Name": "Crewmates abandoned",
+        "Description": "The man is grim and short-spoken. The First Mate takes him below. Attendants set his hand on the bare face of Aigul. He closes his eyes. In time, he whimpers. Now and then he sings snatches of a Drownie tune.\r\n\r\nHe refuses to take a rest, afterwards, but gets back into his Zubmarine and floats off. The First Mate descends to the engine room."
+      },
+      "Id": 184410,
+      "Name": "Observe the First Mate with a Pilgrim",
+      "Description": "The postulant's Zubmarine has come straight from Dahut."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240997,
+        "Name": "They've all been here",
+        "Description": "They tell you stories that happened to them, and then stories that happened to their ship-mates, and finally stories that happened to the ship-mates of ship-mates. Those people most likely never existed.\r\n\r\n\"...and the giant face came down from the ceiling of the Unterzee, and Visage kissed it,\" concludes the Tomb Colonist, thunking a tankard on the table.\r\n\r\n\"When I heard that tale last, it wasn't a giant face,\" says the pungent old woman.\r\n\r\nBut everyone falls silent when the First Mate comes in, fresh-spiked, looking haggard."
+      },
+      "Id": 184411,
+      "Name": "Drink with the crew",
+      "Description": "Conversation and cheer, that's what's needed."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 241021,
+        "Name": "Long ones here, short ones there",
+        "Description": "Some are iridescent, some deep black. The First Mate remembers each of them: when it was grown, how long ago, what regret it captures. "
+      },
+      "Id": 184434,
+      "Name": "Help sort needles",
+      "Description": "There are so many, in different sizes and shapes and colours."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 241024,
+        "Name": "Barely comes upstairs",
+        "Description": "The Tomb Colonist and the fierce old woman fill you in about how things have been here. The First Mate barely ever comes upstairs. The Captain's body has been given to the Zee, but things are just as bad as before, or maybe even worse. Now and then someone comes to give a regret to Aigul, and the First Mate makes it into needles right away. Do you want some? By all means! Collect them! Take them away!"
+      },
+      "Id": 184437,
+      "Name": "A funereal atmosphere",
+      "Description": "The mood within the <i>Fortas Kettle</i> is morose."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 241025,
+        "Name": "Drink and Dine",
+        "Description": "You are welcome at the <i>Fortas Kettle</i>'s table. The First Mate and the Captain sit side by side, and no one rushes off to change bandages. Now and then a pilgrim comes to visit the face of Aigul, but the First Mate does not collect the regret afterward.\r\n\r\n\"One day it might be time for us to travel on,\" says the Captain. \"Now that I'm healed. We'd leave the <i>Kettle</i> where it is, of course.\""
+      },
+      "Id": 184438,
+      "Name": "A honeymoon atmosphere",
+      "Description": "The <i>Kettle</i> is exceptionally cheerful."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 241029,
+        "Name": "There are ways to reach her",
+        "Description": "She said she'd wait for you at Hunter's Keep. She will want some kind of proof of her brother's regret - your words alone will not do. You could go there directly and give whatever message you think best. Or you could send her a dream by way of Irem; you've heard they make dreams there. Or perhaps there is a way by the Isle of Cats, not that that would be an easy or sensible method."
+      },
+      "Id": 184441,
+      "Name": "Ponder how best to deliver your message to the Imperious Sister",
+      "Description": "She should know what you have decided."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 241041,
+        "Name": "Song",
+        "Description": "They protest: to live in mourning is the only response to a miserable world.  (We are dear to them.) \r\n\r\nYou explain: their pity helps no one.  And is it worth the fresh lance in the Captain's thigh, each evening? Isn't it clear how he is wounded? (We have helped them not to understand. It is our gift.)\r\n\r\nWhen this is not enough to move them, you sing a song learned at Dahut: a song about grief and joy, about the expanse of both, about the irrelevance of an individual drop in that Zee. (We have not heard this song before. We do not admire it.)\r\n\r\nSobbing, the First Mate leaves you and descends to the Captain's chambers. They remain there a long time and do not go to the Engine Room. Days later both emerge: the Captain on crutches, but walking, and with the First Mate close behind."
+      },
+      "Id": 184447,
+      "Name": "Convince the First Mate to stop harvesting Aigul using Song and Knowledge",
+      "Description": "Perhaps a sense of balance will redress things."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245087,
+        "Name": "Crossed arms",
+        "Description": "The Cladery Heir takes the First Mate aside. She is brisk. Visiting the sorrows of Aigul is an indulgence. The Captain is freshly wounded whenever the First Mate embraces a new sorrow. Can they not see this? Do they not understand?\r\n\r\nWhile she speaks, she is sharpening a blade. The First Mate watches but does not forbid her the operation.\r\n\r\nAfterwards both Captain and First Mate keep to their beds, recovering from their assorted wounds. But they do recover. On the third evening, the Captain is able to hobble up to the galley to dine with the crew."
+      },
+      "Id": 187082,
+      "Name": "Have the Cladery Heir remove the First Mate's unhealthy need for Aigul",
+      "Description": "(We hate her! Take her away!)"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258194,
+        "Name": "A release",
+        "Description": "You press the needle to your palm. There is a drop of blood. A jolt of pain. The needle grows. For the first time since leaving Nook, you can feel the pressure of your own blood straining against your skin. Intolerable! Hot! Too hot! Bursting in the air!\r\n\r\n(A fantasy. A future. We will taste this.)\r\n\r\nThe pressure under your skin seeps away like the slow deflating of a balloon. It leaves a hole in your mind, already folding in on itself and becoming impossible to remember."
+      },
+      "Id": 192646,
+      "Name": "Sacrifice a memory of Nook",
+      "Description": "Freedom sits heavily on your shoulders. [This will reduce your Taste of Freedom quality by 5. You will be able to spend less time in Nook each visit, but will gain less Terror upon leaving.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 235911,
+        "Name": "You put your argument",
+        "Description": "Is the harvest worth the fresh lance in the Captain's thigh, each evening? Isn't it clear that he is wounded whenever the First Mate takes a new spine? (We have helped them not to understand. It is our little gift.)\r\n\r\nThe First Mate's scars redden. \"I have been selfish,\" they say. \"You are right to point it out.\"\r\n\r\nThen they lock the Captain's quarters, and they forbid anyone to take him solacefruit broth. They go down to the Engine Room, and return covered in a dozen spines. Then the crew retrieves the Captain's body, wrapped in a bloody sheet."
+      },
+      "Id": 181022,
+      "Name": "Convince the First Mate to stop harvesting Aigul",
+      "Description": "(We will not let them go easily!)"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258843,
+        "Name": "No luck",
+        "Description": "He has not. At least you can cross this port off your list. On to the next. [Check your journal to be reminded of where Lytton might be.]"
+      },
+      "Id": 193052,
+      "Name": "Search for the Fierce Philanthropist's husband",
+      "Description": "Has passed through here?"
+    }
+  ]
+}

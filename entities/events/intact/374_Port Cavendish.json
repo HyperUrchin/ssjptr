@@ -1,0 +1,187 @@
+{
+  "Id": 168435,
+  "Name": "Port Cavendish",
+  "Description": "A scatter of yellow-lit honey-dens and brightly painted alehouses. To the south-east rises the stone tower of Cavendish Abbey, its ramparts hung with crimson-and-gold banners. There are zailors from all across the Neath hauling cargo, dicing and brawling good-naturedly on the docks. \r\n\r\nThe air carries the sound of zee-shanties sung with more enthusiasm than skill, and the smell of roses edged with brimstone.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 168436,
+        "Name": "Roses and kings",
+        "Description": "You spend half a day observing the docks and note an astonishing number and variety of ships. Was that a Khanate trimaran nestled beside a vessel from the Iron Republic? The dockhands complain loudly that they have never been busier. The Catties talk ceaselessly and carelessly about smuggling and piracy, but even the most hardened zailors lower their voices when they mention 'the King'. They go even quieter when they talk about the Rose Garden. You make careful notes; perhaps the Admiralty will understand what they mean, even if you don't."
+      },
+      "Id": 138988,
+      "Name": "Compile a Port Report",
+      "Description": "Though the Isle seems, at present, beyond the reach of the Admiralty's laws, that does not mean that the Admiralty lacks interest in their activities."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168589,
+        "Name": "",
+        "Description": "You hand over the coins and she tips you a sharp smile before waving you to the nearest alehouse. The entire process is straightforwardly corrupt, and pleasingly efficient."
+      },
+      "Id": 139091,
+      "Name": "A Piratical Welcome",
+      "Description": "\"Welcome to the Isle of Cats,\" the Wide-Eyed Dockmaster says brightly. \"Would you like to bribe me not to write down your details in this nice official ledger?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169542,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 139670,
+      "Name": "The Honeyed Tongue",
+      "Description": "It is both brothel and honey-den, run by someone the Catties refer to as the King's Claw."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169543,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 139671,
+      "Name": "Cavendish Abbey",
+      "Description": "The crimson-clad Melliferous Sisters patrol its ramparts, and tend their hives of lamplighter bees."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169589,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 139704,
+      "Name": "A Walk in the Rose Garden",
+      "Description": "What use is a key, if you don't open things with it?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169598,
+        "Name": "",
+        "Description": "The Melliferous Sister seems reluctant to sell the honey to you, until you show her your silver Key to the Cage Gardens. \"You are an intimate of the Pirate-King!\" she exclaims. \"Well, why didn't you say so in the first place?\""
+      },
+      "Id": 139709,
+      "Name": "Buy a shipment of red honey",
+      "Description": "You could sell it for a profit elsewhere. If you were inclined to take your chances with the Revenue Men."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 177171,
+        "Name": "Life and light",
+        "Description": "\"The Sun orders time, do you see? Down here we can only touch time with our fingers. The devils know that. In Irem - In Irem - \"\r\n\r\nHis eyes well with tears. Abruptly he turns and plunges into the crowd. You're left with the crate."
+      },
+      "Id": 144373,
+      "Name": "A Gift of Glass",
+      "Description": "An emaciated man in lion-coloured robes clutches your sleeve. \"Please,\" he says. \"I'm damned. I can't touch the truth. Take this.\" He points to an unpromising-looking crate, sitting beside a bollard."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182367,
+        "Name": "Gone in an instant",
+        "Description": "The blemmigan disappears into the crowd, darting between legs in a violet flash. Pirates shriek, harlots curse. \r\n\r\nAn hour later, you see it perched atop an alehouse roof, tentacles awave, slurringly extemporising an impudent villanelle. A small crowd of locals is cheering."
+      },
+      "Id": 147560,
+      "Name": "Put a blemmigan ashore",
+      "Description": "What will they make of it? What will it make of them?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 224528,
+        "Name": "Caught in the middle",
+        "Description": "King Leopold examines the small jeweled bird with care and a measure of delight. \"I do not want to know how you came by this. Should anyone ask, you did not. We shall return it to the owner, yes. Such fine craftsmanship. A true one-of-a-kind creation.\"\r\n\r\nHe cradles it for a moment, and snaps off the head. \"Deliver this to the Widow,\" he orders, throwing it to his least fortunate smuggler. \"We have unfavourable deals to renegotiate.\""
+      },
+      "Id": 173932,
+      "Name": "A delivery for Mr Sacks",
+      "Description": "The Pirate-King will have contacts with the Gracious Widow."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234995,
+        "Name": "An uncomfortable procedure",
+        "Description": "You must lie on a bed in the semi-darkness, eyelids propped open and reflexes drug-dulled. Then the bees are admitted. Soon a scout has found you and is dancing out the address of your eyeballs. Now, concentrate! It would be unfortunate if you were to communicate the wrong memory through the bees! You must dwell on the Sensitive Brother's guilt about burning the papers, his lie to his superiors, his determination never to tell anyone. Meanwhile the feet of bees prickle across your eyes.\r\n\r\nBut when it is over you have a stoppered glass of red liquid, prepared for delivery at Hunter's Keep."
+      },
+      "Id": 180463,
+      "Name": "Have red honey made of the Sensitive Brother's Regret",
+      "Description": "It will let you convey his secret to his sister in a form she may find palatable."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 244666,
+        "Name": "",
+        "Description": "They fall silent as you approach, and reach for their knives. You put your hands up. You've just come from those waters, you say, and there is something they ought to know.\r\n\r\nBy the time you've finished speaking, the smugglers have not only away their knives, they've started reaching for their purses. \"A good bit of luck that you caught us,\" one says. \"If I ever find the muggins what near sent us to our deaths, I'm going to bash 'is ____ing teeth in.\""
+      },
+      "Id": 186782,
+      "Name": "Save the smugglers from Wrack",
+      "Description": "A small crowd of smugglers whisper beneath a garland of roses. \"She said a taste of this fish could rouse a parson's passions! We'll make a killing in London!\" The rest agree to chart a course over Wrack."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259426,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 193440,
+      "Name": "Ambition: Discuss the Well-Travelled Notary's memories",
+      "Description": "Your quest to has led you here. You need to know what the Notary knew - about Nidah, about the Presbyterate, about the secret of immortality."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259427,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 193441,
+      "Name": "Ambition: Discuss the Well-Travelled Notary's memories",
+      "Description": "Your quest to has led you here. You need to know what the Notary knew - about Nidah, about the Presbyterate, about the secret of immortality."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260485,
+        "Name": "",
+        "Description": "You broach the subject with delicacy. There is a light in Isery's eyes that you would not describe as 'reassuring'."
+      },
+      "Id": 194261,
+      "Name": "Invite Isery to join the seven Against Nidah",
+      "Description": "Given Lorenzo's misfortune, you find yourselves in need of a new Guide."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260486,
+        "Name": "",
+        "Description": "You broach the subject with delicacy. There is a light in Isery's eyes that you would not describe as 'reassuring'."
+      },
+      "Id": 194262,
+      "Name": "Invite Isery to join the seven Against Nidah",
+      "Description": "Given Lorenzo's misfortune, you find yourselves in need of a new Guide."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260634,
+        "Name": "Isery, Cat's Chiefest Claw",
+        "Description": "The reports are all the same: Isery manages the Honeyed Tongue, a den of exceedingly select and debased pleasures. You'll have to win their favour if you're to taste the honey."
+      },
+      "Id": 194366,
+      "Name": "Ambition: Where can you taste red honey?",
+      "Description": "The Salt-Scarred Navigator said he tasted memories of a failed expedition against an immortal city. Where is the one who gave it to him?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 177174,
+        "Name": "Smoke and mirrors",
+        "Description": "In back-rooms and cellars, in tangles behind warehouses, you make careful arrangements. The deal is only to take place at second hand: your intermediary will meet theirs. Unfortunately, their intermediary palms off yours with an empty crate, not the original Mirrorcatch Box. You're five hundred Echoes richer, but you'll need another box if you're to do this run again."
+      },
+      "Id": 144375,
+      "Name": "Sell Sunlight",
+      "Description": "Sunlight! that most dangerous of pleasures. Here in Port Cavendish, there's an appetite for dangerous pleasures. But will you be able to negotiate with the sippers of sunlight?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180251,
+        "Name": "\"No luck.\"",
+        "Description": "\"But, oh dear me, do you know someone picked my pocket?\" She chuckles happily. \"I never noticed a thing! Fingers like spider-hatchlings.\"\r\n\r\nShe rolls a coin between her fingers. \"So I tracked him down and congratulated him. And bought him a drink. And one thing led to another. And now he's asleep upstairs at the Rose and Tiger, and I'm down here with his purse. Would you like some money? It's so much fun, money.\" (You begin to realise how drunk she must be.)\r\n\r\n\"Anyway, no luck. But we'll find her. I can find <i>anyone</i>.\" She tries, and fails, to snap her fingers."
+      },
+      "Id": 146189,
+      "Name": "Help Maybe's Daughter search for her mother",
+      "Description": "\"She comes here, I know. She's always been fond of cats. Well, my father was something of a cat. And a very noble one, at that.\""
+    }
+  ]
+}

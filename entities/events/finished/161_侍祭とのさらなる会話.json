@@ -1,0 +1,57 @@
+{
+  "Id": 148992,
+  "Name": "侍祭とのさらなる会話@{K}Further conversation with the acolyte",
+  "Description": "建物の片隅で会話は続けられた。積み重なった空の棺が間に合わせの調度品になっており、不思議と居心地がいい。\r\n\r\n「あなたはどうでしょう？」彼女は尋ねる。「誰にも話さないよう苦労して内心に留めている秘密はありますか？」@{K}The conversation is taking place in a corner of the building, on makeshift furniture fashioned out of emptied coffins. It feels strangely homey. \r\n\r\n\"What about you?\" she asks. \"Is there any secret you struggle not to tell anyone?\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 148993,
+        "Name": "首を横に振る@{K}You shake your head",
+        "Description": "語るほどの話がないと言えば侍祭は失望するのではないかと思ったが、予想に反して彼女はあなたの答えに喜んでいるようだった。ここで過ごすうちに十分なほど暗い秘密と不穏な仄めかしを耳にしているからかもしれない。@{K}You might have expected her to be disappointed that there's no story, but if anything she looks pleased. Perhaps she has enough dark pasts and sinister allusions around here."
+      },
+      "Id": 127754,
+      "Name": "本心から否定する@{K}Say no, and mean it",
+      "Description": "あなたは清廉潔白な心の持ち主だ。@{K}Your conscience is clear."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148994,
+        "Name": "秘密には嘘が付き物@{K}Secrets require lies",
+        "Description": "あなたは一言で否定した。侍祭は疑うかのように顔をしかめたが、はっきりと疑念を口に出すこともなかった。\r\n\r\nやせ細った男が一人、黒い粒の入った箱を運び出すためにやって来た。彼女は腰を上げてその男と話し始める。彼女があなたの元に戻ってくるまでしばらくかかった。@{K}You issue a simple denial. She frowns as though she doesn't believe you, but she doesn't challenge you either.\r\n\r\nA gaunt man comes to take away the crates of dark pellets, and she gets up to speak with him. It's some time before she comes back to you."
+      },
+      "Id": 127755,
+      "Name": "秘密などないと偽る@{K}Say no dishonestly",
+      "Description": "彼女が知る必要のあるような事は何もない。@{K}There's nothing she needs to hear."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148995,
+        "Name": "一瞬の沈黙@{K}A moment in silence",
+        "Description": "それを認めるのは思ったよりも骨の折れる事だった。あなたは詳しくは語らず、彼女も無理に語らせようとはしなかった。\r\n\r\n「結局のところもしその秘密がある程度以上のものであれば、私はいずれ知ることになるのですからね」彼女の瞳が眼鏡の縁越しにきらめいた。@{K}$Aft -> 後部$The admission is harder than you might have expected. You don't go into detail, and she doesn't press you for further explanations.\r\n\r\n\"After all, if it's bad enough, I'll find out in the end,\" she says, her eyes glittering sideways at you through her goggles."
+      },
+      "Id": 127756,
+      "Name": "秘密があることを認める@{K}Admit that you do have certain secrets",
+      "Description": "秘密の無い者などいるだろうか？@{K}Who doesn't?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148997,
+        "Name": "全てを吐き出す@{K}Holding nothing back",
+        "Description": "彼女はあなたが身の毛のよだつような細部まで秘密を語るのに礼儀正しく耳を傾けた。あなたは砕け散った歯と料理のコツやらなにやら全てについて語った。\r\n\r\n「そのような話でしたら以前にも聞いたことがあります」彼女は最後まで聞き終わると言った。「あなたはそういった秘密を私に語る最初の一人ではなく、最後の一人でもないでしょう」@{K}She listens politely as you relate the entire tale in all its gruesome detail. Shattered teeth and cooking tips and all.\r\n\r\n\"I've heard of such things before,\" she says at the end. \"You're not the first and won't be the last.\""
+      },
+      "Id": 127758,
+      "Name": "恐ろしい秘密をありのままに伝える@{K}Tell the whole horrible truth",
+      "Description": "彼女は興味を持つかもしれない。@{K}Perhaps it will interest her."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149010,
+        "Name": "少しばかり露骨すぎた@{K}A bit flat",
+        "Description": "滑り出しは順調だった。奇妙な状況の下に産まれた兄弟、発狂した助産婦、そして両親があなたを赤ん坊の部屋に決して立ち入らせようとしなかったこと。廊下に並べられたアヘンチンキの瓶。どのような力がかかっても壊れないよう特別に作られたネズミ製の赤ん坊用遊具。\r\n\r\nしかしどこかで――おそらく触手が登場したあたりで――あなたは聞き手の信頼を失ってしまった。\r\n\r\n侍祭は少し腹を立てて顔を背けてしまった。「真実を話したくないのであれば、そう仰ってください」@{K}Your story starts out well: a sibling born under mysterious circumstances, the midwife going mad, your parents keeping you out of the baby's room. Laudanum bottles accumulating in the hallway. Specially commissioned rat-fashioned baby toys designed not to break under any amount of stress.\r\n\r\nBut at some point, perhaps during the portion about the tentacles, you lose the confidence of your listener.\r\n\r\nThe Austere Acolyte gives a little huff and turns away. \"If you didn't want to tell me the truth, you could have just said so.\""
+      },
+      "Id": 127767,
+      "Name": "恐ろしいが魅力的な秘密をでっちあげる@{K}Invent something pleasingly awful to tell her",
+      "Description": "信じてくれるかもしれないだろう？@{K}Who knows, perhaps she'll believe you."
+    }
+  ]
+}

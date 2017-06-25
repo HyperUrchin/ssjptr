@@ -1,0 +1,17 @@
+{
+  "Id": 242621,
+  "Name": "Low Barnet",
+  "Description": "[Coming soon!]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 242622,
+        "Name": "",
+        "Description": "[Nothing to see here!]"
+      },
+      "Id": 185495,
+      "Name": "Lorem Ipsum",
+      "Description": "[This Content is not yet live.]"
+    }
+  ]
+}

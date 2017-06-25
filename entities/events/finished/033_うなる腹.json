@@ -1,0 +1,27 @@
+{
+  "Id": 141728,
+  "Name": "うなる腹@{M}Growling stomachs",
+  "Description": "船の中にいる鼠が目に見えて減ってきた。船倉に物資が入っていないからかもしれない。船員が何かを食料として代替しているからなのかもしれない。@{M}There are fewer rats around the ship, lately. Perhaps it's because your hold is empty of supplies. Perhaps it's because your crew is turning to alternate sources of nutrition.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 141729,
+        "Name": "明確な指示@{M}Clear instructions",
+        "Description": "貴方の指示は明確だった。一人の生意気そうな者が'害虫'に悲哀蜘蛛は含まれるのかと問うた。彼はもう同じ質問をしないだろう。@{M}$[Ss]orrow-spider -> 悲哀蜘蛛$Your orders are explicit. One cheeky soul asks if 'vermin' includes sorrow-spiders. He won't ask twice."
+      },
+      "Id": 122985,
+      "Name": "害虫を食す事を禁じる@{M}Forbid the consumption of vermin",
+      "Description": "皆腹ペコなのだ。しかし自制を崩壊させる訳にはいかない。@{M}Everyone is hungry. But you can't let discipline slip."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144592,
+        "Name": "鼠のシチュー?@{M}Rat stew?",
+        "Description": "自分は食べるつもりは毛頭ない。幹部たちは威厳を保ち続けなければならないのだ。すきっ歯の銃士が最近気に入っている、鼠の骨のネックレスについては、見なかった事にした。@{M}You don't partake yourself, obviously. The officer class must maintain its dignity. You ignore the necklace of rat-bones that the Gap-Toothed Gunner now sports."
+      },
+      "Id": 124889,
+      "Name": "害虫を食料にする@{M}Turn a blind eye to the consumption of vermin",
+      "Description": "威厳は損なわれるかもしれないが、船員は飢餓の一歩手前に来ている。@{M}Discipline might slip, but your crew are close to starvation."
+    }
+  ]
+}

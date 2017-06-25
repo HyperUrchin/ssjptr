@@ -1,0 +1,37 @@
+{
+  "Id": 150379,
+  "Name": "ささやかな提案@{I}ささやかな申し込み@{M}A little proposal",
+  "Description": "「こんばんは、[q:Addressed As]。今宵は何と素晴らしい夜でしょうなあ。私がそう言うことを、あなたがお気になさらないと良いのですが。そして私の印象としましては、あなたは親切な方でいらっしゃるので、まったくお気にはなさらないでしょうなあ」<br/><br/>「そしてあなたはとてもとても親切な方でいらっしゃるので、ちょっとマウント・パーマーストンまで遠出して、いくつか荷物を届けていただけませんか、とお願いしても、おそらくお気にはなさらないのではないでしょうか。もしもあなたがそのあたりまで足を伸ばされるのであれば？もちろん、このちょっとしたご迷惑を埋め合わせるだけのものを、チアリー・マンが支払ってくださいますよ」[船倉に少なくとも1の空きが必要です。]@{I}「ご機嫌如何かな、[q:Addressed As]。お前に差し支えが無ければ今日は俺にとって素晴らしい夜だし、俺の見立てではお前はとても親切な人間だ。きっとお前は何も気にしないだろう。」\r\n\r\n「そしてお前は親切な気立てだから、もしお前がたまたまその海域に居た場合、パルマストン山に立ち寄って幾つかの荷物を届ける事もきっと気にしないだろう?無論、上機嫌のあの方はこのささやかな不便をかけた御礼として経費を全て持つぐらいの事はする。」\r\n[依頼を請けるには船倉に最低1つの貨物スペースが必要です。]@{M}$(Mt?.|Mount) Palmerston -> マウント・パーマーストン$\"Good evening, [q:Addressed As]. And what a marvellous evening it is if you don't mind my saying so and given it is my impression you are an obliging sort, I imagine you will not mind at all.\"\r\n\r\n\"And since you are so very obliging, perhaps you wouldn't mind making a little detour via Mount Palmerston with a few articles of cargo, if you happen to be in the area? The Cheery Man will of course cover your expenses for this trifling inconvenience.\" [You will need at least one unit of space in your hold.]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 150380,
+        "Name": "",
+        "Description": "「あなたが親切にもこのささやかな贈り物をマウント・パーマーストンの友人たちに送り届けていただけたなら、私どもにもその知らせが入りますので。あなたの支出は、お帰りになったときに埋め合わせましょう。ボム・ヴォイージ。なに、生まれつきか、でなければ好みでフランス人をやっていたおばが、こういう言い方を好んだものでして」[通常、マウント・パーマーストンはロンドンから北東のどこかにあります。]@{I}「この小さな贈物を、パルマストン山に居る俺らの友人に届けてくれれば、俺らが事情を知っている事を彼らは理解するだろう。そしてお前が此処に戻ってきたら、経費を支払ってやろう。\"ボン・ボヤージュ\"、フランスで生まれたという叔母が好んで無意識に使っていた言葉だ。」\r\n[パルマストン山は大体ロンドンの北東の方角の何処かに在ります。]@{M}$(Mt?.|Mount) Palmerston -> マウント・パーマーストン$\"If you would be so kind to deliver this little gift to our friends in Mt Palmerston then they will see we gets to hear about it. And when you come back we'll cover your expenses. Bomb vwoyi-arge, as my aunt who was French by birth if not by inclination used to like to say.\" [Mt Palmerston is generally somewhere north-east of London.]"
+      },
+      "Id": 128571,
+      "Name": "依頼を受け入れる@{I}依頼を受諾する@{M}Accept the commission",
+      "Description": "　何しろ、ちょっとした迷惑でしかないのだから。[船倉に少なくとも1の空きが必要です。]@{I}そこに在るのは結局、ちょっとした面倒さだけ。@{M}It is only, after all, a trifling inconvenience. [You will need at least one unit of space in your hold.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 150381,
+        "Name": "「あなたには大いに失望させられたと言わざるを得ません」@{I}\"お前は私を失望させたと言わねばならぬ。\"@{M}\"I have to say you've made me very sad.\"",
+        "Description": "　盲目の粗暴者は傷跡のある指を振った。「もちろん理解しておりますよ。Unterzeeは船乗りなら誰もが知る通り、非常に危険な場所ですからね。思いもしない結末に用心していなければなりません」彼は重々しく頷いた。「思いもしない結末に」彼は繰り返した。「良いでしょう、では良き一日を」@{I}隻眼の大男は傷だらけの指を揺り動かした。「勿論、俺は理解する。ウンタージーは危険極まりない場所で、全ての船乗りは、そして無論お前も、思いもかけぬ結末に対して常に用心を怠ってはならぬという事を。」彼はそう言いながら、面白くない様子で頷いた。「...思いもかけぬ結末に。」彼はそう繰り返す。「まぁいい。さらばだ。」@{M}$Blind Bruiser -> 盲目の粗暴者$The Blind Bruiser wags a scarred finger. \"Of course though I do understand. The Unterzee is terrible dangerous as every zailor knows and you needs to be careful of unforeseen consequences.\" He nods ponderously. \"Unforeseen consequences,\" he repeats. \"Well, good day to you.\""
+      },
+      "Id": 128572,
+      "Name": "依頼を拒否する@{I}依頼を拒否する@{M}Refuse the commission",
+      "Description": "　船倉は一杯だし、あなたの抱えている事情は込み入っている。マウント・パーマーストンは遠すぎるし、そこは悪魔に満ちている。@{I}船倉は満杯だ。貴方の仕事は山積みだ。パルマストン山は遠く、悪魔の巣窟になっている。@{M}$(Mt?.|Mount) Palmerston -> マウント・パーマーストン$Your hold is full. Your affairs are complex. Mt Palmerston is far away and full of devils."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 231053,
+        "Name": "",
+        "Description": "「ええ、この仕事はあなたにとても相応しいと思いますよ。本当に、ぴったりですとも」@{I}\"Yes, I think you would be very suitable for this task. Very suitable indeed.\""
+      },
+      "Id": 177884,
+      "Name": "あなたにできそうな別の仕事があるかどうか尋ねる@{I}Ask if there is another task you could perform instead",
+      "Description": "「ためらっていらっしゃいますねえ。マウント・パーマーストンは耐えられない場所だとお考えでしょうか。だとしても、それは誰にも責められないことです。良いでしょう。もしもあなたに元気がおありなら、あなたに手伝っていただけそうな別の仕事がありますよ……」@{I}$(Mt?.|Mount) Palmerston -> マウント・パーマーストン$\"I see you are hesitant. Perhaps you find Mount Palmerston unbearable, and who could blame you. Well. If you have the vinegar, there is another matter which you might be able to assist me with...\""
+    }
+  ]
+}

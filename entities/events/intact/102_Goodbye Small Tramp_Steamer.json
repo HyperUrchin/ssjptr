@@ -1,0 +1,37 @@
+{
+  "Id": 144324,
+  "Name": "Goodbye Small Tramp-Steamer",
+  "Description": "...",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 144327,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 124708,
+      "Name": "Scuttle her",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 155764,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 132008,
+      "Name": "Record any Observations",
+      "Description": "If you've gathered enough, you may learn something..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144325,
+        "Name": "Here it is.",
+        "Description": "Not much at present."
+      },
+      "Id": 124707,
+      "Name": "Send home with a prize crew",
+      "Description": ""
+    }
+  ]
+}

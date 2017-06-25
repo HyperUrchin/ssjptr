@@ -1,0 +1,37 @@
+{
+  "Id": 245283,
+  "Name": "Running out of Oxygen! ",
+  "Description": "The crew complain of headaches. The air is heavy and stultifying. Conversations slur. [You are almost out of oxygen! How will you eke out your last dregs?]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 245284,
+        "Name": "",
+        "Description": "Your crew upend boxes and tear open bags. They prod behind panels and heat up pipework. Your bo'sun points to the last unopened crate. \"There - I'm sure I heard an eek! They're in there!\" The crate is ejected through the airlock. That'll show them. [Find oxygen. Quickly.]"
+      },
+      "Id": 187189,
+      "Name": "Evict stowaways",
+      "Description": "Rats may have gotten into the hold. Tiny oxygen-stealing thieves! Into the deep with them. [This will cost you a crate of Supplies.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245378,
+        "Name": "",
+        "Description": "The clang of the airlock reverberates through the ship. His watery struggle is brief. [Find oxygen. Quickly.]"
+      },
+      "Id": 187243,
+      "Name": "Jettison a wounded crewman",
+      "Description": "His laboured breathing is doubling his intake. [You will lose a crewman.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245379,
+        "Name": "",
+        "Description": "You ignore the hammering on your door. Your bed is sodden with sweat. Is your breathing quickening? Check - a hand to your chest. It rises and falls with your heartbeat, which is to say, quickly. Take only shallow breaths. \r\n\r\nYour crew are back at the door. One of them is sobbing. [Find oxygen. Quickly.]"
+      },
+      "Id": 187244,
+      "Name": "Retreat to your cabin ",
+      "Description": "Lie still. Rest. Preserve what little air you have. The crew must manage until you wake. [This will increase your Terror.]"
+    }
+  ]
+}

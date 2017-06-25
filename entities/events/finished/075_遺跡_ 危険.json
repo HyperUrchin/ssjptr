@@ -1,0 +1,27 @@
+{
+  "Id": 143957,
+  "Name": "遺跡: 危険@{M}Ruins: Dangerous",
+  "Description": "",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 143958,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 124467,
+      "Name": "いいえ@{M}No",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143959,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 124468,
+      "Name": "はい@{M}Yes",
+      "Description": ""
+    }
+  ]
+}

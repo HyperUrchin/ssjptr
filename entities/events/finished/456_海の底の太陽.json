@@ -1,0 +1,27 @@
+{
+  "Id": 175583,
+  "Name": "海の底の太陽@{I}The Sun beneath the Sea",
+  "Description": "　我らは東へと船を進め、島々は背後に取り残される。zeeは大波によって荒れる。偽星の光は褪せ、Neathの天蓋は見えなくなる。空気に新しい匂いが交じる。香辛料のような匂いと、マツのような匂い。@{I}$false-star -> 偽星$We will sail East, and the islands will fall behind. The zee will be troubled by greater waves. The false-stars will pale, until the Neath-roof grows invisible above. New scents will prickle the air: something like spice and something like pine.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 175584,
+        "Name": "言葉の死@{I}The death of words",
+        "Description": "　太陽が海の底に横たわる、その場所は静かだ。エンジンは音もなく、骨折って進んでいく。言葉が我らの口から流れ出し、蒸気へと変わる。沈黙は耐え難く、下方から昇る、黄金の光による凝視もまた手に負えない。我らには引き返すより他に道はない。アイレムへ。世界が現実へと変わる場所へと。@{I}$Irem -> アイレム$It will be silent, that place where the sun lies beneath the sea. The engines will toil without sound. Words will issue from our mouths and puff into vapours. The silence will be too much, and the scrutiny of the golden light rising beneath us. We will have no choice to turn back, to Irem, where the world becomes real."
+      },
+      "Id": 143361,
+      "Name": "下方の光@{I}The light below",
+      "Description": "　はじめは、海は窓の向こうの夜と同じ色をしている。しかし、その後、我らは下方に光を見る。水の色が変わる。雨に濡れた粘土板から、最も暗い色をした翡翠へ、そして深く濃厚な緑へと。それは真新しいエメラルドの緑。想起された川の緑。@{I}At first, the sea will still be the colour of night behind glass, but then we'll see the light below. The colour of the water will change: rain-wet slate, then darkest jade, then deep rich green. Green as fresh emeralds. Green as remembered rivers."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 175697,
+        "Name": "Saltの歌@{I}$Salt's Song -> Saltの歌$Salt's Song",
+        "Description": "　あなたの水夫たちは船べりに並んだ。皆黙り込んでいた。水夫長が歌を歌い始めるまでは。@{I}Your zailors line the rail. All are silent, until the bo'sun raises his voice in song."
+      },
+      "Id": 143439,
+      "Name": "再び、下方の光@{I}Once again, the light below",
+      "Description": "　今一度、窓の向こうの夜の色からはじまって、雨に濡れた粘土板へ、最も暗い色をした翡翠へ、そして深く濃厚な緑へ。エメラルドの緑へ。川の緑へと。@{I}Once again, the colour of night behind glass, then rain-wet slate, then darkest jade, then deep rich green. Emerald-green, river-green."
+    }
+  ]
+}

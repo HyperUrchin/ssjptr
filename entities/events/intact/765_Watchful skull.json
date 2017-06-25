@@ -1,0 +1,27 @@
+{
+  "Id": 243616,
+  "Name": "Watchful skull",
+  "Description": "A vast skull, grotesquely elongated, glowers up at you. Its eye sockets  gleam with sharp blue light. Its jaw is long and strong as a ship's bow. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243619,
+        "Name": "",
+        "Description": "There is relieved laughter when you give the order to depart. The uncharted depths are infinitely preferable to poking about the monstrous skulls of the long dead. "
+      },
+      "Id": 186096,
+      "Name": "Don't interfere",
+      "Description": "It is, after all, a vast skull with an eery light in its eyes. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243617,
+        "Name": "",
+        "Description": "You press the glass of your suit against the bone. Your helmet fills with stabbing light. You remember. Door on door on door on black stone. You walk along dark battlements, knives clasped to your breast. The hunger grows. Not all those who process will be returning. \r\n\r\nYou are pulled from the bone by the firm hands of your navigator. "
+      },
+      "Id": 186095,
+      "Name": "Look into the skull's eye socket ",
+      "Description": "Violant luminescence shines within. "
+    }
+  ]
+}

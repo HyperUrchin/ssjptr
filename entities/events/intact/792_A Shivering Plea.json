@@ -1,0 +1,37 @@
+{
+  "Id": 245567,
+  "Name": "A Shivering Plea",
+  "Description": "The child's face spasms erratically. She seems to be struggling to focus. \"You have a zubmarine? I've got to get back. All this air. It's killing me.\" Her voice is cracked and broken, but oddly resonant.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 245568,
+        "Name": "\"I'm not meant to be here.\"",
+        "Description": "\"I was born in Nook. Born Salted.\" Apparently this should explain everything, for she stumbles to a halt and stares into your eyes imploringly. \"You'll take me back? I can't give you anything. But I can't stay.\""
+      },
+      "Id": 187350,
+      "Name": "What is she talking about?",
+      "Description": "The girl's skin is the clammy-ash colour of one long-soaked in zeewater. But she's no Drownie. What is her problem?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245569,
+        "Name": "\"I'm twelve!\"",
+        "Description": "\"We grow slower than you bubble-mouths. Something to do with the pressure. I'm just small! I'm not stupid!\" \r\n\r\nShe collapses on the short walk to your ship. Her diminutive size proves useful - she's as easy to carry as a sack of flour. \r\n\r\nYour navigator gives up his bunk for the Nook-child, who speaks to you between bouts of unconsciousness. \"My cousin vanished. They said it was the bubble-mouths. So I came asking. This posh lady was so interested I thought she'd help. But she went off without me. Not like you. You'll take me home.\""
+      },
+      "Id": 187351,
+      "Name": "Agree to assist",
+      "Description": "She's clearly desperate. And she's only aged - what? - eight?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245570,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 187352,
+      "Name": "Refuse, for now",
+      "Description": "She's too young to be on her own. Which means her guardian must be around here somewhere. She doesn't have to become your business."
+    }
+  ]
+}

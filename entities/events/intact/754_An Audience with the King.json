@@ -1,0 +1,167 @@
+{
+  "Id": 243326,
+  "Name": "An Audience with the King",
+  "Description": "The Fair King sits taller in his throne as you enter. He cannot help but smile. \"Welcome back.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243327,
+        "Name": "",
+        "Description": "\"Yes, your ships came. Promise them riches, promise them knowledge, promise them pretty toys - it's all the same! They come, and our stores replenish; the tether has new hulls to grow on. Take this gift of scrap to the priestess - look for me in the other times.\" "
+      },
+      "Id": 185900,
+      "Name": "Have any of the ships you sent come in?",
+      "Description": "You think you recognised a few of the new wrecks as you entered the city."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243393,
+        "Name": "",
+        "Description": "The Fair King slowly bites his lip. \"Like that?\" He wheels closer to you, and touches your wrist. He smiles enigmatically. \"Here we are again.\" The King kisses your hand, and squeezes it gently."
+      },
+      "Id": 185947,
+      "Name": "Recall a vision of Bone",
+      "Description": "The Vibrant Lady bit her lip, just as the King does. Didn't she? Didn't he?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243394,
+        "Name": "",
+        "Description": "\"Very well. Today I shall allow it. For a short while.\""
+      },
+      "Id": 185948,
+      "Name": "Approach the mirror",
+      "Description": "At the rear of his chamber, the Fair King keeps a mirror made of ice. It holds a reflection - neither yours nor his, but that of a narrow, bespectacled gentleman. The King allows no one to approach it - but perhaps he will make an exception for you."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243395,
+        "Name": "",
+        "Description": "The Fair King considers your gift, shivering behind its glass. \"Agreed,\" he whispers, tapping the surface and startling the thing within. \r\n\r\nIt takes a dozen hardy wreckers to free the slab of ice. The reflection within it - the thin man - watches the work with curiosity. \"Calved from Frostfound,\" the King says. \"Keep it cold.\""
+      },
+      "Id": 185949,
+      "Name": "Buy the King's mirror",
+      "Description": "It is one of the King's most treasured possessions. It will be expensive."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243396,
+        "Name": "",
+        "Description": "The Fair King considers your countenance for a long while. \"Very well.\"\r\n\r\nIt takes a dozen hardy wreckers to free the slab of ice. The reflection within it - the thin man - watches the work with curiosity. \"Calved from Frostfound,\" the King says. \"Keep it cold.\""
+      },
+      "Id": 185950,
+      "Name": "Ask the King to gift you the mirror",
+      "Description": "He will give you anything you ask for."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243403,
+        "Name": "",
+        "Description": "The Fair King slaps the side of his throne, and seems to rise in indignation. \"No, you absolutely may not have my mirror. No one may. It is one of our greatest treasures.\"\r\n\r\nHis expression softens after a moment, though, and he settles back into his throne. \"Not unless you brought me something more wonderful, of course.\"  "
+      },
+      "Id": 185956,
+      "Name": "Ambition: Can you have the mirror?",
+      "Description": "You recognise the reflection inside from Mariam's statues. This is Bourdain, the Seven's Propagandist."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243407,
+        "Name": "",
+        "Description": "\"You've found me, haven't you? In many times and places. But today - what are we?\""
+      },
+      "Id": 185959,
+      "Name": "The Fair King's Question",
+      "Description": "He looks at you, searchingly. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 244643,
+        "Name": "",
+        "Description": "The Fair King laughs, and assumes an air of faux solemnity. \"If you request it of me, my dear fellow, I oblige you,\" he says, puffing his cheeks, before bursting into a fit of laughter. \"How was that?\" \r\n\r\nWas it the Gentleman performing the King's gesture? Or the King performing the Gentleman's?"
+      },
+      "Id": 186769,
+      "Name": "Recall a vision of Cups",
+      "Description": "You've seen the Fair King puff his cheeks before, just like the Jocular Gentleman. Would he do it again for you?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 244644,
+        "Name": "",
+        "Description": "The Fair King's cheeks flare red. His eyebrows scrunch in confusion. \"What, like this?\" he asks, rubbing his neck - four fingers thoughtfully stroking the neck, the thumb rolling gently between the collar bones. Just like the Sharp Driver. \r\n\r\nThe Fair King watches you, and nods slowly. He wheels closer and looks at your feet. \"That's tether for you. Sometimes people find each other.\" "
+      },
+      "Id": 186770,
+      "Name": "Recall a vision of Knives",
+      "Description": "The Fair King has touched his neck before in the same manner that the Sharp Driver touched hers. Can he do it again for you?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245590,
+        "Name": "",
+        "Description": "He hands you the box. You flick open the latches; nestled within the velvet lining is the piece of scintillack you first gave him long ago. \"I would like you to bury this in Dahut. There is a rite we have in Wrack. If you find one you're tethered to - and they give you such a gift - it must be buried in Dahut so it may grow. Will you do this for me?\""
+      },
+      "Id": 187367,
+      "Name": "The Fair King's Request",
+      "Description": "There is a small, wooden box in his lap."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245593,
+        "Name": "",
+        "Description": "He reaches his arms around your neck, and you bear him from his throne to a nest of pillows. There, he is exuberant and ceaseless. In his King's voice, he urges you to further exertions. In a gentler voice, he voices his delight. Your ragged breath mingles with his. In the dark, his mouth tastes the sweat on your neck. The dark? Yes, the lantern has burned out. But you're not done. Not for a long time, yet."
+      },
+      "Id": 187370,
+      "Name": "Spend a night with your lover",
+      "Description": "His grin is wide."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245594,
+        "Name": "",
+        "Description": "You down ancient brandies. Rum sloshes out of your mugs as you make your toasts. The finest absinth from the Surface winks in the light! Between your drinks and each course brought out by the King's chef, you laugh, you confide, you tell jokes, and share fears, and complain about how long the curtain takes to rise - but never without good humour, as the King brushes aside his snowy hair, fallen in his face.  "
+      },
+      "Id": 187371,
+      "Name": "Drink with an old friend",
+      "Description": "The wreckers have salvaged the drink cabinets of many affluent captains. You will be well taken care of tonight. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245595,
+        "Name": "",
+        "Description": "Together, you and the King study the maps on his wall. His wreckers have heard interesting reports out of Mutton Island - it's being closely eyed by several of the Neath's powers. Murgatroyd may be expanding his reach into the Khanate too, if he can. But of course he will. He's in the hinterlands. The Fair King flashes you a look; you're always caught off-guard by that blueness. "
+      },
+      "Id": 187372,
+      "Name": "Discuss business",
+      "Description": "Work together, and the zee will be yours."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245596,
+        "Name": "",
+        "Description": "Wrack is all the King has known. He was born here after his mother's ship sank. The old Queen, childless, took him in as her own. She thought she'd found a daughter, he laughs. \r\n\r\nHe was tutored in matters of poetry, mathematics, engineering, biology, oceanography, and jurisprudence. Some of Wrack's citizens were educated before they sank. And, of course, you can learn much from tether-visions.\r\n\r\nThe King smiles, and smooths his shirt. \"A straightforward affair. The Queen died, and I have ruled since. What about you? What brought you here?\""
+      },
+      "Id": 187373,
+      "Name": "Get to know the King",
+      "Description": "Perhaps one day, you can revisit the question of who you are."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245685,
+        "Name": "",
+        "Description": "\"Yes, they came. Here's your share.\" He takes a bundle perched atop a treatise on engineering, and sets it on the edge of the table. He returns to his planning without a word more."
+      },
+      "Id": 187436,
+      "Name": "Have any of the ships you sent come in?",
+      "Description": "The Fair King hardly looks up from his charts."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246095,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 187728,
+      "Name": "Part from the Fair King",
+      "Description": "You will return."
+    }
+  ]
+}

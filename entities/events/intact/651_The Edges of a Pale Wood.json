@@ -1,0 +1,77 @@
+{
+  "Id": 230606,
+  "Name": "The Edges of a Pale Wood",
+  "Description": "You dreamed. Amber light pushed between the branches of bare, white trees. Sand crunched underfoot - no; not sand. It was too white; too mealy. Bones, as brittle as summer bracken, jutted from the earth. The air smelled like a mausoleum.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 230607,
+        "Name": "A journey",
+        "Description": "As you crossed a dusty stream, a flock of birds waddled from the water. Their necks were as sinuous as swans', but their bodies were as fat and flippered as a penguin. They clattered their long, narrow beaks at you. \r\n\r\n\"These are the edges of the wood,\" the Poet explained. \"We will keep to them. The things in its heart are older, and never learned to fear us.\" \r\n\r\nThe amber sun never set on your journey, though you grew tired, and rested, and travelled again. At last, a black cliff rose. At the foot of the cliff was a cave, and before the cave a fire burned. Its flames were white and wan. The Poet hurried forward, to join the people sat around it."
+      },
+      "Id": 177604,
+      "Name": "Follow the Once-Great Poet",
+      "Description": "\"This way, this way!\" He scampered along a thorny trail, his weariness left in the waking world."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 230608,
+        "Name": "You took a seat",
+        "Description": "You traded tales of London. His were from the days before it fell: of markets on the frozen river and odd, outlawed street names. Yours are from after: the flutter of bats about the chimneys, the flickering glow of the Bazaar-sigils, the schemes of the Masters.\r\n\r\nAfterward, he strokes his beginnings of a beard. \"Times change, eh? There's no going back, of course. But there's sometimes new beginnings.\" He gives you a smile of crooked teeth."
+      },
+      "Id": 177605,
+      "Name": "You spoke to a Smiling Young Man",
+      "Description": "His speech was earthy, and his knuckles scarred. He patted the white log he was sitting on. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 230609,
+        "Name": "A passing acquaintance",
+        "Description": "The Promising Poet shook your hand, and enquired politely about your affairs. Soon, though, he fell back into conversation with his Once-Great companion, and you were forgotten.You left them involved in a lofty arguments about metre."
+      },
+      "Id": 177606,
+      "Name": "You spoke to a Promising Poet",
+      "Description": "He and your guide were talking in low, fierce voices. You felt like an intruder."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 231097,
+        "Name": "Poor company",
+        "Description": "She would not tell you her name, or where she came from, or why she was there. \"Those aren't the answers you want,\" she snapped. \"You won't want this one, either, but I'm giving it to you: what's done is done. Make do.\""
+      },
+      "Id": 177918,
+      "Name": "You spoke to a Lovestruck Princess",
+      "Description": "Her dress was of archaic Khanate design. She wore a leather strap around her wrist, like a falconer. Her eyes were fixed wistfully on the fire."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 231098,
+        "Name": "He had little to say",
+        "Description": "\"I must ask you to forgive me,\" he said, brusquely. \"I'm almost finished with the aria. In the meantime I make poor company and get little sleep. But every dream has its price, doesn't it?\" You left him to his work."
+      },
+      "Id": 177919,
+      "Name": "You spoke to a Distracted Composer",
+      "Description": "Occasionally, he would sing snatches of lyric in a resonant baritone. Something about candles and bells."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 231100,
+        "Name": "The cure",
+        "Description": "\"Enter the cave,\" said the Smiling Young Man. \"Find the pool,\" said the Distracted Composer. \"Drink,\" said the Lovestruck Princess.\r\n\r\nYou did as they bid. The cave was black as a vicar's cassock. The pool, when you stumbled into it, was cold as old teeth. Cupping your hands, you drank. The water was bitter, washing away the sweetness of the honey. \r\n\r\nYou wake, with a start, in the Once-Great Poet's chambers. Your mouth is full. Snatching an empty wine bottle from beside the chair, you spit a measure of silvery liquid into it. The Cheery Man's medicine. Back to London!"
+      },
+      "Id": 177921,
+      "Name": "You asked them to restore the Cheery Man",
+      "Description": "They must have known a way to renew him. [This will end your dream, and return you to the zee.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 231156,
+        "Name": "The simpler solution",
+        "Description": "The Smiling Young Man lent you his knife. The sapling's wood was white from bark to core. You sat by the fire and carved, cutting a shaft and a handle. You sanded it smooth with handfuls of the chalky dust that carpeted the forest.\r\n\r\nWhen you stood to leave, your guide did not. \"I mean to stay a while. You can find your own way back?\" You left him in the company of the Promising Poet, laughing over a poor rhyme.\r\n\r\nYou awake in his lodgings, your hands empty. No cane. But the image of it is clear in your mind, and you know a shop in London where you might buy one just like it."
+      },
+      "Id": 177952,
+      "Name": "You cut down a white sapling",
+      "Description": "And fashioned a cane. [This will end your dream, and return you to the zee.]"
+    }
+  ]
+}

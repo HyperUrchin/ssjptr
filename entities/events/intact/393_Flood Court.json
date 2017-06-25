@@ -1,0 +1,107 @@
+{
+  "Id": 168639,
+  "Name": "Flood Court",
+  "Description": "Moon Moth stands to one side, as your escort and tour guide.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 168640,
+        "Name": "Depth per day",
+        "Description": "From a corner Moon Moth picks up a graduated stick. He shows you how a person standing at the end of the room may dip the stick into the water and use it to measure the water level at a pre-selected point, and how the measurements are compared with measurements written on a calendar. If the water level does not match the calendrical position, an assembly of pipes and drains is used to adjust it.\r\n\r\n\"It used to be,\" says the Moth, \"that the water rose and fell of its own accord, and the People Before wrote down what height it reached. Now the water is still, but thanks to their actions, we can replicate the rise and fall so as still to be pleasing to the God of Flood.\"\r\n\r\nIt completes this explanation with a half-body bow towards the statue of the ram-deity."
+      },
+      "Id": 139128,
+      "Name": "Ask about the purpose of this room",
+      "Description": "It doesn't really look as though it's good for anything."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168641,
+        "Name": "Croak.",
+        "Description": "You exclaim at how much you admire this room and its excellent pool. Your words are, as always, amplified into a croak. Other masks turn towards you (crocodile, lotus blossom, crescent moon) but no one speaks. You have garnered a suitable degree of disdain.\r\n\r\nMoon Moth quietly applauds your performance of froghood."
+      },
+      "Id": 139129,
+      "Name": "Show oafish enthusiasm for this wonderful indoor pool",
+      "Description": "Frogs like pools, right?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168642,
+        "Name": "Not your role",
+        "Description": "You make a grab for the jug and come away with a tiny fragment of paint-daubed clay. \r\n\r\nMoon Moth looks scandalized that you would attempt something so locust-like. It hurries you back outside, chittering to itself. Perhaps theft requires a different mask here. At any rate, you're not allowed to keep this one."
+      },
+      "Id": 139130,
+      "Name": "Try to steal the statue's jug",
+      "Description": "It looks ancient, and consequently valuable."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168643,
+        "Name": "Not your role",
+        "Description": "Moon Moth looks scandalized that you would attempt something so bat-like. It hurries you back outside, chittering to itself. Perhaps you needed a different mask?\r\n\r\nAt any rate, you're not allowed to keep this one. It's back to the dock for you."
+      },
+      "Id": 139131,
+      "Name": "Spy on the other occupants",
+      "Description": "Close watch is what they need."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168644,
+        "Name": "Have you seen the Cumaean Canal?",
+        "Description": "Moon Moth watches inscrutably while you talk about other bodies of water that have impressed you more than this one. Deeper, clearer, colder, more densely populated with fish.\r\n\r\nOther denizens move away from you, and towards one another. Your social function is well performed."
+      },
+      "Id": 139132,
+      "Name": "Tastelessly compare this room to other bodies of water",
+      "Description": "Frogs know water."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169395,
+        "Name": "Not for you",
+        "Description": "Moon Moth looks around while you speak. Several of the other masks have heard you. \"What are you, a Bat?\"\r\n\r\nIt seems this is not the sort of thing that Locusts are supposed to say, supposed to think. Your role is to desire and acquire. Not to notice. Not to exclaim. Not to feel joy or admiration or dread.\r\n\r\nSeveral hours later, you are back at the docks, half-naked. Your locust mask is gone, and with it the strange glimmering tint that it cast on the whole world. You'll remember that."
+      },
+      "Id": 139572,
+      "Name": "Say how much you like the pool",
+      "Description": "The way the surface of the water is so still even a few inches from where it's being poured in. Impressive. Strange."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169400,
+        "Name": "More of a Locust activity",
+        "Description": "You don't get far. The Moon-Moth determines that you're up to some obscure act of counterfeiting or coinage-related espionage.\r\n\r\nIt expects you to explore. Then it expects you to be punished for exploring. That is what happens to Bats.\r\n\r\nYou end up scarred and maskless, back at the dock."
+      },
+      "Id": 139575,
+      "Name": "Try to collect coins from the bottom of the pool",
+      "Description": "There are a large number of them."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169401,
+        "Name": "Infiltrator",
+        "Description": "Moon Moth looks at you without surprise. (Of course without surprise. No such expression can register on a mask. But without the small gestures of agitation that accompany a mistake on your part.) \r\n\r\nIt expects you to ask questions. Then it expects you to be punished for asking. That is what happens to Bats.\r\n\r\nYou end up scarred and maskless, back at the dock."
+      },
+      "Id": 139576,
+      "Name": "Say how much you like the pool",
+      "Description": "The way the surface of the water is so still even a few inches from where it's being poured in. Impressive. Strange."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169392,
+        "Name": "Take?",
+        "Description": "You wade into the water and begin gathering coins. People watch you from behind their masks. Moon Moth looks uncertain: you're playing the role of locust flawlessly, but these are sacred.\r\n\r\nYou hesitate for just a moment, your will wavering, and that's enough. The others rush you and drive you out. But you are not made to leave the city, at any rate."
+      },
+      "Id": 139570,
+      "Name": "Gather coin from the Flood Court floor",
+      "Description": "Apparently people use it as a wishing well."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169394,
+        "Name": "Heights and depths",
+        "Description": "The sigils are tiny pictures, and the tiny pictures yield a meaning if you stare long enough. You are catching something, something about an ancient river and floods that were, when you are interrupted.\r\n\r\nThe Moon Moth does not like you staring at the fragments. Does not like it, and accuses you of being a Bat in disguise, and casts you out.\r\n\r\nYou'll have to come back later, in a new mask."
+      },
+      "Id": 139571,
+      "Name": "Study the calendars drawn on the walls",
+      "Description": "You don't recognise the language, but the repeating pattern of days is unmistakeable."
+    }
+  ]
+}

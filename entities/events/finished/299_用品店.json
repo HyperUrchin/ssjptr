@@ -1,0 +1,17 @@
+{
+  "Id": 154478,
+  "Name": "用品店@{M}Outfitter",
+  "Description": "",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 154479,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 131174,
+      "Name": "最新の装備@{M}Highest-end equipment",
+      "Description": "エスカトローグ級に全ての付属品つき。@{M}Eschatologue with all the trimmings."
+    }
+  ]
+}

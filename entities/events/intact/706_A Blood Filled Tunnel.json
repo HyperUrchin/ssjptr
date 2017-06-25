@@ -1,0 +1,37 @@
+{
+  "Id": 240004,
+  "Name": "A Blood Filled Tunnel",
+  "Description": "The Deductress chases the Hempen Man - Arnold - deeper into the red, raw tunnel of the wound. The water is thickening with blood.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 240067,
+        "Name": "",
+        "Description": "\"These people live in the mouth of a monster!\" Arnold shouts to the Deductress. \"Their protector one minute, destroyer the next - just like you and me! But I can end it! I've located the creature's brain. If I send a shock down the nerve-cord, I can kill it!\"\r\n\r\n\"You're not yourself, Arnold!\" the Deductress cries. \"It's your turn to play <i>villain</i>. You're doing it wrong!\" \r\n\r\nArnold replies with a scream. The tunnel walls are glowing with a crawling, crimson light. He switches direction and flees towards you; the tunnel seals behind him. The Maw flesh is healing, knitting itself together. You have to get out."
+      },
+      "Id": 183786,
+      "Name": "Try to catch Arnold",
+      "Description": "His mask has slipped from his head. He is revealed as a clammy, balding man."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240663,
+        "Name": "",
+        "Description": "\"He's not himself!\" the Deductress cries. \"It's his turn to play <i>villain</i>. He's doing it wrong!\" \r\n\r\n\"These people live in the mouth of a monster!\" Arnold is shouting from deeper in the tunnel. \"Their protector one minute, destroyer the next - just like you and me! But I can end it! I've located the creature's brain. If I send a shock down the nerve-cord, I can kill it!\"\r\n\r\nHe laughs, and then he is screaming instead. The tunnel walls are glowing with a crawling, crimson light. He switches direction and flees towards you; the tunnel seals behind him. The Maw flesh is healing, knitting itself together. You have to get out."
+      },
+      "Id": 184182,
+      "Name": "Try to talk sense into the Deductress",
+      "Description": "Her hair has escaped its bun; it whips wildly in the current. Her teeth are bared."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 247145,
+        "Name": "",
+        "Description": "\"These people live in the mouth of a monster!\" Arnold shouts to the Deductress. \"Their protector one minute, destroyer the next - just like you and me! But I can end it! I've located the creature's brain. If I send a shock down the nerve-cord, I can kill it!\"\r\n\r\n\"You're not yourself, Arnold!\" the Deductress cries. \"It's your turn to play <i>villain</i>. You're doing it wrong!\" \r\n\r\nArnold replies with a scream. The tunnel walls are glowing with a crawling, crimson light. He switches direction and flees towards you; the tunnel seals behind him. The Maw flesh is healing, knitting itself together. You have to get out."
+      },
+      "Id": 188550,
+      "Name": "Follow, and observe",
+      "Description": "They're a fairly horrible pair. But it might be worth finding out what they're up to."
+    }
+  ]
+}

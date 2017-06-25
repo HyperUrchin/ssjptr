@@ -1,0 +1,87 @@
+{
+  "Id": 168891,
+  "Name": "Geometer's House",
+  "Description": "Now you have been invited to his home, at the time customarily appointed for him to receive those who are not his equal in rank, yet not so far beneath him as to deserve to be ignored. What ceremonial gift will you bring?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 168892,
+        "Name": "For the cat",
+        "Description": "The rats are accepted but immediately passed on to the household cat - a sleek black satisfied creature, in its own small mask of filigree gold. \r\n\r\nAwkwardly, this leaves you with no other gift for the Geometer himself. You have no choice to depart early, before someone thinks to have you re-masked in a more embarrassing part."
+      },
+      "Id": 139258,
+      "Name": "Bring a string of rats",
+      "Description": "Cobras like to eat rodents, surely?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168893,
+        "Name": "Feeling blue",
+        "Description": "He gives them to a servant with orders that they be crushed, and the powder made to pigment, and the pigment used for painting. It is uncertain whether this is a deadly insult.\r\n\r\nYou aren't thrown out of the house, at any rate."
+      },
+      "Id": 139259,
+      "Name": "Bring a necklet of lapis beads",
+      "Description": "If they do not suit him, they may suit a wife of his; if they don't suit her, he can use them for an offering."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168894,
+        "Name": "Mixed results",
+        "Description": "He appears to be pleased by this gift, but it takes him aback, as well. Several times he remarks that this sort of merchandise is something he would expect to be brought to the island by a Bat.\r\n\r\nIt requires a great deal of chittering and wing-folding to persuade him of your Moth nature."
+      },
+      "Id": 139260,
+      "Name": "Bring a poem concerning snakes, copied on a new scroll",
+      "Description": "800 lines on the scaly denizens of the snake pit."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168895,
+        "Name": "...no.",
+        "Description": "Flung away into a corner! Broken! He is disdainful. What use for a comb to a man whose head is covered in bare scales day in and out? \r\n\r\nFrom a joker, for instance baboon mask, it would have been a very good witticism, but from you, no! Wholly out of place!"
+      },
+      "Id": 139261,
+      "Name": "Bring a comb made of bone",
+      "Description": "Perhaps he grows hair beneath his mask, which covers his whole head."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168898,
+        "Name": "Hunger set aside",
+        "Description": "The gift is suited to him personally: one can see this by the way that he hesitates regretfully before he performs the rejection that etiquette requires. It was thoughtful, but it is not the gift of Moth to Cobra. Therefore, wrong."
+      },
+      "Id": 139263,
+      "Name": "Bring fresh candles",
+      "Description": "You have heard that he likes candles."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168899,
+        "Name": "Triumph",
+        "Description": "He accepts; he approves. The cakes are placed on the front table of his receiving room so that the other guests may observe and appreciate the correctness of your gesture. \r\n\r\nYou are permitted to stand to one side and to watch the others arrive, but there is no one whose gift supplants yours in the place of honor. Not even the gift of a preserved lark, frozen in gelatin with a bubble of song rising from its open beak.\r\n\r\nWhen you depart the Chief Geometer's house, he presses on you a prediction: that one day when you have most need, the earth will swallow you in one place and spit you out in another. It is, of course, only a ritual saying."
+      },
+      "Id": 139264,
+      "Name": "Bring two honey cakes",
+      "Description": "Isn't that the proper gift for lulling snakes? "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168900,
+        "Name": "No.",
+        "Description": "You arrive empty-handed. Already piled on his table are the wrappings of other gifts. They reprove you. You have erred. You have no choice to depart early, before someone thinks to have you re-masked in a more embarrassing part."
+      },
+      "Id": 139265,
+      "Name": "Bring nothing",
+      "Description": "It is impertinent for one of lesser rank to presume to show charity to a superior."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168902,
+        "Name": "Nothing lost but nothing gained",
+        "Description": "You sit at home, in a quake. When he sends a message to reprove you for your non-attendance, is this also part of the dance?"
+      },
+      "Id": 139267,
+      "Name": "Do not go",
+      "Description": "It is necessary for him to offer but incorrect for you to accept."
+    }
+  ]
+}

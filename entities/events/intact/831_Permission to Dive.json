@@ -1,0 +1,27 @@
+{
+  "Id": 255581,
+  "Name": "Permission to Dive",
+  "Description": "The Unsettled Salvager has requested a diving suit, so that she may descend and find Lady Black: a spirit understood to dwell in the abyssal deeps. You could grant her permission and a diving suit, and allow her to throw herself into that blackest black. Or perhaps you could bring her back to London, and commit her to the Royal Bethlehem Hotel.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 255582,
+        "Name": "To rise no more",
+        "Description": "You help the Salvager don the heavy diving suit. The two of you are alone on deck - your crew has refused to be present.  \r\n\r\nOnce dressed, the Salvager clanks over to the gap in the railing. She stares down into the black before turning to you. She holds her hand over her heart and leaps backward off the deck. A apocyanic spray bursts from the calm zee. \r\n\r\nExactly twenty one minutes later, the line goes taut. You draw up the line. But there is no one in the suit you draw up; only ancient axes and adzes, discoloured by salt, tied to the suit with strands of kelp."
+      },
+      "Id": 191506,
+      "Name": "Give your permission for the Unsettled Salvager to dive",
+      "Description": "It is what she wants."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260391,
+        "Name": "",
+        "Description": "She is persistent in her request. She cannot let go of the vision she had of the Lady. A madness has taken her: the only way to keep her safe would be to bring her to London, and commit her to the care of the Royal Bethlehem."
+      },
+      "Id": 194192,
+      "Name": "Refuse",
+      "Description": "It is dangerous to be too long underwater outside the protection of a zubmarine. After seven minutes, the fears sets in. After fourteen, the visions start. After twenty-one, there is no return."
+    }
+  ]
+}

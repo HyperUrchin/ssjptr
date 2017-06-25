@@ -1,0 +1,37 @@
+{
+  "Id": 242603,
+  "Name": "You have defeated a Lornest Fluke",
+  "Description": "The beast's spines quiver uncontrollably, before slowly curling in upon themselves, like the upturned limbs of a dying spider. A perverse keening finally fades into silence.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243435,
+        "Name": "Away ",
+        "Description": "Your crew stoke the boiler urgently. The whole zubmarine shudders as the engines fight momentum. Eventually, you are reversing from the location of the disintegrating fluke. The dark hides its carcass quickly, but there is a noise like the shattering of glass. It echoes around your ship's shell and does not stop for some time. "
+      },
+      "Id": 185977,
+      "Name": "Avoid the carcass entirely",
+      "Description": "Leave swiftly. At top speed. Nothing good can come of this. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 242604,
+        "Name": "An unpleasant spillage ",
+        "Description": "No sooner have you brought the clump of livid flesh and quivering spines on board, then it begins to liquefy. Beneath the needles, bloated organs extrude from bulges within the skin. They slip and slide to the floor. You cannot fathom how to piece together the creature's anatomy. All too soon, it is little more than a violet stain on your deck. Someone calls for a mop. "
+      },
+      "Id": 185485,
+      "Name": "Harvest a fluke-core ",
+      "Description": "Ignore the protestations of your crew."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243433,
+        "Name": "You refuse ",
+        "Description": "The fluke liquefies slowly but perceptibly, like a sand-castle washed away by successive tides. Its savage spines leak violant fluids into the zee. These too rot away before your eyes. A mournful keening emerges from the ruptured corpse. \r\n\r\nYou come to on the floor of the bridge. Someone has placed the charts to London on your chest. Home has been helpfully circled in bright red. "
+      },
+      "Id": 185976,
+      "Name": "Observe the Lornest Fluke's death. From a distance. ",
+      "Description": "Conduct a study without risking your crew."
+    }
+  ]
+}

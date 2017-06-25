@@ -1,0 +1,27 @@
+{
+  "Id": 152289,
+  "Name": "Permission to Dive",
+  "Description": "The Unsettled Salvager has requested a diving suit, so that she may descend and find Lady Black: a spirit understood to dwell in the abyssal deeps. You could grant her permission and a diving suit, and allow her to swim into that blackest black. Or perhaps you could bring her back to London, and commit her to the Royal Bethlehem Hotel.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 152290,
+        "Name": "Spirited away",
+        "Description": "You help the Salvager don the heavy diving suit. The two of you are alone in storage - your crew has refused to be present.  \r\n\r\nOnce dressed, the Salvager clanks into the airlock. She holds her hand over her heart as you seal the door. With the pull of a heavy lever, you release her into the abyss.\r\n\r\nYou watch her through a porthole. After seven minutes, she grows perfectly still. After fourteen minutes, the waters grow turbid, and she vanishes from sight. At exactly twenty one minutes, someone knocks on the airlock. You throw the lever to drain it, and rush to unseal the door. \r\n\r\nInside is an empty diving suit, tangled with kelp. Ancient axes and adzes, discoloured by salt, are caught in the strands. The Unsettled Salvager is never seen again."
+      },
+      "Id": 129793,
+      "Name": "Give your permission for the Unsettled Salvager to dive",
+      "Description": "It is what she wants."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260390,
+        "Name": "",
+        "Description": "She is persistent. She cannot let go of her vision of the Lady. The only way to protect her from herself would be to bring her to London, and commit her to the care of the Royal Bethlehem Hotel."
+      },
+      "Id": 194191,
+      "Name": "Refuse",
+      "Description": "It is dangerous to be too long underwater outside the protection of a zubmarine. After seven minutes, the fears sets in. After fourteen, the visions start. After twenty-one, there is no return."
+    }
+  ]
+}

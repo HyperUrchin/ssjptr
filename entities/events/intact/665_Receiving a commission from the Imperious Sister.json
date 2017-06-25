@@ -1,0 +1,27 @@
+{
+  "Id": 234983,
+  "Name": "Receiving a commission from the Imperious Sister",
+  "Description": "The woman is no longer exactly youthful, but she speaks passionately from under her veil. Perhaps she has studied heroines on the stage. \"I need help -- to be reconciled with my dear brother.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 234984,
+        "Name": "She has a brother who is dear to her, a sensitive soul, very reserved",
+        "Description": "\"He used to work for the Admiralty. Something happened to distress him there. When I asked him about it, he said that I had enough to worry about with my own concerns; my husband was ill at the time. But I could help him, if he would only permit me to know his troubles. For, you know,\" - she puts a hand on her heart - \"bearing one another's burdens is what makes us truly good.\"\r\n\r\nShe tells you that you'll need to go to Aigul, the City of Regrets; find her brother's regret; and return it to her. She will pay! Gladly!"
+      },
+      "Id": 180455,
+      "Name": "Listen to what she wants",
+      "Description": "She is very urgent to speak with you."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234985,
+        "Name": "You say no",
+        "Description": "She bites her lip. \"I am asking you - entreating you! - to help me discover the deepest sorrow of a troubled soul!\" \r\n\r\nOne of your crew barely manages to stuff his snicker into a handkerchief.\r\n\r\n\"Oh, very well!\" the Sister says, in quite a different tone of voice, and lowers her veil to cover her face again. \"Go along and deliver your mushroom cargo, or whatever it is you do!\""
+      },
+      "Id": 180456,
+      "Name": "Refuse the commission",
+      "Description": "It's not really your line."
+    }
+  ]
+}

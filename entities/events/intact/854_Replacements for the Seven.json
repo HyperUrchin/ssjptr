@@ -1,0 +1,47 @@
+{
+  "Id": 260410,
+  "Name": "Replacements for the Seven",
+  "Description": "\"Some of the Seven may be unable or unwilling to return,\" Mariam says, sadly. \"If that's the case, we'll need replacements. Bring me word of the wider Neath, and we can identify appropriate candidates.\" [If you discover some of the Seven are unsuitable to rejoin, you may trade Strategic Information to learn of alternate candidates.]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 260411,
+        "Name": "The Cat's Chiefest Claw",
+        "Description": "\"Poor Lorenzo. Not the ending I expected for him.\" She drifts into a reverie until you remind her of your business. \"Yes, yes. I know. I believe I've found a more than acceptable replacement. On...\" she scours the map, to refresh her memory. \"...the Isle of Cats! Isery, the Cat's Chiefest Claw. They are cunning, bold, and already at least somewhat informed on the matter of  Nidah.\""
+      },
+      "Id": 194208,
+      "Name": "A replacement for Lorenzo",
+      "Description": "He is beyond help. You will need another Guide."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260412,
+        "Name": "A Voracious Diplomat",
+        "Description": "She has been studying your information. \"In London, there resides a certain Voracious Diplomat. They have... complex loyalties. We'll need to watch them closely. But if Bourdain cannot be retrieved, perhaps this Diplomat will serve instead. Their situation is precarious. We can use that.\" [To find the Voracious Diplomat in London (if you haven't already) deliver Vital Intelligence to the Dark-Spectacled Admiral there.]"
+      },
+      "Id": 194209,
+      "Name": "A replacement for Bourdain",
+      "Description": "Is there someone else who could serve as Propagandist?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260413,
+        "Name": "",
+        "Description": "Mariam is in a condition of agitation. \"You'll think I've lost my mind. Well, I haven't! Not today. If Rosina is no longer with us, I think we should approach the Banded Prince.\" \r\n\r\nShe holds up her hand. \"Yes, I am aware that he is a tiger. But the tigers of the Carnelian Coast are erudite and fierce. Once, they were an esteemed kingdom of the Presbyterate. They remember much that would be useful to us. If your information is correct, the Prince resides in the Fungal Jungle beyond Port Carnelian.\""
+      },
+      "Id": 194210,
+      "Name": "A replacement for Rosina",
+      "Description": "Her condition has complicated matters. Can you find another Healer?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260416,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 194213,
+      "Name": "Discuss something else",
+      "Description": "You have what you need, for now."
+    }
+  ]
+}

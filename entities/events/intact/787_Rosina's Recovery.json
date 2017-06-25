@@ -1,0 +1,27 @@
+{
+  "Id": 245058,
+  "Name": "Rosina's Recovery",
+  "Description": "If you were hoping for praise, gratitude, and perhaps some thankful tears, they are not forthcoming. \"Bring my log book,\" Rosina tells her nurses. \"I need to review the records...\" She looks in your direction. \"Would you be able to replicate the treatment you gave me?\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 245059,
+        "Name": "You're frank",
+        "Description": "Her face falls. \"We'll have to do our best. Write down everything that happened here. Pulse count, daily ice usage, the choice of stimuli. Also the number of nurses and onlookers, the dimensions of the room, and the condition of my spleen. When I am stronger, I can replicate the effects elsewhere... experiment...\""
+      },
+      "Id": 187062,
+      "Name": "Admit that you wouldn't",
+      "Description": "It is really a matter of chance that this worked so well."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258497,
+        "Name": "Interruptions",
+        "Description": "You can never give enough information to satisfy her. Where did you get the words you used? Can you repeat them exactly? What about intonation and duration? No? What use are you, then? Don't you understand that there are other sufferers from this same disease? Don't you have any pity for them?"
+      },
+      "Id": 192844,
+      "Name": "Offer your services",
+      "Description": "If she would benefit from being taught the means of treatment, you would be more than happy. [This will be rewarding if you succeed, terrifying if you fail.]"
+    }
+  ]
+}

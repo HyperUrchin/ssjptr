@@ -1,0 +1,37 @@
+{
+  "Id": 176410,
+  "Name": "父の遺骨:死体譲渡人@{K}$Your Father's Bones: -> 父の遺骨:, Assigner of Corpse -> 死体譲渡人$Your Father's Bones: the Assigner of Corpses",
+  "Description": "死体譲渡人は何の仮面を着けているのだろう？@{K}$Assigner of Corpse -> 死体譲渡人$What mask does the Assigner of Corpses wear? ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 176411,
+        "Name": "重大な秘密@{K}A Vital Secret",
+        "Description": "死体譲渡人はあなたと話したくないようだったが、あなたも彼をこのままどこかへ行かせるつもりはなかった。あなたはここでただ立ち去るにはあまりに長く旅を続け多くの犠牲を払ってきたのだから。あなたは強情に彼を問いただした。彼の腕を取り、子としての責務を果たすことの重要性を訴えかける。会話はますます白熱していった。\r\n\r\nそしてとうとう、譲渡人は唐突にあなたを廃棄物の山の後ろに引きずり込み仮面を脱ぎ去った。「分かったよ！」彼は声を低めて唸った。（その息からはラムの匂いがする。）「俺だよ！俺は死んでない！あー、その、やあ。会えて嬉しい。分かったらとっととどっかに行ってくれ！」\r\n\r\nあなたを見返す顔は、時によって皺が刻まれワインで浮腫んではいるが、いつも鏡で見るあなたの顔に明らかによく似ていた。この男はあなたの父親だ。@{K}$Assigner of Corpse -> 死体譲渡人$The Assigner of Corpses is disinclined to speak with you, but you are similarly disinclined to let him go. You have gone too far and suffered too much to be put off. You insist. You place your hand on his arm. You invoke the importance of filial piety. The conversation becomes increasingly heated.\r\n\r\nAt last, quite suddenly, the Assigner drags you behind a midden and tears off his mask. \"All right!\" he hisses. (His breath is heavy with rum.) \"It's me! I'm not dead! And, er, hello. It's nice to meet you. Now please go away!\"\r\n\r\nThe face staring back at you - seamed by Time, bulbous with wine - is unmistakably like the one you see in the mirror. This is your father."
+      },
+      "Id": 143891,
+      "Name": "深紅の獅子面@{K}A Crimson Lion-Mask",
+      "Description": "ファザムキングはあなたに『暁色の猫』を探すように言った。あそこだ――あの撫で肩でシャベルを担いだ獅子の仮面の男、彼に違いない！@{K}$Fathomking -> ファザムキング$The Fathomking told you to look for the 'dawn-coloured cat'. Over there - that slope-shouldered fellow with the shovel, masked as a lion! It's him!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 177300,
+        "Name": "無表情な仮面@{K}The blankness of masks",
+        "Description": "鰐の仮面を着けた男が、朱鷺の仮面の死体を乗せた車輪のついた棺台を押している。彼が死体譲渡人だろうか？彼は首を横に振った。「この死体はファザムキングのところに行くんだ」彼が説明してくれる。「俺も今から砦に向かう……理由はファザムキングが知ってるはずだ」\r\n\r\n今の間は何かしらの意味が込められたものだったのだろうか？この島の人間は死体譲渡人とその仕事について語ろうとしないが、ファザムキングであれば何か知っているかもしれない。[この先に進むにはファザムキングの砦を探してください。]@{K}$Fathomking's Hold -> ファザムキングの砦, Assigner of Corpse -> 死体譲渡人, Fathomking -> ファザムキング$A man in a crocodile-mask trundles an ibis-masked corpse on a wheeled bier. Is this the Assigner of Corpses? He shakes his head. \"This corpse was assigned to the Fathomking,\" he explains. \"I go now to the Hold....The Fathomking knows why.\"\r\n\r\nWas that a meaningful pause? If no one here will speak to you of the Assigner and his Assignments, might the Fathomking know more? [Find the Fathomking's Hold to continue.]"
+      },
+      "Id": 144450,
+      "Name": "ヴィザージュの住人に訊ねる@{K}$Visage -> ヴィザージュ$Interrogate the Visagers",
+      "Description": "島民はそのことを話すのにあまり気が進まない様子で、蛙面の人物さえ口を噤んだ。彼の存在が不愉快であるのかあるいは話すことを禁じられているのか、それとも不都合な事なのか。しかし、聞き続ければ誰かは口を滑らせるだろう。@{K}$Visage -> ヴィザージュ$The Visagers seem reluctant to discuss the matter, even with Frog. It is distasteful, or forbidden, or inconvenient. But surely someone will let something slip."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 178715,
+        "Name": "",
+        "Description": "[この先に進むには、Zeeの中央か南方にあるファザムキングの砦を探してください。]@{K}$Fathomking's Hold -> ファザムキングの砦, Fathomking -> ファザムキング$[Find the Fathomking's Hold, somewhere in the south or central Unterzee, to continue.]"
+      },
+      "Id": 145315,
+      "Name": "海を渡り@{K}Across the zee",
+      "Description": "この島の人間は死体譲渡人とその仕事について語ろうとしないが、ファザムキングであれば何か知っているかもしれない。@{K}$Fathomking -> ファザムキング$If no one here will speak to you of the Assigner and his Assignments, might the Fathomking know more?"
+    }
+  ]
+}

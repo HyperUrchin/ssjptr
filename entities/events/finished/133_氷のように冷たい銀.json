@@ -1,0 +1,27 @@
+{
+  "Id": 147949,
+  "Name": "氷のように冷たい銀@{K}Ice cold silver",
+  "Description": "現在あなたは言うならば、手間を惜しもうとして失敗した証拠に囲まれている状況だ。しかし、他人の目から見れば空き巣に入ろうとした証拠のようにも見えるかもしれない。@{K}You're surrounded by the evidence of your attempted... well, attempted laziness, though it might look to other eyes like attempted larceny.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 148071,
+        "Name": "潔白を装う@{K}Not your mess",
+        "Description": "あなたは船員の一人を尖塔の建物に送り助けを求めた。彼らが人手を連れて戻る頃には、あなたと残りの船員の手によってすべての箱が倉庫から十分離れた場所へと移されていた。\r\n\r\n \r\nさらにあなたは不便な取引契約に対する苛立ちの表情をもっともらしく装ってみせた。当然、誰もあなたに非があると疑ったりしないだろう。@{K}You send one of your crew to the steepled building to ask for help. By the time they get back, you've shifted the boxes well away from the warehouse.\r\n\r\n \r\nYou've also assumed a very credible look of irritation at the inconvenience of the port arrangements. No question of you being in the wrong, surely."
+      },
+      "Id": 127090,
+      "Name": "改めて尖塔の建物に人を送る@{K}Send up to the steepled building after all",
+      "Description": "もし倉庫について問いただされたなら、他の誰かの仕業だと言うとしよう。@{K}If you're challenged about the warehouse, say someone else did it."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 147950,
+        "Name": "説得力に欠ける偽装@{K}Not very persuasive",
+        "Description": "あなたは壊れた箱を苦労して海に投げ込み、倉庫の扉を閉めた。しかし扉の錠前を掛けなおすことはできなかった。\r\n\r\nそれに加えて零れ落ちた銀色の液体は刃のように薄く鋭い形に固まってしまい、こそげ落とすことは不可能だ。その金属は地面の上で輝いている。@{K}You heave the broken box into the water and close the warehouse door again, but you can't get the lock to close. \r\n\r\nThe spilled silver liquid has hardened into forms as thin and cruel as blades. You can't pry it away. It lies there, shining."
+      },
+      "Id": 127033,
+      "Name": "証拠隠滅する@{K}Hide the evidence",
+      "Description": "誰も知る必要はない。@{K}No one needs to know."
+    }
+  ]
+}

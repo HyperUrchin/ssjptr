@@ -1,0 +1,37 @@
+{
+  "Id": 230499,
+  "Name": "クエーカーズ・ヘイヴン: 新しい体制の下で@{I}$Quaker's Haven -> クエーカーズ・ヘイヴン$Quaker's Haven: Under New Management",
+  "Description": "　流線型の船が港に何隻も停泊している。海岸には重砲が列をなしている。イーグル一門の蜂蜜のように黄色い旗が、家々の屋根から垂れ下がっている。マトン・アイランドは陥落した！@{I}$Eagle -> イーグル, Mutton Island -> マトン・アイランド$Sleek ships are docked the harbour. Installations of heavy artillery line the shore. The banners of the Eagle clan - yellow as honey - drape from each roof. Mutton Island has fallen!",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 230500,
+        "Name": "脅かす砲火@{I}Threatening fire",
+        "Description": "　浜には松明が焚かれ、分厚い砲身を持つ大砲を照らし出している。一発の銃声が響いて、銃弾が船首のすぐ隣に撃ち込まれた。着弾の衝撃で飛び散った水しぶきが、あなたの顔にかかった。あなたは歓迎されていない。@{I}Torches flare on the shore, illuminating thick-barrelled cannons.There is a crack, and a shot lands just off your prow. Water from the impact splashes your face. You are not welcome."
+      },
+      "Id": 177536,
+      "Name": "停泊を試みる@{I}Attempt to dock",
+      "Description": "　港は針金によって補強され、カーネイト人の兵士たちが配置されている。@{I}$Khaganian -> カーネイト人$The harbour is reinforced with wire and manned with Khaganian soldiers."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 230501,
+        "Name": "海岸の兵士@{I}Men on the shore",
+        "Description": "　あなたが救命ボートを降ろす準備をしている途中で、カーネイト人の見張り番が呼子を吹き鳴らした。その鋭い音は、まるで地上の鳥が獲物を見つけ出したかのようだった。兵士たちが洞窟まで降りていった。人々の悲鳴は、逆向きに全開でふかしているエンジンの轟音でもかき消すことはできなかった。@{I}$Khaganian -> カーネイト人, Surface -> 地上$As you're preparing to lower a lifeboat, a Khaganian lookout blows his whistle; it shrieks like a Surface bird sighting its prey. Troops descend on the cove. You can hear the screams over the thrum of your engine, roaring in full reverse."
+      },
+      "Id": 177537,
+      "Name": "避難民をシェファード・アイルズまで密航させる@{I}$Shepherd Isles -> シェファード・アイルズ$Smuggle refugees to the Shepherd Isles",
+      "Description": "　あなたの船が島の洞窟のそばを通りかかると、泥だらけの島民たちが中から姿を現した。彼らは飛び跳ね、ぼろ布を振った。@{I}As your vessel passes, muddy islanders emerge from one of the island's coves. They leap and wave rags."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 230503,
+        "Name": "見つかった！@{I}Spotted! ",
+        "Description": "　あなたは救命ボートを丘の斜面に近づけた。船を岩にくくりつけようとしていると、頭上で銃声が響いた。銃弾があなたの小さな船を貫き――水が浸水し始めた！そして更なる銃撃――漕ぐのだ！ああもうお願いだから――漕げ！@{I}Your little lifeboat draws up the the cliff-face. As you're mooring it to a rock, a shot rings out from above; a bullet pierces your little craft - water is coming in! Another shot - row! For God's sake - row!"
+      },
+      "Id": 177538,
+      "Name": "港湾報告書をまとめる@{I}$Port Report -> 港湾報告書$Gather a Port Report",
+      "Description": "　救命ボートを降ろし、比較的なだらかで滑りにくい崖まで漕いでいこう。捕まらないことを祈って。@{I}Lower the lifeboat, and row to one of the less slippery, less sheer cliffs. Pray you don't get caught."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Id": 171372,
+  "Name": "燦然たるドレッドノートを打ち倒した@{K}You've defeated a Glorious Dreadnought",
+  "Description": "この船はあなたのものだ！さて、これをどうしようか？@{K}The ship is yours! What will you do with her?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 171375,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 140736,
+      "Name": "Scuttle her",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 171376,
+        "Name": "",
+        "Description": "[何かが起こる！]@{K}[Something!]"
+      },
+      "Id": 140737,
+      "Name": "観察し全てを記録する@{K}Record any Observations",
+      "Description": "十分に知識を集めることが出来れば、何かを学べるかもしれない……@{K}If you've gathered　enough, you may learn something..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 171390,
+        "Name": "闇の中へ@{K}Into the darkness",
+        "Description": "あなたの戦利品が再び目撃されることはなかった。ヘプティチィアに飲み込まれたか、船員がお互いに食い合ったのか。あるいは彼らはあなたを裏切ってアイアン・リパブリックへ向かったのかもしれない。法の手の届かない場所へと。@{K}$Iron Republic -> アイアン・リパブリック$Your prize is never seen again. Perhaps a heptycheer devours your crew. Perhaps they devour each other. Perhaps they betray you and sail it to the Iron Republic, where laws cannot follow."
+      },
+      "Id": 140746,
+      "Name": "船員を乗せ家へ向かわせる@{K}Send home with a prize crew",
+      "Description": "20人もいれば最低限足りるだろう。トラブルが起こらない限りは。@{K}Twenty zailors should be enough for a skeleton crew, unless she runs into trouble."
+    }
+  ]
+}

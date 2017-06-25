@@ -1,0 +1,57 @@
+{
+  "Id": 152424,
+  "Name": "Meg Test",
+  "Description": "",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 152425,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 129882,
+      "Name": "Something awaits you to 0",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152426,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 129883,
+      "Name": "saw to 10",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152427,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 129884,
+      "Name": "Mirror City 0",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152428,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 129885,
+      "Name": "Mirror city 1",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152463,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 129915,
+      "Name": "Refresh actions",
+      "Description": ""
+    }
+  ]
+}

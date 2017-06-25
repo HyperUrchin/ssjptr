@@ -1,0 +1,57 @@
+{
+  "Id": 236749,
+  "Name": "You have defeated a Triskelegant",
+  "Description": "It spins as it dies, jetting boiling water from each of its maws with a noise like a hundred mishandled kettles. A dark-foamed vortex forms.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 236771,
+        "Name": "Not today",
+        "Description": "Your engines struggle as you try to escape the roiling whirlpool. Abruptly, the Triskelegant collapses in on itself as though unable to withstand a sudden vast pressure. With a final screech it drills downward far into the deep. Your vessel bobs, hullmetal ringing in the sudden calm. At least there are soothing swirls forming in the flotsam it left behind."
+      },
+      "Id": 181619,
+      "Name": "Avoid the maelstrom",
+      "Description": "Why let the beast avenge itself at the death?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 241470,
+        "Name": "A behemoth goes to die",
+        "Description": "The crew watches uncomfortably as the red wake spreads. Is this mercy, or cruelty? The murmured arguments continue long into the night. The looks they shoot you are all the harsher for their uncertainty."
+      },
+      "Id": 184743,
+      "Name": "Let the beast go",
+      "Description": "Its wound is fatal. It will surely head to the Gant Pole. [This will send this beast to the Gant Pole.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260400,
+        "Name": "A behemoth goes to die",
+        "Description": "The crew watches uncomfortably as the red wake spreads. Is this mercy, or cruelty? The murmured arguments continue long into the night. The looks they shoot you are all the harsher for their uncertainty."
+      },
+      "Id": 194200,
+      "Name": "Let the beast go",
+      "Description": "Its wound is fatal. It will surely head to the Gant Pole. [This will send this beast to the Gant Pole. The Fading Haruspex may no longer make use of them, but others in there may appreciate it.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 236750,
+        "Name": "The one that got away",
+        "Description": "The roiling beast seems determined to drill itself into the deep, and pull you down with it. Your vessel bucks and heaves on the end of the hauling cable, until finally the cable breaks with a noise like cloudless lightning. The more experienced zailors know to throw themselves down as the raw cable scythes back across the deck. One or two are too slow; hopefully their bisected remains will hammer the lesson home for the others."
+      },
+      "Id": 181607,
+      "Name": "Attempt to haul it aboard",
+      "Description": "It's a risk. But in Fallen London they pay double for anything 'pole-and-line caught'."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 236768,
+        "Name": "The one that got away",
+        "Description": "The roiling beast seems determined to drive itself further into the deep. Your vessel bucks and heaves as the maelstrom peels the plates from your hull. The beast's screeching drowns out even the sound of tormented metal, until finally, mercifully, the hauling line breaks. You are left listing and leaking as the beast lets out its final screech far, far below."
+      },
+      "Id": 181617,
+      "Name": "Harpoon it!",
+      "Description": "It's a risk. But in Fallen London they pay double for anything 'pole-and-line caught'."
+    }
+  ]
+}

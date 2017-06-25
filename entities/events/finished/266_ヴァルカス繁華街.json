@@ -1,0 +1,77 @@
+{
+  "Id": 152443,
+  "Name": "ヴァルカス繁華街@{M}$Varchas -> ヴァーチャス$The Centre of Varchas",
+  "Description": "貴方は蔓と茸花で彩られた中庭の回廊を歩く。長く真っ直ぐに伸びた車道がヴァルカスを縦横無尽に横切り、敷き詰められた石が、荷車の車輪と、行き交う幾千の靴によってすり減っていた。\r\n\r\n灯火夫が張り出し燭台の燃料を絶えず確認し、火芯を交換している。灯火管理人は鏡の角度を調節する渦巻きバネ機構を監視していた。\r\n\r\n此処には探索する場所が多く存在する。次は何処へ行こうか?@{M}$Varchas -> ヴァーチャス$You walk galleried courtyards wreathed with vines and fungal blooms. Long straight roadways criss-cross the length and breadth of Varchas, the stone worn by the wheels of carts and the tread of thousands of slippered feet.\r\n\r\nLamp-Lighters constantly check the fuel-levels of the sconces, and replace wicks; Fire-Keepers check the coiled-spring mechanisms that control the angle of the mirrors.\r\n\r\nThere is much to explore; where will you go next?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 152444,
+        "Name": "",
+        "Description": "貴方自身に微熱を感じているのか?医術の秘密を学びたいのか?それとも、病に苦しむ者達の紅潮した顔と呻き声を堪能したいだけなのだろうか?@{M}Are you feeling a little fevered? Do you hope to learn medical secrets? Or perhaps you just enjoy the moans and flushed faces of the sick and suffering?"
+      },
+      "Id": 129899,
+      "Name": "病院@{M}The Hospital",
+      "Description": "病院は南の塔の物陰にある。@{M}The Hospital lies in the shadow of the Southern Tower."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152445,
+        "Name": "",
+        "Description": "白い外套を纏った隊列に従いて行く。@{M}Just follow the stream of white-cloaks."
+      },
+      "Id": 129900,
+      "Name": "衛兵の兵舎@{M}The Guard House",
+      "Description": "脇道に逸れた所にあり、ここから太陽の描かれた旗を見る事が出来る。@{M}Down a side-street; you can see the sun-blazoned flag from here."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152446,
+        "Name": "",
+        "Description": "貴方が寺院に近づくに連れ、鐘の音はより大きく、より反響して聞こえる。@{M}The sound of the bells grows louder and more reverberant as you approach."
+      },
+      "Id": 129901,
+      "Name": "ミヒルの寺院@{M}Temple of Mihir",
+      "Description": "それはヴァルカスの中心部、神聖区に聳える。@{M}$Varchas -> ヴァーチャス$It lies in the Sacred District, at the centre of Varchas."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152447,
+        "Name": "",
+        "Description": "結局彼は貴方を招き入れた。@{M}Well, he did invite you, after all."
+      },
+      "Id": 129902,
+      "Name": "宝石ターバンを巻いた若者の館@{M}Mansion of the Jewel-Turbaned Youth",
+      "Description": "それは東方地区にある。@{M}It is in the Eastern District."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152448,
+        "Name": "",
+        "Description": "ワイングラスのぶつかる音と、気さくな掛け声のする方向に向かえば良い。@{M}Follow the clink of wine-glasses and the companionable shouts."
+      },
+      "Id": 129903,
+      "Name": "ヴァルカスの娯楽@{M}$Varchas -> ヴァーチャス$Entertainments in Varchas",
+      "Description": "西の方には酒場や遊技場がある。@{M}There are bars and gaming-houses to the west. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152449,
+        "Name": "",
+        "Description": "ヴァルカーシ達の興奮と未来への衝動によってこの旅が突き動かされない事は、恐らく難しいだろう。@{M}It is hard not to be carried along by the excitement and anticipation of the Varchaasi."
+      },
+      "Id": 129904,
+      "Name": "アマラドリへの巡礼@{M}The Pilgrimage to Amaradri",
+      "Description": "アグニホトリは知識を探し求めている。病人達は長旅を始める準備と覚悟を固める。若気と不安とが、彼らの計画を練り上げた。衛兵の剣は全て新しい物に取り替えられた。巡礼の旅は、その準備を終えた。@{M}The Agnihotri seeks wisdom. The sick are ready to begin a long journey. The young and the restless have made their plans. The swords of the Guard have been renewed. The Pilgrimage is ready to begin."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152462,
+        "Name": "",
+        "Description": "光は絶え間なく、そして無慈悲に降り注ぐ。寝られるのだろうか?@{M}The light is endless and merciless. Will you sleep?"
+      },
+      "Id": 129914,
+      "Name": "宿屋@{M}The Inn",
+      "Description": "夕方、5つ目の鐘が鳴り響いた後、ターマスはそれぞれ部屋を充てがわれる。@{M}At evening, after the fifth bell, each Taamas is assigned a room."
+    }
+  ]
+}

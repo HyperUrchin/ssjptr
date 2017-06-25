@@ -1,0 +1,27 @@
+{
+  "Id": 155005,
+  "Name": "Unfinished Pirates",
+  "Description": "A galley! No ordinary oar-powered ship could challenge a steamship - but this one is crewed by Clay Men, tireless earthen constructs born in Polythreme. Of course, these can be no ordinary Clay Men - those are patient and biddable - ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 155006,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 131531,
+      "Name": "Fight the Unfinished Pirates",
+      "Description": "Unfinished Men! Something has gone awry with their construction, and they're capable of violence. Perhaps you should finish their deconstruction."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 155007,
+        "Name": "Too close",
+        "Description": "Here they are! Cannons roar. Scarred clay warriors balance a cutlass in each hand."
+      },
+      "Id": 131532,
+      "Name": "Flee!",
+      "Description": "Now they're this close, they won't be easy to escape. Clay Men, Unfinished or not, are tenacious."
+    }
+  ]
+}

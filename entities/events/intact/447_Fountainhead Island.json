@@ -1,0 +1,67 @@
+{
+  "Id": 175475,
+  "Name": "Fountainhead Island",
+  "Description": "Swiftly growing vegetation keeps a thick forest wrapped around variably ancient ruins. Even the yet to be plundered ones are heavily scarred with crowbar marks.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 175476,
+        "Name": "The Vault of the First Emperor",
+        "Description": "It stretches through the forest in a mix of stone and wood, its style at the mercy of the Pentecost apes' current whimsies and inspirations. It would take a dedicated team to break in and uncover its secrets. Perhaps you will bring one here later..."
+      },
+      "Id": 143284,
+      "Name": "A temple in the forest",
+      "Description": "In a clearing of parasynthetic trees looms an imposing structure of wood and stone."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176027,
+        "Name": "An investigation for another day",
+        "Description": "Perhaps there is someone in Fallen London who might be able to help you get to the treasures of this island."
+      },
+      "Id": 143645,
+      "Name": "Return to the boat",
+      "Description": "It will take a better equipped expedition to uncover this island's secrets and treasures."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176470,
+        "Name": "Through the forest",
+        "Description": "The foliage is thick and unforgiving."
+      },
+      "Id": 143927,
+      "Name": "Visit the Delightful Adventuress' camp",
+      "Description": "With a small army of monkeys bought with her soul, she excavates the Vault of the First Emperor."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176475,
+        "Name": "The route is familiar",
+        "Description": "Soon enough, you stand before the stone gates and wooden towers of the Empire's most gloriously overconstructed structure."
+      },
+      "Id": 143930,
+      "Name": "To the Vault of the First Emperor",
+      "Description": "A shortcut past the Delightful Adventuress' camp"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176504,
+        "Name": "Into the Valley",
+        "Description": "The map of the island shows where to begin. The instructions on the back explain the rest. [You only have time for one dig attempt per visit. Every time you return to the Valley, you will begin at the correct point for finding the treasure]"
+      },
+      "Id": 143956,
+      "Name": "A Treasure Hunt",
+      "Description": "Secrets are buried here, ready to be uncovered."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176747,
+        "Name": "An easy journey back to port",
+        "Description": "The zee is calm. So is whatever might be swimming in it around here."
+      },
+      "Id": 144137,
+      "Name": "Return to the boat",
+      "Description": "Treasure hunting can wait until later."
+    }
+  ]
+}

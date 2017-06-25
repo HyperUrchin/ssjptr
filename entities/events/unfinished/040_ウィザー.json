@@ -1,0 +1,127 @@
+{
+  "Id": 143319,
+  "Name": "ウィザー@{M}$Whither -> ウィザー$Whither",
+  "Description": "入江の巨大アーチの奥、青白い荒地と呼ばれる、月の表面の様に白く静かな土地が広がっている。ここからだと、それら全てがあたかも雪であるかのように想像する事が出来る事だろう。街の北には、塩のプールが見慣れない色をして泡立っていた。@{M}$Pale Wastes -> ペイル・ウェイスト$Behind the great arch over the Bay, the Pale Wastes stretch, white and silent as the face of the moon. From here, you might almost imagine they were snow. North of the city, the salt-pools fizz with unlikely colour.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 149039,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 127781,
+      "Name": "街を探索する@{M}Explore the town",
+      "Description": "ウィザーは物静かな、灰色の石と屋内中庭で出来た寒い街だ。人々は特に不親切という訳でも、特に親切という訳でも無い。ただ、質問に質問で答えるという、厄介な習性を持つ人達だった。そこかしこで、奇妙な光景が見え隠れしている...@{M}$Whither -> ウィザー$Whither is a quiet, chilly town of grey stone and closed courtyards. The people are neither exactly unfriendly nor exactly hospitable: they have the irritating habit of answering a question with a question. Here and there, there are odd sights tucked away..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149040,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 127782,
+      "Name": "街を探索する@{M}Explore the town",
+      "Description": "ウィザーは物静かな、灰色の石と屋内中庭で出来た寒い街だ。人々は特に不親切という訳でも、特に親切という訳でも無い。ただ、質問に質問で答えるという、厄介な習性を持つ人達だった。そこかしこで、奇妙な光景が見え隠れしている...@{M}$Whither -> ウィザー$Whither is a quiet, chilly town of grey stone and closed courtyards. The people are neither exactly unfriendly nor exactly hospitable: they have the irritating habit of answering a question with a question. Here and there, there are odd sights tucked away..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149042,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 127784,
+      "Name": "ウィザー@{M}$Whither -> ウィザー$Whither",
+      "Description": "ウィザーは物静かな、灰色の石と屋内中庭で出来た寒い街だ。人々は特に不親切という訳でも、特に親切という訳でも無い。ただ、質問に質問で答えるという、厄介な習性を持つ人達だった。そこかしこで、奇妙な光景が見え隠れしている...@{M}$Whither -> ウィザー$Whither is a quiet, chilly town of grey stone and closed courtyards. The people are neither exactly unfriendly nor exactly hospitable: they have the irritating habit of answering a question with a question. Here and there, there are odd sights tucked away..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149369,
+        "Name": "",
+        "Description": "「その質問を問うは何か理由在りや?」「その時刻とは何時?」「その帽子は貴方のか?」「それはもしや6か?」まぁ、6である可能性はある。結局貴方は様々な隠喩や仮説を組み合わせて推敲し、報告書を急いで作り上げた。@{M}\"Are you asking for any particular reason?\" \"At what time of day?\" \"Is that your hat?\" \"Might it be six?\" It could be six. Eventually you cobble together enough implication and supposition to compose a report."
+      },
+      "Id": 127988,
+      "Name": "諜報を収集する@{M}Gather intelligence",
+      "Description": "ウィザーの住民は謎を楽しむ。彼らは必ず質問に対して別の質問で答えてくるのだ。普段は結構どうでも良い事だが、諜報収集活動をしていると、本当に苛々して来る。@{M}$Whither -> ウィザー$The citizens of Whither enjoy questions: so much so that they always answer a question with another question. This can make intelligence-gathering frustrating."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 153210,
+        "Name": "十分に単純@{M}Simple enough",
+        "Description": "彼は暗号と謎かけの組み合わせを使っている。彼に注意を向けている何者に取っても、迷惑な事この上ない。畜生。それでも、貴方は情報を得る事が出来た。@{M}He's using a combination of codes and puzzles. Nothing that would inconvenience anyone who pays attention. Idiot. Still, you have your information now."
+      },
+      "Id": 130378,
+      "Name": "謎を掛ける担当者@{M}A Riddling Contact",
+      "Description": "「船を捜すは誰ぞ?」「我らが真の敵はハンなりや?」「眠りの本質とは何ぞ?」ああ、分かっている。ウィザー人は質問に対して質問でしか答えない。スパイには本当に苛立つ習性ではある。恐らく、それらの報告を纏めれば大丈夫だろう。@{M}$Khan -> カーン, Khanate -> カーネイト, Whither -> ウィザー$\"Who seeks the ships?\" \"Is the Khanate our true enemy?\" \"What is the nature of sleep?\" Ah yes. Whitherns only answer a question with a question. It's an annoying habit in a spy. Perhaps you can piece the report together."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 153211,
+        "Name": "長い長いやり取り@{M}A long struggle",
+        "Description": "結局貴方は彼の言葉の真意を問い質した。それは、猫をなだめすかして毛糸の玉を取り上げる様な努力だった。彼もまた猫の様に独りよがりだ。最終的に、何とか貴方は欲しい情報を得ることが出来た。@{M}Eventually you've teased the meaning out of his words. It's like trying to convince a cat to release a ball of wool. He's cat-smug, too. At last you have your information."
+      },
+      "Id": 130379,
+      "Name": "謎を掛ける担当者@{M}A Riddling Contact",
+      "Description": "貴方が逢った担当者の謎かけは貴方には殆ど意味が解らない。もしかしたら貴方が今までに学んだ事を組み合わせれば良いのかもしれない - [この選択肢は断片を消費します。]@{M}Your contact's riddles make little sense to you. Perhaps you can combine them with the lore you've already learnt - [This will use up the Fragments.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 158888,
+        "Name": "つまらなさそうにしている@{M}It is not enthusiastic",
+        "Description": "それは当然何も物を言わない - だが、言いたい事は明白だった。「一体何を考えているんだ?」と。恐らくだが。氷、塩と塵は、奴らの好みでは無いのだ。@{M}It doesn't say anything, of course - but its opinion is apparent. \"What the hell are you thinking?\", perhaps. Ice, salt and dust are not to its taste."
+      },
+      "Id": 133914,
+      "Name": "ブレミガンを浜に揚げる@{M}$[Bb]lemmigan -> ブレミガン$Put a blemmigan ashore",
+      "Description": "ブレミガンはどんな質問を投げかけるのだろう?@{M}$[Bb]lemmigan -> ブレミガン$What questions might a blemmigan ask?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182170,
+        "Name": "浜辺を歩く@{M}A walk by the shore",
+        "Description": "黒いジーは浜辺で囁きかける。波の音の中に、何か別の柔らかい音が聞こえる...@{M}The black zee whispers on the beach. Another soft sound is audible above the waves..."
+      },
+      "Id": 147420,
+      "Name": "街を探索する@{M}Explore the Town",
+      "Description": "ウィザーは物静かな、灰色の石と屋内中庭で出来た寒い街だ。人々は特に不親切という訳でも、特に親切という訳でも無い。ただ、質問に質問で答えるという、厄介な習性を持つ人達だった。そこかしこで、奇妙な光景が見え隠れしている...@{M}$Whither -> ウィザー$Whither is a quiet, chilly town of grey stone and closed courtyards. The people are neither exactly unfriendly nor exactly hospitable: they have the irritating habit of answering a question with a question. Here and there, there are odd sights tucked away..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182171,
+        "Name": "風は語りき@{M}The wind speaks",
+        "Description": "浜辺を歩きながら、貴方は空想に耽った。風の中に言葉が在る。様々な物語、例えば北方にある門、そこから始まる青白い光、そしてそこで終わる朽ちた光、そして他の船が進む気高き荒野。貴方は目を上げる。塩の精製場の壁に、誰かが殴り書きをしていた。'更に無明なる海は在りしや?'@{M}You fall into a reverie as you wander the shore. There are words in the wind: a story of sorts, of a gate in the North, of a pale light that began there, of a drowned light that will end there, of a high wilderness that other ships may sail. You lift your eyes. On the wall of a salt-works, someone has scrawled IS THERE A SEA MORE SUNLESS?"
+      },
+      "Id": 147421,
+      "Name": "街を探索する@{M}Explore the town",
+      "Description": "ウィザーは物静かな、灰色の石と屋内中庭で出来た寒い街だ。人々は特に不親切という訳でも、特に親切という訳でも無い。ただ、質問に質問で答えるという、厄介な習性を持つ人達だった。そこかしこで、奇妙な光景が見え隠れしている...@{M}$Whither -> ウィザー$Whither is a quiet, chilly town of grey stone and closed courtyards. The people are neither exactly unfriendly nor exactly hospitable: they have the irritating habit of answering a question with a question. Here and there, there are odd sights tucked away..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240508,
+        "Name": "Keeping things rhetorical",
+        "Description": "The Fading Haruspex's disciples gently guide her onto the dock. \"Is there anything more beautiful than home?\" she whispers, then smiles. \"Don't answer that. Not here. This is a place for questions, not answers. Here. I hope you find this one suitably intriguing.\""
+      },
+      "Id": 184075,
+      "Name": "Deliver the Fading Haruspex",
+      "Description": "$Aft -> 後部$After years at the bottom of the zee, she is home."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143321,
+        "Name": "\"決して怒るな。\"@{M}\"Keep a low profile.\"",
+        "Description": "貴方の、部下への忠告は結局無視されてしまった。彼らの内の一人が、質問に質問で答えるというウィザー人の習性に対して忍耐の緒が切れたのだ。彼女は市長の姪を鼻から殴りつけ、牢獄にぶち込まれてしまった。貴方は彼女の釈放の時期を問うた。ウィザー人の警官が「時間の価値とは何ぞ?」やら「人はその自由を如何に判断せり?」やら「何故それを知りたい?」などと答えてきた時、貴方の部下がそうしたように、貴方も自身の忠告を破りかけ、すんでの所で思いとどまった。結局貴方は、彼女をこの場所に置き去りにして航海を続けなければならなかった。@{M}$Whither -> ウィザー$Your advice to your crew goes unheeded. One of them grows irritated at the Whithern habit of answering a question with a question. She punches the mayor's nephew in the nose, and is hauled off to gaol. You ask about the date of their release. When the Whithern constables respond with \"What is the price of time?\", \"How can one measure freedom?\" and \"Why do you want to know?\", you are sorely tempted to follow your crewman's example, but restrain yourself. You are forced, however, to sail without her."
+      },
+      "Id": 124055,
+      "Name": "ウィザーでの上陸滞在@{M}$Whither -> ウィザー$Shore leave in Whither",
+      "Description": "ウィザーの人々は寡黙で、狡猾で、謎めいている。彼らは洞窟魚と塵隠れの獣達を狩って生活している。彼らの作るビールの品質は、十分だった。@{M}$Whither -> ウィザー$The folk of Whither are quiet and sly and mystical. They subsist on cave-fish and the dust-burrowing beasts of the Waste. Their beer, however, is adequate."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180257,
+        "Name": "\"何も無いわ。\"@{M}\"NOTHING.\"",
+        "Description": "「私は彼らに3時間もの間質問をし続けて、質問をする度に彼らは質問で返してくるのよ。もう少しで私は -」\r\n\r\n「...まぁ、そう思ったけど、止めておいたわ。彼らのポケットは弄らせて貰ったけどね。こんな状況だと、それぐらいやったって良いと思うわよね?はい、貴方の取り分よ。さ、他の所に探しに行きましょ。」@{M}\"I have been asking QUESTIONS for THREE HOURS and every time I ask a QUESTION they reply with a QUESTION and I THINK I MIGHT - \"\r\n\r\n\"Well, I might, but I didn't. I just picked their pockets. I think that's entirely reasonable under the circumstances, don't you? Here's your share. Let's go and look somewhere else.\""
+      },
+      "Id": 146192,
+      "Name": "メイビーの娘の母親を探す手伝いをする@{M}$Maybe's Daughter -> メイビーの娘$Help Maybe's Daughter search for her mother",
+      "Description": "「どうしてこんな所に来る人が居るのか解らないわ。でも彼女はここに来た。何か質問があったのよ。」彼女は寒さで身震いする。「彼女は愛についてここの人達に聞いて回った?本当にそれだけ?そして彼女は自分の小さく汚らわしい本に答えを書いているのよ。愛についてね。」娘の口元がねじ曲がった。@{M}\"I don't know why anyone would come here. But she does. Something about questions.\" The Daughter shivers. \"You know: she asks people about love? All the time? And writes down the answers in her nasty little book. Love.\" The Daughter's mouth twists."
+    }
+  ]
+}

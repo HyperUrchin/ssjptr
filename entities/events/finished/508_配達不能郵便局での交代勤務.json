@@ -1,0 +1,247 @@
+{
+  "Id": 180310,
+  "Name": "配達不能郵便局での交代勤務@{I}$Dead Letter Office -> 配達不能郵便局$Shiftwork in the Dead Letter Office",
+  "Description": "　ここでは色々な仕事ができる。どれものんびりしたものだ。@{I}One has various possible occupations here. None could be described as fast-paced.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 180313,
+        "Name": "分類間違い@{I}Category errors",
+        "Description": "　彼の種族の多くがそうであるように、彼もまた作業中に話をするのが好きだった。<br/><br/>「紙質で分けるか、あるいはインクの種類で分けるか？」機械の中から彼はあなたに尋ねた。小さな金色の歯車が、硬い音を立ててあなたの靴のそばに落ちてきた。「普通はどっちでも結果は同じだ。だけど、血液があまりにもインク材料として広く使われるせいで、信頼性が……」<br/><br/>　十分後、彼はあなたにとても複雑な話をしていた。『感情検知』がどうとか、喜びへの感度の高い合金の帯に封筒を通すとどうとか、ラチェットとスプロケットに関係する何か……よそう。あなたには良く分からなかった。@{I}Like many of his species, he likes to talk while he works.\r\n\r\n\"Sort by paper type or sort by inks?\" he asks you, from inside the works. A tiny golden gear pings out of the machine and lands beside your shoe. \"Usually the effect is the same, but blood is such a common ink ingredient that one cannot rely...\"\r\n\r\nTen minutes later, he is telling you something very complicated about 'sentiment detection' and passing envelopes across a strip of joy-sensitive alloy, and something to do with a ratchet or sprocket or... no, you're lost."
+      },
+      "Id": 146230,
+      "Name": "郵便ネズミと話す@{I}Converse with the Postal Rat",
+      "Description": "　彼は今は何に取り組んでいるのだろうか？@{I}What is he working on now?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180341,
+        "Name": "島の住民について@{I}On the islanders",
+        "Description": "「君は両手がべたべたしたままでいるのは平気かい？」郵便ネズミはそう尋ねた。「大抵のやつは、両手がべたべたしてるときは、それを綺麗にしたくてたまらない。そうだろ？郵便配達員にとっては、配達不能の郵便物がそのべたべたの両手にあたる。それは始末がつけられるまで、ずっと配達員を悩ませる」<br/><br/>「郵便局で長く働けば働くほど、その感覚はどんどん酷くなってくる。手紙を正しく配達するのが良いことである以上は、配達できないのは悪いことだ。その汚れた感触が耐えられないほどに強くなると、彼らはここにやってくるのさ」@{I}\"Do you like having sticky hands?\" asks the Postal Rat. \"Most people, they have sticky hands, they can't wait to clean them. Yes? For a postman, an undeliverable parcel is sticky hands. Bothers you till it's fixed.\"\r\n\r\n\"The longer you serve in the Post Office, the worse it feels. Delivering a letter correctly is good, so not delivering it is bad. The unclean feeling gets too strong and they come here.\""
+      },
+      "Id": 146251,
+      "Name": "郵便ネズミと話す@{I}Converse with the Postal Rat",
+      "Description": "　彼は島民について何らかの見識を得ているかもしれない。@{I}Perhaps he'll have some insights on the inhabitants of this island."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180342,
+        "Name": "カルトのよう@{I}Cultish",
+        "Description": "　郵便ネズミは眼鏡を掛けて、水で汚れた封筒の表書きを再記入していた。小さな筆とインク壺を使って元の文字を書き直しているのだ。修復には午後のほとんどの時間を取られてしまいそうだった。<br/><br/>「僕は自分が、審判の日の復活に関わる仕事をしているように考えるのが好きなんだ」そう言うと彼は手を止めて、真剣な顔つきであなたを少しだけ見つめた。「条件が整っているとき、配達不能になって死んでしまった手紙を拾い上げて、また甦らせるってことさ。普段は上手くいかないんだけど、成功したときは……あれは奇跡だね！」@{I}The Postal Rat has a pair of spectacles on and is re-lettering the front of a water-damaged envelope, working over the original letters with a tiny brush and ink pot. The repairs are likely to take most of the afternoon. \r\n\r\n\"I like to think of myself as being in the Resurrection business,\" he says, stopping to look at you seriously for a minute. \"Where circumstances permit, taking the dead letters and making them alive again. Doesn't often work, but when it does... a miracle!\""
+      },
+      "Id": 146252,
+      "Name": "郵便ネズミと話す@{I}Converse with the Postal Rat",
+      "Description": "　彼はどのような経緯でこの仕事に就いたのだろうか？@{I}How did he get into this line of work?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180343,
+        "Name": "酷いことに@{I}Badly",
+        "Description": "　手紙は差込口から取り込まれたものの、その後、機械は酷い揺れを起こし、どしんという大きな音を立てて動きを止めてしまった。見る影もなくずたずたになった手紙が一通だけ、排出口から突き出ていた。<br/><br/>　郵便ネズミは自分の毛皮を引き毟った。「このろうそく脳みそ！粘土頭蓋！一体何をしてくれたんだ！」<br/><br/>　何時間にも及ぶ修理の間、あなたは知能と血統についてもっとたくさんのコメントを頂戴した。手紙の方はというと、あまりにも損傷が激しく、もはや読めたものではなくなっていた。簡潔に言えば、また配達不能になってしまった。@{I}The letters go in the hopper, but then there is a horrible churning and a loud THUNK and the whole thing comes to a halt. A single letter, mangled out of recognition, protrudes from the output slot.\r\n\r\nThe Postal Rat is tearing at his fur. \"Wax-brain! Clayskull! What have you done?\"\r\n\r\nThere's a great deal more commentary on your wits and parentage during the long hours of repair. The letters themselves are so damaged that they can't be read any more: dead again, in short."
+      },
+      "Id": 146253,
+      "Name": "配達可能郵便物を選別機にかける@{I}Feed your deliverable letters into the sorting machine",
+      "Description": "　機械がこれをどう処理するのか、興味深くはないか？@{I}Wouldn't it be interesting to see how the machine handled it?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180344,
+        "Name": "五十二分類@{I}Fifty-two categories",
+        "Description": "　間延びした唸りを上げてから、機械は分別を開始した。縁に金箔のきせられた七通の招待状は『上流階級の手紙』のスロットに。中身は本であろうと思われる大きさ超過の二つの小包は『書籍』のトレイに。切手の貼られた青銅板は『第一都市』と書かれた瓶の中に大きな音を立てて落ちていった。<br/><br/>　郵便ネズミはその様子すべてを満足気に眺めていた。@{I}$Aft -> 後部$After prolonged whirring the machine begins to distribute: seven invitations edged in gilt, into the 'correspondence of the aristocracy' slot. Two oversized parcels probably containing books, into the 'books' tray. One stamped bronze tablet that drops with a clang into a bin marked 'First City'.\r\n\r\nThe Postal Rat watches all this with an air of satisfaction. "
+      },
+      "Id": 146254,
+      "Name": "配達不能郵便物を選別機にかける@{I}Feed your undeliverable letters into the sorting machine",
+      "Description": "　光を反射する差込口がそこにある。@{I}The gleaming hopper awaits."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180346,
+        "Name": "可能なかぎりの強い推薦@{I}Strongest possible recommendation",
+        "Description": "　郵便ネズミは感謝の気持ちを長々と、それも様々なやり方で述べ立てた。<br/><br/>「ナンシノウにもっとたくさん仕事がありさえすれば良かったんだけどね。彼女はいつもここで僕を手伝おうとしてくれるんだけど、ご覧の通り――」(緩んだ歯車と、フックの外された鎖の山を指し示して)「僕の仕事には助けはほとんど必要ないんだ。加えて、研究の方は今はとても繊細な段階にあるからね……でも、彼女はとても優れた技師だよ。とても賢い。母親に似て」@{I}$Nuncio -> ナンシノウ$The Postal Rat is grateful, and says so at length and in a variety of ways. \r\n\r\n\"Only so much work to go around on Nuncio. She keeps asking to assist me here, but as you can see -\" (a gesture at heaps of loose gears and unhooked chains) \"I hardly require any assistance, and my research is at so delicate a stage... But she's an excellent worker, very bright. Like her mother.\""
+      },
+      "Id": 146256,
+      "Name": "郵便ネズミの姪を雇う@{I}Offer employment to the Postal Rat's niece",
+      "Description": "　これは彼からの頼みである。それに、彼女は腕も良くて熱心そうだ。@{I}He asks it as a favour, and she sounds well-trained and eager."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180355,
+        "Name": "ネズミの求愛？@{I}Ratly courtship?",
+        "Description": "　彼は、かつての知り合いのアルビノネズミの長大で心躍る物語を語ってくれた。彼女は燐光性の甲虫を使って信じられないぐらい冴えたことをやってのけるのだという。彼の話はくどくどしく、あまりに頻繁に脇道へ逸れるものだから、終いにあなたは、そのネズミが彼の昔の恋人なのか、空想にすぎないのか、それともフェイバーネズミに伝わる伝承の一部なのか分からなくなってしまった。@{I}$Albino Rat -> アルビノネズミ$He tells you a long and lyrical story about an Albino Rat he once knew, who could do such clever things with phosphorescent beetles that you wouldn't believe it. His story is long-winded and goes on so many tangents that by the end you're not sure whether this rat was his long-lost love, or a fantasy, or some bit of Rattus Faber lore."
+      },
+      "Id": 146262,
+      "Name": "郵便ネズミと話す@{I}Converse with the Postal Rat",
+      "Description": "　彼は今、懐古的な心境にあるようだ。@{I}He seems to be in a reminiscent frame of mind."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180362,
+        "Name": "まったく差し支えない@{I}No trouble at all",
+        "Description": "　彼はその要求に驚いていた。ほとんどの郵便配達員はここの地下を好いていない。今まで誰も鍵を要求したりはしなかったのだ。それでも彼は、あなたのために新しい鍵を作ってくれるという。ただ、そこでは気をつけて、気分が悪くなり始めたら戻ってくるようにと彼は言った。@{I}He's surprised by the request. Most postmen don't like it down there. No one ever asks for a key. But he'll cut you a new one. Just be careful in there, and come out if you start to feel wrong."
+      },
+      "Id": 146268,
+      "Name": "郵便ネズミに地下への鍵を要求する@{I}Ask the Postal Rat for a key to the basements",
+      "Description": "　配達不能郵便局の中には、開いているところを見たことのない扉がいくつかある。よもやあなたが信頼できないというわけではないだろうね？@{I}$Dead Letter Office -> 配達不能郵便局$There are doors in the Dead Letter Office that you've never seen opened. Surely you can be trusted?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180363,
+        "Name": "まったく差し支えない@{I}No trouble at all",
+        "Description": "　彼はその要求に驚いていた。ほとんどの郵便配達員はここの地下を好いていない。今まで誰も鍵を要求したりはしなかったのだ。それでも彼は、あなたのために新しい鍵を作ってくれるという。ただ、そこでは気をつけて、気分が悪くなり始めたら戻ってくるようにと彼は言った。@{I}He's surprised by the request. Most postmen don't like it down there. No one ever asks for a key. But he'll cut you a new one. Just be careful in there, and come out if you start to feel wrong."
+      },
+      "Id": 146269,
+      "Name": "郵便ネズミに地下への鍵を要求する@{I}Ask the Postal Rat for a key to the basements",
+      "Description": "　あなたはここで十分長く働いたのだから、鍵を必要としてもおかしくはない。@{I}You've worked here long enough now, and you might need one."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180372,
+        "Name": "深く深く@{I}Deep and deeper",
+        "Description": "　あなたは中に何を期待していたのだろう……棚に入った物資だろうか？あるいは、もっとたくさんの手紙？表の部屋よりも何年かだけ古いような？<br/><br/>　違った。そこにあるのは穴だった。とても深い穴で、ランタンの光では底を照らすことはできなかった。穴の壁に沿って、螺旋状の足場が下に伸びていた。螺旋は下降するにつれて大きく広がり、それはまるで、とてつもなく大きな巻き貝を狭い方の先から覗き込んでいるかのようだった。<br/><br/>　壁には、大きさの不揃いな棚と小部屋が並んでいた。何巻きかのパピルスが入っているだけの数インチ四方の棚もあれば、棺よりも大きな木箱を支えている区画もあった。それらの棚や小部屋は、木質のきのこを目的に合うように育てて作られたものだった。大工や郵便ネズミが腕をふるったような跡はどこにもなかった。<br/><br/>　螺旋を三周したところで、あなたは息が詰まるような気分になった。戻るべき頃合いだった。あなたは後からまた戻ってくることもできる。おそらくは。@{I}You had expected... a few shelves of supplies? More files of letters, a few years older?\r\n\r\nNo. It is a pit, so deep that lantern light does not show the bottom. A spiral walkway descends along its wall, and that spiral opens wider as it goes, as if you were looking through the narrow end of a very large shell.\r\n\r\nLining this wall are shelves and nooks, unevenly sized. Some are a few inches square and contain single scrolls of papyrus. Others support crates bigger than coffins. They're made of a woody fungus, grown to meet requirements. There are no marks of carpentry or any of the Postal Rat's handiwork.\r\n\r\nThree turns down the spiral and you feel you can't breathe. Time to leave. You can come back later. Maybe."
+      },
+      "Id": 146273,
+      "Name": "奥の部屋を開ける@{I}Open the back rooms",
+      "Description": "　鍵はあなたのポケットの中で温められている。@{I}The key is warm in your pocket."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180374,
+        "Name": "困ったように、しかし驚くことなく@{I}Troubled but not surprised",
+        "Description": "「あれは僕らがここにやってくる前からあるそうだよ。ロンドン人がNeathにやってくる前から。配達不能郵便局ができる前からここには誰かがいて、当時あったものの上に最後の階層を築いたんだとか何とか」<br/><br/>　あなたがもう少し詳しく尋ねると、彼は言った。「僕は下に降りたことがある。あまり気は進まなかったんだけど、機械をテストしたくてね。機械がものすごく古い配達不能郵便物のいくらかでも処理できれば、それは良い兆候だと思ったんだ。つまり、機械が正常に動いていて、優れて強力な分類体系やら何やらを持っていることの証拠になるからね」<br/><br/>　彼は少し言葉を切った。「下の手紙の中には、見るだけで髪が燃えてしまうようなものがある。僕の左脚がちょっと禿げてるのが分かるかい？これは機械の事故のせいじゃないんだ、そうとも！これは、下で僕が手紙の一つに鼻先を突っ込むやいなや、焼け焦げてしまったんだよ」@{I}$Dead Letter Office -> 配達不能郵便局$\"They say that's been there since before we came. Before there were Londoners in the Neath. Before there was a Dead Letter Office, there was someone else, and they built the last layer on top of what was there before, and so on.\"\r\n\r\nWhen you press him a little further, he says, \"I've been down there. Didn't like it much, but I wanted to test my machine. Thought if it could handle some of the very old dead letters, that would be a good sign, you know, evidence the machine was in working order, good strong sorting categories and so forth.\"\r\n\r\nHe pauses. \"There's letters down there that set your hair on fire if you so much as look at them. See the bald patch on my left leg? That wasn't a machine accident, oh no! That singed right off as soon as I put my nose into one of them letters.\""
+      },
+      "Id": 146275,
+      "Name": "郵便ネズミに地下での発見について話す@{I}Tell the Postal Rat about your basement findings",
+      "Description": "　あなたには新しい話題ができた。@{I}Gives you something new to chat about."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180375,
+        "Name": "古の航海@{I}Ancient voyages",
+        "Description": "　あなたは今回はもっと深くまで進んだ。三周、六周、十周。その時点で、洞穴の幅は少なくとも百フィートに達していた。底に辿り着きそうな兆しはまったくなかった。壁の棚の中身には、あなたには読めない言語で荷札が貼られていた。それらは錆びた鉄の箱であったり、木の板であったり、粘土板であったりした。<br/><br/>　そして、あなたが解読したいと思うようなものが見つかった。それは油紙にくるまれた小さな包で、馴染みのない海岸線の描かれた数巻きの地図が入っていた。地図には深みの生き物に関する注釈があり、その船の船長が天体観測儀を海に沈めた場所の印も付けられていた。(これは供物としてだろうか？あるいは恐怖に駆られて？)<br/><br/>　このメッセージが何世紀前のものであろうと、航海者は今なお同じ必要と恐怖を抱えている。<br/><br/>　あなたは、船長の日誌を封じていた結び目を解いてページをめくった。ちくちくと刺すような熱さがあなたの頭皮に広がった。これはあなたには読めない。これはあなたには読めない。これはあなたには読めない。<br/><br/>　何も持たずに上に戻ったあとになって、あなたはあの時読めなかったはずの物語を思い出した。それは一面の星々と、そこにはびこる蛆虫たちの物語だった。@{I}You get further this time. Three twists; six; ten. The cavern is at least a hundred feet wide at this point, and there is no sign of the bottom. The things on the shelves are labelled in languages you can't read. There are rusty iron boxes, wooden planks, clay tablets.\r\n\r\nNow here is a thing you might hope to understand: a packet wrapped in oilskin. Rolls of maps, depicting unfamiliar shorelines. Annotations concerning the creatures of the deep. A mark where the captain drowned his astrolabe (as a sacrifice, or out of fear?). \r\n\r\nCenturies old the message may be, but seafarers have the same needs and the same fears.\r\n\r\nYou pick apart the knot on the captain's diary and spread the pages. A prickling heat sweeps over your scalp. You can't read the words. You can't read the words. You can't read the words. \r\n\r\nWhen you get back upstairs, empty-handed, you remember the story you could not read. There was a field of stars and it was swarming with maggots. "
+      },
+      "Id": 146276,
+      "Name": "単独で更なる地下の探索を進める@{I}Make a further solitary exploration of the basement",
+      "Description": "　前回すぐに戻ってきたのは早まった判断だったかもしれない。そこまで酷くはないはずだ。@{I}Perhaps you were hasty in leaving earlier. It can't be so very bad."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181359,
+        "Name": "大切な大切な母親@{I}Dear, dear Mama",
+        "Description": "『……あなたがご昇進の栄誉に与られたことは存じております……結婚の申し込みをお受けできないのは残念で……今もリューマチに苦しむ大切な母のそばを離れるわけにはゆきません……母が子どもたちを育てるために人生を捧げてきたことを思うと、とても見捨てることは……ご理解くださると信じています……あなたの将来の幸福を願って……』<br/><br/>　筆跡は平坦で整然としている。この書き手は嘆き悲しんではいなかったようだ。つまり、この『大切な母』が自分でこの手紙をこしらえたのでなければ、だが。@{I}'...sensible of the honour of your advances... regret that I cannot accept your proposal... unable to leave the side of darling Mama while she still suffers her rheumatic complaint... considering her lifetime of sacrifice in raising her children, could not leave her now... certain you will understand... all my wishes for your future happiness...'\r\n\r\nThe writing is even, tidy, untroubled. It did not grieve the writer to send. That is, assuming Dear Mama did not compose this message herself."
+      },
+      "Id": 146856,
+      "Name": "選別された配達不能郵便物の中にあった小綺麗な封筒の権利を主張する@{I}Claim a respectable envelope from the Dead Letter selection",
+      "Description": "　表書きの筆跡は上品だ。@{I}The writing on the front is demure."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181360,
+        "Name": "北と東への船旅@{I}Voyages north and east",
+        "Description": "　外国の考古学に関する詳細な報告書。遠方の崖に刻まれていた文字の拓本。廃墟となった寺院で、聖像の目玉からきのこが生えている様子を描いた絵。<br/><br/>　これらは学術的な職にあった誰かの成果に違いない。大学の神秘神学部の学部長宛てに送られたものの、受け取りを拒まれたのだ。そして筆者は？彼女は故郷に帰り着いたのだろうか？それとも、海で死んでしまったのだろうか？<br/><br/>　今となっては、これらはあなたの報告書であり、あなたの秘密である。@{I}Meticulous notes on the archaeology of foreign shores. Rubbings of lettering carved into distant cliffs. Drawings of a ruined temple, mushrooms growing in the eyes of its sacred statues.\r\n\r\nThese should have been the making of someone's academic career. They were sent to the Dean of Cryptotheology at the university, but not accepted. And the writer? Did she make it home, or did she die at sea?\r\n\r\nNow they're your notes and secrets."
+      },
+      "Id": 146857,
+      "Name": "郵税不足の荷物の料金を支払う@{I}Pay for a parcel with postage due",
+      "Description": "　このような小さな包にしては、配達料金は驚くほど高い。受け取り主が支払う価値はないと考えたのも無理はない。@{I}The carrier fees are startling for such a little packet. No wonder the recipient didn't think it worth paying."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181361,
+        "Name": "かつての礼儀作法ではない@{I}Manners aren't what they used to be",
+        "Description": "　それは今となってはずっと昔の、主教と大学教員の集まるとある晩餐会への招待状だった。手紙は書き出しこそ形式的だったものの、結びで怒りを爆発させてしまっていた。『お願いですから、今回はお返事をなさって私を喜ばせてくださいな。でなければ、私はあなたの席を用意しておくべきか分かりませんので！もしも今回お返事なさらなかった場合は、私からあなたにご招待差し上げるのは、金輪際これが最後になるでしょうね！』<br/><br/>　送り主と受け取り主の名前をもう一度確認してみる。ああ、なるほど。あの二人が関わっているのなら、少なくともこれは金になるゴシップと言えよう。@{I}It is an invitation to a dinner party now long in the past, an occasion for bishops and dons. The opening is formal, but the closing lapses into exasperation. 'Do, please, grant me the pleasure of a response this time, so that I may know whether to set your place! If you will not reply, this is positively the last time I will invite you anywhere!'\r\n\r\nAnother glance at the sender and the recipient. Ah. Yes. With those two involved, this is at least saleable gossip."
+      },
+      "Id": 146858,
+      "Name": "クリーム色の重たい封筒の責任を引き受ける@{I}Accept responsibility for an envelope of heavy cream paper",
+      "Description": "　送り主は重要な人物だったに違いない。@{I}Surely the sender was someone of consequence."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181362,
+        "Name": "冷たい銀色の液体@{I}Cold, silvery liquid",
+        "Description": "　ガラス越しでも冷気を感じられるような、仄かに光る液体入りのボトルが二十四本。いずれも蝋で栓をされ、S&Cのイニシャルが絡みついている。<br/><br/>　ただボトルを見ているだけでも感覚が麻痺し、恐怖が遠ざかるような気がした。@{I}Twenty-four bottles of a gleaming liquid that feels icy even through the glass. Each is stoppered and sealed with wax, with entwined initials S&C.\r\n\r\nJust to look at the bottles is to feel numbed and soothed and distant from terror."
+      },
+      "Id": 146859,
+      "Name": "かちゃかちゃと音を立てる荷物の権利を主張する@{I}Lay claim to a parcel that clinks",
+      "Description": "　おそらく瓶か何かだろう。@{I}It's probably bottles of something."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181364,
+        "Name": "規制@{I}Regulations",
+        "Description": "「ああ、駄目駄目！そんなのまったく許されやしないよ」何でも、郵便物の最初の処理と分類には、厳しい法規制が存在するのだという。実験的な機械は手紙をずたずたにしてしまうかもしれない。一介のフェイバーネズミに託しても構わないほど重要性の低い手紙と言ったら、配達不能なものしかない。<br/><br/>　彼の口調は辛辣ではなかったが、彼は手元のコイルを強くひねりすぎた。それは機械の横から跳ね跳んで、あなたの靴のそばに落ちた。@{I}\"Oh, no, no! That wouldn't be permitted at all.\" There are strict rules about the initial handling and sorting of post. An experimental machine might mangle the letters. It's only the dead material that is unimportant enough to be entrusted to a Rattus Faber.\r\n\r\nHis voice isn't bitter, but he twists a coil so hard that it springs sideways out of the machine and pings off your shoe."
+      },
+      "Id": 146860,
+      "Name": "郵便ネズミと話す@{I}Converse with the Postal Rat",
+      "Description": "　どうしてロンドンでは同じような機械を作らないのだろうか？そもそも配達不能になる手紙自体を減らせるかもしれないというのに。@{I}Why doesn't it make a machine like this one back in London? Might lead to fewer dead letters in the first place."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181371,
+        "Name": "螺旋、螺旋、螺旋@{I}Spiral on spiral on spiral",
+        "Description": "　降りてゆく道のりは長く時間のかかるものとなった。はじめこそ、あなたは何周したかを数えていたものの、そのうち、頭上の扉から差し込む四角い光が見えなくなり、螺旋をどれだけ降りたのか気にする余裕はなくなってしまった。あなたは次から次へとろうそくを使い果たしていった。<br/><br/>　とうとうあなたは、斜面が椀型の床と接するところまで辿り着いた。そこでは洞穴の幅は何百フィートにも達しているに違いなかった。あなたは照明弾を点火したが、それでも洞穴の壁を見ることはできなかった。<br/><br/>　最初、床は砂利で覆われているように思われた。だが違った。それらは粘土と石の砕けた破片だった。そのすべてに、古すぎて読めない言葉が書かれていた。<br/><br/>　その空間の中心には、深い黒色をした岩の棘が生えていた。樹脂のような光沢があり、氷の輝きを放つその棘には、見る者の目を傷つける三つの深遠な印が刻まれていた。印を目の前にして、あなたは一つの意味を感じ取った。それは禁止、あるいは掟。あらゆるものは定められた場所に届かなければならない。直ちに届けることのできないものは、来る日に備えて保存されなければならない。メッセージが聞き届けられないままに終わるのは悲劇だ。<br/><br/>　合図は送り届けられなければならない。どれだけ遠かろうか関係ない。いかなる暗闇があろうが関係ない。送り主が死んでいようが関係ない。受け取り主が書かれた言葉を読めるかどうかすら関係ない――<br/><br/>　刻印はひとりでに解読され、あなたにはその意味が分かった。<br/>『言葉はなくならない』@{I}The descent is long and slow. You count the turns at first, but the time comes when you can't see the square of light from the door above, and can't mark how far you have come around the spiral. You exhaust one candle after another.\r\n\r\nAt the end you come to a place where the ramp opens onto a bowl-shaped floor. The cavern must be hundreds of feet wide, here. You light your flare, but even that does not show the cavern walls.\r\n\r\nThe floor is carpeted with - at first you think it is gravel, but no, it is broken shards of clay and stone, all scribbled over in words too old to read.\r\n\r\nAt the centre of this space is a needle of deep black rock, glossy as resin, glittering with ice, inscribed with three arcane sigils that hurt to look at. You feel a meaning in their presence: a prohibition, or a commandment. That all things must come to their destined place. That what cannot be delivered immediately must be saved against a future date. That a message that goes unheard is a tragedy.\r\n\r\nThat the signal must be carried, no matter how far, no matter through what darkness, no matter whether the sender still lives nor whether the recipient can even read the language of the writing-\r\n\r\nThe inscription resolves itself and is known to you.\r\nNO WORD LOST. "
+      },
+      "Id": 146866,
+      "Name": "炎を使って地下へと降りる@{I}Descend into the basement with flame",
+      "Description": "　きちんと準備はできている。道のりにはろうそくを、底には照明弾を。@{I}Properly equipped. Candles for the way, and a flare for the bottom."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181380,
+        "Name": "名前のない@{I}Without name",
+        "Description": "　説明を始めてはみたものの、あなたの言葉は、あれを適切に表現する単語を持ち合わせてはいなかった。すなわち、配達の掟の、あの重みを。すべての言葉が目的地に届かなければならないという、あの神聖な必要性を。そして、数え切れないほどの個々の意味のすれ違いについて。それは歴史上起こり続けてきたことで、そして今なお起こり続け、宇宙全体の損失に繋がっている――<br/><br/>　彼は前脚を掲げた。「君がどれだけ説明してくれても、僕は理解するつもりはないよ」彼は言った。「理解したら、おかしくなってしまうだろうからね。僕は喜んで今と同じ場所で同じように働かせてもらうよ」<br/><br/>　一瞬間を空けてから、彼は付け加えた。「多分君は忘れるんじゃないかな。少なくともいくらかは忘れると思うよ。何せ君は制服は着ていなかったんだからね」そして彼は、あなたのこめかみの毛が焦げていることを指摘すると、机の中から取り出した軟膏をあなたに手渡してくれた。@{I}$Aft -> 後部$You start to explain, but your language doesn't have the right words to express it: the weight of the delivery-commandment, the sacred necessity for every word to reach its destination. And the countless individual miscarriages of meaning from one entity to another which have occurred throughout history and are still occurring, to the detriment of the whole universe-\r\n\r\nHe holds up a paw. \"Not going to understand it no matter how much you explain,\" he says. \"And I'm glad, as if I did understand I'd be likely to run mad, working where and as I do.\"\r\n\r\nAfter a moment he adds, \"Likely you'll forget. At least, forget some of it. After all you never wore the uniform.\" Then he points out where your hair has singed at the temples, and gives you an ointment he keeps in a drawer."
+      },
+      "Id": 146873,
+      "Name": "下で見たことを郵便ネズミに話す@{I}Tell the Postal Rat what you saw below",
+      "Description": "　彼は興味を持つかもしれない。@{I}Maybe he will be curious."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181417,
+        "Name": "螺旋は光り輝く@{I}Spirals ablaze",
+        "Description": "　まずあなたは、太陽光の勢いを制限して、一度にほんのちらつきしか漏れないようにしていおいた。降りてゆく道のりは長く時間のかかるものとなった。<br/><br/>　あなたは、とうとう底まで辿り着くと、箱の蓋を開け放った。周囲の空気が赤々と輝いた。床は粘土と石の破片に覆われていて、黄褐色と赤色とぎらつく黒曜石のモザイク模様をなしていた。天井はあまりに遠く、かろうじてそれと見分けられる程度だった。<br/><br/>　その空間の中心には、深い黒色をした岩の棘が生えていた。樹脂のような光沢があり、氷の輝きを放つその棘には、見る者の目を傷つける三つの深遠な印が刻まれていた。棘は太陽光を取り込んで輝いていた。これは、かつてその光を知っていた何かだった。印を目の前にして、あなたは一つの意味を感じ取った。それは禁止、あるいは掟。あらゆるものは定められた場所に届かなければならない。直ちに届けることのできないものは、来る日に備えて保存されなければならない。メッセージが聞き届けられないままに終わるのは悲劇だ。<br/><br/>　合図は送り届けられなければならない。光はいかなる暗闇をも照らすことができる。あらゆる言葉はいつかは訳される――<br/><br/>　刻印はひとりでに解読され、あなたにはその意味が分かった。<br/>『言葉はなくならない』<br/><br/>　太陽光が尽きた。穴は暗闇に満たされた。@{I}At the outset, you ration the sunlight, letting out only a glimmer at a time. The descent is long and slow.\r\n\r\nFinally you reach the bottom, and throw the box open. The air blazes. The floor is carpeted with shards of clay and stone, a mosaic of tans and reds and glittering obsidian. The ceiling is so far away that you can barely make it out.\r\n\r\nAt the centre of this space is a needle of deep black rock, glossy as resin, glittering with ice, inscribed with three arcane sigils that hurt to look at. It takes the sunlight's glow and blossoms with it: this is something that once knew that light. You feel a meaning in their presence: a prohibition, or a commandment. That all things must come to their destined place. That what cannot be delivered immediately must be saved against a future date. That a message that goes unheard is a tragedy.\r\n\r\nThat the signal must be carried, that the light can traverse any darkness, that all languages can eventually be translated-\r\n\r\nThe inscription resolves itself and is known to you.\r\nNO WORD LOST. \r\n\r\nThe sunlight is spent. The cavern goes black."
+      },
+      "Id": 146902,
+      "Name": "太陽光を使って地下へと降りる@{I}Descend into the basement with sunlight",
+      "Description": "　あの暗闇とすら張り合えるほどの光源を、あなたは持っているのだ。@{I}You have light sources that can contend even with that darkness."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181656,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 147080,
+      "Name": "勤務を終える@{I}End your shift",
+      "Description": "　突堤に帰ろう。ひとまずは、ここですべきことは済んでいる。@{I}Return to the docks. You are finished here for now."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180312,
+        "Name": "チク、タク@{I}Tick, tock",
+        "Description": "　あなたの孤独の邪魔をする者が誰も訪れないままに時間は過ぎていった。郵便配達に関する手引書を読む以外に、することは何もなかった。<br/><br/>　あなたは次のようなことを学んだ。最近の切手の、女王陛下の王冠部分に小さな欠けがあるのは、正式な切手のプレス機のある場所が革命家の爆弾によって攻撃されたことを示している。この傷のない切手は偽造であり、そのような手紙は送り主の元に返送されなければならない。<br/><br/>　配達されるべきではない郵便物の配達は軽微な違反行為にあたり、減給によって罰される可能性がある。もちろん、それは発覚すればの話であって、そのようなことはめったに起こらないのではないかと思われた。@{I}Hours pass without anyone turning up to trouble your solitude. There's nothing to do other than to read a postal instruction manual.\r\n\r\nYou learn that, on recent stamps, a slight blemish on the Empress's crown marks where the legitimate stamp press was damaged by a Revolutionary bomb. The absence of this blemish indicates forgery and requires that the letter be returned to its sender. \r\n\r\nDelivery of a letter that should not be delivered is a postal misdemeanour punishable by the docking of wages, assuming, of course, that anyone ever finds out about it, which seems exceptionally unlikely."
+      },
+      "Id": 146229,
+      "Name": "受取窓口で仕事をする@{I}Man the collections window",
+      "Description": "　他の仕事よりも人と会える公算が高い。ほんの少しだけ。@{I}Better chance of meeting people. Slightly better. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180311,
+        "Name": "複雑な修復過程@{I}Intricate restorations",
+        "Description": "　郵便ネズミはそれの働きについて快く説明してくれた。彼の話す内容は、歯車やら美しく成形されたワイヤやらに価値を見出す者にとっては、間違いなく刺激的だったのだろう。しかし、あなたはほとんど付いていけなかった。@{I}The Postal Rat explains its activities willingly. What he says would doubtless be most stimulating to anyone with a taste for gears and finely extruded wires, but you follow very little."
+      },
+      "Id": 146228,
+      "Name": "奥の部屋で何が起こっているのかを学ぶ@{I}Make a study of what goes on in the back room",
+      "Description": "　そこの機構は面白そうだ。@{I}The machinery looks interesting."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181374,
+        "Name": "暗すぎる@{I}Too dim",
+        "Description": "　あなたの炎と鏡の仕掛けは冴えたものだったが、それでも十分ではなかった。暗闇の中、螺旋を十二周したところで、あなたはそれより下に何があるのか分からなくなってしまった。@{I}Your contraption of fires and mirrors is clever, but insufficient. By the twelfth spiral you are walking in darkness, and there is no knowing what might be waiting for you below."
+      },
+      "Id": 146868,
+      "Name": "鏡を使って地下へと降りる@{I}Descend into the basement with mirrors",
+      "Description": "　光の向きを曲げる仕掛けをこしらえよう。長らく暗闇であったものを照らし出そう。@{I}Arrange contraptions. Divert light. Illuminate what has been dark a long time."
+    }
+  ]
+}

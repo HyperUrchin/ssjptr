@@ -1,0 +1,27 @@
+{
+  "Id": 236761,
+  "Name": "You have defeated the Irrepressible!",
+  "Description": "Cheers reverberate around the bridge: you've done it. The Unterzee's most feared vessel lists and founders, with clouds of multicoloured gas escaping through rents in her hull. Her stained-glass portholes wink and flash like the eyes of a beast - wounded, but still dangerous.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 237367,
+        "Name": "Disarmed and dismembered",
+        "Description": "The tow cables go taut and you begin to pull the cannon free. The <i>Irrepressible</i> shudders, as though the the weapon were being wrenched out from deep in the vessel's quick. The irrigo hue fades from the cannon's mouth as soon as it is free of the hull - the weapon itself is no more than a delivery mechanism. But coiled around the gun is the ammunition, stacked in spiral-shaped racks and lustrous with sickly shades of irrigo. With it, your engineer adds a permanent irrigo sheen to your own black powder. The gunners pronounce themselves delighted with your new destructive power. They'll just have to ignore the whispering coming from the powder-store."
+      },
+      "Id": 182082,
+      "Name": "Attempt to detach the Irrigo-cannon",
+      "Description": "Make yourself focus on the shifting hue. It helps if you close one eye and dwell upon a terrible regret. [This will significantly improve your Iron if it is not already too high.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 236762,
+        "Name": "\"The tapestries watched us. The paintings sang. And the bathtub - dear Salt, the bathtub.\"",
+        "Description": "Your crew return uneasy. They met with no resistance, but report the constant sensation of being observed. They tell you of the wondrous riches they saw aboard: gems, carvings, strange devices never seen before - above or below the zee. Yet every loot-sack is empty. Scarcely have you given orders for them to go back and b____y well steal something when, with a surprisingly tuneful roar, the <i>Irrepressible</i> breaks apart, dismantling itself as though by sheer force of will. Skeins of coloured gas and a medley of exquisite jetsam are all that remain."
+      },
+      "Id": 181613,
+      "Name": "Send a boarding party",
+      "Description": "\"Take anything that's not nailed down. And definitely take anything that <i>is</i> nailed down. Here, don't forget your crowbar.\""
+    }
+  ]
+}

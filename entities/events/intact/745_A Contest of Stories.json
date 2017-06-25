@@ -1,0 +1,37 @@
+{
+  "Id": 242920,
+  "Name": "A Contest of Stories",
+  "Description": "A competition is in progress. A Voluble Visitor tells of the Sideways Regiment: a plunderous legion of trained crabs. \"First, they present a mighty collective shell. Then comes the onslaught of a thousand nippers! Why, I only escaped thanks to a timely cloud of ink from my squid, which I befriended for precisely such an occasion.\"\r\n\r\nThe unlikely story wins the acclaim of the congregation. Whilst her rival slumps, disappointed, the Visitor waves her top hat, and processes to the bell tower. Its doors close behind her.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 242921,
+        "Name": "A regular listener",
+        "Description": "You approach an apprehensive seaman who is staring into the distance, perhaps imagining marching ranks of crustaceans. You ask what happened here.\r\n\r\n\"The competition? The best story wins. Cap'n says it's all in the delivery, but you need a fine yarn to spin, too.\"\r\n\r\nWhen you enquire about the winner's reward, his gaze turns wistful. \"If they're lucky, they get taken up. Wish I had a story to tell.\""
+      },
+      "Id": 185656,
+      "Name": "Ask about the competition",
+      "Description": "What kind of contest is won by nonsensical lies about crabs?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243293,
+        "Name": "Not on the list",
+        "Description": "Two surly vergers block your approach to the door. One points back at the congregation. \"Only winners allowed,\" he grunts. \"Next one's soon.\""
+      },
+      "Id": 185878,
+      "Name": "Follow her into the bell tower",
+      "Description": "What's in there? Wild riches? Or just a good buffet?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243294,
+        "Name": "Chimes",
+        "Description": "A few souls linger, gazing at the closed doors of the bell tower. You have just turned away when you hear the sonorous BONG of the bell within. Its peals repeat every few seconds, before becoming abruptly muffled, then finally silent. An excited murmur runs through the congregation.\r\n\r\nAlthough you keep an eye on the bell tower door, the winner does not emerge."
+      },
+      "Id": 185879,
+      "Name": "Go about your business",
+      "Description": "The congregation is breaking up, for now."
+    }
+  ]
+}

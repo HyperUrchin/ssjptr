@@ -1,0 +1,57 @@
+{
+  "Id": 239344,
+  "Name": "The Rainbowing",
+  "Description": "Banquet tables are laid throughout the festival square. The smell would have a lesser zailor heave out their innards, and all of the lurid dye in the world does not disguise how unappetising the meat is. Nevertheless, some diners rush eagerly to their seats. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 239345,
+        "Name": "",
+        "Description": "You fill your mouth with the foul, dyed water. Your fellow diners spit it out in a spray; you follow suit. When the rainbow clears, the tables - not to mention you and your fellow diners - are covered in colour. The green-lipped Philosopher holds her stomach but forces a smile; the Mercenary grins at everyone down the table, showing off his indigo stained teeth."
+      },
+      "Id": 183333,
+      "Name": "Participate in the Ceremony of Seven Sips",
+      "Description": "A chalice of an inky blue liquid is set before you. To your left, the Sallow Philosopher has a green drink; to your right, the Conscientious Mercenary is sipping something indigo."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239356,
+        "Name": "",
+        "Description": "You carve into your dinner: a fish, whose identifying traits have been lost to the layers of pigment caked onto it. As you carve off a bite, its mouth flaps open. Cosmogone dye trickles out. It might be tasty, if the meat weren't as chewy as gum, and if you couldn't feel the dyes colouring your intestines; hopefully you're fond of blue. "
+      },
+      "Id": 183343,
+      "Name": "Consume the Abyssal Bounty",
+      "Description": "A bell rings. The Conscientious Mercenary licks his lips and begins carving a squelching, squirming fish. The Sallow Philosopher performs the gesture of good digestion, before forcing down a bite."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239357,
+        "Name": "",
+        "Description": "The Conscientious Mercenary looks at you meaningfully and cups his cheeks: the gesture of plenty. He slices you a lobe of the shark's brain, and licks the violant jelly from the blade when done. He considers the eyes carefully, before he places one on your plate. He adjusts it to look up at you.\r\n\r\nYour first bite of the brain, and the taste spreads through your mouth like ivy. The eye is no better. It pops in your mouth, bursting into stinking jelly."
+      },
+      "Id": 183344,
+      "Name": "Partake of Lady Black's Chiefest Pearls",
+      "Description": "Festival servers clear your plates, and present the night's desert: the violant-dyed organs of a bound-shark, laid across the table with anatomical accuracy."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239358,
+        "Name": "",
+        "Description": "No one tries to stop you. Most merely clear their throats and look away, feigning distraction. The few who do look directly at you scowl. But a few offer half-smiles - \"I know,\" they seem to say. \"We all know.\" "
+      },
+      "Id": 183345,
+      "Name": "Leave the festival early",
+      "Description": "You're a visitor. Surely they won't mind if you decline to participate."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239359,
+        "Name": "",
+        "Description": "They gasp, their tongues stained gaudy colours. The Conscientious Mercenary snatches the heart from the table and takes a defiant bite. He performs the gesture of \"thanking someone for passing food,\" before turning back to his own dessert. The rest of the table resumes a few moments later, though any relish they'd had in their food is gone. No one even comments when the Sallow Philosopher quietly bundles her serving of kidneys into a handkerchief. She signs you good health and - mouthing a silent \"I can't stand it,\" - passes you the bundle. "
+      },
+      "Id": 183346,
+      "Name": "Push the shark heart away in disgust",
+      "Description": "Get up from the table and walk away. Try to not be sick on the way to your zubmarine."
+    }
+  ]
+}

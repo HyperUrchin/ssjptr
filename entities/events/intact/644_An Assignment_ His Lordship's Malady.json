@@ -1,0 +1,27 @@
+{
+  "Id": 230550,
+  "Name": "An Assignment: His Lordship's Malady",
+  "Description": "\"My employer is a gentleman of considerable vitality and also humour. However, and as much as it pains me to say, he is not the man he was.\r\n\r\n\"Years ago, an ingrate of no current importance poisoned him with Cantigaster venom, and he hasn't been right since. Can't walk, most days. I have made what may yet transpire to be a rash promise to restore him, and I am hereby solicitin' your assistance.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 230551,
+        "Name": "\"I have to say you've made me very sad.\"",
+        "Description": "The Blind Bruiser wags a scarred finger. \"Of course though I do understand. The Unterzee is terrible dangerous as every zailor knows and you needs to be careful of unforeseen consequences.\" He nods ponderously. \"Unforeseen consequences,\" he repeats. \"Well, good day to you.\""
+      },
+      "Id": 177572,
+      "Name": "Refuse",
+      "Description": "This is a fool's errand."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 230579,
+        "Name": "A wayward rogue",
+        "Description": "\"Some time ago we sent an emissary to the Fathomking's Hold. He was to ascertain whether his Complexity was aware of a treatment that would restore my employer to his what I am not embarrassed to call glory. Regrettably, the emissary has yet to return. Would you mind tracking him down, and ascertaining exactly what the bl__dy problem is?\""
+      },
+      "Id": 177589,
+      "Name": "Accept",
+      "Description": "Can you restore someone's youth and vigour? You can try."
+    }
+  ]
+}

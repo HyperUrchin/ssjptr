@@ -1,0 +1,17 @@
+{
+  "Id": 174347,
+  "Name": "商船を破壊した@{K}You've destroyed a Merchant Cruiser",
+  "Description": "罪のない男女が死んだが、それは彼らの問題だ。もしも捕まればあなたの問題にもなるが。しかしその事についてはあまり考えないようにしよう。さてどうする？@{K}Innocent men and women are dead, but that's their problem. And yours, if you're caught, but let's not dwell on that. What now?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 174350,
+        "Name": "これは何だ？@{K}What's this?",
+        "Description": "船員たちが船を捜索した。海賊行為の片棒を担ぐことになり不満気だが、今のところは従順だ。さあこれが彼らの見つけてきたものだ……@{K}Your crew searches the ship, complicit together in this act of banditry, unhappy, but obedient for now. Here's what they've found - "
+      },
+      "Id": 142563,
+      "Name": "略奪してから沈める@{K}Loot and scuttle her",
+      "Description": "奪えるだけ奪い、罪の証拠を消し去る。@{K}Take what you can. Hide the evidence of your crime."
+    }
+  ]
+}

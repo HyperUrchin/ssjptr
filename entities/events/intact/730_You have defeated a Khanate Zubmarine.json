@@ -1,0 +1,27 @@
+{
+  "Id": 242597,
+  "Name": "You have defeated a Khanate Zubmarine",
+  "Description": "The Khanate zubmarine's stricken bulk gleams as you draw close. Its surviving crew are in diving suits, clinging to the outside of the vessel. They are attempting to escape.  ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 242598,
+        "Name": "Burned, drowned, crushed ",
+        "Description": "Your prow-light sways from the shock of the force unleashed. Rumbles, like the sound of limestone melting in an underwater cave, reverberate through your zubmarine. The Khanate zubmarine fares far worse - its metal skin tears like paper from fore to aft. Then an explosion! From the observation dome, you watch as the Khanate crew is destroyed in fire and water. The water stills. Ship parts and crew sink slowly downwards."
+      },
+      "Id": 185482,
+      "Name": "Destroy the wreck and all survivors",
+      "Description": "You should not be here. No one must know."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243555,
+        "Name": "Something remains",
+        "Description": "You swim through a rip near the back of the Khanate zubmarine. Some of the crew quarters survive - although fire-blasted, and creaking. The Khanate crew had lived in confined luxury - a dozen beds are bolted to the floor. The chamber's walls are copper, the roof indigo-domed, the floor is lacquered. The zubmarine's supplies and everything else of value were destroyed by your guns. On your return, your navigator mentions seeing a small craft departing from the wreck, climbing slowly towards the light."
+      },
+      "Id": 186053,
+      "Name": "Board the wreck ",
+      "Description": "The Khanate zubmarine is dead in the water. Its shell-hull is torn, but something may have survived. "
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Id": 171406,
+  "Name": "鼠の艀を打ち倒した@{K}You've destroyed a Rat-Barge",
+  "Description": "この船はあなたのものだ！さて、これをどうしようか？@{K}The ship is yours! What will you do with her?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 171409,
+        "Name": "収穫は少ない@{K}Lean pickings",
+        "Description": "このような小さな船は彼らの隠された港からあまり遠くへは行かない。しかし、この船倉の奥のほうに何かがあった……@{K}These pinnaces don't sail far from their hidden harbours, but here's something at the back of the hold -"
+      },
+      "Id": 140756,
+      "Name": "略奪してから沈める@{K}Loot and scuttle her",
+      "Description": "この船は汚く古びていて、Zeeは安全ではない。取れるものだけ取って、先に進もう。@{K}She's a vile old vessel, and these zees aren't safe. Take what you can and move on."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 171410,
+        "Name": "窮余の革新@{K}Desperate innovations",
+        "Description": "この海賊たちはこれほどの速度を保つため、彼らのエンジンに危険で歪んだ改造を加えていた。自分の船で真似しようとは思わないかもしれないが、それから学ぶことは出来る……@{K}These pirates have done perverse and perilous things to their engine to keep it running at such a pace. You probably don't want to do those things. But you can learn from them..."
+      },
+      "Id": 140757,
+      "Name": "観察し全てを記録する@{K}Record any Observations",
+      "Description": "十分に知識を集めることが出来れば、何かを学べるかもしれない……@{K}If you've gathered enough, you may learn something..."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Id": 243621,
+  "Name": "Whale Bones ",
+  "Description": "The zee has not been kind. The colossal skull is intact, but the body has been reduced to a gnawed frame of bones. Carvings have been scored into the bones. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243622,
+        "Name": "You don your diving gear",
+        "Description": "Whatever the words read, they are now lost. Someone has further defaced each bone of the whale with a knife, obliterating every line. This is the censorship of Scrimshander, meted out on aberrant histories. "
+      },
+      "Id": 186097,
+      "Name": "Examine the engravings ",
+      "Description": "Are these inscriptions?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243624,
+        "Name": "",
+        "Description": "You and your crew don diving suits and swim out, armed with flasks and bonesaws. It takes three of you to hold a rib in place, another two to wield the saw. Someone slips; the saw descends too fast, biting deep into the bone. There is a snap. You are all covered in viscous liquid that spews from the break. "
+      },
+      "Id": 186098,
+      "Name": "Collect unknown toxins ",
+      "Description": "The marrow of these beasts bear poisons. Harvest them. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243626,
+        "Name": "You don your diving gear",
+        "Description": "You set to with the bone saw. While you work, curious shoals of angler-fish swim past, providing a brief moment of light. How pretty! They draw closer. Your navigator shines a torch to ward them away. Their many teeth reflect the light beautifully. A quick retreat seems wise.  "
+      },
+      "Id": 186099,
+      "Name": "Harvest stygian ivory ",
+      "Description": "The bones are intact, and valuable. "
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Id": 189552,
+  "Name": "父の遺骨: 安らかな帰港@{I}$Your Father's Bones: -> 父の遺骨:$Your Father's Bones: Safe Harbour",
+  "Description": "　葬儀に雨とは時節に適うものだ。Neathは、このまばらで憂鬱な雨によって、この日の午後を飾りつけることに決めたようだった。雨粒が、ショベルと棺と牧師の青白い額の上できらめいた。あなたの父親のことを憶えているロンドン人は多くはなかった。しかし、何と長きに渡る探求か！そして、ついに得られた安らぎよ！これがとても特別なことであるだけに、相当な数の群衆がこの葬儀に参列していた。会葬者たちは列をなしてあなたとの握手を求めた。彼らが話すとき、あなたはただ、zeeの音だけを聞いていた。@{I}Rain at funerals is decorous. The Neath chooses to grace this afternoon with one of its thin and melancholy showers. Water-drops glisten on the shovel, the coffin, the pale expanse of the vicar's forehead. Not many Londoners remember your father, but the sense of occasion - the long quest! the final return to rest! - has brought out a sizeable crowd. Mourners line up to shake your hand. When they speak, you hear only the zee.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 189553,
+        "Name": "静かな午後@{I}A quiet afternoon",
+        "Description": "　すべてが終わったあと、あなたは召使たちに晩の休みを与えた。空っぽの家に、時計の音が響く。屋根の梁が親しげにきしむ。それでもまだ、zeeの音が聞こえる。[この船長の経歴は完結しました。]@{I}$Aft -> 後部$Afterwards, you give the servants an evening off. The house is empty. The clock ticks. The roof-beams creak companionably. You can still hear the zee.  [This captain's career is complete.]"
+      },
+      "Id": 151963,
+      "Name": "帰宅して@{I}Return home",
+      "Description": "　一人また一人と、会葬者たちは去ってゆく。波の音が、かすかにあなたの耳朶を打つ。@{I}One by one, the mourners depart. Waves beat at the edge of hearing."
+    }
+  ]
+}

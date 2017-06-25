@@ -1,0 +1,47 @@
+{
+  "Id": 175487,
+  "Name": "ZLIMBO'D - TOOLS",
+  "Description": "Now we shall see who the really naughty monkey is.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 175488,
+        "Name": "Reset!",
+        "Description": "Deedle-deedle-deedle."
+      },
+      "Id": 143290,
+      "Name": "Reset Phase 1",
+      "Description": "You have no longer explored the islands."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176079,
+        "Name": "Done",
+        "Description": "Bing."
+      },
+      "Id": 143675,
+      "Name": "Jump to Phase 2",
+      "Description": "Islands (minimally) explored, Delightful Adventuress ready for her storyline."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176546,
+        "Name": "That was fast",
+        "Description": "Ding-ding-ding"
+      },
+      "Id": 143992,
+      "Name": "Automagically finish the Zeppelin",
+      "Description": "It's much quicker this way!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176547,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 143993,
+      "Name": null,
+      "Description": null
+    }
+  ]
+}

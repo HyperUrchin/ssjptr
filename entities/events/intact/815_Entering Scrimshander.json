@@ -1,0 +1,37 @@
+{
+  "Id": 254668,
+  "Name": "Entering Scrimshander",
+  "Description": "Before you looms the bone tower of Scrimshander, the City of Remembrance. Ivory structures jut from the pile, supported by buttressing tusks. As your light plays across them, you can make out inscriptions. Names, pictures, and dozens of lost languages. \r\n\r\nThe largest ones carry a warning: All are welcome to enter, but none may depart without leaving something of themselves behind.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 254669,
+        "Name": "Through the ivory gates",
+        "Description": "After scrupulously noting your ship's details, the guardian welcomes you to Scrimshander. The ivory gate parts before you. Dozens of finger-bones click apart and beckon you into the dry centre of the citadel."
+      },
+      "Id": 191204,
+      "Name": "Accept the price and dock",
+      "Description": "A solemn Drownie stands vigil outside of the port, holding a ceremonial key carved from a femur. All travellers, pilgrims, and truth-seekers are welcome - but leaving bears a steep price."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254672,
+        "Name": "Not yet",
+        "Description": "Leave history for the scholars. The present is far more interesting at the moment."
+      },
+      "Id": 191206,
+      "Name": "Keep sailing",
+      "Description": "No reason to commit yourself to history quite yet."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258358,
+        "Name": "A cowed crew",
+        "Description": "The guardian unlocks the ivory gates. Steel glints in her fingers as she carves an image of your ship into her massive bone key. Your brave crew decides to remain on the ship as you disembark for the tower's dry centre."
+      },
+      "Id": 192752,
+      "Name": "Accept the price and dock",
+      "Description": "A Drownie floats before the docking gate of a bone cathedral. She wears a cowl and carries a ceremonial key carved from a femur. At your approach, she sings a solemn greeting.\r\n\r\n\"Soldier, scholar, servant of art,\r\nHist'ry welcomes without toll,\r\nBut be warned, 'ere you depart,\r\nNone who enter, escape whole.\" [Beware: you will have to pay a price to depart from Scrimshander]"
+    }
+  ]
+}

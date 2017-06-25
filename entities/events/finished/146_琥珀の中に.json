@@ -1,0 +1,27 @@
+{
+  "Id": 148601,
+  "Name": "琥珀の中に@{K}In Amber",
+  "Description": "海底での地殻の変動により、海中に沈んでいた遺跡が再び水面に浮上したようだ。しかし古代の石を閉じ込めていたのは海水だけではない。その遺跡の半分ほどが琥珀のような滑らかで透き通ったオレンジ色の物質に包み込まれているのだ……あなたの目の前で遺跡が震え、唸るような音をたてた。いまだ続く変動によってすぐにまた海中へと沈んでしまうことだろう。@{K}Some disturbance of the undersea has brought sunken ruins up out of the water. But these stones were lost beneath more than the sea: they are half-encased in a smooth translucent orange substance, like amber...\r\n\r\nEven as you watch the ruins groan and shiver. The convulsions that brought them up will soon take them below again.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 148602,
+        "Name": "良い稼ぎ@{K}A half-gold haul",
+        "Description": "あなたは船員たちと共に琥珀のような物体に泳いで近づくと、のみと鎚を降り下ろし大小の欠片を削り取った。琥珀は簡単に砕けるも――同時に意外にもレモンのような香りを放った――波がその多くを浚っていってしまう。しかし、ポケットといくつかの袋を満たすだけの量は確保することができた。そうこうしているうちに足元から轟音が響いた。琥珀が震えている。あなたたちは琥珀が再び海の深みへと沈み始めるのと共に急いで船へと戻った。海は凄まじい咆哮をあげ盛大に泡を作りながら琥珀の上でその口を閉じた。@{K}You and your crew swarm over the ambery stuff with hammers and chisels, smashing off hunks and chunks. It powders easily (emitting an unexpected lemony fragrance) and the rising sea washes quantities of it away - but you fill pockets and sacks with it. At last a rumble rises from below - the amber shudders - and you all scramble clear as it sinks back into the deep. The waters close over it with a tremendous roar and show of foam."
+      },
+      "Id": 127494,
+      "Name": "琥珀の一部を削り、売るために持ち去る@{K}Chip some of the amber away to sell",
+      "Description": "この琥珀はロンドンで売られる'ディープ・アンバー'にとてもよく似ている。あのイカの顔をしたラバリーマンたちが滲みださせる物質だ。いい儲けになるかもしれない。@{K}$deep amber -> ディープ・アンバー, Rubbery M[ae]n -> ラバリーマン$It's very like the 'deep amber' sold in London - the stuff the squid-faced Rubbery Men exude. This may be a good haul."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148603,
+        "Name": "恐ろしい末路@{K}A horrid end",
+        "Description": "あなたは琥珀の外殻に入った亀裂をくぐり抜け内部の遺跡の調査を始めた。しかし、すぐに大地が揺れ、遺跡は再び沈み始める。あなたは無事外に飛び出すことができたがその直後あなたの後ろで琥珀は貝のようにその口を勢いよく閉じ、スパイト生まれの船員の踵を挟み込んでしまった。彼女は細く甲高い絶望の悲鳴をあげ必死にもがいたが逃げられない。遺跡が沈むにつれ水が彼女に迫り、そして叫び声は唐突に途絶えた。@{K}You squeeze through the fissures in the amber shell to explore the ruins within - but almost at once, the earth begins to rumble, and the ruins to sink. You scramble clear, but the amber snaps shut like a clam as you scramble clear, catching a zailor from Spite by the ankle. She screams a thin, tearing, desperate scream and struggles to free herself: in vain. The waters close over the ruin as it sinks, and the screaming ends abruptly."
+      },
+      "Id": 127495,
+      "Name": "遺跡を調べる@{K}Examine the ruins",
+      "Description": "地殻の変動によって圧力がかかり、古い遺跡を封じ込めていた琥珀に罅が入っている。中に潜り込んで探索することができるだろう。@{K}The amber encasing the ancient stones has cracked under the grinding pressures of the earth. You could scramble in and examine them."
+    }
+  ]
+}

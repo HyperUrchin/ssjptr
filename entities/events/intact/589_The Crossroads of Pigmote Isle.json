@@ -1,0 +1,47 @@
+{
+  "Id": 208104,
+  "Name": "The Crossroads of Pigmote Isle",
+  "Description": "Two vessels are docked at Saints-Haven. From the island of Visage comes a commandeered pirate ship. Its figurehead is a dying bull, transfixed with a spear. Next to it floats a decaying wreck barely held together by barnacles. Tales of Pigmote Isle have spread, and the powers of the zee have taken notice.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 208105,
+        "Name": "Caught in the middle",
+        "Description": "\"Hairless Adviser! Your timing is impeccable. Please, grant us your counsel one last time! They both demand our treasure in exchange for their protection. We cannot decide what would be for the best.\" The rodents surround you, noses pressed to the dock in supplication. \"Guide us!\""
+      },
+      "Id": 163495,
+      "Name": "Between two empires",
+      "Description": "A rotting Drownie and a woman in a crocodile mask stand on the docks. Both loom over the rodents deciding [q:Pigmote Isle: Mastery]'s response."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 208106,
+        "Name": "Praise the Fathomking!",
+        "Description": "With the handing over of the 'Thalassine', Pigmote Isle accepts His Complexity's protection. Celebrations are muted. Many citizens squeak quietly in disappointment. The loss, of their light and their dreams of independence, is a bitter one. But the deal is done, and at least for the moment, Pigmote's future is assured."
+      },
+      "Id": 163496,
+      "Name": "Support the Fathomking's claim",
+      "Description": "The Drownie bows. \"His Complexity's blessings upon you. My lord will be pleased to see the glorious Thalassine returned to the deeps. In gratitude, he will reach his soggy hand over Pigmote, in justice and protection.\" He looks expectantly first at you, then at the rodents. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 208107,
+        "Name": "Hail Visage!",
+        "Description": "With the handing over of the 'Left Eye', Pigmote Isle accepts Visage's offer. Celebrations are muted. Many citizens squeak quietly at both the loss of their treasure and the Ambassador's decision to stay and work towards what she will only refer to as 'other interests'. But the deal is done, and at least for the moment, Pigmote's future is assured."
+      },
+      "Id": 163497,
+      "Name": "Support the Visage claim",
+      "Description": "The ambassador bows. \"The Left Eye of Flourishing-of-Years called to us from across the waves. It is ours by birthright and ours to claim, yet let none say we are not generous. In exchange for its return, we offer both our friendship and our wisdom. Secrets, Captain, that can guarantee the prosperity of a nation.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 208108,
+        "Name": "The die is cast",
+        "Description": "The Drownie returns to his vessel, his bloated feet squelching with each angry step. The Visage ambassador is silent behind her mask. Neither of their masters will let this insult go unanswered."
+      },
+      "Id": 163498,
+      "Name": "Advocate for Independence",
+      "Description": "Great rewards demand great risks. But they are ready.\r\n [This is a gamble. The higher Pigmote Isle's Might, Civilisation and Spirit, the better its chances.]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Id": 240346,
+  "Name": "A Last Desperate Breath ",
+  "Description": "A brief struggle. Dizziness. Lights. Panicked urgent breaths. Then, sleep. Then, stillness. [You have run out of Oxygen.]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 240347,
+        "Name": "A bleak dawn ",
+        "Description": "It's over for now - but -"
+      },
+      "Id": 183969,
+      "Name": "Drifting into deeper darkness",
+      "Description": "You will be mourned."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240348,
+        "Name": "A bleak dawn ",
+        "Description": "It's over for now - but -"
+      },
+      "Id": 183970,
+      "Name": "Drifting into deeper darkness",
+      "Description": "You will be mourned - but you've provided for your heir."
+    }
+  ]
+}

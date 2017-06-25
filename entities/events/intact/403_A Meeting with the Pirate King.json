@@ -1,0 +1,17 @@
+{
+  "Id": 169576,
+  "Name": "A Meeting with the Pirate King",
+  "Description": "What might one expect from Leopold, Pirate-King of the Isle of Cats: a hulking, grizzled presence with a crimson cat tattooed across his back? An oil-bearded wretch with a brace of pistols strapped to each hip, and eyes like wildfire? A gaunt-cheeked honey-seeker wasted from years of dissolution?\r\n\r\nHe looks, as it turns out, more like a lawyer than a dissolute lord - though he is at least wearing a robe of patterned-silk over his dark suit. Behind him you see a wall of what you think are wine-racks. On closer inspection, the racks hold bottle upon carefully labelled bottle of red honey. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 169577,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 139697,
+      "Name": "\"Captain's compliments, my King.\"",
+      "Description": "Isery enters with a wine-glass of thick honey; behind them Zaira drags in a stumbling prisoner. It is the sailor you stole from the Cumaean Canal, only they do not seem to recognise you at all."
+    }
+  ]
+}

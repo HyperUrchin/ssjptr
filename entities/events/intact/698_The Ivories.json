@@ -1,0 +1,57 @@
+{
+  "Id": 239965,
+  "Name": "The Ivories",
+  "Description": "The area throbs with activity. Merchants cry their wares and buoy goods for easy transport to and from the docked zubmarines. Crates and barrels flow around you, skillfully directed by vigorous Nookers. \r\n\r\nKnots are double checked and lines twice tested - but the unaccustomed shaking and quaking of the Maw is otherwise doing little to interfere with commerce. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 239976,
+        "Name": "\"Whatever you do, don't shake it.\"",
+        "Description": "The trader holds each drowning-pearl to his ear before tucking them away. \"A pleasure doing business,\" he says, as he hands you an artefact in exchange. You've barely secured it before he gives you a gentle push which sends you floating out of his shop. It's apparently a gesture of respect among the Nookers."
+      },
+      "Id": 183735,
+      "Name": "Trade in Outlandish Artefacts",
+      "Description": "Nook's lack of regulation has created a small but flourishing trade in antiquarian curios of questionable provenance."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239979,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 183736,
+      "Name": "Play a round of Snaplamprey",
+      "Description": "During lulls in work, Nook dockworkers entertain themselves with this game. Distinctive circular scars mark out enthusiasts. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240531,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 184092,
+      "Name": "Leave the Ivories",
+      "Description": "Return to central Nook."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243572,
+        "Name": "Too close",
+        "Description": "You claw wildly through the water towards your vessel. Your aim is desperate; dark blotches and white cracks flare through your vision. The effort of not breathing burns. The airlock is ready, open; but it must be closed and emptied. Finally, air inches into the top of the chamber. You cough and retch the Nookwater from your lungs. "
+      },
+      "Id": 186063,
+      "Name": "The Creeping Drown",
+      "Description": "The lungweed is wearing off. You have to get to air. Swim for your ship - fast!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239973,
+        "Name": "\"Please. Just stop.\"",
+        "Description": "Something has the dockworkers scared. Most will not even meet your eye. One fins up to you under the pretence of removing a damaged barrel. \"No one will talk to you with the Nerveless about.\" Then she kicks away and is gone."
+      },
+      "Id": 183733,
+      "Name": "Pursue your investigations",
+      "Description": "The Maw convulses. The Dockworkers pause only briefly. Their expressions are not stoical - their faces bear the fixed smiles of those unwilling to admit to fear.\r\n\r\nWhat is causing these Maw quakes? If they began when the children disappeared, might they be connected?"
+    }
+  ]
+}

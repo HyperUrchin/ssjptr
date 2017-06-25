@@ -1,0 +1,37 @@
+{
+  "Id": 152176,
+  "Name": "光の熱@{M}Light's fever",
+  "Description": "貴方の中で、光に対する執着はより強くなっている。この夢は何時までも繰り返す。偉大な光は、終には成就となるだろう。貴方は一体何を切望しているのだ?@{M}The delirium of sunlight grows stronger in you. This dream recurs again and again. A great light, and an ending, a kind of consummation. What do you yearn for?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 152177,
+        "Name": "目を閉じて見よ@{M}Close your eyes and see them",
+        "Description": "氷の向こう側には光がある。光の向こう側には色がある。色の向こう側には、闇があり、色の向こう側には...\"名前持つ者\"が、燃えている、燃えている。@{M}Behind the ice is light. Behind the light are colours. Behind the colours, darkness. Behind the colours, a Name, burning, burning."
+      },
+      "Id": 129712,
+      "Name": "...輝ける塔@{M}...shining towers",
+      "Description": "此処かで、人口の星々に向かって氷と絡繰仕掛けの岩が立ち上っている。@{M}$false-star -> 偽星$Somewhere, ice and riddle-worked rock rise towards the false-stars."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152182,
+        "Name": "沈んだ太陽@{M}A sunken Sun",
+        "Description": "道は波を超えて東へ走る。光膜は無秩序な足跡のように斑な印象を与える。旅人は引き返している。@{M}The road runs east across the waves. Dappled images like footprints, glaze of light. A traveller returning."
+      },
+      "Id": 129717,
+      "Name": "下からの光@{M}...a light beneath",
+      "Description": "水の中にある何かが煌めいている。@{M}Something in the water gleams."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152183,
+        "Name": "憧れ、焦がれ@{M}Yearning, burning",
+        "Description": "「ついに、」はるか昔に読んだ物、「魂は空に還り、審判を受け、吸収され、自然に戻る。私はこれを昇華とは呼ばない。私はこれを消化と呼ぶ。だが、私が恐れるのは、これが私達全員に起こるという事なのだ。」@{M}\"Finally,\" you read long ago, \"a soul returns to the sky, for the Judgements to absorb and savour and add to their nature. I do not regard this as ascension. I regard it as digestion. But I fear it comes to us all.\""
+      },
+      "Id": 129718,
+      "Name": "...太陽@{M}...the Sun",
+      "Description": "石が貴方を光線から守っているが、それも長くは続かない。@{M}Stone shields you from its rays, but not forever."
+    }
+  ]
+}

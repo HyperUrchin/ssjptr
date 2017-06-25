@@ -1,0 +1,17 @@
+{
+  "Id": 150640,
+  "Name": "探り回る触手@{I}探求する触手@{M}A Questing Tentacle",
+  "Description": "　それは微光を放ちながらzeeから起き上がった。それは一人の水夫の周りで気怠げにとぐろを巻いた。その水夫は何も言わない。叫びもしない。彼女はただ、触手の抱擁へと足を踏み出し、そして消えてしまった。@{I}薄光の中、それはジーから昇り出る。それは気だるそうに、物言わぬ、叫びもしない船乗りに巻き付いた。彼女はただその抱擁の中に誘われ、そして消えた。@{M}Gleaming, it rises from the zee. It coils lazily around a zailor, who does not speak, or cry out. She only steps into its embrace, and is gone.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 150646,
+        "Name": "あれはあなたの想像？@{I}それは貴方の妄想か?@{M}Did you imagine it?",
+        "Description": "　zeeは静かだ。水面を乱すものは何もない。だがあなたは、月光のように青白い怪物の触腕を目にした……。あれはそこにいたのだろうか？あの水夫は自分から飛び込んだのだろうか？断じて、あなたが彼女を突き飛ばしたわけではない。断じて。@{I}ジーは静かだ。何も水面をかき乱しては居ない。だが、貴方は月色をしたモンスターの肢を見た...気がした。そこに居たのだろうか?船乗りが跳んだのか?いや、貴方は彼女を押していない。絶対に。@{M}The zee is quiet. Nothing stirs. But you saw the moon-pale limb of the monster... was it there? Did the zailor leap? Surely you didn't push her. Surely."
+      },
+      "Id": 128730,
+      "Name": "誰も@{I}何もいない@{M}No one",
+      "Description": "　尋ねても、誰も答えはしないだろう。@{I}訊ね、そして沈黙が返事した。@{M}Ask, and no one will answer."
+    }
+  ]
+}

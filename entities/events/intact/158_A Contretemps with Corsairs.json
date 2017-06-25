@@ -1,0 +1,37 @@
+{
+  "Id": 148821,
+  "Name": "A Contretemps with Corsairs",
+  "Description": "Fights on the Mourn have a staccato quality. A careless lunge will send you plummeting to your doom. So wait, and choose your moment carefully.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 148824,
+        "Name": "A disappearance",
+        "Description": "Your Mog's fearless agility gives it a tremendous advantage. It leaps from pirate to pinnacle to pirate, leaving a trail of swiped eyes, bleeding scalps and multi-lingual curses. In confusion and terror, the enemy flees! ...but when the dust clears, the Mog, too, is nowhere to be found. Did it lose its footing? Or did it just decide the Mourn is more to its liking?"
+      },
+      "Id": 127652,
+      "Name": "Unleash your Wretched Mog",
+      "Description": "Its fur is bristling. It's almost sparking. A sound like a dying storm rumbles in its throat."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148822,
+        "Name": "A situation of considerable gravity",
+        "Description": "Knives glitter in the lamp-light. Shots ring out. Zailor after zailor goes spinning away into the dark. Withdraw if you can!"
+      },
+      "Id": 127650,
+      "Name": "Fight!",
+      "Description": "You're good at that."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148823,
+        "Name": "Not unscathed",
+        "Description": "One pulse-pounding chase through the shanties of Gaider's Mourn later, you finally evade pursuit. You count heads. One short."
+      },
+      "Id": 127651,
+      "Name": "Flee...",
+      "Description": "The better part of valour is discretion. The better part of discretion is not falling off a high cliff into a rock-fanged sea."
+    }
+  ]
+}

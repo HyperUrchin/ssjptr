@@ -1,0 +1,27 @@
+{
+  "Id": 150220,
+  "Name": "Placeholder Beastie",
+  "Description": "I do not exist, but you can fight me if you like.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 150221,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 128480,
+      "Name": "Fight!",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 150222,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 128481,
+      "Name": "Flee!",
+      "Description": ""
+    }
+  ]
+}

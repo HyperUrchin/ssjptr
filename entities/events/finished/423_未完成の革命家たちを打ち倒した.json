@@ -1,0 +1,27 @@
+{
+  "Id": 171436,
+  "Name": "未完成の革命家たちを打ち倒した@{K}You've destroyed the Unfinished Revolutionaries",
+  "Description": "粘土の欠片が甲板に散らばっている。それは陶器の欠片のように靴の下で音を立てて砕けた。未完成クレイマンは降伏しない。@{K}$Unfinished M[ae]n -> 未完成クレイマン$Fragments of clay litter across the deck. They crunch underfoot like potsherds. Unfinished Men do not surrender.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 171439,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 140772,
+      "Name": "船倉を調査する@{K}Investigate the hold",
+      "Description": "この悪党どもはどんな宝を持っているだろう？@{K}What treasure did these villains take?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 171441,
+        "Name": "無数の欠如@{K}A hundred absences",
+        "Description": "未完成クレイマンたちは他のクレイマンに備わる何かが欠けている。あなたの敵それぞれに欠けているものは何だろう？片目、片腕、慈悲、従順さ、恐れ、痛み、影、平衡感覚。これらは哲学の題材になるかもしれないが、戦術の材料ともなる。@{K}$Clay M[ae]n -> クレイマン, Unfinished M[ae]n -> 未完成クレイマン$An Unfinished Man is missing something that other Clay Men lack. What did each of these your enemies lack? An eye. A hand. Mercy. Obedience. Fear. Pain. A shadow. A sense of proportion. This may serve as material for philosophy, or for battle tactics."
+      },
+      "Id": 140774,
+      "Name": "観察し全てを記録する@{K}Record any Observations",
+      "Description": "十分に知識を集めることが出来れば、何かが学べるかもしれない……@{K}If you've gathered at least 10 Observations, you may learn something..."
+    }
+  ]
+}

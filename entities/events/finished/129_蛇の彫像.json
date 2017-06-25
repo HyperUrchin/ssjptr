@@ -1,0 +1,57 @@
+{
+  "Id": 147445,
+  "Name": "蛇の彫像@{I}$Serpent[- ]Image -> 蛇の彫像$A Serpent-Image",
+  "Description": "「見なよ！」水夫の一人が叫んだ。灰色の葉を持つ木の、苔むした湾曲部に寄り掛かる何かがあった。それは黒と赤、そして黄色に塗られた、木彫の蛇だった。その両眼は柘榴石の薄片で作られていた。「こいつはバザールで良い値がつくよ」その水夫は言った。「けど呪われそうな見た目してるぜ」別の一人が指摘した。@{I}\"Here!\" a zailor shouts. There's something nestled in the mossy crook of a grey-leafed tree. A wooden serpent, lacquered with black, red and yellow. Its eyes are garnet flakes. \"That'd fetch a good price at the Bazaar,\" the zailor observes. \"But it has a cursy look,\" points out another.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 147447,
+        "Name": "賛同する呟き@{I}Approving murmurs",
+        "Description": "「そのまま腐らせておけ！」あなたは叫んだ。「異教の物だ」水夫たちは押し殺した喝采を上げた。ただ、それを見つけた水夫は、落胆しているようだった。@{I}\"Let it rot!\" you cry. \"Heathen thing.\" The crew raise a muted cheer, although the zailor who found it looks disappointed."
+      },
+      "Id": 126716,
+      "Name": "そのままにする@{I}Leave it",
+      "Description": "　それは呪われているかもしれないし、呪われていないかもしれない。しかし、あなたの水夫たちは、コウモリが一匹落ちてきただけでも迷信に影響されてしまうのだ。@{I}Perhaps it's cursed, perhaps it's not, but your crew gets superstitious at the drop of a bat."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 147449,
+        "Name": "まさに彼の求めていたもの？@{I}Just what he needs?",
+        "Description": "「人間は鏡の外側の世界を支配している」彼はあなたに説明した。「多かれ少なかれ。そしてフィンガーキングは、鏡の内側の世界を支配している。(多かれ少なかれな。)大昔、軽率な連中が、フィンガーキングを閉じ込めるためにこういう物を作った。俺はそこまで軽率じゃない。これを利用すれば、俺は俺の腕を奪ったフィンガーキングへの復讐を果たすことができる」彼はしめしめという様子で、現に、腕のフックで自分のあご髭を撫でつけていた。<br/><br/>　彼は蛇の彫像を調べるために自分の船室に下がったが、一日経つと、落胆した様子で戻ってきた。「色々な幾何学がある」彼は曖昧な説明をした。「ちょっとカーネイトに寄ってもらっても構わないか？そこなら、こいつを解くのを手伝ってくれる奴が見つかるから」[マジシャンを助けるために、カーンの心臓の港を訪れましょう。]@{I}$Fingerking -> フィンガーキング, Khan -> カーン, Khanate -> カーネイト, Khan's Heart -> カーンの心臓$\"Men rule the world outside mirrors,\" he tells you, \"more or less. And the Fingerkings rule the world inside them. (More or less.) A long time ago, some rather careless people made these things to imprison Fingerkings. I'm not so careless. I can use it to enact my revenge on the 'king that took my hand.\" He is gloating. He actually strokes his moustache with his hook.\r\n\r\nHe retires to his cabin to investigate the serpent-image, but emerges a day later disappointed. \"Different geometries,\" he explains obscurely. \"Do you mind if we pop by the Khanate? I can find someone there to help me work this one out.\" [Visit the port of Khan's Heart to help the Magician further.]"
+      },
+      "Id": 126718,
+      "Name": "気さくなマジシャンにはこれの使い途がある@{I}$Genial Magician -> 気さくなマジシャン$The Genial Magician has a use for it",
+      "Description": "「何と」彼は言った。「まさにこれが俺の求めていたものだ。俺がこれに掛り切りになっても構わないかな？」@{I}\"I say,\" he remarks. \"This is just what I need. Mind if I hang on to it?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149120,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 127828,
+      "Name": "それをもらう@{I}Take it",
+      "Description": "　あなたは彼らの恐怖を和らげるための方法について考えても――待て。あなたは以前、ここに来たことがある。木。そして蛇。これは初めてではない。@{I}Perhaps you can think of some way to - wait. You've been here before. The tree, the serpent. This isn't the first time."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 147446,
+        "Name": "蛇の凝視@{I}An ophidian gaze",
+        "Description": "　あなたはその物体が何であるか知らなかった。あなたはそれを、年代物の六分儀の隣の棚の上に置いた。しかし、その両眼の赤々とした輝きは、あなたを不安な気持ちにさせた。とうとう、あなたはそれを見ずに済むように、上から帽子を被せてしまった。それまでに、二人の水夫が『腹を空かせたジャングル』の夢を見ると不満を言っていた。@{I}You've no idea what the thing is. You put it on the shelf next to your antique sextant, but the ruddy glitter of its eyes gives you the creeps. Eventually you leave a hat on top so you don't have to look at it. Meanwhile, two sailors complain that they're dreaming of 'hungry jungles'."
+      },
+      "Id": 126715,
+      "Name": "とにかく、それをもらう@{I}Take it anyway",
+      "Description": "　あなたは彼らの恐怖を和らげる方法について考えても良いかもしれない。@{I}Perhaps you can think of some way to allay their fears."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 147448,
+        "Name": "蛇の凝視@{I}An ophidian gaze",
+        "Description": "　あなたはその物体が何であるか知らなかった。あなたはそれを、年代物の六分儀の隣の棚の上に置いた。しかし、その両眼の赤々とした輝きは、あなたを不安な気持ちにさせた。とうとう、あなたはそれを見ずに済むように、上から帽子を被せてしまった。それまでに、二人の水夫が『腹を空かせたジャングル』の夢を見ると不満を言っていた。だが、少なくとも像の発見者は、追加の給金をもらえたことに安心していた。@{I}You've no idea what the thing is. You put it on the shelf next to your antique sextant, but the ruddy glitter of its eyes gives you the creeps. Eventually you leave a hat on top so you don't have to look at it. Meanwhile, two sailors complain that they're dreaming of 'hungry jungles'. At least the extra pay has reassured its discoverer, though."
+      },
+      "Id": 126717,
+      "Name": "それをもらうが、見つけた水夫に褒章を与える@{I}Take it, but reward the zailor",
+      "Description": "　等分に。それが公平というものだ。彼女が見つけなければ、あなたはそれを完全に見逃していただろう。@{I}Half-share: fair's fair. If she hadn't seen it, you'd have missed it entirely."
+    }
+  ]
+}

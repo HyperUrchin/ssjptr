@@ -1,0 +1,27 @@
+{
+  "Id": 239180,
+  "Name": "The Tide of Teeth",
+  "Description": "Your bow-light illuminates an uncountable school of eyeless, pale fish. A zailor pauses, fascinated by their pearly scales. He watches as the fish form silent ranks. Rows upon rows of them, like a shark's jaws closing around you.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 239182,
+        "Name": "Food for the swarm",
+        "Description": "The hungry school ignores your torpedoes. Explosions blow apart their orderly ranks but more fish-teeth swim to replenish their ranks. Again and again, your zubmarine is savaged as they throw themselves against your hull. burrowing suicidally into the metal. As you watch, one of the pearly fish bursts through a porthole and buries itself in a zailor's neck.\r\n\r\nYou beat a panicked retreat and the tide of teeth loses interest as your zubmarine limps away. When you lay out the dead zailor, you can still see the shape of the tooth-fish wriggling beneath his skin."
+      },
+      "Id": 183227,
+      "Name": "Fight through!",
+      "Description": "You won't be menaced by minnows, no matter how many there are."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239181,
+        "Name": "Not unscathed",
+        "Description": "The pearlescent fish are mesmerizing, but the relentless thudding of their scaled bodies upon your hull metal dissuades reverie. You flee the eyeless school at full speed, leaking from a half-dozen punctures in your shell-hull, each no larger than a sardine. A thin filament stretches from each away into the dark towards a single point, quickly severed as your engines pull you away.\r\n\r\nFalling further and further behind you, the school turns its attention to other prey. The teaming mass surrounds a passing shark, bludgeoning it to cloudy paste."
+      },
+      "Id": 183226,
+      "Name": "Escape!",
+      "Description": "What kind of beasts are these? Not important. Survival is more pressing than taxonomy."
+    }
+  ]
+}

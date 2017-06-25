@@ -1,0 +1,87 @@
+{
+  "Id": 141265,
+  "Name": "A Concert",
+  "Description": "As you prepare to go ashore, your First Officer salutes. \"Captain! Four of the crew intend to perform a concert. On the zee-shore. You and I are both invited to attend.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 141266,
+        "Name": "Torches in the night",
+        "Description": "The Cook has converted pots into kettle-drums. The Quartermaster has improvised pan-pipes. That squint-eyed fellow from Shepherd's Wash has brought out an actual fiddle. They set up on a dark beach lit by torches on poles, and do eight folk-songs, a mischievous music-hall number called The Empress Likes Them Quiet, and an odd restless little tune like a caged cat. \"My own composition,\" the Washman confides.\r\n\r\nHonestly, they're not very good. They are unrehearsed and uneven, and the presence of something serpentine in the surf puts them off. But those homely sounds here on the deep's doorstep - something about it lifts the heart."
+      },
+      "Id": 122736,
+      "Name": "Attend",
+      "Description": "It'll be good for morale, and perhaps some of them can actually carry a tune."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 146726,
+        "Name": "",
+        "Description": "An impression of a harpsichord: Scarlatti sonatas."
+      },
+      "Id": 126243,
+      "Name": "Ascetic Monkey",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 146727,
+        "Name": "Their little faces!",
+        "Description": "\"Of course, Captain. You have more important matters to attend to. We... understand.\""
+      },
+      "Id": 126244,
+      "Name": "Ignore",
+      "Description": "You're not wasting your time on this. [This will select another exploration option.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 146899,
+        "Name": "A gloomy inspiration",
+        "Description": "Afterwards, you can't remember where you first heard the tune, or why you thought it was a good idea. But once you begin it - an arrogant, mocking thing in waltz time - you can't seem to stop. Your companions follow you like men possessed. The audience rise to their feet: they stamp and moan and sway. Far off across the zee, a sound like thunder joins your chorus. When you stop, it's silent for the longest time."
+      },
+      "Id": 126360,
+      "Name": "Perform",
+      "Description": "You learn to play a harmonica, up on the roofs of Fallen London. Perhaps you can join in. [The lower your Terror and the higher your Hearts, the easier this will be.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 146901,
+        "Name": "A gloomy inspiration",
+        "Description": "Afterwards, you can't remember where you first heard the tune, or why you thought it was a good idea. But once you begin it - an arrogant, mocking thing in waltz time - you can't seem to stop. Your companions follow you like men possessed. The audience rise to their feet: they stamp and moan and sway. Far off across the zee, a sound like thunder joins your chorus. When you stop, it's silent for the longest time."
+      },
+      "Id": 126361,
+      "Name": "Perform",
+      "Description": "You used to play a flute in the Singing Mandrake. You have it still. Perhaps you can join in. [The lower your Terror and the higher your Hearts, the easier this will be.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 146903,
+        "Name": "A gloomy inspiration",
+        "Description": "Afterwards, you can't remember where you first heard the tune, or why you thought it was a good idea. But once you begin it - an arrogant, mocking thing in waltz time - you can't seem to stop. Your companions follow you like men possessed. The audience rise to their feet: they stamp and moan and sway. Far off across the zee, a sound like thunder joins your chorus. When you stop, it's silent for the longest time."
+      },
+      "Id": 126362,
+      "Name": "Perform",
+      "Description": "You still have your old pennywhistle from your campaigning days. Perhaps you can join in. [The lower your Terror and the higher your Hearts, the easier this will be.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 146905,
+        "Name": "A gloomy inspiration",
+        "Description": "Afterwards, you can't remember where you first heard the tune, or why you thought it was a good idea. But once you begin it - an arrogant, mocking thing in waltz time - you can't seem to stop. Your companions follow you like men possessed. The audience rise to their feet: they stamp and moan and sway. Far off across the zee, a sound like thunder joins your chorus. When you stop, it's silent for the longest time."
+      },
+      "Id": 126363,
+      "Name": "Perform",
+      "Description": "In happier times, you'd practice the recorder in the parlour of the rectory. You still have it somewhere. You could join in. [The lower your Terror and the higher your Hearts, the easier this will be.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 146907,
+        "Name": "A gloomy inspiration",
+        "Description": "Afterwards, you can't remember where you first heard the tune, or why you thought it was a good idea. But once you begin it - an arrogant, mocking thing in waltz time - you can't seem to stop. Your companions follow you like men possessed. The audience rise to their feet: they stamp and moan and sway. Far off across the zee, a sound like thunder joins your chorus. When you stop, it's silent for the longest time."
+      },
+      "Id": 126364,
+      "Name": "Perform",
+      "Description": "The Consequential Undercommittee once gave you a zither. It was a joke, you thought, but you learnt to play it, just to show them. You have it still. Perhaps you can join in. [The lower your Terror and the higher your Hearts, the easier this will be.]"
+    }
+  ]
+}

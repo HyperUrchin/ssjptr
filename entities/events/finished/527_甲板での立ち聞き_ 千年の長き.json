@@ -1,0 +1,6 @@
+{
+  "Id": 181353,
+  "Name": "甲板での立ち聞き: 千年の長き@{M}Overheard at Zee: A Thousand Years",
+  "Description": "<b>紋様持ちの航海士:</b>「聞きたいんだが、お主達は永遠に生きられるというのは真か?」\r\n<b>女冒険者:</b>「それは聞いていい質問では無いさね。」\r\n<b>紋様持ちの航海士:</b>「ああそうか...済まん。」\r\n<b>女冒険者:</b>「ああもう何だい一体。あたし達は別に永遠に生きられる訳じゃない。ただ、千年以上の寿命があるだけさ。あたし達の<i>一部</i>が...ね。」\r\n<b>紋様持ちの航海士:</b>「それを聞いてもっと申し訳なく思ったよ。」\r\n\r\n<b>女冒険者:</b>「カタブツだねぇ、ちょっと。落ち込んでるじゃないのさ。もっとほら、明るく出来ないのかい?」\r\n<b>紋様持ちの航海士:</b>「ああ...いや、本当に出来ないんだ。」\r\n@{M}SIGIL-RIDDEN NAVIGATOR: Is it true you people live forever?\r\nADVENTURESS: That's not a good question to ask.\r\nSIGIL-RIDDEN NAVIGATOR: I'm sorry.\r\nADVENTURESS: Oh, what the hell. No, we don't live for ever. But we can live a thousand years. <i>Some</i> of us can live a thousand years.\r\nSIGIL-RIDDEN NAVIGATOR: Then I'm even sorrier. \r\nADVENTURESS: Great Stone, man, you're depressing! Can you cheer up a little? Please?\r\nSIGIL-RIDDEN NAVIGATOR: No... no, I really can't.",
+  "ChildBranches": []
+}

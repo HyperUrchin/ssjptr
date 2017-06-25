@@ -1,0 +1,347 @@
+{
+  "Id": 238317,
+  "Name": "Dahut",
+  "Description": "Drownies built a copy of London as it never was: a cathedral, and houses, and fields of flowers, all underwater. The water is cool and luminous, and at the same time it is breathable air.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 238333,
+        "Name": "They call it the City of Peace",
+        "Description": "The Drownies make you welcome. They do not attack here. They do not even move quickly. They drift and sing and sometimes dance. "
+      },
+      "Id": 182644,
+      "Name": "Stay a while",
+      "Description": "Bring the Drownies news of how London is now, and they will allow you to remain here for a time in exchange. [Note that it is easy to gain Terror in Dahut. Be careful.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238368,
+        "Name": "A memory of a memory of the Surface",
+        "Description": "Everything is washed in light, though there is no sun. The air-water tastes of strawberries. The dancers are all around you. The pipes and the drum desire you to sing. And coming towards you are three especially tall and lithe Drownies. They are carrying trophies, and a crown of ivy and white berries, and a witty poem in your honour."
+      },
+      "Id": 182666,
+      "Name": "Consider attending the Midsummer Festival",
+      "Description": "Beside the Cathedral is a green field, and on the field are dancers and ribbons and cakes with whole fruits baked inside. [There will be a chance to back out if you do not care for the ritual.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238380,
+        "Name": "Prisoners remain until they beg to be drowned",
+        "Description": "At Midwinter, the inhabitants of Dahut go below to see which prisoners are ready to leave the breathable water. They sing songs of failure and disgrace, and then the Drownies accept applications for escape."
+      },
+      "Id": 182675,
+      "Name": "Consider attending the Midwinter Emptying of the Prison",
+      "Description": "The Drownies gather at the iron latticework gate. Will you join them? [There will be a chance to back out if you do not care for the ritual.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238431,
+        "Name": "",
+        "Description": "Everything is lost and forgotten again."
+      },
+      "Id": 182708,
+      "Name": "Testing Branch",
+      "Description": "Reset Dahut"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238435,
+        "Name": "Crush, bite",
+        "Description": "The light fades out of the air, the warmth from the sea. You can still breathe, but your lungs ache from the chill of what you are breathing in. It is difficult to see any of the buildings of Dahut in this dimness, but the Cathedral looks like a wrecked hull."
+      },
+      "Id": 182710,
+      "Name": "Partake of the White Mollyflower",
+      "Description": "It will free you from any Enthralment to Dahut, though it will not prevent you becoming enthralled again in the future."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238518,
+        "Name": "Fill your lungs",
+        "Description": "You sing, and the Drownies around turn, arrested, to stare at you. They do not want to hear this song. The Cathedral beams creak, and you see that the buttresses are also the bones of a wrecked clipper. The Zee-grass ripples, and you see the crabs hiding in it. The water-air shimmers under the weight of the ordinary Zee above. "
+      },
+      "Id": 182770,
+      "Name": "Sing a Song of Broken Hulls",
+      "Description": "Reveal this place as it is: a treason against the laws of breathing and swimming. [Gain Clarity.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238523,
+        "Name": "An interplay of opposites",
+        "Description": "Illusion and truth are really two sides of the same thing. The Drownies cannot invent anything; they can only suggest new ways to see what is already present. "
+      },
+      "Id": 182773,
+      "Name": "Sing the Drownie Counterpoint Song",
+      "Description": "It is a song of dark and light, of acclaim and infamy. [This will average your Clarity and Enthralment.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238581,
+        "Name": "Borrowed regrets",
+        "Description": "The Needle brings you the memory of a long-ago theft, an engagement ring stolen from a corpse as it lay in its coffin. Shame and jealousy, set in a dusty parlour. The recollection belongs to a time and place much more real than Dahut.  "
+      },
+      "Id": 182823,
+      "Name": "Consume a Needle of Fortas",
+      "Description": "The point is sharp enough to end dreams. [This will reduce both Enthralment and Clarity.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238588,
+        "Name": "No one follows you, except with their eyes",
+        "Description": "What could be more expected, more inevitable, than two such persons as your lovely selves, withdrawing to enjoy one another's company?"
+      },
+      "Id": 182827,
+      "Name": "Consider attending the Spring Rites with a Drownie",
+      "Description": "Skin the colour of blue topaz, bones like the frame of a violin. [There will be a chance to back out if you find it is not for you.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238605,
+        "Name": "The last of the Festivals",
+        "Description": "The Cathedral is dark, except for candles that do not nearly illuminate its upper reaches. The Drownies gather in the choir stalls to sing. They sing about graves they will never inhabit, about the renown of a good death. The floor is strewn with Drowning-pearls."
+      },
+      "Id": 182835,
+      "Name": "Consider attending the Liturgy of Souls",
+      "Description": "The Drownies nibble sugar bones and the doors of the Cathedral are opened for the only time in the year. [There will be a chance to back out if you do not care for the ritual.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239744,
+        "Name": "Dahut, City of Peace",
+        "Description": "Water and air are the same thing here: a betrayal of nature, or a truce between opposites. Swim up the side of the Cathedral, if you like, and peer in through its rose windows. (You won't be able to make out anything inside.) Breathe deep. Fill your lungs with a substance cooler and more cleansing than ordinary air. Walk in the gardens with the fish around your knees. Do not ask questions about the King of this place: those will go unanswered."
+      },
+      "Id": 183579,
+      "Name": "Wander, look, make no commitments",
+      "Description": "You're only here as a visitor. You don't need a place to stay."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239747,
+        "Name": "Glittering",
+        "Description": "You cannot sing the song as well as its original singer, but it still captivates: the memory of seduction, the willingness to be seduced again, the glory of the Zee and its inhabitants. The air around you seems brighter than ever, the Drownies more beautiful. You fancy that the creatures of the surrounding Zee are gathering at the perimeter of Dahut to look in with wistful desire. In your song there are no pincers, no teeth, no calendars and no clocks."
+      },
+      "Id": 183581,
+      "Name": "Sing a Drownie Love-song",
+      "Description": "Express your longing. [Deepen your Enthralment.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239757,
+        "Name": "Drownie Couturier",
+        "Description": "In a cluttered workshop, the Drownie Couturier copies fashion plates from London for the upper half of the garment. The set of the sleeves is as good as anything one could find at home. She takes pride in matching the weave of cloth, the buttons, the dyes and trim, so that nothing falls short of the original. As for the lower half, it swirls and floats as Drownie clothes do, though she has to modify her usual pattern in order to make it fit your legs. Not that there is anything wrong with that, she assures you."
+      },
+      "Id": 183586,
+      "Name": "Be fitted for clothes",
+      "Description": "Your ordinary garments don't fit in with the local style. If you're going to stay, you might as well blend in."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239763,
+        "Name": "Gather, listen",
+        "Description": "You lift your voice, and the Drownies join in at once, filling the water with the familiar song. The Cathedral lights from within, casting rose and gold and nile-green beams outwards from its windows. The effect is immediate. Far above, there is a shriek of tearing metal. It begins to rain in Dahut: parts of a metal hull, chunks of engine, the bodies of Khanate sailors. \r\n\r\nThe Drownies receive them with exultation and reverence. They lay the bodies in rows in the graveyard and search the pockets for anything curious."
+      },
+      "Id": 183590,
+      "Name": "Sing a Drownie Hymn",
+      "Description": "It is full of praise and awe. [This will increase both Clarity and Enthralment, and sometimes gain something extra.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239777,
+        "Name": "No",
+        "Description": "First they pretend not to have heard you speak, then they pretend not to know who you are talking about. Then they say that she was here, but that she has long since gone, and that of course she was never imprisoned. Then the story is that she was here, and she was imprisoned for trying to steal the mechanisms out of the Cathedral clock. Then it's that she died in the prison and there's no point looking for her now. All of these stories leave a shape in the middle, an outline of the unsaid truth."
+      },
+      "Id": 183599,
+      "Name": "Ask after the prisoner you heard about in Wrack",
+      "Description": "Is she still here? Have any of the Drownies seen her?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239816,
+        "Name": "Reset",
+        "Description": "Reset"
+      },
+      "Id": 183625,
+      "Name": "Reset Clarity/Enthralment only",
+      "Description": "Testing more"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240792,
+        "Name": "Stormless",
+        "Description": "\"The weather has been dismal lately. Hardly a single wreck since Saint Aegidius' Day, and then it was only a little yacht with a few sailors aboard. And two of those were able to swim to shore, and didn't come to Dahut at all! We just have to hope for the spell to break.\""
+      },
+      "Id": 184257,
+      "Name": "Ask a Drownie for the latest news of Dahut",
+      "Description": "The town is thriving and full of events."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245591,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 187368,
+      "Name": "The Fair King's Request",
+      "Description": "He asked you bury your gift of scintillack, to fulfil a rite they hold in Wrack."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254173,
+        "Name": "A pretty miracle",
+        "Description": "From the one seed, many flowers. They are as blue as Surface seas - as Surface skies! They twinkle like the stars in dreams. You pluck a blossom and enjoy its lush perfume, but leave enough for the patch to replenish."
+      },
+      "Id": 190894,
+      "Name": "Inspect a twinkling patch",
+      "Description": "Something gleams where you planted the Fair King's scintillack."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260633,
+        "Name": "A pretty miracle",
+        "Description": "From the one seed, many flowers. They are as blue as Surface seas - as Surface skies! They twinkle like the stars in dreams. You pluck a blossom and enjoy its lush perfume. No more will grow, but so it goes. They were beautiful, in their time."
+      },
+      "Id": 194365,
+      "Name": "The last of the sapphire blossoms",
+      "Description": "The patch of gemstone flowers has not replenished, as in the past. If you pick them now, they will not grow again."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238318,
+        "Name": "Known Truths",
+        "Description": "The more you look, the more you see that you are perhaps not intended to. The Cathedral's crypt is a prison. The graveyard is larger than it looks, and the bones are not all buried. The border between the breathable water and the dangerous water is not marked clearly; some have drowned in crossing over, leaving their possessions scattered on the zeefloor."
+      },
+      "Id": 182636,
+      "Name": "Assemble a Port Report",
+      "Description": "Gather information for the Admiralty. [This will always generate a Port Report, but the contents of that report may vary.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238331,
+        "Name": "Propagation of roses",
+        "Description": "The Blemmigan scampers over the seagrass. Here and there a little rosebush springs up from its spores, already budding with tiny furled cosmogone flowers. Drownies applaud your impromptu gardening. But a few minutes later, the bushes fade again, not really there at all."
+      },
+      "Id": 182643,
+      "Name": "Introduce a Blemmigan",
+      "Description": "Surely it would thrive in these fertile gardens."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238365,
+        "Name": "The staircase under the Cathedral",
+        "Description": "It leads down, but it's hard to see where it goes. There are plaques to past Drownies, but the words do not hold their meaning from one moment to the next. There is a gate of latticed iron, tinged with rust. Beyond the gate, the water is murky and dim."
+      },
+      "Id": 182664,
+      "Name": "Search for the secret places of Dahut",
+      "Description": "There are other humans here. You have heard voices and seen Zubmarines in dock. But where are the others kept?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238382,
+        "Name": "Sated",
+        "Description": "There is a rhyme to tell you the safe from the unsafe, but how does it go? Eat the fruit, disdain the root? Chewy lump, something-something dump?\r\n\r\nEven if you remembered perfectly, the food defies categorisation. The potato mash enclosed in lemon rind. The cakes that bleed cinnamon syrup in the water-air. The cocoa-dusted crab, which is not the kind of chewy intended by the poem. Probably. But soon you're too full to think about these matters."
+      },
+      "Id": 182676,
+      "Name": "Accept a place at the meal",
+      "Description": "Most of the Drownies' food may be eaten with impunity. You just need to remember which."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238582,
+        "Name": "Is it safe to see what is truly there?",
+        "Description": "If you won't see the glittering lights and the seaweed fields, then in their place are darkness and deep cold. When your courage gives way, the illusion rushes back in."
+      },
+      "Id": 182824,
+      "Name": "Endure",
+      "Description": "Take in nothing. Do not be enthralled. Do not learn. Resist the enchantment of Dahut."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238379,
+        "Name": "Flickering",
+        "Description": "When you extend your hand to the flames, they grow warmer, but not hot enough to burn or scald. The sensation is like dipping your hand into a cup of tea. Seeing your experiments, one of the Drownies makes a gesture. Three of them together push you fully into the bonfire. Your hair is crackling, and something like smoke is rising from your clothes, but when you scramble out again you feel whole just as before."
+      },
+      "Id": 182674,
+      "Name": "Observe the Bonfire",
+      "Description": "Mingle among the crowd. Learn from them. See if you can observe without being drawn into the dance."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239100,
+        "Name": "Another visitor's tale",
+        "Description": "The log rhapsodises about a visit to Dahut: the foods, the dances, the affection and beauty of the Drownies, the roses that grow to the size of cabbages, the herds of fish. 'I would have stayed there all my life, except that my First Mate was afraid of the food in that place and refused to eat it. She pressed me again and again to take her somewhere else before she starved. So finally I agreed to take her away to another place, always intending to go back to Dahut... but my Zubmarine being damaged in the voyage, I could not return...'"
+      },
+      "Id": 183179,
+      "Name": "Read an Unread Log entry on Dahut",
+      "Description": "It might shed some light, or it might not. [The Log's effect on your Clarity and Enthralment is at the whim of fate.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239745,
+        "Name": "Unanswered questions",
+        "Description": "You ask among the Drownies, but they reply with reassurances and flattery. No no, you are the only ones here! Don't worry! You have no competition. No one could be like you. You are special, welcome, adored. If you think you have heard a strange human voice  now and then, it is just a memory from your life before."
+      },
+      "Id": 183580,
+      "Name": "Look for other visitors",
+      "Description": "Dahut is thriving. Perhaps there are humans here besides you and your crew."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239748,
+        "Name": "Asking leads to nothing",
+        "Description": "What is below? Why, the Drownies say, It is a Crypt! It is full of monuments to the past, and persons who are no longer able to move around. The ceilings are low and the smell is peculiar, but that only adds to its romance."
+      },
+      "Id": 183582,
+      "Name": "Investigate the Crypt of the great Cathedral",
+      "Description": "Why isn't it quieter down there? Does it hold more than the dead?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239752,
+        "Name": "Do not be foolish",
+        "Description": "The Drownie in the vicar's collar peers at you. \"You have been here since Janupril,\" he says, as though to a young child. \"It will soon be the Feast of All Shrieks, and then Saint Aegidius' Day.\""
+      },
+      "Id": 183584,
+      "Name": "Investigate the Calendar",
+      "Description": "The dates in Dahut do not progress as they should. The seasons sometimes overlap. Sometimes it is no season at all."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239774,
+        "Name": "Asking leads to nothing",
+        "Description": "What is below? Why, the Drownies say, It is a Crypt! It is full of monuments to the past, and persons who are no longer able to move around. The ceilings are low and the smell is peculiar, but that only adds to its romance."
+      },
+      "Id": 183598,
+      "Name": "Investigate the Crypt of the great Cathedral",
+      "Description": "Can you see another Prisoner within?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239759,
+        "Name": "As friends",
+        "Description": "You part on pleasant terms, with kind words on both sides. They give you a necklet of Drowning-pearls, and tell you to return when you have fresh news of London."
+      },
+      "Id": 183587,
+      "Name": "Goodbyes",
+      "Description": "You have been here long enough for your departure to be honoured with a farewell party. [This will end your stay unambitiously with a small reward.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 242131,
+        "Name": "Asking leads to nothing",
+        "Description": "What is below? Why, the Drownies say, It is a Crypt! It is full of monuments to the past, and persons who are no longer able to move around. The ceilings are low and the smell is peculiar, but that only adds to its romance."
+      },
+      "Id": 185165,
+      "Name": "Investigate the Crypt of the great Cathedral",
+      "Description": "What is its purpose? Why isn't it quieter down there? Does it hold more than the dead?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259429,
+        "Name": "No luck",
+        "Description": "Your enquiries are exhaustive - the Philanthropist's husband is not here. You can cross this port off your list. [Check your journal for reminders about where the Philanthropist's husband might be.]"
+      },
+      "Id": 193443,
+      "Name": "Search for the Fierce Philanthropist's husband",
+      "Description": "Was he drawn here, to this sugar-spun facsimile of his former home?"
+    }
+  ]
+}

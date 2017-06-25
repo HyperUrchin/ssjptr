@@ -1,0 +1,257 @@
+{
+  "Id": 239946,
+  "Name": "Nook",
+  "Description": "Nook spirals down into the dark, like a great fanged quarry. Glow-eels twinkle; their light glinting off the jagged forest of teeth. Endless corridors lead to innumerable chambers - the city is a maze carved into enamel.\r\n\r\nCitizens swim by, their voices smothered by the water.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 239948,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 183717,
+      "Name": "Take a swim along the Ivories",
+      "Description": "The outermost teeth form Nook's dock-front. Now and then there is a flurry of activity as a zubmarine unloads its cargo. But the crews never leave ship - few can stand to eat the necessary lungweed."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239949,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 183718,
+      "Name": "Seek refreshment at the Crowded Mouth",
+      "Description": "It's not clear how drinking might work under water. Necessity is the mother of inebriation, however."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239950,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 183719,
+      "Name": "Visit the Maw-Shrine",
+      "Description": "A fine, spired tooth rises over its neighbours; devotees polish its enamel. Gongs resound within."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239951,
+        "Name": "White above, red below",
+        "Description": "Nook was founded by those fleeing the tyranny of above zee regimes. It is now the nexus of all the Unterzee's illicit trades, and is home to a few rich but paranoid captains of commerce. The wealthy live in fortified mansions cut into the upper rings. The minor traders and dockhands live deeper down, in the cramped lower rings of the Cavities.These workers also tend the oxygenating plantlife that grows in the gaps between their homes. \r\n\r\nBeneath the Cavities there is only the Gullet. It is lightless, and unsounded. No one has returned from exploring its depths. Occasionally it shifts, shaking the city. Nook-dwellers are accustomed to minor tremors."
+      },
+      "Id": 183720,
+      "Name": "Compile a Port Report",
+      "Description": "The Nookers consider themselves beyond the reach of any law. Naturally, the Admiralty takes a professional interest."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239952,
+        "Name": "A fierce tide",
+        "Description": "The mob turns to you in a smooth shoal. There is hatred on their faces. \"Trespasser! Bubble-mouth! Murderer!\" \r\n\r\nBut - you brought the girl <i>back</i>. What are they talking about? \r\n\r\n\"Where are our children? What have you done with them? They vanished after we let <i>your</i> kind in. And now the Maw is angry - <i>you</i> caused these quakes. Trespasser!\""
+      },
+      "Id": 183721,
+      "Name": "Clamour and Cry",
+      "Description": "A mob is forming on the docks, jostling and shouting. One with a vicious-looking fishing spear points at you. \"That Trespasser had one of our children aboard! Kidnapper!\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239962,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 183726,
+      "Name": "Investigate in the Ivories",
+      "Description": "The increase in city-quakes has driven off many of the merchant submarines. The dock-hands will be under worked and may have time to talk to you."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239963,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 183727,
+      "Name": "Talk to regulars at the Crowded Mouth",
+      "Description": "The increased shifting of the Maw has made the Nookers fractious and fearful. Unsurprisingly, the drinking-holes are doing a roaring trade."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239964,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 183728,
+      "Name": "Make Enquiries at the Maw-Shrine",
+      "Description": "People often turn to religion in times of trouble. Have the priests heard anything about the disappearances?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239987,
+        "Name": "A dramatic ending",
+        "Description": "\"The priests tell us that the Maw is our protector! But do <i>you</i> protect the morsels stuck in your teeth?\" There is loud muttering in response. \"The Maw could awaken any moment. She will destroy us!\" \r\n\r\nAs if on cue, the whole city shifts around you. The crowd erupts in shouts of fear. The figure in a hemp mask produces a small vial and crushes it in his fist. A cloud of ink engulfs him, then he is gone. No! There he is - darting down a narrow tunnel which leads towards the Cavities.\r\n\r\nThe Debonair Deductress appears at your shoulder. \"Rather a good show, don't you think? I intend to follow him.\""
+      },
+      "Id": 183741,
+      "Name": "Listen to the Hempen Man",
+      "Description": "A man in a hemp cloth mask is giving a speech in the main market chamber. He's gathered quite a crowd. [You will need Something Awaits You to listen to the Hempen Man.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240065,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 183784,
+      "Name": "Go to the Cavities",
+      "Description": "Your investigation points to Nook's underworld, down in the lower rings."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240539,
+        "Name": "The Unswum Depths",
+        "Description": "Nookers rarely venture close to the Gullet. It's not just because of superstitious dread; a near irresistible current sucks down it, pulling food, refuse and the unwary into the depths of the Maw. Only strong swimmers can escape it. \r\n\r\nStill, the current renders your swim downwards swift. After several minutes the ever-murkier water is abruptly lit by hundreds of glowing, tethered eels. They light a vast cut in the wall. Mechanical workings dig into the red Maw-flesh beyond. "
+      },
+      "Id": 184098,
+      "Name": "Head to the Lair of the Hempen Man",
+      "Description": "Your investigation points to somewhere in the darkness of the Gullet, far below where the city tunnels go. You will need to dive deep. [The lungweed trader will provide extra lungweed, so you can swim deep.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243593,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 186078,
+      "Name": "Take a swim along the Ivories",
+      "Description": "The outermost teeth form the dock-front of Nook. Rows of zubmarines are unloading cargo, but their crews stay aboard. What's the point in shore leave with no shore?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243594,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 186079,
+      "Name": "Seek refreshment at the Crowded Mouth",
+      "Description": "It's not clear how drinking might work under water. Necessity is the mother of inebriation, however."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243595,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 186080,
+      "Name": "Visit the Maw-Shrine",
+      "Description": "A particularly fine, spired tooth rises over its neighbours; devotees polish its enamel. Gongs resound within."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243615,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 186094,
+      "Name": "Trade for lungweed",
+      "Description": "Your air lines are not long enough to allow exploration. Eating lungweed will enable you to breathe the oxygen-rich Nookwater - but only for a while. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245553,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 187341,
+      "Name": "Approach the man staring at you",
+      "Description": "His gaze is rather intense. What does he want?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245618,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 187388,
+      "Name": "Get enough lungweed to enter the Gullet",
+      "Description": "The lungweed seller is careful in the rationing of her goods. Bubble-mouths are welcome as tourists, but not trusted with infinite access to the city. But your cause is almost certainly a good one. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245759,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 187489,
+      "Name": "Leave Nook",
+      "Description": "Return to your zub. You've other places to be. [You will lose all your Tolerance for Nookwater, and will need to acquire more before you can return to Nook.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245783,
+        "Name": "Too close",
+        "Description": "By the time you reach your vessel, you're beginning to feel the first effects of the Nook-water. A quickened heart. Clenched teeth. A swelling, blustery desire to laugh,"
+      },
+      "Id": 187506,
+      "Name": "Return to your zubmarine",
+      "Description": "The lungweed is wearing off."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245999,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 187671,
+      "Name": "Speak with the elegantly dressed woman",
+      "Description": "What's this 'nemesis' she's talking about?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246028,
+        "Name": "",
+        "Description": "The current renders your swim downwards swift. The ever-murkier water is abruptly lit by hundreds of glowing, tethered eels. They light a vast cut in the wall. Mechanical workings dig into the red Maw-flesh beyond. "
+      },
+      "Id": 187696,
+      "Name": "Return to the Cleft",
+      "Description": "Your investigation points to the Cleft, far below where the city tunnels go. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246544,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 188138,
+      "Name": "Take a swim along the Ivories",
+      "Description": "The outermost teeth form Nook's dock-front. Now and then there is a flurry of activity as a zubmarine unloads its cargo. But the crews never leave ship - few can stand to eat the necessary lungweed."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246559,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 188151,
+      "Name": "Visit the Maw-shrine",
+      "Description": "A particularly fine, spired tooth rises over its neighbours; devotees polish its enamel. Gongs resound within."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246571,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 188160,
+      "Name": "Seek refreshment at the Crowded Mouth",
+      "Description": "It's not clear how drinking might work under water. Necessity is the mother of inebriation, however."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246780,
+        "Name": "\"You'll want the Ivories.\"",
+        "Description": "A Dockworker pauses on his way to work. \"Few Trespassers stay in Nook for long. But I know the man you want. Hangs out in the Ivories, with the Snaplamprey players. I won't play him any more. Got expensive.\""
+      },
+      "Id": 188351,
+      "Name": "Ask after the Almost Dead Man's old friend",
+      "Description": "You have a letter to deliver. Where in Nook should you go?"
+    }
+  ]
+}

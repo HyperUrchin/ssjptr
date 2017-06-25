@@ -1,0 +1,37 @@
+{
+  "Id": 234648,
+  "Name": "A Laugh",
+  "Description": "In the back of the workshop is a small cage, surrounded by skulls. Inside, a Once-Talkative Rattus Faber sits in a bedding of cruel phrases. \"We need to overwhelm it with bitterness\" the Apprentice says. \"Then we harvest.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 234649,
+        "Name": "",
+        "Description": "The Once-Talkative Rattus Faber does not even shudder at your words. It only lies down in its bedding, and closes its eyes. The Dogged Apprentice nods solemnly, and lays his hand on your shoulder. \"We've got it now. That's as much bitterness and contempt as it can hold. I'll remove the gallbladder in a moment - the master will be so pleased to have his ingredient!\""
+      },
+      "Id": 180223,
+      "Name": "Sneer coldly at it",
+      "Description": "It's not so talkative now, is it? Its old friends would thank you for making it less annoying - even if it's still ugly."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234650,
+        "Name": "",
+        "Description": "As you speak, the Once-Talkative Rattus Faber does not stir. Only after you've finished does it gaze at you through the bars, and shake its head slowly. The Dogged Apprentice lays his hand on your shoulder, and squeezes it triumphantly. \"We've got it now. That's as much bitterness and contempt as it can hold. I'll remove the gallbladder in a moment - the master will be so pleased to have his ingredient!\""
+      },
+      "Id": 180224,
+      "Name": "Pretend to weep",
+      "Description": "Boo-hoo! The poor, poor thing - all locked up, and all alone. Just look at the pitiful thing, and laugh."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234653,
+        "Name": "",
+        "Description": "You push past the Dogged Apprentice and out the door. The Crotchety Tobacconist peers up at you from the shop-counter and his eyes narrow behind his pince-nez. \"He's not callous enough, my apprentice. And the rat is accustomed to him, besides. Our flavour will suffer for it.\" He blows black smoke through his nose that wafts to the top of the stairs. It smells of boiled liquorice. "
+      },
+      "Id": 180227,
+      "Name": "Refuse to assist",
+      "Description": "This is cruel. This is <i>wrong</i>."
+    }
+  ]
+}

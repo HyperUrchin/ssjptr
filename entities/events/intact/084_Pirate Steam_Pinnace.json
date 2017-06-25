@@ -1,0 +1,27 @@
+{
+  "Id": 144206,
+  "Name": "Pirate Steam-Pinnace",
+  "Description": "A nimble, savage little wolf of a vessel!",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 144207,
+        "Name": "",
+        "Description": "Their guns roar, and the battle begins!"
+      },
+      "Id": 124633,
+      "Name": "Fight!",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144208,
+        "Name": "Fast enough...",
+        "Description": "Their captain's as wily as you. Too close, too late. Begin."
+      },
+      "Id": 124634,
+      "Name": "Flee!",
+      "Description": "It's fast. How fast are you?"
+    }
+  ]
+}

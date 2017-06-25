@@ -1,0 +1,17 @@
+{
+  "Id": 260511,
+  "Name": "The Voracious Diplomat, in Hiding",
+  "Description": "The Voracious Diplomat would make an excellent Propagandist for the Seven. You are in a strong bargaining position: even now the White-and-Golds, the Khanate's secret police, are scouring the city for informed members of the old regime. \r\n\r\nA meeting by the river, where you both watch a Khaganian dreadnought slide through the waters. The Diplomat's face is haggard. \"We'd best talk quickly. What do you want?\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 260512,
+        "Name": "",
+        "Description": "The body that washes up under Traitor's Bridge, with its eyepatch and flowing hair, is enough to satisfy the hunters. While they string it from Hangman's Arch as an example, the freshly-shorn Diplomat joins you at the rail as you steam from Wolfstack Docks.\r\n\r\n\"I need a new cause, now,\" they confide, watching the dark mass of London slip away. \"I suppose immortality is one I could get behind.\""
+      },
+      "Id": 194282,
+      "Name": "Fake the Voracious Diplomat's death...",
+      "Description": "...and grant them sanctuary among the Seven. \"It'll need to be convincing,\" the Diplomat says, eyeing one of your crewmen critically."
+    }
+  ]
+}

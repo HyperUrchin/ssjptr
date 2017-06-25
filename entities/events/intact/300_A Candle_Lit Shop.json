@@ -1,0 +1,67 @@
+{
+  "Id": 154987,
+  "Name": "A Candle-Lit Shop",
+  "Description": "A quiet street washed with serpent-green light from bulbs overhead. The houses here are dark, empty-seeming. Paint peels and bats chitter. A single shop, however, is open. Its windows glow with candle-light. The shopkeeper is a tall woman with pale eyes - not a local, but not a Londoner either. She blows the dust off a baize box and smiles toothily at you.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 154988,
+        "Name": "A watchful shimmer",
+        "Description": "The pot is tightly sealed. The glass is cool to the touch. When you grasp it, soft light spills between your fingers. Your skin tingles as if from too much sun."
+      },
+      "Id": 131519,
+      "Name": "Purchase a Pot of Violant Ink",
+      "Description": "\"Good for diaries, if you have something to confess.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154989,
+        "Name": "Unweeping eyes",
+        "Description": "The Curio is granite, smoothed by the touch of countless hands. Its teeth are sharp."
+      },
+      "Id": 131520,
+      "Name": "Purchase a Watchful Curio",
+      "Description": "\"I keep them with their faces turned to the wall. You never know, eh?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154990,
+        "Name": "Cold as stones",
+        "Description": "He sells you the pearl in a twist of tissue-paper, in a little blue box. It looks up at you from the paper like a stolen eye."
+      },
+      "Id": 131521,
+      "Name": "Purchase a Drowning-Pearl",
+      "Description": "\"The Taimen like these: yes, they do. Have you ever wondered why? No? Good for you, [q:Addressed As]. Good for you.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154991,
+        "Name": "A great grey glass jar",
+        "Description": "A fanged nightmare goggles idiotically at you from the murky liquid."
+      },
+      "Id": 131522,
+      "Name": "Purchase a Strange Catch",
+      "Description": "\"Pickled! We shall all be pickled, one day, I have no doubt. Preserved in some desperate museum. Excuse me. The light here confuses the mind.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154992,
+        "Name": "A misplaced delivery?",
+        "Description": "The shopkeeper opens a trap-door. A pale and surly youth comes up, blinking, and hastily dons a pair of dark glasses. He helps you carry the Long-Box down to the dock, mute all the way."
+      },
+      "Id": 131523,
+      "Name": "Purchase a Soothe & Cooper Long-Box",
+      "Description": "\"This great thing? It's been cluttering up my shop for too long. Please, take it off my hands. I mean to say, oh, I suppose I can part with it. For the usual price.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154993,
+        "Name": "She shakes her head sadly.",
+        "Description": "\"Oh, no. No no. Mirrors are unloved here in the Khanate, you see. I can only suspect you of being a spy for the White-and-Golds. If I even had such a mirror, I could not sell it; and were you not a spy, still I would not d__n you with its seductions. Perhaps there is something else?\""
+      },
+      "Id": 131524,
+      "Name": "Purchase a Brass-Backed Mirror",
+      "Description": "\"I wonder if that will actually be possible.\""
+    }
+  ]
+}

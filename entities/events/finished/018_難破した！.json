@@ -1,0 +1,27 @@
+{
+  "Id": 139752,
+  "Name": "難破した！@{M}難破！@{I}Shipwrecked!",
+  "Description": "　あなたの船は沈没した！叫びが上がり――暗い水が押し寄せ――船の竜骨が砕ける、忘れがたい音が――@{I}貴方の船は沈没した! 叫び声が溢れ - 昏き水の濁流と共に - 竜骨の折れる忘れ難い音を聞きながら -@{M}Your ship founders! There are screams - a flood of dark water - the unforgettable sound of a ship's spine breaking - ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 139753,
+        "Name": "もはやこれまで@{I}ここまで@{M}No more",
+        "Description": "　眠れ。@{M+I}眠れ。@{M}　眠ろう。@{I}Sleep."
+      },
+      "Id": 121753,
+      "Name": "海の底へと消える@{I}波間に消えて@{M}Slip beneath the waves",
+      "Description": "　ひょっとしたら、あなたは歌の中で語り継がれるかもしれない。@{I}もしかしたら、貴方は詩の中で語り継がれるかもしれない。@{M}Perhaps you'll be remembered in song."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 155883,
+        "Name": "",
+        "Description": "　眠れ。@{M+I}眠れ。@{M}　眠ろう。@{I}Sleep."
+      },
+      "Id": 132097,
+      "Name": "海の底へと消える@{I}波間に消えて@{M}Slip beneath the waves",
+      "Description": "　あなたは死ぬ。けれど、あなたは後継者を育てた。@{I}貴方は消えた。だが貴方には後継者に遺した物がある...@{M}You are gone. But you've provided for your heir..."
+    }
+  ]
+}

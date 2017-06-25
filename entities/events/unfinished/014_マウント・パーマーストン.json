@@ -1,0 +1,147 @@
+{
+  "Id": 138473,
+  "Name": "マウント・パーマーストン@{I}$(Mt?.|Mount) Palmerston -> マウント・パーマーストン$Mount Palmerston",
+  "Description": "　陰気な灯火が、突堤の端で緑の光を投げかける。港の街並みの背後では、島がひざまで灰に埋もれている。あちこちに、火事で焼け落ちた家屋の残骸が点在している。遥か上方、山頂のあたりで、一瞬、赤い光が閃いた。@{I}Sullen lights glow green at the jetty's edge. Behind the port buildings, the island is knee-deep in ash. There are ruins here and there, of houses destroyed by fire. Far above, the mountain's top flickers red: just for an instant.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 138474,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 120961,
+      "Name": "島を探検する@{I}Explore the island",
+      "Description": "　絡まりあった棘だらけの藪が、火山の岩がちな坂にまで広がっている。@{I}Tangles of thorned scrub climb the rocky slopes of the volcano. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 138476,
+        "Name": "肩を竦め、罵る@{I}A shrug and a curse",
+        "Description": "「連中は私たちに危害を加えたりはしないね。連中は上に留まってるし、私たちは下に留まってるからね。地獄が内輪揉めを起こしてるってんなら、それは誰にとっても好都合なことじゃないかな？」@{I}\"They don't do us any harm. They stay up there, and we stay down here. If Hell's fighting itself, that's good for us all, isn't it?\""
+      },
+      "Id": 120962,
+      "Name": "ブリムストーン総会について、港の住民と話をする@{I}$Brimstone Convention -> ブリムストーン総会$Chat to the port-folk about the Brimstone Convention",
+      "Description": "　昔、地獄で革命が起こった。そして、貴族階級の悪魔たちがここに逃れてきた。彼らは追放の身ながらも、ここで策略を巡らせている。@{I}There was a revolution in Hell: and the aristocracy of devils fled here. Here, they plot in exile."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 138477,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 120963,
+      "Name": "島を探検する@{I}Explore the island",
+      "Description": "　絡まりあった棘だらけの藪が、火山の岩がちな坂にまで広がっている。@{I}Tangles of thorned scrub climb the rocky slopes of the volcano. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 138480,
+        "Name": "展望@{I}A vista",
+        "Description": "　高い崖の下では、zeeが遠くまで広がっている――@{I}The zee opens out beneath a high cliff -"
+      },
+      "Id": 120966,
+      "Name": "島を探検する@{I}Explore the island",
+      "Description": "　絡まりあった棘だらけの藪が、火山の岩がちな坂にまで広がっている。@{I}Tangles of thorned scrub climb the rocky slopes of the volcano. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149966,
+        "Name": "小道をあなたの方へと急ぐ人影@{I}A shape hurries up the path to you",
+        "Description": "「すいません、すいません、じょっとお時間頂けますかね？」@{I}\"Excuse me - excuse me - juzzt a moment of your time - \""
+      },
+      "Id": 128331,
+      "Name": "島を探検する@{I}Explore the island",
+      "Description": "　絡まりあった棘だらけの藪が、火山の岩がちな坂にまで広がっている。@{I}Tangles of thorned scrub climb the rocky slopes of the volcano. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151263,
+        "Name": "急ぎの交換@{I}A hurried exchange",
+        "Description": "　あなたはフードを被った人影に合図を送った。その人影は期待通りの答えを返した。あなたは積荷を引き渡し、盗賊のサインが記されたメモを受け取った……[ロンドンで約束の報酬を受け取ることができるでしょう。]@{I}You give the hooded shape a sign of recognition. It hisses the reply you expected. You hand over the crate, and receive a chitty marked with thief-sign... [You'll receive the promised remuneration in London.]"
+      },
+      "Id": 129145,
+      "Name": "密輸品の魂を届ける@{I}Deliver your smuggled souls",
+      "Description": "　フードを被り、ランタンを掲げた人影が、埠頭の端で待っていた。@{I}A hooded figure with a lantern waits at the far end of the quay."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151676,
+        "Name": "水の流れ@{I}Running water",
+        "Description": "　新鮮な水だ！歓迎すべき物音――@{I}Fresh water! A welcome sound - "
+      },
+      "Id": 129374,
+      "Name": "島を探検する@{I}Explore the island",
+      "Description": "　絡まりあった棘だらけの藪が、火山の岩がちな坂にまで広がっている。あちこちに、家事で焼け落ちた家屋の残骸が点在している。@{I}Tangles of thorned scrub climb the rocky slopes of the volcano. There are ruins here and there, of houses destroyed by fire."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 153413,
+        "Name": "「やあ、こんにちは。あなたにつだえることがあるよ――」@{I}\"Hello, hello. I have zomething for you -\"",
+        "Description": "　頭巾を被った、羽虫のような音を立てる人影が、あなたの肘を掴まえた。それはあなたの耳元で囁いた。その吐息は、溶岩と年季の入った真鍮の臭いがした。そして、その腕のようなものが触れている箇所から、吐き気を催させる震えが、あなたの体に広がった。あなたは求めていた情報を手に入れた。急いで船に戻った方が良いだろう。視界がぼやけてきている。体調を崩したのかもしれない。@{I}A cowled and buzzing shape clasps your elbow. It whispers in your ear. Its breath is lava and old brass, and a queasy vibration shudders through you where its gloved appendage has taken hold. You have what you came for. Back aboard ship, quickly. Your vision blurs. Perhaps you are unwell."
+      },
+      "Id": 130491,
+      "Name": "情報提供者を見つける@{I}Find your contact",
+      "Description": "　岬を登ったところの、打ち棄てられた穀物貯蔵所が、あなたたちの待ち合わせ場所だ。農場の最後の世代は、そこで起こった火山の火によって死に絶えている。@{I}You have a rendezvous in the ruined granary up on the headland, where the last generation of farmers died in the volcano's flames."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 153418,
+        "Name": "「こんにちは、たまじいのないお友だち」@{I}\"Hello, my zoulless friend.\"",
+        "Description": "　頭巾を被った、羽虫のような音を立てる人影が、あなたの肘を掴まえた。それはあなたの耳元で囁いた。その吐息は、溶岩と年季の入った真鍮の臭いがした。そして、その腕のようなものが触れている箇所から、吐き気を催させる震えが、あなたの体に広がった。あなたは求めていた情報を手に入れた。そしてそれ以上のこと――罪と時間に関する、汚らわしく悪意に満ちた詳細を知った。@{I}A cowled and buzzing shape clasps your elbow. It whispers in your ear. Its breath is lava and old brass, and a queasy vibration shudders through you where its gloved appendage has taken hold. You have what you came for, and something more - nasty, barbed little details about sin and time."
+      },
+      "Id": 130495,
+      "Name": "情報提供者を見つける@{I}Find your contact",
+      "Description": "　岬を登ったところの、打ち棄てられた穀物貯蔵所が、あなたたちの待ち合わせ場所だ。農場の最後の世代は、そこで起こった火山の火によって死に絶えている。@{I}You have a rendezvous in the ruined granary up on the headland, where the last generation of farmers died in the volcano's flames."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 158885,
+        "Name": "きのこの歌@{I}Mushroom songs",
+        "Description": "　ブレミガンは、軽石の斜面をさえずりながら幸せそうに跳ね上がっていった。高く登ったところで、そのさえずりに応える声があった。ここでは既に、どこかにブレミガンが住んでいたらしい……@{I}$[Bb]lemmigan -> ブレミガン$The blemmigan bounces happily up the pumice slopes, warbling as it goes. That warbling is answered as it climbs higher. There are already blemmigans here, somewhere..."
+      },
+      "Id": 133911,
+      "Name": "ブレミガンを陸に放つ@{I}ブレミガンを浜に揚げる@{M}$[Bb]lemmigan -> ブレミガン$Put a blemmigan ashore",
+      "Description": "　まさか、ここで繁茂できないということはないだろう？@{I}きっとここでなら元気でやっていけるだろう?@{M}Surely it'll flourish here?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 187794,
+        "Name": "急ぎの交換@{I}A hurried exchange",
+        "Description": "　あなたがフードを被った人影に合図を送ると、人影は期待通りの答えを返した。あなたは積荷を引き渡し、盗賊のサインが記されたメモを受け取った……[ロンドンで約束の報酬を受け取ることができるでしょう。]@{I}You give the hooded shape a sign of recognition. It hisses the reply you expected. You hand over the crate, and receive a chitty marked with thief-sign... [You'll receive the promised remuneration in London.]"
+      },
+      "Id": 150910,
+      "Name": "密輸品の魂を届ける@{I}Deliver your smuggled souls",
+      "Description": "　フードを被り、ランタンを掲げた人影が、埠頭の端で待っていた。@{I}A hooded figure with a lantern waits at the far end of the quay."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 192776,
+        "Name": "船にようこそ！@{I}Welcome aboard!",
+        "Description": "　仕立屋は、和を重んじるつもりもなければ、愚か者に容赦してやるつもりもなかった。「傷一つでも！お前たち洟垂れの小さなホムンクルスどもが、私のスチーマーのトランクに傷一つでもつけようものなら！その忌々しい体を縫い目からバラバラにしてやるわ！」<br/><br/>　彼女は振り返り、唇を笑みの形に巻き上げた。「さっきも言いましたけれど、船長。あなたたちは是非、出発前にここで温泉に浸かっていかなきゃいけませんわ。硫黄でたいそう元気が出ますわよ」[この新しいオフィサーを職務に就かせたいと思ったなら、彼女のアイコンを、オフィサーのタブから画面の一番上のスロットまでドラッグしましょう。これは航海中ではなく、港で行いましょう。さもなくば、船員たちを不安にさせてしまうかもしれません。]@{I}$Officer -> オフィサー$The Modiste neither packs lightly nor suffers fools gladly. \"One scratch! One solitary scratch on my steamer trunks from you snivelling little homunculi and I take the whole blessed lot of you apart at the seams!\"\r\n\r\nShe turns back, her lips curling into a smile. \"As I was saying, Captain, you really <i>must</i> try to take the waters here before our cruise. Most invigorating, brimstone.\" [Appoint your new Officer by dragging her from the Officers tab to her slot at the top of the screen. Do this in port, not at sea, or you may unsettle your crew.]"
+      },
+      "Id": 153768,
+      "Name": "オフィサーを雇う：酷薄な仕立屋@{I}$Officer -> オフィサー, Merciless Modiste -> 酷薄な仕立屋$Engage an Officer: the Merciless Modiste",
+      "Description": "「ええ、そうね。あなたなら上手くやりそうだわ。ねえ、愛しい船長、私には船が必要なんですの。そして自惚れながら言わせていただくと『あなた』には『私』が必要なのだと思いますわ」[酷薄な仕立屋は一等航海士として、あなたのIronとVeilsとHeartsにボーナスを与えてくれます。]@{I}$Officer -> オフィサー, Merciless Modiste -> 酷薄な仕立屋$\"Ah, yes, you will do nicely. I need a ship, dear heart, and I rather flatter myself that <i>you</i> need <i>me</i>.\" [The Merciless Modiste is a First Officer who increases Iron, Veils and Hearts.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234977,
+        "Name": "The Imperious Sister's Tale",
+        "Description": "$(Mt?.|Mount) Palmerston -> マウント・パーマーストン$She begins commandingly, as though you had met at a Salon in London, as though there were no burning mountain at her back and as though you were socially just a little her inferior. \r\n\r\n\"Thank goodness, someone who might help me!\" she says. \"I have been searching everywhere -- my brother is troubled, you see, troubled by some past difficulties. I came to Mount Palmerston because I thought possibly they had his... well, his Soul!\" She drops her voice to a whisper on the last words. \"But it isn't here. And now there's something else I must try, and you have a Zubmarine!\" "
+      },
+      "Id": 180451,
+      "Name": "Take note of a veiled woman",
+      "Description": "A middle-aged woman in a veiled hat is staring at you, waiting for you to notice and listen to her."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182325,
+        "Name": "空っぽ@{I}Emptiness",
+        "Description": "　あなたの掌の皺には灰がこびりついていた。船員たちは絶えず咳をしていた。あなたは、荒れ果てた土地と空っぽの棚の他には、何も見つけることはできなかった。@{I}The creases of your palms are grey with ash. Your crew coughs incessantly. You have found nothing but ruined fields and empty shelves."
+      },
+      "Id": 147534,
+      "Name": "廃墟を掘り返す@{I}Dig among the ruins",
+      "Description": "　ひょっとしたら価値のあるものがそのまま残されているかもしれない。見つけたものを調べるために、村人たちの遺骸を選り分けたって構わない。(この盗掘者め。)@{I}Perhaps the villagers left valuables behind. You could pick over their remains to see what you might find. (You ghoul.)"
+    }
+  ]
+}

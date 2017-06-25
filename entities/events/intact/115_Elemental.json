@@ -1,0 +1,37 @@
+{
+  "Id": 146633,
+  "Name": "Elemental",
+  "Description": "The waters flow gently around you. Alive. Curious. Adoring.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 146634,
+        "Name": "Her Ladyship",
+        "Description": "Your hand disturbs the hem of a black dress. You look up: a pale face. Her features seem washed away; as fluid as her gown of ink.\r\n\r\n\"I cannot remember how long it has been since I had a companion.\" Her voice quavers. Her arms reach out around you, far longer than they have any right to be."
+      },
+      "Id": 126183,
+      "Name": "Reach out",
+      "Description": "There is something in the darkness. No, there is <i>someone</i> in the darkness."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260316,
+        "Name": "Encompassing",
+        "Description": "The folds of her dress drape about you. They are snug and familiar as your bedsheets. Sleep takes you.\r\n\r\nYou awake. You are home in your lodgings. There is the crack in the ceiling you know so well, and the chip on the bedpost. The covers float lazily off you. The darkness is abyssal, but your candles glow with St Brendan's fire. You swim to your window. London's streets are empty, and not as you remember them. Your favourite haunts are joined in a row, all within convenient walking distance. Silent, deserted; reserved only for you. Beyond them are houses centuries older, all abandoned.\r\n\r\nA playful current tugs at you. A familiar voice. You open your window, and allow the current to carry you to Lady Black's colonnaded palace. Perhaps today, her Ladyship will desire conversation, or a swim through her glowing gardens. Perhaps (you shudder) she has decided to resume the violin.  Or perhaps she merely wants to sit at her watery hearth in companionable silence.\r\n\r\nWhat would she do without you?\r\n\r\n[Your crew was plagued with strange dreams after you vanished forever into the zee. The records of these dreams were collated into a single volume. The Ministry of Public Decency burned most of them. Most.]"
+      },
+      "Id": 194153,
+      "Name": "Enter her embrace",
+      "Description": "She will be alone no longer. [This will end your game. But future captains will receive a bonus.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260317,
+        "Name": "Commeration",
+        "Description": "The coffin speeds upwards. Lady Black follows you, silently. She does not labour to keep pace. She examines you through your face-visor with fierce interest, as though trying to commit your every feature to memory.\r\n\r\nAfter seven minutes she sighs.\r\n\r\nAfter fourteen minutes she plucks a strand of her coiling hair, and ties it to your line.\r\n\r\nAfter twenty one minutes, as your zubmarine comes into view, she grasps your hand. She squeezes your fingers urgently. Then her hand slips from yours, and she is gone."
+      },
+      "Id": 194154,
+      "Name": "Tug your line! Ascend!",
+      "Description": "How many zailors can claim to have escaped Lady Black?"
+    }
+  ]
+}

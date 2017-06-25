@@ -1,0 +1,67 @@
+{
+  "Id": 180731,
+  "Name": "難しい会話@{M}A Difficult Conversation",
+  "Description": "誰かが、ジーキャプテンは愛したいと思う者を自由に愛すべきだと言うだろう。寂しい人生だ。だが、貴方の恋人はそれで良しと思っていないようだ。@{M}Some would say that zee-captains must be free to love who they will. It's a lonely life. But it seems your sweetheart disagrees.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 180769,
+        "Name": "解放してくれ -@{M}Please release me",
+        "Description": "貴方は解放された。しかし何が起きたのか sunlesssea@{I}failbettergames.com まで連絡して頂けないだろうか?感謝する。@{M}You're released. But could you mail sunlesssea@failbettergames.com and let us know what happened? Thank you so much!"
+      },
+      "Id": 146504,
+      "Name": "エラー - @{M}Er - ",
+      "Description": "この選択肢には通常は至らない。何かがおかしい。@{M}You shouldn't ever see this. Something went wrong."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180991,
+        "Name": "苦い言葉@{M}Bitter words",
+        "Description": "進むが良い。ジーは常に開かれている。ロンドンは貴方の背後で再び堕ちるだろう。@{M}Move on. The zee is always open. London will fall behind you again."
+      },
+      "Id": 146621,
+      "Name": "恋人との関係を清算する@{M}End things with your sweetheart",
+      "Description": "貴方は幹部と共に未来を歩めなくなってしまうが、それでも貴方は独りの方が良いのだろう。[貴方にこの者との子供が居た場合、それらも喪ってしまいます。]@{M}You can have no future with your officer, but you're better off alone. [You will also lose any child of the union that you might have.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180732,
+        "Name": "苦い終わり@{M}The bitter end",
+        "Description": "「...船乗りを信じるより」彼は呟く。「もっと他に良い道を探すべきだった。」交渉に対する経験が彼の表情を読解不可能にしていた。彼は強い後悔を滲ませながら、言葉を続ける。「ご機嫌よう、船長。これが最後です。」@{M}\"I should have known better,\" he remarks, \"than to trust a zailor.\" His diplomatic training keeps his face impassive. He could be speaking regretfully of the weather. \"Good day, Captain. For the last time.\""
+      },
+      "Id": 146485,
+      "Name": "一緒に居て欲しいと恋人を説得する@{M}Convince the Dapper Chap to stay with you",
+      "Description": "彼が貴方を待っている。桟橋のクレーンにもたれながら。「ええ、知っていますとも...」彼は前置きも無しに言う。「それでも、嘘だと言って欲しい。」@{M}He's waiting for you, leaning elegantly against a dock-crane. \"I know,\" he says without preamble. \"Tell me it's not true.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180762,
+        "Name": "苦い終わり@{M}The bitter end",
+        "Description": "「...もっと良い人を見つけるわ。私に構わず一生ジーに居ればいい。もう会うことは無いでしょうね。」彼女の顔は大理石のように静かだった。もう、彼女に手がとどく事は無い。@{M}\"I deserve better than this. Stay at zee forever for all I care. You'll never see me again.\" Her face is calm as marble: you can't reach her now."
+      },
+      "Id": 146501,
+      "Name": "一緒に居て欲しいと恋人を説得する@{M}Convince the Likely Lass to stay with you",
+      "Description": "彼女は貴方と貴方が関係を持つ幹部について悪しざまに罵った。彼女はそれをどうやって知ったのだろうか?「<i>私は</i>スパイよ。」彼女は指摘した。@{M}She has harsh things to say about both you and your favourite officer. How did she find out? \"I <i>am</i> a spy,\" she points out."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180763,
+        "Name": "苦い終わり@{M}The Bitter End",
+        "Description": "「...船乗りを信じるより」彼は呟く。「もっと他に良い道を探すべきだった。」交渉に対する経験が彼の表情を読解不可能にしていた。彼は強い後悔を滲ませながら、言葉を続ける。「ご機嫌よう、船長。これが最後です。私達のどちらも、貴方に会う事は二度とありません。」@{M}\"I should have known better,\" he remarks, \"than to trust a zailor.\" His diplomatic training keeps his face impassive. He could be speaking regretfully of the weather. \"Good day, Captain. For the last time. Neither of us will ever see you again.\""
+      },
+      "Id": 146502,
+      "Name": "一緒に居て欲しいと恋人を説得する@{M}Convince the Dapper Chap to stay with you",
+      "Description": "彼が貴方を待っている。桟橋のクレーンにもたれながら。「ええ、知っていますとも...」彼は前置きも無しに言う。「それでも、嘘だと言って欲しい。」@{M}He's waiting for you, leaning elegantly against a dock-crane. \"I know,\" he says without preamble. \"Tell me it's not true.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180764,
+        "Name": "苦い終わり@{M}The bitter end",
+        "Description": "「...もっと良い人を見つけるわ。私に構わず一生ジーに居ればいい。もう会うことは無いでしょうね。私もこの子も。」彼女の顔は大理石のように静かだった。もう、彼女に手がとどく事は無い。@{M}\"I deserve better than this. Stay at zee forever for all I care. You'll never see us again. Either of us.\" Her face is calm as marble: you can't reach her now."
+      },
+      "Id": 146503,
+      "Name": "一緒に居て欲しいと恋人を説得する@{M}Convince the Likely Lass to stay with you",
+      "Description": "彼女は貴方と、貴方が関係を持つ幹部について悪しざまに罵った。彼女はそれをどうやって知ったのだろうか?「<i>私は</i>スパイよ。」彼女は指摘した。@{M}She has harsh things to say about both you and your favourite officer. How did she find out? \"I <i>am</i> a spy,\" she points out."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "Id": 143337,
+  "Name": "氷結城@{I}氷結城@{M}$Frostfound -> 氷結城$Frostfound",
+  "Description": "　さながら建築家の見る蜜の夢のように、海から持ち上げられ、糸状に加工された、氷からなる塔と傾斜路、柱廊と階段。いかなる蜘蛛も、これほどまでに複雑な巣を張ることはない。塔の群れは、人の営みに一切触れられたことのない原初の清浄さを保っている。しかし、突堤のそばは、浅ましい野営地によって不当に占拠されていた。@{I}塔とタラップと拱廊と階段とが氷で出来た、建築家の甘い蜜の夢のように立ち上り、回る地。蜘蛛ですらこの様に複雑な構造で網を張ることは無い。塔は完全に無垢であり、人類の未踏の地ではあるが、波止場には哀れな野営地が凍えながら留まっていた。@{M}Towers and ramps and galleries and stairs of ice, raised and spun like an architect's honey-dream. No spider ever wove so complex a web. The towers are utterly pristine, untouched by human life, but a pitiable encampment squats by the dock.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 143338,
+        "Name": "驚くほど暖かい歓迎@{I}A surprisingly warm welcome",
+        "Description": "「私たちは真実のゲームのために足並みを揃えてるんだ」世話好きな謎釣り人は、そう説明しながら、あなたのカップに三杯目のお茶を注いだ。「毎年、アイレムとウィザーの住人がここで落ち合って――」そこで彼女は少し言い淀んだ。「競争、をする」彼女は曖昧に言葉を切った。「問いと謎掛けの戦い。いつか、誰かが城に入るに足る資格を示すだろう」<br/><br/>　お茶に続いて、アイレムのリキュールや、ウィザーの色の薄いビール、そして謎釣り人が『ヘビのケーキ』だと平然と説明した食べ物が供され、あなたは愉快な数時間を過ごした。あなたが出発する前、彼らはあなたに燃料と物資を与えてくれた。「蓄えには余裕があるから」謎釣り人はにやりと笑った。「時々、途方に暮れた船長がここまで登ってきてさ、いつも気の毒になるんだよね」@{I}$Riddlefisher -> 謎釣り人, Game of Truth -> 真実のゲーム, Whither -> ウィザー, Irem -> アイレム$\"We're keeping the steps for the Game of Truths,\" a Helpful Riddlefisher explains, as she fills your cup for the third time. \"Every year, the people of Irem and Whither meet here, for - \" she pauses. \"Contests,\" she finished vaguely. \"The difference between a question and a riddle. One day, someone will prove themselves enough to enter the castle.\"\r\n\r\nYou spend a pleasant few hours, while the tea is supplemented with Iremi liqueurs, pale Whithern beer, and something the Riddlefisher describes blandly as 'snake cake'. They offer you fuel and supplies before you leave. \"We keep enough to spare,\" the Riddlefisher grins. \"From time to time a captain gets lost and comes up here, and we always feel bad for them.\""
+      },
+      "Id": 124066,
+      "Name": "突堤の不法居住者たちとお茶を飲む@{I}Take tea with the squatters at the dock",
+      "Description": "　彼らの内の数人は、アイレムの謎釣り人のローブを着ていた。ウィザーの住人と思しき者たちもいたが、その身なりはより一層みすぼらしかった。しかし、彼らはいずれの住人よりも、少しだけ実際的なようだった。@{I}$Riddlefisher -> 謎釣り人, Whither -> ウィザー, Irem -> アイレム$Some of them wear the robes of Iremi Riddlefishers; some look like Whithern folk, but even more ragged. But they do seem a little more practical than either of those peoples."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143339,
+        "Name": "壁を直視する@{I}Face the wall",
+        "Description": "「やめといた方が良いんじゃないかね」不法居住者の一人がそう諭した。彼女の言うことなど無視しろ。壁の正面に立ち、曇った鏡像を凝視しろ。目を閉じ、前に踏み出せ。身震いせよ。氷結城が、冷気と、名状しがたき心臓の怖気を振りまいている。<br/><br/>　あなたは少しでも体を動かしただろうか？あるいは、動いたのはあなたの鏡像の方だったろうか？あなたは氷結城の内部に入り込んでいた。@{I}$Frostfound -> 氷結城$\"You probably shouldn't do that,\" one of the squatters advises. Ignore her. Face the wall. Examine your cloudy reflection. Close your eyes. Step forward. Shiver. Frostfound radiates both cold, and a subtler chill of the heart.\r\n\r\nDid you move at all? Or is it your reflection that moved? You are inside Frostfound. "
+      },
+      "Id": 124067,
+      "Name": "氷結城に入る@{I}$Frostfound -> 氷結城$Enter Frostfound",
+      "Description": "　長い、ひと続きの階段が、きらきらと光を放ちながら、切り立った塔まで続いている。扉はどこにもない。あなたの鏡像が、曇った氷に張り付いている。[あなたの恐怖が20を越えていると、氷結城に入ることはできません。また、適切な理由もなく氷結城に入るべきではありません。]@{I}$Frostfound -> 氷結城$A long flight of stairs rises glistening to a sheer tower. There is no door. Your reflection hangs in the cloudy ice. [You cannot enter Frostfound if your Terror is greater than 20; and you should not enter Frostfound without a good reason.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180635,
+        "Name": "彼はどこへ？@{I}Where is he?",
+        "Description": "　ほんの数分後、あなたが視線を戻すと、航海士はいなくなっていた。あなたは階段をよじ登り、彼を最後に見た地点を調べた。彼のコートが雪の中に落ちていた。彼の足跡は、塔の壁のところで途切れていた。<br/><br/>　彼のコートをつつくと、様々な物が出てきた。カーネイト産の真鍮製の望遠鏡、たくさんの注釈が付けられた海図、タバコ、心配になるほど大量のシラミ。けれど、航海士は見つからなかった。あなたが彼の姿を見ることは二度となかった。@{I}$Khan -> カーン, Khanate -> カーネイト$Only a few minutes later, you glance back, and the Navigator is gone. You climb the steps to examine the spot where you saw him last. His coat lies in the snow. His footprints end at the tower wall.\r\n\r\nYou poke through his coat and find a brass telescope from the Khanate, a much-annotated chart, tobacco, an alarming quantity of lice. But the Navigator is gone. You never see him again."
+      },
+      "Id": 146428,
+      "Name": "賢しげな航海士が塔を調べるのを許可する@{I}$Sly Navigator -> 賢しげな航海士$Allow the Sly Navigator to examine the tower",
+      "Description": "　彼は盛んに息を切らしながら階段をよじ登っていった。「これがzeeなんですよ」彼は振り返り、呼び掛けた。「隆起して大地となったzeeです。氷はzeeの魂なんです。氷の中には、最も模範的なzeeの在り方が――」そして彼は再び向き直った。あなたは彼に塔を調べるがままにさせて、胸壁を見上げた。彼の息遣いが、竜の吐息のように聞こえた。@{I}He climbs the steps, panting eagerly. \"This is the zee, you see?\" he calls back. \"The zee risen to become land. Ice is the zoul of the zee. In ice, we find the zee at her most exemplary -\" And he's off again. You leave him to examine the tower, staring up at the battlements, his breath dragon-huffing."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181070,
+        "Name": "船にようこそ！@{I}船へようこそ!@{M}Welcome aboard!",
+        "Description": "「錆汚れ、錆汚れ。すぐに何とかしなくちゃな。そこの君たち！この錆を掃除するのを手伝ってくれ」[この新しいオフィサーを職務に就かせたいと思ったなら、彼のアイコンを、オフィサーのタブから画面の一番上のスロットまでドラッグしましょう。これは航海中ではなく、港で行いましょう。さもなくば、船員たちを不安にさせてしまうかもしれません。]@{I}「錆び付いている、錆び付いている。全部取ってやる。そこの貴方!ちょっとこの錆落としに付き合って下さい。」\r\n[幹部タブで、新しい幹部を画面上部にある適切なスロットにドラッグし、幹部に任命しましょう。これは海上ではなく港で行いましょう。さもなければ貴方の船員を不安に陥れる事になります。]@{M}$Officer -> オフィサー$\"Spot of rust, spot of rust. Soon see to that. You there! Help me with this spot of rust.\"[Appoint your new Officer by dragging him from the Officers tab to his slot at the top of the screen. Do this in port, not at sea, or you may unsettle your crew.]"
+      },
+      "Id": 146672,
+      "Name": "オフィサーを雇う：疲れ知らずのメカニック@{I}幹部として勧誘する: 疲れ知らずの技師@{M}$Officer -> オフィサー, Tireless Mechanic -> 疲れ知らずのメカニック$Engage an Officer: the Tireless Mechanic",
+      "Description": "　疲れ知らずのメカニックは、氷結城にはもう飽き飽きしていた。彼は歯をガタガタ言わせながら、眼鏡の上からあなたに向かって微笑んだ。「ぶるるっ。やっと船が来てくれて、とても嬉しいよ。働く準備はできてる。私は技術者なんだ。君がこの先雇える誰よりも腕の立つ技術者だとも。エンジンは私の子供みたいに扱ってくれよ。私に子供がいるわけじゃあないがね。忙しすぎるんだ。普段は忙しいんだよ」[疲れ知らずのメカニックは、Veilsと燃料効率を向上させます。]@{I}疲れ知らずの技師は氷結城についてはもう十分の様だ。彼は寒さで歯を鳴らしながら、眼鏡越しに貴方に微笑みかける。「うううううう...やっと船を見る事が出来て嬉しいですよ。貴方に仕える準備は万端です。僕は技師です。僕以上に素晴らしい人間は雇えないでしょう。僕自身の子供のようにエンジンを扱う事が出来ます。ああ、子供は居ませんよ。忙しすぎるんです。いつも忙しい。」[疲れ知らずの技師はヴェールと燃料効率を上げます。]@{M}$Frostfound -> 氷結城, Tireless Mechanic -> 疲れ知らずのメカニック$The Tireless Mechanic has had enough of Frostfound. He smiles at you over his spectacles, teeth chattering. \"Brrr. So glad to see a ship at last. Ready to offer my services. I'm an engineer. Finest you'll ever hire. Treat engines like my own children. Not that I have children. Too busy. Usually busy.\" [The Tireless Mechanic increases Veils and Fuel Efficiency.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181629,
+        "Name": "「仮に中に入れるとしても……やめておいた方が良い」\"If you can enter... you should not.\"@{I}\"もし城に入る事が出来ても...入ってはならぬ。\"@{M}\"If you can enter... you should not.\"",
+        "Description": "「時折、熱心な奴がここまで来ることがある。まあな。約束された時を待たずして、城に入ることはできるのかもしれん。何か価値のあるものだって、見つかるのかもしれん。だがそれは、神聖な地を穢すことだ、お前さんよ。そんなことをする奴は、過去を奪われてしまうだろう。本質を、自己を奪われてしまうだろう。そして、仮に生き長らえたとしても、zeeの神々を怒らせることになるだろうな。そうだ。彼らは実在する。氷結城の回廊が実在するのと同じように。近寄らんことだ、お前さんよ。近寄らんことだ」@{I}「今も昔も、此処には野心家どもや熱狂した者どもが来る。ああ、お前も約束の時間が来る前に城に入る事が出来るやもしれぬ。城の中で何か価値ある者を見つける事も可能かもしれぬな。だが、お主はこの聖地を略奪しておるのだ。それはお主の物語を代償として持ち去るだろう。お主の真髄、お主自身を、代償として持ち去るだろう。仮にそれを生き残ったとしても、ジーの神々の怒りを買うことになる。うむ、彼らは実在する。この氷結城の回廊がそうである様に、彼らもまたそうなのだ。去れ、俺の近くに来ないでくれ。」@{M}$Frostfound -> 氷結城$\"We get enthusiasts here, from time to time. Yes, you might be able to enter the castle before the appointed time. You might even find something of value there. But you'd be despoiling sacred ground, my friend. It will take your stories from you. It will take your essence, your self. And if you survive that, you'll likely anger the gods of the zee. Yes, they're real. As real as the corridors of Frostfound are. Stay away, my friend, stay away.\""
+      },
+      "Id": 147059,
+      "Name": "不法居住者たちに城について尋ねる@{I}定住者に城の事を尋ねる@{M}Ask the squatters about the Castle",
+      "Description": "　彼らがそれを直視するのを避けていることに、あなたは気がついていた。@{I}彼らは直接城を見る事を避けている事に気づく。@{M}You notice they avoid looking at it directly."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181985,
+        "Name": "そこまでの順応性はない@{I}適応出来なかった様だ@{M}Not that adaptable",
+        "Description": "　ブレミガンの湿った触手は、タラップを離れるやいなや、氷の大地に触れて凍りついてしまった。ブレミガンは甲高い悲鳴を上げると、船内に急ぎ戻り、エンジンルームの中で縮こまった。ブレミガンの氷結城に対する評価は明白だった。@{I}その潤った触腕が、タラップを降りて氷の大地に降り立った瞬間に凍った。それは鋭い叫び声を上げ、即座に船の機関室に飛び込んでいってしまった。氷結城に対してどんな感想をそれが持ったのか、これで明らかだった。@{M}$Frostfound -> 氷結城$Its moist tendrils freeze to the icy ground as soon as it's off the gang-plank. It squeals, speeding back into the ship to huddle in the engine-room. It's made its opinions on Frostfound very clear."
+      },
+      "Id": 147300,
+      "Name": "ブレミガンを陸に放つ@{I}ブレミガンを浜に揚げる@{M}$[Bb]lemmigan -> ブレミガン$Put a blemmigan ashore",
+      "Description": "　雪と氷と、少数の不法居住者たち。植物にとっては過酷な環境だが、ブレミガンは順応性のある生き物だ。@{I}雪と氷と、僅かな定住者。繁殖には過酷な環境だ。しかしブレミガンは適応出来るだろう。@{M}$[Bb]lemmigan -> ブレミガン$Snow, ice, a few squatters. A harsh environment for vegetation. But blemmigans are adaptable."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182211,
+        "Name": "『ほとんど思い出されることはない』@{I}決して記憶さる事無し@{M}Almost Never Remembered",
+        "Description": "　彼は大げさなことを言っていたわけではなかった。氷は油の塗られた鏡のように滑りやすく、斜面を登ってゆくには、ピトンとスパイク底のブーツが必要だった。ひとたび足の踏み場を誤れば、巨大な氷の塊が、飢え渇いた海にすさまじい音を立てて落ちていったことだろう。大気がまるでバウンド・シャークの歯のように体に噛みついてくるので、あなたの顔はかじかみ、指は硬直し、喉はひりひりと痛んだ。あなたたちは、切り立った白い崖を迂回して登らなければならなかった。眼下の海面では、カミソリのように鋭い氷の破片が、海流に流されていた。<br/><br/>　とうとう、凍てついた岩棚まで辿り着いた。目の前では、氷の壁が垂直に切り立ち、奇術師の鏡さながらに光をはね返していた。その表面、高さ二十フィートのところに、航海士の印が刻まれていた。「印象的じゃあないか？」自分の荷物を降ろしながら、研究者はそう言った。「これは、ウィザーとアイレムの間で交わされた古い協定の一つだ。その意味するところは『ほとんど思い出されることはない』」<br/><br/>　航海士は、それに用心深く近づいていった。彼のこめかみの印から、青い炎が吹き上がった。彼は手を伸ばし、その指先を氷に映る彼自身の鏡像の群れに触れさせた。すると彼の鏡像は、前に身を乗り出し、彼の耳元に何事かを囁いた。航海士は雪の中にくずおれた。「おいおい」断固たる研究者が言った。「くそっ。こいつを船まで運ばなきゃならんとしたら、大変なんて話じゃないぞ」その通りだった。しかし、あなたたちは何とかやり遂げた。<br/><br/>　暖かい船室に戻ったあなたは、果物とスパイスを入れて温めたラム酒を啜っていた。あなたの体は再び暖かさを取り戻してくれるだろうか？[印に苦しむ航海士に話しかけ、何が起こったのかを聞き出しましょう]@{I}彼は大げさな事を言っていなかった。氷は油を塗った鏡のように滑りやすい。貴方は斜面を進む為に、ハーケンとスパイク靴が必要だった。足をかけ間違えると、大きな氷の塊が飢えた海に向かって落ち、水が大きな音を立てていた。空気はまるで縛られた鮫のように肌に噛み付いてくる。顔に感覚は無く、指は動かず、喉はとても痛む。眼下に横たわる水面には鋭い氷の欠片が隙間なく蠢いており、貴方はこの白く切り立った崖を一歩ずつ身長によじ登っていった。\r\n\r\n遂に貴方は極寒の氷棚に辿り着いた。目の前には垂直の氷壁があり、宛ら奇術師の眼鏡のように反射している。その氷壁の上部、高さ約20フィート(7メートル)程の所に、航海士の紋様が彫り込まれていた。「どうだ、印象的だろう?」研究者が荷物を下ろしながら言う。「これはウィザーとアイレムの間で交わされた古き盟約の一つだ。意味は、<i>決して記憶さる事無し</i>だったかな。」\r\n\r\n航海士は用心しながらそれに近づく。その刹那、航海士のこめかみに刻まれた紋様が青い炎の火花を散らす。彼は手を伸ばし、氷に反射する自分を指で触る - すると、氷に写っていた彼の鏡像が突然前にせり出し、彼の耳の何事かを囁きかけていた。航海士はそのまま雪の中に堕ちた。「ああっ。」気骨溢れる研究者が短い声を上げる。「畜生。こいつを船に連れ戻す為に、俺達は悪夢のような時間を過ごさなければならんだろうな。」確かにそれは悪夢のような時間だったが、貴方はやりおおせた。\r\n\r\n自分の暖かい船室に戻り、貴方は甘く味付けして温めたラムを飲み干した。今後、貴方の体が温まる事はあるのだろうか?[紋様持ちの航海士に話しかけて、何が遭ったのかを聞きましょう。]@{M}$[Bb]ound[ -][Ss]hark -> バウンド・シャーク, Whither -> ウィザー, Irem -> アイレム, Sigil[- ]Ridden Navigator -> 印に苦しむ航海士, Plucky Researcher -> 断固たる研究者$He didn't exaggerate. The ice is slick as an oiled mirror. You need pitons and spiked boots to navigate the slopes, and a misplaced foot will send great chunks of it thundering into the thirsty sea. The air bites like a bound shark. Your face is numb, your fingers stiff, your throat raw. The climb takes you around a sheer white cliff, the waters below swimming with shards of razored ice.\r\n\r\nAt last, a frozen ledge. A vertical sheet of ice rises before you, reflective as a conjurer's glass. Engraved upon it, twenty feet high, is the Navigator's sigil. \"Impressive, isn't it?\" the researcher says, dropping his pack. \"It's one of the old accords between Whither and Irem. It means <i>Almost Never Remembered</i>.\"\r\n\r\nYour Navigator approaches it warily. The sigil on his temple sparks with blue fire. He reaches out, his fingers touching those of his reflection in the ice - and his reflection lunges forward, whispering something in his ear. The Navigator crumples into the snow. \"Oh.\" The Plucky Researcher says. \"Damn. We're going to have a devil of a time getting him back to the ship.\" You do. But you manage it.\r\n\r\nBack in your cosy cabin you imbibe mulled rum. Will you ever be warm again? [Speak to your Sigil-Ridden Navigator to learn what happened.]"
+      },
+      "Id": 147448,
+      "Name": "不法居住者たちに航海士の印を見せる@{I}定住者達に航海士の紋様を見せる@{M}Show the squatters your Navigator's sigil",
+      "Description": "　断固たる研究者がその印のことを知っていた。「良く知っとるよ！見せてやってもいい。だが道のりは険しいぞ。体の弱ってる奴を連れて行くわけにはいかん。あんたがたには、ロープと、クランポンと、毛皮と、テントが必要になるだろうな。あともちろん、案内料はもらうぞ。わしの研究のための助成金が、底を突きかけとるんでな」@{I}気骨溢れる研究者がそれに気づいた。「それなら良く知っておるぞ!見せる事は出来るが、事はそう簡単では無い。脆い人は誰も連れていけん。ロープとアイゼン、革袋にテントを用意する必要がある。そして、当然わしへの支払いも必要じゃ - 奨学金がそろそろ心許ないのでな。」@{M}$Plucky Researcher -> 断固たる研究者$A Plucky Researcher recognises it. \"I know it well! I can show you, but the way isn't easy. I'll not take anyone frail. You'll need ropes, crampons, skins, tents. And I'll want paying, of course - my bursary is wearing rather thin.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182262,
+        "Name": "親しげな口喧嘩@{I}仲良く喧嘩しな@{M}Bickering amiably",
+        "Description": "　そこにいる全員がアイレムかウィザーの出身というわけではなかった。臨時の研究者や、時折正気を失う、氷の彫刻家がいた。中には、とてもよそよそしく、とても悲しげなラバリーマンもいた。しかし、概して言えば、友好的な競争意識がその場を支配していた。@{I}ここに居るのはアイレム人やウィザー人ばかりではない。ここには風変わりな研究者や、時折気の狂った氷の彫刻家も居る。また時々、非常に冷たい、哀れなゴムの男も見かける。しかし殆どの場合において、この場は馴れ合いながらも競い合う空気が支配している。@{M}$Rubbery M[ae]n -> ラバリーマン, Whither -> ウィザー, Irem -> アイレム$Not all are Iremi or Whithern. There's the odd researcher, the occasional deranged ice-sculptor. Now and then a very cold, very sad Rubbery Man. But for the most part, an atmosphere of friendly rivalry reigns."
+      },
+      "Id": 147486,
+      "Name": "港湾報告書を作成する@{I}港湾報告書を作成する@{M}$Port Report -> 港湾報告書$Create a Port Report",
+      "Description": "　不法居住者たちは何をしているのだろうか？@{I}ここに定住している人達はどうしている?@{M}What are the squatters up to?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181851,
+        "Name": "「塔が倒れるのはいつになる？」@{I}\"この塔が倒れるは何時?\"@{M}\"When will the towers topple?\"",
+        "Description": "「沈んだのはどのトロイだ？」「玉虫色になるまでに、戦いは何度繰り広げられた？」「東に行ったのは誰だ？」もしかしたら、謎釣り人はあなたを助けようとしていたのかもしれなかった。もしかしたら、彼はあなたの理性を失わせようとしていたのかもしれなかった。あなたは諦めざるを得なかった。任務は失敗した。@{I}「沈みしトロイはどれ?」「統一までの戦いはあと幾つ?」「東に向かったのは誰?」もしかすると、謎かけ人は助けようとしてくれているのかもしれない。もしかすると、謎かけ人は貴方の心を折ろうとしているのかもしれない。貴方は諦めざるを得なかった。任務は失敗だ。@{M}$Riddlefisher -> 謎釣り人$\"Which Troy was drowned?\" \"How many battles until the Irridescence?\" \"Who went East?\" Perhaps the Riddlefisher is trying to help. Perhaps they're trying to drive you out of your mind. You are forced to give up. The mission is a failure."
+      },
+      "Id": 147208,
+      "Name": "アイレムの情報提供者と話す@{I}アイレムの人間に話をする@{M}$Irem -> アイレム$Speak to your Iremi contact",
+      "Description": "　謎釣り人の一人が、情報提供者であることを示す、赤と青のスカーフを巻いていた。おそらく謎釣り人なのだろう。彼がすんなりと答えを与えてくれる見込みは、どれくらいのものだろうか？@{I}謎かけ人は青と赤のスカーフを纏い、彼自身が関係者だという印を付けている。彼こそが謎かけ人なのだろう。ただ、彼がすんなりと答えを教えてくれる確率は如何ほどか?@{M}$Riddlefisher -> 謎釣り人$A Riddlefisher is wearing the blue-and-red scarf that marks him as a contact. It would be a Riddlefisher. What are the odds he'll give you a straight answer?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181852,
+        "Name": "「どうしてそんな船がここへやって来る？」@{I}\"そんな船が此処に来たのは何故?\"@{M}\"Why would such a ship come here?\"",
+        "Description": "「質問者に質問するのは誰？」「あなたの雇い主の名前は？」「どうして私が知っていると思った？」彼女は頭が鈍いのだろうか？これらは、あなたには識別できない暗号の符丁なのだろうか？カーネイトが、あなたを惑わすために敵対的な工作員を雇ったのだろうか？この問いかけに終わりはあるのだろうか？あなたは諦めざるを得なかった。任務は失敗した。@{I}「質問する者に質問するのは誰?」「貴方を雇っているのは誰?」「私がそれを知っていると思うのは何故?」彼女は鈍感なのか?それともこれらの言葉は貴方が理解出来ない何かの暗号なのか?ハン王国が工作員を雇って私を困惑させに来ているのか?そもそも、この質問は終わるのか?貴方は諦めざるを得なかった。任務は失敗だ。@{M}$Khan -> カーン, Khanate -> カーネイト$\"Who questions the questioner?\" \"What is the name of your employer?\" \"Why do you think I would know?\" Is she being obtuse? Are these code-phrases you don't recognise? Has the Khanate employed a counter-agent to bewilder you? Will these questions ever end? You are forced to give up. The mission is a failure."
+      },
+      "Id": 147209,
+      "Name": "代わりに、ウィザーの情報提供者と話す@{I}代わりにウィザーの関係者に話をする@{M}$Whither -> ウィザー$Speak to a Whithern contact instead",
+      "Description": "　興味深いことに、ウィザーから来た波止場の不法居住者もまた、赤と青のスカーフを巻いていた。彼女があなたに答えを与えてくれる見込みは、一体どれくらいのものだろうか？@{I}面白い事に、桟橋を選挙しているウィザー人も赤と青のスカーフを纏っている。彼女がきちんと答えを言う確率は、果たしてどれぐらいだろうか?@{M}$Whither -> ウィザー$Interestingly, a Whithern dock-squatter is also wearing a red-and-blue scarf. What are the odds she'll give you an answer at all?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245652,
+        "Name": "The light glances off again",
+        "Description": "The Cladery Heir turns away from the shape in the ice. \"No, it's just a boulder,\" she says.  \"Probably we won't find it here. It doesn't matter, of course.\""
+      },
+      "Id": 187414,
+      "Name": "Extract the Cladery Heart",
+      "Description": "The Cladery Heir leans over the deck rail. \"There! In the ice!\" The searchlight catches what might be a hull, or might be a very large gizzard."
+    }
+  ]
+}

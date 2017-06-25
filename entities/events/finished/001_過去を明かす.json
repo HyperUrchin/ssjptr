@@ -1,0 +1,37 @@
+{
+  "Id": 120804,
+  "Name": "過去を明かす@{K}Revealing your Past",
+  "Description": "「腹を割って話すとしよう……」@{K}\"Let us speak frankly...\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 120805,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 109940,
+      "Name": "「自分の生い立ちについてはあまり考えたくなかった……」@{K}\"I prefer not to think about my upbringing...\"",
+      "Description": "「……しかし海にはもう十分に秘密があることだ」@{K}\"...but there are enough secrets at zee.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 120806,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 109941,
+      "Name": "「今まで忙しかっただけで……」@{K}\"I've just been too busy...\"",
+      "Description": "「……過去について話したくなかったという事ではない」@{K}\"...but I don't particularly mind talking about it.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 120807,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 109942,
+      "Name": "「覚えていてくれ」@{K}\"Remember me.\"",
+      "Description": "「自分は家に戻ることが出来ないかもしれない。誰かがこの船長が何者だったのか覚えているべきだろう」@{K}\"I may never return home. Someone should know who I was.\""
+    }
+  ]
+}

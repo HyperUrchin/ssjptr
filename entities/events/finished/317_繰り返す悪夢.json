@@ -1,0 +1,17 @@
+{
+  "Id": 155243,
+  "Name": "繰り返す悪夢@{M}Recurring Nightmares",
+  "Description": "貴方は悪夢を見始めた...@{M}You have begun to dream of...",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 155244,
+        "Name": "冥き不眠の味@{M}A black unsleeping taste",
+        "Description": "まただ、また...貴方は広く暗いジーの中で孤独を味わっている。目は知っている...\r\n\r\n[悪夢は時々貴方に襲いかかり、恐怖を刷り込んで行きます。貴方の宿場で\"安心する夜\"の印を獲得し、抵抗しましょう。もし撃退する事ができれば、秘密を獲得出来る可能性があります。]@{M}$Restful Night -> 安らかな夜$Again and again, you are alone on the wide black zee. The Eye is aware... [Your Nightmare will come upon you from time to time, inspiring Terror. Gain Restful Nights at your Lodgings to help you resist it. If you defeat it, you may gain a Secret.]"
+      },
+      "Id": 131691,
+      "Name": "尋常ならざる目@{M}A vast Eye",
+      "Description": "それは貴方を知っている。その視線から逃れる事は出来ない。@{M}It knows you. You cannot evade its gaze."
+    }
+  ]
+}

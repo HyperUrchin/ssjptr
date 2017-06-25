@@ -1,0 +1,37 @@
+{
+  "Id": 242599,
+  "Name": "You have defeated a Constant Companion",
+  "Description": "Its cluster of articulated legs are curled back on themselves and its variegated stomach exposed. Its mandibles clack gently in a zee-current. Otherwise the Companion's only movements are spasmodic jerks as its limbs stiffen in death.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243567,
+        "Name": "Bending and groaning ",
+        "Description": "The creature's carapace is difficult to scratch, or even get a grip on. Pliers, saws, a mallet - all break. At last, with a groan, a snap, and a spray of viridian blood, a fragment of spindly limb comes free. Suited divers rivet the forelimb to your shell-hull. And what's this? The Companion was clutching something..."
+      },
+      "Id": 186059,
+      "Name": "Sever a limb and use it to brace the hull. ",
+      "Description": "Those limbs which attacked your ship could be put to use repairing it. And one of the claws was clutching something... [Repair your Hull and claim a treasure.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243573,
+        "Name": "Away! ",
+        "Description": "The Companion shivers in death. The grubs flecking its belly whine, plaintively, in the stirring waters. Confined in an armoured diving suit, you hack clumsily at an exposed pedipalp. While you work, its long hairs brush gently, almost lovingly, against your suit. Your zubmarine is primed to make a hasty escape as soon as you return with your trophy."
+      },
+      "Id": 186064,
+      "Name": "Take a memento and leave ",
+      "Description": "Quickly. No good can come of interfering. [This will significantly reduce your Terror, and it may raise all of your stats.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 242600,
+        "Name": "A last retort",
+        "Description": "It takes a pry-bar and a pickaxe to detach a grub from the bulbous hulk of its mother. It emits a constant, irritating noise - like the whine of a wasp trapped in honey, amplified and prolonged. Eventually, one of the small grubs pops free. Once on board the ship, the curled, yellow mass wriggles and squeals, before whitening and falling still. A crewman tentatively approaches. The grub writhes to life, burrowing into him hungrily. By the time you are able to separate them, both crewman and grub are dead. "
+      },
+      "Id": 185483,
+      "Name": "Bring a grub aboard ",
+      "Description": "The wriggling children of the Companion still cling to their parent's husk. Perhaps one will live. It will be interesting to study at close quarters regardless. [This will significantly improve your Iron if it is not already too high.]"
+    }
+  ]
+}

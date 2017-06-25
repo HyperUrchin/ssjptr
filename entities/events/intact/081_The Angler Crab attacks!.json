@@ -1,0 +1,27 @@
+{
+  "Id": 144194,
+  "Name": "The Angler Crab attacks!",
+  "Description": "\"We long hypothesised, from the still-glimmering corpse of this vast decapod, that it guised itself as a distant light, to lure its prey close. We discovered, eventually, that it simply pursues its prey across the zee with happy zeal. It evinces, also, a regrettable turn of speed.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 144195,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 124625,
+      "Name": "Fight!",
+      "Description": "It's on you!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144196,
+        "Name": "Tenacity",
+        "Description": "All your tricks avail you nothing. It's on you!"
+      },
+      "Id": 124626,
+      "Name": "Flee!",
+      "Description": "The Crab may be terribly fast, but perhaps it's not too bright."
+    }
+  ]
+}

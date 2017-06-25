@@ -1,0 +1,77 @@
+{
+  "Id": 234954,
+  "Name": "You are no longer standing in the engine room",
+  "Description": "The tunnel is skin-tight. You descend face first. The wall presses the back of your head, urging you downward. (You should not have come.) \r\n\r\nThe entrypoint of Aigul is regret. (No one enters Aigul without.)",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 234955,
+        "Name": "Sharp, thirsty, dry",
+        "Description": "There is a scent of green bitter things, of fermentation. (Cactus pulp renders an acceptable wine.) Someone once died in a desert and you are traversing the cause of their death. (They lived long enough to regret.) Here is the memory of a dying man seeing a vulture overhead. (The sky.)"
+      },
+      "Id": 180434,
+      "Name": "Descend",
+      "Description": "Aigul is made of needles. The inside of a needle is strait."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234957,
+        "Name": "You draw your hand away from the spine",
+        "Description": "...and at once you are restored to your own body. The tunnel no longer surrounds you. The subaqueous pulse no longer beats in your ears. There is light in the engine room, even if it is only the dim glow of the ship's lamp. "
+      },
+      "Id": 180436,
+      "Name": "Surface, surface",
+      "Description": "Not today. You cannot do this today. Perhaps some other time you will be ready."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234958,
+        "Name": "The Secretive Brother was a clerk at the Admiralty. (One can regret even clerical misdeeds.) ",
+        "Description": "He fell behind in his filing, so he burned a stack of Port Reports, and lied when his superior asked where they were.\r\n\r\nThe lie went undetected. The loss of the Reports caused no great trouble. Nonetheless, the regret rankled. (The Brother had learned integrity from schoolboy novels.) \r\n\r\nConfession offered no cure. It would not retrieve the Reports. It would only disappoint the superior and open the whole department to censure. (Sometimes cowardice and common sense lead to the same end.) \r\n\r\nThe Brother's regret caused more trouble than the deed. (We cured him.) Have you undone the cure? (Get out, you've done enough--)"
+      },
+      "Id": 180437,
+      "Name": "Collect what you came for",
+      "Description": "(Will you be pierced by the Brother's regret?)"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234959,
+        "Name": "You cannot ascend from here with nothing",
+        "Description": "You have come too far. But you can take a different regret instead, the star-white shard by your left hand. (Not human!) It stings -\r\n\r\nAnd you know a sorrow that is shaped like an ellipse, the sorrow of a long approach that also hastens departure. (And all the while you travel, you are melting.) Would it have been possible to crash, and arrest the trajectory? (During your first orbit, you are so bright that you cast a shadow in daytime.)\r\n\r\n...afterwards, long afterwards, you are kneeling on the floor of the Engine Room while the First Mate quarters a solacefruit under your nose."
+      },
+      "Id": 180438,
+      "Name": "Note the regret but leave it where it lies",
+      "Description": "It is guarded by nacreous layers. This is not for you to take."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234960,
+        "Name": "Fluke-regrets",
+        "Description": "The skin of the tunnel is rubbery. The Rubbery Men do not do what they are supposed to do. (We try to improve them.) Among humans, they are sad. (We should have made them with more teeth.) Among Flukes, they disobey. (We should pierce them with more spines.) \r\n\r\nThe passage circles on itself; it leaves you back where you began. (But older. Time does not stop.)"
+      },
+      "Id": 180439,
+      "Name": "The tunnel branches",
+      "Description": "(We tell you which way to go, but you do not understand.)"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234962,
+        "Name": "Dry heart and dry eyes",
+        "Description": "It is so narrow in this passage that you cannot feel anything. Like a professional mourner two funerals from retirement: you have no true feeling remaining, and even proxy grief is hard to summon. "
+      },
+      "Id": 180440,
+      "Name": "Only forward exists",
+      "Description": "Do you regret continuing? It is too late."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234956,
+        "Name": "Forward?",
+        "Description": "Do you want to die down here, in the dark? (Death is not the thing to fear.) Do you want to live down here, squeezed between one misery and the next, so that you can barely move your limbs? (We prefer it.) \r\n\r\nHas your nerve failed you? (You have not moved.)"
+      },
+      "Id": 180435,
+      "Name": "Descend",
+      "Description": "(But only if you feel strong. From here, you cannot surface until you have found what you seek.)"
+    }
+  ]
+}

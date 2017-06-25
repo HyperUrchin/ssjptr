@@ -1,0 +1,27 @@
+{
+  "Id": 152487,
+  "Name": "The End of the War",
+  "Description": "All of Hideaway has gathered in the festival square, around tables of gaudily coloured food. A hair-thin crack runs across the ground, where one never was before.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 237593,
+        "Name": "",
+        "Description": "The dwellers of Hideaway have come together around the Investigator. Some are shocked enough to have broken into speech - but all fall silent when he raises his hands. \"You know the truth. The city is cracking apart. If you want to survive, you must leave. And knowing what you endured down here because you wanted to live - I've no doubt what you'll do next. I don't know where we can go.\" The Investigator tries to smile. \"I don't have answers, only questions. I'm sorry.\" The people leave in tears. Only the Sprightly Visionary stands tearless, trembling with rage. \r\n\r\nBy morning, there's not an emergency bathysphere or zubmarine left in the city. Hideaway is empty; Temtum, alone."
+      },
+      "Id": 182240,
+      "Name": "Join the Impolite Investigator ",
+      "Description": "He stands on a raised platform at the centre of the crowd. He gestures for you to join him."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 237595,
+        "Name": "",
+        "Description": "The dwellers of Hideaway have come together around the Visionary. Some are shocked enough to have broken into speech - but all fall silent when he raises his hands. He performs the wide-armed, toe-twirl sign for Hideaway, followed by the clawed hands and sidesteps for Temtum. He describes togetherness - of Temtum and Hideaway, but also of Hideaway and its people. When the Visionary rallies the people to return to work, to maintain their home - the one place they love, that loves them - they leave, subdued. Only the Investigator remains, pale-faced."
+      },
+      "Id": 182242,
+      "Name": "Join the Sprightly Visionary",
+      "Description": "He stands on a raised platform at the centre of the crowd. He gestures for you to join him."
+    }
+  ]
+}

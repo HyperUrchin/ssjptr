@@ -1,0 +1,37 @@
+{
+  "Id": 149095,
+  "Name": "そうか...お前だったのか...@{M}So you're the only one who made it...",
+  "Description": "船には貴方と、もう一人の船員が残るのみとなった。(幹部達はどうなった?もしかしたら動けなくさせられたのかもしれないし、それ以上に悪い事かもしれない)。貴方達のうちのどちらかが、スナッファーに違いないのだ。@{M}$Snuffer -> スナッファー$Only you and one other crew-member remain. (What of your officers? Perhaps incapacitated: perhaps worse.) One of you must be the Snuffer.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 149100,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 127818,
+      "Name": "貴方本当の顔を晒せ!@{M}Reveal your true face!",
+      "Description": "実は...貴方なのだ。貴方とすり替わってから、大分時間が経っている。[スナッファーとして実際に入れ替わってプレイする選択肢を導入しようと考えていますが、まだ導入は先です。]@{M}$Snuffer -> スナッファー$Actually... it's you. It's been you for a while now. [We may implement an option to play as a Snuffer who's replaced the actual you, but not just yet.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149096,
+        "Name": "実り無いあがき@{M}A fruitless struggle",
+        "Description": "スナッファーは恐ろしく強かった。彼の者は貴方のカトラスを裏拳で弾き飛ばし、同時にもう一方の手で彼女がかぶっていた顔を仮面の如くに脱ぎ捨てた。その下に見えたものは、血が滴り落ちる、飢えた赤い肉塊だった。それが、貴方の見た最期の景色だった。@{M}$Snuffer -> スナッファー$The Snuffer is terribly strong. She smashes away your cutlass with the back of her hand. With her other hand, she peels away her face like the mask it is. Beneath it is a weeping gnarl of hungry red flesh. It's the last thing you ever see."
+      },
+      "Id": 127816,
+      "Name": "攻撃する@{M}Attack",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149098,
+        "Name": "愚策だった@{M}That was unwise",
+        "Description": "貴方は長い間睨み合い、気を張っていた...やがて彼女が手に持つガフフックをゆっくりと振り上げる。同時にもう一方の手で彼女がかぶっていた顔を仮面の如くに脱ぎ捨てる。その下に見えたものは、血が滴り落ちる、飢えた赤い肉塊だった。それが、貴方の見た最期の景色だった。@{M}You watch for a long time... and then she raises her gaff-hook too. With her other hand, she peels away her face comes like the mask it is. Beneath it is a weeping gnarl of hungry red flesh. It's the last thing you ever see."
+      },
+      "Id": 127817,
+      "Name": "彼を安んじさせよ@{M}Spare him",
+      "Description": "スナッファーが既に船を去った可能性は高い: 貴方達は二人共人間なのだから。構えた武器をゆっくりと下ろし、貴方は残されたもう一人の船乗りを信用した。@{M}$Snuffer -> スナッファー$It's just possible that the Snuffer has already left the ship: that you're both human. You could lay down your arms, and trust the other zailor."
+    }
+  ]
+}

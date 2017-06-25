@@ -1,0 +1,27 @@
+{
+  "Id": 213203,
+  "Name": "A Dilemma On Pigmote Isle",
+  "Description": "\"The rats' wine is in high demand, Hairless Adviser.\" The aide twitches its whiskers. \"We do not wish to take the joy from life, but it has caused many problems. Many injuries amongst our farmers. Our new militia recruits missing their training. Do we step in or turn a blind eye?\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 213204,
+        "Name": "An unpopular decision",
+        "Description": "The last wine barrel is delivered to the docks by annoyed soldiers. The aide breathes with relief. \"Hairless Adviser, would you take this devil drink away? We would be most grateful.\""
+      },
+      "Id": 166738,
+      "Name": "Recommend prohibition",
+      "Description": "A sober workforce is a harder-working workforce. Probably not a happier one."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 213322,
+        "Name": "A modicum of freedom",
+        "Description": "The aide seems slightly relieved. \"Very good, Hairless Adviser,\" it squeaks, raising a glass in your honour. You return to the town, past a furry heap of soldiers. One particularly small guinea pig, sleeping in a human sized cup, squeaks happily as you pass."
+      },
+      "Id": 166813,
+      "Name": "Recommend turning a blind eye",
+      "Description": "Even rodents need something to take the edge off life."
+    }
+  ]
+}

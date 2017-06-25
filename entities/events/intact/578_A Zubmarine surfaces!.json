@@ -1,0 +1,47 @@
+{
+  "Id": 193081,
+  "Name": "A Zubmarine surfaces!",
+  "Description": "The <i>Irrepressible</i>! The legendary vessel of the Pianolist! As its ripples fade, a musical voice echoes in the dark with the crackle of an ill-maintained phonograph.\r\n\r\n\"Greetings to you! Greetings and well-wishes, fellow Captain! You have betrayers on board, of a Set untimely scattered. We would witness our betrayers taste betrayal. Such exquisite irony! So much to be learned! Will you yield them to us?\"\r\n\r\nThe breezy musical voice shifts to the minor key.\r\n\"Your immediate response is politely demanded.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 193082,
+        "Name": "The Modiste is cast into the darkness",
+        "Description": "She fights every step of the way, a look of absolute terror on her face. Her eyes meet yours at the threshold of the airlock atop the vessel, before the gun in her face forces her to slowly descend the ladder into its depths.\r\n\r\nFor a moment, a grinding sound of pain and cracking bone rises from the zubmarine's belly, suddenly cut off and replaced with... Vivaldi? The high-notes pierce your ears, the low ones dig deep into your gut.\r\n\r\n\"Extraction is complete. Nothing of interest remains.\"\r\n\r\nA smaller airlock opens. Inside, a box. Inside that, a heart. Cold, desiccated, punched through with hundreds of holes that bring to mind a roll of pianola paper.\r\n\r\nThe <i>Irrepressible</i> submerges. Its ripples soon disappear. So, you are alerted, does the Pirate-Poet. Her cell is open, and a lifeboat missing. Connected? It hardly matters. Without the Modiste, you have nothing to gain from her anyway."
+      },
+      "Id": 153989,
+      "Name": "Hand over the Merciless Modiste",
+      "Description": "She seems mystified by the voice's demands, but one thing is clear: she will not go willingly."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 193083,
+        "Name": "The Pirate-Poet is cast into the darkness",
+        "Description": "She walks with her head held high to the airlock atop the zubmarine. \"I am prepared,\" she declares, breaking the shackles on her wrists with one powerful tug, the easier to climb down the ladder. \"I have returned. I <i>submit</i>.\" And down she goes.\r\n\r\nFor a moment, a grinding sound of dancing sawblades rises from the zubmarine's belly, suddenly cut off and replaced with... Vivaldi? The high-notes pierce your ears, the low ones dig deep into your bones.\r\n\r\n\"Extraction is complete. Nothing of interest remains.\"\r\n\r\nA smaller airlock opens. Inside, a box. Inside the box... a heart. Moistened, still warm to the touch. Drilled through with holes, like a roll of pianola paper.\r\n\r\nThe <i>Irrepressible</i> submerges. Its ripples soon disappear. The Modiste is too relieved to be angry... for the moment."
+      },
+      "Id": 153990,
+      "Name": "Hand over the Pirate-Poet",
+      "Description": "She is already in chains. That makes it easier."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 193084,
+        "Name": "The Modiste and the Poet are cast into the darkness",
+        "Description": "A pair of crewmen lead the two members of the Set at gunpoint. The Pirate-Poet awkwardly rests a comforting hand on the Modiste's shoulder as they approach the airlock atop the zub. She is the first to descend the ladder, vanishing into its pungeant depths. The Modiste follows. Behind them, the hatch slams shut.\r\n\r\nFor a moment, a grinding sound of pain and cracking bone rises from the zubmarine's belly, suddenly cut off and replaced with... Vivaldi? The high-notes pierce your ears, the low ones dig deep into your gut.\r\n\r\n\"Extraction is complete. Nothing of interest remains.\"\r\n\r\nA smaller airlock opens. Inside, a box. Inside that... two hearts. One is moist clay, one dried flesh. Both are punctured with hundreds of holes that bring to mind grisly rolls of pianola paper.\r\n\r\nThe <i>Irrepressible</i> submerges. Its ripples soon disappear."
+      },
+      "Id": 153991,
+      "Name": "Hand over both members of the Set",
+      "Description": "Whatever their history, you wash your hands of it."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 193085,
+        "Name": "An offer rejected",
+        "Description": "Silence. A long, unbroken silence in which to ponder the damage a zubmarine can do to a ship. The torpedoes it could fire. The blades that might cut through the hull beneath the waterline. The harpoons that could drag it to-\r\n\r\n\"Acknowledged. Thank you for your time.\"\r\n\r\nThe <i>Irrepressible</i> submerges. Its ripples soon disappear."
+      },
+      "Id": 153992,
+      "Name": "Refuse the Pianolist",
+      "Description": "They are on your ship, under your protection."
+    }
+  ]
+}

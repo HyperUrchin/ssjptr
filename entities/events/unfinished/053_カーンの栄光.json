@@ -1,0 +1,137 @@
+{
+  "Id": 143358,
+  "Name": "カーンの栄光@{K}$Khan -> カーン, Khan's Glory -> カーンの栄光, Glory -> グローリー$Khan's Glory",
+  "Description": "この場所にはカーンの王宮と宮廷が立ち並んでいる。そのどれもが独立した要塞だ。帯のついたローブで着飾った地位ある紳士と淑女がバルコニーで朝食をとっている。こんな場所に生息しているはずのない羚羊が公園から顔をのぞかせた。電動の台に載せられた銃が滑らかに回転している。@{K}$Khan -> カーン$Here are the palaces of the Khan and his court, each a fortress to itself. Sleek lords and ladies in belted robes breakfast on balconies. An unlikely antelope peeks at you from a park. Guns rotate easily on motorised gimbals.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 143359,
+        "Name": "A long afternoon",
+        "Description": "You meet with an Effusive Official in a room of blue glass and pierced porcelain. You supply the customary compliments and courtesies, while he nods complacently. Finally you present a sample of the coffee. The Official comes suddenly awake, inhales the scent of the coffee, glances regretfully at the porcelain screen behind him - a watcher? He bows to you three times and sends you on your way."
+      },
+      "Id": 124080,
+      "Name": "$Leopard -> レオパルド$Offer a gift to the Leopard",
+      "Description": "$Khan -> カーン$The royal clan of the Khan. The Khan himself has a notorious weakness for coffee, and his court follows suit."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143360,
+        "Name": "A grand ceremony",
+        "Description": "$Aft -> 後部, Khaganian -> カーネイト人, Elder Continent -> 旧大陸$The Effusive Official is today attended by three servants and a Blue Priest, each carrying a candle of a different colour. He speaks a formula in Khaganian, in Greek, and in one of the languages of the Elder Continent. You are anointed with oils and presented with a pair of sharkskin gloves. The Blue Priest admits you to a slightly less debased echelon of foreignness, and blesses you in the name of the Deep Blue Heaven.\r\n\r\nAfter that, you start filling in forms..."
+      },
+      "Id": 124081,
+      "Name": "$Nephrite Quarter -> 軟玉街区$Petition for access to the Nephrite Quarter",
+      "Description": "$Khan -> カーン, Leopard -> レオパルド, Nephrite Quarter -> 軟玉街区, Khan's Heart -> カーンの心臓$The Clan of the Leopard grants trade licenses to foreigners. [This gives access to the Nephrite Quarter in Khan's Heart to the South, allowing you to sell your goods there.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154733,
+        "Name": "An offering accepted",
+        "Description": "In the Yellow Chamber by the palace entrance, a Masked Functionary scrutinises the pearls. \"Yes,\" she says. Even through the mask, she does not meet your eyes. She rises, turns, and leaves."
+      },
+      "Id": 131353,
+      "Name": "$Taimen -> テイメン$Offer a gift to the Taimen",
+      "Description": "$Surface -> 地上, Drowning-Pearl -> 溺れる真珠$This clan is named for a sizeable and ferocious fish of the Surface. They have a fondness for Drowning-Pearls, for some secret clan ritual."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154734,
+        "Name": "The Steel Chamber",
+        "Description": "Two Masked Functionaries hear your request. They confer briefly. One of them marks the paper in front of him. They wait for you to leave."
+      },
+      "Id": 131354,
+      "Name": "$Taimen -> テイメン$Plead your case with the Taimen",
+      "Description": "$the White -> 白きもの, Khaganian -> カーネイト人, Taimen Clan -> テイメン一門, Taimen -> テイメン$The Taimen Clan has long controlled the White-and-Golds, the 'loyalty service' who watch Khaganians and foreigners alike. If they're convinced your intentions are good, they may be lenient. [If your Suspicion has risen too high, this will reduce it.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154816,
+        "Name": "...and turn back",
+        "Description": "$Khan -> カーン, Khanate -> カーネイト$A Khanate gunboat passes the harbour mouth twice. An officer in a red-and-gold uniform scrutinizes you through a spyglass. Best save it for another time."
+      },
+      "Id": 131409,
+      "Name": "Cruise past the clan palaces",
+      "Description": "$Khan -> カーン, Khan's Glory -> カーンの栄光, Glory -> グローリー$Khan's Glory has a steely beauty, but the clan-lords are    ever-suspicious of spies, and those gun emplacements are vigilant."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154820,
+        "Name": "Tea and confusion",
+        "Description": "$Khaganian -> カーネイト人$The Effusive Official sips tea while you run through the polite forms of request. You're not sure he's listening. \"Absolutely!\" he splutters suddenly. He hands you a form for - as far as you can make out - a request for a fisherman's license. You explain, patiently, again. He nods apologetically and gives you a second copy of the same form: but this time, he writes your name carefully in the Roman, not the Khaganian, alphabet.\r\n\r\nYou hand the form back, very politely.\r\n\r\nOn the fourth explanation, you begin to make progress..."
+      },
+      "Id": 131413,
+      "Name": "$Leopard -> レオパルド, Taimen -> テイメン$Ask the Leopard contacts to intercede with the Taimen",
+      "Description": "$Khaganian -> カーネイト人, Leopard -> レオパルド, Taimen -> テイメン$If your Khaganian Suspicion has risen too high, the Taimen can help. The Leopard may induce them to do so."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154821,
+        "Name": "The Grey Chamber",
+        "Description": "A Masked Functionary hears your request in the Grey Chamber. \"We will consider the matter,\" is all she says."
+      },
+      "Id": 131414,
+      "Name": "$Leopard -> レオパルド, Taimen -> テイメン$Ask your Taimen contacts to intercede with the Leopard",
+      "Description": "$Khan -> カーン, Khanate -> カーネイト, Leopard -> レオパルド$The Leopard's favour is essential for gaining access to Khanate trade."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154822,
+        "Name": "$the White -> 白きもの$An audience in the White Chamber",
+        "Description": "$Taimen -> テイメン$In the glow of a single filament-bulb, a Masked Functionary takes down your information. She asks careful, pointed, questions. Finally she nods. \"The Taimen will show their gratitude.\" She points at a drawer on your side of the desk: you open it to find a bag of London coinage. She doesn't bid you good-bye. You have the impression that she doesn't particularly like traitors, even useful ones."
+      },
+      "Id": 131415,
+      "Name": "$Taimen -> テイメン, Strategic Information -> 戦略的情報$Offer Strategic Information to the Taimen",
+      "Description": "Treason is such an old-fashioned word."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180167,
+        "Name": "「カーンは感謝しています」@{K}$Khan -> カーン$\"The Khan is grateful.\"",
+        "Description": "「この装置の原理は……いまだかつて聞いたこともないようなものです。あなたは今日偉大な事を成し遂げられたのですよ。これですべてが変わるでしょう」彼はにっこりと笑った。「ロンドンはもはや我々の敵ではない」@{K}\"The principles of this device are - unprecedented. You have done something extraordinary here today. This changes everything.\" He smiles. \"London is no rival of ours, now.\""
+      },
+      "Id": 146139,
+      "Name": "メメント・モリを売り渡す@{K}$Memento Mori -> メメント・モリ$Sell the Memento Mori",
+      "Description": "レオポルドから来た感情豊かな官吏は疑い深かった。しかしあなたが大砲の威力を実際に示してみせると、彼の疑いはストーブに乗せたバターの様に溶けていった。[カーネイトは魅惑的な財宝を報酬として支払ってくれるでしょう。]@{K}$Aft -> 後部, Khan -> カーン, Khanate -> カーネイト, Leopard -> レオパルド, Captivating Treasure -> 魅惑的な財宝$The Effusive Official from the Leopard is sceptical. After he has witnessed you demonstrate the device, his scepticism melts like butter on the stove. [The Khanate will offer you three Captivating Treasures.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182371,
+        "Name": "$[Bb]lemmigan -> ブレミガン$Blemmigan negation",
+        "Description": "$[Bb]lemmigan -> ブレミガン$The blemmigan halts atop the rail. It directs its eyeless dome towards the guards. It folds its tendrils. The message is quite clear."
+      },
+      "Id": 147564,
+      "Name": "$[Bb]lemmigan -> ブレミガン$Release a blemmigan",
+      "Description": "Perhaps it can sneak under the noses of these grandly epauletted guards with their frightening modern weapons - "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254287,
+        "Name": "There is a place one doesn't speak of",
+        "Description": "$Khan -> カーン, Taimen -> テイメン, Khan's Glory -> カーンの栄光, Glory -> グローリー$Officially, a former servant of the Taimen, who did not engage in the gathering of strategic information, did not disappear to the Unterzee port of Anthe, which officially does not exist. At length you hear what this servant did not look like, and strict prohibitions against pursuing him.\r\n\r\nOfficially, no one in Khan's Glory would have any interest, or be at all inclined to reward you with money and connections, if you were to go to Anthe. They would not care for a report of his situation, or any information he may be unable to bring home."
+      },
+      "Id": 190963,
+      "Name": "Take a meeting concerning a matter of no importance",
+      "Description": "$Taimen -> テイメン$A servant of the Taimen is missing. His loss is a danger."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 254288,
+        "Name": "Assorted revelations",
+        "Description": "What did you hear? No, don't explain where you heard it. Is the agent well? Does he plan to return? No, don't say where he is now.\r\n\r\nIt takes hours of non-explanation before your contacts are fully satisfied. When they are, they reward you with money, confidence, and a promise of safer passage in these parts."
+      },
+      "Id": 190964,
+      "Name": "Deliver a report from Anthe",
+      "Description": "You have the information you were not officially requested to bring."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154814,
+        "Name": "A warning shot",
+        "Description": "Sculpted curves of stone and silver, coral statu - a triple salvo from a gun emplacement scars your bow! Turn back to the sanctioned harbour, quickly."
+      },
+      "Id": 131408,
+      "Name": "Cruise past the clan palaces",
+      "Description": "$Khan -> カーン, Khan's Glory -> カーンの栄光, Glory -> グローリー$Khan's Glory has a steely beauty, but the clan-lords are    ever-suspicious of spies, and those gun emplacements are vigilant."
+    }
+  ]
+}

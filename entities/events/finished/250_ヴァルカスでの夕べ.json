@@ -1,0 +1,87 @@
+{
+  "Id": 152358,
+  "Name": "ヴァルカスでの夕べ@{M}$Varchas -> ヴァーチャス$Evening in Varchas",
+  "Description": "ヴァルカスを訪れる者は、街唯一の宿屋で一泊だけ休む事を許される。宿屋は洒落た石造りの館で、素晴らしい中庭も備えており、壁には街の歴史のフレスコ画が飾られている。ヴァルカスを訪れる異邦人の少なさを考えても、このホテルは現地の恋人達が\"休憩の為に\"使っているのかも知れないと、貴方は考えた。\r\n\r\n夜は更けていく - 本当に更けているのか?街の\"五大鏡塔\"はコイルスプリング機構の上に据え付けられており、各々の角度を微妙に変化させる事で夜の印象を醸し出している。街全体で灯火管理人が色の就いた粉末を街灯に投げ入れ、灯の色を柔らかく明るい黄色に保っている。@{M}$Varchas -> ヴァーチャス$All visitors to Varchas are given one night's accommodation in the city's only inn. It is a handsome stone mansion arranged around a pleasantly cool courtyard: frescoes of city-life are painted on the walls. Given how few visitors Varchas hosts, you suspect the Inn is more usually used by philandering locals.\r\n\r\nEvening falls - or does it? The town's Five Principal Mirrors are mounted on coiled-spring mechanisms, and alter their angles subtly to create the impression of evening. Across the city, the Fire-Keepers throw pinches of coloured powder into the lamps and the quality of light yellows to a softer brightness.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 152359,
+        "Name": "",
+        "Description": "眩しい光の中にも関わらず、貴方は急速に眠りに落ちた。そこで視た夢は、囁き声に溢れ、煌めく煙と、万華鏡のような、反射と歪曲とがないまぜになった、とても奇妙な世界だった。貴方の四肢は折れ曲がり、皮膚は脱皮のように脱げ落ちて、両目は捩れる、そんな世界。貴方が目覚めた時、心臓は明らかに高鳴っていた。鼻孔にはヴァルカスの据えた菌の匂いが充満している。\r\n\r\n貴方の体はそれまで同様に思えたが、何か分からない違和感が体を支配していたのだ。@{M}$Varchas -> ヴァーチャス$You fall into sleep easily despite the bright light, but your dreams are full of whispering, glittering smokes - mirror-vapours that coil into reflection-warping shapes. You see your limbs bend, your skin slough, your eyes twist.. You wake with your heart pounding. Your nostrils are full of the fungal-rot smell of Varchas.\r\n\r\nYour body is as it always was, but somehow that is not as comforting as it should be."
+      },
+      "Id": 129841,
+      "Name": "眠る@{M}Sleep",
+      "Description": "ベッドは低く広く、慎ましい緑と青の、野菜の柄のパターン紋様で染められた綿のシーツを掛けられている。@{M}The bed is low and wide, and draped with cotton sheets stamped with vegetable-dye patterns in muted greens and blues. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152361,
+        "Name": "",
+        "Description": "どうやら動くようだ...少なくとも、起きた時には夢の中の鮮烈な光景など何も覚えていない。目をさます前に貴方は鏡の護りを回収していた。これは貴方の想像なのか、それとも紙切れに走り書きされた文字の一部が微かに<i>滲んでいた</i>のだろうか?\r\n@{M}It seems to work; at least, you do not remember any particularly vivid dreams when you wake. You retrieve the Mirror-Charm before you wake. Is it your imagination, or does some of the script scribbled on the paper-scraps seem slightly <i>blurred</i>?"
+      },
+      "Id": 129843,
+      "Name": "鏡の護りを使う@{M}Use the Mirror-Charm",
+      "Description": "貴方は鏡を枕元にぶらさげ、もう少しだけ穏やかな夢見を望む。@{M}You hang it upon the mirror by your bed-side, and hope for quieter dreams."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152366,
+        "Name": "",
+        "Description": "彼は怯えながら歩き出し、バーガンディの赤ワインをそこら中に撒き散らしていた。彼の若い従者は苛ついているようだ。「すまない、遅れた!」彼が叫ぶ。「許してくれミヒル、アグニホトリが俺の皮を生きながらに剥ぐつもりらしい!」\r\n\r\n彼は感謝の余り貴方の手を握って激しく揺さぶる。「有難う、ターマス!俺はこの事を決して忘れない。さぁ!この弓なりの宝石を受け取れ! -」@{M}He starts up in horror, spilling burgundy-red wine everywhere. His young companion looks irritated. \"I'm late!\" he shouts. \"Mihir forgive me, the Agnihotri is going to skin me alive!\"\r\n\r\nHe pumps your hand in gratitude. \"Thank you, Taamas! I won't forget this. Here! Take my arc-jewels - \""
+      },
+      "Id": 129846,
+      "Name": "ワインで酩酊した点灯夫@{M}The Wine-Mazed Lamp-Lighter",
+      "Description": "彼はサフランのローブに身を包み黒い目をした少年の喉にワインを流し込んでいる。彼の姉が、彼の事を探していると教える事も出来た筈だ。\r\n@{M}He is dressed in saffron robes and is indeed pouring wine down the throat of a very attractive dark-eyed boy. You could tell him his sister is looking for him."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167088,
+        "Name": "",
+        "Description": "また来た。貴方が視た夢は、囁き声に溢れ、煌めく煙と、万華鏡のような、反射と歪曲とがないまぜになった、とても奇妙な世界だった。貴方の四肢は折れ曲がり、皮膚は脱皮のように脱げ落ちて、両目は捩れる、そんな世界。貴方は泣きながら、悶え苦しんで目を覚ます。悪くなっている。夢を視る度毎に、悪くなっている。@{M}Once again, your dreams are full of whispering, glittering smokes - mirror-vapours that coil into reflection-warping shapes. You see your limbs bend, your skin slough, your eyes twist.. You writhe awake with a cry. It's worse. Each time, it's worse."
+      },
+      "Id": 138228,
+      "Name": "煙の夢が待っている@{M}Smoke-dreams await",
+      "Description": "ベッドは快適だが...鏡は用心している。\r\n@{M}The bed is comfortable... but the mirrors are watchful."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167092,
+        "Name": "暗闇の中へ@{M}Into the dark",
+        "Description": "「戻れ...」衛兵が貴方に告げる。「だがまだだ。」その言葉を合図に、彼らが貴方を壁の向こうの暗闇に押し込む。ミラーボールに反射した光のような煌めきで、貴方の目はちらつく。此処はとても寒い。@{M}\"Return,\" the Guard tells you, \"but not yet.\" With that, they usher you into the darkness beyond the walls. You blink mirror-dazzles from your eyes. It's cold out here."
+      },
+      "Id": 138230,
+      "Name": "ヴァルカスの曙光@{M}$Varchas -> ヴァーチャス$Dawn in Varchas",
+      "Description": "ヴァルカスにおいて、異邦人の時間は厳密に決められている。毎朝曙光が漏れる頃、衛兵は宿屋を訪れ、そこで見つけたターマ達を全員退去させるのだ。彼らは礼儀正しいが、非常に決然としている。@{M}$Varchas -> ヴァーチャス$Outsider time in Varchas is strictly rationed. Each morning at dawn, the Guard visits the inn to eject any Taamas they find. They are polite, but very definite."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152362,
+        "Name": "",
+        "Description": "宿屋の料理人は大柄で、顰め面をした男で、腕は港湾で働く人夫のように太い。そんな彼を見て貴方は無言で引き返す、そんな人物だ。料理人は皆この様に強面なのか?皺だらけの優しそうな老婦人が甘いタルトを彼女のポケットに忍ばせるような事は、とても出来そうにない。@{M}The Inn's Cook is a large, scowling man with arms like a stevedore, who turns you out without a word. Are all cooks fearsome? What you wouldn't give for a crease-faced kindly old lady with sweet-tarts in her pockets."
+      },
+      "Id": 129844,
+      "Name": "厨房@{M}The Kitchens",
+      "Description": "少し饐えた菌の匂いが、調理の匂いに混ざっている。しかしそんな事では貴方の食欲は無くなりはしない。@{M}The smells of cooking mingle with the fungus-rot; but you aren't going to let that put you off your food."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152364,
+        "Name": "",
+        "Description": "貴方は<i>ターマス!</i>という単語の囁きを聞いた。それと同時に、音楽家が弦楽器の運指を間違える程神経質になったり、歌詞が舌に引っ掛かって出てこなかったりと、明らかに警戒されているようだった。貴方は彼らの宴の邪魔をして、夜を全て台無しにしてしまう前にそこを立ち去る。@{M}You hear the word <i>Taamas!</i> being whispered, and the musicians grow so nervous that their fingers slip on the strings and their tongues forget their lyrics. You leave them to their music, before you ruin their evening entirely."
+      },
+      "Id": 129845,
+      "Name": "中庭にて@{M}The Courtyard",
+      "Description": "中心に在る大理石の噴水を囲うようにして、クッションが並べられており、音楽家は黄色の葉が茂る木陰で各々の楽器をかき鳴らしている。@{M}Cushions are arrayed around the marble fountain in the middle; musicians pluck their instruments under the shade of the twisted, yellow-leafed trees."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152360,
+        "Name": "",
+        "Description": "貴方は宿屋の壁の明るい珊瑚を見ていた。貴方は繊細な自分の内肘の皮膚をつねり、部屋の長さを測る。\r\n\r\nベッドサイドにある鏡は何やら貴方に煌めきを見せたのだろうか?今まで航海続きだった貴方は、今だけでも忘れられているのだろうか?貴方は非常に慎重に、<i>見ない事</i>にした。@{M}You watch the light scintillate across the inn's wall. You pinch the delicate skin of the insides of your elbows and pace the length of the room.\r\n\r\nDid the mirror by your bedside just give you a roguish sort of glint? Are you going out of your zee-faring mind? You decide, very deliberately, <i>not to look</i>"
+      },
+      "Id": 129842,
+      "Name": "寝るべからず@{M}Don't sleep",
+      "Description": "これだけ明るい中で寝ないというのはさほど苦労しないだろう。だが、休息出来ない事の代償は確実に高くつく。@{M}It won't be difficult to stay awake in this constant light. But the lack of rest will take its toll."
+    }
+  ]
+}

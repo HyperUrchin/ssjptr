@@ -1,0 +1,47 @@
+{
+  "Id": 144292,
+  "Name": "You've defeated an Albino Moray",
+  "Description": "D__n me, it's an ugly thing! Even uglier dead than alive. Friendlier, though.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 144295,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 124692,
+      "Name": "Butcher it",
+      "Description": "For supplies; and occasionally other oddities."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 155747,
+        "Name": "A carnivorous complexity",
+        "Description": "How many jaws does this monster have? Each folds into the next like an orchid of bone. They're wrecked by cannon-fire now, but you think you counted seven. It suggests unlikely things about the nature, or impossibility, of Neathly processes of evolution..."
+      },
+      "Id": 131995,
+      "Name": "Record any Observations",
+      "Description": "If you've gathered enough, you may learn something..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 172689,
+        "Name": "Slice it open!",
+        "Description": "A bandage-wrapped fellow clambers out of the slit. Well: they were bandages, before they were steeped for weeks in the internal juices of an eel. Now the effect is more like a kind of rollmop linguine. \"Does wonders for my complexion,\" he remarks, squelchingly. \"But I suppose it's time to go. Could you drop me off at Venderbight?\""
+      },
+      "Id": 141552,
+      "Name": "Rescue a New Jonah",
+      "Description": "The eel's gut twitches. Is something alive in there?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144293,
+        "Name": "A setback",
+        "Description": "But you are a little too careless: the slime that coats it is poisonous, and as it passes into your blood, you pass out. You recover consciousness with your ship's doctor anxiously chafing your wrists. The Moray has disintegrated in the zee-currents."
+      },
+      "Id": 124691,
+      "Name": "Dissect it",
+      "Description": "for knowledge."
+    }
+  ]
+}

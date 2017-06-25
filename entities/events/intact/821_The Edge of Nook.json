@@ -1,0 +1,57 @@
+{
+  "Id": 255531,
+  "Name": "The Edge of Nook",
+  "Description": "A gap in this colossal zee monster's throat has been forced open with thick heartmetal beams. They strain under the pressure, but hold. As you pass through, your zubmarine lights pass over a message carved in a floating piece of some unfortunate's hull. BEYOND IS NOOK. BEYOND IS FREEDOM. BEYOND IS- The rest is scratched out.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 255532,
+        "Name": "Trespasser in Freedom",
+        "Description": "You don your heavy diving suit and give the order to cycle the airlock. Water rushes in and you begin the slow swim down into the port. It soon becomes obvious that you are over-dressed for the occasion.\r\n\r\nThe people of Nook swim and breathe in the cloudy Maw-water with no apparent discomfort. Most are naked, with just a few clad in rotten rags that stream from their skin with no concern for modesty.\r\n\r\nNone will communicate with you, if they even can. Those who acknowledge your presence just laugh silently at your bulky suit and unnecessary air-hose. You'll need a different approach."
+      },
+      "Id": 191477,
+      "Name": "Enter Nook",
+      "Description": "Water presses against the airlock door. The breathing and slithering of the beast gives it the rhythm of a drumbeat."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255854,
+        "Name": "",
+        "Description": "You undress; every button, every stitch. The door opens. Ice-cold water rushes upwards. Instinct holds your mouth shut. Ten seconds. Twenty seconds. Your lungs burn, holding in that last gulp of air; your legs thrash. You can't hold it in. It escapes! You're choking on water. It forces its way into your lungs, the taste of burning salt suffocating every attempt to gasp, scream or-\r\n\r\nThen, through the exhaustion and panic, you realise you're breathing. It's hard work. Your lungs fight against the weight. But it's enough. You can tolerate it, at least for now.\r\n[The liberal application of wine will make this process easier - in future, bring a cask.]"
+      },
+      "Id": 191714,
+      "Name": "Descend naked into Nook",
+      "Description": "At least you're unlikely to run into anyone you know."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255855,
+        "Name": "Undressing for adventure",
+        "Description": "Again, you remove your clothes and put them safely in the watertight diving suit compartment. As the water rushes in, you are ready; taking gulps to speed the transition. It feels less like drowning, now, and more like baptism. You swim into Nook with skin and mind tingling, reborn in the airlock's cold steel."
+      },
+      "Id": 191715,
+      "Name": "Return to Nook",
+      "Description": "You have the measure of the place now. And you have learned that the liberal ingestion of wine before a visit increases your tolerance for nook-water.\r\n"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255856,
+        "Name": "Stamping. Impatient.",
+        "Description": "Every heartbeat echoes in your head. Your blood strains against your skin. Through that door is freedom. The once foul water now tastes sweet."
+      },
+      "Id": 191716,
+      "Name": "Return to freedom",
+      "Description": "Your clothes itch. The airlock grinds so slowly. Your breathe is spiced with wine."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258903,
+        "Name": "All in excellent condition",
+        "Description": "Lady Black can wrap her fingers around another captain's throat. For now though, it doesn't matter. Nook and its foul - but breathable - waters await."
+      },
+      "Id": 193088,
+      "Name": "Check the diving suit",
+      "Description": "Strictly speaking, you don't need it here, but it couldn't hurt."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "Id": 151453,
+  "Name": "Vienna",
+  "Description": "The capital of the Dual Monarchy has seen better days. The palaces still glitter, but the mood is uneasy. Every third wall seems daubed with graffiti, only rarely in German: UNITY OR DEATH and REMEMBER LONDON and THE LIBERATION OF NIGHT.\r\n\r\nRadical elements have taken to smashing the gas-lamps with flung stones. At least that means it's decently dark at night.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 151454,
+        "Name": "\"Aaaahhh...\"",
+        "Description": "The Proprietor's sorrowful expression vanishes. His eyebrows bristle. Even his ears seem to prick up. \"My friend, this is extraordinary. What flavours do I detect? Cinnamon? Jasmine? is that... bat guano? The vitality of this substance! The energy!\"\r\n\r\nHis enthusiasm dissipates abruptly. \"Yes. Yes, I suppose it will do. I'll pay you eighty kronen - whatever that is in your peculiar subterranean currency - for every sack you bring me. Perhaps it will do this poor old place some good. Anything's possible, I suppose.\""
+      },
+      "Id": 129256,
+      "Name": "Establish a business relationship",
+      "Description": "The proud and glittering Café Ferstel has long been a centre of intellectual life. But its coffee has deteriorated in quality. Offer a sample to the Melancholic Proprietor."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 153901,
+        "Name": "The black blood of the Ferstel",
+        "Description": "\"Each day - \" the Proprietor waves at the bustling blaze of the Café \" - we draw a little nearer to bankruptcy. Your coffee helps delay our demise, if only by a week or two. I am grateful, I suppose. Here: this is all I can afford to pay you.\""
+      },
+      "Id": 130776,
+      "Name": "Deliver coffee to the Café Ferstel",
+      "Description": "Gas-lamps glow; waiters swoop; chess-players hunch over their tables. The Melancholic Proprietor looks up from his moustache wax. \"Aha,\" he says gloomily. \"My only remaining friend. I'm glad you're not dead yet.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 153902,
+        "Name": "Esoteric glassware",
+        "Description": "\"Our sisters and brothers below are performing experiments in light. For, you know, the Liberation.\" The Agitator clasps your shoulder. \"These are hard to find in the Neath. So hard. You'll be advancing our cause by months. Please. For freedom from all tyrants.\""
+      },
+      "Id": 130777,
+      "Name": "\"Psst! Friend! Strike a blow for freedom, will you?\"",
+      "Description": "A Fidgety Agitator beseeches you to take supplies below, to London, for the cause of Revolution."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 153903,
+        "Name": "A dinner with a gentleman from the Bureau",
+        "Description": "A fierce old fellow listens intently to your account, and dispatches agents to arrest the Agitator. \"We are grateful,\" he says. \"I shall not insult you by offering you payment. But I must invite you to dine with me before you leave.\"\r\n\r\nNo payment? But the dinner conversation is rich with valuable information. Perhaps the old fellow is using you as a pawn in some scheme of his own. No matter: the Admiralty would love to hear this."
+      },
+      "Id": 130778,
+      "Name": "Report the Fidgeting Agitator to the authorities",
+      "Description": "His idealism burns worryingly bright. Besides, you might turn a profit from informing on him."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182263,
+        "Name": "Supplies, London-bound",
+        "Description": "\"One day, my friend, we will extinguish the Sun, who is the king of all kings. But one step at a time, eh? One step at a time.\""
+      },
+      "Id": 147487,
+      "Name": "Another favour for the Agitator",
+      "Description": "\"Over here, friend! The Work proceeds. But you can help it proceed faster.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182264,
+        "Name": "Nine courses, and a rare liqueur",
+        "Description": "\"You enjoyed the ham hock? I will have Cook provide you with something to take away. Well, thank you for your company. Most pleasant. And most enlightening.\""
+      },
+      "Id": 147488,
+      "Name": "Dine with your friend from the Bureau",
+      "Description": "\"Back so soon? A charming surprise! How is life in the netherworld? Do you perhaps have something else for me?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182265,
+        "Name": "The hum of the rails",
+        "Description": "Fall asleep in a carriage with two gossiping bankers. Wake with your head on a snoring soldier's shoulder. Fortunately he doesn't seem to have noticed."
+      },
+      "Id": 147489,
+      "Name": "Back to Naples",
+      "Description": "The Midnight Express. The eight o'clock train is less crowded, but dangerously exposed to sunlight. Besides, you have your return ticket."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182267,
+        "Name": "Your work is done",
+        "Description": "Of course. The Great Work is complete. Perhaps he's gone below to celebrate it."
+      },
+      "Id": 147491,
+      "Name": "No sign of your contact",
+      "Description": "Where is the Fidgeting Agitator?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182269,
+        "Name": "A notice from the Melancholy Proprietor",
+        "Description": "\"FRIENDS, RESPECTED CLIENTS - for months I have lived in the twin shadow of Revolution and Destitution. Each day, their terrors have weighted my soul with lead. The fear of it has been too much to bear. Consequently, I have set my Café afire. I regret the inconvenience. I will wait at home for the police. Farewell.\""
+      },
+      "Id": 147493,
+      "Name": "The Ferstel's carcass",
+      "Description": "The Café Ferstel is a fire-ravaged wreck! A hand-lettered sign hangs from the blackened, twisted frame of the entrance door."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 187739,
+        "Name": "\"Shh!\"",
+        "Description": "His eyes are grave. \"The Great Powers are always watching,\" he hisses. \"Even here. Everything you've done, you chose to do. Remember: there is a sea more sunless.\""
+      },
+      "Id": 150868,
+      "Name": "Ask the Bureau friend whether you had met before, long ago...",
+      "Description": "In Frostfound, you uncovered certain memories. Were they yours?"
+    }
+  ]
+}

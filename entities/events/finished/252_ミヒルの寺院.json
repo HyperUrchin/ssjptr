@@ -1,0 +1,87 @@
+{
+  "Id": 152375,
+  "Name": "ミヒルの寺院@{M}The Temple of Mihir",
+  "Description": "寺院の塔は街の中心部を貫き、街の主要点に聳え立つ他の4つの塔よりも高い。寺院の周辺には聖別された区域があり、石の神殿は蔓に覆われていて、溜池はヒカリゴケや発光鰭を持つ鯉で輝いていた。司祭達は白い装束で統一されており、金属の鎖を手首に巻き付けて、重々しい。\r\n\r\nミヒルの寺院に鏡はない。街の他の場所は鏡によって光を反射する様に設計されているが、ミヒルの最も聖なる場所は幾百の灯籠や、燐光茸の成分を固めた蝋燭などで満たされていた。@{M}The Temple Tower pierces through the city's heart, taller than the other four towers which stand at each of the cardinal points. Around the Temple sprawls the Sacred District: vine-covered stone shrines; still ponds glowing with algae and flash-finned carp; priests in white, their wrists heavy with metal chains.\r\n\r\nThere are no mirrors in the Temple of Mihir. The rest of the city has to make do with mirrored light and reflection but Mihir's most sacred space is filled with hundreds of lamps and lit candles of hard-packed phosphorescent fungus.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 152376,
+        "Name": "",
+        "Description": "太陽の司祭は火で暖められた寺院の石に反響し、塔全体に行き渡るように、一段と声を張り上げた。「ミヒル様は私達から目を逸らし、目を逸らし、そしてヴァルカスが堕ちました。」彼女は抑揚をつけながら話している。「されば、私達の街を狼煙の如くに明るく照らしましょう。ミヒル様が今一度、私達を見つけられますように。」\r\n\r\n@{M}$Varchas -> ヴァーチャス$The Sun-Priest pitches her voice so it echoes off the fire-warmed stones of the temple, and reverberates through the tower: \"Mihir looked away from us, and Varchas fell,\" she intones. \"Now we light our city like a beacon, so Mihir may find us once more.\""
+      },
+      "Id": 129852,
+      "Name": "真言に耳を傾ける@{M}Listen to the Mantras",
+      "Description": "「ヴァルカスに陽光未だ輝けり!」太陽の司祭は祈りの最中に叫んだ。寺院に集まり、並んで祈りを捧げている信者達がその言葉を反復して詠唱する。<i>ヴァルカスに陽光未だ輝けり!</i>\r\n@{M}$Varchas -> ヴァーチャス$\"In Varchas the sun still shines!\" calls the Sun-Priest, in the way of an invocation. The assembled temple-goers raise their voices in well-worn reply, <i>In Varchas the sun still shines!</i>"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152379,
+        "Name": "",
+        "Description": "太陽の先見者の一人が自身の吐息を鋭く吸い込み、貴方が捧げた物を、まるで憎悪するかの如くに睨めつけている。しかし彼女はそれを打ち払うような動きを見せない。\r\n\r\n「私達は生ける者の肉を食す事は有りません。」彼女は苛立たしげに呟く。「私達は殺生も、傷つける事も致しません。私達はミヒル様の純潔と光の教義を守っております故。」そう言うと彼女は不意に貴方の額に指を押し付ける。それはまるで焼印の如くに熱かった。「貴方の原罪に対し、ミヒル様のご慈悲の在らん事を。許し難き事と見えますが。」\r\n@{M}One of the Sun-Seers sucks her breath in sharply, and glares at your offering as though it is an abomination. But she makes no move to knock it away. \r\n\r\n\"We do not eat the flesh of living beings,\" she hisses angrily. \"We do not murder, or maim. We follow Mihir's tenets of purity and light.\" She touches you abruptly on the forehead, her fingers hot like a brand. \"May Mihir forgive you for your sins, as unforgivable as they seem to me.\""
+      },
+      "Id": 129854,
+      "Name": "ミヒルの神殿@{M}The Shrine of Mihir",
+      "Description": "彼の者の石彫刻は鈍色に光る蛾によって毎日磨かれている。もしかすると、花々や他の捧げ物に先立って、嘆かわしい遺物を置いた事がいけなかったのだろうか?\r\n@{M}$Lamentable Relic -> 嘆かわしい遺物$His stone-carved form is rubbed daily with glowing moss. Perhaps it is guilt which makes you think of placing a Lamentable Relic amongst the flowers and other offerings?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152380,
+        "Name": "",
+        "Description": "考えるまでもなく、殆どの交易には輸入禁止品目が設けられているが、例えばガスであったり、内陸からの米や、碧珊瑚の胞核といった\"必需品\"は免除されている。それが貴方にとっては必要な過程である故に、貴方はしつこく押し問答を仕掛けた末に、一定の値段で妥協を見た時、貴方と相手の双方には笑みが零れた。\r\n@{M}$[Ss]cintillack -> シンティラック$Apparently there's a trade embargo on most imports, but \"essentials\" like gas, rice from inland and scintillack are spared. You haggle because it is a required part of the process, but settle on a price that makes you both break into a smile."
+      },
+      "Id": 129855,
+      "Name": "太陽の先見者@{M}The Sun-Seers",
+      "Description": "ミヒルにとって最も重要な司祭は太陽の先見者と呼ばれる。彼らは光る碧珊瑚のビーズを連ねたネックレスを身に着けている。従って、碧珊瑚の胞核を彼らに売れば、良い値段で買い取ってくれるだろう。@{M}$[Ss]cintillack -> シンティラック$The most important Priests of Mihir are the Sun-Seers; they wear necklaces of glowing scintillack-beads. They'll pay well for more scintillack."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152450,
+        "Name": "",
+        "Description": "ヴァルカスにはまだ探索すべき所がある。@{M}$Varchas -> ヴァーチャス$There is more of Varchas to explore."
+      },
+      "Id": 129905,
+      "Name": "繁華街に戻る@{M}Return to the City Centre",
+      "Description": "此処での用事は終わった。@{M}You are done here."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152464,
+        "Name": "",
+        "Description": "太陽の司祭は貴方の\"這い寄る騒音\"の夢についての説明を静かに聞いている。「貴方は、眠りに就く時には鏡張りの部屋で自身を護りなさいと教わらなかったのですか?」彼はそう問いかけ、次いで呪った。司祭たる者が寺院で呪うという事があるのか?「ターマスがここまで人の話を聞かぬとは、全く信じられません。」\r\n\r\n貴方は彼に対し、自分は確かに人の話を聞いて居なかったと認め、司祭が他者への儀式 - より独創的な呪いの儀式 - を終えるまで大人しく待つ事にした。「鏡には恐ろしい力が秘められているのです。」とは、彼の、何の役にも立たなさそうな結論だった。\r\n\r\nやがて、彼は貴方に、血の様な色をした蛇皮の御守と、無骨な、見慣れない文字の書かれた紙片をわたし、就寝の際に一番手近にある鏡にこれを掛けなさいと教えてきた。@{M}The Sun-Priest listens to you describe your dream with growing disquiet. \"Were you not taught to guard yourself when you sleep in a room full of mirrors?\" He asks, and then curses. Should priests curse in temples? \"I cannot believe the Taamas are so ignorant.\"\r\n\r\nYou assure him that you are indeed quite ignorant, and wait patiently for him to finish another, more inventive round of cursing. \"There are dreadful powers in mirrors,\" is his unhelpful conclusion.\r\n\r\nHe gives you a charm of bloodied snakeskin and scraps of paper written in an angular, unfamiliar script, and tells you to hang it upon the nearest mirror before you sleep."
+      },
+      "Id": 129916,
+      "Name": "煙の夢@{M}Dreams of Smoke",
+      "Description": "彼らは話を理解し得る司祭の一人に見える。ただ、貴方がきちんと話を伝える心を持っていたら、の話だが。\r\n@{M}They seem like something one of the Priests might understand, if you had a mind to tell them."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168998,
+        "Name": "",
+        "Description": "司祭は興奮気味に何事かを喋っている。貴方は根気強く駆け引きを続け、最終的に彼らは若い先見者を外の宝物庫によこした。彼女は、羽や琥珀、彫られた玄武岩で出来た豪華な胸飾りを持って帰ってきた。「山からの贈物です。」彼女は囁く。@{M}The priests chatter excitedly! You bargain hard, and by the end of the process, they have to send a junior Seer down to the outer treasure chambers. She returns with a gorgeous pectoral of feathers, amber and carved basalt. \"From the Mountain,\" she whispers."
+      },
+      "Id": 139333,
+      "Name": "碧珊瑚の胞核!@{M}$Blue Scintillack -> ブルー・シンティラック, [Ss]cintillack -> シンティラック$Blue Scintillack!",
+      "Description": "この宝物に対して彼らはあと幾ら払うのだろう?@{M}How much more will they pay for this treasure?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152377,
+        "Name": "",
+        "Description": "恐らくそれは寺院で鳴らされる真鍮の鐘の音か、太陽の司祭の聖歌詠唱か、お香と甘酸っぱい匂いのないまぜになった香りなのか。しかし、貴方の眼前には彫刻が鎮座するだけだった。何が起きているのか、理解は出来ない。@{M}Perhaps it is the sound of the temple's brass bells ringing, or the chanting of the Sun-Priests or the smell of incense mingled with sweet-rot but the carvings swim in front of your eyes. You cannot make sense of them."
+      },
+      "Id": 129853,
+      "Name": "浅浮き彫り@{M}The Bas-Reliefs",
+      "Description": "それぞれの寺院の全ての表面は彫り込まれ、加工されている。もし貴方がもっと近くで見れば、浅浮き彫りの意匠は、ヴァルカスの地下への落下を叙述していることに気づくだろう。@{M}$Varchas -> ヴァーチャス$Every surface of the temple is carved and worked; if you peer closer, the bas-reliefs depict Varchas's Fall into the Neath."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152381,
+        "Name": "",
+        "Description": "貴方はアグニホトリに向かって群衆の中をすり抜けようとしている。そんな彼は、傷ついた子供のように壊れた鏡を持った巡礼者の存在によって、集中を妨げられている。邪魔をしない方が良さそうだ。@{M}You try to slide through the crowd towards the Agnihotri. Alas, he is distracted by a pilgrim carrying a broken mirror like an injured child. Best not to interrupt."
+      },
+      "Id": 129856,
+      "Name": "アグニホトリ@{M}The Agnihotri",
+      "Description": "王や総督と同等の地位に在る、ヴァルカス人。彼は儀式を監督し、そして貴方に一瞥をくれている。@{M}The Varchaasi equivalent of a King, or Governor; he is overseeing the rituals, and gives you a slanted glance."
+    }
+  ]
+}

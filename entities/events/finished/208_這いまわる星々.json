@@ -1,0 +1,27 @@
+{
+  "Id": 150770,
+  "Name": "這いまわる星々@{I}蠢く星々@{M}The Crawling Stars",
+  "Description": "　見張り番が叫びを上げた！遥か頭上、洞窟の天蓋で、偽星の配置が移り変わっている。滅多に見られない不吉な事象だ。何が起ころうとしているのだろうか？@{I}見張りが叫んでいる。遥か上空、洞窟の天井にある人工の星々が移動している。これは極めて珍しく、不吉な現象だ。さてどうする?@{M}$false-star -> 偽星$The lookout shouts! Far above, the false-stars in the cavern roof are shifting: a rare and ominous event. What now?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 151252,
+        "Name": "不満の呟き@{I}低い声で文句を言う@{M}Grumbles and mutters",
+        "Description": "「一等航海士！その男の名前を控えておけ！」だがその時にはもう、既に呟きは静まっていた。@{I}「副船長!彼の者の名を言え!」しかし彼らは直ぐに押し黙ってしまう。@{M}$Officer -> オフィサー$\"First Officer! Take that man's name!\" But they quieten soon enough."
+      },
+      "Id": 129140,
+      "Name": "「甲板に目をやれ！」@{I}\"甲板に目をやれ!\"@{M}\"Eyes on the deck!\"",
+      "Description": "　船員たちがそれを見るのを禁じよう。実際に見るのを止めさせることはできまいが、少なくとも、それについて話し合うのを止めさせることはできるだろう。船員たちは気に入らないだろうが、しかし、こうした方が安全だ。@{I}船員に見るのを禁ずる。実際は彼らを完全に止める事は出来ないが、言い合いを止めさせる事は出来る。彼らは渋々と従ったが、その方が安全なのだ。@{M}Forbid them to look. You can't really stop them, but you can at least discourage discussion. They won't like it, but it's safer."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 151251,
+        "Name": "暗闇@{I}暗闇@{M}A Darkness",
+        "Description": "　瞼を閉じるような唐突さで、三つの偽星が同時に消えた。後に残された模様は、投げられた賽と同じぐらい無駄で無意味だった。どこかで水夫がすすり泣きを始めた。@{I}人工の星々のうち3つが、目を閉じるかのように突然同時に瞬きした。残された模様は、投げられた賽の様に絶望的で、無意味だった。何処かで、船乗りが啜り泣いている。@{M}$false-star -> 偽星$Three of the false-stars wink out altogether, as suddenly as closed eyes. The pattern that remains is as hopeless and meaningless as cast dice. Somewhere, a zailor begins to sob."
+      },
+      "Id": 129139,
+      "Name": "変化を記録し、名前を割り当てる@{I}変化を記録し名前を付ける@{M}Record the change and assign a name",
+      "Description": "　もしも新しい形が縁起の良い兆しに思われたなら、船員たちは喜ぶかもしれない。まあ何とも言えないが。@{I}新しい形が吉兆を表すものであれば、船員は元気づけられるだろう。誰が分かり得ようか?@{M}If the new shape seems well-omened, your crew may be cheered. Who knows?"
+    }
+  ]
+}

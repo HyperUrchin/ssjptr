@@ -1,0 +1,37 @@
+{
+  "Id": 243636,
+  "Name": "Scattered Bones ",
+  "Description": "Bones lay scattered and gnawed on the zee-bed. Rib cages yawn open, breastbones shattered. Fragments of skull litter the sand like pearls. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243637,
+        "Name": "You don your diving gear",
+        "Description": "The bones are worse than gnawed. Many have been chewed, snapped and shattered. Strands of viscera cling to ribs; withered lung-flesh remains behind a few unsnapped breastbones. One bone hand covers a skull, finger-bones splayed, as though to shield its eyes from its fate, or in futile supplication. "
+      },
+      "Id": 186103,
+      "Name": "Take a closer look at the bones",
+      "Description": "What killed these people? "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243639,
+        "Name": "You don your diving gear",
+        "Description": "You scour the zee-bed, upturning once-human fragments. A fractured skull, whose teeth appear to have been forcibly removed. A tibia, hollowed and sucked dry of marrow. A single copper band on a hand severed at the wrist and plucked of fingers. The zee has been cruel. "
+      },
+      "Id": 186104,
+      "Name": "Scavenge the bones ",
+      "Description": "Perhaps something of value remains. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243641,
+        "Name": "You don your diving gear",
+        "Description": "There is so very little left. You gather up a few ribs only to find the pressure of your touch shatters them to dust. On further inspection, you discover that the bones are hollow - all the marrow drained or sucked out. What happened here?"
+      },
+      "Id": 186105,
+      "Name": "Gather up the bones ",
+      "Description": "Perhaps you mean to bury them. Perhaps you have other uses in mind."
+    }
+  ]
+}

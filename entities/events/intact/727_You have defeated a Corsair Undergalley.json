@@ -1,0 +1,37 @@
+{
+  "Id": 242591,
+  "Name": "You have defeated a Corsair Undergalley",
+  "Description": "Your zub's lights illuminate dark tendrils of blood in the water. There is movement at a porthole. Some of the Corsairs have survived.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 242592,
+        "Name": "A muffled chorus of brief agony ",
+        "Description": "A volley of your guns sets the engine room aflame. The Undergalley erupts with a bright white light that causes shadows to play through the water. Something explodes - a wave of pressure rocks your zub. By the time you and your crew have picked yourselves up off the floor, nothing remains of the pirates, or their ship. "
+      },
+      "Id": 185479,
+      "Name": "Destroy the zubmarine ",
+      "Description": "The dying and desperate Corsairs will be spoiling for a final fight.  You will not give it to them."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243559,
+        "Name": "Death in the depths ",
+        "Description": "A bright glow on the Undergalley waxes and wanes erratically, but it is enough to guide you to their ship. The pirates are waiting. One of your crew is killed when a slow moving machete slits an airline, before the last of the Corsairs is slain. Their bodies are pulled down to the zee bed by the weight of their suits. You begin to salvage supplies."
+      },
+      "Id": 186055,
+      "Name": "Attempt to board the wreck ",
+      "Description": "There will be bloodshed. There may be supplies."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243561,
+        "Name": "Refusal ",
+        "Description": "The Undergalley Captain uses a lantern and some robust hand gestures to convey his unwillingness to surrender.  A light flares near the hull; the rumbling sound of gears grinding. The Undergalley lurches forward, briefly, then bursts into flames so bright it must been seen through the water for miles around."
+      },
+      "Id": 186056,
+      "Name": "Negotiate a surrender ",
+      "Description": "They cannot last long. Their craft is as good as destroyed. Signal a cessation of hostilities with your lights. "
+    }
+  ]
+}

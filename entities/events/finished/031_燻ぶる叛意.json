@@ -1,0 +1,27 @@
+{
+  "Id": 141724,
+  "Name": "燻ぶる叛意@{M}Rebellious murmurs",
+  "Description": "皿の上には何もなく、コップは乾いている。船員の忠誠心は日に日に無くなっていく。@{M}Plates are empty, cups are dry. Your crew's loyalty is less certain by the day.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 144487,
+        "Name": "嘲弄@{M}Jeers",
+        "Description": "「そいつをふん縛れ!」副船長が厳しく言い放つ。貴方を嘲ったトラブルメーカーが、営倉に叩きこまれた。服従を強要された船員の顔に浮かぶ強情な表情は貴方も良く知る表情だ。今のところは...乗り切っただろう。@{M}$Officer -> オフィサー$\"Take down that man's name!\" your First Officer raps. The troublemaker who jeered you is hauled off into the brig. The crew wear the mulish expressions you know too well, of zailors forced to obey... for now."
+      },
+      "Id": 124815,
+      "Name": "懲戒する@{M}Discipline",
+      "Description": "彼らが貴方の前に立ちはだかるなら、彼らが故郷を見る事はない事を告げる。@{M}Promise them that if they cross you, they'll never see their homes again."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 141725,
+        "Name": "塞ぎこんだ反応@{M}A glum response",
+        "Description": "歓びも無く、熱意もない。時間は無くなっていく。@{M}No cheers, no renewed enthusiasm. Time is running out."
+      },
+      "Id": 122983,
+      "Name": "鼓舞する@{M}Inspiration",
+      "Description": "彼らがもし貴方をもう少しの間信じるなら、彼らを故郷まで連れ戻す事を告げる。@{M}Promise that if they trust you a little longer, they'll see their homes again soon."
+    }
+  ]
+}

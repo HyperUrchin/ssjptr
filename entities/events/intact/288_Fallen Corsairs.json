@@ -1,0 +1,27 @@
+{
+  "Id": 153586,
+  "Name": "Fallen Corsairs",
+  "Description": "They're as unlovely in death as they were in life.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 153587,
+        "Name": "Bare pickings",
+        "Description": "Leathery meat and handfuls of coins from a dozen harbours."
+      },
+      "Id": 130592,
+      "Name": "Loot the bodies",
+      "Description": "How many times have they looted fallen enemies? Now it's your turn."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 155738,
+        "Name": "Ugly customers, ugly methods",
+        "Description": "They may not know much, but they know how to fight dirty. Take a note. You may need it some day."
+      },
+      "Id": 131986,
+      "Name": "Record any Observations",
+      "Description": "If you've gathered at least 10 Observations, you may learn something..."
+    }
+  ]
+}

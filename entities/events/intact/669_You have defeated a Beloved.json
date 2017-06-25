@@ -1,0 +1,47 @@
+{
+  "Id": 236751,
+  "Name": "You have defeated a Beloved",
+  "Description": "A cloud of oily bubbles signals the beast's end. Its interminable refrain of moans and burbles and plaintive whistles finally dies away like a harmonium going down a drain.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 236752,
+        "Name": "\"The fin! Wait, no - the flank! Or wait - the liver. Oh, oh - the <i>eye</i>. Oh, <i>Salt</i>.\"",
+        "Description": "No fruit-de-mer, this. It's <i>meat</i>. There's no other word for it. Rosy pink and sweet, and tasting like the finest steak. No - like cream. No - like marbled honey. And suddenly it is all gone, and only the smell of abyssal brisket is left lingering on your plates, your fingers."
+      },
+      "Id": 181608,
+      "Name": "Fillet it for supplies",
+      "Description": "Anything that puts up such a fuss <i>must</i> be edible."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 241471,
+        "Name": "A behemoth goes to die",
+        "Description": "The crew watches uncomfortably as the red wake spreads. Is this mercy, or cruelty? The murmured arguments continue long into the night. The looks they shoot you are all the harsher for their uncertainty."
+      },
+      "Id": 184744,
+      "Name": "Let the beast go",
+      "Description": "Its wound is fatal. It will surely head to the Gant Pole.\r\n [This will send this beast to the Gant Pole.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260399,
+        "Name": "A behemoth goes to die",
+        "Description": "The crew watches uncomfortably as the red wake spreads. Is this mercy, or cruelty? The murmured arguments continue long into the night. The looks they shoot you are all the harsher for their uncertainty."
+      },
+      "Id": 194199,
+      "Name": "Let the beast go",
+      "Description": "Its wound is fatal. It will surely head to the Gant Pole. [This will send this beast to the Gant Pole. The Fading Haruspex may no longer make use of them, but others in there may appreciate it.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 236775,
+        "Name": "\"Easy now. Easy. Easy... Blast.\"",
+        "Description": "The carcass comes apart in the hauling lines before you even open the cargo hatch, and the scatter of fleshy flotsam sinks in an instant. Surely you didn't do enough damage for it to disintegrate so completely? "
+      },
+      "Id": 181623,
+      "Name": "Dissect it for knowledge",
+      "Description": "Your bellies can wait."
+    }
+  ]
+}

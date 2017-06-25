@@ -1,0 +1,17 @@
+{
+  "Id": 208127,
+  "Name": "The Triumph of Pigmote Isle",
+  "Description": "Pigmote is bloodied, but victorious. Their victory over the invaders has united rats and cavies. King Gracegnaw and the Chief Engineer greet the returning ambassadors, here to end hostilities with a non-aggression pact.\r\n\r\nThe Visage ambassador is the first to sign, her feelings hidden by her mask. The Fathomking's man merely sucks his thumb and presses it to the vellum, leaving an inky fingerprint.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 208128,
+        "Name": "Gratitude",
+        "Description": "The celebrations last three days. Afterwards, bloated with meat and ale, you are summoned to the ruling council. King Gracegnaw and First Minister Edgar tend their new court together.\r\n\r\n\"Hairless Adviser! A thousand gratitudes!\" declares King Gracegnaw, raising a paw. A chorus of rats begins chanting 'thank you'. You do not keep count, but it seems they intend to go the full distance.\r\n\r\nThe First Minister's gratitude is less symbolic. He gestures, and a cart pulled by both a rat and a cavy wheels in Pigmote's treasure - the Rat Star, the Lady's Eye, the Thalassine... goodness only knows how many other names this glowing scintillack might have.\r\n\r\n\"From now on we light our own path,\" says the First Minister. \"Take it.\" He rubs his head wearily. \"B____y thing's caused us nothing but trouble anyway.\"\r\n\r\nWith your reward in hand, the zee beckons once again. Perhaps one day it will lead you to your own Kingdom. If so, this experience will certainly be valuable."
+      },
+      "Id": 163510,
+      "Name": "A new start",
+      "Description": "Fireworks light the roof of the Neath. Happy squeaks raise in anticipation of the future."
+    }
+  ]
+}

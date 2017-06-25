@@ -1,0 +1,77 @@
+{
+  "Id": 148782,
+  "Name": "メイビーの娘と話す@{I}メイビーの娘に話しかける@{M}$Maybe's Daughter -> メイビーの娘$Speak to Maybe's Daughter",
+  "Description": "　あなたは彼女を完全に信頼しているわけではないかもしれない。それでも、彼女はエンジンを動かし続けるし、それに、彼女を嫌いになるのは難しいことだ。@{I}貴方は完全に彼女のことを信用している訳ではないのだろうが、彼女はエンジンを上手く扱っており、そして彼女の事を嫌いになれそうには無い。@{M}Perhaps you don't entirely trust her, but she keeps the engines turning, and she's hard to dislike.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 148783,
+        "Name": "複雑な知識@{M}Complex knowledge",
+        "Description": "　一旦話し始めると、彼女は非常に真剣だ。冗談やはったりに隠されていても、彼女の語調には鋭い響きがあった。@{M+I}一旦話し始めると、彼女は非常に堅物だ。冗談やはったりの入り込む隙は全くない。@{M}She's serious once she gets talking. There's hard edges under the bluff and banter."
+      },
+      "Id": 127618,
+      "Name": "あなたのVeilsを上昇させる@{I}ヴェールを上げる@{M}Increase your Veils",
+      "Description": "　あなたが秘密を打ち明ければ、彼女も秘密を明かしてくれるだろう。[秘密を費やしてあなたのVeilsを上昇させましょう。ただし、100が上限です。]@{I}[数値が100以下の場合、秘密を消費して貴方のヴェールを上げます。]@{M}She'll tell you her secrets if you tell her yours. [Spend a Secret to improve your Veils, if it is no higher than 100.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148785,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 127620,
+      "Name": "あなたの過去に関する質問に答える@{I}貴方の過去についての問いに答える@{M}Answer questions about your past",
+      "Description": "　秘密を抱え続けるのはもう十分だ。[あなたの正体を明かしましょう！これにより、あなたは過去と大望、そして希望する呼称を選ぶことができます。また、あなたのスキルに専門家としてのボーナスが付与されます。]@{I}貴方は自分の秘密を十分に保った。[そろそろ出自を明らかにしましょう!これにより、自らの過去と野望、そして自らの呼称を決定し、更に専門家としての能力を得ることが出来ます。]@{M}$Ambition -> 大望$You've kept your secrets long enough. [Unmask yourself! This will allow you to select a Past, Ambition, and form of preferred address - also providing you with a specialist ability bonus.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148786,
+        "Name": "訳知り顔の微笑み@{I}事情を知っている微笑@{M}A knowing smile",
+        "Description": "「あなたの話は聞いているわ。オフィサーを夕食に招待して、秘密を聞き出すのが好きなんだって。でも、私の秘密を知るために、根掘り葉掘り聞く必要はないわ。むしろ、私の方があなたに話したいと思ってたもの」<br/><br/>「私はお母さんに会ったことがなくて。(父親のことは知ってるわ。私は父の家系の女伯爵なのよ、実はね。)私はお母さんを見つけたいの。お母さんはzeeのどこかにいるわ。見つけさえすれば……」<br/><br/>「本当？手伝ってくれるの？すごく親切なのね。そこまで言うなら、ほら。たまたま今日、リストを作ってたの。夜になってすぐにね」[彼女の母親は、以下のいずれかの場所で見つかるでしょう：ウィザー、アイル・オブ・キャッツ、アイレム、キェロネイト、カーンの影、ポート・カーネリアン、あるいは地上のナポリの港です。これらは、航海日誌の『事情を知る:メイビーの娘』の項で確認することができます。]@{I}「貴方の事は聞いているわ。幹部の事を夕食に誘うのが好きみたいね - 彼らの秘密を知る為に。まぁ、私に対して秘密を見る為に駆け引きをする必要は無いわよ。私のほうが貴方に話したいなって思ってたもの。」\r\n\r\n「私、お母さんに会った事が無いの。(父親は良く知っているわよ。彼の方から見れば私は女伯爵だし、ね。)お母さんをね、見つけたいの。彼女は、このジーの何処かに居る。もし彼女が...」\r\n\r\n「ホントに?助けてくれるの?本当に優しいのね。貴方がそう言うなら、だけど。これ。こんな事もあろうかと思ってさっきリストを作っておいてよかった。」\r\n[彼女の母親は次の何れかの場所で見つける事が出来ます: ウィザー、山猫島、アイレム、ケロネイト、ハンの黒影、カーネリアン港と、地表の港ナポリ。詳細は日誌の\"この人物について学ぶ\": メイビーの娘で確認が出来ます。]@{M}$Khan -> カーン, Learning About: -> 事情を知る:, Surface -> 地上, Whither -> ウィザー, Port Carnelian -> ポート・カーネリアン, Chelonate -> キェロネイト, Irem -> アイレム, Khan's Shadow -> カーンの影, Isle of Cats -> アイル・オブ・キャッツ, Maybe's Daughter -> メイビーの娘$\"I've heard about you. You like to invite your officers to dinner - learn their secrets. Well, you don't need to dig far to find my secret. I wanted to talk to you about it, actually.\"\r\n\r\n\"I've never met my mother. (I know my father. I'm a countess on his side, actually.) I'd like to find her. She's somewhere out at zee. If only...\"\r\n\r\n\"Really? You'd help me? That's too kind. If you insist. Here: it so happens that I made a list, earlier tonight.\" [Her mother will be found in one of these places: Whither, the Isle of Cats, Irem, the Chelonate, Khan's Shadow, Port Carnelian or the Surface port of Naples. Review this in your Journal, under Learning About: Maybe's Daughter]"
+      },
+      "Id": 127621,
+      "Name": "彼女を夕食に招待する@{I}彼女を夕食に誘う@{M}Invite her to dine with you",
+      "Description": "「あら、素敵なお話ね。お魚料理はどうかしら？私ね、特にお魚が大好きなのよ」@{M+I}「あら、素敵なお話ね。お魚料理はどうかしら?...私ね、特にお魚が大好きなのよ。」@{M}「それは素敵ね。魚料理なんてどう？私は魚が特に好きなの」@{I}\"That's a lovely idea. How about a fish dinner? ...I do have quite particular tastes in fish.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180531,
+        "Name": "「知らないわ」@{I}\"知らないわ。\"@{M}\"I don't know.\"",
+        "Description": "「会ったことがないもの。だから親しかったこともないし。もっとも、私が親しくしている人なんて多くはないけどね。正直に言って、これはお母さんのせいだと思う。お母さんが昔、私が私であるための何かを売り飛ばしたんだわ」<br/><br/>　彼女はため息を吐いた。「私の家族はすごく、すごく複雑なの。私は家族の誰のことも好きじゃない。でも、一番好きじゃないのはお母さんね」[あなたが捜索済みの港は、航海日誌の『メイビー』の項で確認できます。]@{I}「会った事無いの。だから身近に感じた事なんて無いわ。でも、私は多くの人達とも親しくは無い。正直言って、これは彼女のせいだと思ってるわ。彼女は私が私でいる為の何かを売った、そんな気がする。」\r\n\r\n彼女は溜息をつく。「私の家族はね、とても、とっても複雑なのよ、好きな所なんて何一つ無いわ。けど、少なくとも、私は彼女が好きなんだ、と思う。」\r\n[日誌の中のメイビーのカテゴリで、貴方が今までに探索した港を見る事が出来ます。]@{M}\"We never met. So we were never close. But I'm not close to many people. Honestly, I think that's her fault: I think she sold something of what I was.\"\r\n\r\nShe sighs. \"My family is very, very complicated. I don't like any of them. But I think I like her the least.\" [You can see any ports you've already searched in the 'Maybe' category in your Journal.]"
+      },
+      "Id": 146369,
+      "Name": "彼女の母親について@{I}彼女の母親について...@{M}About her mother...",
+      "Description": "　彼女の母親についての話というのは、正確にはどのようなものなのだろうか？@{I}彼女と彼女の母親の間にある物語とは一体?@{M}What exactly is the story with her mother?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181962,
+        "Name": "歓喜は慎重に@{M}Discreet delights",
+        "Description": "　娘は手際よく、それでいて熱烈にあなたの服を脱がせた。形の良い肩が顕わになり、彼女はウィンクした。「あら、良いわね」彼女は言った。「私は他にもタトゥーを入れてるのよ。さて、見つけられるかしら？」[以降の逢瀬の機会は航海中に現れ、恐怖を大きく減少させます。しかし、もしもあなたが陸で恋人を作っているならば、ことは露見するかもしれません。]@{M+I}娘は貴方の服を効率よく、やや逸った気持ちで全て脱がせる。形のよい肩が露わになり、彼女はウインクした。「ああ、良いわね。」彼女は言う。「私は他にもタトゥーを入れてるのよ。さて、見つけられるかしら?」\r\n[貴方が海上に居る時に、逢引の機会はこの様に訪れて来ます。恐怖を大幅に下げる効果が有ります。ただし、恋人が港に居る場合は、ばれてしまう可能性も勿論有ります。]@{M}The Daughter disrobes you with efficiency and delighted enthusiasm; bares a shapely shoulder; winks. \"Oh yes,\" she says, \"I have other tattoos. Let's see what we can find.\" [Opportunities for other trysts will occur while you're at sea, substantially reducing Terror. However, if you have a lover in port, they might find out.]"
+      },
+      "Id": 147285,
+      "Name": "メイビーの娘を誘惑する@{I}メイビーの娘に誘いをかける@{M}$Maybe's Daughter -> メイビーの娘$Proposition Maybe's Daughter",
+      "Description": "「あら、偶然ね。私も同じことを提案しようと思っていたのよ」[彼女は退屈で誠実な恋人関係には興味がありません。あなたのVeilsが、あなたのHeartsより最低でも20ポイント高くなるようにしましょう。]@{M+I}「あら、偶然ね。私も同じ事を提案しようと思っていたのよ。」[彼女は退屈で誠実な恋人関係に全く興味がありません。貴方のヴェールが20ポイント以上、貴方のハートを上回っている事を確認して下さい。]@{M}\"What a coincidence. I was about to suggest the same thing.\" [She has no interest in tediously sincere lovers. Ensure your Veils is at least twenty points higher than your Hearts.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181963,
+        "Name": "歓喜は慎重に@{M}Discreet delights",
+        "Description": "　母無き娘は、あなたの期待している場所を、あなたの期待している通りのやり方で触れてくる。あなたの反応に応えて、彼女の反応も、はっきりと見て取れる歓喜の色を帯びる。彼女が立てている音はあなたを興奮の渦に巻き込み、押しつけられる彼女の肉感はまさに蠱惑的であった。なのに、どうしてあなたは、まるで自分が限られた聴衆向けのショーの観客であるかのように感じるのだろうか？ともあれ、これが十分な気晴らしであることには変わりがなかった。船室のランプが前後に揺れる。船が波を泡立たせる。もう一度、彼女にキスをしよう。[以降の逢瀬の機会は航海中に現れ、恐怖を大きく減少させます。しかし、もしもあなたが陸で恋人を作っているならば、ことは露見するかもしれません。]@{M+I}名も無き者の娘はすぐさま貴方の期待している場所に触れてくる。貴方の反応を見て、彼女の反応も歓喜を帯びたものになってくる。彼女が立てている音は貴方を興奮の渦に巻き込み、押し付けられる彼女の肉感は正に蠱惑的であった。では何故、貴方がこの秘められた行為の傍観者であるかのような感覚を持っているのだろうか?それはそれで良いが、何か今ひとつ、気が散るような、のめり込めないような感覚が残っていた。船室のランプは前後に揺れ - 船は海を僅かに掻き回していた。最後に、彼女にもう一度キスをする。\r\n[貴方が海上に居る時に、逢引の機会はこの様に訪れて来ます。恐怖を大幅に下げる効果が有ります。ただし、恋人が港に居る場合は、ばれてしまう可能性も勿論有ります。]@{M}Nobody's Daughter touches you in the right way, in the right places. She responds with visible delight to your own responses. The sounds she produces are thrilling; the press of her flesh is consuming. Why, then, do you feel as if you have been the audience of a very select performance? Be that as it may, it's all sufficiently distracting. The cabin lamp swings, to and fro. The ship churns the sea. Kiss her again. [Opportunities for other trysts will occur while you're at sea, substantially reducing Terror. However, if you have a lover in port, they might find out.]"
+      },
+      "Id": 147286,
+      "Name": "母無き娘を誘惑する@{I}名も無き者の娘に誘いをかける@{M}Proposition Nobody's Daughter",
+      "Description": "「ええ、良いわよ？」[彼女は退屈で誠実な恋人関係には興味がありません。あなたのVeilsが、あなたのHeartsより最低でも20ポイント高くなるようにしましょう。]@{M+I}\"ええ、良いわよ?\" [彼女は退屈で誠実な恋人関係に全く興味がありません。貴方のヴェールが20ポイント以上、貴方のハートを上回っている事を確認して下さい。]@{M}\"Why not?\" [She has no interest in tediously sincere lovers. Ensure your Veils is at least twenty points higher than your Hearts.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181964,
+        "Name": "まったく新しい何か@{M+I}全く新しい何か@{M}Something new",
+        "Description": "　ライバルの手は冷たく、その唇は対照的に熱かった。彼女の肌と、そして髪から発せられる香りに酔いしれて、あなたはほんの数秒で自分を見失った。ここで今、何が起こっているのだろうか？彼女はあなたを引き寄せ、微笑み、そして倒れ込んだ。真っ白な歓喜の空白があったかと思うと、怒涛のように押し寄せる快楽の波に撃ち抜かれた。<br/><br/>「そうね……」あなたの意識が戻ると、彼女は言った。「次もこうなるんじゃないかしら。それじゃあ、また今度ね」彼女はあなたにひとつ投げキスをよこすと、にやりと笑ってから、そこを後にした。[以降の逢瀬の機会は航海中に現れ、恐怖を大きく減少させます。しかし、もしもあなたが陸で恋人を作っているならば、ことは露見するかもしれません。]@{M+I}ライバルの手は冷たい。彼女の唇は対照的に熱かった。彼女の皮膚の、そして髪の香りは、貴方を酔わせる。一瞬にして、貴方は自分を見失った。一体何が起きている?彼女はただ貴方を引き寄せ、笑い、そして沈んだ。何の感覚も感じられない間があったと思ったその瞬間、怒涛の様に押し寄せる快楽の波が貴方を撃ち抜いた。\r\n\r\n「そうね...」貴方が意識を回復した時、彼女が言う。「私達、また<i>これを</i>すると思うの。また会いましょう。」そう言って投げキッスをしながら笑い、彼女は立った。\r\n[貴方が海上に居る時に、逢引の機会はこの様に訪れて来ます。恐怖を大幅に下げる効果が有ります。ただし、恋人が港に居る場合は、ばれてしまう可能性も勿論有ります。]@{M}The Rival's hands are cool. Her mouth is hot. The scent of her skin, her hair, is intoxicating. In seconds, you are lost. What is happening here? She draws you, smiling, down. There is an interval of blank delight, shot through with pulses of wracking pleasure.\r\n\r\n\"Well,\" she says, as you recover. \"I imagine we'll do <i>that</i> again. I'll see you later.\" She blows you a kiss and, grinning, departs. [Opportunities for other trysts will occur while you're at sea, substantially reducing Terror. However, if you have a lover in port, they might find out.]"
+      },
+      "Id": 147287,
+      "Name": "メイビーのライバルを誘惑する@{I}メイビーのライバルに誘いをかける@{M}$Maybe's Rival -> メイビーのライバル$Proposition Maybe's Rival",
+      "Description": "「いつになったら聞いてくれるのかと思っていたわ。多分、もう以前とは違うんじゃないかしら。バザールでのあれがあったからね。どう違うか、試してみる？」[彼女は退屈で誠実な恋人関係には興味がありません。あなたのVeilsが、あなたのHeartsより最低でも20ポイント高くなるようにしましょう。]@{M+I}「何時になったら聞いてくれるのかと思っていたわ。多分、あの時と今は違うんじゃないかしら。バザールの時とは、ね。どう違うか、試してみる?」[彼女は退屈で誠実な恋人関係に全く興味がありません。貴方のヴェールが20ポイント以上、貴方のハートを上回っている事を確認して下さい。]@{M}\"I've been wondering when you'd ask. I think it'll be different now. Since the Bazaar. Want to help me find out?\" [She has no interest in tediously sincere lovers. Ensure your Veils is at least twenty points higher than your Hearts.]"
+    }
+  ]
+}

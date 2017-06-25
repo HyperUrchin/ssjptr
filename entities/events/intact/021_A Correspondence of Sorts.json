@@ -1,0 +1,27 @@
+{
+  "Id": 141241,
+  "Name": "A Correspondence of Sorts",
+  "Description": "A monolith leans sideways.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 141242,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 122720,
+      "Name": "Search",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 141244,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 122722,
+      "Name": "Loot",
+      "Description": ""
+    }
+  ]
+}

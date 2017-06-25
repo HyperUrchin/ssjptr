@@ -1,0 +1,17 @@
+{
+  "Id": 189567,
+  "Name": "プレズビターとの合意@{K}$Presbyter -> プレズビター$An understanding with the Presbyterate",
+  "Description": "定命の集いの代表者は一週間後にプレズビターの悪名高い生きた船に乗って到着した。その船は周囲の水を赤い血で汚している。そして代表者は最も格式高い大英帝国風の装いに身を包んでいた。そのシャツと燕尾服は疑いようもなくロンドンで仕立てられたものだった。代表者は丁重な物腰で愛想がよく、そして、非常に遠回しに物事を伝える男だった。彼はあなたの言葉を聞くため身をかがめて口元に耳を寄せさえした。@{K}$Presbyter -> プレズビター$A representative of the College of Mortality arrives a week later, in one of the Presbyterate's notorious living ships. It stains the waters around it red with blood. He is dressed in the best formal Imperial style - shirt and tailcoat unmistakably tailored in London. He is courteous and pleasant and very, very vague. He does condescend to lower his ear to your mouth to listen to what you have to say.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 189568,
+        "Name": "建国者@{K}Founder of a nation",
+        "Description": "これがあなたの王国だ。ロンドンがあなたの出発の地だが……今やこの場所があなたの家となった。一隻の船の船長から建国者になるとは、実に長い旅路だった。この旅の末に、あなたはどこへ行きつくのだろう？[おめでとうございます！あなたは隠された大望を成し遂げました。失礼しました、先ほどの発言を訂正いたします。あなたは隠された大望を成し遂げられたのです……陛下。]@{K}$Ambition -> 大望$This is your kingdom. London is where you began - but now, this is your home. From a ship's captain to a nation's founder is a long journey indeed. Who knows where the journey will take you? [Congratulations! You have completed a hidden Ambition. We do apologise. We meant to say: you have completed a hidden Ambition... your Majesty.]"
+      },
+      "Id": 151971,
+      "Name": "古い条約@{K}An ancient treaty",
+      "Description": "あなたはあらかじめ学んだ言葉を口にした。プレズビターとまた別のとある力の間に結ばれた条約の最初の数行を。その条約はロンドンの落ちる遥か以前、バザールが地下に来るよりも昔に結ばれたものだ……\r\n\r\n代表者の態度はすぐさま一変した。彼は本物の温かみのある笑みを浮かべている。「よくぞ成し遂げられましたね」彼は言う。「我々はあなたの主張を認めましょう」そして一礼した。@{K}$Presbyter -> プレズビター$You speak the words you've learnt - the opening lines of a treaty made between the Presbyterate and a certain other power, long before London fell, long before the Bazaar ever came to the Neath -\r\n\r\nImmediately, his demeanour changes. He smiles with real warmth. \"Well done,\" he says. \"We recognise your claim.\" He bows."
+    }
+  ]
+}

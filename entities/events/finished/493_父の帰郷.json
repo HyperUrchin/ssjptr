@@ -1,0 +1,37 @@
+{
+  "Id": 177520,
+  "Name": "父の帰郷@{K}父親の帰還@{M}Your Father's Return",
+  "Description": "あなたの父親は手すりに凭れかかっている。「おい、そんなこと言うなよ」彼が言う。「ここにきて船室に籠ってられるか。俺はロンドンが見てぇんだよ。いや、もう海の男らしく話さなくてもいいか」彼はラムの匂いのする息で小さく笑った。「未亡人はもう俺が戻ってきたことを知ってるだろうな、賭けてもいい」\r\n\r\nそして事実、船をもやう頃には未亡人の配下らしき男が意味ありげに近くの係船柱に寄りかかりあなたを待ち受けていた。「ご機嫌よう、船長殿。お二人ともよくお戻りで」@{K}貴方の父親は船側に立っている。「ああ、くそ」彼が言う。「私は今は降りんぞ。私はロンドンが見たい。ロンドンが見たいんだ。」彼はラムの匂いを撒き散らしながら笑う。「私がここに居る事を、あの未亡人は既に知ってるんだろう。」\r\n\r\n事実、貴方が船を停泊させた時、未亡人の付き人らしき格好をした男が、係船柱の側で意味ありげに立っているのが見える。「ご機嫌よう、船長殿。」彼は短く呟いた。@{M}Your father leans on the rail. \"Oh, hush,\" he says. \"I'm not going below now. I want to zee London. See London.\" He gives a rum-infused chuckle. \"Bet you the Widow already knows I'm here.\"\r\n\r\nAnd, in fact, by the time you tie up, a man with a Widow-y look is already leaning meaningfully on the bollard. \"Good afternoon, Captains,\" he says.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 177521,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 144565,
+      "Name": "父親の負債を支払う@{M}Pay your father's debt",
+      "Description": "「あなたの雇い主によろしくお伝えください。そして、どうかこのささやかな贈り物をあの方に受け取ってはいただけないでしょうか？」@{K}「貴方の依頼主に宜しくとお伝え下さい。しかし、このささやかな贈物を受け取って彼女は慈悲を見せるでしょうか?」@{M}\"My regards to your employer. Would she be so gracious as to accept this small gift?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 177530,
+        "Name": "今生の別れ@{M}Never again",
+        "Description": "それがあなたが父親を見た最後となった。未亡人が彼に何をしたのか知ることはないだろう。苦痛に満ちた死？墓人街へと追放したのだろうか？あるいは年季奉公に就くことになったのか？いずれにせよ、あなたはこの任務から解放されたのだ。しかし、あなたは重大な物事をやり残したような感覚を覚えた。[このクエストには失敗してしまいましたが、あなたの心に空いた穴はお金によって満たすことができるかもしれません。あなたは現在ゲームに敗北していませんが、これ以降は贅沢な暮らしを送る大望を達成することでしか勝利できません。自宅で詳細を確認してください。]@{K}それが、貴方が父親の姿を見た最後であった。結局あの未亡人が父親に何をしたのかは分からない。死を引き伸ばした?墳墓街に追いやった?奉仕契約を交わした?何れにしても、貴方はこの探求に終止符を打ったが、重要な事はほとんど解決しなかったという感覚が残った。[クエストに失敗しましたが、貴方の心に開いた穴を埋める事が出来るのはお金だけかもしれません。ゲーム自体には敗北していませんが、これからの貴方の目標は、富と名声を掻き集める人生しか残されていません。宿場に戻り、詳細を確認しましょう。]@{M}$Ambition -> 大望$And that's the last you see of your father. You never find out what the Widow does to him. A lingering death? Exile to the tomb-colonies? Indentured service? You are free of your quest, but you have the sense of great works left undone. [Your quest has failed, but perhaps you can fill the hollow in your heart with money. You have not lost the game, but can now win only through the Life of Luxury Ambition. Go to your Lodgings to learn more.]"
+      },
+      "Id": 144571,
+      "Name": "父親を見捨てる@{M}Abandon your father",
+      "Description": "あなたの父親は突如背筋を伸ばした。「もうどうとでもなれ……」彼は言う。「こんな意味のないことはもうやめだ。俺はもう十分自分の行為の結果から逃げ隠れしてきた。だが、俺は今こうしてここにいる」\r\n\r\n彼の崇高な演説は、酔っぱらって欄干を飛び越えよろよろと渡し板を降りるその姿によって少しばかり効果が薄れてしまっている。@{K}貴方の父親は突然背すじを伸ばして立ち上がる。「地獄から舞い戻った...」彼は言う。「悪夢などもう十分だ。私は長い間現実から逃げていたかのようだ。だが、今は私は此処に居る。」\r\n\r\n彼の高尚な言葉は、酔っぱらいのように不確かな足取りでタラップを千鳥足で下りるその姿で陳腐なものに成り下がっていた。@{M}Your father stands up suddenly straighter. \"To Hell with it,\" he says. \"Enough of this nonsense. I've ducked the consequences long enough. I'm here now.\" \r\n\r\nThe effect of this noble speech is a little spoilt by his caroming drunkenly off the rail as he staggers down the gang-plank."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 177531,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 144572,
+      "Name": "予期せぬ訪れ@{K}予期しなかった人物@{M}An unexpected arrival",
+      "Description": "盲目の粗暴者が未亡人の部下の肩を叩いた。「この時、この場所であなたにお会いするとは奇遇ですね。しかし、そこまで珍しい偶然とも言えんでしょうな。なんといってもここにおるこん船長は俺の雇い主の庇護下にあるのですからね。あなたの雇い主も我々の交わした協定と約束を覚えていることを願っていますよ」[盲目の粗暴者の調停によりあなたが支払うのは3000エコーだけで良いということになりました。残りの借金は帳消しにされます。]@{K}盲目の粗暴者が未亡人の付き人の肩をポンと叩く。「今此処に、俺らが両方とも集まってるとは、面白い話じゃねぇか。だが、これからする話は面白くねぇ。\"偶然\"お前さん達と関わってるようだが、この船長さんは今、俺のボスの庇護下にあるんだ。お前さんのボスが、こっちとそっちの間で交わした約束と取り決めを、きっちりと覚えている事を願ってるぜ。」[盲目の粗暴者の仲裁によって、貴方は3000エコーだけを支払えば良い事になります。負債の一部は免除されるでしょう。]@{M}$Blind Bruiser -> 盲目の粗暴者$The Blind Bruiser taps the Widow's man on the shoulder. \"Fancy us both being here at this time in this place. But I suppose it is not so very great a coincidence, this Captain 'ere being under my employer's protection, as it were. I 'ope your employer remembers our treaties and arrangements.\" [The Blind Bruiser's intervention has ensured that you need only pay 3000 Echoes. Some of the debt will be forgiven.]"
+    }
+  ]
+}

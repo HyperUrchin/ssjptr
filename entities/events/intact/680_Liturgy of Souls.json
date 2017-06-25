@@ -1,0 +1,27 @@
+{
+  "Id": 238371,
+  "Name": "Liturgy of Souls",
+  "Description": "All the Drownies are gathered. You do not belong here, since you are still human, but they do not keep you out. Where the altar should be, there is a square depression in the floor: it would be a pool, were the Cathedral not already submerged. A Drownie in a mitre presides.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 238663,
+        "Name": "Heights and depths",
+        "Description": "You take your place in the song. It is easier to understand once you are inside it. The words are clear, and so is the import of the music.\r\n\r\nThe Fathomking is not here. The Fathomking did not grace Dahut with his attendance this time. It has been many Liturgies since he last watched over the Drownies of Dahut from the pool at the front of the Cathedral. They have done their best to entice him, collecting objects and people and remains of eminent beings. But he remains in his Hold. This is why they are so anxious, why their feasts are not sustaining. \r\n\r\nNonetheless, it is still the Liturgy of Souls. Like the Drownies, you descend into the square pool and bow your head before the Bishop. The Cathedral bells strike the time: midsummer, midwinter, equinox. For the length of the triple peal, you are aware of every past extreme simultaneously: the moments of greatest courage, doubt, longing, fury, pain.\r\n\r\n\"It's all true,\" says the Bishop. Then he slaps you hard on the cheek and pulls you out of the pool. Your body feels differently weighted, but unharmed. Possibly even better than it did before."
+      },
+      "Id": 182873,
+      "Name": "Sing your part in the Liturgy",
+      "Description": "You know their songs, both solemn and joyous. You know your own stories to weave into those songs."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238376,
+        "Name": "A liturgy of complexity",
+        "Description": "The liturgy is unbearably long and inscrutably complicated. It includes: a list of the names of ships that have sunk in the vicinity of Mount Palmerston; the scientific appellation of every moth with irrigo in its wings; the true name of an infamous Crocodile; a recounting of persons who have consumed the spores of the Uttershroom; an assortment of herbs, together with their growing seasons and medicinal applications. \r\n\r\nLong before it ends, you have fallen into a numb half-sleep. You come to yourself with the procession filing out, but you remember one large secret and several obscure hints."
+      },
+      "Id": 182672,
+      "Name": "Keep awake! Awake!",
+      "Description": "Inches burn away from the candles. Reddish smoke from the censors diffuses into the water. Time is passing and not passing."
+    }
+  ]
+}

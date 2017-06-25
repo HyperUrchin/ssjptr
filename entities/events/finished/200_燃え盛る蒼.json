@@ -1,0 +1,27 @@
+{
+  "Id": 150653,
+  "Name": "燃え盛る蒼@{M}Burning Blue",
+  "Description": "見張りから恐怖を滲ませた声が上がった。船の前方にある蝋燭の灯がぱちぱちと音を立て、青い光を放って立ち消えている。貴方が目を凝らすと青は見えなくなったが、これは吉兆ではない。@{M}A hiss of horror from the lookout! The glim-lamp at the front of the ship is sputtering and arcing, fizzing with blue light. Even as you watch, the blue fades, but it's not a good omen.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 155184,
+        "Name": "見開かれた目@{M}Eyes wide",
+        "Description": "「...葡萄の大きさ程のルビー、そして林檎の大きさ程の葡萄。無論、島は蒼き光の中にしか見る事が出来ぬし、刹那でしか見る事は出来ぬが...見つけたその時は、この命に換えて、見つけたその時は -」\r\n\r\n彼らはにやりと笑った。彼らは実際それを信じてはいないのだろう。ただ、信じたいのだ。@{M}\"...rubies the size of grapes, and grapes the size of apples. Of course the island's only visible in blue light, and then only for an instant, but if we find it, my hearts, if we find it - \"\r\n\r\nThey grin. They don't exactly believe it, but they'd like to."
+      },
+      "Id": 131652,
+      "Name": "物語を話す@{M}Spin them a story",
+      "Description": "「ああ...今は、どんな間抜けでも蒼き光の意味を知っている -」@{M}\"Ah, now, any lubber knows what a blue light means - \""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 150654,
+        "Name": "ちょっと話を聞いて -@{M}Listen a moment - ",
+        "Description": "貴方の理路整然とした、落ち着きのある説明は何にもならなかった。それを見た者に不幸が訪れる事を、船員達は知っているのだ。@{M}Your measured and rational speech does you no good. Your crew know bad luck when they see it."
+      },
+      "Id": 128734,
+      "Name": "彼らを落ち着ける様に試みる@{M}Attempt to calm them",
+      "Description": "とても完璧で自然な説明がある -@{M}There's a perfectly natural explanation -"
+    }
+  ]
+}

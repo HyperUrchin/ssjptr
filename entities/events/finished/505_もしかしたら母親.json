@@ -1,0 +1,87 @@
+{
+  "Id": 180196,
+  "Name": "もしかしたら母親@{I}よもや、母親か@{M}Maybe a Mother",
+  "Description": "　娘はライラックの服の女と共にどこかへ消えた。あなたはその夜の間中、どちらの姿も見かけなかった。しかし、朝になると、娘は戻ってきた。彼女の両眼は決意に燃えていた。「あなたのタトゥーを見せて」彼女はそう求めた。@{I}娘は薄紫の女性と共に立ち去る。その夜は彼らについて何も目にする事は無かった。しかし次の朝に、娘は決然とした輝きを瞳に宿して戻ってきた。「貴方の刺青を見せて。」彼女はそう要求してきた。@{M}The Daughter leaves with the woman in lilac. You see nothing of them for the rest of the night. But in the morning, the Daughter returns, her eyes bright with purpose. \"Show me your tattoo,\" she demands.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 180197,
+        "Name": "「あは！」@{I}\"あはっ\"@{M}\"Aha!\"",
+        "Description": "「それなら、あなたはメッセンジャーなのね。メッセージではなく」もしかしたら、あなたは混乱しているように見えたのかもしれない。彼女はニヤリと笑った。「Neathではメッセンジャーは神聖視されるのよ。エコー・バザールのようなメッセンジャーはね。私のお母さんはバザールと同盟を結んだの。それで、お母さんはグレート・サインを、誰も身に帯びていないタトゥーを学びに来た」彼女の笑みが野性的なものへと変わった。「お母さんに目にものを見せてやるわ」@{I}「じゃぁ貴方は使者で、伝言じゃないのね。」貴方は少し混乱して見えたかもしれない。彼女はニッコリと笑う。「使者は、この地下では聖なる存在なのよ。エコー・バザールのような使者は、ね。私のママはバザールと同盟を結んでいたわ。それが、彼女が他の誰もしていなかった刺青、偉大な紋章を付けていた由縁ね。」彼女の微笑みは凶暴な物に変わっていく。「彼女の目に物を見せてやるわ。」@{M}$Great Signs -> グレート・サイン, Echo Bazaar -> エコー・バザール$\"So you're the messenger, not the message.\" Perhaps you look confused: she grins. \"Messengers are sacred in the Neath, you know. Messengers like the Echo Bazaar. My mother forged an alliance with the Bazaar. That's how she came to learn the Great Signs, the tattoos no one wears.\" Her grin turns feral. \"I'll show her.\""
+      },
+      "Id": 146157,
+      "Name": "「タトゥーはない」@{I}\"私は刺青など彫っていない。\"@{M}\"I don't have a tattoo.\"",
+      "Description": "　あなたは肌を傷のないままにしておいた。@{I}貴方の皮膚は手付かずのままだ。@{M}You've kept your skin untouched."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180269,
+        "Name": "「ああ！」@{I}\"へえ!\"@{M}\"Oh!\"",
+        "Description": "「力。力はいつだって答えね。お母さんは私には明かさないでしょうけど、他の娘たちはお母さんの秘密を知ってたわ」娘の笑みはまったくの正気であるとは言えなかった。<br/><br/>「私のお母さんはバザールと同盟を結んだの。それで、お母さんはグレート・サインを、誰も身に帯びていないタトゥーを学びに来た。私たちはロンドンに帰らなくちゃ。つまり、ロンドンに帰ってもらっても構わないかしら？お願い。ペンストックを見つけないと。彼がバザールの秘密の小門の番をしているのよ」@{I}「力...力はいつだって真理よ。私のママはそんな事私に言ってくれなかった。けど、彼女の他の娘達は彼女の秘密を知っていたわ。」\r\n\r\n「私のママはバザールと同盟を結んでいたわ。それが、彼女が他の誰もしていなかった刺青、偉大な紋章を付けていた由縁ね。私達はロンドンに戻らなければならない。要は - ロンドンまで戻ってもらえないかしら?お願い。私達は、バザールの秘密の窓口を監視しているペンストックを見つけ出さなきゃならないの。」@{M}$Great Signs -> グレート・サイン, Penstock -> ペンストック$\"Force: force is always the answer. My mother wouldn't tell me. But her other daughters knew her secrets.\" The Daughter's grin is not quite sane.\r\n\r\n\"My mother forged an alliance with the Bazaar. That's how she came to learn the Great Signs, the tattoos no one wears. We must return to London. That is - please can we return to London? Please. We must find Penstock, who watches the secret wicket-gate of the Bazaar. \""
+      },
+      "Id": 146200,
+      "Name": "不屈の手掌@{M}不屈の手@{I}The Dauntless Hand",
+      "Description": "「これのこと？」@{I}\"これの事か?\"@{M}\"You mean this?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180270,
+        "Name": "「ああ！」@{I}\"へえ!\"@{M}\"Oh!\"",
+        "Description": "「これは以前に見たことがあるわ。クラザモントの作品よね？彼らはあなたにこう言ったでしょう。『我らはメッセンジャーではなく、メッセージなのだ』って。なるほど。今日、あなたはメッセージなのね」娘の笑みはまったくの正気であるとは言えなかった。<br/><br/>「私のお母さんはバザールと同盟を結んだの。それで、お母さんはグレート・サインを、誰も身に帯びていないタトゥーを学びに来た。私たちはロンドンに帰らなくちゃ。つまり、ロンドンに帰ってもらっても構わないかしら？お願い。ペンストックを見つけないと。彼がバザールの秘密の小門の番をしているのよ」@{I}「それなら前にも見た事があるわね。それはクラサモントのでしょう、違う?彼女達は貴方に、'我ら使者に非ず、ただ伝言のみ'って貴方に伝えてる筈だわ。そう、今回は貴方が伝言なの。」娘の微笑みは、正気には見えなかった。\r\n\r\n「私のママはバザールと同盟を結んでいたわ。それが、彼女が他の誰もしていなかった刺青、偉大な紋章を付けていた由縁ね。私達はロンドンに戻らなければならない。要は - ロンドンまで戻ってもらえないかしら?お願い。私達は、バザールの秘密の窓口を監視しているペンストックを見つけ出さなきゃならないの。」@{M}$Great Signs -> グレート・サイン, Penstock -> ペンストック, Clathermont -> クラザモント$\"I've seen that one before. That's Clathermont work, isn't it? I bet they told you 'we are not the messenger, but the message'. Well, you're the message, today.\" The Daughter's grin is not quite sane.\r\n\r\n\"My mother forged an alliance with the Bazaar. That's how she came to learn the Great Signs, the tattoos no one wears. We must return to London. That is - please can we return to London? Please. We must find Penstock, who watches the secret wicket-gate of the Bazaar. \""
+      },
+      "Id": 146201,
+      "Name": "霧の舵輪@{I}霧の車輪@{M}The Wheel of Mists",
+      "Description": "「これのこと？」@{I}\"これの事か?\"@{M}\"You mean this?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180271,
+        "Name": "「あは！」@{I}\"あはっ\"@{M}Aha!",
+        "Description": "「眼。眼は見るもの。そして心は理解するもの。お母さんは私には明かさないでしょうけど、他の娘たちはお母さんの秘密を知ってたわ」娘の笑みはまったくの正気であるとは言えなかった。<br/><br/>「私のお母さんはバザールと同盟を結んだの。それで、お母さんはグレート・サインを、誰も身に帯びていないタトゥーを学びに来た。私たちはロンドンに帰らなくちゃ。つまり、ロンドンに帰ってもらっても構わないかしら？お願い」@{I}「瞳...瞳は物を見つめ、そして心はそれを理解する。私のママはそんな事私に言ってくれなかった。けど、彼女の他の娘達は彼女の秘密を知っていたわ。」娘の微笑みは、正気には見えなかった。\r\n\r\n「私のママはバザールと同盟を結んでいたわ。それが、彼女が他の誰もしていなかった刺青、偉大な紋章を付けていた由縁ね。私達はロンドンに戻らなければならない。要は - ロンドンまで戻ってもらえないかしら?お願い。」@{M}$Great Signs -> グレート・サイン$\"The eye: the eye sees, and the heart understands. My mother wouldn't tell me. But her other daughters knew her secrets.\" The Daughter's grin is not quite sane.\r\n\r\n\"My mother forged an alliance with the Bazaar. That's how she came to learn the Great Signs, the tattoos no one wears. We must return to London. That is - please can we return to London? Please.\""
+      },
+      "Id": 146202,
+      "Name": "臆さぬ眼@{I}断固とした瞳@{M}The Unflinching Eye",
+      "Description": "「これのこと？」@{I}\"これの事か?\"@{M}\"You mean this?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180272,
+        "Name": "",
+        "Description": "「太陽！太陽。グレート・サインの出所ね。お母さんは私には明かさないでしょうけど、他の娘たちはお母さんの秘密を知ってたわ」娘の笑みはまったくの正気であるとは言えなかった。<br/><br/>「私のお母さんはバザールと同盟を結んだの。それで、お母さんはグレート・サインを、誰も身に帯びていないタトゥーを学びに来た。私たちはロンドンに帰らなくちゃ。つまり、ロンドンに帰ってもらっても構わないかしら？お願い」@{I}「太陽!太陽は、偉大な紋章の由来となった物。私のママはそんな事私に言ってくれなかった。けど、彼女の他の娘達は彼女の秘密を知っていたわ。」娘の微笑みは、正気には見えなかった。\r\n\r\n「私のママはバザールと同盟を結んでいたわ。それが、彼女が他の誰もしていなかった刺青、偉大な紋章を付けていた由縁ね。私達はロンドンに戻らなければならない。要は - ロンドンまで戻ってもらえないかしら?お願い。」@{M}$Great Signs -> グレート・サイン$\"The Sun! The Sun, from which the Great Signs came. My mother wouldn't tell me. But her other daughters knew her secrets.\" The Daughter's grin is not quite sane.\r\n\r\n\"My mother forged an alliance with the Bazaar. That's how she came to learn the Great Signs, the tattoos no one wears. We must return to London. That is - please can we return to London? Please.\""
+      },
+      "Id": 146203,
+      "Name": "光輝@{I}スプレンダー@{M}The Splendour",
+      "Description": "「これのこと？」@{I}\"これの事か?\"@{M}\"You mean this?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180273,
+        "Name": "",
+        "Description": "「ゲーム！それは私たちの知らない所まで広がっているわ。地上まで……そして星々まで。お母さんは私には明かさないでしょうけど、他の娘たちはお母さんの秘密を知ってたわ」娘の笑みはまったくの正気であるとは言えなかった。<br/><br/>「私のお母さんはバザールと同盟を結んだの。それで、お母さんはグレート・サインを、誰も身に帯びていないタトゥーを学びに来た。私たちはロンドンに帰らなくちゃ。つまり、ロンドンに帰ってもらっても構わないかしら？お願い」@{I}「ゲームね!私達が知るより遥か遠く広がっているわ。地表まで...いいえ、星々まで。私のママはそんな事私に言ってくれなかった。けど、彼女の他の娘達は彼女の秘密を知っていたわ。」娘の微笑みは、正気には見えなかった。\r\n\r\n「私のママはバザールと同盟を結んでいたわ。それが、彼女が他の誰もしていなかった刺青、偉大な紋章を付けていた由縁ね。私達はロンドンに戻らなければならない。要は - ロンドンまで戻ってもらえないかしら?お願い。」@{M}$Great Signs -> グレート・サイン, Surface -> 地上$\"The Game! It extends farther than we know. Up to the Surface... and up to the stars. My mother wouldn't tell me. But her other daughters knew her secrets.\" The Daughter's grin is not quite sane.\r\n\r\n\"My mother forged an alliance with the Bazaar. That's how she came to learn the Great Signs, the tattoos no one wears. We must return to London. That is - please can we return to London? Please.\""
+      },
+      "Id": 146204,
+      "Name": "ギャンビット@{I}差し初めのポーン@{M}The Gambit",
+      "Description": "「これのこと？」@{I}\"これの事か?\"@{M}\"You mean this?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 192788,
+        "Name": "「そんな……」@{I}\"ああ、何てこと...\"@{M}\"Oh my...\"",
+        "Description": "　娘は顔を赤くして笑った。「どうして……？いや、言わないで。この件については、私は謎のままを望むわ。誰もが謎ではあるけどね。各々なりの形で。そうじゃない？凍りついた一瞬の時間。まるでガラスの向こうの蝶みたいに。もしかしたら、いつかあなたに、私の蝶の話をする時が来るかもね。もしかしたら、蝶がピンで留められるきっかけになった、邪な行いの話さえも」<br/><br/>「私のお母さんは別のタトゥーを知ってたわ。グレート・サイン。誰も身に帯びていないタトゥーよ。お母さんは、それを学ぶためにバザールと同盟を結んだの。私たちはロンドンに帰らなくちゃ。つまり、ロンドンに帰ってもらっても構わないかしら？お願い。ペンストックを見つけないと。彼がバザールの秘密の小門の番をしているのよ」@{I}彼女は笑いながら、赤面している。「何で...?いえ、教えないでね。今回は、謎なままにして置きましょ。最も彼らがやる事は何時だって謎だものね、違うかしら?ガラスの向こうの蝶の様に、凍りついた一瞬よ。もしかしたら何時の日か、私の蝶についての話を教えなければいけないかもね。もしかしたら、邪悪なモノがそれをピンで縫い付けた、という事も。」\r\n\r\n「私のママは他の刺青 - 誰も付けていない偉大な紋章 - の事を知っていた。私のママはバザールと同盟を結んでいたわ。それが、彼女が他の誰もしていなかった刺青、偉大な紋章を付けていた由縁ね。私達はロンドンに戻らなければならない。要は - ロンドンまで戻ってもらえないかしら?お願い。私達は、バザールの秘密の窓口を監視しているペンストックを見つけ出さなきゃならないの。@{M}$Great Signs -> グレート・サイン, Penstock -> ペンストック$The Daughter blushes as she laughs. \"Why did...? No, don't tell me. In this case, I prefer the mystery. Though they are all mysteries, aren't they, in their way? A moment of frozen time, like a butterfly behind glass. Perhaps one day I shall tell you the story of my butterfly. Perhaps even the wicked things it did to be pinned.\"\r\n\r\n\"My mother knew other tattoos - the Great Signs, the ones no one wears. She forged an alliance with the Bazaar to learn them. We must return to London. That is - please can we return to London? Please. We must find Penstock, who watches the secret wicket-gate of the Bazaar. \""
+      },
+      "Id": 153777,
+      "Name": "海賊詩人の復讐@{I}海賊詩人の復讐@{M}$Pirate-Poet -> 海賊詩人$The Pirate-Poet's Revenge",
+      "Description": "「……これのこと？」@{I}\"これの...事か?\"@{M}\"You mean... this?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 192789,
+        "Name": "「ああ……」@{I}\"へえ...\"@{M}\"Oh...\"",
+        "Description": "　娘の唇が悲しい笑みを形作った。「とてつもない苦痛。愛じゃなくて、孤独」彼女はそれを指でなぞった。「あなたはこれを治すことはできないわ。でも、あなたは慰めになったんだと思う。お母さんなら好ましく思うでしょうね」<br/><br/>「あなたは、私のお母さんがバザールと同盟を結んだことは知っていた？それで、お母さんはグレート・サインを、誰も身に帯びていないタトゥーを学びに来たの。私たちはロンドンに帰らなくちゃ。つまり、ロンドンに帰ってもらっても構わないかしら？お願い。ペンストックを見つけないと。彼がバザールの秘密の小門の番をしているのよ」@{I}娘の口元が、悲しそうな笑みを浮かべている。「何て痛みなの。愛ではなく、寂しさなのね。」彼女は指で模様をなぞる。「貴方はこれを癒やす事が出来なかったけど、貴方は癒やしではあったと思うわ。私のママもそれを認めるはず。多分ね。」\r\n\r\n「彼女がバザーと同名を結んでいたという事を知ってたかしら?それが、彼女が他の誰もしていなかった刺青、偉大な紋章を付けていた由縁ね。私達はロンドンに戻らなければならない。要は - ロンドンまで戻ってもらえないかしら?お願い。私達は、バザールの秘密の窓口を監視しているペンストックを見つけ出さなきゃならないの。@{M}$Great Signs -> グレート・サイン, Penstock -> ペンストック$The Daughter's mouth curls into a sad smile. \"So much pain. Not love, but loneliness.\" She traces it with a finger. \"You could not cure it, but I think you were a consolation. My mother would approve, I think.\"\r\n\r\n\"Did you know she forged an alliance with the Bazaar? That's how she came to learn the Great Signs, the tattoos no one wears. We must return to London. That is - please can we return to London? Please. We must find Penstock, who watches the secret wicket-gate of the Bazaar. \""
+      },
+      "Id": 153778,
+      "Name": "海賊詩人の印@{I}海賊詩人の印@{M}$Pirate-Poet -> 海賊詩人$The Pirate-Poet's Mark",
+      "Description": "「これのこと？」@{I}\"これの事か?\"@{M}\"You mean this?\""
+    }
+  ]
+}

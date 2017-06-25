@@ -1,0 +1,37 @@
+{
+  "Id": 148776,
+  "Name": "Officer Template",
+  "Description": "-",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 148777,
+        "Name": "-",
+        "Description": "-"
+      },
+      "Id": 127613,
+      "Name": "Increase your Hearts",
+      "Description": "[Spend a Secret to improve your Hearts, unless it's higher than 150.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148780,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 127616,
+      "Name": "Answer questions about your past",
+      "Description": "You've kept your secrets long enough. [Unmask yourself! This will allow you to select a Past, Ambition, and form of preferred address - also providing you with a specialist ability bonus.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148781,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 127617,
+      "Name": "Invite them to dine with you",
+      "Description": "[Not yet. This Officer's story will open later in development.]"
+    }
+  ]
+}

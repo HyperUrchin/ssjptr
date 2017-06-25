@@ -1,0 +1,57 @@
+{
+  "Id": 166267,
+  "Name": "LIMBO'D - Saviour's Rocks Magic Cheat Menu",
+  "Description": "Because playing games is just *so* 1990...",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 166268,
+        "Name": "Boom!",
+        "Description": "Thy will hath been done. You should have everything that you require."
+      },
+      "Id": 137709,
+      "Name": "The Cornucopia of Cheating",
+      "Description": "Give me everything that I need to complete this storyline. (Skills will not be changed.)"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 166815,
+        "Name": "Ah, that's better...",
+        "Description": "All of your terror and pain is washed away. No, *you're* welcome."
+      },
+      "Id": 138085,
+      "Name": "The Nice Cup Of Tea of Terror Reduction",
+      "Description": "Take it away. All of it. Also any Wounds."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167066,
+        "Name": "Grr! Boo! Boo!",
+        "Description": "Enjoy your hate!"
+      },
+      "Id": 138214,
+      "Name": "Flask Of Opprobrium",
+      "Description": "Become the Scourge of the Sorrow-Spiders"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167087,
+        "Name": "Wait, who were you?",
+        "Description": "Ah, it probably doesn't matter."
+      },
+      "Id": 138227,
+      "Name": "A Lethe Injection",
+      "Description": "Make the Sorrow-Spiders forget who you are, and any transgressions. (Reset story)"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167214,
+        "Name": "Are you sitting comfortably? Good. Then I'll begin.",
+        "Description": "With SAY, help at the festival, then with a second SAY, meet the Emissary of Spiders to unlock the first assignment - bringing Tomb Colonists to feed the spider-council on the web-linked island.\r\n\r\nBring the Tomb Colonists. Sorry. Got to be done!\r\n\r\nIn the Web of Stone, either spy to get background on the story or skip the timer ahead to meet with the spider council and be sent to the Nocturne.\r\n\r\nCOMING SOON: At the Wreck Of The Nocturne, explore until you get the Scholar's Diary.\r\n\r\nCOMING SOON: Return to the Web Of Stone\r\n\r\nOPTIONAL: Rescue the Captain of the Nocturne\r\n\r\nReturn to the Nocturne\r\n\r\nFight a Lorn Fluke (Note: Failure is impossible, but success offers bonus treasure. Having the Captain on board gives a bonus to skill checks)\r\n\r\nReturn one last time to Saviour's Rocks for the Festival of Silk and the quest reward.\r\n\r\nAlternate path - burn the tree at the Web of Stone. This changes the Nativity and makes the Scuttering Reaches far more dangerous."
+      },
+      "Id": 138294,
+      "Name": "I'm Testing This - What Should Happen?",
+      "Description": "Spoilers, of course"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "Id": 239988,
+  "Name": "The Cavities",
+  "Description": "Nook's poor reside in chambers and tunnels crudely carved into the confusion of stunted teeth that grow in the lower rings. The occasional calico banner twisting in the currents marks the house of a relatively well-to-do dockmaster or landlord.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 239989,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 183742,
+      "Name": "Investigate the orphanage",
+      "Description": "A local woman runs an orphanage for Nook-children who have lost their parents. If children are going missing, someone there should know about it."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239990,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 183743,
+      "Name": "Investigate the Pulp-Mines",
+      "Description": "The miners hollow out new teeth before the dentarchitects turn them into dwellings. They work close to the Maw, <i>in</i> the Maw, even. They must know something about the quakes."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239998,
+        "Name": "Final Act",
+        "Description": "\"Ah, there you are. Good show. Do you know, I could almost believe you got here before I did.\" She laughs gaily. \"And look! Children. They aren't all gone. Those silly Nookers must be exaggerating. It's probably just a couple playing hide-and-seek. That makes far more sense.\" \r\n\r\nThe Maw shudders; its teeth groan together. A deep bass roar rumbles up through the very enamel of the city. The children run shrieking. The Deductress flinches. \"I'll make sure these get safely back to the orphanage. We'll meet again.\""
+      },
+      "Id": 183747,
+      "Name": "Speak to the Deductress",
+      "Description": "She is already imperiously interviewing passers-by. Three children play at her feet. She upbraids the children, but fondly."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239999,
+        "Name": "Ravaged",
+        "Description": "There is no fire in Nook, of course, but after what the mob does to the orphanage, you newly appreciate the beauty of a conflagration. Fortunately, the three remaining orphans can escape via an upper window. \r\n\r\nMrs Collier is trussed up by the crowd. She floats, helplessly, as members of the mob affix small weights to the rope binding her. She moans and begs for mercy. Finally, she is shoved out over the Gullet. Her howls continue long after she has sunk out of sight."
+      },
+      "Id": 183748,
+      "Name": "Divert the Mob's attention to the orphanage",
+      "Description": "The mob needs to vent its spleen - it wants a target. Mrs Collier betrayed her charges. She deserves to suffer. Rile the mob with the truth."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240000,
+        "Name": "Ravaged",
+        "Description": "There is no fire in Nook, of course, but after what the mob does to the mineworks, you newly appreciate the beauty of a conflagration. Fortunately, most of the miners escape with only minor injuries.\r\n\r\nThe foreman is foolish enough to stand up for his workers. He is grabbed and trussed up by the crowd. He floats, helplessly, as members of the mob affix small weights to the rope binding him. When he realises their intention, he moans and begs for mercy. Finally, he is shoved out over the Gullet. His howls continue long after he has sunk out of sight."
+      },
+      "Id": 183749,
+      "Name": "Divert the Mob's attention to the miners",
+      "Description": "The miners were seduced by the Hempen Man's promise to kill the Maw, and the implication of vast profit. They have sinned against the Maw. The mob will love that."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240534,
+        "Name": "Too close",
+        "Description": "You claw wildly through the water towards your vessel. Your aim is desperate; dark blotches and white cracks flare through your vision. The effort of not breathing burns. The airlock is ready, open; but it must be closed and emptied. Finally, air inches into the top of the chamber. You cough and retch the Nookwater from your lungs. "
+      },
+      "Id": 184094,
+      "Name": "The Creeping Drown",
+      "Description": "The lungweed is wearing off. You have to get to air. Swim for your ship - fast!"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243576,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 186067,
+      "Name": "Leave the Cavities",
+      "Description": "Return to central Nook."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246516,
+        "Name": "",
+        "Description": "The mob has grown. It is a gleeful, hungry, howling crowd. This time, you've no hope of fighting them off. You must flee, but tactically. Swim too fast, and they'll tire - and find an easier target. Swim too slow, and you'll be overwhelmed.\r\n\r\nYou over-emphasise your ungainly Trespasser swimming style. The mob is hooked. \"We're going to throw you in the Gullet, Trespasser!\" The rest of what they shout is incoherent with rage. Swim. Swim faster. \r\n\r\nToo close. Your leg is clawed and bleeding by the time you reach your zub. Do all Nookers keep their nails that sharp?"
+      },
+      "Id": 188116,
+      "Name": "Brave the Mob's Wrath Yourself",
+      "Description": "This mob is out for blood. The miners were foolish and Mrs Collier unforgivably negligent - but none of them deserves to be taken by this crowd. [This will temporarily remove you from Nook, and will wound you.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246517,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 188117,
+      "Name": "The Mob has made its way to the Cavities",
+      "Description": "The shouting of the Mob makes the water pulse unpleasantly - and you've drawn their attention. They'll need to vent their fury before they'll let you continue your investigations."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246794,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 188363,
+      "Name": "Leave the Cavities",
+      "Description": "Return to central Nook."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246795,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 188364,
+      "Name": "Leave the Cavities",
+      "Description": "Return to central Nook."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246797,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 188366,
+      "Name": "Leave the Cavities",
+      "Description": "Return to central Nook."
+    }
+  ]
+}

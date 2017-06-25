@@ -1,0 +1,27 @@
+{
+  "Id": 169512,
+  "Name": "Proper Nomenclature",
+  "Description": "Zaira is waiting for you on the docks, gold-mesh veil fluttering in the brimstone-scented breeze. \r\n\r\n\"I much prefer being the Lady of the Gardens than the Lady of the Cages. But. The truth is I am always both.\" Her mouth ticks up. \"What have you done with my lovely red honey?\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 169513,
+        "Name": "",
+        "Description": "\"I don't really care about money,\" she confides, as you count out the payment. \"It makes Leopold so happy. It's one of the things I admire about him, his ability to take happiness from little things.\"\r\n\r\nYou take that as an oddly coded warning, and resolve to stay out of the Lady's sight for the forseeable future."
+      },
+      "Id": 139652,
+      "Name": "You offer compensation",
+      "Description": "You name a fair price, and then keep raising it until Zaira sighs in acquiescence. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169514,
+        "Name": "",
+        "Description": "Zaira does not waste time with words: she slips a long, thin dagger out of her sleeve and cuts the throats of two of your crew. The dagger is pressed to your own throat before you can even give a shout of horror. \"Violence! I remember violence!\" She laughs breathily. \"Do you think I should kill you?\"\r\n\r\nYou don't. You really don't. \"Oh, all right then.\" She shoves you with her free hand, and you tumble into the freezing zeewater. Your crew fish you out once she departs."
+      },
+      "Id": 139653,
+      "Name": "Threaten her",
+      "Description": "You have your crew with you, and she's some kind of nun, isn't she? She probably abhors violence. Probably."
+    }
+  ]
+}

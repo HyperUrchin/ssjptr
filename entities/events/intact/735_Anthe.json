@@ -1,0 +1,17 @@
+{
+  "Id": 242609,
+  "Name": "Anthe",
+  "Description": "[Coming soon!]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 242610,
+        "Name": "",
+        "Description": "[Nothing to see here!]"
+      },
+      "Id": 185489,
+      "Name": "Lorem Ipsum",
+      "Description": "[This Content is not yet live.]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Id": 181044,
+  "Name": "断固たる意志で太陽を盗んだ男@{I}太陽を盗んだと言われた男@{M}The Man Who Was Determined to Steal the Sun",
+  "Description": "　悪党が『隔壁を突破して』船倉に忍び込み、鏡封じの箱を開けてしまった！箱はもう空っぽだ。彼は目を伏せた。「すんません、船長。あれがあんまりぴかぴかしてたもんだから」[安全区画からの盗みはあまり発生しませんが、それでも時々は起こります。太陽光は心を惑わすのです。]@{I}この悪党は自分で<i>隔壁沿いの近道を通って</i>倉庫に入り、集光鏡箱を開けてしまった! 箱は今空っぽで、彼は自分の足元を見つめている。 'すいやせん、船長。とっても、輝いていたでがす。' [警備が厳重な倉庫では盗みは起きにくいですが、それでも稀に発生します。陽光はとても魅惑的なのです。]@{M}$Mirrorcatch Box -> 鏡封じの箱$This miscreant has <i>cut his way through a bulkhead </i> into the cargo hold and opened a Mirrorcatch Box! The box is empty, now. He looks down at his feet. 'Sorry, captain. It was so shiny.' [Theft is less likely from secure storage, but will still occasionally happen. Sunlight is tempting.]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 181045,
+        "Name": "因果応報@{I}因果応報@{M}Just desserts",
+        "Description": "　太陽光が帰ってくることはない。だが、少なくともあなたは、誰が船の長なのかを知らしめた。@{I}光を取り戻す事は出来ないだろうが、少なくとも誰が上なのかは示した。@{M}You won't get your sunlight back, but at least you've shown who's in charge."
+      },
+      "Id": 146655,
+      "Name": "彼を営倉にぶち込む@{I}奴を営倉に@{M}Throw him in the brig",
+      "Description": "　彼を見せしめとしよう。@{I}見せしめに奴を懲らしめろ。@{M}Make an example of him."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181046,
+        "Name": "感謝感激@{M}大喜びの感謝@{I}Delighted gratitude",
+        "Description": "　太陽光泥棒は大いに安堵していた。だが、規律は乱れることになるだろう。船員たちは面白くなさそうな顔をしていた。@{I}陽光の盗人は大いに安心したが、規律は緩んでしまった。貴方の船員は誰も喜んでいない。@{M}The sunlight-stealer is greatly relieved, but discipline will suffer. Your crew are not impressed."
+      },
+      "Id": 146656,
+      "Name": "彼に警告を与えて下がらせる@{I}警告を与えて解放する@{M}Let him off with a warning",
+      "Description": "　あれは実にぴかぴかしているからな。@{I}それは<i>とっても</i>輝いていた。@{M}It is <i>very</i> shiny."
+    }
+  ]
+}

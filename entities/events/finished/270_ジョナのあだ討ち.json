@@ -1,0 +1,37 @@
+{
+  "Id": 152799,
+  "Name": "ジョナのあだ討ち@{M}The Vengeance of Jonah",
+  "Description": "それは狭苦しく、小さい場所だったが、それでも墳墓街のどの場所よりも灯りにあふれた場所だった。料理の匂いは様々な種類が入り混じっており、特別な雰囲気が漂う。良い店なのか?そうかもしれない。良い店かもしれない。断言はしかねるが。@{M}It's a cramped little place, but much better-lit than most places in the tomb-colonies. The scents of the dishes are multitudinous and extraordinary. Are they good? They might be. They might be good. It's difficult to tell.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 152806,
+        "Name": "追い求めた熱狂@{M}Avid enthusiasm",
+        "Description": "「嗚呼、船長!我々が捕まえる物!我々が食べる物!我々が経験する物!我々は第七感を見つけるでしょう。貴方と私で。心で味わう味。貴方はそこに居る!船乗り!蒸し蒸留器には細心の注意を!それは貴方の惨めな魂よりも価値があるのだから。」@{M}\"Ah, my captain! The things we will catch! that we will consume! that we will experience! We will discover the Seventh Sensation, you and I. The taste that one tastes with the heart. You there! Sailor! Careful with the braising-alembic! It's worth more than your wretched soul.\""
+      },
+      "Id": 130128,
+      "Name": "包帯巻きの猛毒使いを勧誘する@{M}Recruit the Bandaged Poissonnier",
+      "Description": "包帯巻きの猛毒使いは長い間旅をしたいと望んでいた - しかし、貴方は彼の厳しい基準に合わせた厨房一式を船内に揃えなければならない。[これによって彼を料理人として雇います。]@{M}The Bandaged Poissonnier has long wished to travel - but you'll need to outfit the galley to his exacting standards. [This will recruit him as a Cook.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152804,
+        "Name": "まずまずの成功@{M}An adequate success",
+        "Description": "最終的に出来上がった物は、目を瞑れば食べられる。塩漬けにした方がより良いだろう。@{M}The final product is edible, if you close your eyes. It's probably better pickled."
+      },
+      "Id": 130127,
+      "Name": "奇妙な漁獲を渡す@{M}$Strange Catch -> 奇妙な漁獲物$Offer a Strange Catch",
+      "Description": "ジョナのあだ討ちは食の探求に関して結構自由な発想を持っている。[彼らから少しばかりのお金を貰ったで、渡した物を物資として返して貰えます。]@{M}The Vengeance of Jonah is liberal in its approach to edibility. [They will pay a small fee and return some of the material to you as Supplies.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152800,
+        "Name": "良かった。だが...@{M}Good, but...",
+        "Description": "貴方は食事を心から美味しいと思い、そして満足と安心を抱いて店を出た。しかしその夜、貴方は苦悶の川の夢を見る: パラボラ麻が群生し、ナイトメアが出没する水流だ。ジョナのあだ討ちが使っている香辛料は、恐らく鏡の向こうの世界からまた仕入れられているのだろう...@{M}$Writhing River -> のたうつ川$You eat with gusto and leave with relief. But that night you dream of the Writhing River: that watercourse where parabola-flax grows and nightmares spawn. Perhaps the Vengeance of Jonah has been purchasing their spices from behind mirrors again..."
+      },
+      "Id": 130125,
+      "Name": "本日のスペシャルを試す@{M}Sample today's special",
+      "Description": "此処の食べ物は並外れて素晴らしい。毒や退屈の心配をする必要は無い。少なくとも、絶対に退屈はしない。[これは<i>大体の場合</i>'汚れたグラス一杯のワイン'より効果的に恐怖を減少させる方法で、また空腹度も改善されます。]@{M}The food here is exceptional. You need not fear poisoning or boredom. Definitely not boredom. [This is <i>usually</i> a more effective way of reducing Terror than purchasing 'a dusty glass of wine', and will also reduce Hunger.]"
+    }
+  ]
+}

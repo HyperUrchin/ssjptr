@@ -1,0 +1,17 @@
+{
+  "Id": 145176,
+  "Name": "Open a Long-Buried Treasure",
+  "Description": "",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 145177,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 125253,
+      "Name": null,
+      "Description": null
+    }
+  ]
+}

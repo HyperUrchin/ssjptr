@@ -1,0 +1,57 @@
+{
+  "Id": 152171,
+  "Name": "鏡張りの門にて@{M}At the Mirrored Gates",
+  "Description": "衛兵が、光の海の真ん中に立ち、貴方の背後に在る暗闇を用心深く見つめている。\r\n\r\n近くで見ると、衛兵の身に着けている青い外套は縁が擦り切れていて、やや苔むしているような見栄えだ。襟に沿って走るのは装飾された太陽の意匠だったが、金糸の輝きは鈍っていた。彼女の目の周りのコールは、薄汚れていた。\r\n\r\n「ふむ、ターマスよ。」彼女が問う。「貴方は私に何か質問があるのでしょうか?それとも黙って私を見ているだけでしょうか?」\r\n\r\n極めて無愛想な物言いだが、内心では恐らく好奇心に満ち溢れた感じである。ここヴァルカスを訪れる者が多いとは、貴方には思えなかった。@{M}$Varchas -> ヴァーチャス$The Guard stands in the middle of the pool of light, looking warily at the darkness beyond you.\r\n\r\nUp close the Guard's blue cloak is threadbare and mossy along the hem. A pattern of embroidered suns runs along the collar, but the gold thread is dull. The kohl around her eyes is smudged.\r\n\r\n\"Well, Taamas,\" she asks. \"Are you going to ask your questions? Or are you just going to stare?\"\r\n\r\nHer tone is brusque but her expression is curiously eager; you do not think Varchas receives many visitors.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 152172,
+        "Name": "",
+        "Description": "衛兵は呆れたような顔をした後、聞く耳を持たない素振りを見せた。「ヴァルカス人ではない全ての者は、ターマスです。貴方は暗闇に触れられた方で、暗闇は貴方から名前を奪い去るのです!」彼女は忠告するような面持ちで貴方の言葉を訂正し、更に付け加えた。「貴方が未だに名前を持っている振りをするのは、甚だ不作法ですよ。」\r\n\r\nヴァルカスに訪れる者が何故こんなに少ないのか、少しだけ解った気がした。どうやら、ヴァルカスに立ち入りたい時は、常にターマスと呼ばれる事に慣れなければならない様だ。@{M}$Varchas -> ヴァーチャス$The Guard looks scandalised and tries to stopper her ears. \"All those who are not Varchaasi are Taamas. You have been touched by darkness, and it has taken your name!\" She fixes you with an admonishing look, and adds: \"It is very ill-mannered to pretend you still have one.\"\r\n\r\nYou begin to see, a little, why Varchas is not often visited. It looks like you will have to get used to being called Taamas, if you wish to enter."
+      },
+      "Id": 129709,
+      "Name": "貴方の名はターマスに非ず@{M}Your name is not Taamas",
+      "Description": "貴方は慇懃に彼女を正す。@{M}You correct her politely."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152178,
+        "Name": "",
+        "Description": "私達は常にミヒルの光に従って歩まなければなりません。であればこそ、私達は朝に夕に火を灯し、この鏡の街から闇を振り払っているのです。」彼女は誇らしげに言った。「もし私達が暗闇の侵入を許してしまったら、私達はたちまちヴァルカス人ではなくなり、貴方の様にターマスとなるのです。」\r\n\r\nそれは本当にそれほどひどい宿命なのか?と貴方は考えた。彼女が言葉を紡ぎだす前に、彼女の嘲りを含んだ笑いがその貴方の問いに答えた。「ええ、それはとてもひどいものなのです、ターマス。貴方が問う前に...」彼女は付け加える。「いいえ、私はヴァルカスを立ち去りたいという願いなど持っておりません。地下の他の場所は全てミヒル様のご加護から滑り落ちてしまったのです。私はそれらに加わるつもりなど毛頭ありません!」@{M}$Varchas -> ヴァーチャス$\"We must always walk in Mihir's light so we burn our lamps night and day to banish darkness from the Mirrored City,\" she tells you proudly. \"If we let darkness corrupt us we would not be Varchaasi any longer, but Taamas. Like you.\"\r\n\r\nYou wonder, is that so terrible a fate? Her mocking laugh answers you even before her words do: \"Yes, it would be terrible indeed, Taamas. And before you ask,\" she adds. \"No, I do not have any desire to leave Varchas. The rest of Neath has fallen from Mihir's grace, and I have no wish to join them!\""
+      },
+      "Id": 129713,
+      "Name": "光について尋ねる@{M}Ask about the light",
+      "Description": "これらは少し浪費がすぎるのではないか。何というか、けばけばしい。@{M}It all seems a bit wasteful. Possibly even... ostentatious."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152179,
+        "Name": "",
+        "Description": "「私にとって、鏡張りの門を護る事はこの上なく光栄な事です!」彼女は取り繕うように鋭く言い放った。彼女の詰所を照らす光の海の一旦を手振りで示し、続ける。「とても危険なのです。些細な綻びですら、私を容赦なく暗闇の底へ突き落とすでしょう!」彼女の声は糸のように細くなっていった。「そうなれば、私はミヒル様のご加護から排除されてしまいます。私は自分の名を失ってしまう。だからこそ、街壁の外に送り込まれるのは最も勇敢な者だけなのです。」\r\n@{M}\"It is a great honour to guard the Mirrored Gates!\" she snaps defensively. She gestures to the edge of the pool of light illuminating her post. \"It is very dangerous. Even a small stumble and I could fall into the dark!\" Her voice goes thready. \"I would be banished from Mihir's grace. I would lose my name. That is why they only send the bravest outside the walls.\""
+      },
+      "Id": 129714,
+      "Name": "彼女について尋ねる@{M}Ask about her",
+      "Description": "彼女はこの仕事が好きなのか?好きな者は居るのか?@{M}Does she like her job? Does anyone?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152180,
+        "Name": "",
+        "Description": "「決して鏡に触ってはなりません。決して鏡を覗き込んではなりません。」彼女は固い口調で言う。「可能な限り、夢も見ないことです。」\r\n\r\n貴方は、<i>何人も殺す事勿れ</i>、若しくは<i>特別な日には赤を身に着けろ</i>といった類の何かを期待していたのだろうか?とりあえず、貴方は頷き、そして笑った。\r\n@{M}\"Don't touch the mirrors. Don't even look into the mirrors,\" she says, her voice hard. \"And try very hard not to dream.\"\r\n\r\nWere you expecting something along the lines of <i>don't murder anyone</i>, or <i>only wear red on special occasions</i>? Still, you nod and smile."
+      },
+      "Id": 129715,
+      "Name": "街の税関について尋ねる。@{M}Ask about the city's customs",
+      "Description": "彼らの興を削ぐ前に知っておくに越した事はない。脱出路として使えるだろうから。@{M}Best to know before you flout them; easier to plan an escape route, that way."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152181,
+        "Name": "",
+        "Description": "彼女は少しがっかりしたように見えたが、それ以上の詮索をする事は無かった。\r\n@{M}She looks a little disappointed, but does not try to engage you further."
+      },
+      "Id": 129716,
+      "Name": "もう聞きたい事は無い@{M}You have no more questions",
+      "Description": "貴方は満足した。若しくは衛兵の声が耳に障り始めたのかもしれない。@{M}You are satisfied; or perhaps the Guard's voice is beginning to grate a little."
+    }
+  ]
+}

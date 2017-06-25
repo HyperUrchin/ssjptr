@@ -1,0 +1,27 @@
+{
+  "Id": 213201,
+  "Name": "A Dilemma On Pigmote Isle",
+  "Description": "Rats and cavies lie quivering on canvas sheets in this part of town. \"We think it started from something in the water,\" whispers the aide. \"We thought we'd contained it, but it's spreading. Our medicines are powerless against it. What do we do?\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 213202,
+        "Name": "Cleansing fire",
+        "Description": "The simple huts light easily, and the flames take the dead with them. The rodents watching agree it had to be done. The one who drew the short straw rubs her eyes with a paw, quietly murmuring something about the smoke."
+      },
+      "Id": 166737,
+      "Name": "Have them burn the infected part of town",
+      "Description": "It won't be popular. It will be decisive."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 213311,
+        "Name": "Slow recovery",
+        "Description": "Away from the contaminated water, the symptoms of the disease soon fade. But it will be considerably longer before the sufferers are ready to return to work."
+      },
+      "Id": 166805,
+      "Name": "Recommend the sick be quarantined",
+      "Description": "Building a hospital will take workers away from other tasks, but demonstrate [q:Pigmote Isle: Mastery]'s compassion."
+    }
+  ]
+}

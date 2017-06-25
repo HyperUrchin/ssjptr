@@ -1,0 +1,17 @@
+{
+  "Id": 234229,
+  "Name": "Zubmariner Base Storylet ",
+  "Description": "",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 234230,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 179925,
+      "Name": null,
+      "Description": null
+    }
+  ]
+}

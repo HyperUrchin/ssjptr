@@ -1,0 +1,27 @@
+{
+  "Id": 144275,
+  "Name": "MT NOMAD",
+  "Description": "It blots out the false-stars. It breathes night. In the vitreous midnight of its skin, you see your vessel's reflection ripple, as if it had already consumed you.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 144276,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 124679,
+      "Name": "Fight!",
+      "Description": "Discharge your weapons against its vast bulk. [This is a Nemesis. You may wish to disengage as soon as possible, unless you have a particular reason to fight it.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144277,
+        "Name": "Too close",
+        "Description": "Your prow light gutters and dies. Someone in your crew falls into desperate, unceasing, maniac laughter."
+      },
+      "Id": 124680,
+      "Name": "Flee!",
+      "Description": "It's not so very fast, but it predicts your every movement... and it's so close, and so huge. All courses lead to its heart."
+    }
+  ]
+}

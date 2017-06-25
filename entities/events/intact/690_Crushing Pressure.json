@@ -1,0 +1,27 @@
+{
+  "Id": 239185,
+  "Name": "Crushing Pressure",
+  "Description": "Stale air and the rhythmic pulse of the engines eat at your composure. The dark zee presses in against you on all sides. Your hull groans. How can anything breathe down here?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 239186,
+        "Name": "Swift, if undignified",
+        "Description": "The pressure is catching, and your crew sets to work with a mania. Your ship lurches upwards at a staggering angle. As you reach the shallows, the ocean's grip loosens. The creaking hull quiets. False-stars are visible through choppy waves. Zailors begin to breath easily again. No one speaks of the panic that gripped you."
+      },
+      "Id": 183228,
+      "Name": "Surface!",
+      "Description": "Fight for air. Fight for life."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239187,
+        "Name": "Deaf to reason",
+        "Description": "You assemble the crew to allay their fears. But as you extol the safety of the zubmarine and the fortitude of its hands, the voice of a maddened gunner rings through the ship. \r\n\r\n\"We are trespassers! There is nothing here but misery, and endings, and the curse of Lady Black!\"\r\n\r\nYou run to her station just in time to prevent her from detonating the munitions supply. Her weeping echoes through the corridors as she is dragged to the brig. "
+      },
+      "Id": 183229,
+      "Name": "Calm your crew",
+      "Description": "Panicking costs air. You can calm this madness in the crew. And maybe even in yourself."
+    }
+  ]
+}

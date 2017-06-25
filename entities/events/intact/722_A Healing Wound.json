@@ -1,0 +1,37 @@
+{
+  "Id": 240664,
+  "Name": "A Healing Wound",
+  "Description": "Ahead, the mouth of the wound is closing. A burst of energy sees you through it to the Gullet. The Deductress and the Hempen Man are not so lucky. Both are pinned by the edges of the wound.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 240665,
+        "Name": "",
+        "Description": "Arnold gathers himself for some last words. \"Well, farewell, Mina,\" he calls as the knitting flesh pulls him in. \"It was fun. And-\" His last word turns into a despairing moan. \r\n\r\nThe wound has sealed with an angry lavender scar. The Gullet is littered with the residue of the drilling-camp. Much has been pulled down the Gullet already. The Deductress straightens her outfit, wipes excess blood from her shoes. \"You saved me,\" she says. Her eyes are bright. \"Have you ever considered becoming a hero?\""
+      },
+      "Id": 184183,
+      "Name": "Save the Deductress",
+      "Description": "Her legs have been caught in the closing flesh. She scrabbles at the wound's lip, and is slowly being drawn inside. Will you pull her out?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240666,
+        "Name": "",
+        "Description": "The Deductress lets out a moan of outrage as you haul up Arnold. \"You can't save <i>him</i>! He's the <i>villain!</i>\" Her anger distracts her from her doom. She is still shrieking when as the knitting flesh closes over her. \"You've <i>simply</i> no respect for the <i>craft</i>, you st-\"\r\n\r\nShe is gone. The wound has sealed with an angry lavender scar. The Gullet is littered with the residue of the drilling-camp. Much has been pulled down the Gullet already. \r\n\r\n\"That was fun,\" Arnold says. \"But you were right to leave her. She had lost her mind. A hero would have let me save the city.\" He eyes you cautiously. \"You - I don't understand. You save me, but don't let me save the city. Are you a hero or a villain?\""
+      },
+      "Id": 184184,
+      "Name": "Save Arnold",
+      "Description": "He thought he could kill the Maw; now it has caught him in its healing. \r\n\r\n\"What are you waiting for? Assist me!\" Will you? Perhaps he really <i>was</i> trying to help the Nookers."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240667,
+        "Name": "",
+        "Description": "The wound sucks them in as the flesh knits itself closed. \r\n\r\n\"Well, goodbye, Mina,\" Arnold says. \"It was fun, wasn't it? Our best yet.\"\r\n\r\n\"Goodbye, brother,\" Mina says. \"You were a finer villain than ever I was.\"\r\n\r\n\"You really think so?\" Arnold's voice is now muffled by the creeping, seeking flesh.\r\n\r\n\"Of course. I was born to play the hero, you kn-\" The sealed wound cuts her off. Only an angry lavender scar remains. "
+      },
+      "Id": 184185,
+      "Name": "Let them both die",
+      "Description": "They've put a whole city in danger with their games. And who are you to interfere with the healing process?"
+    }
+  ]
+}

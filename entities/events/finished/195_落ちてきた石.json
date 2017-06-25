@@ -1,0 +1,27 @@
+{
+  "Id": 150638,
+  "Name": "落ちてきた石@{M}A fallen stone",
+  "Description": "今も昔も、地下の天井から石礫がよく落ちてくる。古い船の甲板はよくそれで傷を付けられている。陸にある者には馴染みの無い音ではあるが、船乗りにとってそれは忘れ難い音だった。そんな折、甲板の羅針箱のガラスに石礫が直撃した。「不吉な前兆よ!」一人の船乗りが叫ぶ。「上に神が!ストームがお怒りになっている!」@{M}Now and then, rocky fragments fall from the roof of the Neath. The decks of older ships are pocked with scars. The sound is one no land-lubber knows, and no zailor will ever forget. This one has smashed the glass of a deck-binnacle. \"Ill omen!\" one sailor cries. \"The god in the roof! Storm is angry!\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 150641,
+        "Name": "非難の呟き@{M}Mutters of disapproval",
+        "Description": "彼らは貴方に対し、神の御心を満たす為のワインを要求した。従わなければ、神が貴方に立ちはだかる、とも。したいようにすればいい。貴方は優位に立っており、彼らはワインの対価を支払うと持ちかけている訳ではないのだ。@{M}They want you to offer wine and fish to appease the god, or the god will be cross. Well, sod 'em, you're in charge, and they're not proposing to pay for the wine."
+      },
+      "Id": 128726,
+      "Name": "何もしない@{M}Do nothing",
+      "Description": "ストーム。ジーを統べると言われている名も無き神の一人。馬鹿げた迷信である。@{M}Storm: one of the three nameless gods of the zee. An absurd superstition. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 150642,
+        "Name": "簡単な儀式@{M}A simple rite",
+        "Description": "船乗り達はその言葉を知っていた: 貴方がもそもそと呟いていたのだ。捧げ物にはワインと魚が最適だとある。そこには船長の血とも書かれていた(うへぇ!)。銅線で括られ、船外に投げ出された荷物は、水面に少し浮かんだ後、海の底へと沈んでいった。@{M}Your zailors know the words: you mumble them. A gift of wine and fish is suitable, marked with the Captain's blood (ow!), bound with copper wire and cast overboard from the bow. The package bobs for a moment, and then is sucked beneath the ship..."
+      },
+      "Id": 128727,
+      "Name": "不運を回避する為に贄を捧げる@{M}Make a sacrifice to avert misfortune",
+      "Description": "逸話によれば、ストームはジーの神々の中で最も喧しく、怒りやすく、もっとも不合理な神だとの事だ。隙を見せてはいけない。@{M}In the stories, Storm is the noisiest, angriest and least reasonable of the zee-gods. Better not take chances."
+    }
+  ]
+}

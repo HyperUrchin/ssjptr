@@ -1,0 +1,47 @@
+{
+  "Id": 151243,
+  "Name": "出火！@{I}火事だ!@{M}Fire!",
+  "Description": "　あなたはエンジンを酷使し、あまりに速く走らせ過ぎた！水夫たちは叫び――炎が吹き上がり――@{I}貴方はエンジンを酷使し続けすぎた様だ! 船乗りは叫び - 業火が立ち上る -@{M}You've pushed your engines too far, too fast! Zailors scream - flames rage -",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 151244,
+        "Name": "叫びと悪臭@{I}Screams and stenches",
+        "Description": "　どこもかしこも、熱された金属と燃え上がる肉ばかり。踏みとどまって、祈ろう。@{I}そこら中に熱い金属と燃え盛る肉。辛抱して祈るしかない。@{M}Everywhere hot metal and burning flesh. Hold on and pray."
+      },
+      "Id": 129133,
+      "Name": "負傷者を治療し、炎を抑える@{I}傷を癒やし、火を消せ@{M}Heal the wounded, damp the flames",
+      "Description": "できることをやろう――@{I}出来る事をやれ -@{M}Do what you can -"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 155167,
+        "Name": "叫びと悪臭@{I}絶叫と悪臭@{M}Screams and stenches",
+        "Description": "　どこもかしも、熱された金属と燃え上がる肉ばかり。どこかから、蛇の笑い声が――@{I}そこら中に熱い金属と燃え盛る肉。そして何処かから、蛇どもの笑い声 -@{M}Everywhere hot metal and burning flesh. And somewhere, the laughter of serpents - "
+      },
+      "Id": 131642,
+      "Name": "負傷者を治療し、炎を抑える@{I}傷を癒やし、火を消せ@{M}Heal the wounded, damp the flames",
+      "Description": "できることをやろう――@{I}出来る事をやれ -@{M}Do what you can -"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243799,
+        "Name": "叫びと悪臭@{I}Screams and stenches",
+        "Description": "　どこもかしも、熱された金属と燃え上がる肉ばかり。どこかから、蛇の笑い声が――@{I}Everywhere hot metal and burning flesh. And somewhere, the laughter of serpents - "
+      },
+      "Id": 186208,
+      "Name": "負傷者を治療し、炎を抑える@{I}Heal the wounded, damp the flames",
+      "Description": "　できることをやろう――@{I}Do what you can -"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243800,
+        "Name": "叫びと悪臭@{I}Screams and stenches",
+        "Description": "　どこもかしこも、熱された金属と燃え上がる肉ばかり。踏みとどまって、祈ろう。@{I}Everywhere hot metal and burning flesh. Hold on and pray."
+      },
+      "Id": 186209,
+      "Name": "負傷者を治療し、炎を抑える@{I}Heal the wounded, damp the flames",
+      "Description": "　できることをやろう――@{I}Do what you can -"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Id": 152441,
+  "Name": "Stranded in the Tomb Colonies",
+  "Description": "\"Oh thank god!\" the Dogged Apprentice gasps. \"I don't know how long I've been here... it's been days, weeks since I ran out of money. I've got to get back to Rosegate, beneath the waves.\" His crate rumbles beneath him. \"Please. Help me. And if you had anything I could eat...?\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 152442,
+        "Name": "Glad to be going home",
+        "Description": "The Dogged Apprentice uses the wall to help himself stand. \"I understand. That was too much to hope, [q:Addressed As]. I'm just grateful to be getting out of here. Do you think you could arrange assistance with this?\" he asks, gently kicking his crate. It vibrates again. He smiles nervously. \"I promise, there's no risk that he'll escape.\""
+      },
+      "Id": 129898,
+      "Name": "You'll help him get to Rosegate, but that's it",
+      "Description": "He can come on board, but your supplies are reserved for your crew."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 153726,
+        "Name": "\"Thank you, thank you!\"",
+        "Description": "The Dogged Apprentice springs up to embrace you, but collapses onto the dock. After seeing him to a bunk, you check - and double check - that your crew has securely stored away his rumbling crate. "
+      },
+      "Id": 130666,
+      "Name": "You'll not only take him to Rosegate, you'll feed him too",
+      "Description": "He's clearly weak with hunger. You can spare a little sustenance."
+    }
+  ]
+}

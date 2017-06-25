@@ -1,0 +1,57 @@
+{
+  "Id": 239342,
+  "Name": "The Hour of Our Reflection",
+  "Description": "The dwellers of Hideaway have collected rubbery, pliable fish-flesh, and piled it in the festival square. Once the theme is announced, the dwellers pick out the choicest material from which to build their offerings.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 239343,
+        "Name": "",
+        "Description": "From the pile of debris, you pick out fresh slabs of meat and sharp spines. It isn't difficult to slice the pale flesh into, roughly, the shape of Temtum. The spines do an admirable job of holding your little Temtum together, too. The Near-Forgotten Betrayer across from you beams at your work. He tries to avoiding looking at the Blithe Fiddler beside him, who crams spine after spine into the man-shaped slab she's created."
+      },
+      "Id": 183332,
+      "Name": "Join in",
+      "Description": "You don't know enough of their culture to risk something more adventurous. A miniature Temtum is sure not to give offence. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239352,
+        "Name": "Hair, or a nail, or blood, or tears",
+        "Description": "You scratch the palm of your hand, and a streak of blood swells up. You squeeze it onto the lump of flesh you're working on. There - a scarlet mark runs between Temtum's 'eyes'. \r\n\r\nOthers around you are more generous, slicing deep into their fingers then daubing the blood onto their offerings with tenderness. Their expressions are beatific. Others force a smile, chew at their nails, and spit the pieces into their offerings"
+      },
+      "Id": 183339,
+      "Name": "Cut your hand",
+      "Description": "The Near-Forgotten Betrayer next to you bites his thumb until the droplets of blood ooze. It isn't an offering without something personal. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239353,
+        "Name": "",
+        "Description": "They name their offerings in turn. A Thousand Helping Fingers for my Neighbour; The Miracle that Brought Me Here; Deportment.\r\n\r\nYou show the dwellers of Hideaway your offering. It was difficult with the limited materials, but you've managed to give the lump of meat and guts a passing resemblance to the shape of Temtum. They seem pleased, but more impressed by your skill with their sign language - you manage to convey that Temtum is important even to you, a stranger.\r\n\r\nYour offering is the last to go down the offering chute. The Suggester gestures their wish for the good health of all, Temtum most especially. The people of Hideaway take this as their cue and depart."
+      },
+      "Id": 183340,
+      "Name": "Explain your offering",
+      "Description": "A parade to a black, guttering hole begins. Each creator takes a moment to name their offering, before throwing it into the offering pit. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239354,
+        "Name": "",
+        "Description": "No one tries to stop you. Most merely clear their throats and look away, feigning distraction. The few who do look directly at you scowl. But a few offer half-smiles - \"I know,\" they seem to say. \"We all know.\" "
+      },
+      "Id": 183341,
+      "Name": "Leave the festival early",
+      "Description": "You're a visitor. Surely they won't mind if you decline to participate in their customs."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239355,
+        "Name": "",
+        "Description": "As the procession marches to the chute, you turn and walk back to your zubmarine. Someone taps you on the shoulder. The Near-Forgotten Betrayer, cradling a bloodied, child-sized Temtum meat-doll, speaks in over-enunciated English: \"Do you not know?  It is time to give Temtum your offering.\" Perhaps she thinks you did not understand the gestured instructions. You only nod and continue on your way."
+      },
+      "Id": 183342,
+      "Name": "Take your offering with you",
+      "Description": "You poured your blood and artistic skill into this. You could probably get a tidy sum for it elsewhere. Why not keep it?"
+    }
+  ]
+}

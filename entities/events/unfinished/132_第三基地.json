@@ -1,0 +1,107 @@
+{
+  "Id": 147948,
+  "Name": "第三基地@{K}STATION III",
+  "Description": "高い金属製の壁の後ろから機械の低い唸りが聞こえた。遠く丘の上には立ち並ぶ倉庫と尖塔を持つ建物の輪郭が見える。しかし灯された明かりの数は少なく、その明かりも目立たないように小さくされている。そして港にはあなたたち以外の船の姿はない。@{K}Machinery hums behind high steel walls. Up the hill, there are visible outlines of warehouses and a building with a spire. But the lamps are low where they burn at all, and your ship the only one in harbour. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 148058,
+        "Name": "教会？それとも？@{K}Church? Or something else?",
+        "Description": "あなたは船の高い位置に陣取り岸を観察した。視界に入る範囲では、あの尖塔を備えた建物が飛びぬけて大きいようだ。しかしその建物は十字架もその他あなたの知るどのような象徴も掲げてはいない。@{K}You stand on the high point of your ship and look to shore. There is a steepled building on the horizon, by far the largest thing in sight. No cross marks the top of it, nor any other symbol you recognise."
+      },
+      "Id": 127080,
+      "Name": "望遠鏡で岸を観察する@{K}Train your telescope on shore",
+      "Description": "遠くから眺めるのがいいだろう。@{K}Might be best to get a look from a distance."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152505,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 129945,
+      "Name": "長箱を運びこむ@{K}Deliver a Long-Box",
+      "Description": "壁の内側への入り口は、三重に鍵の掛けられた目立たないが頑丈そうな見た目の銀色の金属でできた門だけだ。横には“搬入口”と書かれた標識が出ている。門は開いていた。@{K }The only way past the walls is an unimposing, but sturdy-looking, triple-locked gate silvery metal. A sign beside it reads DELIVERIES. The gate stands open."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 152508,
+        "Name": "入れない@{K}No way in",
+        "Description": "その金属は鋼のように固く、氷のように冷たい。ノミと鉄梃子でも削ることはできなかった。船の大砲を持ってくることができればあるいは……いや、やめておこう。[ある配達品を持ってくることでこの門が開きます。その品を見つけた時にはここに持ってくるべき物だと分かるはずです。]@{K}The metal is steel-hard, and icy cold to the touch. Attempts with chisels and crowbars fail. Perhaps if you could bring the ship's guns to bear... but no. [If you return with a certain delivery, the gate will be open. You'll know if you find it.]"
+      },
+      "Id": 129948,
+      "Name": "門から入れないか試す@{K}Try the gate",
+      "Description": "壁の中に入るための入り口は、三重に鍵の掛けられた目立たないが頑丈そうな見た目の銀色の金属でできた門だけだ。横には“搬入口”と書かれた標識が出されている。@{K}The only way past the walls is an unimposing, but sturdy-looking, gate of triple-barred silvery metal. A sign beside it reads DELIVERIES."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 182420,
+        "Name": "忍び寄るブレミガン大量発生@{K}A creeping plague",
+        "Description": "ブレミガンはこっそりと壁から突き出したパイプに忍び込んでいった。何も動かない。あれがその後どうしたかも見ることができない。\r\n\r\nあなたが船に戻ろうと踵を返したとき、パイプの端から突然油染みた煙が噴き出した。燃える脂の匂いがする。いや、それでも、生きのびたかもしれないだろう。@{K}$[Bb]lemmigan -> ブレミガン$The blemmigan sidles furtively into a pipe that protrudes from the wall. All is still. You see no more of it.\r\n\r\nAs you turn to go, greasy smoke puffs suddenly from the pipe's end. You smell burning grease. Nevertheless, perhaps, it survived."
+      },
+      "Id": 147593,
+      "Name": "ブレミガンを岸に揚げる@{K}$[Bb]lemmigan -> ブレミガン$Put a blemmigan ashore",
+      "Description": "この石油と金属の島でこれは一体何をするつもりだろう？@{K}What will it do, in this place of oil and metal?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 244557,
+        "Name": "Your bo'sun shatters the lock with a ball-pein hammer",
+        "Description": "$Port Carnelian -> ポート・カーネリアン$Inside, your lamps reveal dust-choked workbenches strewn with discarded tools. Shelves of cardboard boxes filled with rivets and bolts, washers and screws. Blackboards, roughly scrubbed. Here is an old lunchbox - its half-eaten sandwiches encased in successive generations of exciting fungus.\r\n\r\nIn a rusted filing cabinet you find the documents you need: a folder of tea-stained research into zonar. You leave the rotting workshop quietly and return to your ship. The next time you sneeze, your handkerchief comes away black with the workshop dust that crept into your lungs. [Return to Port Carnelian to complete your zubmarine research.]"
+      },
+      "Id": 186706,
+      "Name": "Search Shed Twelve",
+      "Description": "A long, low building propped against the wall. Boarded windows. A rusting padlock."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259042,
+        "Name": "$Aft -> 後部$After careful set up",
+        "Description": "$Fluke -> フルーク$The shed is empty, saving a writing desk and the gigantic mass of needles. The Anxious Student snaps off the tip of one and twirls it between his fingers. \"I hypothesise that the flukes have a method of absorbing and storing our lived experiences. It follows, therefore, that there should exist a means of transmitting - reliving! - that experience. Like so!\" He stabs the needle through his palm. His eyes dull. \r\n\r\n\"You heard Captain Harris, zailor. Target the Ogedei and fire torpedoes. And if you hit one of the Lorn Flukes then by God and Her Majesty I will put you out of the airlock and let the spiny b_____ds take you!\"\r\n\r\nHe awakes from the reverie a moment later, beaming. \"That will do, [q:Addressed As.] Pass me your notes; I'll carry on the experiment from here.\""
+      },
+      "Id": 193196,
+      "Name": "$Lorn-Fluke -> ローエン・フルーク, Fluke -> フルーク$Deliver the Lorn-Fluke and observe the Student's experiment",
+      "Description": "He is terribly excited, and requests your steadying presence - to ensure he maintains the appropriate scientific detachment."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 147955,
+        "Name": "痕跡なし@{K}No evidence",
+        "Description": "あなたは船の停泊していた証拠か、あるいは船が何を運び込んだのか示す痕跡を求めて波止場を歩き回った。しかし決定的な証拠となるものは何も見つからない。ピッチの擦り付けられた跡や湿った足跡すら残っていなかった。最近あなた以外の船がこの港に泊まったことがあったとしても、彼らは痕跡一つ残さず去ったことになる。@{K}You walk the quays, looking for any little sign that might show what sort of ships dock here, and what they deliver. But you find nothing conclusive: not even so much as a smear of pitch or a damp footprint. If any ship but yours has been tied up here in recent days, it has left no evidence."
+      },
+      "Id": 127035,
+      "Name": "他の訪問者の痕跡を探す@{K}Search for signs of other visitors",
+      "Description": "これから何と対峙することになるのか事前に調べて損はないだろう。@{K}It never hurts to know what you are up against."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148030,
+        "Name": "痕跡なし@{K}No evidence",
+        "Description": "あなたは船の停泊していた証拠か、あるいは船が何を運び込んだのか示す痕跡を求めて波止場を歩き回った。しかし決定的な証拠となるものは何も見つからない。ピッチの擦り付けられた跡や湿った足跡すら残っていなかった。最近あなた以外の船がこの港に泊まったことがあったとしても、彼らは痕跡一つ残さず去ったことになる。@{K}You walk the quays, looking for any little sign that might show what sort of ships dock here, and what they deliver. But you find nothing conclusive: not even so much as a smear of pitch or a damp footprint. If any ship but yours has been tied up here in recent days, it has left no evidence."
+      },
+      "Id": 127063,
+      "Name": "他の訪問者の痕跡を探す@{K}Search for signs of other visitors",
+      "Description": "これから何と対峙することになるのか事前に調べて損はないだろう。@{K}It never hurts to know what you are up against."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148034,
+        "Name": "痕跡なし@{K}No evidence",
+        "Description": "あなたは船の停泊していた証拠か、あるいは船が何を運び込んだのか示す痕跡を求めて波止場を歩き回った。しかし決定的な証拠となるものは何も見つからない。ピッチの擦り付けられた跡や湿った足跡すら残っていなかった。最近あなた以外の船がこの港に泊まったことがあったとしても、彼らは痕跡一つ残さず去ったことになる。@{K}You walk the quays, looking for any little sign that might show what sort of ships dock here, and what they deliver. But you find nothing conclusive: not even so much as a smear of pitch or a damp footprint. If any ship but yours has been tied up here in recent days, it has left no evidence."
+      },
+      "Id": 127065,
+      "Name": "他の訪問者の痕跡を探す@{K}Search for signs of other visitors",
+      "Description": "これから何と対峙することになるのか事前に調べて損はないだろう。@{K}It never hurts to know what you are up against."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148037,
+        "Name": "痕跡なし@{K}No evidence",
+        "Description": "あなたは船の停泊していた証拠か、あるいは船が何を運び込んだのか示す痕跡を求めて波止場を歩き回った。しかし決定的な証拠となるものは何も見つからない。ピッチの擦り付けられた跡や湿った足跡すら残っていなかった。最近あなた以外の船がこの港に泊まったことがあったとしても、彼らは痕跡一つ残さず去ったことになる。@{K}You walk the quays, looking for any little sign that might show what sort of ships dock here, and what they deliver. But you find nothing conclusive: not even so much as a smear of pitch or a damp footprint. If any ship but yours has been tied up here in recent days, it has left no evidence."
+      },
+      "Id": 127066,
+      "Name": "他の訪問者の痕跡を探す@{K}Search for signs of other visitors",
+      "Description": "これから何と対峙することになるのか事前に調べて損はないだろう。@{K}It never hurts to know what you are up against."
+    }
+  ]
+}

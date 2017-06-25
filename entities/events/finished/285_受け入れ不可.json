@@ -1,0 +1,17 @@
+{
+  "Id": 153580,
+  "Name": "受け入れ不可@{M}UNACCEPTABLE",
+  "Description": "スペースが無い。@{M}NO ROOM.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 153581,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 130589,
+      "Name": "粘土の機関士の離脱を見守る@{M}Watch the Clay Stokers depart",
+      "Description": "貴方にとり、彼らは此処では使い物にならない@{M}They are of no use to you here."
+    }
+  ]
+}

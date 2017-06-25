@@ -1,0 +1,47 @@
+{
+  "Id": 209722,
+  "Name": "第三章: 騎士としての矜持@{M}Chapter III: A Knight Out Of Habit",
+  "Description": "<i>執事長は私を、チキンウッドの裾が広がる島の南部へと連れてきた。道中、私達は大地の土と茸の肉を混ぜあわせた強化土塁の山を幾つも越えた。私の見立てでは、恐らく急ごしらえの防壁と言った所だろう。\r\n\r\n居住地は眩いばかりだった。島の此方側はどうやら、周囲を珊瑚の胞核で完全に覆われている様に思えた。テンジクネズミ達の住居は、銀色の燐光で溢れ返っていた。\r\n\r\nそれはとても大きな集落だった。とりわけ目につく物は座礁していた蒸気ピンネス - あれは'インポッシブル・ラム'か? - だった。テンジクネズミがひっきりなしに出ては入り、物資を作り出している様だった。船の右、船から少し距離を置いた浜辺の近くに、色とりどりの布の上に横たえられた多数のテンジクネズミが、苦痛に悶えるかのように唸り、泣いていた。船の左を見やれば傾いた支柱と布のテントが張られており、その前ではテンジクネズミ達が互いにぶつかり合いつつ歯を研ぎ澄ませていたようだった。\r\n集落の中心にはこれも色とりどりの布と花綱で覆われ、綺羅びやかな騎士達によって護られている壇があった。私は、この場所こそがグレースノウ王の議会が開かれる場所であろうと予想した。\r\n「改めて、島の首都であり我らが淑女の瞳の光に祝福されたテンジクネズミの王国へ、ようこそおいで下さいました船長さん。」執事長は厳かに、しかし言葉の外に悲しみを滲ませながら私を歓待した。「...今は違うかもしれませんが、またいずれそうなるべきなのです。さて、私は国王陛下に謁見し、船長さんの歓迎の儀を用意せねばなりません。ペイジにこの辺りを案内させます。そして準備が整い次第、国王陛下の元へとお連れしてくれるでしょう。ペイジ!」\r\n\r\n細長いパラボラ麻布で編まれた毛皮を身に纏った小さなテンジクネズミが突如現れ、一礼を施した。そして執事長はそれを見て自らの足で立ち去った。</i>@{M}$[Ss]cintillack -> シンティラック$<i>The Seneschal lead me to the southern side of the island, skirting the Chickenwoods. We passed through a number of raised mounds of earth mixed with fortifying strips of mushroom flesh, which I supposed to be makeshift walls.\r\n\r\nThe settlement was dazzling: this side of the island appeared to be absolutely wreathed in scintillack. The Cavies' dwelling was awash with silver phosphorescence.\r\n\r\nIt was a large colony; most noticeable was the steam-pinnace - the 'Impossible Lamb'? - that had run aground, from which Cavies came and went, bearing supplies. To the right of the ship, farther down the beach, a large group of Cavies lay on bundles of colourful cloth, whining and wailing as if in pain; to the left of the ship was a ramshackle tent of poles and linen in front of which guinea pigs clashed against each other and sharpened their teeth.\r\n\r\nIn the centre of the village was a covered dais, veritably festooned with colourful cloth and guarded by well-decorated knights. I suspected this was where King Gracegnaw kept council.\r\n\r\n\"Be welcome, Captain, in the Kingdom of Cavia, Capitol of our Isle and Blessed by the light of Our Lady's Eye.\" The Seneschal spoke solemnly, but with a hint of sadness to her words. \"Or so it was, and shall be again. I must speak with our King and prepare your arrival. My Page will show you the area, and bring you in sight of His Splendour in good time. Page!\"\r\n\r\nA much smaller guinea pig, its fur braided with a slender strip of Parabola linen, scurried over, and bowed. The Seneschal took her leave.</i>",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 209723,
+        "Name": "黒き死@{M}The Black Death",
+        "Description": "<i>老いた見た目のテンジクネズミが、厳粛そうな目つきで私を迎え入れてくれた。\r\n\r\n「儂等の大部分は大移動の最中に病に臥せってしもうた - 歯は抜け落ち、肉はやせ衰えた。この島は儂等が見つけたのじゃ。儂等の中で力強き者が我らが淑女の光の泉にたどり着くと、何という奇跡の中の奇跡か、彼らは立ちどころに回復しおった!彼らは彼女に浴し、彼女のもたらす甘露を飲み、そして力の回復した者が弱った者をそこまで連れて行った。程なく儂らは元気を取り戻し、子を成し育て上げ、我らが淑女の瞳を愛せよと教え、皆の自由な心をその光の中に見ておったのじゃ。」\r\n\r\n老鼠はそこまで話すと、悲しそうな、恨めしそうな目をして呟く。「じゃが、クマネズミ共が\"彼女\"を盗んでしもうてからは、病がまた戻って来てしもうた。今ある光は全て\"彼女\"の紛い物なのじゃが、儂等はこれでは何も得られぬ。これらを打ち破るは唯一つ -」老鼠の耳が畳まれ、声は憎々しげに潜まる。「儂等を助け得るは一つ - \"彼女\"を儂等から盗んだ不倶戴天のクマネズミ共の血肉じゃ。心臓であり、肝なのじゃ。」</i>@{M}<i>An elderly looking Cavy greeted me, eyeing me gravely.\r\n\r\n\"Many of us sickened during the voyage - a rotting in our teeth, a weakness in the flesh. This Isle was our salvation; the stronger among us made a pilgrimage towards the pool of Our Lady's Light, and then, miracle of miracles, they were cured! They bathed in Her, they drank Her sweet waters, and the strong brought the weak to Her in turn. Soon we were thriving again, bearing our children and raising them to love Our Lady's Eye and see in it our deliverance.\"\r\n\r\nThe elder looked sorrowfully at the sick under his care.\r\n\r\n\"Since the rats stole Her, the sickness has returned. All this light is but a mockery of Hers, and we gain from it no benefit. The only thing,\" the Elder's ears and voice flattened in a hiss, \"that helps our condition is the flesh - the very hearts and livers - of the rats who stole Her from us.\"</i>"
+      },
+      "Id": 164572,
+      "Name": "私は病院を訪れた@{M}I visited the hospital",
+      "Description": "このテンジクネズミ達は...隔離されている?@{M}Were those guinea pigs... quarantined?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 209949,
+        "Name": "白亜色の浜辺@{M}A chalky shore",
+        "Description": "<i>私が船を調査している間、ペイジは姦しく喋っていた。\r\n「クマネズミ!とんでもない!輝けるテンジクネズミがこの船を乗っ取ったんですぜ!俺はここで生まれた島テンジクネズミの第一号ですが、老いぼれ共は全員あの大移動を覚えてる筈です。それは辛かったそうですが、俺達の方がもっと辛いんですよ!しかしジーは暗く冷たかったそうで、俺達は長い間暗闇の中を彷徨い、誰もその頃のひどい話を話そうとしねぇんです。そんな暗闇の中に俺達の淑女の瞳の光がまるで導きの灯の様に俺達を照らし、この俺達の島まで連れて来てくれたんだ!もし俺達がもう一度瞳を取り戻す事が出来た暁には、もう一度波に乗ってみようと思うんです。どうです、素晴らしいとは思いませんかね?」\r\n\r\nかつてはそうだったのかもしれないが、私の見た所この船の船体は胞核の珊瑚礁によってひどく損なわれていた。彼ら自身では手の施しようも無い程に、ボロボロであった。ペイジが何と言おうと、彼らは此処で\"座礁した\"事は間違いが無かった。</i>@{M}$[Ss]cintillack -> シンティラック$<i>The Page chittered while I inspected the vessel.\r\n\r\n\"Rats! Never! The Splendour of Cavy overtook this vessel! I was born here, the first Native of Cavia, but all our elders remember the voyage. It was hard, they say, but we were harder! But the Zee is black and unkind; we were lost in the dark for weeks, and no one speaks of those terrible times. But out of the darkness came the light of Our Lady's Eye, guiding us here, to our own Isle! In time we will ride the waves again, perhaps, once we have recovered our Eye. Is it not splendid?\"\r\n\r\nIt certainly may have been, at one time, but I could see the hull had been severely damaged by the scintillack reef; there was no way the Cavies could hope to repair it themselves. Whatever the Page said, they were stranded here.</i>"
+      },
+      "Id": 164708,
+      "Name": "私は浜辺にある蒸気ピンネスを訪れた@{M}I visited the steam-pinnance on the beach",
+      "Description": "これは本当に'インポッシブル・ラム'だったのか?クマネズミによって食い荒らされたのでは無かったか?@{M}Was this indeed the 'Impossible Lamb'? Wasn't it reported overrun by rats?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 209950,
+        "Name": "勝算を磨く夜@{M}Evening the odds",
+        "Description": "<i>ペイジは私を兵舎に案内してくれたが、そこに居る騎士達は私のような薄汚れた者に語る口を持たなかった様だ。しかし、ペイジは私の質問に早速答えようとしてくれた。\r\n「クマネズミ共は武器を持ってません!話すまでも無い事ですが。弾丸の無い銃が一体何だというのか?刃の付いていない剣のようなものです!俺達には物資もあり、武器もあり、食料も栄光もある!確かに彼らの牙は鋭いです、それは事実です。一方俺達は...」ペイジは騎士達の苦々しい一瞥で一瞬言い澱んだ。「...俺達の牙はもっと鋭い!我らがテンジクネズミの花園院に賞賛あれ!」\r\n\r\n騎士の一匹がブツブツと無関心を装いつつ呟く中、もう一匹が自分の前歯を砥石で研ぎ澄ましながら準備をしていた。私が見ていると、特に激しい一撃が前歯全てを一気に叩き折っていた。前歯は地面に落ち、赤黒い鮮血が地面を汚していた。騎士は苦悶の喘ぎを漏らし、歯を手にとって視界から消えた。別の騎士が、何か言いたいことが有るなら言ってみろと言わんばかりの睨みを私にくれていた。@{M}<i>The Page led me to the Barracks, where the Knights didn't deign to speak to one so undecorated as I. The Page, however, was eager to answer my questions.\r\n\r\n\"The rats have no weapons! None to speak of. What is a gun without a bullet? A sword without a blade! Ours are the supplies, the knives, the soft-stuffs and the glory. Their teeth are sharp, it is true, while ours ... \" The Page hesitated as the Knights glowered at him. \"...are sharper! All praise to the Flowers of the House of Cavy!\"\r\n\r\nOne Knight preened while another grunted indifference, working a whetstone along its top front teeth. As I watched, a particularly vigorous swipe knocked a whole incisor out of place. It landed on the ground in a black and bloody mess.\r\n\r\nThe Knight gasped, grasped the tooth, and vanished from sight; another glared in a way that dared me to make something of it.</i>"
+      },
+      "Id": 164709,
+      "Name": "私は兵舎を訪れた@{M}I visited the barracks",
+      "Description": "武装した力強いクマネズミに対して、テンジクネズミに果たしてどんな勝算が有るのだろうか?@{M}What chance could guinea pigs stand against the weaponed might of the Rattus Faber?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 209951,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 164710,
+      "Name": "私は探索を終えた@{M}I had seen enough",
+      "Description": "私が王に謁見する時間がやって来たようだ。@{M}It was time for my audience with the King."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Id": 178722,
+  "Name": "父親の遺骨: 無事に海岸へ@{M}$Your Father's Bones: -> 父の遺骨:$Your Father's Bones: Safe Harbour",
+  "Description": "貴方は故郷に戻ってきた。彼も...だ。@{M}You are home, and so is he.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 178724,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 145323,
+      "Name": "勝利です! ...父親の遺骨を取り戻して引退する。@{M}VICTORY! ...Retire with your Father's Bones restored",
+      "Description": ""
+    }
+  ]
+}

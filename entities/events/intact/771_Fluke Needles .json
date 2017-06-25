@@ -1,0 +1,17 @@
+{
+  "Id": 243688,
+  "Name": "Fluke Needles ",
+  "Description": "A cluster of quivering spines shiver in the current. A dead fluke's flesh dissolves in water. These brittle remnants, however, remain stony-hard. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243689,
+        "Name": "You don your diving gear",
+        "Description": "You struggle to drag the skeleton free. The spines quiver. Above you, one breaks, falls like a spear. You raise your hands to ward it off. A tearing - your suit? The sudden sensation of cold water on your skin; a blazing pain... An abrupt, overwhelming injection of indignation, and rage, and grief!\r\n\r\nYour crew reel you in, tends your wound, and locks you in your cabin until you stop shrieking."
+      },
+      "Id": 186133,
+      "Name": "Remove something stuck on the spines",
+      "Description": "An unfortunate diver? Bones hang, impaled on the decaying spines.\r\n[Beware: if you fail, you will gain a Wound.]"
+    }
+  ]
+}

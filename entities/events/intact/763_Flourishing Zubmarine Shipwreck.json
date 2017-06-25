@@ -1,0 +1,27 @@
+{
+  "Id": 243604,
+  "Name": "Flourishing Zubmarine Shipwreck",
+  "Description": "Results depend on A Discovery! quality. This is a placeholder. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243605,
+        "Name": "To Anthe ",
+        "Description": ""
+      },
+      "Id": 186085,
+      "Name": "crystal people ",
+      "Description": "On their way! "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243606,
+        "Name": "Away from Anthe ",
+        "Description": ""
+      },
+      "Id": 186086,
+      "Name": "crystal fugitives ",
+      "Description": "Run away! "
+    }
+  ]
+}

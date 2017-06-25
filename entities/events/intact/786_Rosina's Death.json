@@ -1,0 +1,17 @@
+{
+  "Id": 245052,
+  "Name": "Rosina's Death",
+  "Description": "Her animescence is at its peak. She can no longer resist.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 245053,
+        "Name": "There's only just time to witness it",
+        "Description": "The onlookers know what is about to happen. They draw closer around her, murmuring. Two of them hold hands.\r\n\r\nThen — combustion. The flames catch, so hot and sudden that they vaporize Rosina's ice-water bath in an instant. The bonfire, the smoke, the searing aroma fill the chamber. The ceiling goes black with smoke. \r\n\r\nAfterwards, the bath contains wet ash and a prism of rose-quartz spleen. "
+      },
+      "Id": 187058,
+      "Name": "Watch",
+      "Description": "Even if you wanted to, you would not be able to leave the chamber quickly enough to avoid seeing what comes next."
+    }
+  ]
+}

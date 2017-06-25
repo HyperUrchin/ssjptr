@@ -1,0 +1,167 @@
+{
+  "Id": 120801,
+  "Name": "黒眼鏡の提督@{I}黒眼鏡の総督@{M}$Dark-Spectacled Admiral -> 黒眼鏡の提督$The Dark-Spectacled Admiral ",
+  "Description": "　あなたはマンションズ・パイアの外れにある彼のオフィスに案内された。そこは巨大な机のある狭苦しい部屋で、彼はその机越しにあなたを眺め渡した。「ああ、なるほど。商船の船長だな。君についてはとても込み入った事柄を耳にしているよ」[あなたの持っている情報を提督に売ることができます。]@{I}貴方は館の奥にある総督の執務室に案内された。大きな机の置かれた - それ故に - 窮屈な部屋だ。彼は貴方をデスク越しに、品定めするかの様に一瞥する。「ああ、ようこそ。何やら複雑な事情があるという商人船長だな。」[総督は貴方から諜報を買い取ります。]@{M}$Mansion's Pyre -> マンションズ・パイア$You're ushered into his office off Mansion's Pyre: a cramped room with a vast desk. He surveys you across that desk. \"Ah yes. The merchant-captain of whom we hear such complicated things.\" [The Admiral will purchase intelligence from you.]",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 120802,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 109938,
+      "Name": "港湾報告書を提出する@{I}港湾レポートを提出する@{M}$Port Report -> 港湾報告書$Submit your Port Reports",
+      "Description": "「それで、遠い地の毎日の様子はどのようなものかね？」[訪れた港を調査することで港湾報告書を作成できます。それらは、ここで売ることができます。]@{I}[港を訪れて調査して作成された港湾レポートは、ここで交換が可能です。]@{M}$Port Report -> 港湾報告書$\"And what is the day-to-day like on those farther shores?\" [Visit and investigate ports to gain Port Reports, and trade them in here.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 121898,
+        "Name": "見えない両目@{I}見えない視線@{M}Invisible eyes",
+        "Description": "　眼鏡のせいで彼の表情は読み取りづらかったが、それでも、彼が要旨を熱心に読み込んでいることは分かった。「申し分ない」遂に彼は言った。「実際、極めて満足のいくものだ。良い仕事をしてくれた。ご苦労だった。これを取っておきなさい。事務官が君への支払いを取り計らうだろう」@{I}彼の顔色は、その眼鏡によって窺い知る事は困難だったが、彼はその概略を食い入る様に読んでいる。「申し分無い。」やがて、彼はそう言った。「大いに満足なレポートだ。良くやった。慰労金としてこれを受け取るが良い。事務官がお主に支払いをするだろう。」@{M}He's hard to read, with those glasses, but he reads the summary intently. \"Satisfactory,\" he says at last. \"Eminently satisfactory, actually. Good work. Take this for your trouble. The clerk will see you paid.\""
+      },
+      "Id": 110629,
+      "Name": "戦略的情報を渡す@{I}戦略情報を渡す@{M}$Strategic Information -> 戦略的情報$Pass on Strategic Information",
+      "Description": "　指先を合わせて、平静を装いながらも、提督は居住まいを正した。@{I}総督は上体を起こしているが、指を絡めながら鷹揚に振舞っている。@{M}The Admiral sits up, although he steeples his fingers and pretends calm."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144823,
+        "Name": "「情報を」@{I}\"情報だ。\"@{M}\"Information.\"",
+        "Description": "「どこであれ港を訪れたなら、そこでの港湾報告書に我々は興味を持つだろう。我々が特に関心を抱いている場所に向かうのであれば、そこで手に入る戦略的情報にも我々は興味を持つだろう。報酬は弾むよ。心配はいらない。君も帝国への愛のためだけに活動することを期待されては困るだろう。そこは我々も理解している」彼は唇を歪めた。「帝国というか、帝国の残りだがね」@{I}「港を訪れ、作成された港湾レポートに我々は興味がある。一般的に価値あると思われる場所を来訪し給え。そしてその場所で戦略情報を得てレポートにまとめるのだ。心配せずとも、支払いは十分に行おう。帝国への愛着などでお主が行動を起こす訳が無いというのは、我々も重々に承知しておるよ。」彼の唇が釣り上がる。「では、そこに何が残るか...だ。明白だとは思わんかね。」@{M}$Port Report -> 港湾報告書, Strategic Information -> 戦略的情報$\"Visit a port, and we'll be interested in the Port Report. Visit places of particular interest, and we'll be interested in the Strategic Information you gain thereby. We will pay you well, don't worry. We understand you can't be expected to act entirely for the love of the Empire.\" His lip curls. \"What's left of it.\""
+      },
+      "Id": 125023,
+      "Name": "彼が何を必要としているのか尋ねる@{I}彼が望む物を尋ねる@{M}Ask what he needs",
+      "Description": "　提督の望みを見出せ。@{I}総督の望む物を見つけよ。@{M}Discover the Admiral's desires."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 145171,
+        "Name": "注意深い精査@{I}注意深い検査@{M}A careful inspection",
+        "Description": "　彼はレンズを通して海図を詳細に検査していた。(彼が眼鏡を外していないことに、あなたは気づいた。)「合格だ」彼は言った。「通常の報酬が適用される」@{I}彼はゆっくりと時間をかけ、レンズを通して海図を眺めていた。(彼は黒眼鏡を取ろうとはしなかった。)「これは検閲に合格した。一般的な費用が適用される。」やがて、彼はそう告げた。@{M}He scrutinises the chart minutely through a lens. (He doesn't, you notice, remove the dark spectacles.) \"It passes muster,\" he remarks. \"The usual fee applies.\""
+      },
+      "Id": 125251,
+      "Name": "啓示による海図を提出する@{I}未発見の海図を渡す@{M}$Revelatory Chart -> 啓示による海図$Submit a Revelatory Chart",
+      "Description": "　それが真実かどうか確かめてみよう。@{I}その海図が本物であるか調べよう。@{M}Let's find out if it's real."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 147505,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 126755,
+      "Name": "ウルフスタック・ドックスに戻る@{I}ウルフスタック桟橋に戻る@{M}$Wolfstack -> ウルフスタック, Wolf -> ウルフ, Wolfstack Docks -> ウルフスタック・ドックス$Return to Wolfstack Docks",
+      "Description": "　提督の部屋は暗く、風通しが悪い。zeeの空気が必要だ。@{I}総督室は暗く、ゴミゴミとしていた。貴方にはジーの空気が必要だ。@{M}The Admiral's room is dark and stuffy. You need zee-air."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149327,
+        "Name": "偽りなき当惑@{I}率直な当惑@{M}Honest bewilderment",
+        "Description": "「私には内容の半分も理解できないが、しかし興味深い。興味深いことだ。地獄が分かたれたままであるならば、それは我々にとってまったくの好都合だ。たとえそれが些細なことだとしてもな。君はこの情報を持ち込むために、多くの危険を冒したに違いない。我々の感謝を示そう」@{I}「私にも半分理解出来たかどうか。しかし、これは興味深い。とても興味深い事だ。もし地獄が分かたれたままであれば、これは我々にとって大きく有利だ。どんな些細な事も助けになるだろう。これを持ち帰るに、相当な危険があった事だろうと思う。我々は感謝の印を形で示そう。」@{M}\"I can hardly understand half of this. But it's interesting: it's interesting. If Hell stays divided, it's to all our advantage, and every little helps. You must have risked much to bring us this. Let us show our appreciation.\""
+      },
+      "Id": 127956,
+      "Name": "ブリムストーンのうなりを提出する@{I}硫黄の噂を渡す@{M}$Brimstone Buzzings -> ブリムストーンのうなり$Submit Brimstone Buzzings",
+      "Description": "　これは提督にとって、どんな意味を持つだろうか？@{I}これは総督にどのような意味をもたらすのか?@{M}What will it mean to the Admiral?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149328,
+        "Name": "「この港へ――」@{I}\"この港に -\"@{M}\"This port - \"",
+        "Description": "「そこで我々の諜報員と接触し、帰還するのだ。報酬が支払われるだろう」[下に示された港を訪れ、ロンドンに帰還しましょう。詳細は日誌からいつでも確認することができます。]@{I}「此処に居る我々の局員に接触し、そして戻って来て欲しい。そこでお主は報奨を受け取るだろう。」[下記の港湾を訪問し、ロンドンに戻って来ましょう。日誌で何時でも詳細を確認する事が出来ます。]@{M}\"Speak to our agent there, and return. We'll see that you're rewarded.\" [Visit the port below and return to London. You can check the details in your Journal at any time.]"
+      },
+      "Id": 127957,
+      "Name": "彼がとりわけ情報を求めている場所があるか尋ねる@{I}彼が特段必要としている手助けが無いか尋ねる@{M}Ask if there's anything in particular he needs",
+      "Description": "「そうだな、君の裁量を信頼してよいのであれば――」@{I}「ふむ、もしお主が慎重な者だと確信出来るのであれば -」@{M}\"Well, if I can be assured of your discretion - \""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149329,
+        "Name": "",
+        "Description": "　彼はあなたに全文を二度繰り返させた。彼はメモを取らなかった。「これは少し私の領分を越えているな」彼はあなたに言った。「だが、興味を持ちそうな友人が王宮にいる。とても興味を持つだろう。ありがとう。報酬だ」@{I}彼は貴方に全てを2回繰り返させた。彼はノートを取っていない。「成程、些か私の手には余る。」率直に彼が言う。「しかし王宮にはこれに興味を持ちそうな友人が居る。しかし面白い話だった。礼を言おう。これが報酬だ。」@{M}He has you repeat it all twice. He doesn't take notes. \"It's a little beyond me,\" he tells you, \"but I have a friend in the Palace who'll be interested. Very interested. Thank you. Your fee.\""
+      },
+      "Id": 127958,
+      "Name": "グレート・ゲームの動向について話す@{I}グレートゲームでの動きについて話す@{M}$Moves in the Great Game -> グレート・ゲームの動向$Speak of Moves in the Great Game",
+      "Description": "　噂によると――@{I}囁きを -@{M}Whispers - "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149330,
+        "Name": "",
+        "Description": "　小箱を開き、中に注意深く梱包されている蜜の瓶を見て、提督の表情は曇った。「あの悪党のラフルズは日に日に大胆になってきている」彼は呟いた。「何か手を打たなければならない。しかし、いかにしてこの――あぁ。またの機会に。この汚らわしいものを持ってきてくれたことを、海軍省として感謝している」@{I}箱を開け、厳重に封をされて中に入っていた蜂蜜の瓶を見た時、彼の顔は隠しようもなく曇った。「あの忌々しい悪党どもは日に日にやることが大胆になっているな。」彼が低く唸る。「何とかせねばならんだろう。しかしどうすれば...ああ、それはまた別の機会に考えるとしようか。この様な汚らわしい物を此処に持ち込んでくれて、総督として感謝の言葉を述べようか。」@{M}$Admiralty -> 海軍省$His expression clouds when he opens the casket and sees the honey-vials packed carefully within. \"That blackguard Raffles grows bolder by the day,\" he mutters. \"Something must be done. But what to do about - ah. Another time. The Admiralty's thanks for bringing this filthy stuff in.\" "
+      },
+      "Id": 127959,
+      "Name": "紅い蜜の入った積荷を引き渡す@{I}赤蜂蜜の荷物を提出する@{M}Turn in your shipment of red honey",
+      "Description": "　これは法で極めて固く禁止されている。おそらく提督は、あなたがこれをどこで手に入れたのか聞きたがるだろう。@{I}それは厳重に取り締まられており、総督はそれがどういうルートで流通しているのか、その情報を欲しがるだろう。@{M}It is very firmly proscribed; the Admiral will probably be quite eager to hear where you came by it."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149331,
+        "Name": "興奮した頷き@{I}熱を帯びた頷き@{M}Enthusiastic nods",
+        "Description": "「君がこの情報を私に報告してくれたことを嬉しく思う。つまり……分かるだろう。通りを二つ越えたところの、私達双方の知己ではなく、ということだ。我々は、我々にできることをやろう」[黒眼鏡の提督はロンドンに忠誠を誓っています。彼に機密情報をもたらすことで、政治的な力関係が変化することがあります。]@{I}「...お主が知る\"あの者\"ではなく私にこれを持ち込んでくれた事は喜ばしい事だ。通りを2つ隔てた所に居る、我々が知るあの者...か。我々は我々に出来る事を為そう。[黒眼鏡の総督はロンドンに忠誠を誓っています。この諜報を彼にもたらす事によって、政治的均衡に変化を与えるきっかけになる場合があります。]@{M}$Dark-Spectacled Admiral -> 黒眼鏡の提督$\"I'm glad you brought this to me, rather than... you know who. Our mutual acquaintance, two streets over. We do what we can.\" [The Dark-Spectacled Admiral is loyal to London. Bringing intelligence to him will shift the political balance, sometimes.]"
+      },
+      "Id": 127960,
+      "Name": "重要機密を提出する@{I}重大な諜報を提出する@{M}$Vital Intelligence -> 重要機密$Submit Vital Intelligence",
+      "Description": "「何だね？報告してくれ。早く！」[重要機密は、2つの戦略的情報から作り出すことができます。また、諜報網や他の機会を通して入手できることもあります。]@{I}「それは一体何だ?早く教えるが良い!」[重大な諜報は2つの戦略情報から作成が可能です。もしくは諜報網やその他の機会から得られる事があります。]@{M}$Strategic Information -> 戦略的情報, Vital Intelligence -> 重要機密$\"What's that? Tell me, quickly!\" [Vital Intelligence can be created from two pieces of Strategic Information, or earned through spy networks and some other opportunities.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 173951,
+        "Name": "あからさまな渋面@{I}率直な怒り@{M}A frank scowl",
+        "Description": "「倫理観の欠如した悪党だ」提督は噛みつくように言った。「情報があるなら、私のところに持ってくるんだ。帳簿外のところに行くんじゃない」@{I}「無節操なならず者だ。」総督は舌打ちした。「もし諜報を持っているなら、私に持ってくるのだ。決して目先の利に囚われるで無いぞ。」@{M}\"An unprincipled scoundrel,\" the Admiral snaps. \"If you have intelligence, bring it to me. Don't go off the books.\""
+      },
+      "Id": 142296,
+      "Name": "貪欲な外交官についての提督の考えを尋ねる@{I}総督に貪欲な外交官についてどう考えているか尋ねる@{M}$Voracious Diplomat -> 貪欲な外交官$Ask the Admiral what he thinks of the Voracious Diplomat",
+      "Description": "　外交官――海軍省との繋がりが不明瞭な、半ば伝説的で、極めて悪名高い人物。@{I}外交官 - 半ば伝説的な、悪名高いその外観を持つ者は、総督府との繋がりが不明瞭である。@{M}$Admiralty -> 海軍省$The Diplomat - a half-legendary, all-infamous figure whose connection to the Admiralty is obscure."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 173993,
+        "Name": "興奮した頷き@{I}熱を帯びた頷き@{M}Enthusiastic nods",
+        "Description": "「君がこの情報を私に報告してくれたことを嬉しく思う。私にはとある同僚がいるのだ。ある意味な。つまり、外交官のことだ。いわゆるな。これは私が君を信頼しているからこそ言うのだが、この『外交官』という奴は、私よりも金払いが良いだろう。だがな、私なら奴よりも良い目的のために君の情報を利用してみせる」彼は身体を前に乗り出した。「この世界には、私には話すことのできない力がある。海軍には、私には誇ることのできない状況がある。このような情報をもっと私のところに持ってくるのだ。そうすれば、我々で始末をつけられる」@{I}「お主がこれを私に持ち込んでくれて喜ばしい。私には同僚の様な者が居る。外交官など、そう言った者がな。これは私がお主を信じるから言うんだが...確かに'外交官'の方が情報を高く買うだろう。しかしその情報をより有効的に使う事が出来るのは、私だ。」彼は身を乗り出し、続ける。「この世界には、口には出せぬが力が働いている。海軍には、私が良しとせぬ醜聞があるのだ。この様な情報をもっと持って来るのだ。さすれば、事態を正しい方向へより戻す事が出来よう。」@{M}\"I'm glad you brought this to me. I have a colleague, of sorts: a diplomat, so-called. I will tell you because I trust you: this 'diplomat' will pay better, but I will put the information to better use.\" He leans forwards. \"There are powers in this world I cannot speak of. There are affairs of the Navy I am not proud of. Bring me more information like this, and we can set matters right.\""
+      },
+      "Id": 142324,
+      "Name": "重要機密を提出する@{I}重大な諜報を提出する@{M}$Vital Intelligence -> 重要機密$Submit Vital Intelligence",
+      "Description": "「何だね？報告してくれ。早く！」[重要機密は、2つの戦略的情報から作り出すことができます。また、諜報網や他の機会を通して入手できることもあります。]@{I}「それは一体何だ?早く教えるが良い!」[重大な諜報は2つの戦略情報から作成が可能です。もしくは諜報網やその他の機会から得られる事があります。]@{M}$Strategic Information -> 戦略的情報, Vital Intelligence -> 重要機密$\"What's that? Tell me, quickly!\" [Vital Intelligence can be created from two pieces of Strategic Information, or earned through spy networks and some other opportunities.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 177542,
+        "Name": "「ああ、そのような報告があった」@{I}\"ああ。確かに報告は上がっている\"@{M}\"Yes. There was a certain report.\"",
+        "Description": "「王喰らいの城。世界の果ての、がらんどうの神殿だ。君の父はそこへ向かった。帰ってくるつもりでそこへ巡礼に行く者はいない。どういうわけか、そこから帰ってこれた巡礼者はいないのだ」<br/><br/>「彼らはそこに留まったと聞いている。その更に先に踏み込んだのだ、という話もある。痛ましい場所だよ、船長。王喰らいの城。そこへの巡礼者は痛ましいことをする。もし行くのなら、愛する者を連れていてはいけない」[王喰らいの城は地図の遥か南東にあります。そこへ向かいましょう。そうしなければならないのであれば。]@{I}王喰いの城。世界の果てにある、無人の寺院だ。お主の父親はそこに向かった。戻るつもりの有る者があの場所に巡礼で向かう事は、先ず無い。一方通行なのか他の理由なのか、巡礼者が帰還した事は無いのだ。」\r\n\r\n「そこに向かった者は皆留まる、という話を聞いた事がある。そこに辿り着いた後、更に遠くへ向かった、という話もあった。キャプテン、王喰いの城は、痛ましき場所なのだ。そこで巡礼者は悲しむべき事を行っているそうだ。もし行くつもりなら、お主が愛しく思う者は誰も連れて行かぬ事だな。」\r\n[王喰いの城は地図上で南東の果てにあります。もし行かねばならないなら、そちらへ向かいましょう。]@{M}$Kingeater's Castle -> 王喰らいの城$\"Kingeater's Castle. The empty temple at the end of the world. Your father went there. No one makes the pilgrimage there if they intend to return. One way or another, no pilgrim returns home.\"\r\n\r\n\"I have heard that they stay. I have also heard that they go on, somewhere even further. It is a regrettable place, Captain, the Kingeater's Castle; and its pilgrims do regrettable things. If you go, do not take any who are dear to you.\" [The Kingeater's Castle is in the far south-east of the map. Go there, if you must.]"
+      },
+      "Id": 144580,
+      "Name": "『嘆かわしい最期』@{I}'哀れな最期'@{M}'A deplorable end'",
+      "Description": "　パルテニウム・クラブで、提督はあなたの父親と、その『嘆かわしい最期』についてのヒントを漏らした。提督は何を知っているのだろうか？@{I}パルテノン会館に於いて、総督は貴方の父親と、その'哀れな最期'についてヒントを遺した。総督は何を知っているのだろう?@{M}$Parthenaeum Club -> パルテニウム・クラブ$At the Parthenaeum Club, the Admiral dropped hints about your father, and about his 'deplorable end'. What does the Admiral know?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180168,
+        "Name": "",
+        "Description": "　提督は眼鏡を外すと、折り畳んで机の上に置いた。そこに隠されていた彼の両眼は、透き通った、染みひとつない青色だった。彼は眼が正常『ではない』と思わせるために眼鏡を着用しているのだろうか？<br/><br/>「私は願っていた」彼は言った。「君が信頼に足る存在であることを。君は私の信頼に応えてくれた。もっと良い報酬を支払ってやれればと思う。しかし、ニュー・シークエンスが我々をキヅタのように縛りつけているのだ。ありがとう。君は真の愛国者だ」@{I}総督は眼鏡を外し、折り畳んで机の上に置いた。眼鏡の奥にあった彼の目は済んでおり、確かな青色を湛えていた。もしや、彼はその瞳が普通<i>ではない</i>事を暗示する為に眼鏡をかけているのだろうか?\r\n\r\n「...私は」彼が口を開く。「お主が信じるに足る人間だと思っていたし、お主はその信頼に十分応えてくれた。お主の働きに報いるにもっとましな報酬をもってしたいが、新しきシーケンスが蔦の様に我らを絡め取っているのだ。感謝しよう。お主こそ真の忠士である。」@{M}The Admiral removes his spectacles, folds them, places them on the desk. Behind them, his eyes are a clear and steady blue. Does he wear the spectacles to suggest his eyes are <i>not</i> normal?\r\n\r\n\"I had hoped,\" he says, \"that I could trust you. You have repaid my trust. I wish I could reward you better than this, but the New Sequence strangles us like ivy. Thank you. You are a true patriot.\""
+      },
+      "Id": 146140,
+      "Name": "王立海軍にメメント・モリを売却する@{I}死の象徴を王立海軍に売却する@{M}$Royal Navy -> 王立海軍, Memento Mori -> メメント・モリ$Sell the Memento Mori to the Royal Navy",
+      "Description": "「ああ、良いぞ！もしもこれが君の語る通りの代物なら、私の権限で購入を認可できる。対価としては、そうだな、1000エコーを」ひょっとしたら、あなたは少し失望しているように見えたのかもしれない。「そして、永遠なる女王陛下からの、永遠なる感謝を。ロンドンには、これが必要なのだ」@{I}「何という幸運だ!それがもし、お主が言う事を全て実現出来ると言うなら、そうだな...総督たる私の名において1000エコーを支払う約束をしよう。」その時、貴方の顔に軽く失望の色が走ったのかもしれない。「...それに加えて、我らが忍耐強き女王陛下の謝意も与えられよう。ロンドンはそれを切望する。」@{M}\"My God, yes! If it can do everything you claim, I can authorise a payment of - let's see - one thousand Echoes.\" Perhaps you looked a little disappointed. \"And her Enduring Majesty's enduring gratitude. London needs this.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180627,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 146422,
+      "Name": "生計の援助？@{I}生計援助をして貰えないか?@{M}Assistance with subsistence?",
+      "Description": "　旅の費用を埋め合わせるための少しの燃料を、海軍省が提供してくれるかどうか尋ねる。 [これを選択するとドックに向かいます。1ポイントの好意を消費して2~3個の燃料を受け取ることができます。]@{I}燃料を経費として融通して貰えないか総督に尋ねる。[この選択肢は貴方を乾ドックへ移動させ、そこで'貸し'1ポイントに付き燃料を2-3個入手出来ます。]@{M}$Admiralty -> 海軍省$Ask if the Admiralty can provide a little fuel to cover your costs. [This will take you to the Drydock, where 1 point of Favour will get you 2-3 Fuel.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181853,
+        "Name": "「一理ある」@{I}\"お主の言う事も一理ある。\"@{M}\"You have a good point.\"",
+        "Description": "「そして、他に行ってもらいたい場所もある――」@{I}「では、他の場所で役に立って貰おうか -」@{M}\"And we could use you elsewhere - \""
+      },
+      "Id": 147210,
+      "Name": "「私をあの××みたいな氷結城に送るのはやめていただけませんか？」@{I}\"私をあの忌＿＿い氷結城になどよこさないで下さい。\"@{M}$Frostfound -> 氷結城$\"Please don't send me to b___dy Frostfound.\"",
+      "Description": "　提督の良心に訴えかけるのだ。彼のオフィスへのこれまでの貢献を思い出させるのだ。氷結城は遥か遠く、凍てつくように寒く、そしておそらく誰もが非協力的なのだ。@{I}もっとましな方法がある事を総督に伝える。彼に対して積み上げてきた過去の実績を強調する。氷結城は遥か遠くにあり、凍える様な寒さで、十中八九誰もあの場所では協力など覚束ないだろう。@{M}$Frostfound -> 氷結城$Appeal to the Admiral's better nature. Remind of your past services to his office. Frostfound is far away and freezing cold and in all probability no one there will cooperate."
+    }
+  ]
+}

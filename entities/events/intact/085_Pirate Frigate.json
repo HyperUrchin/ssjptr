@@ -1,0 +1,27 @@
+{
+  "Id": 144248,
+  "Name": "Pirate Frigate",
+  "Description": "Corsairs in outdated cockade hats cram the decks of the ship, yelling threats and insults.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 144249,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 124660,
+      "Name": "Fight!",
+      "Description": "They've brought it on themselves..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144250,
+        "Name": "Quick enough",
+        "Description": "Their captain's as wily as you. Too close, too late. Begin."
+      },
+      "Id": 124661,
+      "Name": "Flee!",
+      "Description": "You might yet escape. How quick are they?"
+    }
+  ]
+}

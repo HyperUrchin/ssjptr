@@ -1,0 +1,27 @@
+{
+  "Id": 121899,
+  "Name": "安まらぬ夜@{M}眠れぬ夜@{I}Restless nights",
+  "Description": "　夜警のさなか、あなたは船員居住区に続くハッチのそばを、足音を立てないように通り過ぎた。その時、一人の男が、眠ったまま、必死そうなくぐもった叫びを上げた。更にもう一人が続いた。@{I}夜の見張りの最中、船員の寝室の前を忍び足で通り過ぎようとした時、男が寝ながら絶望めいた啜り泣きをしているのを貴方は聞いた。そして、また別の男も。@{M}In the watches of the night, you pad softly past the hatch to the crew quarters. A man cries out softly in his sleep, desperately. Another. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 121901,
+        "Name": "朝食の席での沈黙@{I}沈黙の朝食@{M}Silence at the breakfast table",
+        "Description": "　船員たちは食事を摂ると落ち着いた。しかし、次の当直の時間には皆黙っていた。@{I}船員は食事を取る事で些か和らいだようだ。しかし、次の時間には全員押し黙る事になる。@{M}The crew is subdued as they take their meals. But all is quiet in the next watch."
+      },
+      "Id": 110631,
+      "Name": "無視する@{I}無視しろ@{M}Ignore them",
+      "Description": "　船長がこのようなことを深刻に捉えているのを見られるわけにはいかない。@{I}船長という存在はこんな物を真剣に受け取るようには見えない。@{M}The captain can't be seen to take these things seriously."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 121900,
+        "Name": "「目と顔が……」@{I}\"目と顔が...\"@{M}\"Eyes and a face...\"",
+        "Description": "「Neath全体がスナッファーの顔みたいに照らされたんです！天蓋に何かがいます、船長！天蓋です！そいつが俺たちを見てるんです！目と顔が！目と顔が！」<br/><br/>　あなたは彼を落ち着かせた。今回は罰則はなしだ。だが、あなたは一等航海士に、彼の様子に注意しておくよう言いつけた。@{I}「地下全体が何やらおかしいんですよ!滅茶苦茶に明るいんです!天井に何かいやがるんですよ船長!天井です!何かこっちを見てやがる!目と顔が!目と顔が!」\r\n\r\n貴方は彼を落ち着かせた。今回は咎めないが、副船長には彼を見張っているように申し付けた。@{M}$Officer -> オフィサー, Snuffer -> スナッファー$\"The whole Neath lit up like a Snuffer-mask! There's something in the roof, Captain! It is the roof! It's watching us! Eyes and a face! Eyes and a face!\"\r\n\r\nYou have him subdued. No discipline this time, but you require your First Officer to keep an eye on him."
+      },
+      "Id": 110630,
+      "Name": "翌朝、彼らの夢について尋ねる@{I}翌朝に彼らの見た夢を問い質す@{M}Enquire about their dreams the next morning",
+      "Description": "　彼らは何を見たのだろうか？@{I}彼らは一体何を見たのか?@{M}What did they see?"
+    }
+  ]
+}

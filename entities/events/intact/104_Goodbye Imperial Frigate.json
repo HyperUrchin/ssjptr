@@ -1,0 +1,37 @@
+{
+  "Id": 144332,
+  "Name": "Goodbye Imperial Frigate",
+  "Description": "...",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 144335,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 124712,
+      "Name": "Scuttle her",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 155762,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 132006,
+      "Name": "Record any Observations",
+      "Description": "If you've gathered enough, you may learn something..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144333,
+        "Name": "Here it is.",
+        "Description": "Not much at present."
+      },
+      "Id": 124711,
+      "Name": "Send home with a prize crew",
+      "Description": ""
+    }
+  ]
+}

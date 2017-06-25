@@ -1,0 +1,17 @@
+{
+  "Id": 233396,
+  "Name": "土壇場の準備@{I}Last-Minute Preparations",
+  "Description": "　マトン・アイランドは大騒ぎだ。村人たちは数え切れないほどのおつかいを抱えて走り回っている。オーブンで魚を焼いた匂いが風に乗って運ばれてくる。地元民たちは家のしっくいを塗り直している。村にはたくさんの旗が張り巡らされている。<br/><br/>　浜辺に降りると、音楽隊が練習をしていた。その向こう、島の周囲の岩がちな砂州の中では、ドロウニーたちが集まり始めていた。@{I}$Drown(y|ies) -> ドロウニー$Mutton island bustles. Villagers scurry on countless errands, and the smell of baking fish wafts from ovens. Locals touch up the whitewash on their cottages. Bunting crowns the village.\r\n\r\nDown on the shore, a band practices. And beyond, among the rocky shoals around the island, Drownies begin to congregate.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 233397,
+        "Name": "準備中@{I}In the way",
+        "Description": "　やっとのことで、あなたは庇護者であるシェフの注意を少しだけ引くことができた。「Zeeよりの収穫祭だよ！」彼はあなたに言った。「三十回目だ！三十が約束され、三十が届けられた！そして、今度はかの難解なる王様が、私たちの良き島にお越しになるのだよ！」<br/><br/>　彼は、山積みにされた旗の下で悪戦苦闘する、大慌ての漁民に向き直った。「これであるだけ全部ですか？もっと旗を持ってきなさい！」彼は金切り声を上げた。「もっと旗を！」今のマトン・アイランドからは、あなたは何も得られそうになかった。@{I}$Mutton Island -> マトン・アイランド$You manage to get a few moments' attention from the Custodial Chef. \"It's the Fruits of the Zee festival!\" he tells you. \"The thirtieth! Thirty were promised, thirty delivered! Now his Complexity comes to visit our fair island!\" \r\n\r\nHe turns to a hurrying fisherman, who struggles under a mound of bunting. \"Is that all there is? More bunting!\" he screeches. \"More bunting!\" You'll get nothing from Mutton Island at the moment. "
+      },
+      "Id": 179374,
+      "Name": "何が起こって――@{I}Ask about-",
+      "Description": "「ごめんよ！今忙しすぎてね！王様がお越しになるんだ！」あなたは別の相手を探した。@{I}\"Sorry! Much too busy! A royal visit!\" You look for someone else."
+    }
+  ]
+}

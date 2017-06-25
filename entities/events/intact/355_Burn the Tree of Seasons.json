@@ -1,0 +1,27 @@
+{
+  "Id": 167355,
+  "Name": "Burn the Tree of Seasons",
+  "Description": "A deep breath. A moment to collect your thoughts. Even if you escape alive, it will not be without cost.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 167357,
+        "Name": "A Weaver smiles as you warm yourself",
+        "Description": "She suspects nothing. None of them do. There's probably still time. Time enough not to rush."
+      },
+      "Id": 138392,
+      "Name": "On second thoughts...",
+      "Description": "Even if it went well, you might not survive the reprisal."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 167356,
+        "Name": "For the fallen! For those who-",
+        "Description": "Tearing a torch from the wall, you throw it deep into the Tree of Seasons. The ancient webs catch fire instantly, spreading quickly as the screams of the captives join those of the Weavers and Widows and the burning spider-council in a cacophony of pain and anger and fury and gratitude.\r\n\r\nThe sorrow-spiders surge as one, tearing your flesh into ribbons as you flail helplessly towards the cliffside in a cloak of legs and fangs. The black zee embraces you, salting the wounds until unconsciousness beckons. If you're lucky, you'll be fished out by a friendly face. For now, there is only the memory of a nightmare not yet escaped."
+      },
+      "Id": 138391,
+      "Name": "Yes! Burn the Tree of Seasons!",
+      "Description": "The tree, the spider-council, the island itself if you can!"
+    }
+  ]
+}

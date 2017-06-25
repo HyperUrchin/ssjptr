@@ -1,0 +1,57 @@
+{
+  "Id": 141247,
+  "Name": "ボロを纏った同胞@{M}A Raggedy Fellow",
+  "Description": "「[q:Addressed As]！わしゃあ良い船乗りだぞ！わしを雇ってくれるなら、あんたの下で働こう。雇ってくれるかね？わしは腹が空いとるんだ。きりきり働くからよ」彼は十分に働けそうに見える。ややみすぼらしく、悲しみに暮れているようではあるが。@{I}「やぁキャプテン!俺は良いジーマンだぜ!俺を拾ってくれたら、俺はあんたの物だ!拾ってくれるだろう?俺は腹が減ってるんだ。良い仕事するぜ。」彼の言葉に偽りは無さそうだ。少々ボロを纏って悲観的だが。@{M}\"[q:Addressed As]! I'm a good zeeman! I'm yours if you'll have me! Will you have me? I'm hungry. I'll work hard.\" He seems likely enough, if a little ragged and sorrowful.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 141248,
+        "Name": "チャンスを与える@{M}Taking a chance",
+        "Description": "「後悔なんぞさせませんぜ!俺は他人の倍は働きやしょう!誰に聞いたって良い、彼らは俺の事を良く知ってる筈です!」彼は貴方が喋るのを止める様に諭すまで喋り続けた。彼の熱狂的な態度は見ていて清々しく、哀れですらあった。[この選択は他に更なる影響を与えるかもしれません。]@{M}\"You won't be sorry! I'll work double watches! Ask anyone, they'll tell you I have a good name!\" Yes, yes. Eventually you get him to stop talking. His enthusiasm is promising, if a little pitiable. [There may be further effects from this decision.]"
+      },
+      "Id": 122724,
+      "Name": "彼を連れて行く@{M}Take him with you",
+      "Description": "3本目の腕で握手したほうが良いかも知れない。@{M}You could use an extra hand."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 141249,
+        "Name": "自棄っぱちな絶叫@{M}Desperate ranting",
+        "Description": "「ああ、お前さんは本物のキャプテンじゃねぇ。ジーマンを救わねぇなんて。もしお前さんがアイレムからの最後の船長なら、俺はお前さんの船のベッドなんて要りませんや。聞いてるか?ちゃんと聞いてるか?俺は先ず洞窟スライムでも喰いますわ!」@{M}$Irem -> アイレム$\"Eh, you're no true captain, to abandon a zeeman so. I wouldn't want take a berth on your ship if it were the last one out of Irem. You hear me? You hear me? I'd eat cave-slime first!\""
+      },
+      "Id": 122725,
+      "Name": "彼を此処に放っておく@{M}Leave him here",
+      "Description": "不審者を雇うのは博打に過ぎる。船乗りのナリをした何かの話も聞いた事がある。もしくは単純に、貴方は彼の顔つきが気に入らないのかもしれない。@{M}Strangers are too chancy. You've heard stories about things in the shape of sailors. Or you just don't like his face."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149105,
+        "Name": "肩をすくめる@{I}仕方ない@{M}A shrug",
+        "Description": "「あいや。聞く前から分かっちゃいたんですがね、それでも聞いてみたんでさ。じゃぁキャプテン、俺の祈りだけでも受け取ってくだせぇ。俺の事を覚えてて下すって、ええ、空きが出来た時には俺を是非とも雇い入れてくれるって期待してますぜ?」彼の言葉はジー訛りでひどいが、まぁ、次があるなら覚えて置くと念を押した。次が本当にあれば。@{M}\"Aye. I knowed afore I asked, but I hoped yet. Well then, captain, take my blezzing. You'll remember me another time, eh, when you have a berth zpare for a good zailor what knows his way?\" He's laying it on a bit thick with all the z's, but perhaps next time, you assure him, perhaps."
+      },
+      "Id": 127820,
+      "Name": "空きがない@{I}空きが無い@{M}No room",
+      "Description": "　あなたの船は定員いっぱいだ。空きはない。@{I}今は満員だ。雇い入れるスペースは無い。@{M}You have a full complement. No space."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181573,
+        "Name": "熱狂的な握手@{M}An enthusiastic handshake",
+        "Description": "「ありがてぇ...キャプテン!俺がしてやれるのはお祈りと(ボロボロだが)、この外套ぐらいだ(本当にボロボロだが、かつては上質なハン王国の品だったようだ)。航海の安全を!」@{M}$Khan -> カーン, Khanate -> カーネイト$\"Thankee captain! All I can give ye is my blessing (poor raggedy thing) and this cloak (raggedier yet, but it was good Khanate work once). Zafe zees to ye!\""
+      },
+      "Id": 147012,
+      "Name": "彼に通行料を支払う@{M}Pay his passage home",
+      "Description": "あくまで寛大に振る舞おう。@{M}An act of generosity."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149069,
+        "Name": "無駄@{I}使えない@{M}No use",
+        "Description": "　誰であったにせよ、彼はもう行ってしまった。船員は肩をすくめた。「どこかで知った奴でしたよ。知っとる顔は多いもんで」@{I}彼が何者だったかは解らないが、彼は居なくなった。貴方の部下は肩を竦める。「あいつの事は知ってたぜ。顔は広いんだ。」@{M}Whoever he was, he's gone. Your zailor shrugs. \"Knew him from somewhere. Know a lot of faces.\""
+      },
+      "Id": 127805,
+      "Name": "突然の懸念@{I}突然の懸念@{M}A sudden apprehension",
+      "Description": "　あなたの左側にいる船員を見るや、彼は振り返り、暗闇の中へと駆け出していった。追いかけよう！@{I}彼が貴方のすぐ側に別の船乗りを見るや、彼は踵を返して暗闇に逃げ出した。彼を追え!@{M}$Aft -> 後部$When he sees the zailor on your left, he turns and bolts into the darkness. After him!"
+    }
+  ]
+}

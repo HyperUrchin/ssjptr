@@ -1,0 +1,167 @@
+{
+  "Id": 143349,
+  "Name": "鋼鉄の共和国@{M}$Iron Republic -> アイアン・リパブリック$Iron Republic",
+  "Description": "工場のエンジンは偽りの獅子の如くに吠え猛る。血液が音を立てながら、桟橋のパイプを通って行く。深紅の稲妻が甲板を駆け巡り、船側に飛び乗り、まるで猫のようにその場で丸まっている。鏡のように静かな水面を持つ海岸に反射したこの街の住人は、頭部が犬や蛇のような人種であった。\r\n\r\n地獄がこの鋼鉄の共和国に自由をもたらした。全ての法からの自由であり、自然の法則も例外では無かった。@{M}$Iron Republic -> アイアン・リパブリック$Factory-engines roar like false lions. Blood thunders in the dock-pipes. Crimson lightning skitters across the deck, leaps to the rail, curls there like a cat. The city is reflected in glassy-calm harbour water: the citizens there have the heads of dogs and serpents.\r\n\r\nHell has brought freedom to the Iron Republic: freedom from all laws, even those of nature.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 143350,
+        "Name": "",
+        "Description": "桟橋に接舷すると、貴方の恐怖は接舷橋に向かって飛んで行く。彼らは霧消した。そこに残された油っぽい屑を集めよう。[恐怖が高ければ、より多くの断片を集める事が出来ます。]@{M}As you touch the dock, your fears leap fondly into your waiting arms. They dissolve. Gather the oily scraps they left. [The higher your Terror, the more Fragments you've received.]"
+      },
+      "Id": 124074,
+      "Name": "\"聞いて...\"@{M}\"Listen.\"",
+      "Description": "貴方の恐怖は埠頭に並び、まるで古くからの恋人のように手を振り貴方を待っている。@{M}Your fears line up on the quay, waiting, waving like old lovers."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143351,
+        "Name": "開かれた扉@{M}An open door",
+        "Description": "街は柱を砕かれた寺院\r\n時から時へ難解な思い滑らせ\r\n男は言霊の迷宮の中に己が道を見出し\r\n自身の瞳を捕まえり。\r\n\r\n...何があった?これに金を払ったのか?何故これに金を払ったのだ?@{M}The city is a temple where shattered columns\r\n\r\nLet slip from time to time impossible thoughts;\r\n\r\nMan finds his way through labyrinths of words\r\n\r\ncapture his own eyes.\r\n\r\nWhat happened? Did you pay for it? Why did you pay for it?"
+      },
+      "Id": 124075,
+      "Name": "船乗りに上陸と休憩を許可する。@{M}Allow your zailors time ashore",
+      "Description": "[これによって恐らく恐怖が上がります。また、恐ろしい別の何かが起こってしまうかもしれません。]@{M}Do they need shore leave this badly? [Probably this will increase your Terror. Perhaps something else horrible will happen.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 159711,
+        "Name": "新しい一日の始まり@{M}A new day comes",
+        "Description": "[ショップを訪れましょう。その後、蠅の議会はここから居なくなります。代わりに、共和国がズッペと物資を探し求めるでしょう。]@{M}$Aft -> 後部$[Visit the Shops tab. After this visit, the Parliament will no longer be here: the Republic will seek zzoup and supplies instead.]"
+      },
+      "Id": 134384,
+      "Name": "飢えし者の市場: 蠅の議会@{M}MARKET OF HUNGERS: The Parliament of Flies",
+      "Description": "螺旋と紋様に象られた、飢えし者の市場、これはバザールを模しているのだろうか?今日、拱廊は蠅で満たされている。ブーン、ブーン。@{M}The Market of Hungers, with its spires and sigils. Is it a parody of the Bazaar? Today, flies fill its arcades. Buzz, buzz."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 159712,
+        "Name": "",
+        "Description": "[ショップを訪れましょう。その後、受難主義はここから居なくなります。代わりに、共和国がズッペと物資を探し求めるでしょう。]@{M}$Aft -> 後部$[Visit the Shops tab. After this visit, the Doctrine will no longer be here: the Republic will seek wine and honey instead.]"
+      },
+      "Id": 134385,
+      "Name": "飢えし者の市場: 受難主義@{M}MARKET OF HUNGERS: the Calvary Doctrine",
+      "Description": "今日の様な日には、責め苦を受けし龍や、待機せし法などが市場にひしめいている。彼らは歓迎の意を表している。@{M}On days such as this, the Market is filled with crucified dragons and laws-in-waiting. They whistle a welcome."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 159713,
+        "Name": "",
+        "Description": "[ショップを訪れましょう。その後、受難主義はここから居なくなります。代わりに、共和国が骨を探し求めるでしょう。]@{M}$Aft -> 後部$[Visit the Shops tab. After this visit, the Doctrine will no longer be here: the Republic will seek bone instead.]"
+      },
+      "Id": 134386,
+      "Name": "飢えし者の市場: ゲサントハイトの陰謀@{M}MARKET OF HUNGERS: the Gesundheit Conspiracy",
+      "Description": "今日の市場は、'地獄の品'という看板が掛けられている。恐らく明日もだろう。@{M}'HELL PROVIDES' reads the sign above the Market of Hungers, today. Perhaps tomorrow, too."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 159772,
+        "Name": "",
+        "Description": "[ショップを訪れましょう。その後、エクスパルサスはここから居なくなります。代わりに、共和国がズッペと物資を探し求めるでしょう。]@{M}$Aft -> 後部$[Visit the Shops tab. After this visit, the Expulsus will no longer be here: the Republic will seek zzoup and supplies.]"
+      },
+      "Id": 134422,
+      "Name": "飢えし者の市場: エクスパルサス@{M}MARKET OF HUNGERS: the Expulsus",
+      "Description": "今日は共和国が骨を搔き入れ、魂を吐き出している。貴方も今日は魂を集めに来たのか?@{M}Today the Republic inhales bone, exhales souls. Are you here to gather the souls?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 159956,
+        "Name": "事実と虚構と@{M}Fact and fiction",
+        "Description": "共和国の出来事を記録するのは - 怒りを謳歌するか、水を信じるにも似ている。貴方は出来る事をする。三行目で貴方は目を疑う。日付が根本的に間違っている。終止符を打つか迷う。<i>貴方は出来る事をする。</i>@{M}To record the Republic's events - it's like trying to sing wax or believe water. You do what you can. The third paragraph buds eyes. The date is fundamentally wrong. The full-stops bite. <i>You do what you can. </i>"
+      },
+      "Id": 134536,
+      "Name": "港湾報告書をまとめる@{M}$Port Report -> 港湾報告書$Compile a Port Report",
+      "Description": "全ては真っ直ぐに、正直に作られていなかった。通りは直線ではなく、インク壺から目を離した隙に、インクはたちまち凍りついてしまうのだ。@{M}It won't be entirely straightforward. The streets won't lie straight, and the ink freezes whenever you look away from the inkwell."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 159959,
+        "Name": "苦い味@{M}A bitter taste",
+        "Description": "貴方は何かを - 何かを書いていた。貴方の手が痙攣を起こす。貴方の口には、蜂を食べたかの様な不愉快な味が満ちる。貴方の舌は焼けつく様だ。貴方の喉はとても痛い。この場所は、おかしい。@{M}You've written - you've written something. Your hand cramps. Your mouth is thick with a vile taste, as if you had been eating wasps. Your tongue burns. Your throat is sore. This place is not right."
+      },
+      "Id": 134538,
+      "Name": "港湾報告書をまとめる@{M}$Port Report -> 港湾報告書$Compile a Port Report",
+      "Description": "全ては真っ直ぐに、正直に作られていなかった。通りは直線ではなく、インク壺から目を離した隙に、インクはたちまち凍りついてしまうのだ。@{M}It won't be entirely straightforward. The streets won't lie straight, and the ink freezes whenever you look away from the inkwell."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 177005,
+        "Name": "漆黒のイカロス@{M}$Icarus in Black -> 黒のイカロス$Icarus in Black",
+        "Description": "「全ては終わった。肉体は重要ではない、分かるか?それは情熱だ。教訓なのだ。魂は槍の如くに研ぎ澄まされる。全ての槍がそうだ。怪物の心臓に突き立てろ。俺は怪物が好きではないと言ったか?そう、怪物!奴らを俺の為に殺せ。俺の武器を使って。前に進み、マウントノーマッドを打ち砕け。そうだ。」@{M}$Mt Nomad -> マウント・ノマド$\"IT IS DONE. The flesh is not important, you see? It's the passion. The lessons. The spirit forged like a spear. All the spears. Into the hearts of monsters. Did I mention I don't like monsters? Monsters! Kill them for me. With my weapon. Go forth, and crack Mt Nomad. Yes.\""
+      },
+      "Id": 144276,
+      "Name": "くすくす笑う技術者の計画に投資する@{M}Fund a Tittering Artificer's Project",
+      "Description": "「...準備はほぼ整った。ああ、ああ、<i>ほぼ整ったのだ</i>。しかし後少々。試作品を持っていけ。準備が済んだらな。それを使って、殺せ。如何ほどのダメージを与えられるか知りたいのだ。攻撃の手段は少々難儀だろう。代償も高く付く。ああ、結構高く付く。しかし武器は武器だ。そう!武器だ!」[これは前甲板に取り付ける武器で、変わった性質を持っています。]@{M}$Forward -> 前部$\"...nearly ready yes yes <i>nearly ready</i> I need more. You can have the prototype. When it's done. Take it, kill with it. I want to see what damage you can do. Ammunition will be difficult. It will cost you so much. So much. But the weapon. Oh! the weapon!\" [This is a Forward-mounted weapon with unusual characteristics.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180105,
+        "Name": "船へようこそ!!@{M}Welcome aboard!!",
+        "Description": "「ああ、これは興味深いな。改良の余地がある！改良の余地はいつだってあるけどね！待って、メモを取らないと。紙をこちらに！！」[オフィサーのタブで新しいオフィサーを画面上部の枠へとドラッグして役割につけましょう。これは海の上でなく港で行うべきです。さもないと船員たちが動揺してしまうかもしれません。]@{K}「ああ、これは面白いわね。改良の作業に使える部屋だわ!改良をする為に部屋は何時でも必要なの。待って...ノートを取らせて。紙は何処!」[新しい幹部に役職を任命する場合は、ドラッグをして画面上からスロットに移動させましょう。これは海上ではなく港で行いましょう。さもなければ船員に不安を与えるかもしれません。]@{M}$Officer -> オフィサー$\"Oh, this is interesting. Room for improvement! There's always room for improvement. Wait: let me make notes. Paper!!\" [Appoint your new Officer by dragging them from the Officers tab to his slot at the top of the screen. Do this in port, not at sea, or you may unsettle your crew.]"
+      },
+      "Id": 146105,
+      "Name": "幹部として勧誘する: 堪え性の無い砲撃手@{M}$Officer -> オフィサー$Engage an Officer: the Irrepressible Cannoneer",
+      "Description": "「[q:Addressed As]！砲手を探してる？こっちは船を探してるとこなんだ！この推薦状をどうぞ見てみて！！なんならもっとあるよ！！それと音をたてる砲弾の設計図もね！！こちらは仕事仲間！（彼は船には乗らないよ。）そしてこれは手！！！雇ってくれるかな？」[砲撃手はアイアンを大幅に上昇させるGunnery Officerです。]@{K}「ねぇ、[q:Addressed As]!砲撃手を探しているの?私は船を探しているの!これが私の経歴よ!!足りなきゃこの経歴も出すわ!!これが吹鳴貝の設計図よ!!この子が私の同僚!!(最も彼は浜に残るが)これが私の手よ!!!さぁ、取ってくれるわよね?」[砲撃手は砲撃幹部で、アイアンを大いに上昇させます。]@{M}$Officer -> オフィサー$\"[q:Addressed As]! Are you looking for a gunner? I'm looking for a ship! Here are my references!! Here are more references!! Here's my design for a whistling shell!! Here's my colleague!! (He'll stay on shore.) Here's my hand!!! Will you take it?\" [The Cannoneer is a Gunnery Officer who substantially increases Iron.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180109,
+        "Name": "目覚め@{M}An awakening",
+        "Description": "砲撃手と技術者は審判の卵を印章の上に置くと、様々な器具を用いて何事かを行った。技術者の部屋の明かりが薄暗くなっていく。そうか、これが魂の叫ぶ声なのか……\r\n\r\n仕事の終わった時には、卵は破片となり印章は少しだけどこかが変わっていた。それはどことなく用心深そうに見える。技術者は砲撃手と握手を交わした。「あなたと共に働いていた日々が懐かしいわ」彼女は言う。「とてもね」\r\n\r\n砲撃手は例の笑みを浮かべた。「あと少しで完成だ！もう船橋に装備することもできるよ、もしそうしたいならね。でもこれ以上の使い方をしたいなら外装を作らないと。ハートメタル製の外装だよ。それが作れそうな知り合いはだいぶ前にいたんだけど……彼は第三基地に行ってしまったらしい。（噂によると、泳いで行ったんだってさ。）第三基地まで行けたなら、彼のところに案内するよ」\r\n\r\n「いや、第三基地がどこにあるかは知らないんだ。機密でね」@{K}砲撃手と技術者は、審判の卵をシールの上に置き、彼らの様々な機材を取り付けている。技術者の作業室を照らす光は淡く明滅している。そして、それは時折、魂が叫ぶかのような音を発していた。\r\n\r\n彼らが事を終えた時、卵は砕け散っており、シールの見た目がそれまでとは少し違っていた。そこには少しばかりの用心深さがあった。技術者はそれを見て、砲撃手の手を取って喜ぶ。「私は貴方と仕事が出来て本当に良かったわ。」彼女が言う。「本当に、本当に良かった。」\r\n\r\n「もう少しだ!俺達はこれを艦橋に積む事が出来る。もしそう望むんならな。ただし、それ以上活用したいなら、俺達には家が必要になるな。それは心金属である必要もあるだろう。俺は遥か昔、一人の男を知っていた...が、彼はステーションIIIに行ってしまったと聞く。(話によれば、彼は泳いで行ったそうだ)もしお前が俺達をステーションIIIまで連れて行ってくれるなら、俺があいつをお前に引き会わせてやろう。」\r\n\r\n「ああすまん。ステーションIIIが何処にあるのかは分からない。秘密なんだ。」@{M}$Station III -> 第三基地, [Hh]eartmetal -> ハートメタル$The Cannoneer and the Artificer place the Judgements' Egg on the Seal, and apply their instruments. The light in the Artificer's chamber grows dim. This, then, is what it sounds like when a soul screams...\r\n\r\nWhen they're done, the Egg lies in shards, and the Seal looks little different, but there is a watchfulness about it. The Artificer shakes the Cannoneer's hand. \"I've missed working with you,\" she says. \"I've missed it so much.\"\r\n\r\nThe Cannoneer grins that grin. \"Nearly done! We can mount it on the bridge, if you like. But we'll need a housing if we want to use it further. It'll have to be heartmetal. I knew a man, long ago... but I hear he went to Station III. (Swam there, the story says.) If you can get us the run of Station III, I can get you in to see him.\"\r\n\r\n\"No, I don't know where Station III is. It's a secret.\""
+      },
+      "Id": 146108,
+      "Name": "印章を目覚めさせるためにくすくす笑う技術者の助けを求める@{K}シールを目覚めさせる為にくすくす笑う技術者の助けを得る方法を探す@{M}Seek a Tittering Artificer's help to awaken the Seal",
+      "Description": "「此処の人たちのことは知ってるよ！」砲撃手はあなたに打ち明けた。「昔からね。うーん、昔の話はしない方が良いかもしれないな」@{K}「ここに居る人達を私は知ってるわ!」砲撃手が打ち明ける。「それはもう遥か前から。ん...もしかしたら昔の事は話さない方が良いのかも。」@{M}\"I know people here!\" the Cannoneer confides. \"From the old days. Hm. Perhaps we shouldn't talk about the old days.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180169,
+        "Name": "\"ええ、それを渡して。\"@{M}\"YES. GIVE IT TO US.\"",
+        "Description": "荒々しい目つきの預言者の名付人はメメントを、かご一杯の邪悪で奇妙な物体と引き換えに購入する。「私はこれを使いましょう。」彼女はそう約す。「私はこれを私の為に使います。」@{M/k}荒々しい目つきの預言者の名付人は死の象徴を、かご一杯の邪悪で奇妙な物体と引き換えに購入する。「私はこれを使いましょう。」彼女はそう約す。「私はこれを私の為に使います。」@{M}A Wild-Eyed Prophet-Namer purchases the Memento for a cart-load of weird and sinister objects. \"I will use it,\" she promises you. \"I will use it for me.\""
+      },
+      "Id": 146141,
+      "Name": "アイアン・リパブリックの買い手にメメント・モリを売り渡す@{K}鋼鉄の共和国に居る購入者に死の象徴を売り渡す@{M}$Iron Republic -> アイアン・リパブリック, Memento Mori -> メメント・モリ$Sell the Memento Mori to a purchaser in the Iron Republic",
+      "Description": "アイアン・リパブリックは政府を持たず、代表者も居ない。にも関わらず、ここには沢山の市民がおり、破壊のエンジンをひどく欲しがっている。[この選択肢で貴方は魅惑的な財宝、鏡封じの箱、ズッペ、悪魔骨の賽子を13個と、秘密を7つ手に入れる事が出来ます。]@{M/k}鋼鉄の共和国は政府を持たず、代表者も居ない。にも関わらず、ここには沢山の市民がおり、破壊のエンジンをひどく欲しがっている。[この選択肢で貴方は魅惑的な財宝、集光鏡箱、ズッペ、悪魔骨の賽子を13個と、秘密を7つ手に入れる事が出来ます。]@{M}$Iron Republic -> アイアン・リパブリック, Captivating Treasure -> 魅惑的な財宝, Devilbone Dice -> 悪魔骨の賽, Mirrorcatch Box -> 鏡封じの箱$The Iron Republic has no government, no representatives. But it has plenty of citizens eager to purchase an engine of destruction. [This will gain you a Captivating Treasure, a Mirrorcatch Box, a bowl of Zzoup, thirteen Devilbone Dice and seven Secrets.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181956,
+        "Name": "菌の恐怖@{M}Fungal horror",
+        "Description": "ブレミガンは勢い良く回転しながらタラップを降りる。埠頭に着地した時、2回驚いて跳ねたように見えた。他の個体はまるで仲間が船に上がる際に使節の代表が挨拶をするかのように上下に揺れ動いている。最初のブレミガンは人混みの中に消えていった。他の2つは、貴方の事を凝視しているかのように見える。あたかも、「ここで旅は終わりか?」と言いたげな態度で。@{M}$[Bb]lemmigan -> ブレミガン$The blemmigan spins boldly down the gang-plank. It seems startled when it meets itself on the quay, twice. Its duplicates bob solicitously, like ambassadors greeting their peers, and continue past it, up into your ship. The first blemmigan vanishes into the crowd. The other two peer up at you as if to say: are we <i>quite</i> finished here?"
+      },
+      "Id": 147279,
+      "Name": "ブレミガンを浜に揚げる@{M}$[Bb]lemmigan -> ブレミガン$Put a blemmigan ashore",
+      "Description": "自然の法則を侮っている地で、自然の力はどう振る舞うのだろう?@{M}How will nature fare in a place which defies its laws?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 223624,
+        "Name": "ほんのささやかな、自然法則の侵害@{I}A simple violation of nature's laws",
+        "Description": "「何と甘美な子どもだろう。そしてそこに問題がある。甘美さは永遠には続かないんだ。舌先に乗せるだけでほら、プフーッ、消えちゃう。駄目だねえ。ぜんぜん駄目だねえ。苦さだよ、かわいい[q:Sacks and Snow: The Snow Child's Name]。それが君に必要なものなのさ。氷も雪も解けなければならないものだが、ガチガチに固まった恨みつらみほどに長続きするものはない。君に私のお気に入りをひとつ分けてあげよう。我々の燃え盛るバラの匂いから決して逃れることを許されない、とある男から取り出したものだ」<br/><br/>　悪魔は、あなたには聞こえないようにして、何事かを囁いた。雪の子の顔は、それによって惹き起こされた恐怖で満たされた。悪魔は微笑んだ。「ご覧の通り！さて、それをきちんと保たせておくための、私のおすすめの場所は……おや、君たちはそれを何と呼ぶのだったかな。ハートメタル。それだ。聞くところによると、君たちの民は最近、それを使って愉快なほどに酷いことをやっているそうじゃないか。それもまったく間違った理由で。見習いとしては実に結構。我々は、覚え書きをいくらか分けてやることについて、真剣に再考してみなければいけないな。これを彼らに与えてやりなさい。我々からの賞賛を添えて」@{I}$Sacks and Snow: -> 袋と雪:, [Hh]eartmetal -> ハートメタル, Snow Child -> 雪の子$\"Such a sweet child, and there's the problem. Sweetness never lasts. A drop on the tongue, and pffft - gone. No good. No good at all. Bitterness, dear [q:Sacks and Snow: The Snow Child's Name], that's what you need. Ice must melt and snow must thaw, but nothing lingers quite like a good, hard grudge. Let me share one of my favourites, taken from a man who may never escape the smell of our burning roses.\"\r\n\r\nThe devil whispers something not for your ears. The Snow Child's face fills with captivated horror. The devil smiles. \"Just so! Now, to hold it in place, I recommend... oh, what do you call it? Heartmetal. Yes. I hear your people have been doing delightfully terrible things with it lately, and for all the wrong reasons. A fine apprenticeship. We really must reconsider sharing some of our notes. Take them this, with our compliments.\""
+      },
+      "Id": 173301,
+      "Name": "[q:Sacks and Snow: The Snow Child's Name]を助けてくれる者を探す@{I}$Sacks and Snow: -> 袋と雪:, Snow Child -> 雪の子$Seek help for [q:Sacks and Snow: The Snow Child's Name]",
+      "Description": "　小洒落た悪魔は、大喜びで[q:Sacks and Snow: The Snow Child's Name]の話を聞いていた。「おお、そうとも。私はまさしくその答えを知ってるよ。もちろん、笑ってしまうぐらいの対価をもらえるならば、だけどね」[シンティラックはプリンシプルズ・オブ・コーラルや、zeeの他の場所で見つけることができます。]@{I}$Sacks and Snow: -> 袋と雪:, Principles of Coral -> プリンシプルズ・オブ・コーラル, [Ss]cintillack -> シンティラック, Snow Child -> 雪の子$A dapper devil listens to [q:Sacks and Snow: The Snow Child's Name]'s story with glee. \"Oh, yes, I know just the thing. For a delightfully excessive price, of course.\"\r\n [Scintillack can be found in the Principles of Coral, and elsewhere around the Zee.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234722,
+        "Name": "",
+        "Description": "The Crotchety Tobacconist shakes your hand vigorously. \"I owe you my gratitude. This will be a fine place for us to produce more of those underwater beauties. By this time next year, should have the entire zee burning.\" He extracts a cigar from his seemingly bottomless case, but pauses before lighting it. \"Thank you again, my friend.\""
+      },
+      "Id": 180269,
+      "Name": "Parting with the Crotchety Tobacconist",
+      "Description": "He breathes in deeply and nods his approval. \"If I could wrap this place into a cigar, I'd be rich.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234723,
+        "Name": "",
+        "Description": "$Iron Republic -> アイアン・リパブリック, Fathomking -> ファザムキング$The Crotchety Tobacconist strides off your deck while glaring upward into the crimson lights of the Iron Republic. \"They'll help me here,\" he chunters. \"I'll make a working underwater cigar. Then a dozen, twelve dozen, no, more! From the Fathomking to the Empress, they will know me.\" As he departs, you catch: \"It'll burn; it'll all burn...\" The zailor seeing him onto the dock rolls her eyes, then smirks when she sees you've noticed."
+      },
+      "Id": 180270,
+      "Name": "Parting with the Crotchety Tobacconist",
+      "Description": "He sniffs the air, and sneers. \"What a foul stink. But I suppose this is where I must stay.\""
+    }
+  ]
+}

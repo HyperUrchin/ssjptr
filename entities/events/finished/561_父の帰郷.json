@@ -1,0 +1,17 @@
+{
+  "Id": 189558,
+  "Name": "父の帰郷@{K}Your Father's Return",
+  "Description": "あなたの支払った金によって状況は一変した。未亡人の配下の男は一礼して立ち去った。父は喜んであなたを抱擁し歓声を上げる。「俺の家族は世界一だな！」そして彼は顔を背けると、まったく彼らしいことに港の縁に屈みこみ海に嘔吐してすまなそうに笑ったのだった。@{K}The money changes hands. The Widow's man bows and departs. Your father embraces you delightedly. \"I have the best family in the world!\" he crows. He turns away, sags over the side and vomits decorously into the harbour. He grins apologetically.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 189559,
+        "Name": "二人の船長の功績@{K}The deeds of two Captains",
+        "Description": "酒と借金に溺れるようになる以前の父親は社交界でも評判の存在だった。あなたと二人合わせればその評判は伝説となる。海に消えた老船長と、彼を連れ戻すという不可能かと思われていた任務を達成した船長なのだから当然のことだ。あなたたちの元には伝記出版の依頼や様々な場への招待状、出資の提案が押し寄せた。あなたの父親は確かに悪臭がして無作法で、その上損得勘定でしか物事を見ないかもしれない。しかし、彼は同時に彼独特のやり方で愛情深く沢山の驚くべき物語を持ち、なにより本質的にあなたにとって害になる存在ではない。[あなたは名家の祖となりました。もしすでに跡継ぎを持っていない場合、ここで手に入れたことになります。そして、おめでとうございます！あなたの勝利です！]@{K}Your father's reputation was considerable, in the days before he fell into drink and debt. Together, you are a legend: the elder captain who was thought lost, and the younger captain who retrieved him, against all odds. You are besieged with biographies, invitations, offers of investment. It is true that your father is malodorous, ill-behaved and mercenary, but it is true, too, that he is affectionate in his way, full of astonishing tales, and fundamentally harmless.  [You have forged a dynasty to be proud of. If you didn't already have a Scion, you do now. And congratulations! You are victorious!]"
+      },
+      "Id": 151966,
+      "Name": "幸福な結末？@{K}A happy ending?",
+      "Description": "あなたの探求の旅の目的は達成された。ささやかなやり方ではあるが、あなたはUnterzeeを征したのだ。@{K}Your quest is done; in your own small way, you have conquered the Unterzee."
+    }
+  ]
+}

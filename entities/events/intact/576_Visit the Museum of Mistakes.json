@@ -1,0 +1,27 @@
+{
+  "Id": 193055,
+  "Name": "Visit the Museum of Mistakes",
+  "Description": "The Dadd Wing houses the Museum's collection of human remains. The curator - a gaunt tomb-colonist in immaculately laundered bandages - leads you through dim, twisting corridors, past dusty glass cases, sarcophagi, and tables of jumbled exhibits.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 193056,
+        "Name": "A transaction is not made",
+        "Description": "It is not made in the shadows by the exit, and when it is not complete, it is definitely not the Curator himself running dusty fingers across every curve of your little gift.\r\n\r\nThe Modiste examines the ushabti. \"Splendid. There is a small fragment of mirror embedded in the poor dear's left eye; a long story, which like most of the best stories involves explosives. When we are ready, I will send a challenge through Parabola. She will not be able to resist. The pain alone should provide sufficient incentive.\" [Use the ushabti at zee to summon the Pirate-Poet. You can also find her zailing an Alcaeus-class vessel on the Unterzee, should you require a rematch.]"
+      },
+      "Id": 153965,
+      "Name": "Acquire the Ender-Of-Critics' lost ushabti",
+      "Description": "The Museum of Mistakes would never be so crass as to consider trading such a valuable piece. Specifically, declares the Curator, here is the price it would not be so crass as to ask."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 193077,
+        "Name": "Cutting through the red tape",
+        "Description": "You quickly distract the Curator with a complicated question about Third City burial rites. The long answer is thankfully cut short by the Modiste's scalpel. It is mostly dust that spills to the floor, not blood.\r\n\r\nThe Modiste examines the ushabti. \"Splendid. There is a small fragment of mirror embedded in the poor dear's left eye; a long story, which like most of the best stories involves explosives. When we are ready, I will send a challenge through Parabola. She will not be able to resist. The pain alone should provide sufficient incentive.\" [Use the ushabti at zee to summon the Pirate-Poet. You can also find her zailing an Alcaeus-class vessel on the Unterzee, should you require a rematch.]"
+      },
+      "Id": 153986,
+      "Name": "Steal the ushabti",
+      "Description": "The Merciless Modiste has a simpler plan."
+    }
+  ]
+}

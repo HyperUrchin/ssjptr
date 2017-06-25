@@ -1,0 +1,27 @@
+{
+  "Id": 211456,
+  "Name": "A Dilemma on Pigmote Isle",
+  "Description": "The aide takes you deep into the Chickenwoods. \"A terrible state of affairs, Hairless Adviser. Our young pups turn from our traditions to new and foreign ways.\" He shudders as he points at something in the middle of the clearing. A crudely made jackal mask sits in a circle of sticks, a bead of scintillack carefully placed in each eye.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 211457,
+        "Name": "Patience",
+        "Description": "The aide examines the mask. He takes an experimental bite, then shivers. \"As you say, Hairless Adviser. We will turn a blind eye for now. Though I fear for our future. How can our pups hope to defend our shore if their hearts lie away from our culture?\""
+      },
+      "Id": 165646,
+      "Name": "Preach tolerance",
+      "Description": "There are stranger customs in the Neath."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 211458,
+        "Name": "A growing concern",
+        "Description": "The furry militia scours the town for other masks. They only find one, nailed to the head of a dead guard. No witnesses come forward."
+      },
+      "Id": 165647,
+      "Name": "Advocate stern measures",
+      "Description": "This can't be good. It must be stopped."
+    }
+  ]
+}

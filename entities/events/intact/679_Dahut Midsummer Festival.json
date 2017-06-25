@@ -1,0 +1,37 @@
+{
+  "Id": 238366,
+  "Name": "Dahut Midsummer Festival",
+  "Description": "The shadow of the Cathedral spire moves across the grass, but slowly, cast by no particular sun. When it gets to one edge of the grass, it stops and sweeps the other way.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 238367,
+        "Name": "Crush, bite. ",
+        "Description": "The cold rushes in on you. There is no light, no fruit, no imported summer. There are no lithe dancers. The shapes in the water aren't even fully visible, but they are not human, and they do not worship you. They are, at best, indifferent.\r\n\r\nTheir dance is sincere in its fashion, however. They celebrate the fruits of the sea. They welcome the newly drowned. They look forward to a day when Dahut is as large and as populous as Paris or London, with streets and streets of wrecked vessels and lost cargoes."
+      },
+      "Id": 182665,
+      "Name": "Wake",
+      "Description": "The little white flower offers its potency. Crush, bite."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238370,
+        "Name": "",
+        "Description": "[TBD: this requires a special outcome where you're stranded somewhere without your ship. And possibly a confirmation branch to make sure you're sure.]"
+      },
+      "Id": 182668,
+      "Name": "Linger indefinitely",
+      "Description": "There's nowhere else you'd rather be. Ever.\r\n [Warning: this will sacrifice everything you have earned. Do not do it if you are not absolutely certain.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238369,
+        "Name": "Pleasant company",
+        "Description": "The dancers bear you company all the long afternoon. In their delightful, bubbling voices, your companions recount your merits and your charms, several of which you had forgotten."
+      },
+      "Id": 182667,
+      "Name": "Linger",
+      "Description": "Why would anyone desire anything else? Here it is summer. [This will significantly reduce your Terror and may grant an unusual reward.]"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "Id": 243316,
+  "Name": "The Bell Tower",
+  "Description": "A shadowy space extends above your head. You can glimpse the rim of the bell, a dim circle of bronze. Ropes trail from its mouth. They're wet.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243317,
+        "Name": "A resonant delivery",
+        "Description": "One of the vergers glances up into the tower's heights. The other studies the prongs of his trident. \"Bell was here before we were. But it's not from the surface. Royal Navy brought it, they say. But not regulars. Deserters or something. Strange crew.\"\r\n\r\n\"What happens when you ring it?\" He exchanges glances with his companion. \"If you ring it, you'll find out.\""
+      },
+      "Id": 185894,
+      "Name": "Ask about the bell",
+      "Description": "The vergers seem more talkative now."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243322,
+        "Name": "A dark ascent",
+        "Description": "You scale the tower wall, feeling for each rung in the darkness. The ladder creaks. The bell ropes sway gently at your back as you ascend.\r\n\r\nSoon you are within reach of the bell. The metal shape is colossal in the confined space, its exterior still shiny despite, presumably, years beneath the zee. You lean over to look inside. The clapper is covered in a dark residue. And the interior seems soft, blackened, wrinkled. Covered in pieces of-\r\n\r\nSuddenly, you know what happens to those who ring the bell."
+      },
+      "Id": 185897,
+      "Name": "Examine the bell",
+      "Description": "A ladder runs up one side of the tower."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243325,
+        "Name": "Taken up",
+        "Description": "You close your hands around the glistening rope and pull. BONG. The noise reverberates around the narrow confines of the tower. As the bell swings, the rope tugs at your grasp. You cannot let go! Your feet lift off the ground and the walls flash past as you are yanked <i>inside</i> the bell-\r\nYou are light, all of you. The sun that turns; the touch that burns. The voice of fires and falling spires. The wheel within the wheel within the wheel, contemplating, constructing, consuming. Each click of the cog, the circles colliding and guiding-\r\n\r\nYou struggle free, and fall. The impact of your body on the cold floor slams breath back into your lungs. A verger looks around the door, and seems surprised to see you. He makes a superstitious warding gesture. \"Trespasser,\" he whispers."
+      },
+      "Id": 185899,
+      "Name": "Ring the bell",
+      "Description": "The ropes dangle within easy reach. [Do not do this.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243330,
+        "Name": "Spurned",
+        "Description": "You scramble up a few rungs of the ladder and stretch for the dangling rope. It swings away from your palm, slithering up into the bell's mouth. "
+      },
+      "Id": 185902,
+      "Name": "Ring the bell",
+      "Description": "The ropes have withdrawn, out of your reach."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 244827,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 186886,
+      "Name": "Leave the bell tower",
+      "Description": "There is nothing further to be done here."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 244823,
+        "Name": "Not fooled",
+        "Description": "\"A leak in the transept?\" The verger shakes his head. \"We inspect the seals every morning. What you might be seeing is bladder beetles. Always a problem down here. Body like a jellyfish. Sting like a jellyfish. Swarm like jellyfish would if there were two thousand of 'em. If you see something that looks like a leak down here, don't put your fingers in it. Oh yeah, and they get inside the zubs too.\"\r\n\r\nThe Parson lingers behind a nearby pillar, disappointed."
+      },
+      "Id": 186883,
+      "Name": "Smuggle in the Wandering Parson",
+      "Description": "The vergers look like forbidding, but they might fall for an ingenious ruse."
+    }
+  ]
+}

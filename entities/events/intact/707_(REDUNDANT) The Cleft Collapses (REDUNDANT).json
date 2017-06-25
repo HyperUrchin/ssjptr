@@ -1,0 +1,27 @@
+{
+  "Id": 240069,
+  "Name": "(REDUNDANT) The Cleft Collapses (REDUNDANT)",
+  "Description": "The place is shaking itself apart. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 240070,
+        "Name": "",
+        "Description": "<minor rewards>"
+      },
+      "Id": 183787,
+      "Name": "Save the nerveline",
+      "Description": "Someone will pay for this stuff."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 240071,
+        "Name": "",
+        "Description": "<minor rewards>"
+      },
+      "Id": 183788,
+      "Name": "Save the kids",
+      "Description": "Nooklings are tough; but not that tough."
+    }
+  ]
+}

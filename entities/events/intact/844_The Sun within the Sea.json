@@ -1,0 +1,27 @@
+{
+  "Id": 258596,
+  "Name": "The Sun within the Sea",
+  "Description": "We will travel East, beyond the dark, yawning, familiar abysses. The zee will be pulled by greater currents. Our sonar will ring out, but not return. We'll float in warmth, like children in a summer ocean.\r\n",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 258597,
+        "Name": "Clarification",
+        "Description": "Golden light will fill your vessel. It will glare through every porthole, peer under every door. Its scrutiny demands silence. Your words will burn, and turn to vapours. The light will pass through closed eyes. The sight will be too much, and the raw vulnerability of being examined and understood. We will have no choice but to turn back to Hideaway, where those who go too far can find sanctuary.\r\n\r\n"
+      },
+      "Id": 192920,
+      "Name": "The surrounding light",
+      "Description": "At first, the sea will still be the colour of an empty night, but then we'll be enveloped by  light. The colour of the water will change: rain-wet slate, then darkest jade, then deep rich green. Green as fresh emeralds. Green as remembered rivers."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258714,
+        "Name": "Salt's Song",
+        "Description": "Your zailors gather at the portholes. All are silent, until the bo'sun raises his voice in song. Your vessel ascends."
+      },
+      "Id": 192989,
+      "Name": "Once again, the surrounding light",
+      "Description": "Once again, the colour of an empty night. Then rain-wet slate, then darkest jade, then deep rich green. Emerald-green, river-green. We'll be enveloped by the light. "
+    }
+  ]
+}

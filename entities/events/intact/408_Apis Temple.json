@@ -1,0 +1,67 @@
+{
+  "Id": 169902,
+  "Name": "Apis Temple",
+  "Description": "The priests gather around the bull, capturing its blood in cups.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 169903,
+        "Name": "Bad question",
+        "Description": "The question displeases the priests. How ill-omened, even to suggest that the bull might die!\r\n\r\nIf it does die, of course (says one in an aside), there will be another born with the same markings, if not on Visage itself, then somewhere around the Unterzee. Apis is never gone, but sometimes his spirit goes astray. \r\n\r\nTo show you the sort of markings they mean, they lift its tongue, and show you the jewel-coloured scarab on the underside. It looks more like a tattoo than a birthmark.\r\n\r\nThe bull rolls its eyes and pulls its head away."
+      },
+      "Id": 139879,
+      "Name": "Ask whether the bull will be all right ",
+      "Description": "It doesn't look well."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169905,
+        "Name": "Perhaps not",
+        "Description": "The priests are not impressed with the offer. Moon-Moths are not supposed to partake in commercial or religious endeavours. Besides, it's plain from your offer that you don't understand the requirements for identifying the Apis bull, including the important rule that there can be only one at a time."
+      },
+      "Id": 139881,
+      "Name": "Offer to sell them a new, undamaged bull",
+      "Description": "You could arrange an import through the proper contacts."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169906,
+        "Name": "The priests don't prevent you.",
+        "Description": "But they aren't precisely pleased, either. In fact, they are highly suspicious of why Moon-Moth would want such a thing until you explain that you need it to educate some especially ignorant and impious visitors.\r\n\r\nThen they let you go ahead."
+      },
+      "Id": 139882,
+      "Name": "Collect some of the blood for yourself",
+      "Description": "Perhaps it is a holy relic. Perhaps it could be sold as one to unsuspecting buyers elsewhere."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169907,
+        "Name": "Impeccable",
+        "Description": "The tokens are small and not very valuable, as suits your lower rank in the community. The priests arrange them on a table with other small items. \r\n\r\nAs you go out, you pass by the more impressive gifts: drafting tools from the Chief Geometer, scales from Jackal, a heap of foreign coin brought home by Crocodile."
+      },
+      "Id": 139883,
+      "Name": "Leave a respectful token of offering",
+      "Description": "Even wounded, it remains a god."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169908,
+        "Name": "You alone may act",
+        "Description": "The priests would be suspicious of anyone else who did this. But you, as Moon-Moth, often have a need to narrate the rituals of Visage to newcomers. The explanations in the Library of Parts are not suitable for strangers, and therefore you are expected to compose your own."
+      },
+      "Id": 139884,
+      "Name": "Observe and make notes",
+      "Description": "The customs here may be worth reporting later."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169904,
+        "Name": "Bellowing and goring",
+        "Description": "You try to bind up the wound, but the bull cannot bear to be touched, and you are forced to give up, as further experiments will end in your being gored as well. In any case, veterinary interventions are not a Moth-like function."
+      },
+      "Id": 139880,
+      "Name": "Try to bandage the bull",
+      "Description": "It is a shame to see it suffering so."
+    }
+  ]
+}

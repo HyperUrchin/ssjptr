@@ -1,0 +1,37 @@
+{
+  "Id": 144199,
+  "Name": "The Lifeberg attacks!",
+  "Description": "\"Those - rifts - in the Lifeberg's surface. Are they mouths? Lifebergs do not breathe. They kill from malice, not hunger. But they speak. Dear Christ, they speak.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 144200,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 124628,
+      "Name": "Fight!",
+      "Description": "Lifebergs can be destroyed: in theory."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 144201,
+        "Name": "",
+        "Description": "The Lifeberg, full of blind and avid hate, ignores the greater prize for the closer one, and you veer away as it bears down the bobbing specimen..."
+      },
+      "Id": 124629,
+      "Name": "Distract it",
+      "Description": "It towers over you: a mountain of malice. You're too close to evade it. But if you toss it an intriguing morsel, its hunger for life may allow you to escape..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149741,
+        "Name": "",
+        "Description": "You heft the zailor by his collar and fling him over the rail. His comrades stare, horrified. The Lifeberg, full of blind and avid hate, ignores the greater prize for the closer one, and you veer away as it bears down on him. You are safe for the moment - but the crew will never look at you the same way."
+      },
+      "Id": 128198,
+      "Name": "Sacrifice a zailor to attract the Lifeberg's attention.",
+      "Description": "One may die that all may live. It won't make you popular with your crew, though."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "Id": 143364,
+  "Name": "ポート・セシル@{K}$Port Cecil -> ポート・セシル$Port Cecil",
+  "Description": "細かく複雑な凹凸模様のある珊瑚が海中と水面の上に広がり銀白に煌めいている。長く見つめていると、まるで珊瑚全体が誰かの手による彫刻であるかのようにその混沌の中に様々な形が見えてくる気がする。この部分は城壁に囲まれた城で、あれは馬の頭だろうか。\r\n\r\n珊瑚礁からなる島の側面に寄り添うようにして、小さいながらもきちんとした港が作られていた。何の変哲もない英国式の港が有機的な混沌の中に包み込まれている。その光景は不可思議な銀白の光に包まれ、珊瑚礁の形作る凍り付いた混沌の中で、丸められ捨てられた鉛筆画のような非現実的な空気を纏っていた。@{K}Rumpled convolutions of coral fill the water, glimmering with silvery light. The harder you look, the more you see shapes amid the chaos, almost as if they were sculpted. This one could be a crenellated castle: that one, a horse's head.\r\n\r\n A neat little port huddles into the side of a coral island - prosaic Imperial docks and houses tucked away in a baroque organic chaos. In that curious silvery light, among the frozen chaos of coral, the scene has the unreal air of a pencil sketch, crumpled and discarded.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 143365,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 124084,
+      "Name": "ポート・セシル周辺の珊瑚礁の丘を探索する@{K}$Port Cecil -> ポート・セシル$Explore the coral knoll around Port Cecil",
+      "Description": "煌めく珊瑚を暗い波が洗う。珊瑚礁の上にはなだらかな丘や柱が形作られ、さながら迷路のようだ。道に迷わないよう注意深く進もう。@{K}Sea laps dark around silvery coral. Humps and columns rise from the coral - a bewildering maze. Go carefully."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148996,
+        "Name": "",
+        "Description": "誰かが珊瑚礁から砕けて散らばった石灰岩の上に波打つような模様を刻んだようだ……@{K}Someone has carved a sinuous shape into the jumbled limestone of the reef..."
+      },
+      "Id": 127757,
+      "Name": "ポート・セシル周辺の珊瑚礁の丘を探索する@{K}$Port Cecil -> ポート・セシル$Explore the coral knoll around Port Cecil",
+      "Description": "煌めく珊瑚を暗い波が洗う。珊瑚礁の上にはなだらかな丘や柱が形作られ、さながら迷路のようだ。道に迷わないよう注意深く進もう。@{K}Sea laps dark around silvery coral. Humps and columns rise from the coral - a bewildering maze. Go carefully."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148999,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 127760,
+      "Name": "ポート・セシル周辺の珊瑚礁の丘を探索する@{K}$Port Cecil -> ポート・セシル$Explore the coral knoll around Port Cecil",
+      "Description": "煌めく珊瑚を暗い波が洗う。珊瑚礁の上にはなだらかな丘や柱が形作られ、さながら迷路のようだ。道に迷わないよう注意深く進もう。@{K}Sea laps dark around silvery coral. Humps and columns rise from the coral - a bewildering maze. Go carefully."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149000,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 127761,
+      "Name": "ポート・セシル周辺の珊瑚礁の丘を探索する@{K}$Port Cecil -> ポート・セシル$Explore the coral knoll around Port Cecil",
+      "Description": "煌めく珊瑚を暗い波が洗う。珊瑚礁の上にはなだらかな丘や柱が形作られ、さながら迷路のようだ。道に迷わないよう注意深く進もう。@{K}Sea laps dark around silvery coral. Humps and columns rise from the coral - a bewildering maze. Go carefully."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149002,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 127763,
+      "Name": "ポート・セシル周辺の珊瑚礁の丘を探索する@{K}$Port Cecil -> ポート・セシル$Explore the coral knoll around Port Cecil",
+      "Description": "煌めく珊瑚を暗い波が洗う。珊瑚礁の上にはなだらかな丘や柱が形作られ、さながら迷路のようだ。道に迷わないよう注意深く進もう。@{K}Sea laps dark around silvery coral. Humps and columns rise from the coral - a bewildering maze. Go carefully."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 153414,
+        "Name": "ラバリーマンの病@{K}Rubbery torment",
+        "Description": "待ち合わせ場所にいたのは一人のラバリーマンだった。彼らはフォールン・ロンドンのみすぼらしい掘立小屋に棲みつくイカの顔をした二足歩行の生物だ。このラバリーマンは体調が悪いのかあるいは何かの病気にかかっているようだ。珊瑚から発せられる真珠のような輝きがその肩の傷痕や腕そして顔らしき部分から脈打つように光っている。「オーサルース」それは甲高い声で陽気に挨拶すると、こちらにオレンジ色の粘液で汚れた紙を手渡した。ラバリーマンに字が書けるのだろうか？記された文字は優雅で教養の窺えるものだ。時刻と日付も正確に記録されている。@{K}$Rubbery M[ae]n -> ラバリーマン, Fallen London -> フォールン・ロンドン$Here is a Rubbery Man: one of the squid-faced bipedal things that infest the sadder hovels of Fallen London. It looks ill, or infected. The pearly glow of the coral throbs from a seam along its shoulder, its arm - pulses in its face-fronds. \"Otharooth,\" it pipes, cheerfully. It hands you a page of notes smeared with tangerine goo. Can Rubbery Men write? The hand is elegant and disciplined - times and dates precisely recorded."
+      },
+      "Id": 130492,
+      "Name": "迷宮の中の情報提供者@{K}A contact in the labyrinth",
+      "Description": "あなたは提督から情報提供者と落ち合うための道筋を教えられていた。左、右、ポート・セシル脇の珊瑚の迷宮の中へ降りる。そして銀色の鉱脈の向こう、”未完成の宮廷”の城壁を過ぎたところへ。@{K}$Port Cecil -> ポート・セシル$The Admiral gave you directions to take to meet your contact. Left, right, down, into the labyrinth of coral outside Port Cecil. Over the silvered vein. Past the castellations to the Unfinished Court."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 154677,
+        "Name": "チェス、夢、銀白の光@{K}Chess, dreams, silver light",
+        "Description": "ポート・セシルに長く住む者たちの皮膚にはいくつもの珊瑚の欠片が入り込んでいて体のあちこちが銀色に光り、まるで何かしらの疾病にかかっているかのようだ。彼らは港の背後にある石灰岩の丘に好んで登り、頭を珊瑚の柱や塔に凭せ掛けては地下の天蓋を見上げ目を開いたまま夢をみる。彼らはその夢うつつのなかで、時に遠く離れた場所について語ることがある。カーネイトの作り上げた物、密輸人たちの諍い、ファザムキングの秘密。もしかすると、そのすべてが作り話という訳でもないのかもしれない……@{K}$Khan -> カーン, Khanate -> カーネイト, Port Cecil -> ポート・セシル, Fathomking -> ファザムキング$The older inhabitants of Port Cecil carry coral encrustations like a disease: splotched with silvery light. They like to go up into the limestone heights behind the harbour, to lay their heads against the pillars and towers, stare at the roof of the Neath, dream, open-eyed. Sometimes, they speak of things far away: the Khanate's work, the smuggler wars, the Fathomking's secrets. Perhaps it's not all invented..."
+      },
+      "Id": 131309,
+      "Name": "情報収集@{K}Gather intelligence",
+      "Description": "ここでは何が行われているのだろう？@{K}What happens here?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 158941,
+        "Name": "蠱惑的な輝き@{K}Mesmeric silver",
+        "Description": "ブレミガンは躊躇なく欄干に走りよると、珊瑚の小さな丘に飛び込んだ。珊瑚はそれを受け止めて震え、折り重なるように形を変えると海中へと沈んでいった。ブレミガンは消え去ってしまった。潰れた一本の触手だけが水面を漂っている。@{K}$[Bb]lemmigan -> ブレミガン$The blemmigan doesn't hesitate. It scurries to the rail and leaps to a coral hillock. The coral trembles, folds, and subsides beneath the water. The blemmigan is gone. A mashed tendril floats on the surface."
+      },
+      "Id": 133949,
+      "Name": "ブレミガンを陸にあげる@{K}$[Bb]lemmigan -> ブレミガン$Put a blemmigan ashore",
+      "Description": "本当に？@{K}Are you certain?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 165532,
+        "Name": "お礼の言葉は？別れの挨拶は？@{K}Thank you? Farewell?",
+        "Description": "彼はどちらの言葉も言わないままに汗臭い札束をあなたに手渡すと、丘に向かって跳ねるようにして駆けていった。すぐにでもゲームを始めようと指をうずうずさせながら。これだからチェスプレイヤーは。@{K}He says neither of these things. He drops a sweaty bundle of banknotes in your hand, and hares off up the hill, fingers twitching to begin a game. Game-players, eh."
+      },
+      "Id": 137242,
+      "Name": "訳ありの人物を降ろす@{K}Drop off the Chequered Character",
+      "Description": "彼は甲板の手すりに凭れて船を降りる時を待ちわびている。顔を上げ深く息を吸い込むと、言った。「ここからでもチェスの香りがするようだよ」@{K}He waits eagerly by the rail. He lifts his head to inhale. \"I can already smell the chess,\" he announces."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 165535,
+        "Name": "眩い輝き@{K}A stronger silver",
+        "Description": "裂け目に体をねじ込むようにして通り抜けると、その先には階段のような狭い空間があった。不揃いな段差が下へと続いている。銀白の光はここでは一層眩く輝き、階段を一段降りるごとにその光はさらに強まっていく。@{K}You squeeze through the crevice, into a narrow space like a stair. Irregular steps lead down. The silver light is strong here, and it grows stronger with each step downwards."
+      },
+      "Id": 137244,
+      "Name": "初めの一手@{K}An Extra Move",
+      "Description": "あなたがポート・セシルの十字路にたどり着くとささやき声が聞こえた。「ポーンを6のビショップへ」小屋ほどの大きさの柱があなたの6ヤード右手にそびえたっている。確かに、ミトラを被ったビショップのようにも見える。その隣の珊瑚に開く裂け目は洞窟の入り口だろうか。@{K}$Port Cecil -> ポート・セシル$As you reach the cross-roads in Port Cecil, a voice whispers: \"Pawn to Bishop Six.\" A rearing shape the size of a cottage - rather like a mitred bishop, indeed - stands six yards to your right. A crevice in its coral side might be a cave-mouth."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 166156,
+        "Name": "「私の！私のもの！」@{K}\"Mine! Mine!\"",
+        "Description": "彼女は喜びに飛び跳ね、チェスの差し手を唱えながら明後日の方向に走り去っていった。@{K}She capers away, chanting moves, leaping diagonally."
+      },
+      "Id": 137638,
+      "Name": "アポシアンのチェス駒を売る@{K}Sell your Apocyan Chess-Piece",
+      "Description": "あなたには使い道がないものだとしても、チェス中毒者たちはきっと役立てることだろう。@{K}If you have no other use for it, one of the chess-addicts certainly will."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 166175,
+        "Name": "",
+        "Description": "「いや、だめだ」彼らの一人が教えてくれた。「だめだよ。もうあんたの相手になるのは一人しかいない。そいつを見つけるには\"初めの一手\"が必要になるだろうがね」@{K}\"No, no,\" one tells you. \"No, no. There's only one left who will play against you. You'll need an extra move to find it.\""
+      },
+      "Id": 137649,
+      "Name": "チェス@{K}Chess",
+      "Description": "チェスプレイヤーたちはあなたを注意深く見つめている……@{K}The chess-players watch you carefully..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 245552,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 187340,
+      "Name": "「船長、すこしよろしいでしょうか」@{K}\"Excuse me, Captain.\"",
+      "Description": "灰色の瞳の放浪者があなたの腕に手を置いた。「私はある特殊な調整を施された船を探すよう頼まれているのです」彼女は今にも崩れ落ちそうな物置小屋を指した。「あなたにとても会いたがっている人がいますよ」@{K}A grey-eyed exile rests her hand on your arm. \"I was asked to look for a ship with a certain set of adjustments.\" She points towards a ramshackle shed. \"There's someone dying to meet you.\" "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259033,
+        "Name": "正しい人、正しい場所、正しい時@{K}The right person, place, and time",
+        "Description": "扉の先にはチェステーブルの並ぶ大広間が広がっていた。プレズビターの一員らしき色黒の男がひとりその中央に座り、自分を相手にしてチェスを指している。放蕩者が包みの紐を引いた。「数千年も生きれば十分というものでしょう。あなたもそう思いませんか？」そして包みを部屋に投げ入れると扉を勢いよく閉めた。爆発が蝶番を吹き飛ばし扉があなたと彼の間に倒れる。部屋をのぞき込むとそこにいた男はチェスの駒と同じ生命のない物体になっていた。@{K}$Presbyter -> プレズビター$Beyond the door is a long hall of chess tables. A dark man from the Presbyterate sits alone in the centre of the room, playing against himself. The Gallivant pulls the package's string. \"A thousand years is more than enough. Don't you think?\" He tosses it into the room, before slamming the door. An explosion knocks it from its hinges, crashing between you both. You peek into the room: the man is dead as any of the pieces."
+      },
+      "Id": 193187,
+      "Name": "端的で難解な物言いの放蕩者の革命的な計画を手伝う@{K}Assist the Gnomic Gallivant in his revolutionary scheme",
+      "Description": "城壁に囲まれた城にはドアが刻まれている。放蕩者は腕に華やかな包装を施された包みを抱えていた。その包みからは長いひもが伸びている。「おそらくここでいいでしょう、[q:Addressed As]。気を強く持ってくださいよ。そしてドアを開けていただけますかな？」@{K}There is a door carved in the crenellated castle. The Gallivant holds a gaily wrapped package in his arms. A long string trails out of it. \"This is it, [q:Addressed As]. Steel yourself. And get the door for me, please?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260385,
+        "Name": "手詰まり？@{K}Stalemate?",
+        "Description": "端的で難解な物言いの放蕩者は口をとがらせ、気まずそうに腕に抱えた重い包みを揺すった。「歴史とはこのような困難に満ちたものなのでしょうな」彼はため息をつく。「しかし私も暴君ではありません。報酬は私のポケットに入っています、[q:Addressed As]。この通り手がふさがっているもので、取っていただけると助かるのですが……ええ、それがここまでの労苦へのお礼です。ご機嫌よう」そして彼は極めて慎重に包みを抱えなおすと船を降りていった。@{K}The Gnomic Gallivant pouts, and awkwardly shifts the heavy package in his arms. \"I suppose history is filled with inconveniences like this.\" He sighs. \"But I am no tyrant. Your payment is in my pocket, [q:Addressed As]. I'm afraid my hands are full - perhaps you could reach in and... yes, there you are. For your service thus far. Good day.\" Carrying his package very gingerly, he leaves your ship."
+      },
+      "Id": 194186,
+      "Name": "端的で難解な物言いの放蕩者の手伝いを断る@{K}Refuse to assist the Gnomic Gallivant",
+      "Description": "あなたは盤面を一掃することを彼ほど熱心に望んではいないのかもしれない@{K}Maybe you're not as keen to clear the board as he is."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149018,
+        "Name": "ポリープの囁き@{K}Polypoid whispers",
+        "Description": "珊瑚礁を砕いて珊瑚を集めるのは地域の慣習と法律に反する行いだ。あなたはあえて法に挑みその報いを受けた者たちの酸に焼かれた傷跡や視力を失った銀色の瞳を目にしたことがある。すでに珊瑚礁から離れた欠片を集めることにしよう。今日はZeeも穏やかで、すぐにいくつも欠片を見つけることができた。それらは地面の上で月の雫のように光り輝いている。\r\n\r\nしかしいくつか拾い集めるうちに、あなたの中にこの欠片たちは眼であり、あなたを見張っているのではないかという不安が芽生えた。掌に握りこめばそれは好奇に満ちた瞳で喜んであなたの血を観察し、懐に仕舞えばカチカチと音をたて他の欠片と噂話に興じるだろう。それも当然のことだ、とあなたは考えた。これもかつては輝く精神の一部であったのだから。欠片たちはその生命を分け与えられたがその倦怠や経験は引き継いでいないようだ。風呂を覗かれ裸を見られることのないようにひとつひとつ別の箱に収め鍵をかけておこう。あなたは欠片の視線が肌に触れる様を想像しひどい恐怖を感じた。これに見つめられたせいで皮膚が透明になってしまったらどうしよう？骨を見られてしまったら一体何が起こるのだろう？\r\n\r\nあなたは船員の一人がひっくり返り甲虫のように空中を楽しげに蹴り始めたのを見て我に返った。「重力だ！」その船員が喚いた。「落ちちまった！」あなたはこれ以上の被害が出る前に珊瑚を抱え急いで船に戻った。@{K}It's against local law and custom to break coral from the reef, and you've seen the scars of those who tried - the acid-burns, the blind silver eyes. So you're looking for loose fragments. Today the zee is calm, and you find a good few candidates. They lie shining softly like droplets of moon.\r\n\r\nBut after a little while, you become concerned that they're eyes: that each is watching you. When you close your fist around one, it examines your blood with amused delight. When you put them together in your pocket, they clatter and gossip together. Of course, you think. They broke from the Shining Mind: they have its vitality, but not its weariness or experience. You will have to lock them in a separate boxes, lest they peep at you when you're bathing, and see who you are. The thought of their sight on your skin fills you with horror. What if your skin turned clear? What if they saw your bones?\r\n\r\nYou come back to yourself when you see one of your zailors fall on his back and start kicking delightedly in the air like a beetle. \"Gravity!\" he cries. \"I have fallen!\" You hasten back to the ship with your haul of coral, before it can do any further damage."
+      },
+      "Id": 127771,
+      "Name": "シンティラックを集める@{K}$[Ss]cintillack -> シンティラック$Gather Scintillack",
+      "Description": "高品質な珊瑚はロンドンで高値で売れる。しかし、珊瑚礁の上を歩くなら幻覚と絶望がつきまとうだろう。船員を連れて慎重に進もう。@{K}The best of the coral will fetch a high price in London. But walk the reefs of the Principles, and you risk delusion and despair. Take your crew, and go carefully."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143366,
+        "Name": "敗北@{K}A loss",
+        "Description": "あなたは対戦相手と握手を交わした。「もう行かないと」彼女は言った。「でも心配いらないよ。あなたもいずれここに戻ってくることになるだろうからね」彼女の触れた感触がなかなか消えない。その指は冷たかった。@{K}Your opponent shakes your hand. \"Time to go\" she tells you. \"But don't worry. You'll be back.\" Her touch lingers. Her fingers are cold."
+      },
+      "Id": 124085,
+      "Name": "チェス@{K}Chess",
+      "Description": "プリンシプルではチェスは人気の競技だ。港には流れ者、酔っ払い、商売に失敗した交易商たちがひしめき、皆チェスを指している。ほとんど取りつかれたように駒を動かしているものも多い。\r\n\r\n気を付けるといい、使われているチェスの駒はシンティラックから作られたものだ。あれらはここプリンシプルでは恐ろしい事態を招くことがある。@{K}$[Ss]cintillack -> シンティラック$Chess is popular in the Principles. The port is full of exiles, drunks and washed-up zee-traders. They all play, often obsessively.\r\n\r\nBe careful. The chess-pieces are carved from scintillack. Here in the Principles, that can be very dangerous."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 166151,
+        "Name": "何かが変わった@{K}Something has changed",
+        "Description": "輝く精神は溶けてしまった。そしてあなたはその過程と理由を知っている。珊瑚もまた消えつつある。あなたは何も見つけることができなかった。水には自我のない安寧が滲みだしているように見える……@{K}The Shining Mind has dissolved: you know why, and how. The coral is fading. You find nothing, although the water is tinged with mindless contentment..."
+      },
+      "Id": 137635,
+      "Name": "シンティラックを集める@{K}$[Ss]cintillack -> シンティラック$Gather Scintillack",
+      "Description": "高品質な珊瑚はロンドンで高値で売れる。しかし、珊瑚礁の上を歩くなら幻覚と絶望がつきまとうだろう。船員を連れて慎重に進もう。@{K}The best of the coral will fetch a high price in London. But walk the reefs of the Principles, and you risk delusion and despair. Take your crew, and go carefully."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259101,
+        "Name": "不運な成功？@{K}The best of a bad situation?",
+        "Description": "扉の先の広間では十人の外交官と高官たちが一つのチェステーブルを囲んでいる。放蕩者は眉をひそめた。「犠牲者が出るのは好ましくないのですが、」彼はそう言うと包みのひもを引く。「しかしやむを得ませんね」そして包みを部屋に投げ入れると扉を勢いよく閉めた。爆発が蝶番を吹き飛ばし扉があなたと彼の間に倒れる。部屋をのぞき込むとひっくり返ったチェステーブルの周りに死体がその駒のように散らばっていた。@{K}$Presbyter -> プレズビター$Ten diplomats and dignitaries are gathered around a chess table. A dark man from the Presbyterate is in their number. The Gallivant frowns. \"Casualties are unfortunate,\" he says, pulling the package's string; \"But acceptable.\" He tosses the package into the room and slams the door shut. An explosion blasts the door from its hinges; it falls between you both. You peek into the room. The bodies are scattered like chess pieces from an upturned board."
+      },
+      "Id": 193235,
+      "Name": "端的で難解な物言いの放蕩者の革命的な計画を手伝う@{K}Assist the Gnomic Gallivant in his revolutionary scheme",
+      "Description": "城壁に囲まれた城にはドアが刻まれている。放蕩者は腕に華やかな包装を施された包みを抱えていた。その包みからは長いひもが伸びている。「おそらくここでいいでしょう、[q:Addressed As]。気を強く持ってくださいよ。そしてドアを開けていただけますかな？」@{K}There is a door carved in the crenellated castle. The Gallivant holds a gaily wrapped package in his arms. A long string trails out of it. \"Hopefully this is it, [q:Addressed As]. Steel yourself. And get the door for me, please?\""
+    }
+  ]
+}

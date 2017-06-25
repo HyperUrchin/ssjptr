@@ -1,0 +1,37 @@
+{
+  "Id": 168615,
+  "Name": "Festival of Flourishing",
+  "Description": "All the denizens of Visage are walking towards the Ear together. There is a place in the procession which belongs by right to the wearer of your mask.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 168616,
+        "Name": "Among your own",
+        "Description": "You go as though you were truly one of them. You carry nothing with you but your mask and your costume.\r\n\r\n\"May your heart be as light as a feather,\" says the woman in the lotus-blossom mask, as you fall into line behind her."
+      },
+      "Id": 139109,
+      "Name": "Fall in line with the others",
+      "Description": "How else will you discover what lies within?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168617,
+        "Name": "Ritual disobedience",
+        "Description": "It is a risk to bring it, but it would also be a risk to go without. You conceal the flare in the folds of your robe and fall into the procession.\r\n\r\n\"May your sins weigh as stone,\" says the man in the jackal face, as you fall into line ahead of him."
+      },
+      "Id": 139110,
+      "Name": "Fall in line with the others, secretly bringing a flare with you",
+      "Description": "Perhaps you will need it, in the darkness where you are going."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168618,
+        "Name": "Farewell to this island",
+        "Description": "When the procession has passed, you strip away your mask and costume and leave them on the floor in the Customs House. The arms you fold neatly across themselves in the fashion that is appropriate for this particular robe. \r\n\r\nPerhaps someone after you will care to take up your role."
+      },
+      "Id": 139111,
+      "Name": "Strip off your mask and prepare to depart",
+      "Description": "With everyone distracted by this festival, your departure would not even be noticed."
+    }
+  ]
+}

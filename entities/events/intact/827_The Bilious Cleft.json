@@ -1,0 +1,67 @@
+{
+  "Id": 255573,
+  "Name": "The Bilious Cleft",
+  "Description": "Few Nookfolk swim this deep, where the water is foggier than a London pea-souper. Foul gas bubbles up from the Beast's gut, acidic enough to sting your eyes.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 255574,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 191502,
+      "Name": "Swim Up",
+      "Description": "To the Serrated Throat."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255840,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 191701,
+      "Name": "Down the Writhing Gullet",
+      "Description": "This beast is at least centuries old. Its stomach passages are a labyrinth. Who knows what might be lodged in there?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258184,
+        "Name": "Old habits",
+        "Description": "There: the bright light of your zubmarine's main beam. The airlock. Home."
+      },
+      "Id": 192637,
+      "Name": "Time to leave",
+      "Description": "Your lungs - unaccustomed to breathing water - begin to labour. You must return to your ship."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258189,
+        "Name": "Quick scavenging",
+        "Description": "You harvest a handful of the nodules. If you mean to venture deeper into the gullet, where there is only darkness and eye-burning waters, you'll need plenty of light."
+      },
+      "Id": 192642,
+      "Name": "Search for Phosphorescent Nodules",
+      "Description": "The Nookfolk use them for light, and guard them closely. When they do drop them, though, the nodules sink down here, glowing between the teeth."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 258201,
+        "Name": "Naked aggression",
+        "Description": "Wisely, they flee. You cradle the precious glowing nodules. Yours, now. Passing deep-divers catch you eye, pale, and flee. Sensible."
+      },
+      "Id": 192649,
+      "Name": "Intimidate Phosphorescent Nodules from nervous Nookfolk",
+      "Description": "A ragged band squabble over glowing nodules. They stop when you approach, recognising you. They know to be afraid.\r\n[Trade Memories of Nook for Phosphorescent Nodules.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 255871,
+        "Name": "War with the mushrooms",
+        "Description": "The hunters are eager for a blemmigan feast. Their harpoons pierce the mushrooms, and the toothy beasts fight back. The blemmigans swarm, their beaks snapping. Blood clouds the water. The hunters make do with a few skewered prey and retreat, leaving the blemmigans to their darkness."
+      },
+      "Id": 191730,
+      "Name": "Join a Blemmigan Hunt",
+      "Description": "The blemmigan you released has flourished down here. Rough-looking hunters with bone harpoons risk the descent in the hope of finding tastier food."
+    }
+  ]
+}

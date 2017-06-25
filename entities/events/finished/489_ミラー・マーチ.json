@@ -1,0 +1,107 @@
+{
+  "Id": 176846,
+  "Name": "ミラー・マーチ@{I}$Mirror-Marches -> ミラー・マーチ$The Mirror-Marches",
+  "Description": "　夢の皮下である、鏡の向こう側では、橙色の太陽が燃えるような空をたゆたっている。ここはその境界地にあたる。アイレムに近く、琥珀色の空の館にはなお近い場所だ。今やあなたはそこにいた。開けた頭上には暖かな太陽が浮かんでいる。@{I}$House of the Amber Sky -> 琥珀色の空の館, Irem -> アイレム$Beneath the skin of dreams, behind the faces of mirrors, an orange sun sails in a fervid sky. Here are the borderlands of that place, close by Irem, and closest still to the House of the Amber Sky. And here you are, in another place. The sun is warm on your uncovered head.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 176847,
+        "Name": "砕けた塔@{I}A shattered tower",
+        "Description": "　低い丘の上に、砕けた塔の基部が残っていた。それはアイレムの石造建築のようだった。扉は腐り、内部では棘のあるつる植物が生い茂っていた。それでも、壁には割れた鏡が何枚も掛けられたままになっていた。鏡はそれぞれ異なる光景を写し出していた。輝く目をした兵士たちが、サメを鉄で縛り上げていた。ポリズリームの街路で、クレイマンたちが衣服の集合体と戦っていた。不安を催させる学者が、魂の入った容器を歯で噛み砕いていた。これらは真実か、夢か、あるいはその両方だろうか？<br/><br/>　あなたは琥珀色の空の館で目を覚ますだろう。あなたの服には、潰れた葉の汁で染みができていることだろう。@{I}$Clay M[ae]n -> クレイマン, House of the Amber Sky -> 琥珀色の空の館, Irem -> アイレム, Polythreme -> ポリズリーム, Alarming Scholar -> 不安を催させる学者$At the top of a low hill, a tower-stump stands. The masonry looks Iremi: the door is rotted, the space within filled with thorned vines. But cracked mirrors still hang on the walls, and in each one you see a different scene. Bright-eyed soldiers bind sharks in iron. Clay Men war with clothes-colonies in the streets of Polythreme. The Alarming Scholar cracks soul-tubes between his teeth. Truth, dream, or both?\r\n\r\nYou will wake in the House of the Amber Sky. Your clothes will be stained with the juice of crushed leaves."
+      },
+      "Id": 144192,
+      "Name": "休息し、癒され、夢を見る@{I}Rest, recover, dream",
+      "Description": "　あなたの周囲の密林では、鮮烈な色の果実が豊富に実り、昆虫と姿の見えない生き物がぶんぶんうなりを上げていた。少し探検してみよう。@{I}The jungle around you is rich with violently coloured fruit, buzzing with insects and unseen life. Explore a little."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176867,
+        "Name": "川へ@{I}To the river",
+        "Description": "　水の流れは深く、甘く、野性的だった。年齢の分からない魚が、澄んだ深みからあなたを無表情に観察していた。両手ですくい上げて水を飲むと、あなたの体から疲れが抜け落ちていった。サルたちが陽気な金切り声を上げていた。一匹のヒョウが下生えの中からあなたを見つめていたが、あなたに襲いかかるような素振りは見せなかった。<br/><br/>　それから、あなたはそこに生えていた亜麻を引き抜いた。後になってあなたが目を覚ますと、あなたはそれがもう織られていることに気づくだろう。@{I}$Aft -> 後部$The water runs deep, sweet and wild. Impassive fish of unguessable age watch you from clear depths. You drink from cupped hands, and your weariness falls from you. Monkeys shriek hilariously. A leopard watches from the undergrowth, but makes no move to attack.\r\n\r\nAfterwards, you pluck the flax that grows here. When you wake, later, you will find it already woven."
+      },
+      "Id": 144203,
+      "Name": "休息し、癒され、夢を見る@{I}Rest, recover, dream",
+      "Description": "　あなたの周囲の密林では、鮮烈な色の果実が豊富に実り、昆虫と姿の見えない生き物がぶんぶんうなりを上げていた。水の流れる音も聞こえる。元を辿ってみよう。@{I}The jungle around you is rich with violently coloured fruit, buzzing with insects and unseen life. There's the sound of running water, too. Follow it."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176870,
+        "Name": "おそらくは武器@{I}A weapon, perhaps",
+        "Description": "「人間はうつつの世界を支配している」彼はあなたに説明した。「多かれ少なかれ。そしてフィンガーキングが、この場所のほとんどを支配している。大昔、軽率な連中がフィンガーキングを閉じ込めるためにこういう物を作った。俺はそこまで軽率じゃない。これを利用すれば、俺は俺の腕を奪ったフィンガーキングへの復讐を果たすことができる」彼はしめしめという様子で、現に、腕のフックで自分のあご髭を撫でつけていた。<br/><br/>　彼は蛇の彫像を調べるために自分の船室に下がったが、一日経つと、落胆した様子で戻ってきた。「色々な幾何学がある」彼は曖昧な説明をした。「ちょっとカーネイトに寄ってもらっても構わないか？そこなら、こいつを解くのを手伝ってくれる奴が見つかるから」[マジシャンを助けるために、カーンの心臓の港を訪れましょう。]@{I}$Fingerking -> フィンガーキング, Khan -> カーン, Khanate -> カーネイト, Khan's Heart -> カーンの心臓$\"Humans rule the waking world,\" he tells you, \"more or less. And the Fingerkings rule most of this place. A long time ago, some rather careless people made these images to imprison Fingerkings. I'm not so careless. I can use it to enact my revenge on the 'king that took my hand.\" He is gloating. He actually strokes his moustache with his hook.\r\n\r\nHe retires to his cabin to investigate the serpent-image, but emerges a day later disappointed. \"Different geometries,\" he explains obscurely. \"Do you mind if we pop by the Khanate? I can find someone there to help me work this one out.\" [Visit the port of Khan's Heart to help the Magician further.]"
+      },
+      "Id": 144206,
+      "Name": "蛇の彫像を手に入れる@{I}$Serpent[- ]Image -> 蛇の彫像$Retrieve a Serpent-Image",
+      "Description": "　あなたの周囲の密林では、鮮烈な色の果実が豊富に実り、昆虫と姿の見えない生き物がぶんぶんうなりを上げていた。灰色の葉を持つ木の、苔むした湾曲部に寄り掛かる何かがあった。それは黒と赤、そして黄色に塗られた木彫の蛇だった。その両眼は柘榴石の薄片で作られていた。「私が拾ってもかまわないか？」気さくなマジシャンがそう尋ねた。(彼はあなたが横になって眠る時にそばにいたのだろうか？)@{I}$Genial Magician -> 気さくなマジシャン$The jungle around you is rich with violently coloured fruit, buzzing with insects and unseen life. There's something nestled in the mossy crook of a grey-leafed tree. A wooden serpent, lacquered with black, red and yellow. Its eyes are garnet flakes. \"Mind if I pick that up?\" the Genial Magician asks. (Was he with you when you lay down to sleep?)"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 176873,
+        "Name": "永遠の木@{I}The eternal tree",
+        "Description": "　これが、決して枯れないりんごの木だ。たとえ森が衰え、川が枯れようとも、この木は誇らしげに立ち続けるだろう。りんごを一つだけ持ち帰ろう。蛇たちは眠っているから。@{I}This is the apple-tree which will never die. Should the forest fail and the river run to ash, still it will stand proudly. Take only one apple. Serpents are sleeping."
+      },
+      "Id": 144208,
+      "Name": "最も稀な果実@{I}Rarest fruit",
+      "Description": "　南の最果ての、Stoneと呼ばれる神の腕の中では庭園が咲き誇っている。はるか昔、鳥たちがその庭園から種を盗んだ。ある鳥は、それをここ、ミラー・マーチに隠した。その話を、あなたは聞いたことがあるかもしれない。@{I}$Mirror-Marches -> ミラー・マーチ$In the farthest South, in the arms of the god called Stone, a garden blooms. In ages past, birds stole the seeds from that garden. One bird hid here, in the Mirror-Marches. Perhaps you know the story."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 177062,
+        "Name": "死にゆく木@{I}A dying tree",
+        "Description": "　サラスフルーツは美味で有毒な寄生植物だ。ここのサラスフルーツは、マホガニーの木を宿主とし、熱心にその生命を吸い取っていた。寄生された木はひび割れた残骸と化している。サラスフルーツは、露のようにみずみずしく輝いていた。@{I}$[Ss]olacefruit -> サラスフルーツ$Solacefruit are parasites - delicious, poisonous parasites. These solacefruit made their home on a mahogany tree, from which they have assiduously sucked the life. The tree is a cracked remnant. The solacefruit bloom like dew."
+      },
+      "Id": 144306,
+      "Name": "稀な果実@{I}Rare fruit",
+      "Description": "　ここミラー・マーチでは、時に傷ついた者が慰めを得ることがある。あるいは少なくとも、そのように言われている。@{I}$Mirror-Marches -> ミラー・マーチ$Here in the Mirror-Marches, those who are wounded can sometimes find solace. Or so the ztory has it."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 177063,
+        "Name": "飲み干された未来@{K}A drunken future",
+        "Description": "蛇には黒、黄色、赤の縞模様があり、子供のビーズのように美しい。その牙は雪のように痛んだ。蛇はあなたの心と力と知性と欲望とを飲み込むと、物憂げにシューッという音を立てた。「あの尖塔を奪うためにどれほどのものが必要なのか」そして蛇はようやく牙を抜くと言った。「ここからが一番大変なところだ」\r\n\r\n最悪の部分が終わると、目的とするものが手に入った。パラボックスだ。内側は普通の箱と変わらない。しかし、あなたがそれを知ることはない。その箱を開けることはできないのだから。@{K}$Parabox -> パラボックス$The serpent is banded black, yellow, red, beautiful as a child's beads. Its fangs sting like snow. It hisses languorously as it drinks your mind, your strength, your wit, your desire, your sight. \"So many things to take up the Spire,\" it breathes, when at last it withdraws. \"Now the worst part.\"\r\n\r\nWhen the worst part is over, you have what you came for. The Parabox. Inside, it is like any other box. You will never know that, for it cannot be opened."
+      },
+      "Id": 144307,
+      "Name": "パラボックスを求める@{K}$Parabox -> パラボックス$Bargain for a Parabox",
+      "Description": "「あぁ」蛇は夢見るような口調で言った。「太陽の表皮に会いに行くとしよう。私は死ぬだろう。そして私が後にした場所はこの箱の内にとどまるのだ。私はこの場所で死んでいて、現世の中でも生きてはいない。お前は現世に生き、ここでも死んでいない。不可能なのだよ。しかし、これがお前が死ぬまでの間、最も恐ろしき太陽光からでさえもお前の王国を守ってくれることだろう」\r\n\r\n蛇が舌をちらつかせる。「しかし、まずはお前の未来を飲み干すとしよう。喉が乾いたまま死にたくはないのでな」[この選択肢は全てのスキルが100を超えていなければ選ぶことが出来ません。そして全てのスキルを半減させます。しかし、その代わりにエスティヴァルをコロニーとするためのアイテムが手に入るでしょう。]@{K}$Aestival -> エスティヴァル$\"Yes,\" the serpent says dreamily, \"I go to meet the Skin of the Sun. I will die. The space I leave will remain in this box. I am dead here and I do not live in the world. You live in the world, and you are not dead here. It's impossible. But it will protect your kingdom from the worst of the sunlight, until you die.\"\r\n\r\nHis tongue flickers. \"But I must drink your future first. I will not die thirsty.\" [This will halve all your skills, which must be at least 100. It will, however, give you an item which will allow you to colonise Aestival.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 195691,
+        "Name": "死者は無駄口をきかない@{I}The dead were not loquacious",
+        "Description": "「左」骨は早口で言った。「左。前進。水のない小川を越えて。白い印のある石柱のそばを通る」しかし、あなたが更なる助言を求めると、それは黙り込んだ。あなたはそれを脇に放り捨てた。あなたの手は震えていた。あなたの目は、まるで眠気か年波に襲われたかのように霞んでいた。今やあなたは、この道について少しだけ詳しくなっていた。[在りし森のありかが7に到達すると、あなたの探しものが見つかるでしょう。]@{I}\"Left,\" the relic rattled. \"Left. On. Across the empty stream. Past the stone post marked with white.\" But when you looked for further counsel, it was silent, and you cast it aside. Your hand shook. Your eyes were bleared as if with age or sleep. Now you knew a little more of the paths. [When Where the Wood Was reaches 7, you'll find what you seek.]"
+      },
+      "Id": 155606,
+      "Name": "死者の助言を求めた@{I}You sought the counsel of the dead",
+      "Description": "　この場所では死者が案内人となってくれるかもしれない。[死者からの助言はあなたに傷を与えますが、あなたの探索を先へと進めてくれます。]@{I}In this place, the dead might be guides. [The counsel of the dead will give you wounds, but it will bring you closer to your quest's end.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 195693,
+        "Name": "在りし森@{I}$Waswood -> 在りし森$The Waswood",
+        "Description": "　あなたの足元で、暗い断崖が鋭く傾斜している。峡谷の下方には、葉のない白い木々の森があった。これが在りし森だ。この中のすべては永遠に失われている。そして、永遠に失われたすべてが、この中に眠っている。@{I}$Waswood -> 在りし森$A blackened cliff falls away at your feet. In the glen below, a white wood of leafless trees awaits you. This is the Waswood: all things within are gone forever, and all things that are gone forever lie within."
+      },
+      "Id": 155607,
+      "Name": "グローリーの物語を探す@{I}$Glory -> グローリー$Seek the Glory's Story",
+      "Description": "　先の裂けた槍を持った狩人が落石のそばで待つだろう。彼はあなたを手招きする。「私がかつての敵を送り込んだ場所がある」彼は言うだろう。「お前の求めるものはそこにある。中に入る準備をしな。道はある」道の上の空は、昔の溶岩のひび割れた橙色にもかかわらず、ひんやりとしていた。@{I}A hunter will wait beside a fallen stone with a splintered spear. He will beckon you. \"There is a place,\" he will say, \"where I sent my enemies. What you want is there. Be ready to join it. There is the path.\" Above the path, the sky cools to the cracked orange of old lava."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 195694,
+        "Name": "長い長い一生@{I}A long long life",
+        "Description": "「ここが私の生まれたところ」卵があなたに語りかけた。「私は最初の殻を破ると、Unterzeeを放浪した。私は怪物どもの味を楽しみ、鯨を食べて肥え太った。私は都市ほどに大きくなった。そして、私は体を病んだ。ギャント・ポールに引き寄せられて、私はそこで、長命と疲れによって死んだ。そして、腐肉となった私の背を、狩人たちが見つけた」<br/><br/>　キェロネイト人は、彼らがいかにしてグローリーを殺したのかを長く誇りにしてきたが、その詳細は大昔に失われたと主張していた。今、あなたは真実を知った。彼らはグローリーを殺してなどいなかった。彼らは、ただ新しい棲家を求めるヤドカリのように、彼女の甲羅に住み着いたに過ぎなかったのだ。@{I}$Gant Pole -> ギャント・ポール, Glory -> グローリー$\"This is where I began,\" the egg told you. \"I broke my first shell. I roamed the Unterzee. I feasted on monsters. I battened on whales. I grew city-vast. I sickened. The Gant Pole drew me, and there I died of age and weariness, turning on my back to rot until the hunters found me.\"\r\n\r\nThe Chelonites have long boasted of how they slew the Glory, but they've claimed the details were lost in antiquity. Now you know the truth, that they never slew the Glory. They camped in its shell like a hermit crab seeking a new dwelling."
+      },
+      "Id": 155608,
+      "Name": "グローリーの物語を聞いた@{I}$Glory -> グローリー$You heard the Glory's story",
+      "Description": "　森の中心部に骨の輪があった。骨は乾いた若木のように地面から突き立っていた。輪の中心には、馬車ほどの大きさの、青あざのような色の卵があった。卵の中から、言葉が聞こえてきた。@{I}In the heart of the wood there was a ring of bones, standing in the earth like dry saplings. In the heart of the ring there was an egg, the size of a coach, the colour of a bruise. In the egg there was a voice."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 195690,
+        "Name": "棘@{I}Thorns",
+        "Description": "　茂みをかき分けて進みながらも、あなたは、自分がまったく動いていないという感覚に陥っていた。あなたの後ろの小道は長く延び、青々とした新芽が光を求めるかのように、この森の端へと辿り着こうと這いずった。ここには青々とした新芽などなかった。動くものは何もなかった。あなたの道は森の端に辿り着いたりはしなかった。あなたはずっとここにいたのだから。あなたはどこにもいなかったのだから。それでも、あなたはその気になれば、いつでもそこを離れることができた。[在りし森のありかが7に到達すると、あなたの探しものが見つかるでしょう。]@{I}As you pushed through the thickets, you had the sense that you were not moving at all. Your path extended behind you, creeping, reaching for the edge of the wood, like a green shoot probing for the light. There were no green shoots here. Nothing moved. Your path had never touched the wood's edge. You had always been here - you had always been nowhere. But you might still leave whenever you chose. [When Where the Wood Was reaches 7, you'll find what you seek.]"
+      },
+      "Id": 155605,
+      "Name": "在りし森を歩いた@{I}$Waswood -> 在りし森$You walked the Waswood",
+      "Description": "「この中のすべては永遠に失われている。そして、永遠に失われたすべてが、この中に眠っている」その道を歩めば、あなたもその一員となるかもしれないことを、あなたは分かっていた。@{I}\"All things within are gone forever, and all things that are gone forever lie within.\" When you walked its paths, you knew you might join them."
+    }
+  ]
+}

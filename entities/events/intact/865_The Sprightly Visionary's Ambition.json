@@ -1,0 +1,27 @@
+{
+  "Id": 260619,
+  "Name": "The Sprightly Visionary's Ambition",
+  "Description": "He passes a toolbox to one of his workers, and rushes over to you. He writes in the notebook chained to his wrist.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 260628,
+        "Name": "",
+        "Description": "'<i>My men will transport. Lunch?</i>'\r\n\r\nHis room is spacious, if rather bare. A filament-bulb shines pleasantly within a pink paper lantern. His plaster walls are cracking. A hand-drawn portrait of a dark woman hangs above his bed. The Visionary clears maps of Hideaway from his table, and prepares coffee. As he passes your brew, bellows of pain engulf the room, and all Hideaway trembles for a moment as the beast below writhes - but the Visionary doesn't spill a drop of the coffee. Once things settle, he writes a note: '<i>Forgive Temtum. He hurts now/then. Coffee? And please - call me Arik.</i>'"
+      },
+      "Id": 194360,
+      "Name": "Supply his engines with Fuel",
+      "Description": "The Visionary passes you a scrap from his notebook. '<i>Alternator engines near dead. Need fuel. Provide?</i>'"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260629,
+        "Name": "",
+        "Description": "In the centre of Hideaway is a small building with decorative paper windows, locked behind an iron gate nobody dares touch. Arik unlocks it, and then leads you inside. In the centre of the room is a raised brass panel and a chair. The panel is covered in switches and gauges. '<i>Central control of Hideaway. Requires re-routing. I'll point the what/where.</i>' He hands you a pair of tweezers, and unscrews the back of the panel, exposing a mess of wire.\r\n\r\nThe operation itself is simple, if slow, but the results are immediate. The lights outside flicker, before shining brighter. Arik flips a switch; the ground shakes, and you're thrown left. He flips another; you're thrown right. Arik beams as he helps you steady yourself, and pats you on the back. '<i>Sorry for that - all's well, now. You've done a great service. Eternal thanks.</i>'"
+      },
+      "Id": 194361,
+      "Name": "Fixing a fault",
+      "Description": "Arik passes you a scrap from his notebook. '<i>I need particularly steady hands to repair cabling. Assist?</i>'"
+    }
+  ]
+}

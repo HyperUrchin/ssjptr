@@ -1,0 +1,17 @@
+{
+  "Id": 176819,
+  "Name": "A Stern Reminder from the Admiralty",
+  "Description": "In the name and by the power of Her Enduring Majesty, a trade embargo and quarantine in <i>absolute perpetuity</i> has hereby been declared on the Empire of Hands.\r\n\r\n1. No ship of London is to permit aboard a Pentecost ape without express and prior permission of the Admiralty.\r\n\r\n2. Any and all acts of spirifage are prohibited.\r\n\r\n3. <i>They know what they did.</i>\r\n\r\nBeware of stowaways. Keep a tight grip on your soul.\r\n\r\n- Excerpt from Standard Naval Regulations, Vol IV",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 176820,
+        "Name": "An official greeting",
+        "Description": "\"Hello!\" cries the Mayor, in the broken voice of one not yet used to human speech. \"Come! Make selves at home! All souls welcome in bountiful Empire of Hands!\"\r\n\r\nThe crew shifts uncomfortably. They know the stories. It will take more than the natural beauty of this place to make most of them risk shore-leave here."
+      },
+      "Id": 144183,
+      "Name": "The Flea-Ridden Mayor",
+      "Description": "With the Regulations in mind, it is a surprise to be greeted by a mere itchy monkey in a tattered yellow robe, barely walking with the help of a ceremonial staff."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Id": 153739,
+  "Name": "The Dogged Apprentice on a Break",
+  "Description": "His room, tucked deep within the recesses of Rosegate, is filled with old notebooks. \"I was an artist, once,\" he confides. \"I've been here four, maybe five years now. But I practice when I can.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 230212,
+        "Name": "",
+        "Description": "He doesn't say much as you model, only mumbling, \"Could you look a little more - no, just a little - yes, hold that.\" Once his break ends, he passes you the book. He's captured you well, right down to your smallest blemish. \r\n\r\nIt's not the only time he's sketched you, either. There are recollections of how you appeared on the dock, scenes of you captaining your vessel, and memories of your work together in crafting the bitter flavour. The anguish he spent over the detail is apparent."
+      },
+      "Id": 177346,
+      "Name": "Pose for him",
+      "Description": "He has many sketchbooks, and seems to have an aptitude for figure drawing. Would he like to sketch you?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234657,
+        "Name": "",
+        "Description": "The stories all centre on cafés and anarchists. Most are placed on the surface, though some happen in London. One story, about the formulation of a plan that exploded a city block, featured a relentless coffee motif. \"It's an attack on art,\" the Apprentice jokes, sheepishly. One story revolves around a failed plot in London; another focuses on the desperate escape afterward, made possible by a mysterious patron. The whole collection of work, while stilted, is violently aligned to the anarchic cause, and remarkably detailed."
+      },
+      "Id": 180231,
+      "Name": "Give an audience to a short story",
+      "Description": "There are notebooks spilling out of his desk-drawer. Could he read some of his stories to you?"
+    }
+  ]
+}

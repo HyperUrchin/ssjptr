@@ -1,0 +1,67 @@
+{
+  "Id": 180347,
+  "Name": "バザールへの訪問@{I}バザールへの訪問@{M}A Visit to the Bazaar",
+  "Description": "　港に船が着くとすぐに、彼女はタラップを降りた。「ペンストックと話さないと」彼女は言った。「土地斡旋業者よ。バザールにいるわ」そこで彼女は躊躇する素振りを見せた。彼女は唇を噛んでいた。「私と一緒に来てくれる？」@{I}船が着けられると同時に、彼女はタラップを駆け下りる。「ペンストックに話しに行かなきゃ。」彼女が言う。「土地斡旋業者よ。バザールに居るの。」そこで彼女は躊躇する。唇を噛んでいるようだ。「貴方も、一緒に...来てくれない?」@{M}$Penstock -> ペンストック$She's down the gang-plank as soon as she's docked. \"I need to talk to Penstock,\" she says. \"The land agent. The one at the Bazaar.\" She hesitates; she bites her lip. \"Will you come with me?\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 180348,
+        "Name": "分かたれた海@{I}分かたれた海@{M}$Sundered Sea -> 分かたれた海$The Sundered Sea",
+        "Description": "「バザールの下には、もう一つの海があります」ペンストックははっきりと言った。「ここよりも青白い海です。ええ。推察するに、あなたはあなたの母親がなしたのと同じ取引をするのでしょう。そうです。かつて、私は彼女がここから降りてゆく手助けをしました。しかし、あれは当時でも酷い賭けでした。そして今でも、バザールは健やかではないのです。あなたのお気持ちは確かですか？」@{I}「バザールの下には、別の海がある...」ペンストックが言い放つ。「白海、と呼ばれていてな。ああ...お前の母親が交わした約束をお前が果たしてくれるかもしれんなどと思ってしまったよ。ん?ああ、ワシはかつてお前の母親をそこに連れて行く手伝いをした。だがな...それでも彼女はドジ踏んじまった。それ以来バザールも...その話は後だ。本気か?」@{M}$Penstock -> ペンストック$\"There is another sea beneath the Bazaar,\" Penstock declares. \"A paler sea. Yes, I would imagine you might make the bargain your mother made. Yes, I helped her go down there. But she took a terrible chance even then... and the Bazaar is not well. Not now. Are you certain?\""
+      },
+      "Id": 146257,
+      "Name": "彼女と一緒に行く@{I}彼女と共に行く@{M}Go with her",
+      "Description": "　ペンストックの土地斡旋屋。質素な事務所だが、その立地は慎み深いとは言えなかった。ロンドンに高く聳え立つ、尖塔を備えた交易の砦、バザール。事務所は、そのバザールの東の側壁にぴったりともたれかかるようにして建っていた。ペンストックは書記のように前かがみになり、炭鉱夫のように咳き込んでいた。しかし、彼の目は知性に溢れていた。@{I}ペンストック土地斡旋所： バザールの東の外れ - それはロンドンの雑居ビルの要塞を思わせる威容の - とても目立つ場所に建つ目立たないオフィスだ。ペンストックは売り子のように縮こまって座り、鉱夫の様に咳き込んでいるが、彼の目は賢明な光を湛えている。@{M}$Penstock's Land Agency -> ペンストックの土地斡旋屋, Penstock -> ペンストック$Penstock's Land Agency: a modest office in an immodest location, hard against the eastern flank of the Bazaar - that spired fortress of commerce that towers over London. Penstock stoops like a clerk and coughs like a miner, but his eyes are very wise."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180349,
+        "Name": "彼女は帰ってきた@{I}彼女が戻る@{M}She returns",
+        "Description": "　彼女の振る舞いは女帝のように自信に溢れていた。しかし、その笑顔は以前と変わりなかった。「だめよ」彼女は言った。「知りたかったら、私と一緒に来るべきだったのよ」<br/><br/>　彼女はウィンクした。「私には新しいタトゥーがあると言えるわね。でもこれは、決して誰も見ることはないタトゥーなの」@{I}彼女は女帝の如くに自信に満ち溢れた足取りで歩いているが、笑顔は全くかわらなかった。「もし知りたいんなら、私と一緒に来なさいよ。」彼女はウインクしながら言う。「新しいタトゥーを彫ったの。けど、それは誰も見る事は...無いわね。」@{M}She moves with the assurance of an empress, but that's still the same smile. \"No,\" she says. \"If you wanted to know, you should have come with me.\"\r\n\r\nShe winks. \"I will say I have a new tattoo. But it's not one that anyone, ever, will see.\""
+      },
+      "Id": 146258,
+      "Name": "彼女を一人で行かせる@{I}彼女を一人で行かせる@{M}Let her go alone",
+      "Description": "……不確かな運命へ向けて。あなたが彼女と会うのは、これが最後になるかもしれない。@{I}...不確かな運命に。彼女は二度と戻らないかもしれない。@{M}...to an uncertain fate. You might never see her again."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180357,
+        "Name": "分かたれた海@{I}分かたれた海@{M}$Sundered Sea -> 分かたれた海$The Sundered Sea",
+        "Description": "「バザールの下には、もう一つの海があります」ペンストックははっきりと言った。「ここよりも青白い海です。ええ。推察するに、あなたはあなたの母親がなしたのと同じ取引をするのでしょう。そうです。かつて、私は彼女がここから降りてゆく手助けをしました。しかし、あれは当時でも酷い賭けでした。そして今でも、バザールは健やかではないのです」(そこで彼は、再びあなたを一瞥した。)「あなたのお気持ちは確かですか？」@{I}「バザールの下には、別の海がある...」ペンストックが言い放つ。「白海、と呼ばれていてな。ああ...お前の母親が交わした約束をお前が果たしてくれるかもしれんなどと思ってしまったよ。ん?ああ、ワシはかつてお前の母親をそこに連れて行く手伝いをした。だがな...それでも彼女はドジ踏んじまった。それ以来バザールも...その話は後だ。」(もう一度貴方を見つめる視線)「本気か?」@{M}$Penstock -> ペンストック$\"There is another sea beneath the Bazaar,\" Penstock declares. \"A paler sea. Yes, I would imagine you might make the bargain your mother made. Yes, I helped her go down there. But she took a terrible chance even then... and the Bazaar is not well. Not now.\" (Another glance at you.) \"Are you certain?\""
+      },
+      "Id": 146264,
+      "Name": "彼女と一緒に行く@{I}彼女と共に行く@{M}Go with her",
+      "Description": "　ペンストックの土地斡旋屋。質素な事務所だが、その立地は慎み深いとは言えなかった。ロンドンに高く聳え立つ、尖塔を備えた交易の砦、バザール。事務所は、そのバザールの東の側壁にぴったりともたれかかるようにして建っていた。あなたは以前にペンストックと会ったことがあった。彼は一度だけ、あなたに残念そうな一瞥をくれた。@{I}ペンストック土地斡旋所： バザールの東の外れ - それはロンドンの雑居ビルの要塞を思わせる威容の - とても目立つ場所に建つ目立たないオフィスだ。貴方は以前にペンストックと会った事がある。彼は貴方に対し、忌々しそうな一瞥をくれただけだった。@{M}$Penstock's Land Agency -> ペンストックの土地斡旋屋, Penstock -> ペンストック$Penstock's Land Agency: a modest office in an immodest location, hard against the eastern flank of the Bazaar - that spired fortress of commerce that towers over London. You've met Penstock before. He spares you a single regretful glance."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180358,
+        "Name": "分かたれた海@{I}分かたれた海@{M}$Sundered Sea -> 分かたれた海$Sundered Sea",
+        "Description": "「バザールの下には、もう一つの海があります」ペンストックははっきりと言った。「ここよりも青白い海です。ええ。推察するに、あなたはあなたの母親がなしたのと同じ取引をするのでしょう。そうです。かつて、私は彼女がここから降りてゆく手助けをしました。しかし、あれは当時でも酷い賭けでした。そして今でも、バザールは健やかではないのです」そこで彼は意味ありげにあなたの方を見た。「だから、バザールには助けが必要なのです」<br/><br/>　彼は娘に向き直った。「あなたのお気持ちは確かですか？」@{I}「バザールの下には、別の海がある...」ペンストックが言い放つ。「白海、と呼ばれていてな。ああ...お前の母親が交わした約束をお前が果たしてくれるかもしれんなどと思ってしまったよ。ん?ああ、ワシはかつてお前の母親をそこに連れて行く手伝いをした。だがな...それでも彼女はドジ踏んじまった。それ以来バザールも...その話は後だ。」彼は意味ありげに貴方を見つめる「これが、彼女が助けを求める理由だ。」\r\n\r\nそして彼は娘に向き直る。「本気か?」@{M}$Penstock -> ペンストック$\"There is another sea beneath the Bazaar,\" Penstock declares. \"A paler sea. Yes, I would imagine you might make the bargain your mother made. Yes, I helped her go down there. But she took a terrible chance even then... and the Bazaar is not well. Not now.\" He looks meaningfully at you. \"Which is why she needs help.\"\r\n\r\nHe turns back to the Daughter. \"Are you certain?\""
+      },
+      "Id": 146265,
+      "Name": "彼女と一緒に行く@{I}彼女と共に行く@{M}Go with her",
+      "Description": "　ペンストックの土地斡旋屋。質素な事務所だが、その立地は慎み深いとは言えなかった。ロンドンに高く聳え立つ、尖塔を備えた交易の砦、バザール。事務所は、そのバザールの東の側壁にぴったりともたれかかるようにして建っていた。あなたは以前にペンストックと会ったことがあった。彼は訝しむような目であなたを見た。「あなたには別の場所でやることがあるのではないですか？」@{I}ペンストック土地斡旋所： バザールの東の外れ - それはロンドンの雑居ビルの要塞を思わせる威容の - とても目立つ場所に建つ目立たないオフィスだ。貴方は以前にペンストックと会った事がある。貴方を見て彼の眉が歪む。「どこか他所でやる事は無いのか?」@{M}$Penstock's Land Agency -> ペンストックの土地斡旋屋, Penstock -> ペンストック$Penstock's Land Agency: a modest office in an immodest location, hard against the eastern flank of the Bazaar - that spired fortress of commerce that towers over London. You've met Penstock before. He cocks an eyebrow at you. \"Don't you have business elsewhere?\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180359,
+        "Name": "分かたれた海@{I}分かたれた海@{M}$Sundered Sea -> 分かたれた海$The Sundered Sea",
+        "Description": "「バザールの下には、もう一つの海があります」ペンストックははっきりと言った。「ここよりも青白い海です。ええ。推察するに、あなたはあなたの母親がなしたのと同じ取引をするのでしょう。そうです。かつて、私は彼女がここから降りてゆく手助けをしました。しかし、あれは当時でも酷い賭けでした。そして今でも、バザールは健やかではないのです」(そこで彼は、再びあなたに険しい視線を浴びせた。)「あなたのお気持ちは確かですか？」@{I}「バザールの下には、別の海がある...」ペンストックが言い放つ。「白海、と呼ばれていてな。ああ...お前の母親が交わした約束をお前が果たしてくれるかもしれんなどと思ってしまったよ。ん?ああ、ワシはかつてお前の母親をそこに連れて行く手伝いをした。だがな...それでも彼女はドジ踏んじまった。それ以来バザールも...その話は後だ。」(もう一度貴方を厳しく見つめる視線)「本気か?」@{M}$Penstock -> ペンストック$\"There is another sea beneath the Bazaar,\" Penstock declares. \"A paler sea. Yes, I would imagine you might make the bargain your mother made. Yes, I helped her go down there. But she took a terrible chance even then... and the Bazaar is not well. Not now.\" (Another hard stare at you.) \"Are you certain?\""
+      },
+      "Id": 146266,
+      "Name": "彼女と一緒に行く@{I}彼女と共に行く@{M}Go with her",
+      "Description": "　ペンストックの土地斡旋屋。質素な事務所だが、その立地は慎み深いとは言えなかった。ロンドンに高く聳え立つ、尖塔を備えた交易の砦、バザール。事務所は、そのバザールの東の側壁にぴったりともたれかかるようにして建っていた。あなたは以前にペンストックと会ったことがあった。彼は険しい表情でたっぷりとあなたを睨みつけた。それから、娘へと注意を移した。@{I}ペンストック土地斡旋所： バザールの東の外れ - それはロンドンの雑居ビルの要塞を思わせる威容の - とても目立つ場所に建つ目立たないオフィスだ。貴方は以前にペンストックと会った事がある。彼は貴方をひどく睨めつけた後、その視線と意識を彼女に移した。@{M}$Penstock's Land Agency -> ペンストックの土地斡旋屋, Penstock -> ペンストック$Penstock's Land Agency: a modest office in an immodest location, hard against the eastern flank of the Bazaar - that spired fortress of commerce that towers over London. You've met Penstock before. He gives you a long hard look, then turns his attention to the Daughter."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 180360,
+        "Name": "分かたれた海@{I}分かたれた海@{M}$Sundered Sea -> 分かたれた海$The Sundered Sea",
+        "Description": "「バザールの下には、もう一つの海があります」ペンストックははっきりと言った。「ここよりも青白い海です。ええ。推察するに、あなたはあなたの母親がなしたのと同じ取引をするのでしょう。そうです。かつて、私は彼女がここから降りてゆく手助けをしました。しかし、あれは当時でも酷い賭けでした。もっとも、現在のバザールはかつてよりも健やかですがね。今ならば以前よりも安全かもしれません」彼はあなたに向けて微笑んだ。「少しだけですが」<br/><br/>　彼は娘に向き直った。「あなたのお気持ちは確かですか？」@{I}「バザールの下には、別の海がある...」ペンストックが言い放つ。「白海、と呼ばれていてな。ああ...お前の母親が交わした約束をお前が果たしてくれるかもしれんなどと思ってしまったよ。ん?ああ、ワシはかつてお前の母親をそこに連れて行く手伝いをした。だがな...それでも彼女はドジ踏んじまった。まぁ、バザールは以前よりは随分と健康的になったがね。今はまだ安全かもしれん。」彼は貴方に微笑みかける。「ほんの少し、だがな。」\r\nそして彼は娘に向き直る。「本気か?」@{M}$Penstock -> ペンストック$\"There is another sea beneath the Bazaar,\" Penstock declares. \"A paler sea. Yes, I would imagine you might make the bargain your mother made. Yes, I helped her go down there. But she took a terrible chance even then... although the Bazaar is healthier than she has been. It might be safer.\" He smiles at you. \"A little safer.\"\r\n\r\nHe turns back to the Daughter. \"Are you certain?\""
+      },
+      "Id": 146267,
+      "Name": "彼女と一緒に行く@{I}彼女と共に行く@{M}Go with her",
+      "Description": "　ペンストックの土地斡旋屋。質素な事務所ではあるが、その立地は慎み深いとは言えなかった。ロンドンに高く聳え立つ、尖塔を備えた交易の砦、バザール。事務所は、そのバザールの東の側壁にぴったりともたれかかるようにして建っていた。あなたは以前にペンストックと会ったことがあった。彼はあなたに暖かな微笑みを向け、それから娘へと注意を移した。@{I}ペンストック土地斡旋所： バザールの東の外れ - それはロンドンの雑居ビルの要塞を思わせる威容の - とても目立つ場所に建つ目立たないオフィスだ。貴方は以前にペンストックと会った事がある。彼は貴方に温かい笑みを投げかけた後、その視線と意識を彼女に移した。@{M}$Penstock's Land Agency -> ペンストックの土地斡旋屋, Penstock -> ペンストック$Penstock's Land Agency: a modest office in an immodest location, hard against the eastern flank of the Bazaar - that spired fortress of commerce that towers over London. You've met Penstock before. He gives you a warm smile, then turns his attention to the Daughter."
+    }
+  ]
+}

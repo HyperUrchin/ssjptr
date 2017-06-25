@@ -1,0 +1,87 @@
+{
+  "Id": 181469,
+  "Name": "暗い部屋@{K}The Dark Room",
+  "Description": "ほとんど完全な静寂。柔らかい呼吸の音。星の死骸、その核の内側に残るかつて生きた経験の押しつぶすような圧力。この場所こそが氷結城の光なき心臓部だ。@{K}$Frostfound -> 氷結城$Almost silence. Soft breath. The crushing pressure of once-lived experience, as at the core of a star-corpse. Frostfound's lightless heart.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 181470,
+        "Name": "\"You\"",
+        "Description": "You permit your hand to drift outwards. Your finger touches the first letter of the Name. It flares instantly into light. Yes, this is what you wrote, before you went East. Blisters blossom on your finger-tip. The second letter. This is what he required, that fierce old creature in the dark. The third letter. When you came below, you knew it would hurt, but not this much. Not this much. The fourth letter - "
+      },
+      "Id": 146940,
+      "Name": "TRAVELLER RETURNING",
+      "Description": "You have been here before. You wrote your name - you wrote it in your blood, which is fire. [This will Wound you.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181471,
+        "Name": "誕生？@{K}Birth?",
+        "Description": "卵に罅が入り、闇が縮んでいく。一瞬氷結城の壁に映る鏡像が見えた。多くの肢を生やし、法を冠とし光を仮面とする輝く姿。しかし、これはより偉大なものの種子となる欠片に過ぎない。『そうだ、』声が唱えた。『そうだ』\r\n\r\n鏡像は卵と共に消え去った。そしてあなたは輝く氷の空虚な殻の中に独り残された。@{K}$Frostfound -> 氷結城$The Egg cracks. The dark withers. For a moment, you see a reflection in the Frostfound wall - a shining shape of many limbs, crowned with law and masked with light, a seed-fragment of a greater whole. YES, the voice you heard intones. YES.\r\n\r\nThe reflection is gone, and so is the Egg. You are alone in an empty cell of softly glowing ice."
+      },
+      "Id": 146941,
+      "Name": "審判の卵の覆いを取る@{K}Unveil a Judgements' Egg",
+      "Description": "光は闇を圧倒する。暗闇にうんざりしたのならば、これがあなたを守ってくれるだろう。[この選択肢を選ぶと恐怖値が０に戻り、あなたは氷結城から追い出されます。]@{K}Light overcomes darkness. If you are are done with darkness, this will preserve you. [This will set your Terror to zero, and expel you from the Dark Room.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181472,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 146942,
+      "Name": "氷結城の回廊に戻る@{K}$Frostfound -> 氷結城$Return to the Corridors of Frostfound",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181490,
+        "Name": "日光に洗われる@{K}A wash of sunlight",
+        "Description": "可能な限り大きく箱を開くと、闇が縮んでいった。一瞬氷結城の壁に映った鏡像が見える。しかし、その鏡像はあなたのものではなく、その上数が多い。その腹は皺が寄り虚ろで、骨には鈎爪のように畝がついている。それは荒涼とした息を吐くと、溶けて消え去った。そしてあなたは輝く氷の空虚な殻の中に独り残された。@{K}$Frostfound -> 氷結城$Open the box as wide as you can. The dark withers. For a moment, you see a reflection in the Frostfound wall - but not yours, or not only. Its belly is puckered and empty, its bones are ridged like claws. It dissolves, with a desolate sigh, and you are alone in an empty cell of softly glowing ice."
+      },
+      "Id": 146953,
+      "Name": "太陽光で満たされた鏡封じの箱を開ける@{K}$Sunlight[- ]Filled Mirrorcatch Box -> 太陽光で満たされた鏡封じの箱, Mirrorcatch Box -> 鏡封じの箱$Open a Sunlight-Filled Mirrorcatch Box",
+      "Description": "光は闇を圧倒する。暗闇にうんざりしたのならば、これがあなたを守ってくれるだろう。[この選択肢を選ぶと恐怖値が劇的に減少し、あなたは氷結城の外に追い出されます。]@{K}Light overcomes darkness. If you are are done with darkness, this will preserve you. [This will dramatically reduce your Terror, and expel you from the Dark Room.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181631,
+        "Name": "高位の者の肉の味@{K}The taste of a higher flesh",
+        "Description": "あなたの口は黄金の血に汚れている。目覚めればこの味は消え去ってしまうだろう。あぁ、その心臓よ！心臓よ！あなたは光で一杯に満たされた。もしかするとあなたは永遠に生きるのかもしれない。@{K}Your mouth is stained with golden blood. It will be gone when you wake. Oh, the heart of it. The heart of it! You swell with light. Perhaps you will live forever."
+      },
+      "Id": 147061,
+      "Name": "食べる@{K}Eat",
+      "Description": "あなたは致命的な傷を負うだろう。もしこれが目が覚めている間のことであれば、死んでしまうに違いない。しかしこの暗闇の中であれば、饗宴を開くことができる。赦されることのない罪を犯し、それでもなお生きることができるのだ。この饗宴は記憶にしか残らないだろうが、それによって負う傷もまた単なる記憶でしかなくなるだろう。@{K}You are mortally wounded. You will die when you wake. Here in the dark, you can feast, committing an unpardonable sin, and live. You will feast only on memory, but your wound, too, is a memory."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181699,
+        "Name": "終焉、あるいは始まりか？@{K}An end, or a beginning?",
+        "Description": "泡の様に軽く繊細なそれを掌の中で優しく揺する。これは羊膜かあるいは棺か。@{K}Cradle it in your hands, that bubble-light fragility. It might be a caul or a coffin. "
+      },
+      "Id": 147113,
+      "Name": "星の殻を回収する@{K}$Star-Shell -> 星の殻$Harvest a Star-Shell",
+      "Description": "ここにはいまだ遥か昔に起きた変化の名残がうち棄てられた状態で残っている。主事が望むものかもしれない。@{K}Something desolate remains of a long-ago change: something the Curator might desire."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181755,
+        "Name": "目覚め@{K}Awakening",
+        "Description": "空気が冷たい。あの氷は現実のものだ。しかしそれ以外はすべて記憶でしかない。@{K}The air is cold. The ice is real. All else was memory."
+      },
+      "Id": 147147,
+      "Name": "あなたは傲慢だ@{K}You are defiant",
+      "Description": "何が言いたい？こんな場所は空想上の神の空想上の住処だろう。外に出て、自分の人生を生きるとしよう。[この選択肢を選ぶと恐怖が無くなり、同時に氷結城から追い出されます。]@{K}$Frostfound -> 氷結城$What? It's only some imaginary god's imagined lair. Leave and live. [This will eject you from Frostfound, removing any Terror.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 181752,
+        "Name": "渇望@{K}Need",
+        "Description": "掌の中に記憶をつかみ取る。\r\n\r\n遥か昔、ある旅人が東へ向かった。他の場所では見つけることの出来ないなにかを求めて。星々の輝く暗き天空の荒野に築かれた幾つもの王国のうちにも、ネイディアのイリーゴの誘惑にも、かの炉の輝きにも、あるいはUnterzeeの深みの押しつぶされるような静寂にも、南方の光にも、分かたれた海にも見つけることのできない物を探して、旅人は東に向かった。他の者もその後に続くだろう。\r\n\r\nあなたは旅人が忘れようとした剥きだしの渇望を知った。旅人は喜ばないだろう。@{K}$Sundered Sea -> 分かたれた海, High Wilderness -> 天上の荒野$Your hand closes on a memory:\r\n\r\nLong ago, a traveller went East, seeking something that could not be found in the black and starry kingdoms of the High Wilderness, nor in the irrigo temptations of the Nadir. Not in the glow of the Forge nor the crushing silence of the Unterzee deeps. Not in the shapeling citadels, not in the light of the South, not of the Sundered Sea. The traveller went East, and others may follow.\r\n\r\nYou have found something the traveller tried to forget: that naked need. The traveller won't be pleased."
+      },
+      "Id": 147146,
+      "Name": "暗闇の中を手探りする@{K}Fumble in the darkness",
+      "Description": "あなたは好奇心を満たすためだけにここまで来たのだろうか？そうだとしても、何かを引き揚げることはできるだろう。[この選択肢は一度しか行えません。]@{K}Was it only curiosity that brought you this far? Perhaps you can salvage something, regardless. [This is only possible once.]"
+    }
+  ]
+}

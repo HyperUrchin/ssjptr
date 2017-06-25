@@ -1,0 +1,17 @@
+{
+  "Id": 155245,
+  "Name": "悪夢の終わり@{M}Nightmare's End",
+  "Description": "重荷は軽くなった。@{M}A weight has lifted.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 155246,
+        "Name": "良かった@{M}That's good",
+        "Description": "...だろう?@{M}...isn't it?"
+      },
+      "Id": 131692,
+      "Name": "夢は過ぎ去った@{M}Your dreams have passed",
+      "Description": "良かった。@{M}That's good"
+    }
+  ]
+}

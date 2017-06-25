@@ -1,0 +1,37 @@
+{
+  "Id": 143043,
+  "Name": "消灯@{I}提灯蟹の死@{M}Death of an Angler",
+  "Description": "　甲殻は粉砕され、輝く突起は静かに横たわっている……@{I}甲羅は叩き割られ、光を灯す提灯は暗くなった...@{M}The shell is shattered; the glowing illiciae lie silent...",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 144285,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 124687,
+      "Name": "殺して、食肉処理をする@{I}解体する@{M}Butcher it",
+      "Description": "　物資と、場合によってはその他の珍品のために。@{I}物資の為に。そして別の奇妙な目的の為に。@{M}For supplies; and occasionally other oddities."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 155737,
+        "Name": "名前を付け間違えられた獣@{M}A mis-named beast",
+        "Description": "実際に観察して貴方は確信を得た。この提灯 - 船乗りの間で '光ってぶら下がるモノ'と呼ばれている物 - は、何という事は無かった。それは、こちらの行動に合わせて揺れているだけで、あたかも磁石で引かれたかの様に貴方の方へ揺られていたのだ!明らかに、これは怪物が使う第六感のような物だろう。もしくは、貴方は甲殻類特有の磁気システムを発見したのかもしれない...@{M}You are confident, now, that these illiciae - in the seaman's vernacular, 'glowy dangly things' - are nothing of the sort. They quivered in response to your movements: they twitched towards you as if drawn by magnets! Clearly, these are another sense the monster uses. Or perhaps you've just discovered crustacean magnetism.."
+      },
+      "Id": 131985,
+      "Name": "観察結果を記録する@{M}Record any Observations",
+      "Description": "もし十分な量を収集出来ていれば、何かを学ぶ事が出来るかもしれない...@{M}If you've gathered enough, you may learn something..."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143044,
+        "Name": "謎は残る@{I}謎は残された@{M}Mysteries remain",
+        "Description": "　うん、血が光ってる。あとは、何もかも酷くべとついてる。ええと……すごいね！@{I}成程、血液が光っている。そしてとんでもなくベタベタする。うへぇ...面白い!@{M}Well, its blood glows. And it's all terribly gooey. Er... fascinating!"
+      },
+      "Id": 123863,
+      "Name": "解剖する@{I}解剖せよ@{M}Dissect it",
+      "Description": "　知識のために。@{I}知識の蓄積の為に。@{M}for knowledge."
+    }
+  ]
+}

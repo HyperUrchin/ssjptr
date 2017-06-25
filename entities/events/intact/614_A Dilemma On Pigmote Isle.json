@@ -1,0 +1,37 @@
+{
+  "Id": 210218,
+  "Name": "A Dilemma On Pigmote Isle",
+  "Description": "The aide takes you to the coast, where the huts still smoulder from the last pirate attack. \"Those beastly raiders keep coming for our precious scintillack,\" it squeaks, shaking a paw in impotent furry rage. \"How can we protect our shores, Hairless Adviser?\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 210221,
+        "Name": "Unhappy soldiers",
+        "Description": "Parents nuzzle their pups farewell, holding back the tears just long enough. The conscripts waddle towards the training camp in hastily made, ill-fitting armour."
+      },
+      "Id": 164876,
+      "Name": "Suggest they raise conscription",
+      "Description": "It will be unpopular, but safety must come first."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 210222,
+        "Name": "Acceptable losses?",
+        "Description": "The aide bows, defeated. \"As you say, Hairless Advisor.\" The attacks continue, growing stronger as the pirates realise how little resistance [q:Pigmote Isle: Mastery] can muster."
+      },
+      "Id": 164877,
+      "Name": "Recommend they accept the loss",
+      "Description": "The scintillack harvesters will have to work harder to make up the shortfall."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 210219,
+        "Name": "Defeat!",
+        "Description": "Pigmote sends its best soldiers against the pirates. Only one returns. On a silver platter. Coated in a honey glaze."
+      },
+      "Id": 164875,
+      "Name": "Advise an attack on their stronghold",
+      "Description": "The pirates must learn that [q:Pigmote Isle: Mastery] will fight back."
+    }
+  ]
+}

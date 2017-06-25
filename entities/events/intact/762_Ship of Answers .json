@@ -1,0 +1,27 @@
+{
+  "Id": 243601,
+  "Name": "Ship of Answers ",
+  "Description": "The wreck has fallen into a crevice in the zee-bed. It lies embraced by the stones. ",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 243602,
+        "Name": "Captain's log  ",
+        "Description": "The inscriptions have been filled with the paste of fungal spores. These luminesce, rendering the words clear in the dark. The writing tells of a passenger obtained; a jilly-stung Chelonate hunter. It describes how he insisted that he be allowed into the cargo hold. Of a pitched battle that ensued when he wasn't. Dried stains underfoot tell the rest. The hold remains secure. \r\n\r\nBreaking it open, you discover a box of bone carvings providing an description of the Chelonate's great turtle and an account of its death. It was not hunted, the carvings claim, only <i>discovered</i>, already dead and rotting. [You could deliver the bone carvings to Scrimshander.]"
+      },
+      "Id": 186083,
+      "Name": "Go deeper inside the wreck",
+      "Description": "The first sweep of your lantern reveals carvings scarring every wall. They are impossible to read in the light, but glow legibly in the dark. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 243603,
+        "Name": "You don your diving gear",
+        "Description": "The hull door opens with a disquieting crunch. A crewman stops to pick bits of skull from his boot. Inside the wreck, bones haunt every surface. Each bone has been split, and hollowed out - so that both inside and out could be inscribed. \r\n\r\nSome of the bones are dated - the first in each skeleton. It appears the crew were chosen for scrivening one at a time. There is something legible on the right ulnar of an otherwise unmarked skeleton: <i>Scrimshander.</i> "
+      },
+      "Id": 186084,
+      "Name": "Board the wreck ",
+      "Description": "The ship is silent as its watery grave. You'll have to enter to uncover it's secrets."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Id": 234644,
+  "Name": "A Slice of Romance",
+  "Description": "The Blemmigan has used half a pot of red ink editing your poetry. It's so absorbed in criticism, it is unaware of you and the Tobacconist.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 234645,
+        "Name": "",
+        "Description": "The Blemmigan does not notice you looming over it as it corrects your metre. It does not notice you raising the knife as it considers helpful edits to your rhyme. And when you drive the blade straight through its cap, it just shudders and dies. A viscous purple mixes with the red ink. \r\n\r\nThe Tobacconist chuckles and blows a satisfied stream of maple-tasting smoke. \"Now, [q:Addressed As]; shall I show you how to carve up the little b____r?\""
+      },
+      "Id": 180221,
+      "Name": "Carve it up",
+      "Description": "\"Don't disturb it,\" the Tobacconist whispers. \"Just take your knife, and...\" "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 234652,
+        "Name": "",
+        "Description": "You pass the knife back to the Crotchety Tobacconist, who frowns sharply. He raises the blade and takes a step toward the Blemmigan. A floorboard creaks underneath him, and the Blemmigan turns around - the Tobacconist lunges toward it and drives the knife through its cap. He stabs it again and again.\r\n\r\nBy the end, his hands are stained red and purple. \"D__n the - this isn't the quality we need,\" he says and sighs. \"Let me be, [q:Addressed As]. Let me have a moment alone.\" "
+      },
+      "Id": 180226,
+      "Name": "Refuse to assist",
+      "Description": "You won't kill a Blemmigan while it's editing poetry. You just won't."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "Id": 168550,
+  "Name": "An Offer of Patronage",
+  "Description": "The King's Claw tells you to call them Isery. They are dressed in azure silk, and wearing clawed rings of enamelled metal and ivory on the fingers of their right hand. They are very beautiful, if you like them sharp and glittering and ambiguously gendered.\r\n\r\n\"You have caught the interest of the Pirate-King, and therefore <i>my</i> interest as well,\" they say, fixing you with an amber-eyed gaze. \"You seem capable enough. And I have need of a capable... friend.\"",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 168551,
+        "Name": "",
+        "Description": "\"Wonderful! Utterly delightful!\" Isery is all smiles and genial bonhomie. \"I shall start thinking of a task fit for your talents. Something special.\" They wave a jewelled hand. \"Run along now, there's a good captain.\""
+      },
+      "Id": 139066,
+      "Name": "Accept their offer",
+      "Description": "You can never have too many friends, in the Neath. [You may only have one Patron on the Isle of Cats. Choose well.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168552,
+        "Name": "",
+        "Description": "Isery strokes a jewelled hand down your cheek. \"You shall be mine now, all traces of the Lady of the Cages wiped clean. How lovely, mmm?\" They do not seem to require a response. You slip away, suppressing a little shiver."
+      },
+      "Id": 139067,
+      "Name": "A change of Patron",
+      "Description": "\"Oh yes, you did some work for Zaira, didn't you? Ah, no matter - she and I look for different things in the zee-Captain.\""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168553,
+        "Name": "",
+        "Description": "You are scrupulously polite in your refusal. Isery smiles, sharp and thin. \"No matter, no matter.\" They drag an enamel-clawed hand across your cheek. \"Do come back, if you find yourself in need of my... friendship.\""
+      },
+      "Id": 139068,
+      "Name": "Refuse Isery",
+      "Description": "Perhaps you are unsettled by Isery's beauty, or perhaps by the prospect of working for one so comfortable with the Catties' Pirate-King. "
+    },
+    {
+      "DefaultEvent": {
+        "Id": 168554,
+        "Name": "",
+        "Description": "\"Dear me, it appears I have made my offer rashly,\" Isery says, ushering you out of their office with perfect courtesy. \"You're already taken! Do say hello to Zaira, won't you? What an excellent eye she has.\""
+      },
+      "Id": 139069,
+      "Name": "Promises made",
+      "Description": "One of the courtesans of the Honeyed Tongue bends down to whisper in Isery's ear, and they give you a thoughtful look."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 169206,
+        "Name": "",
+        "Description": "Isery's eyebrows lift infinitesimally, but their reply is measured. \"When lamplighter bees suck the nectar of this crimson strain of exile's rose, they are driven to madness. They enter the brains of humans and harvest their memories.\" They make a small gesture, as though to elide the exact process. \"Those memories are instilled in red honey. Each sip a burst of memory on the tongue.\"\r\n\r\n\"Each sip,\" they pause to smile, a little contemptuously, \"excruciating for the one whose memories have been extracted. But that is Zaira's domain, rather than my own.\" Isery watches your face, searching for some particular expression. Perhaps they find it, for they clear their throat, and look away. \"Glad you asked?\""
+      },
+      "Id": 139444,
+      "Name": "NOPE",
+      "Description": "You know, of course. But it's probably a good idea to be sure."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 171288,
+        "Name": "",
+        "Description": "\"Oh, my dear. I simply couldn't. No. Don't beg. Have you tried asking Zaira? What? You've disappointed her as well? Oh dear. Are you quite sure the life piratical is the one for you?\" [The Patrons of the Isle of Cats have no further use for you.]"
+      },
+      "Id": 140688,
+      "Name": "Second chances",
+      "Description": "You have failed Isery before. But perhaps they are feeling lenient?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 259425,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 193439,
+      "Name": "Discuss the Well-Travelled Notary's memories",
+      "Description": "Your quest to has led you here. You need to know what the Notary knew - about Nidah, about the Presbyterate, about the secret of immortality."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 260482,
+        "Name": "",
+        "Description": "You broach the subject with delicacy. There is a light in Isery's eyes that you would not describe as 'reassuring'."
+      },
+      "Id": 194259,
+      "Name": "Invite Isery to join the seven Against Nidah",
+      "Description": "Given Lorenzo's misfortune, you find yourselves in need of a new Guide."
+    }
+  ]
+}

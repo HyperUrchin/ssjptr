@@ -1,0 +1,47 @@
+{
+  "Id": 238357,
+  "Name": "Away with a Drownie",
+  "Description": "You find a private place, or as private as anything is on Dahut. Coral screens you from other eyes.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 238358,
+        "Name": "From the diaphragm",
+        "Description": "You have waited until the critical moment, until you were in the embrace of your lover, until you were lying in a bed of discarded clothes. Now, precisely now, you choose to see things as they are: the strained hope on its still-lovely face; the beetroot, prehensile anatomy below. \r\n\r\nSeeing that you are no longer in thrall, your lover pulls a floating silk across its thighs. \"No one has woken in the middle before,\" it says. And: \"It wasn't a lie, but a different seeing.\" Then it withdraws from you, shaking and unsteady. On a rock it deposits a pile of coral-coloured eggs."
+      },
+      "Id": 182659,
+      "Name": "See more clearly",
+      "Description": "Sing the Song of Broken Hulls, and know Dahut properly. Know your lover at the moment of disrobing."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 238359,
+        "Name": "Silk and seaweed",
+        "Description": "There are two stages. The first is languid and ocean-paced, unveiling until you are bedded on the diaphanous clothes of your lover. And then the second part, which commences suddenly and in panic - is your body capable of <i>this</i>? But yes, it is capable, and urgent also.\r\n\r\nAfter, you do up the buttons on your lover's back, and brush away the tiny silver scales that glitter on your hip. "
+      },
+      "Id": 182660,
+      "Name": "Linger",
+      "Description": "Why would you want to be anywhere but here? [This will always grant you some reward, and may give you something unique.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239767,
+        "Name": "Something wrong about the tune",
+        "Description": "Your lover encircles your wrist with one hand and smiles: it's the smile of affection and sympathy, not true love. \"You won't stay,\" your lover says. \"The undrowned never do.\" But there are gifts and kind words and one or two minor secrets of Dahut, in consolation."
+      },
+      "Id": 183593,
+      "Name": "Offer your devotion",
+      "Description": "Sing in your lover's own terms."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 239810,
+        "Name": "One of those",
+        "Description": "Even before you've finished putting the question, your lover's face has changed, exasperation replacing affection.\r\n\r\nWith a sniff, and a dignified gathering of body-veils: \"I should have known what you came for. 'Oh, my beloved has gone to Dahut, and I must rescue her!' If that's what you wanted, you could have just asked, but this way you have an excuse for dallying with a Drownie first. What will you tell her? 'I didn't want to, dearest, and it gave me a shudder to do it, but I had to, just to get you back.'\"\r\n\r\nYou open your mouth, but your lover isn't finished. \"You people say we're liars and deceivers, but we're only giving a little extra colour to what's already in your mind. You wanted to be here, whatever you tell yourself. And so does she! If someone is in prison in Dahut, it's her own doing. The walls are only there if you have a mind to view them.\""
+      },
+      "Id": 183621,
+      "Name": "Ask questions, after",
+      "Description": "What happens to prisoners here? In particular, what might happen to a Prim Lady with a straight back? Ask carefully."
+    }
+  ]
+}

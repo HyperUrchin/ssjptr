@@ -1,0 +1,37 @@
+{
+  "Id": 208100,
+  "Name": "テンジクネズミの貧民街@{M}The Cavy Ghetto",
+  "Description": "戦争の生き残りは全て、この沼地に送り込まれ、そこで彼らは自分達の失敗について考えさせられている。棘付きの壁の上から見下ろす衛兵が、暇つぶしと称して中のモルモット達に尖った石を投げつけている。@{M}The survivors of the war have been sent to this swamp, where they ponder their failure. Rat guards patrol from atop a spiked wall, passing the time by pelting the mud-slicked guinea pigs with sharp rocks.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 208101,
+        "Name": "狡猾な届け物@{M}A sly delivery",
+        "Description": "普通の門番には、無毛の忠告者を調べる勇気を持てなかった。問われた事に対して幾つか慎重に嘘を答え、貴方と貴方の持つ物資は問題なく通り抜ける事が出来た。この恩に報いるには飢えたテンジクネズミの手に有る物は余りにも少なかったが、それでも彼らの船で何とか保管しておいた物を貴方に捧げて来た。@{M}The regular gate guards do not dare search the Hairless Adviser. A few careful lies get you and your supplies through without incident. The starving cavies have little to repay your kindness, but offer what little they managed to keep from their ship."
+      },
+      "Id": 163492,
+      "Name": "貧民街に食料を持ち込む@{M}Smuggle food into the ghetto",
+      "Description": "鼠達が感謝以外に渡せる物は非常に少ないだろう。\r\n[成功するとピグモート島の魂が改善されます。]@{M}$Pigmote Isle -> ピグモート・アイル$The cavies have little to offer except their gratitude. [Success will improve Pigmote Isle's Spirit]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 208103,
+        "Name": "闇夜に乗じた盗人@{M}Thieves in the night",
+        "Description": "何匹かの勇敢なテンジクネズミを変装させるのに、泥は大いに役立った。彼らは\"眼\"を見ない事で慎重に夜目を働かせながら、闇の中を急いで走る。貴方の計画は今の所完璧に進んでいる - 彼らは淑女の瞳を護衛する鼠に忍び寄り、即座に彼らの喉を掻き切った。貴方はその光景を、慎重に保たれた距離から見守っていた。チキンウッドの森を照らしていた光は突然消え失せ、貴方を突然の暗闇が襲う。\r\n\r\n暗闇の中で、何者かが動くのを聞き取る。口の開いた油布の袋から漏れ出る、微かな光。テンジクネズミは凱旋し、貴方に淑女の瞳を、予め合意されていた通りに、手渡した。\r\n\r\n「受ケトレ。」モルモットの首領が囁く。「奴ラカラ、光ヲ奪ウンダ。」\r\n</br >\r\n彼女は闇の中に姿を消した。テンジクネズミが優位を確立すると同時に暗闇の中を金切り声が木霊し、貧民街から大量に彼らが飛び出して混乱した鼠どもに襲いかかる。彼らの至宝を失う事がどのような結末を彼らにもたらすのか今は分からないが、貴方がこの戦いで出来る事は終わった。今が立ち去る時だ。ただ、この地に近い将来戻ってくる事があるかは、疑わしい。@{M}Mud helps to disguise a few of the braver cavies. They scurry through the dark, carefully maintaining their night vision by avoiding looking at the Eye. Your plan works perfectly - they sneak up on the rats guarding the Lady's Eye and slit their throats. You watch from a careful distance. The light of the Chickenwood suddenly goes out, blinding you with sudden darkness.\r\n\r\nYou hear movement. A slight glow from an open oilskin bag. The cavies return triumphant and present you with the Lady's Eye, as agreed.\r\n\r\n\"Take it,\" whispers the lead guinea pig. \"Take their light from them.\" \r\n\r\nShe disappears into the shadows. Squeaks echo in the darkness as the cavies seize their advantage, flooding out of the ghetto to attack the confused rats. The loss of their treasure may or may not decide the outcome, but your part in this fight is over. It is time to leave. You doubt you will be welcome back any time soon."
+      },
+      "Id": 163494,
+      "Name": "Assist the cavy revolution",
+      "Description": "「知恵クレ、ニンゲン。俺タチ、淑女の瞳盗ムノ手伝ウ。宝失エバ、彼ラノ動キハ鈍ルダロウ。」\r\n[これにより淑女の瞳の獲得が確実になりますが、ヴェールが5減少します。]@{M}\"Give us your cunning. We will help you steal the Lady's Eye. The loss will crush their resolve.\" [This guarantees you the Rat Star, but will cost 5 Veils.]"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 208102,
+        "Name": "道は長く険しき@{M}The long road",
+        "Description": "貴方は、鼠族の間でテンジクネズミに対する同情を喚起しようと試みたが、彼らにその気持ちを呼び起こさせるには、直近の戦いの傷はまだ生々しすぎた。泥に塗れた貧民街の中で、革命に対する大きな囁きは、和平への希望をすらかき消す程のものだった。@{M}You attempt to drum up sympathy for the cavies amongst the rats, but the wounds of recent battles are still too fresh. Within the muddy ghetto itself, the ever-louder whispers of revolution drown out any hope for peace."
+      },
+      "Id": 163493,
+      "Name": "融和の仲裁を試みる@{M}Attempt to broker a union",
+      "Description": "ムリニアは、分裂した2つの陣営が1つにまとまれば、更に強くなるだろう。\r\n[成功すれば魂が増え、失敗すれば減ります。]@{M}Murinia will be stronger if its two houses work together. [Success will boost Spirit, failure will reduce it]"
+    }
+  ]
+}

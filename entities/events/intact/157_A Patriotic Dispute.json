@@ -1,0 +1,47 @@
+{
+  "Id": 148817,
+  "Name": "A Patriotic Dispute",
+  "Description": "A crew of Chelonate hunters exchange heated insults with a Khanate privateer. It looks likely to end in blood.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 149361,
+        "Name": "A quiet departure",
+        "Description": "No one sees you go. You've learnt a little lesson in discretion."
+      },
+      "Id": 127980,
+      "Name": "Leave",
+      "Description": "There is nothing to be gained here."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148820,
+        "Name": "It goes badly",
+        "Description": "The foreigners are enraged. There's a scuffle, and somewhere in the scuffle, a stabbing! You fall back hastily to the ship, leaving them to brawl with each other."
+      },
+      "Id": 127649,
+      "Name": "Raise your own flag",
+      "Description": "The Chelonians are savage ghouls who live in a dead turtle. The Khaganians are decadent cowards who can't hold a kingdom together. London is the sole bright light of civilisation in the Neath. Perhaps you should point these things out."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148818,
+        "Name": "A defeat",
+        "Description": "The Chelonians are a fierce crew, and successfully turn the battle against both you and the Khaganians. You withdraw hastily to the safety of your ship."
+      },
+      "Id": 127647,
+      "Name": "Side with the Khaganians",
+      "Description": "They may be foreign, but at least they're halfway sophisticated."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 148819,
+        "Name": "Defeat!",
+        "Description": "The Chelonians are fierce fighers, but the Khaganians have the discipline, and the hand-guns. They rout you both! You withdraw to the safety of your ship."
+      },
+      "Id": 127648,
+      "Name": "Side with the Chelonians",
+      "Description": "They may be uncouth, but at least they're brave."
+    }
+  ]
+}

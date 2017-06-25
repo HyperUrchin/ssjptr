@@ -1,0 +1,27 @@
+{
+  "Id": 236758,
+  "Name": "You have defeated a Wreckship",
+  "Description": "There. It makes a much more convincing wreck now you've finished with it.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 236827,
+        "Name": "There's no such thing as too sure.",
+        "Description": "Whether or not they were playing dead, it's all moot now. There isn't much left, but you might be able to make some repairs using the smithereens. And besides, sometimes destruction is its own reward."
+      },
+      "Id": 181661,
+      "Name": "Destroy them utterly",
+      "Description": "Perhaps they're still shamming. Perhaps you're in need of target practice. Perhaps you just haven't blown anything up in a while."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 236759,
+        "Name": "Enemy territory",
+        "Description": "Your boarding party returns with blood in unexpected places, and longer stares than usual. They managed to swipe a few things of use, but it turns out these pirates have a nasty habit of playing dead in person too. When your back's turned they stick in the knife. Or the boathook. Or flood the whole compartment."
+      },
+      "Id": 181612,
+      "Name": "Send a boarding party",
+      "Description": "\"Don't do anything I wouldn't do!\""
+    }
+  ]
+}

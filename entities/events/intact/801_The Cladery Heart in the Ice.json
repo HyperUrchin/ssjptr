@@ -1,0 +1,27 @@
+{
+  "Id": 246749,
+  "Name": "The Cladery Heart in the Ice",
+  "Description": "The Cladery Heir has sliced away great blocks of Frostfound ice and piled them into a wall. Behind them, the shape of the Cladery Heart is evident, but the hull-flesh is blue with cold.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 254201,
+        "Name": "Perhaps some other time",
+        "Description": "The Cladery Heir packs away her implements and shows no disappointment on her face. There is one blade that has been ruined by the ice and salt. She flings it away into the ocean."
+      },
+      "Id": 190911,
+      "Name": "Give up on cutting the ice for now",
+      "Description": "There is still some ice between you and the Cladery Heart. Who knows how much longer this would take?"
+    },
+    {
+      "DefaultEvent": {
+        "Id": 246750,
+        "Name": "Inert",
+        "Description": "The Cladery Heir pummels the hull-flesh with her fists. She scrapes away accumulated ice with a strigil. She breathes on it, and lays her cheek next to it. The Cladery Heart doesn't stir."
+      },
+      "Id": 188327,
+      "Name": "Bring it back to health",
+      "Description": "\"It is shocked,\" she says. \"And numb. It will need a cure.\""
+    }
+  ]
+}

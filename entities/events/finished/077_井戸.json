@@ -1,0 +1,27 @@
+{
+  "Id": 143963,
+  "Name": "井戸@{M}A Well",
+  "Description": "",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 143964,
+        "Name": "",
+        "Description": ""
+      },
+      "Id": 124471,
+      "Name": "いいえ@{M}No",
+      "Description": ""
+    },
+    {
+      "DefaultEvent": {
+        "Id": 143965,
+        "Name": null,
+        "Description": null
+      },
+      "Id": 124472,
+      "Name": "はい@{M}Yes",
+      "Description": ""
+    }
+  ]
+}

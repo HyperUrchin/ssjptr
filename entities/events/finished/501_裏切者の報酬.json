@@ -1,0 +1,17 @@
+{
+  "Id": 179001,
+  "Name": "裏切者の報酬@{M}A Traitor's Reward",
+  "Description": "あれから数年、ジューダス(裏切りの)キャプテンを襲った恐ろしい運命に関する数多の醜聞が出回った。どれも正確に真実を伝えてはいない。何故なら、生きている何者も、その苦悩がどれほど深かったかを的確に言い表す言葉も持たなかったからだ。\r\n\r\n少なくとも確実に言えるのは、何処かに建国された第二手掌の帝国が象牙の王宮を持った事だった。それは謝意の証として建造されたものだと言う。ただ、直ぐに訪れる者も途絶え、早々と雑草に飲み込まれて消えた、という結末も添えられている。@{M}$Empire of Hands -> エンパイア・オブ・ハンズ$In the years that follow, many stories are told of the hideous fate inflicted on the Judas Captain. None are fully true, for no living tongue has the words to so precisely convey such depths of suffering.\r\n\r\nIt is also more accurately said that somewhere in the Second Empire of Hands stands an ivory shrine, established in gratitude. It soon ceases to be visited, and is quickly lost to the weeds.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 179002,
+        "Name": "悲惨な帰郷@{M}A poor homecoming",
+        "Description": "皇帝は貴方の仕事に感謝している。[貴方はもうロンドンに戻れない事をお忘れなく。]@{M}The Emperor thanks you for your service. [You were warned not to return to London.]"
+      },
+      "Id": 145473,
+      "Name": "歴史の闇に消える@{M}You fade away into history",
+      "Description": "その時が来たら、幸がある。@{M}When the moment comes, it is a blessing."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Id": 149090,
+  "Name": "スナッファーの食欲@{M}$Snuffer -> スナッファー$The Snuffer's Appetite",
+  "Description": "また別の船員が行方不明になった。そして甲板で打ち捨てられた顔が見つかる。まるで貴方を嘲笑うかの様に。@{M}Another crewman has gone missing. Another abandoned face found on deck, as if to taunt you.",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 149091,
+        "Name": "兆候無し@{M}No sign",
+        "Description": "全員が人間だと、船医からの報告を受けた。どうやらスナッファーは船外へ逃亡したらしい。...もし彼の者がまだ船内の何処かに隠れていなければ、の話だが。そして...もし船医が彼の...いや。貴方は誰かを信用しなければならない。そして船医は貴方が良く知る人間だったのだ。@{M}$Snuffer -> スナッファー$All are human, your physician reports. Most likely the Snuffer has escaped overboard. Unless it's still hiding somewhere in the ship. Unless your physician is the one who... no. You have to trust someone, and this is someone you know well."
+      },
+      "Id": 127814,
+      "Name": "船医に船員を調べさせる@{M}Have the ship's doctor examine your crew",
+      "Description": "各々が自らの横を疑いの目で見ている。船医が詳細で正確な判断をもたらしてくれるだろう。@{M}Each eyes the other sidelong. Your physician can provide a more educated evaluation."
+    },
+    {
+      "DefaultEvent": {
+        "Id": 149093,
+        "Name": "事故発生!@{M}An accident!",
+        "Description": "貴方は藤色をした準両生類の脂肪を獣脂に溶かし入れようとしていたが、上手く行かなかった。船医が貴方に軟膏と包帯を巻き付けながら、悲しげに舌打ちする。@{M}You try to render mauve quasi-amphibian fats into tallow. It does not go well. The doctor applies ointment and bandages, clucking sadly."
+      },
+      "Id": 127815,
+      "Name": "策を練る@{M}Use a ruse",
+      "Description": "逸話によると、スナッファーは蝋燭を食う様だ。彼らは普通の蝋燭では警戒して釣られそうもないが、もしどうにかして珍しい物を作る事が出来れば...@{M}$Snuffer -> スナッファー$Snuffers, the stories say, eat candles. They are too cunning to be caught by a bait of common candles, but if you could render down something rare..."
+    }
+  ]
+}
