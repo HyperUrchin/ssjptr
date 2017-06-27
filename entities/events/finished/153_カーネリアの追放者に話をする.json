@@ -137,7 +137,7 @@
       "DefaultEvent": {
         "Id": 187752,
         "Name": "眼鏡の奥で、彼女が目を閉じられたのを感じる@{M}Behind her glasses, you sense somehow that she has closed her eyes",
-        "Description": "「貴方は地図を完全に覚えている筈です。」彼女は柔らかく言う。それぞれの力持つ者の家に入った。そして貴方は、燃え盛る真実をもたらし、燃え盛る名前と一致させる必要がある。@{M}\"You must have mastered the map,\" she says softy. \"Entered in the house of every Power. And you'll need to bring a burning truth to match the burning Name."
+        "Description": "「あなたは地図を隅々まで知っているでしょう」彼女は優しく言った。「全ての力あるものの住処を訪れたのですから。そして、燃え盛る名を得るためにはそれに見合った燃える真実を持っていかねばなりません」@{K}「貴方は地図を完全に覚えている筈です。」彼女は柔らかく言う。それぞれの力持つ者の家に入った。そして貴方は、燃え盛る真実をもたらし、燃え盛る名前と一致させる必要がある。@{M}\"You must have mastered the map,\" she says softy. \"Entered in the house of every Power. And you'll need to bring a burning truth to match the burning Name."
       },
       "Id": 150875,
       "Name": "\"名前の監獄\"について追放者に話をする@{M}Speak to the Exile about the \"Name's prison\"",
