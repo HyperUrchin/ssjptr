@@ -1,0 +1,13 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "ここにはのたうつ臓器があり、あちらでは足が痙攣している。船は速度を落とし、銅のような匂いのする青みがかった血を被って悪臭を放つ死にかけの蜘蛛の胴体の傍を通った。あなたは望む以上に多くのことを見て学んだ。あそこを見ろ！あの筒状鞘の中だ！船の銛で引き揚げてみよう。これは何だ？\u000d\u000a\u000d\u000aこれからも常に新たなツリー・オブ・エイジズは現れるだろう。悲哀蜘蛛は忍耐強く、無数に存在する。しかし、あなたは少なくともこの個体の心臓を手に入れた。@{K}$[Ss]orrow-spider -> 悲哀蜘蛛, Tree of Ages -> ツリー・オブ・エイジズ$Here is a writhing organ, there a twitching limb. Your ship slows as it navigates a slick of stinking, dying spider-flesh awash with bluish, copper-smelling blood. You see and learn more than you'd ever wish. There! There, in that tubule-sheath! Haul it out with a boat-hook. What is it?\u000d\u000a\u000d\u000aThere will always be another <i>Tree of Ages</i>. The sorrow-spiders are patient, and numberless. But you have this one's heart.",
+                                     "Name": "脈打つリリック@{K}Pulsing relics", "Id": 153575},
+                    "Name": "漁る@{K}Loot",
+                    "Description": "ツリー・オブ・エイジズは結局のところ木なのだからそこに積み荷はない。あるのは蜘蛛の肉と毒だけだ。しかしもしかするとあなたは蜘蛛の肉を必要としているのかもしれない。@{K}$Tree of Ages -> ツリー・オブ・エイジズ$The <i>Tree of Ages</i> carries no cargo, only spider-flesh and venom - but perhaps you have a need for spider-flesh.",
+                    "ButtonText": "", "Id": 130586},
+                   {"DefaultEvent": {"Description": "船は速度を落とし、銅のような匂いのする青みがかった血を被って臭を放つ死にかけの蜘蛛の胴体の傍を通った。その縁に浮かぶ泡の中には幾つもの顔が見える。それは星々の間にて話される言葉で何事か叫んでいた。悲哀蜘蛛たちはこの場所に巣を作るため遥々旅してきたのだ。そしてここであなたはその狂暴な生を終わらせた。これで終わりではない。これからも常に新たな蜘蛛は現れるだろう。@{K}$[Ss]orrow-spider -> 悲哀蜘蛛$You skirt a slick of stinking, dying spider-flesh awash with bluish, copper-smelling blood. Faces form in the bubbles at its edges. Voices cry out in the languages spoken between the stars. The sorrow-spiders have come far, to lair in this place, and now you have ended their fierce lives. There will be more. There will always be more.",
+                                     "Name": "安全な距離？@{K}A safe distance?", "Id": 155733},
+                    "Name": "学ぶ＠｛K}Learn",
+                    "Description": "消滅の様子を観察し、学びの糧としよう。@{K}Watch the dissolution. Learn what you can.",
+                    "ButtonText": "", "Id": 131981}],
+ "Description": "その甲殻は装甲をつけた氷のように砕けた。多くの脚の生えた凹凸のある何かが大量に這い出してきて海面を埋め尽くす……何匹もの蜘蛛が融合して一つになった生き物が鼠のように逃げ出しているのだ。ツリーが崩れていく！@{K}Its carapace cracks like armoured ice. Bulbous, many-legged shapes swarm out, flood the water - the spiders which comprise its flesh, fleeing like rats. It's breaking up!",
+ "Name": "ツリー・オブ・エイジズ@{K}$Tree of Ages -> ツリー・オブ・エイジズ$The Tree of Ages Uprooted",
+ "Id": 153574}
