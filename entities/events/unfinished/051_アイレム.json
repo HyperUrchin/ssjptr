@@ -56,12 +56,12 @@
     {
       "DefaultEvent": {
         "Id": 187681,
-        "Name": "$Seven-Serpent -> セブン・サーペント$Up the steps to the Seven-Serpent",
-        "Description": "$Salt's Song -> Saltの歌$In a waking dream, it will rotate its necks like the arms of an articulated god. It will train its eyes on you. It will hiss, sevenfold, \"You have come for Salt's Song.\""
+        "Name": "階段を上りセブン・サーペントの下へ行く@{K}$Seven-Serpent -> セブン・サーペント$Up the steps to the Seven-Serpent",
+        "Description": "目覚めてみる夢の中で、それは幾つもの首を多関節の神の腕の様に巡らせるだろう。それはあなたへと視線を注ぐ。そして七重のシューと囁くような音を立てるだろう。「そなたはSaltの歌のため参ったのだな」@{K}$Salt's Song -> Saltの歌$In a waking dream, it will rotate its necks like the arms of an articulated god. It will train its eyes on you. It will hiss, sevenfold, \"You have come for Salt's Song.\""
       },
       "Id": 150832,
-      "Name": "$Salt's Song -> Saltの歌$Gain Salt's Song",
-      "Description": "You will know where to go. You will remember from the first time you were here. "
+      "Name": "Salyの歌を得る@{K}$Salt's Song -> Saltの歌$Gain Salt's Song",
+      "Description": "あなたは自分がどこへ向かうのかを知ることとなる。そして此処へ初めて来た時のことを思い出すだろう。@{K}You will know where to go. You will remember from the first time you were here. "
     },
     {
       "DefaultEvent": {
