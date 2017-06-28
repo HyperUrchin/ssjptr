@@ -1,0 +1,12 @@
+{
+  "Id": 19,
+  "Name": "A Notch in the Shell",
+  "Description": "Skin-and-bone stalls crowd a narrow space.",
+  "Shops": [
+    {
+      "Id": 43,
+      "Name": "Uncle Ankle's Lean Place",
+      "Description": "Be welcome! Here are trophies!"
+    }
+  ]
+}

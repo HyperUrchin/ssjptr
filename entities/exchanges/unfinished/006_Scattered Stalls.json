@@ -1,0 +1,12 @@
+{
+  "Id": 8,
+  "Name": "Scattered Stalls",
+  "Description": "Scattered stalls on the dock-side.",
+  "Shops": [
+    {
+      "Id": 32,
+      "Name": "Harbour Provisioners",
+      "Description": "A sluggish and hostile merchant squints warily. A few goods of indifferent quality are available."
+    }
+  ]
+}

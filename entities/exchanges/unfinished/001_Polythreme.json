@@ -1,0 +1,12 @@
+{
+  "Id": 13,
+  "Name": "Polythreme",
+  "Description": "BUY. SELL.",
+  "Shops": [
+    {
+      "Id": 40,
+      "Name": "Temple of Labours",
+      "Description": "BRING MATERIAL."
+    }
+  ]
+}

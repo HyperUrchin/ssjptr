@@ -1,0 +1,22 @@
+{
+  "Id": 3,
+  "Name": "Nephrite Quarter",
+  "Description": null,
+  "Shops": [
+    {
+      "Id": 17,
+      "Name": "Licensed Exchange",
+      "Description": "High prices for feathers blue as the lost sky; and a few other plums."
+    },
+    {
+      "Id": 18,
+      "Name": "Red Stallion Publishing",
+      "Description": "Scrolls, pamphlets, and books in a dozen languages."
+    },
+    {
+      "Id": 19,
+      "Name": "Shipyard",
+      "Description": "Equipment"
+    }
+  ]
+}

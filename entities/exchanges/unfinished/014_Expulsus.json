@@ -1,0 +1,12 @@
+{
+  "Id": 16,
+  "Name": "Expulsus",
+  "Description": "GIVE BONE TAKE SPIRIT",
+  "Shops": [
+    {
+      "Id": 21,
+      "Name": "House of Harms",
+      "Description": "Today, the law is suffering."
+    }
+  ]
+}

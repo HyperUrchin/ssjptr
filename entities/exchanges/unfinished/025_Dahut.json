@@ -1,0 +1,12 @@
+{
+  "Id": 27,
+  "Name": "Dahut",
+  "Description": "Here: peace.",
+  "Shops": [
+    {
+      "Id": 55,
+      "Name": "Dahut Exchange",
+      "Description": "It could almost be Wolfstack."
+    }
+  ]
+}

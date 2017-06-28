@@ -1,0 +1,12 @@
+{
+  "Id": 20,
+  "Name": "A Bountiful Exchange",
+  "Description": "How kind are the many-legged neighbours, to sell their gifts so cheaply!",
+  "Shops": [
+    {
+      "Id": 44,
+      "Name": "Spinner's Delight",
+      "Description": "Come in; come in. Touch our goods. Caress them."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Id": 15,
+  "Name": "The Gesundheit Conspiracy",
+  "Description": "You will be happy, and healthy. Nothing else remains.",
+  "Shops": [
+    {
+      "Id": 28,
+      "Name": "House of Harvests",
+      "Description": "\"Take,\" the merchants tell you. \"Eat. Only let us drink.\""
+    }
+  ]
+}

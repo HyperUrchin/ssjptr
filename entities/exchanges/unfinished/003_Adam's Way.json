@@ -1,0 +1,12 @@
+{
+  "Id": 5,
+  "Name": "Adam's Way",
+  "Description": "The gateway to the Continent's treasures.",
+  "Shops": [
+    {
+      "Id": 23,
+      "Name": "Peleghast's Post",
+      "Description": "The sign at the door reads: LICENSED FOR MORTAL TRADE"
+    }
+  ]
+}

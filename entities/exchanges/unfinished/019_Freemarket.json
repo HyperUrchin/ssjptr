@@ -1,0 +1,17 @@
+{
+  "Id": 18,
+  "Name": "Freemarket",
+  "Description": "Trade unfettered by the Khanate's law.",
+  "Shops": [
+    {
+      "Id": 42,
+      "Name": "Dearly Departed",
+      "Description": "Purchase what remains."
+    },
+    {
+      "Id": 48,
+      "Name": "Traveller's Friend",
+      "Description": "Fuel, supplies, and wonders."
+    }
+  ]
+}

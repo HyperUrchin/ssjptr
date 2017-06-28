@@ -1,0 +1,12 @@
+{
+  "Id": 25,
+  "Name": "Hideaway",
+  "Description": "A place of refuge.",
+  "Shops": [
+    {
+      "Id": 53,
+      "Name": "Exile Bazaar",
+      "Description": "The people of Hideaway have little to offer; just some oddities from the zee-bed."
+    }
+  ]
+}

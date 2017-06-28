@@ -1,0 +1,22 @@
+{
+  "Id": 7,
+  "Name": "Tomb-Colonies",
+  "Description": "Cobwebbed harbours of antique stone.",
+  "Shops": [
+    {
+      "Id": 29,
+      "Name": "Arcade of Sighs",
+      "Description": "Here the solemn bandaged merchants of the colonies trade old cold coins for brighter things."
+    },
+    {
+      "Id": 30,
+      "Name": "Hollow Temple",
+      "Description": "The image of a long-snouted reptile god still stands in the temple, but now storytellers gather here. "
+    },
+    {
+      "Id": 31,
+      "Name": "The Charnel Lounge",
+      "Description": "Do you have tomb-colonists? Drop them off here for payment."
+    }
+  ]
+}

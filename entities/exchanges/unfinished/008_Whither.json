@@ -1,0 +1,17 @@
+{
+  "Id": 10,
+  "Name": "Whither",
+  "Description": "Where are questions born?",
+  "Shops": [
+    {
+      "Id": 37,
+      "Name": "Fortune & Fortune",
+      "Description": "Purveyors of white coke and mutersalt. Payment in stories."
+    },
+    {
+      "Id": 38,
+      "Name": "The Hunter's Cage",
+      "Description": "A sign reads: BONES PLEASE. The proprietor will sell you beast-meat for stories, or buy your ivory."
+    }
+  ]
+}

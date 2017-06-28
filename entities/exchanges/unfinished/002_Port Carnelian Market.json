@@ -1,0 +1,17 @@
+{
+  "Id": 4,
+  "Name": "Port Carnelian Market",
+  "Description": "Not just sapphires. Although there are quite a lot of sapphires.",
+  "Shops": [
+    {
+      "Id": 20,
+      "Name": "Dockside Market",
+      "Description": "The stalls are almost the same as Wolfstack. So are the sounds. The scents are utterly different."
+    },
+    {
+      "Id": 22,
+      "Name": "Sapphire Exchange",
+      "Description": "Actually, this place is indeed mostly sapphires."
+    }
+  ]
+}

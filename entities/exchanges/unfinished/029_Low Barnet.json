@@ -1,0 +1,12 @@
+{
+  "Id": 32,
+  "Name": "Low Barnet",
+  "Description": "The bell still tolls.",
+  "Shops": [
+    {
+      "Id": 61,
+      "Name": "Low Church",
+      "Description": "Supplies for stories."
+    }
+  ]
+}

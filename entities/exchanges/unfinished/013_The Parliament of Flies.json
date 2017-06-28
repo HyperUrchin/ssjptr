@@ -1,0 +1,12 @@
+{
+  "Id": 6,
+  "Name": "The Parliament of Flies",
+  "Description": "Flies. Listen.",
+  "Shops": [
+    {
+      "Id": 26,
+      "Name": "House of Pleasures",
+      "Description": "The flies will caress you with their wings. Hurry up and purchase something."
+    }
+  ]
+}

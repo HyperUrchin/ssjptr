@@ -1,0 +1,12 @@
+{
+  "Id": 17,
+  "Name": "Market of Hungers",
+  "Description": "Use a MARKET OF HUNGERS choice under STORY to access more goods.",
+  "Shops": [
+    {
+      "Id": 41,
+      "Name": "Fire in the Belly",
+      "Description": "The Market always sells Fuel. Use a MARKET story choice for more goods."
+    }
+  ]
+}

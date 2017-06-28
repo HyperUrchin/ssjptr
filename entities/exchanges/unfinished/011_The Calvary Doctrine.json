@@ -1,0 +1,12 @@
+{
+  "Id": 14,
+  "Name": "The Calvary Doctrine",
+  "Description": "Sacrifice what is needful, and gain that which is desirable.",
+  "Shops": [
+    {
+      "Id": 25,
+      "Name": "The House of Milks",
+      "Description": "Coffee and fuel drip from dragon-teats. "
+    }
+  ]
+}
