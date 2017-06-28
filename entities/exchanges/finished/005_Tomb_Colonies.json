@@ -1,0 +1,22 @@
+{
+  "Id": 7,
+  "Name": "墓人街@{K}Tomb-Colonies",
+  "Description": "旧い石からなる蜘蛛の巣の張った港町。@{K}Cobwebbed harbours of antique stone.",
+  "Shops": [
+    {
+      "Id": 29,
+      "Name": "嘆息の商店街@{K}Arcade of Sighs",
+      "Description": "ここでは厳粛な包帯巻きの商人たちが、古く冷たい硬貨をより明るく輝く品物と交換している。@{K}Here the solemn bandaged merchants of the colonies trade old cold coins for brighter things."
+    },
+    {
+      "Id": 30,
+      "Name": "空虚なる寺院@{K}Hollow Temple",
+      "Description": "その寺院の中には、長い鼻先を持つ爬虫類の神の像がいまだ残されている。しかし今この場所に集まるのは語り部たちだ。@{K}The image of a long-snouted reptile god still stands in the temple, but now storytellers gather here. "
+    },
+    {
+      "Id": 31,
+      "Name": "納骨堂兼社交室@{K}The Charnel Lounge",
+      "Description": "墓人を連れているのか？ここに彼らを連れて行き、報酬を受取ろう。@{K}Do you have tomb-colonists? Drop them off here for payment."
+    }
+  ]
+}

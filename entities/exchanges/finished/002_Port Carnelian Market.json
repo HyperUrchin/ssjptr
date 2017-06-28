@@ -1,0 +1,17 @@
+{
+  "Id": 4,
+  "Name": "ポート・カーネリアン・マーケット@{K}Port Carnelian Market",
+  "Description": "ここにあるのはサファイアだけじゃない。もっとも、かなりの量のサファイアがあるのは確かだが。@{K}Not just sapphires. Although there are quite a lot of sapphires.",
+  "Shops": [
+    {
+      "Id": 20,
+      "Name": "市場@{K}Dockside Market",
+      "Description": "此処に並ぶ屋台はほとんどウルフスタック港と変わらない。それに音も同じだ。けれど匂いは全く違う。@{K}The stalls are almost the same as Wolfstack. So are the sounds. The scents are utterly different."
+    },
+    {
+      "Id": 22,
+      "Name": "サファイア・エクスチェンジ@{K}Sapphire Exchange",
+      "Description": "本当のところ、確かにこの場所の取引のほとんどはサファイアだ。@{K}Actually, this place is indeed mostly sapphires."
+    }
+  ]
+}

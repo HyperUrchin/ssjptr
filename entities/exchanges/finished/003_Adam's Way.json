@@ -1,0 +1,12 @@
+{
+  "Id": 5,
+  "Name": "アダムの道@{K}Adam's Way",
+  "Description": "旧大陸の宝へと続く玄関口だ。@{K}The gateway to the Continent's treasures.",
+  "Shops": [
+    {
+      "Id": 23,
+      "Name": "ピールガースト交易所@{K}Peleghast's Post",
+      "Description": "入口の標識にはこう書かれていた。“定命の者との交易許可を受けています”@{K}The sign at the door reads: LICENSED FOR MORTAL TRADE"
+    }
+  ]
+}

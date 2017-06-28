@@ -1,0 +1,17 @@
+{
+  "Id": 11,
+  "Name": "コルセアズ・フォレスト@{K}Corsair's Forest",
+  "Description": "略奪品売り出し中、あるいは貸し出し中。@{K}Loot for sale or rent.",
+  "Shops": [
+    {
+      "Id": 24,
+      "Name": "意地汚い役人@{K}The Arrant Limpet",
+      "Description": "いつもワインと蜂蜜を欲しがっている。彼らの物資に対して付ける値は私掠船に等しい。@{K}Always eager for wine and honey. Their supply prices are calibrated for corsairs."
+    },
+    {
+      "Id": 49,
+      "Name": "友好的な顔@{K}The Friendly Face",
+      "Description": "勿論ここでは禁制品を売ることもできる。そして勿論、適正な値は期待できない。@{K}Of course you can sell illicit goods here. And of course you can't expect to get a fair price."
+    }
+  ]
+}

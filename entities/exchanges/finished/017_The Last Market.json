@@ -1,0 +1,22 @@
+{
+  "Id": 21,
+  "Name": "最後の市場@{K}The Last Market",
+  "Description": "この場所の先には、何がある？@{K}Beyond this place, who knows?",
+  "Shops": [
+    {
+      "Id": 45,
+      "Name": "暁の釣り人@{K}The Fisher of Dawn",
+      "Description": "この者は眠りの先にある川で宝を見つけるだろう。相応しい交唱歌を用意しよう。@{K}This one will find treasures in a river beyond sleep. Bring a suitable antiphon."
+    },
+    {
+      "Id": 46,
+      "Name": "敷居@{K}Threshold",
+      "Description": "アイレムより東に漕ぎ出すものはいない。ここはアイレムから東へ漕ぎ出す者たちのための店だ。@{K}None sail East from Irem. This shop is for those who sail East from Irem."
+    },
+    {
+      "Id": 47,
+      "Name": "『風来たり』@{K}Wind-Come-Calling",
+      "Description": "物語と物語と物語。@{K}Tales and tales and tales."
+    }
+  ]
+}

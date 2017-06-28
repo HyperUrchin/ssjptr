@@ -1,0 +1,17 @@
+{
+  "Id": 10,
+  "Name": "ウィザー@{K}Whither",
+  "Description": "謎の生まれる場所？@{K}Where are questions born?",
+  "Shops": [
+    {
+      "Id": 37,
+      "Name": "幸運と財宝@{K}Fortune & Fortune",
+      "Description": "白い石炭から作られた燃料と黙らせ塩を扱う卸商。お代は物語で。@{K}Purveyors of white coke and mutersalt. Payment in stories."
+    },
+    {
+      "Id": 38,
+      "Name": "狩人の檻@{K}The Hunter's Cage",
+      "Description": "標識にはこう書かれていた。“骨を　おねがいします”。経営者は物語と引き換えに獣の肉を売ってくれるだろう。あるいはあなたの持つ牙を買い取ってくれる。@{K}A sign reads: BONES PLEASE. The proprietor will sell you beast-meat for stories, or buy your ivory."
+    }
+  ]
+}

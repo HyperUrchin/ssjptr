@@ -1,0 +1,12 @@
+{
+  "Id": 19,
+  "Name": "殻の刻み目@{K}A Notch in the Shell",
+  "Description": "骨と皮の屋台が狭い場所に犇めいている。@{K}Skin-and-bone stalls crowd a narrow space.",
+  "Shops": [
+    {
+      "Id": 43,
+      "Name": "アンクルおじさんの狭い店@{K}Uncle Ankle's Lean Place",
+      "Description": "好きに見てってくれ！怪物狩りの戦利品もあるぞ！@{K}Be welcome! Here are trophies!"
+    }
+  ]
+}
