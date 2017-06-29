@@ -1,6 +1,6 @@
 {
   "Id": 177526,
-  "Name": "Your Father: Bones?",
+  "Name": "父の：遺骨？@{K}Your Father: Bones?",
   "Description": "数十年前のこと、あなたの父親は借金取りたちに追われ、酒とヴィザージュに逃げ込んだ。「もちろんこんな生活好きでやってるんじゃない」彼は語る。「でもZeeで船長をするってのはかなり金のかかる商売だとお前も知ってるだろ。燃料の費用だけでも相当だ！未亡人は俺の最後の航海に出資していたんだ。そして彼女はそういうことを決して忘れない。待てよ、お前、未亡人とは話してないよな？」\r\n\r\n「あぁ、まずいな」@{K}$Visage -> ヴィザージュ$Decades ago, your father took refuge from his creditors, in Visage and in the bottle. \"Of course I don't much like it,\" he explains. \"But you know how expensive it can get, zee-captaining. The price of fuel alone! The Widow financed my last voyage, and the Widow never forgets. Wait. You haven't spoken to the Widow, have you?\"\r\n\r\n\"Well, bugger.\"",
   "ChildBranches": [
     {
