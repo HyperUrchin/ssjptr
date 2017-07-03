@@ -1,0 +1,17 @@
+{
+  "Id": 214576,
+  "Name": "アルカイオス級船を打ち倒した@{K}You've defeated an Alcaeus-class vessel",
+  "Description": "この船はあなたの物だ！さて、どうしようか？@{K}The ship is yours! What will you do with her?",
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Id": 214579,
+        "Name": "これは何だ？@{K}What's this?",
+        "Description": "船倉の後部に何かがある……@{K}Here's something at the back of the hold..."
+      },
+      "Id": 167672,
+      "Name": "穴を開けて沈める@{K}Scuttle her",
+      "Description": "上等な船だ。奪えるものだけ奪って先に進もう。@{K}She was a fine ship. Take what you can and move on."
+    }
+  ]
+}
