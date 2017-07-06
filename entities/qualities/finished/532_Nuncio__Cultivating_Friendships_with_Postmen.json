@@ -1,0 +1,4 @@
+{"Description": "ナンシノウの住民は疑り深く、交友を深めるには時間がかかる。@{I}ヌンシオの住民が友好を深めるには時間がかかり、しかも疑い深い。@{M}$Nuncio -> ナンシノウ$The inhabitants of Nuncio are slow to friendship, and suspicious.",
+ "LevelDescriptionText": "1|新参者~4|地元民から歓迎される~6|ナンシノウで信頼される@{I}1|新顔~4|町内で受け入れられる~6|ヌンシオで信頼されている@{M}$Nuncio -> ナンシノウ$1|A Newcomer~4|Accepted by the Locals~6|Trusted in Nuncio",
+ "Name": "ナンシノウ: 配達員たちとの交友を深める@{I}ヌンシオ: 郵便配達人との交友を深める@{M}$Nuncio -> ナンシノウ$Nuncio: Cultivating Friendships with Postmen",
+ "Id": 115756}

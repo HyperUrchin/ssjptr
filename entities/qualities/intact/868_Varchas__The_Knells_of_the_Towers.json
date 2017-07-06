@@ -1,0 +1,4 @@
+{"Description": "ヴァルカスは5つの塔を持っている。それぞれの鐘が鳴り終わった時、それは夜が訪れたという意味だ。@{M}$Varchas -> ヴァーチャス$Varchas has five mirrored towers. When each has sounded its bell, it is evening.",
+ "ChangeDescriptionText": "1|最初の塔の鐘が鳴り響いた。~2|二つ目の塔の鐘が鳴り響いた。~3|三つ目の塔の鐘が鳴り響いた。~4|四つ目の塔の鐘が鳴り響いた。~5|五つ目の塔の鐘が鳴り響いた: もう夕方だ。~6|今は夜だが、ヴァルカスには暗闇と言うものが無い。寝る時間だ。~7|ヴァルカスで許可された滞在時間は終わった。行かなければならない。また今度。@{M}$Varchas -> ヴァーチャス$1|The first Tower-bell has sounded.~2|The second Tower-bell has sounded.~3|The third Tower-bell has sounded.~4|The fourth Tower-bell has sounded.~5|The fifth Tower-bell has sounded: it is evening.~6|It is night, although there is no darkness in Varchas. Time to sleep.~7|Your permitted time in Varchas is over. Time to go; until next time.",
+ "Name": "ヴァルカス: 塔の鐘の音@{M}$Varchas -> ヴァーチャス$Varchas: The Knells of the Towers",
+ "Id": 113081}

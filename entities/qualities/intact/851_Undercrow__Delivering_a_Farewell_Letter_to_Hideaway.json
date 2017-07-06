@@ -1,0 +1,5 @@
+{"Description": "A letter from the Almost Dead Man, bidding farewell to a lover in Hideaway.",
+ "LevelDescriptionText": "1|Unopened and pristine~2|Stealthily read~3|Clearly perused",
+ "ChangeDescriptionText": "3|The letter has clearly been opened.~2|No one could tell it's been read. Could they?~1|You've accepted a farewell letter to be delivered to Hideaway.",
+ "Name": "Undercrow: Delivering a Farewell Letter to Hideaway",
+ "Id": 127586}

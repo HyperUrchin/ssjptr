@@ -1,0 +1,5 @@
+{"Description": "生まれた時からzeeの船長だなんて奴はいない。@{I}人は誰もジーキャプテンとしては生まれて来ない。@{M}No one was born a zee-captain.",
+ "LevelDescriptionText": "1|影に包まれた過去~2|浮浪児~3|詩人~4|軍人~5|堕落した聖職者~6|自然哲学者@{I}1|過去は影の中に渦巻く~2|家なき子~3|詩人~4|戦士~5|堕ちた司祭~6|自然哲学者@{M}1|A Past Wreathed in Shadows~2|A Street-Urchin~3|A Poet~4|A Soldier~5|A Fallen Priest~6|A Natural Philosopher",
+ "ChangeDescriptionText": "1|未だ、あなたは謎のままだ~3|かつて、あなたは苦闘する詩人だった。今や、あなたはzeeの船長だ~2|かつて、あなたは浮浪児だった。今や、あなたはzeeの船長だ~4|かつて、あなたは疲れ果てた軍人だった。今や、あなたはzeeの船長だ~5|かつて、あなたは堕落した聖職者だった。今や、あなたはzeeの船長だ~6|かつて、あなたは自然哲学者だった。今や、あなたはzeeの船長だ@{I}1|今は、貴方は謎に包まれている。~2|貴方はかつて家なき子だった。今、貴方はジーキャプテンだ。~3|貴方はかつてもがき苦しむ詩人だった。今、貴方はジーキャプテンだ。~4|貴方はかつて用心深い戦士だった。今、貴方はジーキャプテンだ。~5|貴方はかつて堕ちた司祭だった。今、貴方はジーキャプテンだ。~6|貴方はかつて自然哲学者だった。今、貴方はジーキャプテンだ。@{M}1|For now, you are a mystery~3|You were a Struggling Poet. Now, you're a zee-captain~2|You were a Street-Urchin. Now, you're a zee-captain~4|You were a Weary Soldier. Now, you're a zee-captain~5|You were a Fallen Priest. Now, you're a zee-captain~6|You were a Natural Philosopher. Now, you're a zee-captain",
+ "Name": "記憶: あなたの過去@{I}回顧録: 貴方の過去@{M}$Memoirs: -> 記憶:$Memoirs: Your Past",
+ "Id": 108651}

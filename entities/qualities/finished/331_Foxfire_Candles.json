@@ -1,0 +1,4 @@
+{"Description": "誰しもが間違いを犯す。それを闇の中に残しておくことができれば良いのに。@{I}我々は全員過ちを犯してきた。願わくばその過ちが闇の中に葬られん事を。@{M}We've all made mistakes. If only those mistakes could be left in the dark.",
+ "AvailableAt": "ミセス・プレンティの食料雑貨店で購入しましょう。@{I}プレンティ夫人の波止場雑貨店で購入出来る。@{M}$Mrs Plenty's (Shipside )?Provisioners -> ミセス・プレンティの食料雑貨店, Mrs Plenty -> ミセス・プレンティ$Purchase these at Mrs Plenty's Shipside Provisioners.",
+ "Name": "狐火のろうそく@{I}狐火の蝋燭@{M}$Foxfire Candle -> 狐火の蝋燭$Foxfire Candles",
+ "Id": 110233}

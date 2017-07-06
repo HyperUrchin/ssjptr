@@ -1,0 +1,3 @@
+{"Description": "アイレムから持ってきた不可解な物。本当にこれは陽光から保護してくれるのか？@{M}$Irem -> アイレム$Something inexplicable from Irem. Will it really protect against sunlight?",
+ "ChangeDescriptionText": "1|今まで、パラボックスを持っていなかった。~0|今まで、パラボックスを持っていた。@{M}$Parabox -> パラボックス$1|Before now, you didn't have the Parabox.~0|Before now, you had the Parabox.",
+ "Name": "パラボックス@{M}$Parabox -> パラボックス$A Parabox", "Id": 116023}

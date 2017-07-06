@@ -1,0 +1,5 @@
+{"Description": "あなたは呪われている。死別を司る名も無き神の呪いだ。@{I}呪いが貴方に降りかかる。名も無き別離の神の呪いが。@{M}A curse lies on you: the curse of the nameless god of farewells.",
+ "LevelDescriptionText": "1|あなたはSaltに呪われている@{I}1|ソルトの呪いが貴方に降りかかる。@{M}1|Salt's curse lies on you",
+ "ChangeDescriptionText": "1|あなたはSaltに呪われている@{I}1|ソルトの呪いが貴方に降りかかる。@{M}1|Salt's curse lies on you",
+ "Name": "Zeeの神々: Saltの呪い@{I}ジーの神々: ソルトの呪い@{M}The Gods of the Zee: Salt's Curse",
+ "Id": 109512}

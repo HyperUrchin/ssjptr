@@ -1,0 +1,5 @@
+{"Description": "貴方はより親しくなった。安全なのだろうか？@{M}You've grown closer. Is that safe?",
+ "LevelDescriptionText": "$Khan -> カーン, Adam's Way -> アダムの道, Port Carnelian -> ポート・カーネリアン, Frostfound -> 氷結城, Khan's Shadow -> カーンの影$60|Seeking knowledge of the Cladery Heart in Adam's Way~70|Gaining knowledge of the Cladery Heart in Adam's Way~80|Learning how to retrieve the Cladery Heart~90|Seeking the Cladery Heart in Khan's Shadow~20|Aware of the Cladery Heir's claims of parentage~30|Informed of the Cladery Heir's (possible) relationship to Mr Iron~100|Still seeking the Cladery Heart in Khan's Shadow~110|Looking for the Cladery Heart in Frostfound~40|Gathering details on the history of the Cladery Heir~120|Determining the future of the Cladery Heart~121|Finished choosing the fate of the Cladery Heart~115|Retriever of the Cladery Heart, which awaits in Port Carnelian",
+ "ChangeDescriptionText": "115|The Cladery Heart zails south.~120|The Heir looks resolute.~121|The matter is concluded.",
+ "Name": "人物観察: クラデリーの後継者@{M}$Learning About: -> 事情を知る:$Learning About: The Cladery Heir",
+ "Id": 112666}

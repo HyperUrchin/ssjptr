@@ -1,0 +1,5 @@
+{"Description": "Rosina's Onlookers are now infected with animescence, and haunt the place.",
+ "AvailableAt": "Acquired at Anthe.",
+ "LevelDescriptionText": "1|Conflagranti wander the chambers of Anthe, suffering from and trying to spread their animescence.~2|Anthe has been cleansed of Conflagranti.",
+ "ChangeDescriptionText": "1|Anthe is now haunted by Conflagranti.~2|Anthe is now free of Conflagranti.",
+ "Name": "Anthe: Conflagranti", "Id": 128423}

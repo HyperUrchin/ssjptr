@@ -1,0 +1,4 @@
+{"Description": "それはずきずきと痛む。[傷が3つに達すると、あなたは死に至ります。傷はあなたの宿で休息を取ることによって癒せる他、zeeでその機会が得られることもあります。]@{I}更に突き刺してくる。[重傷を3つ受けると、貴方は死にます。重傷を癒す為には、時間を掛けて貴方の宿場で休むしかありません。]@{M}It stings rather. [If you ever have three Wounds, you're dead. They will heal when you rest in your Lodgings, and from time to time at zee.]",
+ "ChangeDescriptionText": "1|あなたは1つの傷を負っている。傷が3つに達すると、あなたは死ぬ。~2|あなたは2つの傷を負っている。傷が3つに達すると、あなたは死ぬ。~3|あなたの傷は致命的だ！@{I}1|貴方の傷は1つだ。傷が3つになると、貴方は死ぬ。~2|貴方の傷は2つだ。傷が3つになると、貴方は死ぬ。~3|貴方の傷は致命傷だ！@{M}1|You have one Wound. At three Wounds, you'll die.~2|You have two Wounds. At three Wounds, you'll die.~3|Your wounds are mortal!",
+ "Name": "危機: 傷@{I}厄介事: 重傷@{M}$Menaces: -> 危機:$Menaces: Wounds",
+ "Id": 110546}

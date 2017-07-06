@@ -1,0 +1,4 @@
+{"Description": "貴方は天竺鼠に運命を託した。@{M}You have cast your lot in with the Cavies.",
+ "LevelDescriptionText": "1|貴方は天竺鼠を選んだ。~2|貴方は熊鼠と天竺鼠の間に平和をもたらせなかった。~3|貴方は熊鼠と天竺鼠の間に平和をもたらした。~4|ピグモート島に変化が訪れた。@{M}$Pigmote Isle -> ピグモート・アイル$1|You chose the Cavies~2|You could not forge peace between the rats and cavies~3|You forged peace between the rats and cavies~4|Things have changed on Pigmote Isle",
+ "Name": "回顧録: 惰性の騎士@{M}$Memoirs: -> 記憶:$Memoirs: A Knight Out of Habit",
+ "Id": 109948}

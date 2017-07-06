@@ -1,0 +1,4 @@
+{"Description": "One or more of your finger-bones tells your tale in the ivory walls of Scrimshander. Nothing a stuffed glove can't conceal.",
+ "LevelDescriptionText": "1|You have sacrificed one of your fingers to Scrimshander.~2|Some of your fingers now decorate the city of Scrimshander.~4|You've given Scrimshander a handful of your fingers.",
+ "ChangeDescriptionText": "1|You've added a finger to the bones of Scrimshander~4|You've added a handful of fingers to the bones of Scrimshander",
+ "Name": "Scrimshander: Missing Finger", "Id": 128425}

@@ -1,0 +1,4 @@
+{"Description": "あなたは神聖な場所に踏み込んだ。@{I}貴方は聖なる地に進入した。@{M}You entered a sacred place.",
+ "ChangeDescriptionText": "1|あなたは神聖な場所を汚した。@{I}1|貴方は聖なる地を略奪した。@{M}1|You have despoiled a sacred place.",
+ "Name": "終末: 氷結城の核@{I}悪運: 氷結城の核@{M}$Frostfound -> 氷結城$Doom: Frostfound's Core",
+ "Id": 115957}

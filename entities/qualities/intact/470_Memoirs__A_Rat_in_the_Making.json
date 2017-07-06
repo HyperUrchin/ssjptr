@@ -1,0 +1,4 @@
+{"Description": "貴方は熊鼠に運命を託した。@{M}You have cast your lot in with the rats.",
+ "LevelDescriptionText": "1|貴方は熊鼠を選んだ。~2|貴方は熊鼠と天竺鼠の間に平和をもたらせなかった。~3|貴方は熊鼠と天竺鼠の間に平和をもたらした。~4|ピグモート島に変化が訪れた。@{M}$Pigmote Isle -> ピグモート・アイル$1|You chose to help the rats~3|You forged peace between the rats and cavies~2|You could not forge peace between the rats and cavies~4|Things have changed on Pigmote Isle",
+ "Name": "回顧録: 物創りの鼠達@{M}$Memoirs: -> 記憶:$Memoirs: A Rat in the Making",
+ "Id": 109947}

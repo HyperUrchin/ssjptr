@@ -1,0 +1,4 @@
+{"Description": "ファザムキングに太陽光……あるいは太陽光の代わりとして通るようなものを届けよう。@{I}水底帝に陽光を…さもなくば陽光と思しき何かを持参せよ。@{M}$Fathomking -> ファザムキング$Bring the Fathomking sunlight... or something which will pass for sunlight.",
+ "ChangeDescriptionText": "1|ファザムキングは空の光を要求した~0|あなたは空の光をもたらし、ファザムキングの要求を満たした@{I}0|貴方は水底帝の空の光の要求を達成した。~1|水底帝は貴方に空の光を要求した。@{M}$Sky-Light -> 空の光, Fathomking -> ファザムキング$1|The Fathomking has requested a Sky-Light~0|You have fulfilled the Fathomking's request for a Sky-Light",
+ "Name": "父の遺骨: ファザムキングに捧ぐ、空の光@{I}父親の遺骨: 水底帝へ贈る空の光@{M}$Sky-Light -> 空の光, Your Father's Bones: -> 父の遺骨:, Fathomking -> ファザムキング$Your Father's Bones: a Sky-Light for the Fathomking",
+ "Id": 114908}

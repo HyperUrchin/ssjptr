@@ -1,0 +1,4 @@
+{"Description": "王の爪が山猫島の秩序を保っている。@{M}$Isle of Cats -> アイル・オブ・キャッツ$The King's Claw keeps order on the Isle of Cats.",
+ "LevelDescriptionText": "1|貴方はイザリーの後援を受諾した。~4|学者のノートを後援者に届けた。~2|不安がる学者に赤蜂蜜を密輸して届けた。~3|不安がる学者に荷物を届けた。~5|赤蜂蜜に関する実験を行った。~6|実験は成功した！~7|王の爪との友情を育んだ。~101|貴方はイザリーの友情を拒否、または失った。@{M}$Alarming Scholar -> 不安を催させる学者, Isery -> イザリー$1|You have accepted Isery's Patronage~4|Delivered the Scholar's Notes to your Patron~2|Smuggling red honey to the Alarming Scholar~3|Delivered your shipment to the Alarming Scholar~5|Conducting Experiments in red honey~6|A successful experiment!~7|A friend of King's Claw~101|Refused Isery's friendship. Or lost it.",
+ "Name": "山猫島: イザリーの後援@{M}$Isle of Cats -> アイル・オブ・キャッツ, Isery -> イザリー$Isle of Cats: Isery's Patronage",
+ "Id": 113381}

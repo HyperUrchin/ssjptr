@@ -1,0 +1,5 @@
+{"Description": "貴方は狩人の楼閣の三姉妹を訪れた事を知られている。@{M}$Hunter's Keep -> ハンターズ・キープ$You've been known to visit the three sisters of Hunter's Keep.",
+ "LevelDescriptionText": "2|三姉妹と知り合いになった。~1|狩人の楼閣について知っている事がある。~20|三姉妹と知り合いになったが、何かが変わった。@{M}$Hunter's Keep -> ハンターズ・キープ$2|You are acquainted with the sisters~1|You know something of Hunter's Keep~20|You are acquainted with the sisters, but something has changed.",
+ "ChangeDescriptionText": "2|狩人の楼閣の三姉妹と知り合いになった。~10|三姉妹と知り合いになったが、何かが変わった。~1|狩人の楼閣について知っている事がある。~25|貴方は無人になった狩人の楼閣を探索した。~31|狩人の楼閣の屋敷が炎に包まれた！~40|狩人の楼閣の屋敷は黒き殻となっている。@{M}$Hunter's Keep -> ハンターズ・キープ$2|You are acquainted with the sisters of Hunter's Keep.~10|You are acquainted with the sisters, but something has changed.~1|You know something of Hunter's Keep~25|You've explored the silent house on Hunter's Keep~31|The house on Hunter's Keep is aflame!~40|The house on Hunter's Keep is a blackened shell",
+ "Name": "面識有り: 三姉妹の屋敷に一時滞在@{M}Acquaintance: Sojourning with the Sisters",
+ "Id": 109124}

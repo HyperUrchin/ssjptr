@@ -1,0 +1,4 @@
+{"Description": "It is rare something so awful washes up on shore.",
+ "LevelDescriptionText": "$Drown(y|ies) -> ドロウニー, Nuncio -> ナンシノウ, Station III -> 第三基地, Hunter's Keep -> ハンターズ・キープ, Lorn-Fluke -> ローエン・フルーク, Fluke -> フルーク$1|Bound for Hunter's Keep~5|Who will the corpse go to?~10|Bound for Station III with the Anxious University Student~30|Bound for Nuncio with the Drownie Postman~15|You witnessed the Anxious University Student relive history through the needle.~35|You allowed the Drownies to fulfil their concord with the Lorn-Flukes.",
+ "ChangeDescriptionText": "$Nuncio -> ナンシノウ, Station III -> 第三基地, Hunter's Keep -> ハンターズ・キープ$5|Who will the corpse go to?~1|Bound for Hunter's Keep.~10|Bound for Station III.~30|Bound for Nuncio with the Drownie Postman.~15|You witnessed history.~35|Scheduled for redelivery.",
+ "Name": "The Fate of Needles", "Id": 126707}

@@ -1,0 +1,5 @@
+{"Description": "金目のものを見つけたぞ！[1ゲームにつき1回だけ、素敵なことが起こります。]@{I}貴方は価値ある物を発見した！[ゲームにつき一回、素敵な事が起こります。]@{M}You found something valuable! [Once per game, something pleasant will happen.]",
+ "LevelDescriptionText": "1|時は今~2|時は過去@{I}1|時は来た~2|時は過ぎた@{M}1|Time Is~2|Time Was",
+ "ChangeDescriptionText": "1|時は今！~2|時は過去！@{I}1|時は来た！~2|時は過ぎた！@{M}1|Time is!~2|Time was!",
+ "Name": "記憶: ビギナーズラック@{I}回顧録: ビギナーズラック@{M}$Memoirs: -> 記憶:$Memoirs: Beginner's Luck",
+ "Id": 115051}

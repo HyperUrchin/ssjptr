@@ -1,5 +1,0 @@
-{
-  "Id": 102328,
-  "Name": "目的: 海軍省の依頼@{I}目的: 総督府の委任@{M}$Admiralty -> 海軍省$Objective: An Admiralty Commission",
-  "Description": "海軍省があなたに任務を課した。指定された港で戦略的情報を入手し、海軍省に帰還しよう。@{I}総督府は貴方にやって欲しい任務がある。指定された港を訪れて戦略諜報を回収し、総督府に戻ってくるのだ。@{M}$Admiralty -> 海軍省$The Admiralty has a task for you. Visit the named port to retrieve Strategic Intelligence, and return it to the Admiralty."
-}
