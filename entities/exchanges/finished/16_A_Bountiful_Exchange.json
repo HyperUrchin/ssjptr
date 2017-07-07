@@ -1,0 +1,6 @@
+{"Name": "景気のいい交易所@{K}A Bountiful Exchange",
+ "Description": "彼らの宝をこれほどの安値で売るとは、この脚の多い隣人たちはどれほど親切なのだろう！@{K}How kind are the many-legged neighbours, to sell their gifts so cheaply!",
+ "Shops": [{"Name": "スピナーズ・ディライト@{K}Spinner's Delight",
+            "Description": "入って、入って。私たちの品物を触ってみるといい。撫でてってくれ。@{K}Come in; come in. Touch our goods. Caress them.",
+            "Id": 44}],
+ "Id": 20}

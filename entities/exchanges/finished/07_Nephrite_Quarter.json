@@ -1,0 +1,9 @@
+{"Name": "軟玉街区@{K}Nephrite Quarter",
+ "Shops": [{"Name": "認可交易所@{K}Licensed Exchange",
+            "Description": "高い値のついた失われた空のごとく青い羽根といくつかのスモモ。@{K}High prices for feathers blue as the lost sky; and a few other plums.",
+            "Id": 17},
+           {"Name": "赤馬出版@{K}Red Stallion Publishing",
+            "Description": "巻物、薄い書物、そして様々な言語で書かれた多くの本。@{K}Scrolls, pamphlets, and books in a dozen languages.",
+            "Id": 18},
+           {"Name": "Shipyard", "Description": "Equipment", "Id": 19}],
+ "Id": 3}

@@ -1,0 +1,9 @@
+{"Name": "The Gant Pole",
+ "Description": "Where pocket-watches go to die.",
+ "Shops": [{"Name": "Jonah's End",
+            "Description": "A naive merchant came here in search of glory. He now makes his living selling less-rancid meat to any customer he can find.",
+            "Id": 58},
+           {"Name": "Portentum",
+            "Description": "The Haruspex's disciples will take life, give death. Not yours, obviously.",
+            "Id": 59}],
+ "Id": 30}

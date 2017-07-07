@@ -1,0 +1,6 @@
+{"Name": "The Fortas Kettle",
+ "Description": "A restrained research vessel.",
+ "Shops": [{"Name": "Requisitions",
+            "Description": "A grounded zubmarine has little need for fuel. Its occupants, however, have a great need for coffee.",
+            "Id": 50}],
+ "Id": 22}

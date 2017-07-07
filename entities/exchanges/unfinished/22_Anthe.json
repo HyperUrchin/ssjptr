@@ -1,0 +1,4 @@
+{"Name": "Anthe", "Description": "A city of flowering crystal.",
+ "Shops": [{"Name": "Stonemarket",
+            "Description": "Jewels; coral; rocks.", "Id": 51}],
+ "Id": 23}

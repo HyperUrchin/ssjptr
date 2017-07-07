@@ -1,0 +1,6 @@
+{"Name": "Struggling Wrack",
+ "Description": "A city of sallow wreckers.",
+ "Shops": [{"Name": "Hull-harvest",
+            "Description": "Wrack is replete with delights, but supplies are depleted.",
+            "Id": 56}],
+ "Id": 28}

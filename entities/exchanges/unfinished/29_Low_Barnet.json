@@ -1,0 +1,4 @@
+{"Name": "Low Barnet", "Description": "The bell still tolls.",
+ "Shops": [{"Name": "Low Church",
+            "Description": "Supplies for stories.", "Id": 61}],
+ "Id": 32}

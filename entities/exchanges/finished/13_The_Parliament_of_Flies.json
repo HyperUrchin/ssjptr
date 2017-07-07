@@ -1,0 +1,6 @@
+{"Name": "蠅の議会@{K}The Parliament of Flies",
+ "Description": "蠅だ。耳を傾けろ。@{K}Flies. Listen.",
+ "Shops": [{"Name": "悦楽の館@{K}House of Pleasures",
+            "Description": "蠅たちがその翅であなたを撫でるだろう。急いで買いものを済ませるべきだ。@{K}The flies will caress you with their wings. Hurry up and purchase something.",
+            "Id": 26}],
+ "Id": 6}

@@ -1,0 +1,6 @@
+{"Name": "Rosegate",
+ "Description": "The finest cigar shop above or below the waves.",
+ "Shops": [{"Name": "Proving Ground",
+            "Description": "The proprietor is interested in testing the limits of flammability.",
+            "Id": 60}],
+ "Id": 31}
