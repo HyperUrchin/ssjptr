@@ -1,0 +1,9 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "", "Name": "",
+                                     "Id": 149062},
+                    "Name": "縺・＞縺・{M}No", "Description": "", "ButtonText": "",
+                    "Id": 127799},
+                   {"DefaultEvent": {"Id": 149063}, "Name": "縺ｯ縺А{M}Yes",
+                    "Description": "", "ButtonText": "", "Id": 127800},
+                   {"DefaultEvent": {"Id": 149064}, "Name": "縺ｩ縺｡繧峨〒繧ら┌縺А{M}Neither",
+                    "Description": "", "ButtonText": "", "Id": 127801}],
+ "Description": "-", "Name": "-Scenario Template", "Id": 149061}

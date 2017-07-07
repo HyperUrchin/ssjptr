@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "Removing the cage is back-breaking work. Rods of steel run through the Boundling's inflamed, swollen flesh. Its body had warped to fit its cage; even its red eyes are distorted, pulled out of alignment by the band across its face. Before carrying the reclaimed metal away, your engineer wipes frothy slime off it. She gestures to a stain. \"It'll take a b____y good sanding to get rid of this.\" ",
+                                     "Name": "A merciful end? ", "Id": 242594},
+                    "Name": "Tear the cage from the Boundling",
+                    "Description": "The metal is strong and sturdy. You have a need for it. ",
+                    "ButtonText": "", "Id": 185480},
+                   {"DefaultEvent": {"Description": "You break the cage open. As you split the corpse, tangles of gut burst out. There is a reek of oil and vinegar. Your nearest assistant rushes, coughing, from the hold. Is the flesh worth storing? You need a taster.\u000d\u000a \u000d\u000aThe crewman you volunteer complains of the fish-flesh moving in his stomach. The texture, however, is succulent but crunchy, like well-cooked prawn. ",
+                                     "Name": "A taste-test ", "Id": 243427},
+                    "Name": "Carve the Boundling up for provisions ",
+                    "Description": "It does, after all, resemble tuna. An oversized tuna stuffed into a knot of metal.",
+                    "ButtonText": "", "Id": 185974}],
+ "Description": "Its corpse is a mound of twisted metal and flesh, its mottled skin further marred by the gaping rends inflicted by your weapons.",
+ "Name": "You have defeated a Boundling", "Id": 242593}

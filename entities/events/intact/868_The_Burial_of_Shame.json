@@ -1,0 +1,13 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "You begin to wedge bones into the hole. You arrange long bones like bars to provide a central structure. Then you surround them with vertebrae, slotting them neatly together. Where a gap remains, you pout bonemeal into it.\u000d\u000a\u000d\u000aThe last you see of the Monk, he has laid a ragged blanket over the Cargo of Answers, and is sitting silently upon it, head bowed. The last bones grind into place. He is gone.\u000d\u000a",
+                                     "LinkToEvent": {"Id": 254679}, "Name": "Preserving a past",
+                                     "Id": 263274},
+                    "Name": "Do as you were requested", "Description": "Wall him in. ",
+                    "ButtonText": "", "Id": 196127},
+                   {"DefaultEvent": {"Description": "As the Monk's back is turned, you crown him with a heavy bone and drag the Cargo back out of the secret vault. If you can return the cargo to Scrimshander central, the Drownies will undoubtedly ensure that the truth of it spreads far and wide.\u000d\u000a[Return to Scrimshander Centre to deliver the Cargo to the Drownies.]\u000d\u000a",
+                                     "LinkToEvent": {"Id": 254679}, "Name": "Historicity Unearthed",
+                                     "Id": 263275},
+                    "Name": "Overwhelm the Monk, and prevent him from interring the Cargo",
+                    "Description": "For once, the truth will not be buried. The Drownies should have it after all.",
+                    "ButtonText": "", "Id": 196128}],
+ "Description": "The walls here have crumbled, revealing an old vault. It is narrow, like a cloister of bone. The Muscular Monk hauls the Cargo inside. \"I shall make my vigil here. Wall me up once I'm within.\"\u000d\u000a\u000d\u000aInside, you can see other casks, similar to the Cargo. A skeleton sprawls before each, or a mouldering corpse. How many times have the Chelonates buried this secret?\u000d\u000a\u000d\u000a",
+ "Name": "The Burial of Shame", "Id": 263273}

@@ -1,37 +1,17 @@
-{
-  "Id": 234981,
-  "Name": "Scrimshander",
-  "Description": "Lorem ipset.",
-  "ChildBranches": [
-    {
-      "DefaultEvent": {
-        "Id": 234982,
-        "Name": "The Imperious Sister's tale",
-        "Description": "She pushes a sheaf of papers into an oversized case and bustles towards you. \"I have been all over Scrimshander and I can find no sign of my brother's writing or any inscription about him,\" she says. \"Which is strange, because I was most definitely assured he had come here... Meanwhile, I made certain promises of a pecuniary nature, which mean that I am not at liberty to leave Scrimshander again for a few days. So I turn to you! Could you assist me? Are your services for hire? It is a matter of-- of family loyalty, of the ties of blood.\""
-      },
-      "Id": 180454,
-      "Name": "Take note of a veiled woman",
-      "Description": "A middle-aged woman in a veiled hat is staring at you, waiting for you to notice and listen to her."
-    },
-    {
-      "DefaultEvent": {
-        "Id": 246127,
-        "Name": "",
-        "Description": "\"Ah, forgive me. Yes. I shall remedy this.\" The heavy box with its gossamer-thin contents are swiftly whisked away. \"You have our gratitude. You shall not have answers.\" "
-      },
-      "Id": 187756,
-      "Name": "Deliver a Cargo of Answers ",
-      "Description": "A Mellifluous Historian raises an eyebrow at the cargo you carry from your zub.\r\n [This is not yet implemented]"
-    },
-    {
-      "DefaultEvent": {
-        "Id": 254217,
-        "Name": "TBD",
-        "Description": "TBD"
-      },
-      "Id": 190922,
-      "Name": "Leave a Cladery Souvenir",
-      "Description": "It's a piece of someone. Perhaps not a piece of <i>you</i>, but who's keeping track?"
-    }
-  ]
-}
+{"ChildBranches": [{"DefaultEvent": {"Description": "She pushes a sheaf of papers into an oversized case and bustles towards you. \"I have been all over Scrimshander and I can find no sign of my brother's writing or any inscription about him,\" she says. \"Which is strange, because I was most definitely assured he had come here... Meanwhile, I made certain promises of a pecuniary nature, which mean that I am not at liberty to leave Scrimshander again for a few days. So I turn to you! Could you assist me? Are your services for hire? It is a matter of-- of family loyalty, of the ties of blood.\"",
+                                     "Name": "The Imperious Sister's tale", "Id": 234982},
+                    "Name": "Take note of a veiled woman",
+                    "Description": "A middle-aged woman in a veiled hat is staring at you, waiting for you to notice and listen to her.",
+                    "ButtonText": "", "Id": 180454},
+                   {"DefaultEvent": {"Description": "\"Ah, forgive me. Yes. I shall remedy this.\" The heavy box with its gossamer-thin contents are swiftly whisked away. \"You have our gratitude. You shall not have answers.\" ",
+                                     "Name": "", "Id": 246127},
+                    "Name": "Deliver a Cargo of Answers ",
+                    "Description": "A Mellifluous Historian raises an eyebrow at the cargo you carry from your zub.\u000d\u000a [This is not yet implemented]",
+                    "ButtonText": "", "Id": 187756},
+                   {"DefaultEvent": {"Description": "TBD", "Name": "TBD",
+                                     "Id": 254217},
+                    "Name": "Leave a Cladery Souvenir",
+                    "Description": "It's a piece of someone. Perhaps not a piece of <i>you</i>, but who's keeping track?",
+                    "ButtonText": "", "Id": 190922}],
+ "Description": "Lorem ipset.", "Name": "Scrimshander",
+ "Id": 234981}

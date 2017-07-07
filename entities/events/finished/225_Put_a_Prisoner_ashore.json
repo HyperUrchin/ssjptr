@@ -1,0 +1,13 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "「正義のご奉仕に感謝します。」巡査が無表情に言う。ただ、もう少し声のトーンを落として貰えないかと一瞬思った。何れにせよ、貴方はなすべき事を誠実に為した。船員達は少し安心した様だ。@{M}\"Justice is served,\" intones a Constable. You could wish he makes it sound less like dinner. Nevertheless, you've dealt with the matter honestly: your crew are a little reassured.",
+                                     "Name": "扉が重々しい音を立てて閉じる@{M}The gates clang shut",
+                                     "Id": 151437},
+                    "Name": "判決の為に囚人を引き渡す@{M}Hand over a prisoner for sentencing",
+                    "Description": "総督府の高等裁判所が彼らの運命を判断するだろう。@{M}$Admiralty -> 海軍省$The High Court of Admiralty will determine their fate.",
+                    "ButtonText": "", "Id": 129246},
+                   {"DefaultEvent": {"Description": "二人の厳つい、しかし間抜けそうな男達が - 主人付きのゴロツキだろう - 啜り泣いている囚人をタラップから引きずり下ろす。「心配は要らねぇ」一人が言う。「これだったら\"孤児院\"で人気がでらぁ。誰だって、\"孤児院\"でこれを気に入るだろうよ。」彼らは含み笑いをしている。それから数刻、運用長は貴方の目を見ようとはしなかった。@{M}Two stern neddy men - the Masters' enforcers - drag the weeping prisoner down the gang-plank. \"Don't worry,\" one of them says. \"You'll love it in the Orphanage. Everyone loves it in the Orphanage, eventually.\" They chuckle.\u000d\u000a\u000d\u000aYour bo'sun won't meet your eyes for the rest of the watch.",
+                                     "Name": "黒塗りの乗り物@{M}A black-painted carriage", "Id": 151450},
+                    "Name": "囚人を孤児院へ売り飛ばす@{M}Sell a prisoner to the Orphanage",
+                    "Description": "\"孤児院\"は、スパイト地区の暗闇迷路の奥深くにある施設だ。そこは素性年齢関係なく、誰でも受け入れるらしい。@{M}The Orphanage lies deep in the lightless labyrinths of the districts of Spite. It accepts guests of all ages.",
+                    "ButtonText": "", "Id": 129253}],
+ "Description": "彼らは貴方の船倉の貴重なスペースを専有している。正義に捧げるか、それとも利益を得るか?@{M}They're taking up valuable space in your hold. Sacrifice them to justice, or profit?",
+ "Name": "囚人を陸に上げる@{M}Put a Prisoner ashore", "Id": 151436}

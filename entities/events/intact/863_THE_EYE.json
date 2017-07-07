@@ -1,0 +1,11 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "You descend. The blackness of the pupil expands. There is no cornea to bar your way, no lens. The pupil is a tunnel, and your vessel plunges into it. \u000d\u000a\u000d\u000aYour forward light dies. Your lamps die. Darkness unfurls like spilled ink. A cold breeze brushes your face.",
+                                     "LinkToEvent": {"Id": 260590}, "Name": "", "Id": 260588},
+                    "Name": "Dive into the pupil", "Description": "Dive and exult!",
+                    "ButtonText": "", "Id": 194334},
+                   {"DefaultEvent": {"Description": "It sees through your skin and your flesh and into your bones where accumulate all the things that you have ever done or said or thought or feared or adored or despised or wished or made or broken or grieved or desired or shamed-\u000d\u000a\u000d\u000aFor God's sake! Can't this bl__dy zubmarine go any faster?",
+                                     "Name": "", "Id": 260589},
+                    "Name": "Steam away",
+                    "Description": "As fast as you can. It sees!", "ButtonText": "",
+                    "Id": 194335}],
+ "Description": "The eye! The eye! As vast and round and wild as the moon!\u000d\u000a\u000d\u000aYour crew shriek and cavort! They pull their moustaches and bay like dogs! You, of course, are calm. Utterly calm. Calm as the moon! Those noises must be coming from someone else.",
+ "Name": "THE EYE", "Id": 260587}

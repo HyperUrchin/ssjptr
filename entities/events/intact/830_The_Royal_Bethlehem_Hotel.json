@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "The Manager of the Royal Bethlehem beams as brightly as the many brass buttons studding his jacket. \"I have heard of you,\" he tells the Salvager, as you fill out the paperwork for her stay. \"The Lady herself? What delicious dreams you must have, my poor heart. You are not the first. I know you will not be the last.\"  The Salvager does not reply. Her shoulders slump slightly before she is taken away to her new room.",
+                                     "Name": "Welcomed with open arms", "Id": 255580},
+                    "Name": "Give the Unsettled Salvager over to the care of the Manager",
+                    "Description": "The rooms are plush, red and gold. She will be safe here.",
+                    "ButtonText": "", "Id": 191505}],
+ "Description": "A hotel for the insane, where the mad may comfortably reside if and until they return to sense. The Unsettled Salvager would benefit from a lengthy stay.",
+ "Name": "The Royal Bethlehem Hotel", "Id": 255579}

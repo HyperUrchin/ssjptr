@@ -1,0 +1,13 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "",
+                                     "LinkToEvent": {"Id": 140906}, "Name": "", "Id": 182155},
+                    "Name": "積み荷を奪う@{K}Seize its cargo",
+                    "Description": "イーター・オブ・ネームズは長い間に渡り死と大いなる甲羅の名のもとに、分別に欠けた異邦人たちから略奪してきた。何か役立つものを持っているかもしれない。@{K}$Great Shell -> 大いなる甲羅, Eater of Names -> イーター・オブ・ネームズ$The Eater of Names has long plundered unwise strangers in the name of Death and the Great Shell. Perhaps they've kept something of use.",
+                    "ButtonText": "", "Id": 147408},
+                   {"DefaultEvent": {"Description": "これは死にゆく怪物たちを引き寄せるというギャント・ポールの近くから持ってこられたものに違いない。その遺物には深くゆっくりとした死の記憶が、骨に着いた皮のように残っている。何かに使えるかもしれない。@{K}$Gant Pole -> ギャント・ポール$They must have taken this from the zee near the Gant Pole, the place that draws dying monsters. The memories of slow deep death adhere to it like rags of skin to bone. Perhaps you'll find a use for it.",
+                                     "LinkToEvent": {"Id": 182154}, "Name": "身の毛もよだつ遺物@{K}A grisly relic",
+                                     "Id": 182156},
+                    "Name": "船主像を奪う@{K}Seize its figurehead",
+                    "Description": "その色はギャントだ。全ての色が喰らいつくされた後に残る色。@{K}The colour is gant: that colour which remains when all else has been consumed.",
+                    "ButtonText": "", "Id": 147409}],
+ "Description": "蠕虫たちは動きを止め、キェロネイト人たちは皆殺しにされた。この船はトロフィー代わりに持ち帰るとしようか。……この骨とZeeの虫やらの船を？船員を一瞬見やり、あなたは思いとどまった。その船員はゆっくりと首を横に振っていた。@{K}The worms lie quiescent. The Chelonites are slain. Take it as a prize-ship, bones and zee-worms and all...? One look at your bo'sun dissuades you. He shakes his head slowly.",
+ "Name": "イーター・オブ・ネームズの船員は死んだ@{K}The crew of the Eater is dead", "Id": 182154}

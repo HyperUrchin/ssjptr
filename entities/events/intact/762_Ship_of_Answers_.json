@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "You uncover a log-book buried beneath a pile of rags and water-claimed bones. The writing reveals the ship was bound for Scrimshander, containing a precious cargo: a brilliant historian's lost work. The log tells of a passenger obtained; a jilly-stung Chelonate hunter. It describes how he insisted that he be allowed into the cargo hold. Of a pitched battle that ensued when he wasn't. Dried stains underfoot tell the rest. The hold remains secure. \u000d\u000a\u000d\u000aBreaking it open, you discover a box of bone carvings providing an description of the Chelonate's great turtle and an account of its death. According to this account, the turtle was not hunted - as the Chelonates claim - but was already dead when they found it.\u000d\u000a\u000d\u000a[You could deliver the bone carvings to Scrimshander.]",
+                                     "Name": "Captain's log  ", "Id": 243602},
+                    "Name": "Go deeper inside the wreck",
+                    "Description": "The first sweep of your lantern reveals wreckage scattered across the lower deck. Fallen weapons, fallen lives. \u000d\u000a\u000d\u000a",
+                    "ButtonText": "", "Id": 186083},
+                   {"DefaultEvent": {"Description": "The hull door opens with a disquieting crunch. A crewman stops to pick bits of skull from his boot. Inside the wreck, bones haunt every surface. Each bone has been split, and hollowed out - so that both inside and out could be inscribed. \u000d\u000a\u000d\u000aSome of the bones are dated - the first in each skeleton. It appears the crew were chosen for scrivening one at a time. There is something legible on the right ulnar of an otherwise unmarked skeleton: <i>Scrimshander.</i> ",
+                                     "Name": "You don your diving gear", "Id": 243603},
+                    "Name": "Board the wreck ",
+                    "Description": "The ship is silent as its watery grave. You'll have to enter to uncover it's secrets.",
+                    "ButtonText": "", "Id": 186084}],
+ "Description": "The wreck has fallen into a crevice in the zee-bed. It lies embraced by the stones. ",
+ "Name": "Ship of Answers ", "Id": 243601}

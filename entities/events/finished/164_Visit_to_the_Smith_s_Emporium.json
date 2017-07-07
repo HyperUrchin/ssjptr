@@ -1,0 +1,84 @@
+{
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Description": "彼が作る。@{K}And he provides.",
+        "Name": "あなたは求め……@{K}You ask...",
+        "Id": 149034
+      },
+      "Name": "武器の制作を依頼する@{K}Commission a Weapon",
+      "Description": "鍛冶屋は初め常連（それが誰のことを指すのであれ）以外の客に武器を作るのを渋っていたが、そのうちに個人的な企画を実地で試すことには興味があると認めた……[この選択肢はまだ選ぶことができません。]@{K}Though the smith is initially reluctant to build for anyone but his Usual Customers (whoever those might be), he admits that he is interested in testing a private project... [This is not yet possible.]",
+      "ButtonText": "",
+      "Id": 127777
+    },
+    {
+      "DefaultEvent": {
+        "Description": "此処の人間は人付き合いが悪い、と鍛冶屋は言った。彼は尖塔の建物に行ったことはないし、侍祭がここに降りて来ることもほとんどないという。ここでの生活は随分と孤独なもののようだ。その方が良い、とも彼は言った。\u000d\u000a\u000d\u000aあなたは彼が仕事に戻る際、その首元にハートメタルの輪で作られた首飾りとロケットを認めた。@{K}$[Hh]eartmetal -> ハートメタル$He tells you that folk here keep to themselves. He says he doesn't go to up to the building with the steeple, and the acolytes hardly ever come down here. It sounds like a solitary sort of life. He claims he prefers it that way.\u000d\u000a\u000d\u000aWhen he turns back to his work, you see the chain of heartmetal links he wears around his neck, and the closed locket that hangs from it.",
+        "Name": "気の進まない口調@{K}A disinclination to talk",
+        "Id": 149052
+      },
+      "Name": "鍛冶屋にこの島での生活について聞く@{K}Ask the smith about life on the island",
+      "Description": "彼は確実に独自の知見を持っていることだろう。@{K}He doubtless has his own perspective.",
+      "ButtonText": "",
+      "Id": 127792
+    },
+    {
+      "DefaultEvent": {
+        "Description": "「泳いできた」彼は言い、じっとあなたを見つめた。\u000d\u000a\u000d\u000a笑えるほど可能性の低い話だが、彼は冗談を言っているようには見えない。鍛冶屋は槌を取り上げた。この会話はここで終わりのようだ。@{K}\"Swam,\" he says. He stares you in the eye.\u000d\u000a\u000d\u000aIt's so impossible it's laughable, but he doesn't seem to be joking. He picks up his hammer. The interview is over for now.",
+        "Name": "隠喩か、不可思議な真実か？@{K}Metaphor? Or very strange truth?",
+        "Id": 149053
+      },
+      "Name": "鍛冶屋にどのようにしてここに辿り着いたのか尋ねる@{K}Ask the smith about how he got here",
+      "Description": "面白い話が聞けるかもしれない。@{K}Might be an interesting tale.",
+      "ButtonText": "",
+      "Id": 127793
+    },
+    {
+      "DefaultEvent": {
+        "Description": "「ああ、あれか。あれが完成すれば俺は家へ帰れるのさ、分かるか？」彼は答えた。「哀しみを締め出す道具を手に入れさえすれば、そこそこ安全に人がいる場所を動き回れるからな」\u000d\u000a\u000d\u000a会話はその後複雑な工学の話に移っていった。彼は手首の関節部分はどのようにして作られなければならないのか、図を描いてあなたに示した。油を染み込ませた皮を薄く延ばされた高品質のハートメタル箔によって覆うのだそうだ。@{K}$Aft -> 後部, [Hh]eartmetal -> ハートメタル$\"Oh, that. When it's done, I can go home, right?\" he says. \"Walk around where people are, safe enough, if I just have something to keep the grief out.\"\u000d\u000a\u000d\u000aAfter that the conversation gets into intricacies of engineering. He draws you a sketch of how the wrist joint will have to be made, the skin oiled and covered with a fine foil of beaten heartmetal.",
+        "LinkToEvent": {
+          "Id": 149033
+        },
+        "Name": "家への道のり@{K}The way home",
+        "Id": 149056
+      },
+      "Name": "ハートメタルの鎧について訊ねる@{K}$[Hh]eartmetal -> ハートメタル$Ask him about the heartmetal suit",
+      "Description": "覗きまわっていた事を認めたくないのなら、どこかで噂を聞いたと言えばいい。@{K}Pretend you heard a rumour about it, if you don't want to admit to snooping.",
+      "ButtonText": "",
+      "Id": 127795
+    },
+    {
+      "DefaultEvent": {
+        "Description": "鍛冶屋は7日間にわたって仕事に掛かりきりになっている。砲撃手だけが鍛冶場への立ち入りを許された。他の船員たちは彼らが自分たちごと鍛冶場を爆破してしまうかどうか、そしてその爆発は第三基地そのものを吹き飛ばしてしまうかどうかで賭けを始めていた。\u000d\u000a\u000d\u000aしかし爆発は起こらなかった。そしてとうとう、砲撃手が大きな笑みを浮かべながら鍛冶場の扉を開いた。疲れ切ってはいるが輝かんばかりの笑顔だ。彼は封印の方を身振りで指す。それの防護層には新たに銀色のハートメタルが織り込まれ強化されている。表面の謎めいた文字は半狂乱でちかちかと光っている。まるで閉じ込められた虫のようだ。武器そのものも常にほとんど聞こえない唸るような低音を発している。室内の空気は息が詰まるほど熱い。\u000d\u000a\u000d\u000a「刮目せよ！」砲撃手が声を上げた。「メメント・モリ！」\u000d\u000a\u000d\u000aその顔から笑みが消えていった。「これで……完成。これから先これをどうすればいいのかは分からないな」[メメント・モリは装備することもできますが、地下海の好戦的な国家に売り渡すこともできます。いくつかの国は他国よりもいい値段で買い取ってくれるでしょう。この海の均衡を少しだけ傾けることになるかもしれません。]@{K}$Station III -> 第三基地, Memento Mori -> メメント・モリ, [Hh]eartmetal -> ハートメタル$For seven days the smith works. Only the Cannoneer is permitted within. Your zailors place bets on whether they'll blow themselves up, and whether the explosion will eradicate Station III as well.\u000d\u000a\u000d\u000aThere are no explosions. At last the Cannoneer opens the smithy door, grinning: a tired, but dazzling, grin. He gestures to the Seal: the armature that now constrains it is meshed with silvery heartmetal. The glyphs flicker frantically, like trapped insects. The weapon emits a constant, low, barely audible growl. The air in the room is stiflingly hot.\u000d\u000a\u000d\u000a\"Behold!\" the Cannoneer says. \"The Memento Mori!\"\u000d\u000a\u000d\u000aThe grin dissipates. \"It's... finished. I'm not sure what to do now.\" [Mount the Memento Mori on your ship, or sell it to one of the warlike zee-nations. Some will give you better prices than others. You may tilt the balance of power on the zee.]",
+        "Name": "輝く恐怖@{K}A shining horror",
+        "Id": 152837
+      },
+      "Name": "鍛冶屋に砲撃手が作る武器の外装の製作を依頼する@{K}Ask the smith to construct an assembly-housing for the Cannoneer's weapon",
+      "Description": "何故鍛冶屋はこれほど熱心に仕事を請け負ってくれたのだろうか？彼は砲撃手にどれほどの借りがあるというのだろう？砲手は肩を竦めて質問を躱した。「昔、沢山爆弾を作ったからね。本当にたくさん。それも色んな人のために。爆弾を作ったことをばらされたくない人たちにね！！多分そのせいで大学から追い出されたんだろうな。戻って理由を聞いたことはないけど」@{K}Why is the smith so willing to help? Just how many outstanding favours are owed? The Cannoneer shrugs the question off, smiling. \"I made a lot of bombs, back in the day. A lot of bombs. For a lot of people. Who don't like me to talk about it!! I think that's why the University threw me out. I never dared go back and ask, though.\"",
+      "ButtonText": "",
+      "Id": 130146
+    },
+    {
+      "SuccessEvent": {
+        "Description": "巨大な大砲に恐ろしく弾力のある皮をも貫き通せそうな鋭い銛。船体に貼るために薄く延ばされたハートメタル。鋼の欠片が入ったぶどう弾などが部屋には収められていた。その中のいくつかはすでに搬出のために箱詰めされている。\u000d\u000a\u000d\u000a部屋の最奥には衣装屋の人形が置かれていた。それには油を染み込ませた布で作られた潜水夫の服が着せられている。丁度鍛冶屋と同じぐらいの体格の物だ。そしてその服にはハートメタルの鱗鎧が被せられていた。\u000d\u000a\u000d\u000aその下の棚には同じ様式の右手用籠手が置かれている。しかし鎧一式が完成しているわけではなさそうだ。 @{K}$[Hh]eartmetal -> ハートメタル$Heavy cannon. Harpoons of a metal wicked enough to pierce the most rubbery hide. Sheets of flat heartmetal suitable for hammering onto the hull of a vessel. Grapeshot of heartmetal fragments. Some of the inventory is already packed for export.\u000d\u000a\u000d\u000aIn the last of all the rooms is a dress-maker's dummy. It wears a diver's outfit of oiled skin, which looks about the smith's own size, covered all over with overlapping scales of heartmetal. \u000d\u000a\u000d\u000aOn the shelf beneath is a right-hand glove of the same design. But the suit is as yet incomplete.",
+        "LinkToEvent": {
+          "Id": 149033
+        },
+        "Name": "鎧@{K}Armor",
+        "Id": 149055
+      },
+      "DefaultEvent": {
+        "Description": "他の扉の後ろには何か興味深い物が仕舞われていたのかもしれないが、あなたは間違った扉を開いてしまったようだ。ここは用務品入れだ。研磨用の布とドリルそして先端の平らになった釘が詰まっている。@{K}There might be something interesting behind one of these doors, but you've picked the wrong one. This is a supply closet, full of polish rags and drills, boxes of square-headed nails.",
+        "Name": "ドリルと研磨用品@{K}Drills and polish",
+        "Id": 149054
+      },
+      "Name": "この場所を見て回る@{K}Search the place on your own",
+      "Description": "倉庫には何が入っているだろう？@{K}Who knows what might be in the back storage areas?",
+      "ButtonText": "",
+      "Id": 127794
+    }
+  ],
+  "Description": "幾つもの部屋が連なって島の岩盤の中にまで達している。巨大な円筒機構の機械が詰め込まれた部屋が何処まで行っても続く。@{K}The rooms run back into the rock of the island, chamber after chamber of long-barreled machinery.",
+  "Name": "鍛冶屋の商い場を訪ねる@{K}Visit to the Smith's Emporium",
+  "Id": 149033
+}

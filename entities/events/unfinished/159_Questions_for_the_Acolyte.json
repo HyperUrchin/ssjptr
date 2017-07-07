@@ -1,0 +1,74 @@
+{
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Description": "「あちこちから送られてきますね」侍祭は言った。はっきりと言うのを避けようとしているわけではなさそうだ。単に答えを気にかけていないのではないかという気がする。「大体は地表からのものです。ここに着くまでの経路は様々ですが」\u000d\u000a\u000d\u000aそれで話は終わりかと思ったが、長い間をおいて彼女は付け加えた。「歴史ある取引なのでしょう。奥に積まれた箱の山から察するに、箱は何世代にも渡ってここに運び込まれているようです。マスターたちが結んだ契約です」@{K}$Surface -> 地上$\"Here and there,\" she says. It's not that she's trying to be coy. You don't think she much cares about the answer. \"Most are from the Surface, one way or the other.\"\u000d\u000a\u000d\u000aYou think that is all she's going to say on the matter, but after a long time, she adds, \"It's an old trade. They've been coming this way for generations, to judge by the piles out back. The Masters made the arrangement.\"",
+        "Name": "些末な物事@{K}A matter of indifference",
+        "Id": 148877
+      },
+      "Name": "死体は何処から送られてきているのか尋ねる@{K}Ask where the corpses come from",
+      "Description": "この取引に関わるのであれば詳しく知っておいた方が良いだろう？@{K}If you're to be involved in the trade, wouldn't it be better if you knew?",
+      "ButtonText": "",
+      "Id": 127687
+    },
+    {
+      "DefaultEvent": {
+        "Description": "「スーズ＆クーパー癒心剤。悲しみに沈んだ時、決して話すことのできない秘密を抱えた時に。ワインかアヘンチンキと一緒に、あるいは瓶から直接お飲みください。喉元では温かいけれど飲んだ先で冷え固まり、あなたの話したくないことをその中に包み込んでくれます」\u000d\u000a\u000d\u000aその先の彼女の説明は医神学的な性質を帯びたものとなっていった。静寂と悲嘆の化合物に対する魂の反応やら血の巡りといった話だ。なぜ鋼が固まるのか、なぜ死体によって鋼の形が異なるのか、あるいはなぜ一部の服用者は球が臓器ほどの大きさになるまで薬を生涯にわたって飲み続けなければならないと考えるようになるのか。彼女はその説明でこれらの疑問に対して答えることが出来たと思っているようだ。 @{K}$Soothe (and|&) Cooper -> スード&クーパー$\"Soothe and Cooper's Heartsease Tonic,\" she says. \"Take it when you're sad. Take it when there's something you don't dare speak about. Take it with wine or with laudanum, or take it straight from the bottle. It goes down warm, but it turns cold in the body. It forms around the thing you don't want to say, and holds it in.\"\u000d\u000a\u000d\u000aFrom there her explanation becomes more iatrotheological in nature. There's something about the reaction of souls with a compound of silence and grief, and something about the circulation of the blood. She appears to believe these points explain why the metal sets hard, and why it takes different shapes in different bodies, and why some users find it necessary to keep drinking tonic all their lives until the balls have grown as large as organs.",
+        "LinkToEvent": {
+          "Id": 149001
+        },
+        "Name": "成長@{K}Growth",
+        "Id": 148879
+      },
+      "Name": "鋼の珠はどのようにして作られているのか尋ねる@{K}Ask how the metal balls are formed",
+      "Description": "病気の産物でないのは確かだ。あまりにも人工的すぎる。@{K}Surely they aren't the product of disease. They are too mechanical for that.",
+      "ButtonText": "",
+      "Id": 127688
+    },
+    {
+      "DefaultEvent": {
+        "Description": "「有用なものはマスターたちの元へと送られて、それ以外は廃棄されます」彼女は答えた。「それがこの場所の目的そのものです。そうでなければそもそも集められることもなかったでしょう」\u000d\u000a\u000d\u000aこの話題になると侍祭は緊張した様子を見せた。彼女はあなたの方を見ようとせず、落ち着かなげに手を握り合わせている。\u000d\u000a\u000d\u000a手袋と袖口の間に古い傷跡が白く見えた。まるで一度肌が凍り付きひびが入ってから治ったかのような傷跡だ。彼女はあなたが見つめているのに気が付くと袖を引き上げた。@{K}\"The useful ones go to the Masters, and everything else to the dump,\" she says. \"That's the purpose of all this. Wouldn't be needed otherwise.\"\u000d\u000a\u000d\u000aThe topic makes her nervous. She doesn't look at you, but she is twisting her hands together. \u000d\u000a\u000d\u000aBetween her glove and her sleeve is a web of old white scars, as though her skin had frozen and cracked and healed again. She pulls the sleeve into place when she sees you looking.",
+        "LinkToEvent": {
+          "Id": 148992
+        },
+        "Name": "輸出品@{K}Material for Export",
+        "Id": 148880
+      },
+      "Name": "珠の中身は何に使われるのか尋ねる@{K}Ask what becomes of the contents of the balls",
+      "Description": "あなたは彼女がそれを取り出し、観察し、分類するのを見てきた。しかし、それ以降はどうなるのだろう？@{K}You've seen her removing them, examining and sorting them, but then what happens?",
+      "ButtonText": "",
+      "Id": 127689
+    },
+    {
+      "DefaultEvent": {
+        "Description": "彼女は自分がどのようにしてこの場所にたどり着いたのか思い出せないと言った。ロンドンでの出来事は覚えているが、その後には記憶が空白となっている期間があり、それからこの場所の最初の記憶である尖塔の建物が闇の中に聳えている場面に直接続いているのだという。\u000d\u000a\u000d\u000a「これは昔の物です」彼女が防護服を捲ると手袋と袖口の間に走る無数の古く白い傷跡が露わになった。まるで彼女の皮膚が一度凍り付き罅が入った後に再び溶けだして治ったかのような傷だ。彼女はすぐに袖を元の位置に下ろした。@{K}She tells you she can't recall how she got here. She remembers what happened in London, and then there's a gap, and then her first memories of this place are of the shape of the steepled building, looming through the dark.\u000d\u000a\u000d\u000a\"This comes from before,\" she says, drawing back her protective clothing. Between her glove and her sleeve is a web of old white scars, as though her skin had frozen and cracked and healed again. She pulls the sleeve back down after a moment. ",
+        "LinkToEvent": {
+          "Id": 149059
+        },
+        "Name": "無許可の搬入？@{K}Unlicensed import?",
+        "Id": 148881
+      },
+      "Name": "どのようにしてこの場所にたどり着いたのか尋ねる@{K}Ask how she came to be here",
+      "Description": "この島で生まれた人間など存在するのだろうか？@{K}Is anyone born on this island?",
+      "ButtonText": "",
+      "Id": 127690
+    },
+    {
+      "DefaultEvent": {
+        "Description": "「以前一緒に働いていた見習いがいました」彼女は言う。「彼は手術道具を扱う腕は確かでしたが、歌を馬鹿馬鹿しいものだと考えていました。数日も経たないうちに、彼をロイヤル・ベスレヘムに送る羽目になりましたよ」\"There was another apprentice who worked with me,\" she says. \"He had a steady hand with the scalpel, but he thought the singing was foolish. Only lasted a few days before we had to pack him off to the Royal Bethlehem.\"",
+        "LinkToEvent": {
+          "Id": 148992
+        },
+        "Name": "なぜ考えるのか？@{K}Why did you think?",
+        "Id": 148882
+      },
+      "Name": "なぜ歌うのか尋ねる@{K}Ask why she sings",
+      "Description": "楽しむため以外の目的があるに違いない。@{K}It is plainly for some reason other than entertainment.",
+      "ButtonText": "",
+      "Id": 127691
+    }
+  ],
+  "Description": "十分に彼女の好意を得たなら、この場所に関するいくつかの質問に答えてくれるかもしれない。@{K}Perhaps, if she has come to like you well enough, she'll choose to answer some questions about this place.",
+  "Name": "侍祭への質問@{K}Questions for the Acolyte",
+  "Id": 148876
+}

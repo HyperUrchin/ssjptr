@@ -1,0 +1,9 @@
+{"ChildBranches": [{"DefaultEvent": {"Id": 165310},
+                    "Name": "彼女の遺体と遺品を丁重に取り扱う@{M}Deal respectfully with her remains and belongings",
+                    "Description": "", "ButtonText": "", "Id": 137103},
+                   {"DefaultEvent": {"Id": 165311},
+                    "Name": "彼女の遺体と遺品を活用する@{M}Make use of her remains and belongings",
+                    "Description": "彼女が何を気にするというのか?彼女の肉体に何か尋常でない事が起こっていたのに。@{M}What does she care? And something extraordinary was happening to her flesh.",
+                    "ButtonText": "", "Id": 137104}],
+ "Description": "前部甲板から漏れ聞こえる、潜められた声。エンジンルームの階段から聞こえる、啜り泣き。音を立てないように慎重過ぎる所作で閉められる扉。従事者は、船上では誰からも慕われていた者だった。@{M}Hushed voices on the foredeck. Weeping on the engine-room stairs. The too-careful closing of a door. The Campaigner was well-liked aboard ship.",
+ "Name": "従事者の終焉@{M}The Campaigner's End", "Id": 165309}

@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "He leans forwards, the ice distorting his reflection, and opens his mouth. Is he trying to say something? There is no sound. He repeats the gesture. Does he mean-? You lean in and breathe on the ice, fogging it. Bourdain gives a minuscule smile. Then he raises a finger and begins to draw a message in the fog from the other side. \u000d\u000a\u000d\u000aHe writes backwards, which necessitates some deciphering. \"I NEVER LEFT.\"\u000d\u000a\u000d\u000aIt is an awkward method of communication, but over the next few hours you manage to piece together his tale. Bourdain is relatively content with his current state. After the Seven's defeat, he attempted to hide in Frostfound. He failed at 'the Ruby Room', and this vestige was trapped in the ice. He has a number of agents in the Neath, though, and they are able to communicate with him via... you can't really follow that bit. Suffice it to say 'esoteric means'.\u000d\u000a\u000d\u000aIs he ready to resume the Seven's cause? He writes a final message in your breath. 'LIBERTY. EQUALITY. ETERNITY.'",
+                                     "Name": "", "Id": 260582},
+                    "Name": "Invite him to rejoin the Seven",
+                    "Description": "As their Propagandist.", "ButtonText": "",
+                    "Id": 194330}],
+ "Description": "He watches you through the chipped, frosty surface. When you ask if he can hear you, he nods, curtly.",
+ "Name": "Bourdain in Ice", "Id": 260581}

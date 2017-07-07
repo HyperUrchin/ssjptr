@@ -1,0 +1,34 @@
+{
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Description": "その知らせは彼女を些かも慰めはしなかった。それを聞いた時、彼女は黙ってメスを持ち上げて解剖を続け、遺体の体を小さな臓器ごとに切り分けていっていた。彼女は何も話さない。彼女は何も歌わない。\r\n\r\n\r\n暗黒物質の小さな球が、トレイの上に乗せられている。@{M}The news does not comfort her. When she hears it, she takes the scalpel back up and continues the autopsy, dismantling the corpse down to the small organs. She won't talk. She won't sing. \r\n\r\nThe pellet of dark matter sits on its tray.",
+        "Name": "それは彼女が期待した物でなく@{M}Not what she expected",
+        "Id": 149087
+      },
+      "Name": "彼女に真実を伝える@{M}Tell her the truth",
+      "Description": "姉の死について自分を責める必要はないと知れば、彼女はどれほど安堵することだろう。@{K}彼女の姉の死を責める事は彼女自身を楽にする事ではない事を教えなければ。@{M}What a relief it would be for her to know she wasn't to blame for a sister's death.",
+      "ButtonText": "",
+      "Id": 127812
+    },
+    {
+      "SuccessEvent": {
+        "Description": "あなたは曖昧ながら慰めとなる話をでっちあげた。彼女の姉は長期に渡って心臓の衰弱を抱えていた。そしてそれが治らない病かもしれないと思うと、優れた腕を持つ医者である妹にであっても打ち明ける決心がつかなかったのだ。それから双子の姉はどれだけ侍祭のことを愛していたか、そしてついに避けがたい死が訪れた時も、自分の死について彼女に罪悪感を抱いてほしくないと思っていたことなどを語った。\u000d\u000a\u000d\u000aあなたはこれらの話を時折言葉を止め、躊躇いがちに強いて感情を抑えるような口調で語った。まるでその異質な感情が本物で、あなた自身のものでさえあるかのように。侍祭に傷ついてほしくないと思っているのはあなた自身であるかのように語った。\u000d\u000a\u000d\u000a侍祭は感謝にすすり泣いている。あなたは死体を廃棄のため再び包みなおすのに手を貸し、黒い粒は廃棄場へ送るように鉗子で横に除けた。厄介なものは何も残っていない。@{K}貴方は長い間に渡って彼女の双子の心臓が弱っていた事を漠然と、しかし穏やかな口調で話し始める。決して治る事のない病魔に蝕まれた彼女の双子は、その事実を聡明な医者である彼女にさえも打ち明けることが出来なかった。貴方は、双子の姉が如何に妹である彼女を愛していたのか、そしてその愛故に、自分に必然で本当の死が訪れた時、彼女に自分の死の責め苦を負って欲しくなかったのであろう事を話した。\r\n\r\n\r\n貴方はこの不思議な気持ちが真実で、まるで自分の気持ちであるかのように言い淀み、躊躇し、自制しながら話を続けた。まるで貴方自身が、侍祭が傷つく様を見たくないと考えているかのように、彼女に話し続けた。\r\n\r\n\r\n侍祭は感謝のすすり泣きをあげている。貴方は廃棄する為遺体の包装を手助けし、小さな塊は後で破棄する為にトングで脇に追いやった。汚い物は、もう何も残されていない。@{M}You come up with something vague but soothing about a long-running weakness of the heart, a medical concern the twin did not dare confide even to her clever doctor sister because it could not be healed. You tell how the twin loved her sister so much that she did not want to let the Acolyte to feel guilty when, inevitably, true death came for her. \r\n\r\nYou tell it with some pauses, hesitation, restraint, as though all these strange feelings were true and were even your own. As though you were the one who did not want to see the Acolyte hurt.\r\n\r\nThe Acolyte weeps gratefully. You help her wrap the body again for disposal and you put the pellet aside, with tongs, to go to the dump. Nothing messy is left behind.",
+        "Name": "彼女が聞きたかった事@{M}What she wants to hear",
+        "Id": 149089
+      },
+      "DefaultEvent": {
+        "Description": "あなたは恋人たちのすれ違いと髭を生やした詩人、そして囚人の蜜の一大強盗についての物語を語り始めた。しかしあなたは侍祭とこのものが共有する過去についてほとんど知らなかったため、当然のことだが結局は何かを間違えてしまった。\u000d\u000a\u000d\u000aその後侍祭は自分で黒く小さい塊を観察した。こうなってしまったからには、彼女が再びあなたに話しかけることはないだろう。@{K}貴方は、誤った愛の情事、髭の詩、巨漢の囚人蜂蜜強盗の物語を話し始めた。しかし、貴方はこれらの物語について余りにも知らなさすぎた - 必然的に貴方は間違いを犯したのだ。\r\n\r\n\r\nその後、侍祭は小さく黒い塊を見つけ出す。そして、彼女はもう二度と、貴方と話す事は無いだろう。@{M}$Aft -> 後部, (Firkin of)?[Pp]risoner's [Hh]oney -> 囚人の蜜$You start in on a story about a misguided love affair, a Bearded Poet, a massive heist of Prisoner's Honey. But you know too little of their shared history, and inevitably you make a mistake.\r\n\r\nAfter that the Acolyte looks at the little black pellet herself. And then she won't speak to you any more.",
+        "Name": "不完全な作り話@{M}Insufficient invention",
+        "Id": 149088
+      },
+      "Name": "慰めの作り話を考える@{M}Invent a comforting lie",
+      "Description": "子供時代を共に過ごした存在が姉でなかった事を知れば、彼女はひどく寂しがるに違いない。@{K}彼女の子供時代の連れ合いが彼女の姉では無かったという事を知るのは、彼女にとって何と寂しい事だろうか。@{M}How lonely she would be to learn that her childhood's companion was not her sister at all.",
+      "ButtonText": "",
+      "Id": 127813
+    }
+  ],
+  "Description": "ついに中心までたどり着くと、彼女はそこに入っていた珠をあなたに渡してきた。そして後から思い立ったかのように防護眼鏡もこちらに寄越した。\u000d\u000a\u000d\u000a集中して見つめると、その秘密が理解できるようになってきた。\u000d\u000a\u000d\u000a禁欲的な侍祭の姉は彼女の双子ではなく、姉ですらなかった。そもそも侍祭には姉妹など存在しなかったのだ。この生き物は侍祭が幼いころに彼女と鏡写しの顔を身に着けたようだ。侍祭が当時から見せていた才覚と将来の明るい展望に惹かれたのだろう。@{K}侍祭が内部深くに入り込んだ時、彼女は貴方に球を押し付けてきた。そして一瞬の逡巡の後、彼女のゴーグルをあなたに貸してきたのだ。\r\n\r\n\r\n秘密 - 貴方がそれを見出す為に必要な注意を払った時に見つけたもの - はこうだ。\r\n\r\n\r\n質素な侍祭の双子は、双子ではなく、姉ですら無かったのだ。侍祭は姉を持ったことなど一度も無かった。この遺体の顔には、恐らくこの者の子供時代に彼女自身の顔の写しをそのまま被せた物だった。それは自身の幸運と成功を見込んで、彼女が自分で創りだした物だった。@{M}When the Acolyte gets to the center, she pushes the ball towards you. As an afterthought she lets you borrow her goggles as well.\r\n\r\nThe secret, when you can focus enough to make it out, is this:\r\n\r\nThe Austere Acolyte's twin was not her twin, not her sister at all. The Acolyte never had a sister. This being took up wearing a mirror of her face, early in her childhood. It was drawn by her early promise, by the likelihood of her success.",
+  "Name": "漆黒の陰@{M}Shades of Black",
+  "Id": 149086
+}

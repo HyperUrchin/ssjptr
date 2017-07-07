@@ -1,0 +1,8 @@
+{"ChildBranches": [{"SuccessEvent": {"Description": "",
+                                     "Name": "Avoid the glare of the sunsunsun", "Id": 243693},
+                    "DefaultEvent": {"Description": "Sporules ", "Name": "Sunsunsun",
+                                     "Id": 243692},
+                    "Name": "Investigate ", "Description": "", "ButtonText": "",
+                    "Id": 186134}],
+ "Description": "This is a placeholder. ", "Name": "Vortex root ",
+ "Id": 243691}

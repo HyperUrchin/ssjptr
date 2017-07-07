@@ -1,4 +1,4 @@
- {"ChildBranches": [{"DefaultEvent": {"Description": "",
+{"ChildBranches": [{"DefaultEvent": {"Description": "",
                                      "LinkToEvent": {"Id": 140908}, "Name": "", "Id": 171453},
                     "Name": "殺して、食肉処理をする@{I}Butcher it",
                     "Description": "　物資と、場合によってはその他の珍品のために。@{I}For supplies; and occasionally other oddities.",

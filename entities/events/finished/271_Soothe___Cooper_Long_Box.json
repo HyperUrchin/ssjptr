@@ -1,0 +1,8 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "その中には確かに死体が収められていた。完全に死んでいる。胸骨の上の微かなふくらみ以外には特筆すべき点もない死体だ。肌は青ざめて冷たく、死因は分からない。\u000d\u000a\u000d\u000aあなたの観察する間にも皮膚がさらに縮んだように見える。一時間がたって戻ると、死体はすでに半ば腐り枯葉の山のような状態になっていた。枯葉にしては量が多いが。@{K}There is, in fact, a corpse within: utterly dead, unremarkable except for a slight bulge at the breastbone. Its skin is pale and cold. It's not clear what he died of.\u000d\u000a\u000d\u000aEven as you watch, the skin seems to tighten further. When you return, an hour later, the corpse is already half-decayed, into something like a pile of withered leaves. So much for that.",
+                                     "Name": "予想に違わず@{K}Not unexpected", "Id": 152841},
+                    "Name": "封を破り中身を確かめる@{K}Crack the seal and see what's inside.",
+                    "Description": "好奇心は命取りとなりうる。@{K}Curiosity kills.", "ButtonText": "",
+                    "Id": 130149}],
+ "Description": "本当は、棺なのかもしれない？@{K}Is it, in fact, a coffin?",
+ "Name": "スード＆クーパー社の長箱@{K}$Soothe (and|&) Cooper -> スード&クーパー$Soothe & Cooper Long-Box",
+ "Id": 152840}

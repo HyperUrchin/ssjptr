@@ -1,0 +1,10 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "", "Name": "",
+                                     "Id": 143940},
+                    "Name": "貴方の過去@{M}Your past", "Description": "", "ButtonText": "",
+                    "Id": 124454},
+                   {"DefaultEvent": {"Id": 143941}, "Name": "はい@{M}Yes",
+                    "Description": "", "ButtonText": "", "Id": 124455},
+                   {"DefaultEvent": {"Id": 147419}, "Name": "どちらでも無い@{M}Neither",
+                    "Description": "", "ButtonText": "", "Id": 126698}],
+ "Description": "", "Name": "ソルトの彫刻@{M}Salt Sculptures",
+ "Id": 143939}

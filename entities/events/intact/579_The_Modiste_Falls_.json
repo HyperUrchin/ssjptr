@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "The Modiste slowly opens her bloodshot eyes. A deep smile spreads across her face. \"How refreshing,\" she croaks. \"You have bested me... my Captain! Oh, to have had an opponent of your calibre in London. What rivals we could have been.\"",
+                                     "Name": "A close brush with the ferryman", "Id": 193946},
+                    "Name": "Assist the fallen Modiste",
+                    "Description": "You have won. Time to get her to the surgeon.",
+                    "ButtonText": "", "Id": 154549},
+                   {"DefaultEvent": {"Description": "The Modiste's serrated blade slices effortlessly through her flesh, opening her chest. Shatter her ribcage. Force it open with your hands, straining as the bones yield and crack.\u000d\u000a\u000d\u000aHow fragile her heart feels between your fingers. Even more fragile as you tear it from its cradle of fat and muscle.\u000d\u000a\u000d\u000aThis is your trophy now. You have earned it.",
+                                     "Name": "A grisly prize", "Id": 193947},
+                    "Name": "Finish off the Modiste",
+                    "Description": "Cut her open. Take her heart.", "ButtonText": "",
+                    "Id": 154550}],
+ "Description": "Her perfume is drowned out by... iron? Or copper?",
+ "Name": "The Modiste Falls!", "Id": 193086}

@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "", "Name": "",
+                                     "Id": 153581},
+                    "Name": "粘土の機関士の離脱を見守る@{M}Watch the Clay Stokers depart",
+                    "Description": "貴方にとり、彼らは此処では使い物にならない@{M}They are of no use to you here.",
+                    "ButtonText": "", "Id": 130589}],
+ "Description": "スペースが無い。@{M}NO ROOM.",
+ "Name": "受け入れ不可@{M}UNACCEPTABLE", "Id": 153580}

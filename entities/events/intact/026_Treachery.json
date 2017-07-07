@@ -1,27 +1,8 @@
-{
-  "Id": 141259,
-  "Name": "Treachery",
-  "Description": "Occurs only when Terror is high. Your crew turn on you.",
-  "ChildBranches": [
-    {
-      "DefaultEvent": {
-        "Id": 141260,
-        "Name": "",
-        "Description": ""
-      },
-      "Id": 122732,
-      "Name": "Talk 'em down",
-      "Description": "easy"
-    },
-    {
-      "DefaultEvent": {
-        "Id": 141261,
-        "Name": null,
-        "Description": null
-      },
-      "Id": 122733,
-      "Name": "Take 'em down",
-      "Description": ""
-    }
-  ]
-}
+{"ChildBranches": [{"DefaultEvent": {"Description": "", "Name": "",
+                                     "Id": 141260},
+                    "Name": "Talk 'em down", "Description": "easy", "ButtonText": "",
+                    "Id": 122732},
+                   {"DefaultEvent": {"Id": 141261}, "Name": "Take 'em down",
+                    "Description": "", "ButtonText": "", "Id": 122733}],
+ "Description": "Occurs only when Terror is high. Your crew turn on you.",
+ "Name": "Treachery", "Id": 141259}

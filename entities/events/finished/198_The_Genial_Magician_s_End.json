@@ -1,0 +1,9 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "　彼の帽子が水の上を上下していた。あなたはそれを引っ張り上げたが、そこにマジシャンのいる兆候はなかった。もしかしたら、彼は靴に錘を仕込んでいたのかもしれない。おそらくそれが、彼の最期のトリックだったのだろう。@{I}彼の帽子が水に浮かんで揺られている。貴方はそれを引き上げるが、辺りにマジシャンの兆候はない。恐らく彼は自分のブーツを重くしたのだろう。恐らくこれが彼の最期のトリックだったのか。@{M}His hat bobs on the water. You haul it out, but there's no sign of the Magician. Perhaps he weighted his boots. Perhaps this was his final trick.",
+                                     "Name": "一つだけが残った@{I}たった一つの遺留品@{M}One thing remains",
+                                     "Id": 150652},
+                    "Name": "駆け込んで覗き見る！「人が海に！」と呼び掛ける！@{I}急いで周りを見ろ!あいつを呼ぶんだ!@{M}Rush to look! Call 'man overboard'!",
+                    "Description": "……それに何の意味もないことに、あなたはもう気がついているけれども。気さくなマジシャンは、半端な手段で済ますことはない。@{I}...しかし貴方はその言葉が何の助けにもならない事を知っている。温和なマジシャンは、姑息な手を使う事はしないのだ。@{M}$Genial Magician -> 気さくなマジシャン$...though you know already that it will do you no good. The Genial Magician is not given to half-measures.",
+                    "ButtonText": "", "Id": 128733}],
+ "Description": "　彼は夕食の装いで甲板に出てきた。彼は物入れから帽子を引っ張り出していた。彼はフックを磨いてすらいた。彼はあなたに挨拶すると微笑んだ。「俺は奴らからは逃げられない」彼は楽しそうにそう言った。そして、大きく二歩で船の手すりまで辿り着くと、それを乗り越えた。まるでそれが、郊外へ散歩に出かけるための門ででもあるかのように。そして彼は海の中に消えた。@{I}彼は正装で夕餉に姿を現した。大事にしまってあった帽子も取り出して来ている。本も綺麗に磨かれていた。彼は一礼し、にこやかに微笑む。「私は逃げられないようです」彼は努めて明るくそう言った。そして彼は船縁に跨った: 散歩のように軽やかなステップで飛び越えたかと思うと、海の中へ消えていった。@{M}He comes on deck dressed for dinner. He's got his hat out of storage. He's even polished his hook. He salutes you and smiles. \"I can't escape them,\" he says cheerfully. He's at the ship's rail in two strides: he hurdles it as if it were a gate on a country walk, and is gone into the sea.",
+ "Name": "気さくなマジシャンの最期@{I}温和なマジシャンの最期@{M}$Genial Magician -> 気さくなマジシャン$The Genial Magician's End",
+ "Id": 150647}

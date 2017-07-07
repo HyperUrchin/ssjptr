@@ -1,0 +1,9 @@
+{"ChildBranches": [{"SuccessEvent": {"Description": "　あなたの食事も制限されているのだ。模範を示そう。@{I}貴方の糧食も減らされている。手本となって示すのだ。@{M}It's short rations for you, too. Lead by example.",
+                                     "Name": "輝いた目@{I}輝く瞳@{M}Brighter eyes", "Id": 144486},
+                    "DefaultEvent": {"Description": "　おそらく、あなたは茹でたコウモリについて、あんな冗談を言うべきではなかったのだ。船乗りたちは迷信を深刻に捉えている。@{I}蝙蝠を煮込むなどという冗談を言うべきではなかったのかもしれない。船乗りは迷信やゲン担ぎを真剣に捉えるものだ。@{M}Perhaps you shouldn't have made that joke about boiled bat. Zailors take their superstitions seriously.",
+                                     "Name": "伏せられた目@{I}意気消沈@{M}Downcast eyes", "Id": 127391},
+                    "Name": "彼らを励ます@{I}彼らを勇気づける@{M}Encourage them",
+                    "Description": "　今は熱の篭った演説をしている場合ではない。しかし、あちこちで個人的に話をするのは役に立つだろう。@{I}今は大げさな励ましを与える時ではないが、静かな口調で話す事は助けになるだろう。@{M}This isn't the time for rousing speeches, but a quiet word here and there will help.",
+                    "ButtonText": "", "Id": 114084}],
+ "Description": "　潜められた声、疲れた顔。@{I}しわがれた声、疲れた顔。@{M}Hushed voices, tired faces.",
+ "Name": "半分に減らされた食事@{I}半分になった糧食@{M}Half-rations", "Id": 127390}

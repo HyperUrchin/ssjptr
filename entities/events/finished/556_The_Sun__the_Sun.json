@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "　光はあなたを弱らせた。光は、今このときも、あなたの体に酷い傷を生み出している。傷が増えれば、あなたの命はないだろう。だが、おお、太陽、太陽……@{I}光は貴方を弱らせ、貴方の皮膚に恐ろしい病魔を刻みつけるだろう。貴方に生き延びる術は残されない。だが、ああ...太陽が...太陽が...@{M}The light has enfeebled you. It's raising terrible lesions on your skin. You can't survive much more of this. But oh, the Sun, the Sun...",
+                                     "Name": "あまりに早い終わり@{I}早すぎる終焉@{M}Over too soon", "Id": 187741},
+                    "Name": "光の歓喜@{I}光の歓び@{M}The light's delights",
+                    "Description": "　箱を開けよう。光を存分に身に浴びよう。そのぬくもりは長く待ち望んだ眠り、清らかで透き通った大気、愛する者の抱擁――@{I}箱をお開けなさい。それに自身を委ねなさい。その暖かさは永き眠り、透き通った空気、恋人の抱擁 -@{M}Open the box. Let it bathe you. Its warmth is long-needed sleep, clear crystal air, a lover's embrace -",
+                    "ButtonText": "", "Id": 150869}],
+ "Description": "　あなたはもう抗えない。@{I}もう抵抗は出来ません。@{M}You can resist no longer.",
+ "Name": "太陽、太陽@{I}太陽...太陽...@{M}The Sun, the Sun", "Id": 187740}

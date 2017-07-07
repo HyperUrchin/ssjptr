@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "貴方は甲板を歩きまわり、船員を見やりつつ、違反や怠惰を指摘している。気晴らしとしては最適の方法であり、船員は自分たちが船長に監視されている事を知っている。@{M}You walk the ship, watching the crew, addressing infractions and laziness. You are suitably distracted, and they know their captain is watching.",
+                                     "Name": "忙しい一日@{M}A busy day", "Id": 147231},
+                    "Name": "気晴らしをする@{M}Distract yourself",
+                    "Description": "何か他のことを見つけよう。何でもいい、他の事を!緊急訓練!哲学についての討論!@{M}Find something else. Anything else! Run emergency drills! Debate philosophy!",
+                    "ButtonText": "", "Id": 126572},
+                   {"DefaultEvent": {"Description": "貴方は料理人のレシピ本を調べた: 自分の日誌に、次に上陸した時に食べるご馳走を恋々と綴っていく為に。自分でも愚かな、正気の沙汰とは思えない行動だと気づいてはいるが、どうしても我慢が出来ないのだ。ついでに貴方は、微妙に使い所のない知識の断片を入手した。@{M}You consult the Cook's recipe-books: write longingly in your journal of the feasts you will enjoy when you make landfall. You know this is not a wise or a sane activity, but it's hard to resist. And you've gleaned odd snippets of knowledge.",
+                                     "Name": "はち切れんばかりの日誌@{M}An exuberant diary", "Id": 147232},
+                    "Name": "執着する@{M}Obsess",
+                    "Description": "温かくて、歯ざわりが良くて、湯煙が立って、シャキっとして。酸っぱくて、甘くて、柔らかくて、塩っぱくて。これらの言葉を味わおう。@{M}Warm, crispy, steaming, crunchy; tart, sweet, soft, salty. Savour these words.",
+                    "ButtonText": "", "Id": 126573}],
+ "Description": "濃厚なミルクと蜂蜜が入った温かいポリッジ。ローストチキンの香しい匂い。ムットン島で味わった、弾力のある肉塊。採れたてのエデン茸の肉厚で歯ざわりの良い身。ああ...神様。@{M}$Rubbery Lump -> ラバリー・ランプ, Mutton Island -> マトン・アイランド$Hot porridge with creamy milk and honey. The smell of roast chicken. Rubbery Lumps, the way they cook them on Mutton Island. The crisp flesh of a newly unearthed eden-fungus. O God.",
+ "Name": "飽食の記憶@{M}Memories of plenty", "Id": 147230}

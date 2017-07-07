@@ -1,0 +1,9 @@
+{"ChildBranches": [{"SuccessEvent": {"Description": "Your ship's lights falter when they fall on the sleeping bomb. Their beams unravel into feeble threads of luminosity, then dissipate. It is difficult, working in the almost-dark, but you manage to retrieve an intricacy - of brass and glass and gleaming gold - without offending the device.",
+                                     "Name": "You don your diving gear", "Id": 243687},
+                    "DefaultEvent": {"Description": "You approach the copper bulk of the bomb, fighting against a persistent current. Pulling yourself across its surface, you look for a way to access its valuable interior. Here: a panel. You try to pry it off. The device shudders. An expulsion of silent blackness engulfs you.\u000d\u000a\u000d\u000aIt devours the light of your ship's beams like a glutton at Sunday dinner. In an instant it kills every lamp on board, every filament-bulb. A passing school of pilot fish are extinguished. Your panicking crew winch you back aboard, and you flee through the pitch dark until your lights begin, limply, to return.",
+                                     "Name": "You don your diving gear", "Id": 243635},
+                    "Name": "Scavenge a mechanism from the device",
+                    "Description": "It may come in useful. Be careful, though.",
+                    "ButtonText": "", "Id": 186102}],
+ "Description": "The silt half-covers a gleaming copper sphere, studded with spikes. A deep red light flickers continuously from within its central chamber. Your zubmarine's lights fail and darken as they glance across the shell.",
+ "Name": "Unexploded Unclear Bomb ", "Id": 243634}
