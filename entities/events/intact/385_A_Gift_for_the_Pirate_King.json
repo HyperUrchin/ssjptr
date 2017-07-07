@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "Two attendants drag the prisoner off to the Rose Garden. You do your best to ignore the screaming. Your Patron tells you that it will take some time for your gift's memories to be harvested, and the resultant honey collected. You should return later for your introduction to the Pirate-King.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Pirate-King -> 海賊王$Two attendants drag the prisoner off to the Rose Garden. You do your best to ignore the screaming. Your Patron tells you that it will take some time for your gift's memories to be harvested, and the resultant honey collected. You should return later for your introduction to the Pirate-King.",
                                      "Name": "", "Id": 168583},
                     "Name": "Courtesies due",
                     "Description": "Hand over your writhing, tear-stained cargo.",

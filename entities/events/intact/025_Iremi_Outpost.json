@@ -4,5 +4,5 @@
                     "Id": 122730},
                    {"DefaultEvent": {"Id": 141258}, "Name": "Seek knowledge",
                     "Description": "", "ButtonText": "", "Id": 122731}],
- "Description": "Were they here?", "Name": "Iremi Outpost",
- "Id": 141256}
+ "Description": "Were they here?",
+ "Name": "$Irem -> アイレム$Iremi Outpost", "Id": 141256}

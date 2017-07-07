@@ -16,5 +16,6 @@
                     "Name": "Offer passage for a blessing",
                     "Description": "You may regard him with a sceptical eye. But zailors appreciate a bit of ceremony.",
                     "ButtonText": "", "Id": 185652}],
- "Description": "He seeks passage to the church of Low Barnet, beneath the Zee just outside London. His suit is well-tailored for an itinerant preacher. His cufflinks wink with sapphires.",
- "Name": "A Wandering Parson at Mutton Island", "Id": 242912}
+ "Description": "$Low Barnet -> ロウ・バーネット$He seeks passage to the church of Low Barnet, beneath the Zee just outside London. His suit is well-tailored for an itinerant preacher. His cufflinks wink with sapphires.",
+ "Name": "$Mutton Island -> マトン・アイランド$A Wandering Parson at Mutton Island",
+ "Id": 242912}

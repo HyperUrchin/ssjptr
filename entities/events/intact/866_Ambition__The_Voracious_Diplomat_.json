@@ -1,7 +1,8 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "The Diplomat is deeply interested in the powers of the Neath, and the intricacies of espionage. If you begin to make waves, they may reveal themself. [Grant Vital Intelligence to the Dark-Spectacled Admiral to unlock the Voracious Diplomat.]",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Vital Intelligence -> 重要機密, Voracious Diplomat -> 貪欲な外交官, Dark-Spectacled Admiral -> 黒眼鏡の提督$The Diplomat is deeply interested in the powers of the Neath, and the intricacies of espionage. If you begin to make waves, they may reveal themself. [Grant Vital Intelligence to the Dark-Spectacled Admiral to unlock the Voracious Diplomat.]",
                                      "Name": "A player of the Great Game", "Id": 260636},
                     "Name": "Can you draw them out?",
                     "Description": "They have peculiar interests.", "ButtonText": "",
                     "Id": 194367}],
- "Description": "They have been named as a potential replacement for Bourdain.",
- "Name": "Ambition: The Voracious Diplomat?", "Id": 260635}
+ "Description": "$Bourdain -> ボーデイン$They have been named as a potential replacement for Bourdain.",
+ "Name": "$Ambition -> 大望, Voracious Diplomat -> 貪欲な外交官$Ambition: The Voracious Diplomat?",
+ "Id": 260635}

@@ -27,5 +27,5 @@
                     "Name": "Check the diving suit",
                     "Description": "Strictly speaking, you don't need it here, but it couldn't hurt.",
                     "ButtonText": "", "Id": 193088}],
- "Description": "A gap in this colossal zee monster's throat has been forced open with thick heartmetal beams. They strain under the pressure, but hold. As you pass through, your zubmarine lights pass over a message carved in a floating piece of some unfortunate's hull. BEYOND IS NOOK. BEYOND IS FREEDOM. BEYOND IS- The rest is scratched out.",
+ "Description": "$[Hh]eartmetal -> ハートメタル$A gap in this colossal zee monster's throat has been forced open with thick heartmetal beams. They strain under the pressure, but hold. As you pass through, your zubmarine lights pass over a message carved in a floating piece of some unfortunate's hull. BEYOND IS NOOK. BEYOND IS FREEDOM. BEYOND IS- The rest is scratched out.",
  "Name": "The Edge of Nook", "Id": 255531}

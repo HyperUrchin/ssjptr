@@ -1,7 +1,8 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "A few pieces of scintillack catch your eye as you return to the ship. You take them with you, along with the story of this place.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$[Ss]cintillack -> シンティラック$A few pieces of scintillack catch your eye as you return to the ship. You take them with you, along with the story of this place.",
                                      "Name": "The end of a dream", "Id": 209968},
                     "Name": "Leave this place",
                     "Description": "There is nothing more to be done here.",
                     "ButtonText": "", "Id": 164724}],
  "Description": "Pigmote's fight for independence is lost. A viscous fog curses what remains of its civilisation, turning any water it touches to black tar. The twitching bodies of rats and cavies lie in the streets, black jackal masks nailed to their faces. A lingering smell of burned fur catches in your throat as you leave.",
- "Name": "The Fall of Pigmote Isle", "Id": 208125}
+ "Name": "$Pigmote Isle -> ピグモート・アイル$The Fall of Pigmote Isle",
+ "Id": 208125}

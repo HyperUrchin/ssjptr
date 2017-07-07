@@ -1,6 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Id": 144255},
                     "Name": "「対価は謎なのかもしれない」@{M/K}\"対価は謎なのかもしれない。\"@{M}\"The price might be an Enigma.\"",
-                    "Description": "もしセブン・サーペントに謎を渡したとしたら、最も西にある頭を下げ、口に咥えて貴方の掌から持ち去るだろう。まるで花をついばむキリンの様に。@{M/K}もし\"ナナマタオロチ\"に謎を渡したとしたら、最も西にある頭を下げ、口に咥えて貴方の掌から持ち去るだろう。まるで花をついばむキリンの様に。@{M}If you offered the Seven-Serpent an Enigma, perhaps its westmost head would reach down and nip it from your palm, like a giraffe mouthing a flower.",
+                    "Description": "もしセブン・サーペントに謎を渡したとしたら、最も西にある頭を下げ、口に咥えて貴方の掌から持ち去るだろう。まるで花をついばむキリンの様に。@{M/K}もし\"ナナマタオロチ\"に謎を渡したとしたら、最も西にある頭を下げ、口に咥えて貴方の掌から持ち去るだろう。まるで花をついばむキリンの様に。@{M}$Seven-Serpent -> セブン・サーペント$If you offered the Seven-Serpent an Enigma, perhaps its westmost head would reach down and nip it from your palm, like a giraffe mouthing a flower.",
                     "ButtonText": "", "Id": 124664},
                    {"DefaultEvent": {"Id": 144256},
                     "Name": "「対価は財宝なのかも知れない」@{M/K}\"対価は財宝なのかも知れない。\"@{M}\"The price might be a treasure.\"",

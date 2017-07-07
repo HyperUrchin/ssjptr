@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 255567}, "Name": "", "Id": 255841},
                     "Name": "Swim Down", "Description": "To the Ruptured Throat.",
                     "ButtonText": "", "Id": 191702},
-                   {"DefaultEvent": {"Description": "Light glitters where the false-stars shine on the surface of the zee, framed by the Maw's dormant teeth. How ancient is this creature? What happens if it swallows?",
+                   {"DefaultEvent": {"Description": "$false-star -> 偽星$Light glitters where the false-stars shine on the surface of the zee, framed by the Maw's dormant teeth. How ancient is this creature? What happens if it swallows?",
                                      "LinkToEvent": {"Id": 255569},
                                      "Name": "Crunching, writhing, beauty", "Id": 258183},
                     "Name": "Gaze up through the Maw",

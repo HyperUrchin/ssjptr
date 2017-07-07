@@ -11,7 +11,7 @@
                    {"DefaultEvent": {"Description": "The Conscientious Mercenary looks at you meaningfully and cups his cheeks: the gesture of plenty. He slices you a lobe of the shark's brain, and licks the violant jelly from the blade when done. He considers the eyes carefully, before he places one on your plate. He adjusts it to look up at you.\u000d\u000a\u000d\u000aYour first bite of the brain, and the taste spreads through your mouth like ivy. The eye is no better. It pops in your mouth, bursting into stinking jelly.",
                                      "LinkToEvent": {"Id": 152190}, "Name": "", "Id": 239357},
                     "Name": "Partake of Lady Black's Chiefest Pearls",
-                    "Description": "Festival servers clear your plates, and present the night's desert: the violant-dyed organs of a bound-shark, laid across the table with anatomical accuracy.",
+                    "Description": "$[Bb]ound[ -][Ss]hark -> バウンド・シャーク$Festival servers clear your plates, and present the night's desert: the violant-dyed organs of a bound-shark, laid across the table with anatomical accuracy.",
                     "ButtonText": "", "Id": 183344},
                    {"DefaultEvent": {"Description": "No one tries to stop you. Most merely clear their throats and look away, feigning distraction. The few who do look directly at you scowl. But a few offer half-smiles - \"I know,\" they seem to say. \"We all know.\" ",
                                      "LinkToEvent": {"Id": 152190}, "Name": "", "Id": 239358},

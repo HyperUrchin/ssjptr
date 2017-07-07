@@ -4,10 +4,11 @@
                     "Description": "　彼らは甲虫のように小走りに駆け回っている。紅色の頬に髭を生やした甲虫だ。@{I}They scurry like beetles. Rosy-cheeked, mutton-chopped beetles.",
                     "ButtonText": "", "Id": 179379},
                    {"DefaultEvent": {"Description": "　煙突の煙が見えない。人々はどこへ行った？@{I}Where is the chimney-smoke? Where are the people?",
-                                     "LinkToEvent": {"Id": 230505}, "Name": "何かがおかしい@{I}Something is wrong",
-                                     "Id": 233406},
+                                     "LinkToEvent": {"Id": 230505},
+                                     "Name": "何かがおかしい@{I}Something is wrong", "Id": 233406},
                     "Name": "クエーカーズ・ヘイヴンは静かだ@{I}$Quaker's Haven -> クエーカーズ・ヘイヴン$Quaker's Haven is quiet",
-                    "Description": "　もうお祭りは終わったのかな？@{I}Is the festival over?", "ButtonText": "",
-                    "Id": 179380}],
+                    "Description": "　もうお祭りは終わったのかな？@{I}Is the festival over?",
+                    "ButtonText": "", "Id": 179380}],
  "Description": "　マトン・アイランドではZeeよりの収穫祭に向けた準備が進められている。@{I}$Mutton Island -> マトン・アイランド$Mutton Island has been preparing for the Fruits of the Zee festival.",
- "Name": "Zeeよりの収穫@{I}The Fruits of the Zee", "Id": 233404}
+ "Name": "Zeeよりの収穫@{I}$The Fruits of the Zee -> Zeeよりの収穫$The Fruits of the Zee",
+ "Id": 233404}

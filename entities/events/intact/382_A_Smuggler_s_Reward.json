@@ -1,7 +1,7 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "Isery snatches the notes from your hands, and starts flicking through the pages. \"I'll have a reward sent to your ship.\" They look up and smile at you vaguely, eyes glazed as a honey-seeker's. \"Oh, my dear, what a treasure you are.\"\u000d\u000a\u000d\u000a You summon an answering smile, and slip away the moment they are distracted.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Isery -> イザリー$Isery snatches the notes from your hands, and starts flicking through the pages. \"I'll have a reward sent to your ship.\" They look up and smile at you vaguely, eyes glazed as a honey-seeker's. \"Oh, my dear, what a treasure you are.\"\u000d\u000a\u000d\u000a You summon an answering smile, and slip away the moment they are distracted.",
                                      "Name": "", "Id": 168567},
                     "Name": "A well-earned reward",
-                    "Description": "You hand over the Alarming Scholar's notes. ",
+                    "Description": "$Alarming Scholar -> 不安を催させる学者$You hand over the Alarming Scholar's notes. ",
                     "ButtonText": "", "Id": 139077}],
- "Description": "\"Don't keep me waiting!\" Isery pouts prettily, and rustles their silks. \"Do you have a little present for me?\"",
+ "Description": "$Isery -> イザリー$\"Don't keep me waiting!\" Isery pouts prettily, and rustles their silks. \"Do you have a little present for me?\"",
  "Name": "A Smuggler's Reward", "Id": 168566}

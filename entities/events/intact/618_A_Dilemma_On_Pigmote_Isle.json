@@ -1,11 +1,11 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "A word in the right furry ear. A little distraction. Pigmote Isle will have to do without some of its workers. At least, without the ones who can afford passage aboard your ship.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Pigmote Isle -> ピグモート・アイル$A word in the right furry ear. A little distraction. Pigmote Isle will have to do without some of its workers. At least, without the ones who can afford passage aboard your ship.",
                                      "Name": "All aboard!", "Id": 213286},
                     "Name": "An opportunity beckons",
                     "Description": "If they are desperate to leave, they will pay for passage.",
                     "ButtonText": "", "Id": 166794},
-                   {"SuccessEvent": {"Description": "Diplomacy works. The emigrants are taken aback by the arrival of soft words and outstretched paws, and the promise of forgiveness. A few still risk the zee and its many dangers, but most accept [q:Pigmote Isle: Mastery]'s offered amnesty and return.",
+                   {"SuccessEvent": {"Description": "$Pigmote Isle -> ピグモート・アイル$Diplomacy works. The emigrants are taken aback by the arrival of soft words and outstretched paws, and the promise of forgiveness. A few still risk the zee and its many dangers, but most accept [q:Pigmote Isle: Mastery]'s offered amnesty and return.",
                                      "Name": "A rousing speech", "Id": 213306},
-                    "DefaultEvent": {"Description": "The traitors do not listen. [q:Pigmote Isle: Mastery] lacks the force of arms to stop them leaving. They put to zee in their hastily made boats and rafts, and disappear into the darkness.",
+                    "DefaultEvent": {"Description": "$Pigmote Isle -> ピグモート・アイル$The traitors do not listen. [q:Pigmote Isle: Mastery] lacks the force of arms to stop them leaving. They put to zee in their hastily made boats and rafts, and disappear into the darkness.",
                                      "Name": "Failed diplomacy", "Id": 213285},
                     "Name": "Suggest appealing to their patriotism",
                     "Description": "Remind them why they came here, and what they can still become.",
@@ -18,4 +18,5 @@
                     "Description": "Have them escorted back to town at swordpoint.",
                     "ButtonText": "", "Id": 166734}],
  "Description": "\"The lights of London call to our people, Hairless Adviser. They seek the warmth of its lamps. The abundance of food.\" The aide leans in. \"Already the traitors repurpose the <i>Impossible Lamb</i>'s hull into rafts and boats for their shameful and terrible exodus! We cannot survive if our people desert us. What should we do?\"",
- "Name": "A Dilemma On Pigmote Isle", "Id": 213195}
+ "Name": "$Pigmote Isle -> ピグモート・アイル$A Dilemma On Pigmote Isle",
+ "Id": 213195}

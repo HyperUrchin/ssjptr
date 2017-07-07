@@ -20,8 +20,9 @@
                                      "Name": "後退@{K}A setback", "Id": 144293},
                     "RareSuccessEvent": {"Description": "……そして怪物を切り開くと、どういうわけか、あなたはもはやこの解剖に立ち会ってはいなかった。あなたは白い石の海岸を昇っている。小石が粘液にまみれて光っていた。浜にできた丘の向こうから憂いのない陽気な笛の音が聞こえる。あなたは這い上がる。ジーバットが素早く上空を飛んで行った。後ろを振り返り、浜辺とUnterzeeを見やる。そして一筋の光が闇を切り裂いた。「太陽だ！」叫びが上がる。「太陽だ！」\u000d\u000a\u000d\u000aいや、違う。太陽なんてない。あなたは崩れつつある巨大なウナギの体内で、闇の中に膝をついていた。@{K}...as you hack up the beast. Somehow, you seem no longer to be engaged in dissection, but climbing a pale shingle beach. The pebbles glisten with slime. Beyond the ridge of the beach, you hear music: a careless cheery piping. You struggle higher. Zee-bats zip past. The piping ends abruptly: all is silence. You look back down the beach to the Unterzee: shafts of light pierce the darkness. \"The Sun!\" cries a voice. \"The Sun!\"\u000d\u000a\u000d\u000aNo: no Sun. You are kneeling in darkness, in the disintegrating innards of a giant eel.",
                                          "Name": "注意散漫@{K}Your attention drifts", "Id": 148476},
-                    "Name": "解剖する@{I}Dissect it", "Description": "知識のために。@{I}for knowledge.",
-                    "ButtonText": "", "Id": 124691}],
+                    "Name": "解剖する@{I}Dissect it",
+                    "Description": "知識のために。@{I}for knowledge.", "ButtonText": "",
+                    "Id": 124691}],
  "Description": "なんて不細工な代物なんだ！生きていた時よりも醜い。友好的にはなったが。@{K}D__n me, it's an ugly thing! Even uglier dead than alive. Friendlier, though.",
  "Name": "シラコウナギを打ち倒した@{K}$Albino Moray -> シラコウナギ$You've defeated an Albino Moray",
  "Id": 144292}

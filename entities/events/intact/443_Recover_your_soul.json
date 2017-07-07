@@ -22,7 +22,7 @@
                     "Name": "A filthy ape",
                     "Description": "Its matted hair and rotting teeth are a testament to bad health and worse self-respect.",
                     "ButtonText": "", "Id": 143338},
-                   {"DefaultEvent": {"Description": "Is not eleven per cent of Fallen London now getting along just fine without one? Though should anyone ask, it was a devil that bought it. Definitely a devil.",
+                   {"DefaultEvent": {"Description": "$Fallen London -> フォールン・ロンドン$Is not eleven per cent of Fallen London now getting along just fine without one? Though should anyone ask, it was a devil that bought it. Definitely a devil.",
                                      "LinkToEvent": {"Id": 175485},
                                      "Name": "Who needs a soul anyway?", "Id": 178076},
                     "Name": "None of them",

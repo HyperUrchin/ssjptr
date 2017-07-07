@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "You move stealthily through the dark, hearing one knot of conversation and then another.\u000d\u000a\u000d\u000aThe secrets exchanged do not offer much leverage. You can't see the owners of the secrets. Here and there you catch the smallest fragment of something that might serve you on a future occasion: the memory of a voyage east, a half-rumour about the Carnelian Coast, a muttering about the Admiralty.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Admiralty -> 海軍省, Carnelian Coast -> カーネリアン・コースト$You move stealthily through the dark, hearing one knot of conversation and then another.\u000d\u000a\u000d\u000aThe secrets exchanged do not offer much leverage. You can't see the owners of the secrets. Here and there you catch the smallest fragment of something that might serve you on a future occasion: the memory of a voyage east, a half-rumour about the Carnelian Coast, a muttering about the Admiralty.",
                                      "LinkToEvent": {"Id": 168628},
                                      "Name": "Not much for blackmail", "Id": 168623},
                     "Name": "Wait, listen",
@@ -15,7 +15,7 @@
                     "Name": "Fight the urge to panic",
                     "Description": "The room may have got bigger, but you are still trapped like a bug in a bottle.",
                     "ButtonText": "", "Id": 139116},
-                   {"DefaultEvent": {"Description": "You manage to stifle yourself. The only thing that comes out sounds like a sneeze.\u000d\u000a\u000d\u000aHere and there people are talking around you, telling of childhoods in padded nurseries, silenced under the Scarab-shaped baby mask. Other pasts, too, not all lived on Visage.",
+                   {"DefaultEvent": {"Description": "$Visage -> ヴィザージュ$You manage to stifle yourself. The only thing that comes out sounds like a sneeze.\u000d\u000a\u000d\u000aHere and there people are talking around you, telling of childhoods in padded nurseries, silenced under the Scarab-shaped baby mask. Other pasts, too, not all lived on Visage.",
                                      "LinkToEvent": {"Id": 168628}, "Name": "Suppressed",
                                      "Id": 168626},
                     "Name": "Fight the urge to giggle",
@@ -26,5 +26,5 @@
                     "Name": "Receive the confidence of a stranger as holy",
                     "Description": "Those who come as spectators may remain as participants.",
                     "ButtonText": "", "Id": 139118}],
- "Description": "At last the tunnel opens out. You and all the other congregants spread out in a cavernous space.\u000d\u000a\u000d\u000aA voice speaks in the darkness, a ritual preparation: \"Here at the new year, we gather under the One Mask of Flourishing-of-Years. Her face is turned to the gods.\u000d\u000a\u000d\u000a\"Protected by her mask, we may remove our own. Protected by her script, we may speak outside our parts.\"\u000d\u000a\u000d\u000aHere and there is the sound of people fumbling with ties and strings. Your own face feels different with the mask off.",
+ "Description": "$Flourishing ?- ?of ?- ?Years -> 悠久の栄え$At last the tunnel opens out. You and all the other congregants spread out in a cavernous space.\u000d\u000a\u000d\u000aA voice speaks in the darkness, a ritual preparation: \"Here at the new year, we gather under the One Mask of Flourishing-of-Years. Her face is turned to the gods.\u000d\u000a\u000d\u000a\"Protected by her mask, we may remove our own. Protected by her script, we may speak outside our parts.\"\u000d\u000a\u000d\u000aHere and there is the sound of people fumbling with ties and strings. Your own face feels different with the mask off.",
  "Name": "Deep Within", "Id": 168622}

@@ -9,4 +9,5 @@
                     "Description": "あなたほどの学者であれば、この本からより一層学ぶことができるだろう。[Pagesを85まで上昇させます。]@{K}A philosopher of your degree will learn far more from this book. [This will increase your Pages to 85.]",
                     "ButtonText": "", "Id": 139807}],
  "Description": "これは夜にあなたの元にやってきた。どのようにして来たのかその正確な所が分かる日は来ないだろう。これはひどく検閲されているが、いくつかの詳細は生き残っている……@{K}This came to you by night: how exactly will never be clear. It has been savagely censored, but some details survive...",
- "Name": "ホライゾン・コーデックス@{K}$Codex -> コーデックス$The Horizon Codex", "Id": 168134}
+ "Name": "ホライゾン・コーデックス@{K}$Codex -> コーデックス$The Horizon Codex",
+ "Id": 168134}

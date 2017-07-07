@@ -3,7 +3,7 @@
                     "Name": "You will give them the box",
                     "Description": "\"We will keep it safe for the zee-captain, in case she returned, long ago. When it was opened, it will be safe. We will compensate you.\"",
                     "ButtonText": "", "Id": 124674},
-                   {"DefaultEvent": {"Description": "\"What cage imprisons nothing?\" the Fellow will say. \"Where do petals begin? Where do stories end?\" He beams at you. Actually, for an Iremi riddle, that's almost helpful.",
+                   {"DefaultEvent": {"Description": "$Irem -> アイレム$\"What cage imprisons nothing?\" the Fellow will say. \"Where do petals begin? Where do stories end?\" He beams at you. Actually, for an Iremi riddle, that's almost helpful.",
                                      "Name": "\"Which is the cat's chiefest claw?\"", "Id": 144270},
                     "Name": "You will ask them where to find the captain",
                     "Description": "\"Are you sure you want to know?\" the Heavy-Lidded Fellow will ask. \"Perhaps she doesn't want to tell you the key-phrase, no matter how much you offer. Perhaps she wants her box back.\"",

@@ -16,7 +16,7 @@
                     "Name": "\"Psst! Friend! Strike a blow for freedom, will you?\"",
                     "Description": "A Fidgety Agitator beseeches you to take supplies below, to London, for the cause of Revolution.",
                     "ButtonText": "", "Id": 130777},
-                   {"DefaultEvent": {"Description": "A fierce old fellow listens intently to your account, and dispatches agents to arrest the Agitator. \"We are grateful,\" he says. \"I shall not insult you by offering you payment. But I must invite you to dine with me before you leave.\"\u000d\u000a\u000d\u000aNo payment? But the dinner conversation is rich with valuable information. Perhaps the old fellow is using you as a pawn in some scheme of his own. No matter: the Admiralty would love to hear this.",
+                   {"DefaultEvent": {"Description": "$Admiralty -> 海軍省$A fierce old fellow listens intently to your account, and dispatches agents to arrest the Agitator. \"We are grateful,\" he says. \"I shall not insult you by offering you payment. But I must invite you to dine with me before you leave.\"\u000d\u000a\u000d\u000aNo payment? But the dinner conversation is rich with valuable information. Perhaps the old fellow is using you as a pawn in some scheme of his own. No matter: the Admiralty would love to hear this.",
                                      "LinkToEvent": {"Id": 151453},
                                      "Name": "A dinner with a gentleman from the Bureau",
                                      "Id": 153903},
@@ -58,7 +58,7 @@
                                      "LinkToEvent": {"Id": 151453}, "Name": "\"Shh!\"",
                                      "Id": 187739},
                     "Name": "Ask the Bureau friend whether you had met before, long ago...",
-                    "Description": "In Frostfound, you uncovered certain memories. Were they yours?",
+                    "Description": "$Frostfound -> 氷結城$In Frostfound, you uncovered certain memories. Were they yours?",
                     "ButtonText": "", "Id": 150868}],
  "Description": "The capital of the Dual Monarchy has seen better days. The palaces still glitter, but the mood is uneasy. Every third wall seems daubed with graffiti, only rarely in German: UNITY OR DEATH and REMEMBER LONDON and THE LIBERATION OF NIGHT.\u000d\u000a\u000d\u000aRadical elements have taken to smashing the gas-lamps with flung stones. At least that means it's decently dark at night.",
- "Name": "Vienna", "Id": 151453}
+ "Name": "$Vienna -> ウィーン$Vienna", "Id": 151453}

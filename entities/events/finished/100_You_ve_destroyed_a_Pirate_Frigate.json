@@ -1,6 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "船倉の奥のほうに何かがあった……@{K}Here's something at the back of the hold...",
-                                     "LinkToEvent": {"Id": 140906}, "Name": "これは何だ？@{K}What's this?",
-                                     "Id": 144319},
+                                     "LinkToEvent": {"Id": 140906},
+                                     "Name": "これは何だ？@{K}What's this?", "Id": 144319},
                     "Name": "略奪してから沈める@{K}Loot and scuttle her",
                     "Description": "この船は汚く古びていて、Zeeは安全ではない。取れるものだけ取って、先に進もう。@{K}She's a vile old vessel, and these zees aren't safe. Take what you can and move on.",
                     "ButtonText": "", "Id": 124704},
@@ -10,4 +10,5 @@
                     "Description": "十分に知識を集めることが出来れば、何かを学べるかもしれない……@{K}If you've gathered enough, you may learn something...",
                     "ButtonText": "", "Id": 131993}],
  "Description": "この船はあなたのものだ！さて、これをどうしようか？@{K}The ship is yours! What will you do with her?",
- "Name": "海賊のフリゲート艦を打ち倒した@{K}You've destroyed a Pirate Frigate", "Id": 144316}
+ "Name": "海賊のフリゲート艦を打ち倒した@{K}You've destroyed a Pirate Frigate",
+ "Id": 144316}

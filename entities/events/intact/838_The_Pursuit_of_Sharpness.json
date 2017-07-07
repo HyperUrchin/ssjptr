@@ -34,7 +34,7 @@
                     "Name": "Mineralise your skeleton",
                     "Description": "Strength that cannot be seen is often the most praiseworthy. Walk among the labourers, the circus strongwomen, the persons of iron will and unshakable integrity.",
                     "ButtonText": "", "Id": 192001},
-                   {"DefaultEvent": {"Description": "The sharp-skinned of Anthe have no reason to fear heat, or edged implements, or bruising rocks. Snakes and stinging insects are a game to them. The suicide of wasps on crystal Anthean skin is one of their primary sources of comedy. \u000d\u000a\u000d\u000aThese people have the most to do if they wish to conceal their condition from those above the Unterzee. They almost never leave Anthe, but if they do, they wrap themselves in bandages and pass as Tomb Colonists, or mask themselves like a native of Visage.",
+                   {"DefaultEvent": {"Description": "$Visage -> ヴィザージュ$The sharp-skinned of Anthe have no reason to fear heat, or edged implements, or bruising rocks. Snakes and stinging insects are a game to them. The suicide of wasps on crystal Anthean skin is one of their primary sources of comedy. \u000d\u000a\u000d\u000aThese people have the most to do if they wish to conceal their condition from those above the Unterzee. They almost never leave Anthe, but if they do, they wrap themselves in bandages and pass as Tomb Colonists, or mask themselves like a native of Visage.",
                                      "LinkToEvent": {"Id": 238438}, "Name": "The Blistering Abyss",
                                      "Id": 256242},
                     "Name": "Let your skin be clear as water and hard as armour",

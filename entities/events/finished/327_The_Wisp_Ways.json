@@ -1,351 +1,148 @@
-{
-  "ChildBranches": [
-    {
-      "DefaultEvent": {
-        "Description": "衣服も持ち物も残されていない。彼らの財布と肉は剥ぎ取られてから久しいようだ。彼らが今も持つのは皮肉な笑みと蔦の服だけ……@{K}Nothing remains of their clothes or possessions. They've been long-robbed of their purses as well as their flesh. Each carries only a sardonic grin and a robe of creepers...",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "迂回する@{K}Skirting round",
-        "Id": 159499
-      },
-      "Name": "ハンモックの三つの骸骨@{K}Three skeletons on a hummock",
-      "Description": "彼らは遥か昔に消えた焚火の周りに密集して横になっている。あたかも単に起き上がる気になれないだけであるかのように。@{K}They sprawl companionably around a long-dead fire, as if they simply couldn't be bothered to get up.",
-      "ButtonText": "",
-      "Id": 134246
-    },
-    {
-      "DefaultEvent": {
-        "Description": "灰色と黒のまだらな影の内で、何にも脅かされることはなかった。@{K}In the dappled grey and black, nothing threatens you.",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "平和@{K}There is peace",
-        "Id": 159501
-      },
-      "RareDefaultEvent": {
-        "Description": "あなたたちがそこを通り抜ける間は何事も起こらなかった。しかし、暗がりの反対の端で人数を数えると一人欠けていることに気が付いた……@{K}Nothing troubles you as you pass. But when you count heads on the far side of the shadows, you're missing a zailor...",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "一人足りない@{K}One short",
-        "Id": 159521
-      },
-      "Name": "樹々の間の暗がり@{K}Darkness between the trees",
-      "Description": "「もっと近くへ」風が梢から語り掛ける。「ここは平和だ」@{K}\"Come closer,\" the wind says in the branches. \"Here is peace.\"",
-      "ButtonText": "",
-      "Id": 134248
-    },
-    {
-      "DefaultEvent": {
-        "Description": "数時間後、あなたたちはびちゃびちゃと音を立てながら比較的安全な場所まで帰り着いた。風呂に入りたい。それはもう心の底から。有難いことに汽船には常に熱い湯がある。@{K}Hours later, you squelch out into relative safety. You need a bath. How you need a bath. Thank God that a steamer is never short of hot water.",
-        "LinkToEvent": {
-          "Id": 143391
-        },
-        "Name": "カレッジの屋根@{K}The roofs of the College",
-        "Id": 159502
-      },
-      "Name": "立ち去る@{K}Leave",
-      "Description": "本当にもう十分だ。あなたの体は肉というよりもはやそのほとんどが泥だ。[沼地の奥に進むほど、恐怖値が多く上昇する可能性が高まります。]@{K}Enough is too much. You are more mud than flesh now. [The further into the swamps you are, the more Terror you may gain]",
-      "ButtonText": "",
-      "Id": 134249
-    },
-    {
-      "DefaultEvent": {
-        "Description": "狐火は期待の持てる小道を照らした。しかしその期待は応えられずに終わった。@{K}The wisps illuminate a promising trail. Its promises are false.",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "迷った！@{K}Lost!",
-        "Id": 159505
-      },
-      "RareDefaultEvent": {
-        "Description": "狐火の明かりが様々なものに触れる。光を反射する樹皮、動かない蜂たち、光沢のある粘菌の塊、羊皮紙の様に黄色い張り出した茸、沼ネズミの瞳。そして……道に。@{K}The light from the wisps touches glistening tree-bark, beetles in motionless, glossy clumps, bracket-fungus yellow as parchment, the eyes of marsh-rats. And here - a path.",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "横道@{K}Byways",
-        "Id": 159509
-      },
-      "Name": "滑空する光を追う@{K}Follow gliding lights",
-      "Description": "七つの狐火が先のほうで揺れている。あなたたちについてくるよう誘っているように。「七は幸運の数字だ」一人が呟く。「不幸の七じゃない限りは」実に役に立つ助言だ。@{K}A knot of seven wisps weaves ahead, beckoning you to follow. \"Seven is lucky,\" a zailor mutters. \"Except when it's unlucky seven.\" That's helpful.",
-      "ButtonText": "",
-      "Id": 134251
-    },
-    {
-      "DefaultEvent": {
-        "Description": "陸地ときたら……なぜ土地なんてなくちゃいけない？水じゃ駄目なのか？水が無理だとしても、なぜこれほど泥がなきゃならないんだ？@{K}Islands, eh. Why can't they be made of water? If they can't be made of water, why does there have to be so much d__ned mud?",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "苦労して進む@{K}Struggling on",
-        "Id": 159506
-      },
-      "Name": "光を無視する@{K}Ignore the lights",
-      "Description": "こちらには蝋燭がある。狐火は不確かだ。@{K}You have your candles. Wisps are uncertain.",
-      "ButtonText": "",
-      "Id": 134252
-    },
-    {
-      "DefaultEvent": {
-        "Description": "壁の上に見張りを立て、強烈な匂いのする泥炭から火を起こし、不機嫌なおたまじゃくしを追い出すため靴をひっくり返した。周囲の湿地には啜り泣くような茫洋とした音と甲高い木の軋むような音が響いている。……しかし何も姿を見せない。時が過ぎた。@{K}You mount a guard on the walls - build a fire of stinking peat - upend your boots to evict sulky tadpoles. The swamps around you resound with sobbing whoops and screeching creaks - but nothing shows itself. Time passes.",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "一休み@{K}A respite",
-        "Id": 159508
-      },
-      "Name": "放棄された砦@{K}An abandoned fort",
-      "Description": "低い丘の上に半分崩壊した玄武岩の砦が建っていた。湿地の生き物は入っていないようだ。泥が足りないのかもしれない。@{K}A half-fallen fortress of basalt blocks on a low hill. The creatures of the swamp have stayed clear: there is insufficient mud, perhaps.",
-      "ButtonText": "",
-      "Id": 134254
-    },
-    {
-      "DefaultEvent": {
-        "Description": "彼らはマングローブ・カレッジの学者たちの声を真似ているようだ。聞き覚えのある甲高い不平と唸るような愚痴が聞こえる。あなたはさらに昔の犯罪と新しい恋愛、それに声を潜めた剽窃の告白を聞いた。@{K}$Mangrove College -> マングローブ・カレッジ$They're imitating the voices of the scholars of the Mangrove College - familiar scratchy grumbles and rumbling complaints. You hear old crimes, new loves, hushed confessions of plagiarism...",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "ゴシップ！@{K}Gossip!",
-        "Id": 159510
-      },
-      "RareDefaultEvent": {
-        "Description": "あなた自身の声が棘の生えた糸杉の低い梢からこだまする。あなたは詩を詠んでいる。湿地のよどんだ水に関するたどたどしい文だ。というより、強烈な悲しみを浮かべた瞳の黒い鳥があなたの声で詩を詠んでいるのだ。あなたが腕を伸ばすと、その鳥は落ち着いた様子で手首に飛び移った。朗読を続けながら。@{K}Your own voice echoes back from the low branches of a thorn-cypress. You're speaking poetry: a limping line about the still waters of the swamp. Or, rather, a black bird with fierce sad eyes is speaking poetry in your voice. You extend a hand: it hops calmly to land on your wrist, still declaiming.",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "ゴシップ！@{K}Gossip!",
-        "Id": 165473
-      },
-      "Name": "鳥たちの交わす会話@{K}A conversation between birds",
-      "Description": "地下では鳥は珍しい。しかしここの茂みには翼の羽ばたきが沢山見えた。この鳥たちは人の声で話している。@{K}Birds are rare in the Neath, but the thickets here are full of feathered flutterings. These birds speak in human voices.",
-      "ButtonText": "",
-      "Id": 134255
-    },
-    {
-      "DefaultEvent": {
-        "Description": "呻き声をあげる楢の木々のまばらな影を進む。背後で一人の船員が恐怖の滲む声で呟いた。「死にかけてるんだ」誰かは繰り返す。「彼らは死にかけてるんだ」そして、あなた達はその場所を抜けた。@{K}On through the laced shade of the groaning oaks. At the back, a zailor whimpers in fear. \"They're dying,\" someone says. \"They're dying.\" Then you're through.",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "前進@{K}Onwards",
-        "Id": 159511
-      },
-      "Name": "沸き立つ森@{K}Seething trees",
-      "Description": "枝は振り回され葉は泡立っている。此処の樹々は恐怖にのたうち回っているようだ。@{K}Branches thrash - leaves foam. The trees here writhe with fear.",
-      "ButtonText": "",
-      "Id": 134256
-    },
-    {
-      "DefaultEvent": {
-        "Description": "「……その石は道具だったのか、それとも単なる石なのか？答えは分からない。それにサラスフルーツもそうだ。あれは目に留まったどんな木にも寄生するが、その色は樹皮を真似ているようだった。もしかするとあれがサラスフルーツの元となる木だったかもしれない。」@{K}$[Ss]olacefruit -> サラスフルーツ$\"...was the flint a tool, or merely a rock? It was impossible to be certain. The solacefruit, too, which grew on the tree - they are parasitic, and they will grow wherever they choose, but their colours mimicked the bark. Perhaps this was their native tree. Impossible to be certain...\"",
-        "LinkToEvent": {
-          "Id": 143391
-        },
-        "Name": "サラスフルーツ@{K}$[Ss]olacefruit -> サラスフルーツ$Solacefruit",
-        "Id": 159512
-      },
-      "Name": "誰の物でもない果樹園@{K}No One's Orchard",
-      "Description": "「……樹皮には文字のような物がびっしりと刻まれている。そして硬い石の塊が木の根元に落ちていた」@{K}\"...the bark was scarified with marks resembling writing. A lump of flint lay at the base of the tree...\"",
-      "ButtonText": "",
-      "Id": 134257
-    },
-    {
-      "DefaultEvent": {
-        "Description": "「……これは歓喜の表情だ！この憐れな者に何が起こったにせよ、あるいは何者であったにせよ、この者は最期を喜んで受け入れたのだ。木となった胴からはサラスフルーツが房になり寄生している。これが寄生したのは死体が変化する前か、それとも後だろうか？我々は同時にヴィザージュの人々が着ける仮面を発見した。緑と黄金色の陽気な鳥、つましい罠猟師階級のものだ……」@{K}$Visage -> ヴィザージュ, [Ss]olacefruit -> サラスフルーツ$\"...rapture! Whatever had happened to this poor soul, whoever they had been, they had welcomed their end. Solacefruit hung in parasitic clusters from its woody torso. Had they occurred before, or after, the corpse's transformation? We found, too, a mask, one of those worn by the folk of Visage - a green-and-gold Livery Bird, one of the humble trapper-caste...\"",
-        "LinkToEvent": {
-          "Id": 143391
-        },
-        "Name": "歓喜@{K}Rapture",
-        "Id": 159513
-      },
-      "Name": "木化@{K}An Arbefaction",
-      "Description": "「……四肢が蔦によって縒りあわされている。死体の肉はすでに黒い木へと変化しつつあり、その口は大きく開かれたままになっていた。顔が樹皮に溶け込もうとしている部分では、その表情がいまだに判別できる……」@{K}\"...limbs twined with vines - flesh already lignifying into dark wood. The corpse's mouth hung open. Where its face dissolved into the bark, its expression was stil visible...\"",
-      "ButtonText": "",
-      "Id": 134258
-    },
-    {
-      "DefaultEvent": {
-        "Description": "「……違う！いや、それは青白い体の獣ではなかった。頭蓋骨だ。それは大したもてなしも出来ないことを謝るかのように物悲しげな笑みを浮かべている。我々は午後をその柱の碑文の解読に費やした。その文字にはアラム語と共通する要素が含まれていた。解読といったのは、その柱に刻まれていたのは答えと同じだけ問いの残る連続した謎々だったからだ。それは柱の上に残る頭蓋骨の持ち主である女性が利用されたことを謎めいた方法で語り、彼女の東への旅路について示した。アイレムを通りすぎ遥かなその先へ……」@{K}$Irem -> アイレム$\"...no! not a pale-fleshed beast, but a skull, grinning ruefully atop the pillar as if apologising for the quality of its welcome. We spent the afternoon deciphering the inscription, which had elements in common with Aramaic. I say 'deciphering' - it was a looped set of riddles which left us with as many questions as answers. It cryptically described the exploits of the woman whose skull remained atop the Pillar, and her progress into the East, far past Irem...\"",
-        "LinkToEvent": {
-          "Id": 143391
-        },
-        "Name": "頭蓋骨と螺旋@{K}The Skull and the Spiral",
-        "Id": 159514
-      },
-      "Name": "謎かけの柱@{K}The Pillar of Riddles",
-      "Description": "「……螺旋状の模様の刻まれた砂岩の柱だった。その天辺には何かしらの獣が座っている。我々が近づくと……」@{K}\"...a sandstone pillar, engraved in a spiral. Atop it sat an animal of some kind. As we approached...\"",
-      "ButtonText": "",
-      "Id": 134259
-    },
-    {
-      "DefaultEvent": {
-        "Description": "「……目に留まったどのような木にでも寄生するサラスフルーツだ。それは樹皮に群れてなっていて、その姿はある種の昆虫たちの原始的な瞳の様だった。我々は慎重にそれを摘み上げた。内部には石はなく、小指の先ほどのダイアモンドが入っていた。しかし、摘まみ上げると同時に樹々は再び震え、その根が泥の中より持ち上げられた！――安心してほしい、我々はすぐにその場を離れた」@{K}$[Ss]olacefruit -> サラスフルーツ$\"...parasitic solacefruit, which grows on whatever tree takes its fancy. It clustered on their trunks like the primitive eyes of certain insects. We plucked it cautiously. Inside one fruit I found no stone, rather a diamond the size of the top joint of my little finger. But as I plucked it, the trees trembled again, and their roots began to rise from the mud! - be assured we did not remain...\"",
-        "LinkToEvent": {
-          "Id": 143391
-        },
-        "Name": "危険な宝@{K}A perilous treasure",
-        "Id": 159515
-      },
-      "Name": "瞳の木立@{K}The Grove of Eyes",
-      "Description": "「……巨大な柳だ。その木立は蛾に埋め尽くされていた。足の下に踏みつけると甘い大自然の香りが立ち昇る。そして樹々は身じろぎし……」@{K}\"...huge willows. The grove was carpeted with moss. Where our feet crushed it, a sweet wild scent rose. The trees stirred...\"",
-      "ButtonText": "",
-      "Id": 134260
-    },
-    {
-      "DefaultEvent": {
-        "Description": "「……棺だろうか？珍しく印刷のされたラベルが貼られている。その上には素晴らしい技術で鱗状の銀色の金属片を繋ぎ合わせて作られた、淑女の手袋の様に繊細な一種の籠手が置かれている。それは持ち上げると氷のように冷たかった……」@{K}\"...a coffin? A coffin, with an unusual stencilled label. Atop it rested a gauntlet of sorts, marvellously articulated in it scales, delicate as a lady's glove, of silvery metal. When I lifted it, it was ice-cold to the touch...\"",
-        "LinkToEvent": {
-          "Id": 143391
-        },
-        "Name": "『搬入用』@{K}FOR DELIVERY",
-        "Id": 159530
-      },
-      "Name": "中断された埋葬@{K}The Burial, Interrupted",
-      "Description": "「……ほんの少し前に中断されたかのような状態で放置されている。しかし墓の傍らに残る羊毛の帽子の隙間からは青白い茸が生えているし、液状になった肉は長い時間をかけて腐敗していったものだろう。我々は墓穴の縁から中を覗き込んだ……」@{K}\"...abandoned as if only moments before - but pale fungus had grown on the woollen cap where it remained by the grave-side, and the potted meat was a grail of putrescence. We peered over the grave's edge...\"",
-      "ButtonText": "",
-      "Id": 134265
-    },
-    {
-      "DefaultEvent": {
-        "Description": "「蛾にびっしりと覆われた山羊がメーと鳴きながら、目を見開いてよたよたと歩き回っていた。鎖がその首からぶら下がっている。鎖には鮮烈な青色のシンティラックの塊が嵌められていた。山羊が道をうろつくたびに途切れ途切れになるあの光の源だった。我々は山羊を逃がしシンティラックを回収した。このような珍しい品は価値が高い……@{K}$[Ss]cintillack -> シンティラック$\"A bleating billy with moss-matted fur staggered to and fro, eyes wide. A chain hung from its neck. The chain bore a lump of piercingly blue scintillack, the source of the stutters of light as the billy staggered along the path. We freed the billy and retrieved the Scintillack. A rare piece like this is valuable...\"",
-        "LinkToEvent": {
-          "Id": 143391
-        },
-        "Name": "山羊@{K}The Goat",
-        "Id": 159531
-      },
-      "Name": "青@{K}Blue",
-      "Description": "「……天空の色をした光の欠片が断続的に見える。まるで空がよろめいているかのようだ……その光は謎めいて燦然と輝いていた、その源を見つけるまでは。そして船員たちは忍び笑いを漏らしはじめた……」@{K}\"...stuttering slivers of heaven-coloured light, as if the sky had stumbled... mysterious and glorious until we found the source, at which point my crew began to chuckle...\"",
-      "ButtonText": "",
-      "Id": 134266
-    },
-    {
-      "DefaultEvent": {
-        "Description": "彼らはマングローブ・カレッジの学者たちの声を真似ているようだ。聞き覚えのある甲高い不平と唸るような愚痴が聞こえる。あなたはさらに昔の犯罪と新しい恋愛、それに声を潜めた剽窃の告白を聞いた。@{K}$Mangrove College -> マングローブ・カレッジ$They're imitating the voices of the scholars of the Mangrove College - familiar scratchy grumbles and rumbling complaints. You hear old crimes, new loves, hushed confessions of plagiarism...",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "ゴシップ！@{K}Gossip!",
-        "Id": 159535
-      },
-      "Name": "鳥たちの交わす会話@{K}A conversation between birds",
-      "Description": "地下では鳥は珍しい。しかしここの茂みには翼の羽ばたきが沢山見えた。この鳥たちは人の声で話している。@{K}Birds are rare in the Neath, but the thickets here are full of feathered flutterings. These birds speak in human voices.",
-      "ButtonText": "",
-      "Id": 134269
-    },
-    {
-      "SuccessEvent": {
-        "Description": "ついに二面鰐は引いていった。誰も怪我はしていない。さらなる霧と泥の中へ前進だ。@{K}At last the amphigators retreat. None of you are hurt. Onwards, into more mist and further mud.",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "硝煙と叫び@{K}Gunsmoke and shouting",
-        "Id": 159503
-      },
-      "DefaultEvent": {
-        "Description": "あなたたちは銃を構え、撃った！二面鰐は黒い血を滴らせながら後ずさるが、姿を消す直前に船員を一人顎の間に咥えていった……@{K}You level your weapons and fire! The amphigator retreats, gouting dark blood, but not before one of its jaws snatches a crewman...",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "くぐもった悲鳴が！@{K}A smothered scream!",
-        "Id": 159417
-      },
-      "Name": "二面鰐だ！@{K}Amphigator!",
-      "Description": "身を捩る爬虫類が沼から頭をもたげた……それも二度も！両端に頭が付いている！@{K}A thrashing reptile rears from the swamp...twice! A head at each end!",
-      "ButtonText": "",
-      "Id": 134192
-    },
-    {
-      "SuccessEvent": {
-        "Description": "船員たちは銃を頭の上に持ち苦労して進んでいく。漣が広がり、暗闇の中へと伝わっていった。傍らでは蝙蝠が嘲るようにチィーと鳴いている。水中でこちらを観察している貪欲なモノをはっきりと意識しながら、慎重に道を選んで進んだ。@{K}Your zailors wade in, guns held above their heads. Ripples spread, intersect, travel on into darkness. Bats chirp with derision as you pass. You pick your way carefully, very aware of a watchful appetite waiting in the pool.",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "安全な小径@{K}Safe passage",
-        "Id": 159517
-      },
-      "DefaultEvent": {
-        "Description": "船員たちは銃を頭の上に持ち苦労して進んでいく。漣が広がり、暗闇の中へと伝わっていった。傍らでは蝙蝠が嘲るようにチィーと鳴いている。周囲は静かに見えた。しかし水場を抜けると、あなたの太腿には白みがかった翡翠色の蛭が張りつき脈打っていた。その色は見る間に薔薇のようなピンクへと変化していき、すぐに体の力が抜けていくような感覚を覚えた。払い落とせ！@{K}Your zailors wade in, guns held above their heads. Ripples spread, intersect, travel on into darkness. Bats chirp with derision as you pass. All seems quiet: but when you leave the pool, a leech the colour of milky jade is clamped, pulsing, to your thigh. Its colour is shifting rapidly to a rosy pink. Already you feel weaker. Dispatch it!",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "消失@{K}A disappearance",
-        "Id": 159500
-      },
-      "Name": "鏡のような水面の水場@{K}A mirror-surfaced pool",
-      "Description": "岸辺はマングローブで埋まっていて迂回することができない。気を付けて隙間を通り抜けよう。@{K}The banks are too crowded with mangroves for you to pass. Wade through it cautiously.",
-      "ButtonText": "",
-      "Id": 134247
-    },
-    {
-      "SuccessEvent": {
-        "Description": "あそこだ！棘の生えた糸杉の間に細い道があった。梢からぶら下がって静かに揺れている幼虫の腹は無視して、暗がりに道を切り開こう。@{K}There! A narrow way between the thorn-cypresses. Ignore the pendulous bellies of the watch-grubs where they hang silent in the branches. Cut a path through the shadows.",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "迂回路@{K}A way around",
-        "Id": 159522
-      },
-      "DefaultEvent": {
-        "Description": "あなたたちは棘の生えた雑草と針で刺す蛾の間を不機嫌に進んだ。青い毛皮の猿があざ笑うような鳴き声を上げる。泥濘は死にかけた兵士の譫言のように泡立っている。一人いなくなっている。一人足りないぞ！@{K}You crash ill-temperedly through spined weeds and stinging mosses. Blue-furred apelings hoot mockingly. The mud bubbles like a dying soldier. Someone's missing. Someone's missing!",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "長い迂回路@{K}A long way around",
-        "Id": 159507
-      },
-      "Name": "輝く蜘蛛の巣@{K}A shimmering web",
-      "Description": "半分質量を持った青黒く光る糸が木々の間に見える。何かがこの糸を生み出すため夢の領域から出てきたのだ。あれに触れると精気を奪われる。迂回路を見つけよう。@{K}Half-material strands of blue-black light hang between the trees. Something strayed out of the realm of dreams to spin this. Its touch drinks life. Find a way around.",
-      "ButtonText": "",
-      "Id": 134253
-    },
-    {
-      "SuccessEvent": {
-        "Description": "あなたたちは猫のように密やかに砦を迂回した。薄紫の厄介者はこちらの存在には気が付かなかったようだ。@{K}You skirt the fort, stealthy as cats. The lilac menaces remain unaware of your presence.",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "静寂と安全@{K}Safe and silent",
-        "Id": 159533
-      },
-      "DefaultEvent": {
-        "Description": "あなたたちがほとんど視界の外までたどり着いたその時、甲高い鳴き声を上げながら道の脇の岩の裏からブレミガンが噴き出してきた！それは狩りに出てきた群れだったらしく、一人の船員の犠牲で追い払うことができた。援軍が迫っている。逃げろ！@{K}$[Bb]lemmigan -> ブレミガン$You're almost out of sight when a boil of blemmigans leaps whistling from the rocks beside the path! It's only a hunting party, and you fight them off with the loss of one zailor. More are coming. Run!",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "群れだ！@{K}A swarm!",
-        "Id": 159532
-      },
-      "Name": "寄生された砦@{K}A fort infested",
-      "Description": "前方に低い丘と半分崩れ落ちた玄武岩の砦が見える。あそこでは青白いブレミガンたちが繁殖しているようだ。避けて進もう。@{K}$[Bb]lemmigan -> ブレミガン$Up ahead, a low hill and a half-fallen fortress of basalt blocks. It pullulates with pale blemmigans. Avoid.",
-      "ButtonText": "",
-      "Id": 134267
-    },
-    {
-      "SuccessEvent": {
-        "Description": "あなたたちは飛び出し、恐ろしい生き物をふくらはぎから払い落としながら駆けた。噛まれた指を吸い、息を荒げたまま周囲を見回す。危険からは脱したようだ。@{K}You leap and dash - you slap the horrid things from your calves - you suck bitten fingers and stare around, panting. You're out of danger.",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "遠くへ！@{K}Away!",
-        "Id": 165525
-      },
-      "DefaultEvent": {
-        "Description": "一人の船員が躓き、蟻たちは彼に油が流れるように群がった。彼の悲鳴は木々の間を通り抜けあなたたちの後を追う。@{K}One zailor trips, and the ants pour over him like oil. His screams pursue you through the trees.",
-        "LinkToEvent": {
-          "Id": 159416
-        },
-        "Name": "置き去りに@{K}Falling behind",
-        "Id": 159504
-      },
-      "Name": "蟻の襲来@{K}A calamity of ants",
-      "Description": "輝く昆虫が周囲のウツボカズラから飛び出した。大量の蟻でできた分厚い層が足元から襲い来る。逃げろ！@{K}Shining bodies burst from the pitcher-plants around you. A thick mat of ants swarms in ambush. Flee!",
-      "ButtonText": "",
-      "Id": 134250
-    }
-  ],
-  "Description": "細い水の流れに泥濘んだ小道。沼地の狐火と泥。時折、毛足の長いカーテンのように群れた多様な蛾。そして時たま、不審な触手。[それぞれのイベントごとに沼地の奥へと進む事ができます。ある程度まで進むことで何か興味深いものが見つかるかもしれません。]@{K}Narrow waterways and quaggy paths. Marsh-lights and mud. Now and then, parasynthetic mosses like shaggy curtains. Now and then, a questing tentacle. [Each event will take you further into the swamp. Go deep enough, and you'll find something interesting.]",
-  "Name": "ウィスプ・ウェイズ@{K}$Wisp-Ways -> ウィスプ・ウェイズ$The Wisp-Ways",
-  "Id": 159416
-}
+{"ChildBranches": [{"DefaultEvent": {"Description": "衣服も持ち物も残されていない。彼らの財布と肉は剥ぎ取られてから久しいようだ。彼らが今も持つのは皮肉な笑みと蔦の服だけ……@{K}Nothing remains of their clothes or possessions. They've been long-robbed of their purses as well as their flesh. Each carries only a sardonic grin and a robe of creepers...",
+                                     "LinkToEvent": {"Id": 159416},
+                                     "Name": "迂回する@{K}Skirting round", "Id": 159499},
+                    "Name": "ハンモックの三つの骸骨@{K}Three skeletons on a hummock",
+                    "Description": "彼らは遥か昔に消えた焚火の周りに密集して横になっている。あたかも単に起き上がる気になれないだけであるかのように。@{K}They sprawl companionably around a long-dead fire, as if they simply couldn't be bothered to get up.",
+                    "ButtonText": "", "Id": 134246},
+                   {"DefaultEvent": {"Description": "灰色と黒のまだらな影の内で、何にも脅かされることはなかった。@{K}In the dappled grey and black, nothing threatens you.",
+                                     "LinkToEvent": {"Id": 159416}, "Name": "平和@{K}There is peace",
+                                     "Id": 159501},
+                    "RareDefaultEvent": {"Description": "あなたたちがそこを通り抜ける間は何事も起こらなかった。しかし、暗がりの反対の端で人数を数えると一人欠けていることに気が付いた……@{K}Nothing troubles you as you pass. But when you count heads on the far side of the shadows, you're missing a zailor...",
+                                         "LinkToEvent": {"Id": 159416},
+                                         "Name": "一人足りない@{K}One short", "Id": 159521},
+                    "Name": "樹々の間の暗がり@{K}Darkness between the trees",
+                    "Description": "「もっと近くへ」風が梢から語り掛ける。「ここは平和だ」@{K}\"Come closer,\" the wind says in the branches. \"Here is peace.\"",
+                    "ButtonText": "", "Id": 134248},
+                   {"DefaultEvent": {"Description": "数時間後、あなたたちはびちゃびちゃと音を立てながら比較的安全な場所まで帰り着いた。風呂に入りたい。それはもう心の底から。有難いことに汽船には常に熱い湯がある。@{K}Hours later, you squelch out into relative safety. You need a bath. How you need a bath. Thank God that a steamer is never short of hot water.",
+                                     "LinkToEvent": {"Id": 143391},
+                                     "Name": "カレッジの屋根@{K}The roofs of the College", "Id": 159502},
+                    "Name": "立ち去る@{K}Leave",
+                    "Description": "本当にもう十分だ。あなたの体は肉というよりもはやそのほとんどが泥だ。[沼地の奥に進むほど、恐怖値が多く上昇する可能性が高まります。]@{K}Enough is too much. You are more mud than flesh now. [The further into the swamps you are, the more Terror you may gain]",
+                    "ButtonText": "", "Id": 134249},
+                   {"DefaultEvent": {"Description": "狐火は期待の持てる小道を照らした。しかしその期待は応えられずに終わった。@{K}The wisps illuminate a promising trail. Its promises are false.",
+                                     "LinkToEvent": {"Id": 159416}, "Name": "迷った！@{K}Lost!",
+                                     "Id": 159505},
+                    "RareDefaultEvent": {"Description": "狐火の明かりが様々なものに触れる。光を反射する樹皮、動かない蜂たち、光沢のある粘菌の塊、羊皮紙の様に黄色い張り出した茸、沼ネズミの瞳。そして……道に。@{K}The light from the wisps touches glistening tree-bark, beetles in motionless, glossy clumps, bracket-fungus yellow as parchment, the eyes of marsh-rats. And here - a path.",
+                                         "LinkToEvent": {"Id": 159416}, "Name": "横道@{K}Byways",
+                                         "Id": 159509},
+                    "Name": "滑空する光を追う@{K}Follow gliding lights",
+                    "Description": "七つの狐火が先のほうで揺れている。あなたたちについてくるよう誘っているように。「七は幸運の数字だ」一人が呟く。「不幸の七じゃない限りは」実に役に立つ助言だ。@{K}A knot of seven wisps weaves ahead, beckoning you to follow. \"Seven is lucky,\" a zailor mutters. \"Except when it's unlucky seven.\" That's helpful.",
+                    "ButtonText": "", "Id": 134251},
+                   {"DefaultEvent": {"Description": "陸地ときたら……なぜ土地なんてなくちゃいけない？水じゃ駄目なのか？水が無理だとしても、なぜこれほど泥がなきゃならないんだ？@{K}Islands, eh. Why can't they be made of water? If they can't be made of water, why does there have to be so much d__ned mud?",
+                                     "LinkToEvent": {"Id": 159416},
+                                     "Name": "苦労して進む@{K}Struggling on", "Id": 159506},
+                    "Name": "光を無視する@{K}Ignore the lights",
+                    "Description": "こちらには蝋燭がある。狐火は不確かだ。@{K}You have your candles. Wisps are uncertain.",
+                    "ButtonText": "", "Id": 134252},
+                   {"DefaultEvent": {"Description": "壁の上に見張りを立て、強烈な匂いのする泥炭から火を起こし、不機嫌なおたまじゃくしを追い出すため靴をひっくり返した。周囲の湿地には啜り泣くような茫洋とした音と甲高い木の軋むような音が響いている。……しかし何も姿を見せない。時が過ぎた。@{K}You mount a guard on the walls - build a fire of stinking peat - upend your boots to evict sulky tadpoles. The swamps around you resound with sobbing whoops and screeching creaks - but nothing shows itself. Time passes.",
+                                     "LinkToEvent": {"Id": 159416}, "Name": "一休み@{K}A respite",
+                                     "Id": 159508},
+                    "Name": "放棄された砦@{K}An abandoned fort",
+                    "Description": "低い丘の上に半分崩壊した玄武岩の砦が建っていた。湿地の生き物は入っていないようだ。泥が足りないのかもしれない。@{K}A half-fallen fortress of basalt blocks on a low hill. The creatures of the swamp have stayed clear: there is insufficient mud, perhaps.",
+                    "ButtonText": "", "Id": 134254},
+                   {"DefaultEvent": {"Description": "彼らはマングローブ・カレッジの学者たちの声を真似ているようだ。聞き覚えのある甲高い不平と唸るような愚痴が聞こえる。あなたはさらに昔の犯罪と新しい恋愛、それに声を潜めた剽窃の告白を聞いた。@{K}$Mangrove College -> マングローブ・カレッジ$They're imitating the voices of the scholars of the Mangrove College - familiar scratchy grumbles and rumbling complaints. You hear old crimes, new loves, hushed confessions of plagiarism...",
+                                     "LinkToEvent": {"Id": 159416}, "Name": "ゴシップ！@{K}Gossip!",
+                                     "Id": 159510},
+                    "RareDefaultEvent": {"Description": "あなた自身の声が棘の生えた糸杉の低い梢からこだまする。あなたは詩を詠んでいる。湿地のよどんだ水に関するたどたどしい文だ。というより、強烈な悲しみを浮かべた瞳の黒い鳥があなたの声で詩を詠んでいるのだ。あなたが腕を伸ばすと、その鳥は落ち着いた様子で手首に飛び移った。朗読を続けながら。@{K}Your own voice echoes back from the low branches of a thorn-cypress. You're speaking poetry: a limping line about the still waters of the swamp. Or, rather, a black bird with fierce sad eyes is speaking poetry in your voice. You extend a hand: it hops calmly to land on your wrist, still declaiming.",
+                                         "LinkToEvent": {"Id": 159416}, "Name": "ゴシップ！@{K}Gossip!",
+                                         "Id": 165473},
+                    "Name": "鳥たちの交わす会話@{K}A conversation between birds",
+                    "Description": "地下では鳥は珍しい。しかしここの茂みには翼の羽ばたきが沢山見えた。この鳥たちは人の声で話している。@{K}Birds are rare in the Neath, but the thickets here are full of feathered flutterings. These birds speak in human voices.",
+                    "ButtonText": "", "Id": 134255},
+                   {"DefaultEvent": {"Description": "呻き声をあげる楢の木々のまばらな影を進む。背後で一人の船員が恐怖の滲む声で呟いた。「死にかけてるんだ」誰かは繰り返す。「彼らは死にかけてるんだ」そして、あなた達はその場所を抜けた。@{K}On through the laced shade of the groaning oaks. At the back, a zailor whimpers in fear. \"They're dying,\" someone says. \"They're dying.\" Then you're through.",
+                                     "LinkToEvent": {"Id": 159416}, "Name": "前進@{K}Onwards",
+                                     "Id": 159511},
+                    "Name": "沸き立つ森@{K}Seething trees",
+                    "Description": "枝は振り回され葉は泡立っている。此処の樹々は恐怖にのたうち回っているようだ。@{K}Branches thrash - leaves foam. The trees here writhe with fear.",
+                    "ButtonText": "", "Id": 134256},
+                   {"DefaultEvent": {"Description": "「……その石は道具だったのか、それとも単なる石なのか？答えは分からない。それにサラスフルーツもそうだ。あれは目に留まったどんな木にも寄生するが、その色は樹皮を真似ているようだった。もしかするとあれがサラスフルーツの元となる木だったかもしれない。」@{K}$[Ss]olacefruit -> サラスフルーツ$\"...was the flint a tool, or merely a rock? It was impossible to be certain. The solacefruit, too, which grew on the tree - they are parasitic, and they will grow wherever they choose, but their colours mimicked the bark. Perhaps this was their native tree. Impossible to be certain...\"",
+                                     "LinkToEvent": {"Id": 143391},
+                                     "Name": "サラスフルーツ@{K}$[Ss]olacefruit -> サラスフルーツ$Solacefruit",
+                                     "Id": 159512},
+                    "Name": "誰の物でもない果樹園@{K}No One's Orchard",
+                    "Description": "「……樹皮には文字のような物がびっしりと刻まれている。そして硬い石の塊が木の根元に落ちていた」@{K}\"...the bark was scarified with marks resembling writing. A lump of flint lay at the base of the tree...\"",
+                    "ButtonText": "", "Id": 134257},
+                   {"DefaultEvent": {"Description": "「……これは歓喜の表情だ！この憐れな者に何が起こったにせよ、あるいは何者であったにせよ、この者は最期を喜んで受け入れたのだ。木となった胴からはサラスフルーツが房になり寄生している。これが寄生したのは死体が変化する前か、それとも後だろうか？我々は同時にヴィザージュの人々が着ける仮面を発見した。緑と黄金色の陽気な鳥、つましい罠猟師階級のものだ……」@{K}$Visage -> ヴィザージュ, [Ss]olacefruit -> サラスフルーツ$\"...rapture! Whatever had happened to this poor soul, whoever they had been, they had welcomed their end. Solacefruit hung in parasitic clusters from its woody torso. Had they occurred before, or after, the corpse's transformation? We found, too, a mask, one of those worn by the folk of Visage - a green-and-gold Livery Bird, one of the humble trapper-caste...\"",
+                                     "LinkToEvent": {"Id": 143391}, "Name": "歓喜@{K}Rapture",
+                                     "Id": 159513},
+                    "Name": "木化@{K}An Arbefaction",
+                    "Description": "「……四肢が蔦によって縒りあわされている。死体の肉はすでに黒い木へと変化しつつあり、その口は大きく開かれたままになっていた。顔が樹皮に溶け込もうとしている部分では、その表情がいまだに判別できる……」@{K}\"...limbs twined with vines - flesh already lignifying into dark wood. The corpse's mouth hung open. Where its face dissolved into the bark, its expression was stil visible...\"",
+                    "ButtonText": "", "Id": 134258},
+                   {"DefaultEvent": {"Description": "「……違う！いや、それは青白い体の獣ではなかった。頭蓋骨だ。それは大したもてなしも出来ないことを謝るかのように物悲しげな笑みを浮かべている。我々は午後をその柱の碑文の解読に費やした。その文字にはアラム語と共通する要素が含まれていた。解読といったのは、その柱に刻まれていたのは答えと同じだけ問いの残る連続した謎々だったからだ。それは柱の上に残る頭蓋骨の持ち主である女性が利用されたことを謎めいた方法で語り、彼女の東への旅路について示した。アイレムを通りすぎ遥かなその先へ……」@{K}$Irem -> アイレム$\"...no! not a pale-fleshed beast, but a skull, grinning ruefully atop the pillar as if apologising for the quality of its welcome. We spent the afternoon deciphering the inscription, which had elements in common with Aramaic. I say 'deciphering' - it was a looped set of riddles which left us with as many questions as answers. It cryptically described the exploits of the woman whose skull remained atop the Pillar, and her progress into the East, far past Irem...\"",
+                                     "LinkToEvent": {"Id": 143391},
+                                     "Name": "頭蓋骨と螺旋@{K}The Skull and the Spiral", "Id": 159514},
+                    "Name": "謎かけの柱@{K}The Pillar of Riddles",
+                    "Description": "「……螺旋状の模様の刻まれた砂岩の柱だった。その天辺には何かしらの獣が座っている。我々が近づくと……」@{K}\"...a sandstone pillar, engraved in a spiral. Atop it sat an animal of some kind. As we approached...\"",
+                    "ButtonText": "", "Id": 134259},
+                   {"DefaultEvent": {"Description": "「……目に留まったどのような木にでも寄生するサラスフルーツだ。それは樹皮に群れてなっていて、その姿はある種の昆虫たちの原始的な瞳の様だった。我々は慎重にそれを摘み上げた。内部には石はなく、小指の先ほどのダイアモンドが入っていた。しかし、摘まみ上げると同時に樹々は再び震え、その根が泥の中より持ち上げられた！――安心してほしい、我々はすぐにその場を離れた」@{K}$[Ss]olacefruit -> サラスフルーツ$\"...parasitic solacefruit, which grows on whatever tree takes its fancy. It clustered on their trunks like the primitive eyes of certain insects. We plucked it cautiously. Inside one fruit I found no stone, rather a diamond the size of the top joint of my little finger. But as I plucked it, the trees trembled again, and their roots began to rise from the mud! - be assured we did not remain...\"",
+                                     "LinkToEvent": {"Id": 143391},
+                                     "Name": "危険な宝@{K}A perilous treasure", "Id": 159515},
+                    "Name": "瞳の木立@{K}The Grove of Eyes",
+                    "Description": "「……巨大な柳だ。その木立は蛾に埋め尽くされていた。足の下に踏みつけると甘い大自然の香りが立ち昇る。そして樹々は身じろぎし……」@{K}\"...huge willows. The grove was carpeted with moss. Where our feet crushed it, a sweet wild scent rose. The trees stirred...\"",
+                    "ButtonText": "", "Id": 134260},
+                   {"DefaultEvent": {"Description": "「……棺だろうか？珍しく印刷のされたラベルが貼られている。その上には素晴らしい技術で鱗状の銀色の金属片を繋ぎ合わせて作られた、淑女の手袋の様に繊細な一種の籠手が置かれている。それは持ち上げると氷のように冷たかった……」@{K}\"...a coffin? A coffin, with an unusual stencilled label. Atop it rested a gauntlet of sorts, marvellously articulated in it scales, delicate as a lady's glove, of silvery metal. When I lifted it, it was ice-cold to the touch...\"",
+                                     "LinkToEvent": {"Id": 143391}, "Name": "『搬入用』@{K}FOR DELIVERY",
+                                     "Id": 159530},
+                    "Name": "中断された埋葬@{K}The Burial, Interrupted",
+                    "Description": "「……ほんの少し前に中断されたかのような状態で放置されている。しかし墓の傍らに残る羊毛の帽子の隙間からは青白い茸が生えているし、液状になった肉は長い時間をかけて腐敗していったものだろう。我々は墓穴の縁から中を覗き込んだ……」@{K}\"...abandoned as if only moments before - but pale fungus had grown on the woollen cap where it remained by the grave-side, and the potted meat was a grail of putrescence. We peered over the grave's edge...\"",
+                    "ButtonText": "", "Id": 134265},
+                   {"DefaultEvent": {"Description": "「蛾にびっしりと覆われた山羊がメーと鳴きながら、目を見開いてよたよたと歩き回っていた。鎖がその首からぶら下がっている。鎖には鮮烈な青色のシンティラックの塊が嵌められていた。山羊が道をうろつくたびに途切れ途切れになるあの光の源だった。我々は山羊を逃がしシンティラックを回収した。このような珍しい品は価値が高い……@{K}$[Ss]cintillack -> シンティラック$\"A bleating billy with moss-matted fur staggered to and fro, eyes wide. A chain hung from its neck. The chain bore a lump of piercingly blue scintillack, the source of the stutters of light as the billy staggered along the path. We freed the billy and retrieved the Scintillack. A rare piece like this is valuable...\"",
+                                     "LinkToEvent": {"Id": 143391}, "Name": "山羊@{K}The Goat",
+                                     "Id": 159531},
+                    "Name": "青@{K}Blue",
+                    "Description": "「……天空の色をした光の欠片が断続的に見える。まるで空がよろめいているかのようだ……その光は謎めいて燦然と輝いていた、その源を見つけるまでは。そして船員たちは忍び笑いを漏らしはじめた……」@{K}\"...stuttering slivers of heaven-coloured light, as if the sky had stumbled... mysterious and glorious until we found the source, at which point my crew began to chuckle...\"",
+                    "ButtonText": "", "Id": 134266},
+                   {"DefaultEvent": {"Description": "彼らはマングローブ・カレッジの学者たちの声を真似ているようだ。聞き覚えのある甲高い不平と唸るような愚痴が聞こえる。あなたはさらに昔の犯罪と新しい恋愛、それに声を潜めた剽窃の告白を聞いた。@{K}$Mangrove College -> マングローブ・カレッジ$They're imitating the voices of the scholars of the Mangrove College - familiar scratchy grumbles and rumbling complaints. You hear old crimes, new loves, hushed confessions of plagiarism...",
+                                     "LinkToEvent": {"Id": 159416}, "Name": "ゴシップ！@{K}Gossip!",
+                                     "Id": 159535},
+                    "Name": "鳥たちの交わす会話@{K}A conversation between birds",
+                    "Description": "地下では鳥は珍しい。しかしここの茂みには翼の羽ばたきが沢山見えた。この鳥たちは人の声で話している。@{K}Birds are rare in the Neath, but the thickets here are full of feathered flutterings. These birds speak in human voices.",
+                    "ButtonText": "", "Id": 134269},
+                   {"SuccessEvent": {"Description": "ついに二面鰐は引いていった。誰も怪我はしていない。さらなる霧と泥の中へ前進だ。@{K}At last the amphigators retreat. None of you are hurt. Onwards, into more mist and further mud.",
+                                     "LinkToEvent": {"Id": 159416},
+                                     "Name": "硝煙と叫び@{K}Gunsmoke and shouting", "Id": 159503},
+                    "DefaultEvent": {"Description": "あなたたちは銃を構え、撃った！二面鰐は黒い血を滴らせながら後ずさるが、姿を消す直前に船員を一人顎の間に咥えていった……@{K}You level your weapons and fire! The amphigator retreats, gouting dark blood, but not before one of its jaws snatches a crewman...",
+                                     "LinkToEvent": {"Id": 159416},
+                                     "Name": "くぐもった悲鳴が！@{K}A smothered scream!", "Id": 159417},
+                    "Name": "二面鰐だ！@{K}Amphigator!",
+                    "Description": "身を捩る爬虫類が沼から頭をもたげた……それも二度も！両端に頭が付いている！@{K}A thrashing reptile rears from the swamp...twice! A head at each end!",
+                    "ButtonText": "", "Id": 134192},
+                   {"SuccessEvent": {"Description": "船員たちは銃を頭の上に持ち苦労して進んでいく。漣が広がり、暗闇の中へと伝わっていった。傍らでは蝙蝠が嘲るようにチィーと鳴いている。水中でこちらを観察している貪欲なモノをはっきりと意識しながら、慎重に道を選んで進んだ。@{K}Your zailors wade in, guns held above their heads. Ripples spread, intersect, travel on into darkness. Bats chirp with derision as you pass. You pick your way carefully, very aware of a watchful appetite waiting in the pool.",
+                                     "LinkToEvent": {"Id": 159416}, "Name": "安全な小径@{K}Safe passage",
+                                     "Id": 159517},
+                    "DefaultEvent": {"Description": "船員たちは銃を頭の上に持ち苦労して進んでいく。漣が広がり、暗闇の中へと伝わっていった。傍らでは蝙蝠が嘲るようにチィーと鳴いている。周囲は静かに見えた。しかし水場を抜けると、あなたの太腿には白みがかった翡翠色の蛭が張りつき脈打っていた。その色は見る間に薔薇のようなピンクへと変化していき、すぐに体の力が抜けていくような感覚を覚えた。払い落とせ！@{K}Your zailors wade in, guns held above their heads. Ripples spread, intersect, travel on into darkness. Bats chirp with derision as you pass. All seems quiet: but when you leave the pool, a leech the colour of milky jade is clamped, pulsing, to your thigh. Its colour is shifting rapidly to a rosy pink. Already you feel weaker. Dispatch it!",
+                                     "LinkToEvent": {"Id": 159416}, "Name": "消失@{K}A disappearance",
+                                     "Id": 159500},
+                    "Name": "鏡のような水面の水場@{K}A mirror-surfaced pool",
+                    "Description": "岸辺はマングローブで埋まっていて迂回することができない。気を付けて隙間を通り抜けよう。@{K}The banks are too crowded with mangroves for you to pass. Wade through it cautiously.",
+                    "ButtonText": "", "Id": 134247},
+                   {"SuccessEvent": {"Description": "あそこだ！棘の生えた糸杉の間に細い道があった。梢からぶら下がって静かに揺れている幼虫の腹は無視して、暗がりに道を切り開こう。@{K}There! A narrow way between the thorn-cypresses. Ignore the pendulous bellies of the watch-grubs where they hang silent in the branches. Cut a path through the shadows.",
+                                     "LinkToEvent": {"Id": 159416}, "Name": "迂回路@{K}A way around",
+                                     "Id": 159522},
+                    "DefaultEvent": {"Description": "あなたたちは棘の生えた雑草と針で刺す蛾の間を不機嫌に進んだ。青い毛皮の猿があざ笑うような鳴き声を上げる。泥濘は死にかけた兵士の譫言のように泡立っている。一人いなくなっている。一人足りないぞ！@{K}You crash ill-temperedly through spined weeds and stinging mosses. Blue-furred apelings hoot mockingly. The mud bubbles like a dying soldier. Someone's missing. Someone's missing!",
+                                     "LinkToEvent": {"Id": 159416},
+                                     "Name": "長い迂回路@{K}A long way around", "Id": 159507},
+                    "Name": "輝く蜘蛛の巣@{K}A shimmering web",
+                    "Description": "半分質量を持った青黒く光る糸が木々の間に見える。何かがこの糸を生み出すため夢の領域から出てきたのだ。あれに触れると精気を奪われる。迂回路を見つけよう。@{K}Half-material strands of blue-black light hang between the trees. Something strayed out of the realm of dreams to spin this. Its touch drinks life. Find a way around.",
+                    "ButtonText": "", "Id": 134253},
+                   {"SuccessEvent": {"Description": "あなたたちは猫のように密やかに砦を迂回した。薄紫の厄介者はこちらの存在には気が付かなかったようだ。@{K}You skirt the fort, stealthy as cats. The lilac menaces remain unaware of your presence.",
+                                     "LinkToEvent": {"Id": 159416},
+                                     "Name": "静寂と安全@{K}Safe and silent", "Id": 159533},
+                    "DefaultEvent": {"Description": "あなたたちがほとんど視界の外までたどり着いたその時、甲高い鳴き声を上げながら道の脇の岩の裏からブレミガンが噴き出してきた！それは狩りに出てきた群れだったらしく、一人の船員の犠牲で追い払うことができた。援軍が迫っている。逃げろ！@{K}$[Bb]lemmigan -> ブレミガン$You're almost out of sight when a boil of blemmigans leaps whistling from the rocks beside the path! It's only a hunting party, and you fight them off with the loss of one zailor. More are coming. Run!",
+                                     "LinkToEvent": {"Id": 159416}, "Name": "群れだ！@{K}A swarm!",
+                                     "Id": 159532},
+                    "Name": "寄生された砦@{K}A fort infested",
+                    "Description": "前方に低い丘と半分崩れ落ちた玄武岩の砦が見える。あそこでは青白いブレミガンたちが繁殖しているようだ。避けて進もう。@{K}$[Bb]lemmigan -> ブレミガン$Up ahead, a low hill and a half-fallen fortress of basalt blocks. It pullulates with pale blemmigans. Avoid.",
+                    "ButtonText": "", "Id": 134267},
+                   {"SuccessEvent": {"Description": "あなたたちは飛び出し、恐ろしい生き物をふくらはぎから払い落としながら駆けた。噛まれた指を吸い、息を荒げたまま周囲を見回す。危険からは脱したようだ。@{K}You leap and dash - you slap the horrid things from your calves - you suck bitten fingers and stare around, panting. You're out of danger.",
+                                     "LinkToEvent": {"Id": 159416}, "Name": "遠くへ！@{K}Away!",
+                                     "Id": 165525},
+                    "DefaultEvent": {"Description": "一人の船員が躓き、蟻たちは彼に油が流れるように群がった。彼の悲鳴は木々の間を通り抜けあなたたちの後を追う。@{K}One zailor trips, and the ants pour over him like oil. His screams pursue you through the trees.",
+                                     "LinkToEvent": {"Id": 159416},
+                                     "Name": "置き去りに@{K}Falling behind", "Id": 159504},
+                    "Name": "蟻の襲来@{K}A calamity of ants",
+                    "Description": "輝く昆虫が周囲のウツボカズラから飛び出した。大量の蟻でできた分厚い層が足元から襲い来る。逃げろ！@{K}Shining bodies burst from the pitcher-plants around you. A thick mat of ants swarms in ambush. Flee!",
+                    "ButtonText": "", "Id": 134250}],
+ "Description": "細い水の流れに泥濘んだ小道。沼地の狐火と泥。時折、毛足の長いカーテンのように群れた多様な蛾。そして時たま、不審な触手。[それぞれのイベントごとに沼地の奥へと進む事ができます。ある程度まで進むことで何か興味深いものが見つかるかもしれません。]@{K}Narrow waterways and quaggy paths. Marsh-lights and mud. Now and then, parasynthetic mosses like shaggy curtains. Now and then, a questing tentacle. [Each event will take you further into the swamp. Go deep enough, and you'll find something interesting.]",
+ "Name": "ウィスプ・ウェイズ@{K}$Wisp-Ways -> ウィスプ・ウェイズ$The Wisp-Ways",
+ "Id": 159416}

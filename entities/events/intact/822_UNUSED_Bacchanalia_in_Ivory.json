@@ -15,11 +15,11 @@
                     "Name": "Politely decline",
                     "Description": "There is no common sign for that here? Decline, then. Vigorously.",
                     "ButtonText": "", "Id": 191713},
-                   {"DefaultEvent": {"Description": "They each take one of your hands to pull you deep into the throng of bodies. It seems both are keen to share - themselves with you, and you with each other. Someone in the writhing mess of bodies drops spider-silk rags thick enough to blindfold. These are employed immediately. The anonymity is liberating, the pleasure unconstrained by gravity or propriety. The moment is prolonged.",
+                   {"DefaultEvent": {"Description": "$(Bolts of )?[Ss]pider-[Ss]ilk -> スパイダー・シルク$They each take one of your hands to pull you deep into the throng of bodies. It seems both are keen to share - themselves with you, and you with each other. Someone in the writhing mess of bodies drops spider-silk rags thick enough to blindfold. These are employed immediately. The anonymity is liberating, the pleasure unconstrained by gravity or propriety. The moment is prolonged.",
                                      "LinkToEvent": {"Id": 255571}, "Name": "Three in a Nook",
                                      "Id": 256042},
                     "Name": "Approach the two lovers",
                     "Description": "They gesture to you from the corner.",
                     "ButtonText": "", "Id": 191862}],
- "Description": "A huge tooth hosts this ongoing orgy. Thrashing bodies float and press against the polished walls, with convenient water currents removing the worst of the effluence.\u000d\u000a\u000d\u000aThough most Nookfolk take full advantage of their three dimensions of movement to explore and indulge, many are willingly tied to the point of immobility in spider-silk and even salvaged wire. Their skin glows with hues of blue and purple.",
+ "Description": "$(Bolts of )?[Ss]pider-[Ss]ilk -> スパイダー・シルク$A huge tooth hosts this ongoing orgy. Thrashing bodies float and press against the polished walls, with convenient water currents removing the worst of the effluence.\u000d\u000a\u000d\u000aThough most Nookfolk take full advantage of their three dimensions of movement to explore and indulge, many are willingly tied to the point of immobility in spider-silk and even salvaged wire. Their skin glows with hues of blue and purple.",
  "Name": "UNUSED Bacchanalia in Ivory", "Id": 255563}
