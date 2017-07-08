@@ -52,7 +52,7 @@ Foreign Office, 外務省
 Ministry of Public Decency, 良俗省
 Office of Incongruous Requests, 不適切要請局
 Court of Chancery, 大法官府裁判所
-Cage-Gardens, 檻の庭園
+Cage[- ]Gardens, 檻の庭園
 Horizon's Aspect, ホライズン・アスペクト
 Forgotten Quarter, 忘却街区
 High Wilderness, 天上の荒野
@@ -69,3 +69,6 @@ House of the Amber Sky, 琥珀色の空の館
 Waswood, 在りし森
 Dead Letter Office, 配達不能郵便局
 Inky Blotter, インキー・ブロッター
+Rose and Tiger, 薔薇虎亭
+Cavendish Abbey, キャベンディッシュ大修道院
+Honeyed Tongue, ハニード・タング
