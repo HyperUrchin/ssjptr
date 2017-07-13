@@ -79,7 +79,7 @@ Sunlight[- ]Filled Mirrorcatch Box, 太陽光で満たされた鏡封じの箱
 Mirrorcatch Box, 鏡封じの箱
 Presbyter, プレズビター
 Hunting[- ]Troph(y|ies), 狩りの戦利品
-Lamentable Relic, 嘆かわしい遺物
+[Ll]amentable [Rr]elic, 嘆かわしい遺物
 Romantic Literature, 恋愛小説
 (Firkin of)?[Pp]risoner's [Hh]oney, 囚人の蜜
 Unread Log, 未だ読まれていない航海日誌
