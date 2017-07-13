@@ -1,0 +1,300 @@
+{
+  "ChildBranches": [
+    {
+      "DefaultEvent": {
+        "Description": "祭壇には『かくしてわれらかたちづくるるぬ』との銘が刻まれていた。彫刻は完璧だが綴りは一風変わっている。盤面には二つの石のナイフが乗せられていた。その傍らにはナイフのようにも見える硬石の塊。あるいは道具かもしれないし、単なる石という可能性もある。\u000d\u000a\u000d\u000a祭壇の背後の壁には窪みがあり、中に三つの頭蓋骨が収まっていた。そのうち二つの顎は歪み長く伸びており、残る一つは前に傾き溶けた蝋のように流れ落ちている。にもかかわらず、それは一般的な骨と同じく触れると固い。\u000d\u000a\u000d\u000aこれからどうしようか？前進を続けることもできるが、ここからの道のりはより厳しいものとなるだろう。あるいは宝をもって引き返すこともできる。@{K}An inscription on the altar reads SO ARE WEE SHAPEDE. The stonecraft is perfect, but the spelling seems eccentric. Two stone knives rest on its surface, along with a chunk of flint that might be a knife, a tool or simply a lump of rock.\u000d\u000a\u000d\u000aThree human skulls wait in a niche at the back. Two have warped and lengthened jaws: the third has slumped and run like a melted candle, although it feels as solid as any bone to the touch.\u000d\u000a\u000d\u000aWhat now? You can press on, but the going will get harder from here. Or you could turn back with your treasures.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "",
+        "Id": 155901
+      },
+      "Name": "飢えた男たちの教会を探索する@{K}Search the Church of the Starved Men",
+      "Description": "荘厳な祭壇の備わる十字型の聖堂に腐りつつある信徒席が並ぶ。昔は窓にもステンドガラスが嵌められていたのかもしれない。祭壇は鍾乳石で作られており精巧に彫刻を施され生き物のような形になっていた。接合した幾つもの肢と、眼球と音立てる鉤爪、硬くなったこぶがある。@{K}A cruciform chamber with a great altar, rows of rotting pews. Perhaps the windows once held stained glass. The altar is dripstone, painstakingly carved into organic shapes: jointed limbs, eye-bulbs, snapping claws, armoured excrescences.",
+      "ButtonText": "",
+      "Id": 132108
+    },
+    {
+      "DefaultEvent": {
+        "Description": "暗闇の中へ進む。あるいは暗闇の中へ戻る。@{K}On into the dark, or back into the dark.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "",
+        "Id": 155902
+      },
+      "Name": "飢えた男たちの教会@{K}The Church of the Starved Men",
+      "Description": "聖堂に信徒席の骸骨たち、そして硝子の嵌っていない窓。祭壇の宝物は略奪された後だ。@{K}The chamber, the pew-skeletons, the glassless windows. The altar robbed of its treasures.",
+      "ButtonText": "",
+      "Id": 132109
+    },
+    {
+      "DefaultEvent": {
+        "Description": "「にしぇものだ」除け者は泡のような音を立てて言った。「我らアクシルの技をぬしゅんだ。彼らは争い、灰ににゃったのだろう」それは怒りかあるいは笑いに体を震わせ、祭壇の前に倒れこんだ。「しょれでも、変化は残った。変化は残ったのしゃ！」\u000d\u000a\u000d\u000aそれは今までに除け者の口から発せられた中で最も長い言葉だった。除け者はあなたたちが教会を探索する間も微動だにせず祈っている。祭壇には『かくしてわれらかたちづくるるぬ』との銘が刻まれていた。彫刻は完璧だが綴りは一風変わっている。盤面には二つの石のナイフが乗せられていた。その傍らにはナイフのようにも見える硬石の塊。あるいは道具かもしれないし、単なる石という可能性もある。\u000d\u000a\u000d\u000a祭壇の背後の壁には窪みがあり、中に三つの頭蓋骨が収まっていた。そのうち二つの顎は歪み長く伸びており、残る一つは前に傾き溶けた蝋のように流れ落ちている。にもかかわらず、それは一般的な骨と同じく触れると固い。\u000d\u000a\u000d\u000aこれからどうしようか？前進を続けることもできるが、ここからの道のりはより厳しいものとなるだろう。あるいは宝をもって引き返すこともできる。@{K}\"Imitatorsh,\" the Outcast burbles. \"They shtole our Axile artsh. They fought. They would be ush.\" It shakes with rage or laughter, and collapses before the altar. \"Shtill, the change remainsh. The change remainsh!\"\u000d\u000a\u000d\u000aIt's the longest speech you've ever heard from it. It remains motionless in prayer while you search. An inscription on the altar reads SO ARE WEE SHAPEDE. The stonecraft is perfect, but the spelling seems eccentric. Two stone knives rest on its surface, along with a chunk of flint that might be a knife, a tool or simply a lump of rock.\u000d\u000a\u000d\u000aThree human skulls wait in a niche at the back. Two have warped and lengthened jaws: the third has slumped and run like a melted candle, although it feels as solid as any bone to the touch.\u000d\u000a\u000d\u000aWhat now? You can press on, but the going will get harder from here. Or you could turn back with your treasures.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "",
+        "Id": 156124
+      },
+      "Name": "真珠族の除け者が祭壇に近づくのを許可する@{K}$Nacreous Outcast -> 真珠族の除け者$Let the Nacreous Outcast approach the altar",
+      "Description": "彼はごぼごぼと音を立て、鰭を震わせている。@{K}He burbles: his frondules tremble.",
+      "ButtonText": "",
+      "Id": 132246
+    },
+    {
+      "DefaultEvent": {
+        "Description": "かつてはこの門も精密に錘が釣り合わされていて、礫石器が触れるや隠された機構が轟音とともに動き出し、油を塗られた硝子のように滑らかに開いたのかもしれない。しかし今では、石器は解錠装置しか動かさず、かなてこをもった船乗り三人がかりで瓦礫をどけ扉を無理やり開かなければならなかった。そして門は下向きに開き、その結果扉は大きな音を響かせながら内側に崩れ落ちてしまった。隙間を降りよう、風の唸る空間へと――@{K}Perhaps, once, the gate was finely counter-balanced. Perhaps, once, hidden machineries would have roared at the touch of the Eolith, and the gate would have swung open like oiled glass. Now, the Eolith only triggers the unlocking mechanism. It takes three sailors with crowbars to move the rubble and force the door open - down-open, so that when you bring it free, it collapses inwards with an echoing crash. Climb through the gap, into a space that roars with wind -",
+        "LinkToEvent": {
+          "Id": 155888
+        },
+        "Name": "立ち入る@{K}Making an entrance",
+        "Id": 156126
+      },
+      "Name": "形象の門@{K}The Gate of Forms",
+      "Description": "そこには――鍾乳石の落下によって床面になっている―――光を反射する玉髄の門があった。瓦礫に半ば埋もれてはいるが苛烈な攻撃にも耐えうる厚みがあるのが見て取れる。その表面には絡み合った四肢と歓喜に叫ぶ歪んだ顔の模様があった。（彫刻か？鋳造されたものだろうか？あるいは、不可能なことだが、自然にできたものなのか？）中央にあいた穴は鍵穴かもしれない。単なる口の可能性もあるが。@{K}Here - in the floor, because of the stalactite's fall - is a gate of glittering chalcedony, half-lost beneath rubble but thick enough to resist the most determined assault. Its surface is a relief of twisted limbs, distorted faces screaming in glee. (Carved? Moulded? Impossibly, natural?) A pit at its centre might be a key-socket, or only a mouth.",
+      "ButtonText": "",
+      "Id": 132248
+    },
+    {
+      "DefaultEvent": {
+        "Description": "",
+        "LinkToEvent": {
+          "Id": 155888
+        },
+        "Name": "",
+        "Id": 156149
+      },
+      "Name": "形象の門を通って戻る@{K}Back through the Gate of Forms",
+      "Description": "あなたたちの破った門の半分は蝶番から外れ、風の唸る空間へと開いたままになっている。@{K}One half of the Gate hangs down and open, where you breached it, into a space that roars with wind.",
+      "ButtonText": "",
+      "Id": 132261
+    },
+    {
+      "DefaultEvent": {
+        "Description": "何十年を経て乾ききった十を超える死体が鍾乳石の根付近に横たわっていた。ここにはバリケードが作られていたのだろう。しかしそれは落下によって打ち砕かれ、残りも海に投げ出されてしまった。彼らは岩根を守っていたのだろうか？砲撃手のアトキンスは焦げ跡と砕かれた岩を目を細めて眺め賢げに頷いた。「火薬だろうな」彼は述べる。「自分たちで吹き飛ばしたんだろう。町全体が死んだ。飢えた男たちだろ？奴ら身内で争ったって話じゃないか。ヒキガエル並みに気が狂ってる」\u000d\u000a\u000d\u000a地下の冒険者たちの遥か昔からの伝統に従い、あなたたちは死体を漁った。まぁ、埋められてはいなかったのだし、大丈夫だろう。彼らの四肢と顔の骨は滲み、溶けた蝋のように捻じれている……あなたは細々とした品や気分の悪くなるような残骸を見つけた。そして、ああこれは！よし、いいぞ、これは幾らかにはなるだろう。いや、かなりの金になる。船員たちには見せないほうがいいだろう。\u000d\u000a\u000d\u000aここには他にもう何もない。フレアで合図すれば船がこちらに近づいてくれる手筈だ。岩を這いおりて海に落ち、回収してもらうことが出来る。ゴッドフォールのトンネルよりは安全だろう。@{K}$Godfall -> ゴッドフォール$A dozen corpses, decades-dry lie at the stalagmite's root. You think there was a barricade here, but the fall has smashed it and the remnants have fallen into the sea. Were they defending the root? Gunner Atkins squints at the scorched and shattered rock, and nods wisely. \"Gunpowder,\" he opines. \"Blew it up themselves. Killed the whole city. Starved Men, eh? Allus heard they fight each other. Mad as toads.\"\u000d\u000a\u000d\u000aIn the immemorial tradition of subterranean adventurers, you search the corpses. Well, it's not like they've been <i>buried</i>. Their bones of their limbs and faces are blurred and twisted, like melted wax... You find trinkets, disgusting remnant-chunks, and oh good God! Yes. Yes, that's worth a bit. Worth a lot. Best not let your men see it.\u000d\u000a\u000d\u000aNothing else remains here. Signal your ship with flares, and she'll approach: you can scramble down and drop into the zee, to be retrieved. Much safer than the tunnels of Godfall.",
+        "Name": "",
+        "Id": 156150
+      },
+      "Name": "岩根の柱廊@{K}The Root-Gallery",
+      "Description": "あなたは修道院からここに至るまで、ゴッドフォールと呼ばれる鍾乳石の半分ほどを歩んできた。飢えた男たちはこの岩の根全体に壮大な回廊を作り上げていた。中央では一本の巨大な支柱が全ての重みを支えている。在りし日には並ぶもののない光景だったに違いない。縁にはいまだ鉄線入りの硝子と木造の食堂や観覧席、そして寺院の残骸がしがみついている。しかし岩根は砕け散り、鍾乳石は落ちてしまったのだ。\u000d\u000a\u000d\u000aもう少しだけ近づこう。回廊の傾いた床を慎重に這い進み、崩れた岩の根元へと。@{K}$Godfall -> ゴッドフォール$You've traversed half the length of the stalactite called Godfall, from the monastery to here. The Starved Men cut a tremendous gallery around the whole root of the stalactite, leaving a vast central pillar to support its weight. In its day, the view must have been unrivalled. Remnants of salvaged glass and wooden eating-houses, viewing-booths, sight-temples still cling to the edges - but the root has been shattered, and the stalactite fell.\u000d\u000a\u000d\u000aGo a little closer - clamber carefully across the tilted surface of the gallery floor towards the shattered stump of the root.",
+      "ButtonText": "",
+      "Id": 132262
+    },
+    {
+      "DefaultEvent": {
+        "Description": "岩根近くの死体はいまだにその場所に残っていた。しかし、彼らの姿勢は以前と変わっている。それともあなたにはそう思えただけだろうか。断言するのは難しい。かつてあなたはかすかな光の反射のみに照らされる暗闇の中にいた。そして今再び暗闇の中に立つ。ねじ曲がった四肢と歪んだ顔の形をじっくりと調べてみよう。何かがあなたに起こるかもしれない。\u000d\u000a\u000d\u000aここには他にもう何もない。フレアで合図すれば船が近づいてくれる手筈だ。岩を這いおりて海に落ち、回収してもらうことが出来る。ゴッドフォールのトンネルよりは安全だろう。@{K}$Godfall -> ゴッドフォール$The corpses by the stalactite-root still remain: but they lie in different attitudes. Or so you think. It's hard to be certain. You were here in the glimmering dark, and here you are in the glimmering dark again. Examine their contorted limbs, the shape of their distorted faces. Perhaps something occurs to you.\u000d\u000a\u000d\u000aNothing else remains here. Signal your ship with flares, and she'll approach: you can scramble down and drop into the zee, to be retrieved. Much safer than the tunnels of Godfall.",
+        "Name": "",
+        "Id": 156419
+      },
+      "Name": "岩根の柱廊@{K}The Root-Gallery",
+      "Description": "あなたは此処を訪れたことがある。飢えた男たちはこの岩の根全体に壮大な回廊を作り上げていた。中央では一本の巨大な支柱が全ての重みを支えている。在りし日には並ぶもののない光景だったに違いない。根の縁にはいまだ鉄線入りの硝子と木造の食堂や観覧席、そして寺院の残骸がしがみついている。しかし岩根は砕け散り、鍾乳石は落ちてしまったのだ。もう少しだけ近づこう。回廊の傾いた床を慎重に這い進み、崩れた岩の根元へと。@{K}You've been here before. The Starved Men cut a tremendous gallery around the whole root of the stalactite, leaving a vast central pillar to support its weight. In its day, the view must have been unrivalled. Remnants of salvaged glass and wooden eating-houses, viewing-booths, sight-temples still cling to the edges - but the root has been shattered, and the stalactite fell. Go a little closer - clamber carefully across the tilted surface of the gallery floor towards the shattered stump of the root.",
+      "ButtonText": "",
+      "Id": 132422
+    },
+    {
+      "DefaultEvent": {
+        "Description": "Zeeで必要とするものが見つかるかもしれない。まず修道院まで無事に戻ることが出来ればの話だが。@{K}Perhaps you can find what you need somewhere at zee - if you make it back to the Monastery, zafe and zane.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "再び回廊の中へ@{K}Back into the coils",
+        "Id": 156526
+      },
+      "Name": "入れない！@{K}No way through!",
+      "Description": "あなたはこの門をくぐるのに必要な物を持っていない。引き返せ。[これまでの道のりを引き返してこの場所を去り、必要な物を探しましょう。]@{K}You don't have what you need to pass the Gate. Turn back. [Retrace your steps to leave and find what you need.]",
+      "ButtonText": "",
+      "Id": 132483
+    },
+    {
+      "DefaultEvent": {
+        "Description": " ……しかしあなたは生きて戻ることができた。@{K}- but you made it out alive.",
+        "Name": "",
+        "Id": 156528
+      },
+      "Name": "そして外へ。@{K}And out.",
+      "Description": "混乱するような出来事が起きたが……@{K}Something disorienting happened - ",
+      "ButtonText": "",
+      "Id": 132485
+    },
+    {
+      "SuccessEvent": {
+        "Description": "蝋燭に照らされた薄暗がりの中で渡るのは船の甲板を渡るよりも難しかった。鍾乳石の裂け目には瞳が覗き、生き物の気配に満ちている。しかしなんとか全員無事に渡りきることが出来た。@{K}It's harder in the candle-lit gloom than it would be in the deck of a ship. The crevices of the stalactite seem alive with eyes. But you all make it safely across.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "困難な渡し@{K}A difficult crossing",
+        "Id": 155891
+      },
+      "DefaultEvent": {
+        "Description": "一つの絶望の叫びがあがった。後ろの方にいた一人ののろまが足を踏み外し深淵へと落ちていったのだ。長い沈黙が下りる。そして、暗黙のうちに揃って再び前進を始めた。@{K}A single desperate scream: and the laggard at the back misses a foot-hold and plunges into the depths. There is a long moment of silence, and then, in unspoken unison, you all continue.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "ちょっとした災難@{K}One mishap",
+        "Id": 155890
+      },
+      "Name": "裂け目を這うように渡る@{K}Creep across a chasm",
+      "Description": "目の前で鍾乳石に裂け目が開いていた。その裂け目は深い峡谷となり、眼下では暗い海が轟音をあげている。恐らく向こうへ渡ることも出来るだろう。なにしろ、あなたたちは船乗りなのだから。船乗りはロープを持ち歩いているものだ。@{K}$Aft -> 後部$The stalactite has cracked right across. That crack is a plunging chasm. The dark sea thunders below. You can probably get across. After all, you are zailors. Zailors have rope.",
+      "ButtonText": "",
+      "Id": 132103
+    },
+    {
+      "SuccessEvent": {
+        "Description": "この革の切れ端のような者たちはしつこいが、強くはなかった。何らかの力が残された男女の残骸をぼろぼろの激高したマネキンへと歪めてしまったのだ。彼らはいまだに呼吸をし、食事もする……この者の口からは蝙蝠の血が流れ落ちている。あなたは曲剣の一振りで頭を切り落とした。そして、彼らはあなたたちの背後に取り残された。怪訝そうな怒りの雄叫びが消えてゆく。@{K}They're tenacious, these leather remnants, but not strong. Some force has distorted remants of women and men into ragged, furious mannequins. They still breathe, they still ate - bat-blood runs from the mouth of this one, before you take off its head with a swing of your cutlass. Then they're behind you, their roars of incredulous rage fading.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "無理やりに通り抜ける@{K}Push through",
+        "Id": 155892
+      },
+      "DefaultEvent": {
+        "Description": "船員たちは徐々に弱っていった。この革の切れ端ような者たちは強くはないが、恐ろしくしつこい。彼らは死んでいるわけではない――半分生きた記憶がその反射神経と憎悪に残っているのだ。退却！退却！@{K}Your crew crumbles. They're not strong, these leather remnants, but they're terribly tenacious. Not dead exactly - half-living memories persisting on reflex and hate. Fall back. Fall back!",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "撤退！@{K}Retreat!",
+        "Id": 155889
+      },
+      "Name": "狂暴な襲撃を退ける@{K}Fight off a Frenzied Assault",
+      "Description": "一人、二人……六、七、八人もの革のような木乃伊らしきものが口を大きく開き、岩の裂け目から噴き出してきた。彼らは歪んだ腕でこちらに掴みかかる。@{K}One, two - six, seven, eight - a rabble of leathery mummy-things, mouths agape, comes boiling from crevices. Crooked limbs reach for you.",
+      "ButtonText": "",
+      "Id": 132102
+    },
+    {
+      "SuccessEvent": {
+        "Description": "あなたは蜂の巣状になった非対称形の居室の塊を通り抜けた。上から眺めた海を描く消えかかったフレスコ画を通り過ぎ、悲哀蜘蛛が一匹急いで逃げ出す蜘蛛の巣の下を歩き、遥か昔にミイラ化した人間の死体の傍らを抜ける。その四肢は蔦のように絡み合っていた。ここで何が起きたのだろう？@{K}$[Ss]orrow-spider -> 悲哀蜘蛛$You make your way through an asymmetrical foam of beehive dwellings, past faded frescos of the sea seen from above, beneath swags of cobweb where single sorrow-spiders scuttle, past a long-mummied human corpse. Its limbs are curled and knotted like vines. What happened here?",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "骨の折れる道行き@{K}Painstaking progress",
+        "Id": 155894
+      },
+      "DefaultEvent": {
+        "Description": "壊れた家具が眩暈のするような塊へと変えられている。人骨は部屋の隅に放られ、その場で蝋のように歪み溶け合っている。ここは何かが恐ろしいほどにおかしい。それにあなたは恐ろしく道に迷っている。@{K}Broken furniture carved in eye-twisting knots. Human bones flung carelessly in the corners, smeared and distorted like wax. Something was horribly wrong here. And you are horribly lost.",
+        "LinkToEvent": {
+          "Id": 155888
+        },
+        "Name": "困惑@{K}A confusion",
+        "Id": 155893
+      },
+      "Name": "居住区の迷宮@{K}A labyrinth of dwelling-galleries",
+      "Description": "海の音が聞こえる！通路は分岐し鍾乳石の表面に広がる複雑な回廊へ続き、そこには居住区への入り口があった。今は全て空になっているが、それぞれの部屋が蜂の巣のように隣り合った小部屋へと繋がっている。通り抜けられるかもしれない。@{K}You hear the zee! The passage branches and opens into a tangle of galleries on the skin of the surface. There are doorways to dwelling-places - all empty now, all leading into one another like cells of a honeycomb. Perhaps you can find your way through.",
+      "ButtonText": "",
+      "Id": 132104
+    },
+    {
+      "SuccessEvent": {
+        "Description": "ここの気体は心を惑わせ、精神を動揺させる。先へ進もう。@{K}The gases down here will maze the mind and convulse the spirit. Press on.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "饐えた空気@{K}Stale air",
+        "Id": 155896
+      },
+      "DefaultEvent": {
+        "Description": "空気が悪い。空気が悪いに違いない。此処の空気は瀝青と錆の味がする。そしてよろめきながら空気の澄んだ場所になんとか辿り着くまで、あなたはひどい耳鳴りと視界の歪みに苦しめられた。二人の船乗りが子供のようにめそめそと泣いている。@{K}It's the air. It must be the air. It tastes of bitumen and rust. But your vision blurs and your ears roar until you stagger into a zone where the air is clear. Two of your zailors are sobbing like children.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "あまりにも多くの曲がり角@{K}Too many turns",
+        "Id": 155895
+      },
+      "Name": "厄介な瞬間@{K}A nasty moment",
+      "Description": "通路ははらわたのようにとぐろを巻いている。この鍾乳石全体が未知なる心臓の拍動に合わせて脈打っているかのようだ。@{K}The tunnels coil like intestines. The stalactite seems to pulse with the beat of an unknown heart.",
+      "ButtonText": "",
+      "Id": 132105
+    },
+    {
+      "SuccessEvent": {
+        "Description": "あなたはその奇妙な虚像に目を配っていた。あなたは船員を床に突き飛ばし、獣の顎は何もとらえることなくその船乗りの頭上で閉じた。@{K}You had your eye on that curious projection. You push a zailor to the ground as the jaws close futilely overhead.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "獲物を捕らえることなく顎を閉じる空虚な音@{K}A hollow snap",
+        "Id": 156013
+      },
+      "DefaultEvent": {
+        "Description": "それは一人の船乗りを小麦の穂のように真っ二つに割く。彼の断末魔はすぐに途切れた。そしてその生き物は船員の欠片を散らしつつ壁に戻っていった。先を急ごう。@{K}It snips a zailor in two like an ear of wheat. His scream is brief. The thing retracts into the wall, festooned with zailorly fragments. Hurry on.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "身の毛もよだつ咀嚼音@{K}A ghastly crunch",
+        "Id": 156012
+      },
+      "Name": "黒い顎の獣@{K}A Black-Jawed Beast",
+      "Description": "湿った顎が壁から滑り出してきた！@{K}Mandibles slide wetly from the wall!",
+      "ButtonText": "",
+      "Id": 132175
+    },
+    {
+      "SuccessEvent": {
+        "Description": "あなたは慎重に椅子から、テーブル、そして長椅子へと足を進めていった。幸いにも足を乗せた家具は琥珀によって固定されており、ひどくぐらつくことはなかった。あなたが反対側にたどり着くと、一人の不注意な船員が不意によろめき彼の乗っていた椅子がぬちゃっという音を立てて横倒しになった。しかし、あなたたちは無事に渡り切ったのだ。@{K}You each step cautiously from chair to table to bench. Thankfully, the amber's grasp keeps the furniture from swaying too much. As you reach the far side, a careless crewman stumbles and the chair swings sideways with a clotted 'splorch' sound - but you've made it across.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "安全に渡った@{K}A safe crossing",
+        "Id": 156015
+      },
+      "DefaultEvent": {
+        "Description": "後方にいた一人の船乗りが気を緩めてしまったようだ。彼は琥珀に固められたテーブルの上に長くとどまりすぎ、足を持ち上げようとした時には靴底が張り付いてしまっていた。彼は悲鳴と共に貪欲な粘液の塊へと倒れこんだ！仲間たちが何とか引っ張り出そうとするが、琥珀は固く掴んで離そうとしない。悲鳴は船員が深く沈むまで続いた。そして琥珀が拳をぞんざいに彼の口に押し込み、とうとう彼は沈黙させられた。前進、前進だ。@{K}A zeeman at the back grows complacent. He dawdles too long on an amber-glazed table. His boot sticks when he tries to raise it. With a single scream he topples sideways into the grasping goo! His mates try to tug him free, but the stuff has an iron grip. The screaming goes on and on, until he sinks deep enough - the amber pushes its careless fist into his mouth, and finally he's silenced. Move on. Move on.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "倒れた！@{K}A fall!",
+        "Id": 156014
+      },
+      "Name": "琥珀に消える@{K}Lost in amber",
+      "Description": "丸天井の部屋だ。上からは蜂蜜が滴り、壁と床は暖かなオレンジがかった黄色の光沢に覆われている。その物質に触れると指がゆっくりと沈み込む。しかし一度埋まった指を引き抜こうとすると、全力で引っ張らなければならなかった。床の上に一メートル近くも堆積した琥珀の上には所々テーブルと椅子が突き出している。渡ることが出来るかもしれない。@{K}A spherical room. The ceiling drips honey; the walls and floor are glazed with warm orange-yellow. It's gives under your touch - slowly, but when you try to pull your hand free, it takes all your strength. Tables and chairs project through the yard-thick amber on the floor - enough to cross, perhaps.",
+      "ButtonText": "",
+      "Id": 132176
+    },
+    {
+      "SuccessEvent": {
+        "Description": "あなたは尖った水晶に手の甲を擦ってしまった。つかの間、血が花開くように溢れ出る。@{K}You graze the back of your hand against a sharp crystal. Blood blooms briefly.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "そこそこ安全@{K}Safe enough",
+        "Id": 156017
+      },
+      "DefaultEvent": {
+        "Description": "目が眩み、あなたは躓いてしまった。ナイフほどの大きさの突き出た水晶があなたのピーコートをクレープ紙を破るかのようにやすやすと切り裂く。あなたはよろめきながら出口へと向かった。船員たちが出来る範囲で手当てを施してくれる。「ひどい傷だ」甲板長が親切にも述べた。「もう少し左に倒れてたらクリスマスの豚みたいに血を流す羽目になってましたぜ」@{K}Dazzled, you trip. A knife-length projection of crystal parts your pea-coat as if it were crepe paper. You lurch to the exit: your crew helps you bandage it as best they may. \"Nasty cut,\" the bo'sun helpfully observes. \"A little to the left and it'd bleed you like a Christmas pig.\"",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "手酷い落下@{K}A nasty fall",
+        "Id": 156016
+      },
+      "Name": "煌めく危難@{K}The Glittering Crisis",
+      "Description": "あなたたちは偶然にも晶洞石の只中に行きついた！水晶の結晶が光を曲げあなたの瞳へときらきらと反射させる。溶けた銀との睨み合いに勝とうとしているような心地だ。慎重に進もう。@{K}You stumble into the heart of a geode! Quartz crystals twist the light and spangle it into your eyes. It's like trying to out-stare molten silver. Go carefully.",
+      "ButtonText": "",
+      "Id": 132177
+    },
+    {
+      "SuccessEvent": {
+        "Description": "確固たる意志を持ち前進せよ！甲板長があなたの肩を掴んだ。他の船員もそれぞれ隣の者の肩を握りしめている。頭を低くして押し進もう。@{K}Forge on! Your bo'sun grasps your shoulder. Each zailor grasps the next. Bow your heads and push forward.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "なんとか進む@{K}Press on through",
+        "Id": 156019
+      },
+      "DefaultEvent": {
+        "Description": "蝋燭の火は消されてしまった。あなたの口は薄い翼で一杯だ！引き返せ。澄んだ空気のある場所へと。撤退だ。@{K}Your candles are smothered - your mouth filled with brittle wings! Get back. Back into cleaner air. Retreat.",
+        "LinkToEvent": {
+          "Id": 155227
+        },
+        "Name": "押し戻される@{K}Beaten back",
+        "Id": 156018
+      },
+      "Name": "羽の生えたものを振り払え！@{K}Fight off Winged Things!",
+      "Description": "あたかも壁がその表皮を脱ぎ去ったかのように、それは突如そこらじゅうから襲い掛かった。空気が轟音を上げる。群れはあなたたちの口を、目を、鼻を埋め尽くす。@{K}It's as if the wall's shed its skin. Suddenly they're on you, everywhere. The air roars. They fill your mouth, eyes, nose.",
+      "ButtonText": "",
+      "Id": 132178
+    }
+  ],
+  "Description": "あなたは何かを見つけた。あるいは何かがあなたを見つけた。@{K}You've found something. Or it's found you.",
+  "Name": "砕かれた砦での出来事@{K}$Shattered Citadel -> 砕かれた砦$Shattered Citadel Encounters",
+  "Id": 155888
+}
