@@ -7,7 +7,7 @@
                    {"DefaultEvent": {"Description": "　あなたがコインを手渡すと、彼女は一瞬鋭い笑みをよこしてから、手を振ってあなたを近場のエールハウスへと促した。やり取りのすべてはあからさまな腐敗であり、同時に愉快なぐらい能率的だった。@{I}You hand over the coins and she tips you a sharp smile before waving you to the nearest alehouse. The entire process is straightforwardly corrupt, and pleasingly efficient.",
                                      "LinkToEvent": {"Id": 168544}, "Name": "", "Id": 168589},
                     "Name": "海賊の歓迎@{I}A Piratical Welcome",
-                    "Description": "「アイル・オブ・キャッツにようこそ」見開いた目の港長が朗らかに言った。「賄賂をいただければ、この素敵な公式の台帳にはあなたの詳細を残さないでおいてあげますよ？」@{I}$Isle of Cats -> アイル・オブ・キャッツ$\"Welcome to the Isle of Cats,\" the Wide-Eyed Dockmaster says brightly. \"Would you like to bribe me not to write down your details in this nice official ledger?\"",
+                    "Description": "「アイル・オブ・キャッツにようこそ」見開いた目の港長が朗らかに言った。「賄賂をいただければ、この素敵な公式の台帳には、あなたの詳細を残さないでおいてあげますよ？」@{I}$Isle of Cats -> アイル・オブ・キャッツ$\"Welcome to the Isle of Cats,\" the Wide-Eyed Dockmaster says brightly. \"Would you like to bribe me not to write down your details in this nice official ledger?\"",
                     "ButtonText": "", "Id": 139091},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 168541},
                                      "Name": "", "Id": 169542},
@@ -100,6 +100,6 @@
                     "Name": "メイビーの娘が母親を探す手助けをする@{I}$Maybe's Daughter -> メイビーの娘$Help Maybe's Daughter search for her mother",
                     "Description": "「お母さんがよくここに来てるのは知ってるわ。お母さんは昔から猫が好きだったから。私のお父さんにも、その、猫みたいなところがあるのよね。それも、すごく高貴な猫みたいなところが」@{I}\"She comes here, I know. She's always been fond of cats. Well, my father was something of a cat. And a very noble one, at that.\"",
                     "ButtonText": "", "Id": 146189}],
- "Description": "　黄色く照らされた蜜窟と、鮮やかに彩色されたエールハウスがまばらに立ち並ぶ。南東にはキャベンディッシュ大修道院の石塔がそびえ、その塁壁には鮮紅と黄金の旗が掛けられている。船乗りたちはNeathの至るところから荷物を運んでやってきては、船着場で博打や楽しげな諍いに興じている。<br/><br/>　辺りの空気には、技巧よりも熱狂にまかせて歌われる舟歌の音色と、硫黄のアクセントのあるバラの匂いが漂っていた。@{I}A scatter of yellow-lit honey-dens and brightly painted alehouses. To the south-east rises the stone tower of Cavendish Abbey, its ramparts hung with crimson-and-gold banners. There are zailors from all across the Neath hauling cargo, dicing and brawling good-naturedly on the docks. \u000d\u000a\u000d\u000aThe air carries the sound of zee-shanties sung with more enthusiasm than skill, and the smell of roses edged with brimstone.",
+ "Description": "　黄色く照らされた蜜窟と、鮮やかに彩色されたエールハウスがまばらに立ち並ぶ。南東にはキャベンディッシュ大修道院の石塔がそびえ、その塁壁には鮮紅と黄金の旗が掛けられている。船乗りたちはNeathの至るところから荷物を運んでやってきては、船着場で博打や楽しげな諍いに興じている。<br/><br/>　技巧よりも熱狂にまかせて歌われる舟歌の音色、そして硫黄のアクセントのあるバラの匂いが、辺りの空気に漂っていた。@{I}A scatter of yellow-lit honey-dens and brightly painted alehouses. To the south-east rises the stone tower of Cavendish Abbey, its ramparts hung with crimson-and-gold banners. There are zailors from all across the Neath hauling cargo, dicing and brawling good-naturedly on the docks. \u000d\u000a\u000d\u000aThe air carries the sound of zee-shanties sung with more enthusiasm than skill, and the smell of roses edged with brimstone.",
  "Name": "ポート・キャベンディッシュ@{I}$Port Cavendish -> ポート・キャベンディッシュ$Port Cavendish",
  "Id": 168435}
