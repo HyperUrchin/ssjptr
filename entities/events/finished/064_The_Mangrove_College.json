@@ -83,7 +83,7 @@
                    {"DefaultEvent": {"Description": "「プリンシプルズ、ポート・セシルへ。黒と白と銀色の島……あそこへ連れて行ってください。遅くとも早くともかまいません。私は駒の動きがどれだけ混み入ったものとなりうるか知っていますからね」@{K}$Port Cecil -> ポート・セシル$\"The Principles. Port Cecil. Black and white and silver... please, take me there. Sooner, later, it doesn't matter. I know how complex the moves can be.\"",
                                      "LinkToEvent": {"Id": 143391},
                                      "Name": "訳有りの人物@{K}A Chequered Character", "Id": 182199},
-                    "RareDefaultEvent": {"Description": "「ゲイダーの嘆きにある私掠船の森へお願いします。いえ、私は急いではいませんが、でも甲板の下にいることにしましょう。報酬は今は持っていません。あちらにつくまでは私を信用していただかなければなりませんね。有難うございます。お会いできて良かった」@{K}$Gaider's Mourn -> ゲイダーの嘆き$\"The Corsair's Forest, please. Gaider's Mourn. No, I'm not in a hurry, but I think I might stay below decks. I don't carry the fee on me: you'll have to trust me for it when we arrive. Thank you. A pleasure.\"",
+                    "RareDefaultEvent": {"Description": "「ゲイダーの嘆きにあるコルセアズ・フォレストへお願いします。いえ、私は急いではいませんが、でも甲板の下にいることにしましょう。報酬は今は持っていません。あちらにつくまでは私を信用していただかなければなりませんね。有難うございます。お会いできて良かった」@{K}$Gaider's Mourn -> ゲイダーの嘆き$\"The Corsair's Forest, please. Gaider's Mourn. No, I'm not in a hurry, but I think I might stay below decks. I don't carry the fee on me: you'll have to trust me for it when we arrive. Thank you. A pleasure.\"",
                                          "LinkToEvent": {"Id": 143391},
                                          "Name": "不審な人物@{K}$Shady Sort -> 不審な人物$A Shady Sort",
                                          "Id": 182200},
