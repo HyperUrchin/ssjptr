@@ -1,5 +1,0 @@
-{"Description": "謎の人物が、あなたに援助を申し出た。@{I}この謎の人物は貴方に提案を持ちかけた。@{M}A shadowy figure has made you an offer.",
- "LevelDescriptionText": "1|あなたは提案を受け入れた~2|あなたはロンドンからマウント・パーマーストンへの魂の密輸に同意した~3|あなたは魂をマウント・パーマーストンに送り届けた~4|あなたは報酬を受け取った~5|あなたは何かを受け取ってくるよう頼まれている~101|あなたは提案を拒否した~6|あなたに仕事が与えられている@{I}$(Mt?.|Mount) Palmerston -> マウント・パーマーストン$1|You accepted the proposal~2|You agreed to smuggle souls from London to Mt Palmerston~3|You delivered souls to Mt Palmerston~4|You were paid~5|You've been asked to pick something up...~101|You refused the proposal~6|You were given a task...",
- "ChangeDescriptionText": "1|あなたは提案を受け入れた~2|あなたはロンドンからマウント・パーマーストンへの魂の密輸に同意した~101|あなたは提案を拒否した~3|あなたは魂をマウント・パーマーストンに送り届けた~5|あなたは何かを受け取ってくるよう頼まれている~4|あなたは報酬を受け取った~6|あなたに仕事が与えられている@{I}$(Mt?.|Mount) Palmerston -> マウント・パーマーストン$1|You accepted the proposal~2|You agreed to smuggle souls from London to Mt Palmerston~101|You refused the proposal~3|You delivered souls to Mt Palmerston~5|You've been asked to pick something up...~4|You were paid~6|You've been given a task...",
- "Name": "好意: 実業家からの提案@{I}恩義: 実業家からの提案@{M}Favours: A Proposal from a Man of Business",
- "Id": 109672}

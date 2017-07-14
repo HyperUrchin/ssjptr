@@ -1,8 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "", "Name": "",
-                                     "Id": 141260},
-                    "Name": "Talk 'em down", "Description": "easy", "ButtonText": "",
-                    "Id": 122732},
-                   {"DefaultEvent": {"Id": 141261}, "Name": "Take 'em down",
-                    "Description": "", "ButtonText": "", "Id": 122733}],
- "Description": "Occurs only when Terror is high. Your crew turn on you.",
- "Name": "Treachery", "Id": 141259}

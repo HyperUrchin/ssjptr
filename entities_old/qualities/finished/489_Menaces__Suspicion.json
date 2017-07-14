@@ -1,3 +1,0 @@
-{"Description": "ああ、この悪党め。[嫌疑はあなたが犯罪行為に手を染めたり、粗暴な連中と付き合ったりすることによって上昇します。嫌疑が高ければ高いほど、あなたの船に対する徴税官の査察はより厳しさを増します。]@{I}ああ、この碌でなし。[貴方が悪漢などと連絡を取ったり、犯罪行為を企てると、上昇します。疑惑が高いほど、役人の船舶検査はもっと厳しい物となります。]@{M}Oh, you rapscallion. [This will increase as you conduct criminal activities or have contact with rough sorts. The higher your suspicion, the more fiercely the Excise will search your ship.]",
- "Name": "危機: 嫌疑@{I}厄介事: 疑惑@{M}$Menaces: -> 危機:$Menaces: Suspicion",
- "Id": 111111}

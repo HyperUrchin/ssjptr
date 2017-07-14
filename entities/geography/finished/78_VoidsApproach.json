@@ -1,0 +1,8 @@
+{"Name": "VoidsApproach",
+ "Tiles": [{"Name": "VoidsApproach",
+            "Description": "ここがヴォイド・アプローチに違いない。大気が冷気の放射を受けてパチパチと音を立てている。北では、偽星が暗闇に隠されている。@{I}$false-star -> 偽星, Void's Approach -> ヴォイド・アプローチ$This must be Void's Approach. The air crackles with frosty radiations. To the North, the false-stars fail in the darkness.",
+            "LabelData": [{"Label": "アビッド・ホライズン@{I}The Avid Horizon",
+                           "Description": ""},
+                          {"Label": "チャペル・オブ・ライト@{I}The Chapel of Lights",
+                           "Description": ""},
+                          {"Label": "キシガーの渦@{I}The Kisigar Vortex", "Description": ""}]}]}

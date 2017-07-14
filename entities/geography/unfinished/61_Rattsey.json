@@ -1,0 +1,10 @@
+{"Name": "Rattsey",
+ "Tiles": [{"Name": "Rattsey",
+            "Description": "船倉の隅を駆け抜ける足音と鳴き声。手すりの上の瘤のような影。ラットセイの空気が害獣どもを大胆にさせている。@{I}$Rattsey -> ラットセイ$Scuttering and chittering in the corners of the hold. Humped shapes on the deck rail. Rattsey air emboldens vermin.",
+            "LabelData": [{"Label": "ナンシノウ@{I}Nuncio", "Description": ""},
+                          {"Label": "ゲリクス・スカルペル@{I}Geryk's Scalpel", "Description": ""},
+                          {"Label": "フィンクノットルの渦@{I}The Finknottle Vortex",
+                           "Description": ""},
+                          {"Label": "スカイラーズ・エンド@{I}Skylar's End", "Description": ""},
+                          {"Label": "マクマスターズ・ヘイヴン@{I}McMaster's Haven", "Description": ""},
+                          {"Label": "Nook", "Description": ""}]}]}

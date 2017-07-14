@@ -1,0 +1,12 @@
+{"Name": "DemeauxsGate",
+ "Tiles": [{"Name": "DemauxsGate",
+            "Description": "荒々しい空気が河口の空気と混ざり合う。デミオー・ゲート。その名は地上で死んだ航海士から取られた。彼の骨は一体どのようにしてここまで降りてきたのだろうか？@{I}$Demeaux's Gate -> デミオー・ゲート$Here the wilder airs mingle with the airs of the near reaches. Demeaux's Gate, named for a navigator lost above. How did his bones come below?",
+            "LabelData": [{"Label": "デミオー・アイランド@{I}Demeaux Island",
+                           "Description": ""},
+                          {"Label": "ボニーの岩礁@{I}Bonny Reefs", "Description": ""},
+                          {"Label": "アイアン＆ミザリー社・ファンギング・ステーション@{I}Iron & Misery Co. Funging Station",
+                           "Description": ""},
+                          {"Label": "ムーディーズ・ライト@{I}Moody's Light", "Description": ""},
+                          {"Label": "ピュアウォル岬@{I}Purewal Point", "Description": ""},
+                          {"Label": "ホスゲン・ブリークス@{I}The Phosgene Bleaks",
+                           "Description": ""}]}]}

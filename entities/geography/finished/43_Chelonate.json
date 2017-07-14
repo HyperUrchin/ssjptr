@@ -1,0 +1,11 @@
+{"Name": "Chelonate",
+ "Tiles": [{"Name": "Chelonate",
+            "Description": "またしてもzee-beastの死骸が浮かんでいる。ここらは腐肉だらけだ。我々はキェロネイトに近づいている。@{I}$Chelonate -> キェロネイト$Another zee-beast corpse afloat. So much carrion. We approach the Chelonate.",
+            "LabelData": [{"Label": "キェロネイト@{I}The Chelonate",
+                           "Description": ""},
+                          {"Label": "ギャント・ポール@{I}Gant Pole", "Description": ""},
+                          {"Label": "サーシャタウン@{I}Sachatown", "Description": ""},
+                          {"Label": "スチャベルポート@{I}Schabelport", "Description": ""},
+                          {"Label": "パウジアの岩礁@{I}Pourzia's Reef", "Description": ""},
+                          {"Label": "タスラー海峡@{I}Tusler's Channel", "Description": ""},
+                          {"Label": "ギャント・ポール@{I}The Gant Pole", "Description": ""}]}]}

@@ -1,9 +1,0 @@
-{"ChildBranches": [{"SuccessEvent": {"Description": "Your crew watch from the observation deck as you reach for the skeleton, speared like a hooked fish...\u000d\u000a\u000d\u000aYour mind fills with song - solemn, echoing, watery, faltering - like the last notes of a baritone drowning in his bath. You  know you will never see that place where you sang of your shapeful disgrace...\u000d\u000a\u000d\u000aYour crew reel you back inside, and pry the skull from your hands. Gradually, your ears empty of song.",
-                                     "Name": "You don your diving gear", "Id": 243690},
-                    "DefaultEvent": {"Description": "You struggle to drag the skeleton free. The spines quiver. Above you, one breaks, falls like a spear. You raise your hands to ward it off. A tearing - your suit? The sudden sensation of cold water on your skin; a blazing pain... An abrupt, overwhelming injection of indignation, and rage, and grief!\u000d\u000a\u000d\u000aYour crew reel you in, tends your wound, and locks you in your cabin until you stop shrieking.",
-                                     "Name": "You don your diving gear", "Id": 243689},
-                    "Name": "Remove something stuck on the spines",
-                    "Description": "An unfortunate diver? Bones hang, impaled on the decaying spines.\u000d\u000a[Beware: if you fail, you will gain a Wound.]",
-                    "ButtonText": "", "Id": 186133}],
- "Description": "A cluster of quivering spines shiver in the current. A dead fluke's flesh dissolves in water. These brittle remnants, however, remain stony-hard. ",
- "Name": "$Fluke -> フルーク$Fluke Needles ", "Id": 243688}

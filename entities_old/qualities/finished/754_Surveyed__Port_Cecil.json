@@ -1,4 +1,0 @@
-{"Description": "あなたはチェスが神聖なものとされる場所を訪れた。@{K}チェスが神聖とされる地を見た。@{M}You have seen the place where chess is holy.",
- "ChangeDescriptionText": "1|あなたのセシル港への訪問は海軍省記録事務局で公的に記録された。@{K}1|貴方のセシル港への訪問は総督府記録事務局で確認されました。@{M}$Admiralty -> 海軍省, Port Cecil -> ポート・セシル$1|Your visit to Port Cecil has been confirmed by the Admiralty Records Office",
- "Name": "調査済: セシル港@{M}$Port Cecil -> ポート・セシル$Surveyed: Port Cecil",
- "Id": 109628}

@@ -1,8 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "", "Name": "",
-                                     "Id": 141257},
-                    "Name": "Seek treasures", "Description": "easy", "ButtonText": "",
-                    "Id": 122730},
-                   {"DefaultEvent": {"Id": 141258}, "Name": "Seek knowledge",
-                    "Description": "", "ButtonText": "", "Id": 122731}],
- "Description": "Were they here?",
- "Name": "$Irem -> アイレム$Iremi Outpost", "Id": 141256}

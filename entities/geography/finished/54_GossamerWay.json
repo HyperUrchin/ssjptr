@@ -1,0 +1,8 @@
+{"Name": "GossamerWay",
+ "Tiles": [{"Name": "GossamerWay",
+            "Description": "蜘蛛の巣の糸切れが顔をそっと撫でていった。蜘蛛の気配がする。@{I}A floating strand of web caresses your face. The air hints at spiders.",
+            "LabelData": [{"Label": "救い主の岩礁@{I}Saviour's Rocks",
+                           "Description": ""},
+                          {"Label": "アルンツェン海原@{I}The Arntzen Deep", "Description": ""},
+                          {"Label": "ノクターン号の残骸@{I}Wreck of the Nocturne", "Description": ""},
+                          {"Label": "ネイティビティ@{I}The Nativity", "Description": ""}]}]}

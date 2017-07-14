@@ -1,4 +1,0 @@
-{"Description": "You have an important message to deliver. [Look at the letter in your inventory to see its destination.]",
- "LevelDescriptionText": "1|You have an important letter to deliver.~2|You've stealthily read the letter.~3|The letter has clearly been opened.",
- "ChangeDescriptionText": "1|You have an important letter to deliver.~2|No one will ever know. Right?~3|The letter was open when you got it.",
- "Name": "Undercrow: Delivering a Letter", "Id": 127591}

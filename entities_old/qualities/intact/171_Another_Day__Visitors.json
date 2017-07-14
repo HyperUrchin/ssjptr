@@ -1,4 +1,0 @@
-{"Description": "誰かが貴方の宿場を訪れたいと思っている様だ。@{M}Someone would like to call on you at your Lodgings.",
- "LevelDescriptionText": "1|誰かが貴方の宿場を訪れたいと思っている。@{M}1|Someone would like to call on you at your Lodgings.",
- "ChangeDescriptionText": "0|訪問者はもう何処かへ行った。~1|誰かが貴方の宿場を訪れたいと思っている。@{M}0|Visitors have departed.~1|Someone would like to call on you at your Lodgings.",
- "Name": "後日談: 訪問者@{M}Another Day: Visitors", "Id": 110361}

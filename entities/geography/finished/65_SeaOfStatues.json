@@ -1,0 +1,11 @@
+{"Name": "SeaOfStatues",
+ "Tiles": [{"Name": "SeaOfStatues",
+            "Description": "我々は彫像の海に入り込んだ。巨人たちが我々に向けて大口を開けている。前方に王喰らいの城が見えた。愚か者が自らの未来を投げ出す場所だ。@{I}$Sea of Statues -> 彫像の海, Kingeater's Castle -> 王喰らいの城$We have entered the Sea of Statues. Giants gape at us. Kingeater's Castle rises ahead, where fools give up their future.",
+            "LabelData": [{"Label": "王喰らいの城@{I}Kingeater's Castle",
+                           "Description": ""},
+                          {"Label": "ペニントン@{I}Pennington", "Description": ""},
+                          {"Label": "彫像の海@{I}Sea of Statues", "Description": ""},
+                          {"Label": "プタチェクの憤激@{I}Ptacek's Fury", "Description": ""},
+                          {"Label": "ヴィーノの裂け目@{I}Vinno's Rift", "Description": ""},
+                          {"Label": "戒める絶壁@{I}Banning Bluff", "Description": ""},
+                          {"Label": "アプトン@{I}Upton", "Description": ""}]}]}

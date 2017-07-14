@@ -1,0 +1,10 @@
+{"Name": "CryingHeights",
+ "Tiles": [{"Name": "CryingHeights",
+            "Description": "慟哭の高地。ブルー・プロフェットが死につつある者の名を叫ぶ場所。@{I}$Blue Prophets -> ブルー・プロフェット, Crying Heights -> 泣き叫ぶ高み$The Crying Heights, where the Blue Prophets call the names of those about to die.",
+            "LabelData": [{"Label": "慟哭の高地@{I}Crying Heights",
+                           "Description": ""},
+                          {"Label": "ベッカー湾@{I}Becker Bight", "Description": ""},
+                          {"Label": "アンドロメダの岩礁@{I}Andromeda's Rocks", "Description": ""},
+                          {"Label": "ルベナッチ洞穴@{I}Rubenach Grotto", "Description": ""},
+                          {"Label": "ポート・アディー@{I}Port Addey", "Description": ""},
+                          {"Label": "ビュベルの茂み@{I}Bubel's Thicket", "Description": ""}]}]}

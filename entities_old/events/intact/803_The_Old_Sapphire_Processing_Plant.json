@@ -1,7 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "A few day's work, more sherry, and the adjustments are complete. Your vessel's new pipework gleams. Beneath the water, you can just make out the graceful curve of her retracted shell-hull.",
-                                     "Name": "", "Id": 247151},
-                    "Name": "Have your ship converted for zubmarine travel",
-                    "Description": "The Philanthropist greets you warmly, with sherry. \"Your money's no good here! I owe your predecessor a great debt.\"",
-                    "ButtonText": "", "Id": 188555}],
- "Description": "$Aft -> 後部$It sits on an inlet at the port's edge. Here, the Fierce Philanthropist runs an illicit but profitable business converting ships into zubmarines. After all, philanthropy doesn't come cheap.",
- "Name": "The Old Sapphire Processing Plant", "Id": 247150}

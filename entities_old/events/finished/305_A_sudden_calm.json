@@ -1,7 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "「何が起こっていたにせよ、もう終わりました。見てください。こんなものを見つけましたよ」機関長は、両手のひらで蝋のような固形物の山を抱えていた。「地獄の糞ですね。何らかの副産物でしょうか……先ほどの何かの？私には見当もつきませんが」@{I}\"何が起こったにせよ、全て片付きました。そして見てください。これを見つけました。\"技師の手の中には、蝋状のパレットのような何かの山が収まっていた。\"地獄の落し物でしょうかね。何かの副産物のような...一体何だか分かりますか? 私には見当が付きませんや。\"@{M}\"It's over, whatever happened. And look. I found this.\" In your engineer's cupped hands lies a pile of waxy pallets. \"Hell-droppings. Some sort of by-product of the... you know what? I have no idea at all.\"",
-                                     "Name": "肩をすくめる@{I}肩をすくめる@{M}A shrug", "Id": 155171},
-                    "Name": "「今度は何だ？」@{I}\"さてどうする?\"@{M}\"What now?\"",
-                    "Description": "　エンジンの雄叫びは静かになっていた。@{I}エンジンの咆哮はどうやら収まったようだ。@{M}The roar of the engines has subsided.",
-                    "ButtonText": "", "Id": 131643}],
- "Description": "　甲板のハッチから吐き出されていた煙が止んだ。機関長が姿を現した。@{I}甲板ハッチから立ち込めていた煙がはたと止み、主任技師が姿を見せてきた。@{M}$Chief Engineer -> 機関長$The smoke pouring from the deck hatch ceases. Your Chief Engineer emerges.",
- "Name": "突然の静けさ@{I}突然の静寂@{M}A sudden calm", "Id": 155170}

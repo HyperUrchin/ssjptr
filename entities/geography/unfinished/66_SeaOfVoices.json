@@ -1,0 +1,13 @@
+{"Name": "SeaOfVoices",
+ "Tiles": [{"Name": "SeaofVoices",
+            "Description": "かき消されることのない声が聞こえる。ここは声の海。我々はポリズリーム、誰もが真に死ぬことのない場所に近づいている。@{I}$Sea of Voices -> 声の海, Polythreme -> ポリズリーム$'We hear those voices that will not be drowned.' This is the Sea of Voices: we are close to Polythreme, where nothing is truly dead.",
+            "LabelData": [{"Label": "ゴッドフォール@{I}Godfall", "Description": ""},
+                          {"Label": "Dahut", "Description": ""},
+                          {"Label": "ポリズリーム@{I}Polythreme", "Description": ""},
+                          {"Label": "渇望の潮@{I}Tides of Appetite", "Description": ""},
+                          {"Label": "アントニウスの深淵@{I}The Antonine Abyss", "Description": ""},
+                          {"Label": "オーベイ@{I}Obey", "Description": ""},
+                          {"Label": "エンデュア@{I}Endure", "Description": ""},
+                          {"Label": "フォーローン@{I}Forlorn", "Description": ""},
+                          {"Label": "カミングル@{I}Commingle", "Description": ""},
+                          {"Label": "アイスチャヴン@{I}Aeschaven", "Description": ""}]}]}

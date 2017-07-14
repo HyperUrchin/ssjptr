@@ -1,4 +1,0 @@
-{"Description": "貴方は殺し屋について調べている。@{M}$Snuffer -> スナッファー$You are investigating Snuffers.",
- "LevelDescriptionText": "100|彼は貴方に依頼がある。~200|カーネリアン港で殺し屋を捕まえて来て欲しいと彼は言っている。~300|貴方はカーネリアン港で殺し屋を捕まえ、アダムの道の周旋屋へ戻る最中だ。~400|彼は貴方に別の依頼がある。~500|貴方はロンドンにある長老会の大使館へ、実務的な外交官を護送する。~1000|貴方は周旋屋の指示通りに依頼を完遂した。~2000|貴方は周旋屋を裏切り、彼のターゲットに警告した。@{M}$Snuffer -> スナッファー, Adam's Way -> アダムの道, Port Carnelian -> ポート・カーネリアン, Presbyter -> プレズビター$100|He has a commission for you~200|He wants you to catch a Snuffer in Port Carnelian~300|You have captured Port Carnelian's Snuffer and are to return it to the Broker in Adam's Way~400|He has another commission for you~500|You are to escort a Hands-On Diplomat to the Presbyterate's embassy in London~1000|You completed the Broker's commission as instructed~2000|You betrayed the Broker and warned his target",
- "Name": "目的: 髭もじゃの周旋屋の小さな問題@{M}$Avuncular Broker -> おじのような仲買人$Objective: The Avuncular Broker's Little Problem",
- "Id": 110628}

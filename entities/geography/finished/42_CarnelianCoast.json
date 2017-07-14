@@ -1,0 +1,10 @@
+{"Name": "CarnelianCoast",
+ "Tiles": [{"Name": "CarnelianCoast",
+            "Description": "カーネリアン・コースト。はるか南方では、Neathの天蓋が、輝く山の上で明滅している。@{I}$Mountain of Light -> 光輝の山, Carnelian Coast -> カーネリアン・コースト$The Carnelian Coast. Far to the South, the Neath-roof glimmers above the Mountain of Light.",
+            "LabelData": [{"Label": "ポート・カーネリアン@{I}Port Carnelian",
+                           "Description": ""},
+                          {"Label": "ダイバラ・タウン@{I}Dybala Town", "Description": ""},
+                          {"Label": "ロリアス急崖@{I}Rolias Bluff", "Description": ""},
+                          {"Label": "司書の石室@{I}Librarian's Grotto", "Description": ""},
+                          {"Label": "レイナーの渦@{I}Rainer's Vortex", "Description": ""},
+                          {"Label": "ヴェルテンの渦@{I}Velten's Vortex", "Description": ""}]}]}

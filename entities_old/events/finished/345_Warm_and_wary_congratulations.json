@@ -1,9 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "「俺の謝意と共に、ささやかな感謝の証をお前に受け取って欲しい。税関の役人どもがこの箱に汚い手をベタベタと付けてしつこく調べたんだろう?だが、お前はきっちりと関税を支払って難を逃れた。俺個人としては常軌を逸していると思うが、お前はお前なりに仕事に対して誠実でありたいと思ったのだろう。俺のボスもこの件については少しお前に報いてやろうと考えておいででな、そこで\"偶然\"焼け落ちた倉庫に行ったら、何かお前の役に立つような箱が幾つか落ちているかもしれんな。」@{M}\"Please accept this small token of my thanks and please also accept my thanks. I understand the Customs Men 'ave 'ad their sticky 'ands on this crate? But you've paid the duty which I think is eccentric of you but to each their own and you are an individual of honour, are you not. My employer is not short of honour either, so if you take a turn about the burnt-out warehouse at the end there you might find a little pile of crates containing items of interest.\"",
-                                     "Name": "\"おお、素晴らしい、素晴らしい。\"@{M}\"Oh, very good, very good.\"",
-                                     "Id": 166274},
-                    "Name": "貨物を引き渡す@{M}Hand over the cargo",
-                    "Description": "そして支払いを受け取る。@{M}and claim your payment.",
-                    "ButtonText": "", "Id": 137711}],
- "Description": "「よくぞ戻った!何故俺がお前をこうして出迎えているのかと問うかもしれんが、俺達には荒野や丘の上に沢山の目があるのだ。何となれば、俺達の目は託宣者の集団よりも多い。そいつらが全員お前の帰還を喜んでいる。そして、無論、お前の持つ貨物もな。@{M}$[Kk]not-oracle -> ノット・オラクル$\"Welcome home! You may ask how it is I am here to meet you, and I may remark that we have eyes in the Wastes and eyes in the Hill. In fact we have more eyes than a knot-oracle, and they're all glad to see you. And, of course, your cargo.\"",
- "Name": "暖かく、用心深い祝福@{M}Warm and wary congratulations",
- "Id": 166273}

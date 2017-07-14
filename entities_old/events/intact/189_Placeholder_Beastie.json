@@ -1,9 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "", "Name": "",
-                                     "Id": 150221},
-                    "Name": "Fight!", "Description": "", "ButtonText": "",
-                    "Id": 128480},
-                   {"DefaultEvent": {"Description": "", "Name": "", "Id": 150222},
-                    "Name": "Flee!", "Description": "", "ButtonText": "",
-                    "Id": 128481}],
- "Description": "I do not exist, but you can fight me if you like.",
- "Name": "Placeholder Beastie", "Id": 150220}

@@ -1,5 +1,0 @@
-{"Description": "貴方は荷物を拾ってロンドンに戻ってくる様に頼まれた。決して荷物無しで戻ってきてはいけない。@{M}You've been asked to pick up a package and return it to London. Don't come back without it.",
- "LevelDescriptionText": "1|海賊の森にあるガイダーの嘆きから拾ってくる。~2|声音海にあるポリスリームから拾ってくる。~3|塩花の大草原にあるハンの心臓から拾ってくる。@{M}$Khan -> カーン, Gaider's Mourn -> ゲイダーの嘆き, Salt Steppes -> ソルト・ステップ, Khan's Heart -> カーンの心臓, Sea of Voices -> 声の海, Polythreme -> ポリズリーム$1|Collect from Gaider's Mourn, in the Corsairs' Forest~2|Collect from Polythreme, in the Sea of Voices~3|Collect from Khan's Heart, in the Salt Steppes",
- "ChangeDescriptionText": "1|貴方は海賊の森にあるガイダーの嘆きから荷物を拾ってくる様に頼まれた。~2|貴方は声音海にあるポリスリームから荷物を拾ってくる様に頼まれた。~3|貴方は塩花の大草原にあるハンの心臓から荷物を拾ってくる様に頼まれた。@{M}$Khan -> カーン, Gaider's Mourn -> ゲイダーの嘆き, Salt Steppes -> ソルト・ステップ, Khan's Heart -> カーンの心臓, Sea of Voices -> 声の海, Polythreme -> ポリズリーム$1|You've been asked to collect a package from Gaider's Mourn, in the Corsairs' Forest~2|You've been asked to collect a package from Polythreme, in the Sea of Voices~3|You've been asked to collect a package from Khan's Heart, in the Salt Steppes",
- "Name": "目的: 明るい男の為に貨物を収集する@{M}Objective: Collecting Cargo for the Cheery Man",
- "Id": 110370}

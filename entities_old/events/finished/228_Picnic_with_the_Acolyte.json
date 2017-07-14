@@ -1,7 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "彼女はブランケットの上に座りグレイフィールズの瓶を横に置くと、自分がここで過ごす時は終わりに近づきつつあると思うとあなたに告げた。生ける者のための、あるいは少なくともまだ完全には死んでいない者達のための医術に戻る時が来たのだと言う。\u000d\u000a\u000d\u000aこれから先あなたがこの港に戻って来ることがあったとしても、その時には彼女はもうここにいないだろう。@{K}$Greyfields -> グレイフィールズ$Sitting on a blanket overlooking the choppy water, with a bottle of Greyfields at her side, she tells you she thinks her time here is coming to an end. That it's time to go back into medicine for the living, or at least the less-dead.\u000d\u000a\u000d\u000aIf you come to this port again, she won't be here.",
-                                     "Name": "転職@{K}Change of career", "Id": 151668},
-                    "Name": "彼女は近頃どうしているのだろう@{K}See how she's doing",
-                    "Description": "もし彼女が一度でも眼鏡を外したならば、その瞳が雄弁に思いを語ったのが見て取れただろう。@{K}Her eyes are expressive if she ever takes off those goggles.",
-                    "ButtonText": "", "Id": 129368}],
- "Description": "あなたは再び彼女を訪ねた。@{K}You see her one more time.",
- "Name": "侍祭とのピクニック@{K}Picnic with the Acolyte", "Id": 151667}

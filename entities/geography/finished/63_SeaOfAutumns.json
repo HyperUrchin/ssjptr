@@ -1,0 +1,11 @@
+{"Name": "SeaOfAutumns",
+ "Tiles": [{"Name": "SeaofAutumns",
+            "Description": "秋の海の霧は目の中へ、心の中へと入り込んでくる。ここでは、いつの間にか涙を流していることも稀ではない。@{I}$Sea of Autumn -> 秋の海$The mists of the Sea of Autumn get into the eyes, the heart. It is not unusual to find yourself in unsuspected tears.",
+            "LabelData": [{"Label": "リピエーイネン岬@{I}Lipiäinen Point",
+                           "Description": ""},
+                          {"Label": "ティゲラー湾@{I}Tiggelaar Bay", "Description": ""},
+                          {"Label": "マングローブ・カレッジ@{I}The Mangrove College",
+                           "Description": ""},
+                          {"Label": "オータム・アイランズ@{I}Autumn Islands", "Description": ""},
+                          {"Label": "スワロイング・アイルズ@{I}Swallowing Isles", "Description": ""},
+                          {"Label": "メルティング・アイルズ@{I}Melting Isles", "Description": ""}]}]}

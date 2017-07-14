@@ -1,0 +1,9 @@
+{"Name": "PillaredSea",
+ "Tiles": [{"Name": "PillaredSea",
+            "Description": "氷の背後からの奇妙な暖風。ここは柱の海。アイレムが生まれる場所。違う。もうある。昔からずっとそこにある。@{I}$Irem -> アイレム$Strange puffs of warmth from the air behind the ice. This is the Pillared Sea, where Irem will lie. Lies. Has always lain.",
+            "LabelData": [{"Label": "アイレム@{I}Irem", "Description": ""},
+                          {"Label": "カーライル・ヘイヴン@{I}Carlisle's Haven", "Description": ""},
+                          {"Label": "リュエグスエッガー海峡@{I}Ruegsegger Straits", "Description": ""},
+                          {"Label": "ストゥリケトン@{I}Stryketon", "Description": ""},
+                          {"Label": "ナブルスの岩礁@{I}Nablus Reef", "Description": ""},
+                          {"Label": "織り手の裂け目@{I}Weaver's Rift", "Description": ""}]}]}

@@ -1,0 +1,12 @@
+{"Name": "TombColonies",
+ "Tiles": [{"Name": "TombColonies",
+            "Description": "塵、残響。空気に混ざるセピア。ここらは墓人街近辺の海域だ。@{I}$Tomb-Colonies -> 墓人街$Dust, echoes: even a sepia tint to the air. These are the waters around the Tomb-Colonies.",
+            "LabelData": [{"Label": "ヴェンダーバイト@{I}Venderbight",
+                           "Description": ""},
+                          {"Label": "デイヴィス湾@{I}Davies Bay", "Description": ""},
+                          {"Label": "カリッサ岬@{I}Carissa's Point", "Description": ""},
+                          {"Label": "ホーネマンズ・スタグ@{I}Horneman's Stag", "Description": ""},
+                          {"Label": "ターナ・チョーク@{I}Tanah-Chook", "Description": ""},
+                          {"Label": "ピケット急崖@{I}Pickett's Bluff", "Description": ""},
+                          {"Label": "カントの深淵@{I}Cant's Abyss", "Description": ""},
+                          {"Label": "ハープ弾きの渡船場@{I}Harper's Ferry", "Description": ""}]}]}

@@ -1,0 +1,10 @@
+{"Name": "IronRepublic",
+ "Tiles": [{"Name": "IronRepublic",
+            "Description": "蒸気が海面からシューシューと音を立てて湧き上がった。時が横滑りしている。一巻きのロープが機関士の体に突き刺さり、彼の仲間たちがそれを死ぬほど叩きつけていた。我々はアイアン・リパブリックの影響下にある。@{I}$stoker -> 機関員, Iron Republic -> アイアン・リパブリック$Sizzling vapours rise from the sea. Time slips sideways. A coil of rope has stung a stoker, and his fellows beat it to death. We are under the hand of the Iron Republic.",
+            "LabelData": [{"Label": "アイアン・リパブリック@{I}The Iron Republic",
+                           "Description": ""},
+                          {"Label": "水銀海原@{I}The Mercurius Deep", "Description": ""},
+                          {"Label": "キュゲル急崖@{I}Cugel's Bluff", "Description": ""},
+                          {"Label": "アダムの破滅@{I}Adam's Doom", "Description": ""},
+                          {"Label": "ヴァン・ホーン・ハーバー@{I}Van Horn Harbour",
+                           "Description": ""}]}]}

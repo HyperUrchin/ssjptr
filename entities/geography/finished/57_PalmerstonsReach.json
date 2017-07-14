@@ -1,0 +1,9 @@
+{"Name": "PalmerstonsReach",
+ "Tiles": [{"Name": "PalmerstonsReach",
+            "Description": "パーマーストン・リーチ。風に硫黄が混じっている。@{I}$Palmerston's Reach -> パーマーストン・リーチ$Palmerston's Reach. There is brimstone on the wind.",
+            "LabelData": [{"Label": "ドゥガンの腹腔@{I}Duggan's Maw",
+                           "Description": ""},
+                          {"Label": "マウント・パーマーストン@{I}Mount Palmerston", "Description": ""},
+                          {"Label": "Anthe", "Description": ""},
+                          {"Label": "ポート・パーマーストン@{I}Port Palmerston", "Description": ""},
+                          {"Label": "アンブローズ岬@{I}Ambrose Point", "Description": ""}]}]}

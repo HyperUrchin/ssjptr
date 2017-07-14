@@ -1,0 +1,11 @@
+{"Name": "DawnsEdge",
+ "Tiles": [{"Name": "DawnsEdge",
+            "Description": "甲板に出ると、金属が鋭い火花を散らしていた。船のあちこちでオゾンの光が輝いている。ここがドーンズ・エッジだ。@{I}$Dawn's Edge -> ドーンズ・エッジ$Came on deck to find the metal sharp with sparks. Ozonal coronas haunt the ship. This is Dawn's Edge.",
+            "LabelData": [{"Label": "大晶洞@{I}Grand Geode", "Description": ""},
+                          {"Label": "ドーン・マシン@{I}The Dawn Machine", "Description": ""},
+                          {"Label": "ズィーロ・タウン@{I}Zelo's Town", "Description": ""},
+                          {"Label": "ルーンシュミー港@{I}Runeshmi Port", "Description": ""},
+                          {"Label": "コーカリー湾@{I}Corkery Bay", "Description": ""},
+                          {"Label": "バーンズモアの海隙@{I}The Barnsmore Gap", "Description": ""},
+                          {"Label": "クレア城@{I}Castle Clare", "Description": ""},
+                          {"Label": "ホッジャートン急崖@{I}Hodgerton's Bluff", "Description": ""}]}]}

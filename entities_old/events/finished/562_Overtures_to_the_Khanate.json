@@ -1,8 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "ロンドンがあなたの出発の地だが……今やこの場所があなたの家となった。一隻の船の船長から建国者になるとは、実に長い旅路だった。この旅の末に、あなたはどこへ行きつくのだろう？[おめでとうございます！あなたは隠された大望を成し遂げました。失礼しました、先ほどの発言を訂正いたします。あなたは隠された大望を成し遂げられたのです……陛下。]@{K}$Ambition -> 大望$London is where you began - but now, this is your home. From a ship's captain to a nation's founder is a long journey indeed. Who knows where the journey will take you? [Congratulations! You have completed a hidden Ambition. We do apologise. We meant to say: you have completed a hidden Ambition... your Majesty.]",
-                                     "Name": "建国者@{K}Founder of a nation", "Id": 189561},
-                    "Name": "レオパルドの敬意@{K}$Leopard -> レオパルド$Leopard's Respect",
-                    "Description": "にもかかわらず、彼女は交渉に入る前にあなたの前に跪くと、額を床につけた。この者は単なる君主の代理人に過ぎず、あなたは君主なのだ。これがあなたの王国だ。@{K}Nevertheless, she kneels, and touches her forehead to the floor, before she begins to talk business. She is only the representative of a monarch - and you are a monarch. This is your kingdom. ",
-                    "ButtonText": "", "Id": 151967}],
- "Description": "あなたはレオポルドの代表と書斎で面会した。彼女は華美な装いに身を包んでいる。その服に使われた絹があればあなたの船が買えるだろう。身に着けた宝石はあなたの島すらも買うことができるかもしれない。そして沿岸で待つカーンの戦艦は一時間も経たない内にあなたの屋敷を跡形もなく破壊できるものだ。@{K}$Khan -> カーン, Khanate -> カーネイト, Leopard -> レオパルド$The representative of the Leopard attends you in your study. She is resplendent. Her silks would purchase your ship: her jewels would probably purchase your island. The Khanate battleship that idles off your coast could level your mansion in an hour.",
- "Name": "カーネイトとの交渉@{K}$Khan -> カーン, Khanate -> カーネイト$Overtures to the Khanate",
- "Id": 189560}

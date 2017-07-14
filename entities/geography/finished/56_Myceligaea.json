@@ -1,0 +1,6 @@
+{"Name": "Myceligaea",
+ "Tiles": [{"Name": "genericEastOfChelonate",
+            "Description": "海が菌糸でべとつく。紫色をした植物の塊が水面を乱す。ミセリギーアだ！@{I}$Myceligaea -> ミセリギーア$The water is sluggish with hyphal threads. Violet vegetable bulks break the surface. Myceligaea!",
+            "LabelData": [{"Label": "アターシュルーム@{I}The Uttershroom",
+                           "Description": ""},
+                          {"Label": "ミッコー号の残骸@{I}Wreck of the Mikko", "Description": ""}]}]}

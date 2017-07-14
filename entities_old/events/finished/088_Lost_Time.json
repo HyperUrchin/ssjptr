@@ -1,9 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Id": 144259},
-                    "Name": "貴方の過去@{M}Your past", "Description": "", "ButtonText": "",
-                    "Id": 124667},
-                   {"DefaultEvent": {"Id": 144260}, "Name": "貴方の現在@{M}Your present",
-                    "Description": "", "ButtonText": "", "Id": 124668},
-                   {"DefaultEvent": {"Id": 144261}, "Name": "貴方の未来@{M}Your future",
-                    "Description": "", "ButtonText": "", "Id": 124669}],
- "Description": "渡すのだ、貴方の過去を、現在を、未来を。@{M}Give up your past, your present, and your future.",
- "Name": "失われた時@{M}Lost Time", "Id": 144258}

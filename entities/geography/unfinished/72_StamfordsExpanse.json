@@ -1,0 +1,13 @@
+{"Name": "StamfordsExpanse",
+ "Tiles": [{"Name": "StamfordsExpanse",
+            "Description": "頭上の偽星が、虎の眼のような獰猛な琥珀色に輝く。スタンフォード・エクスパンス。その名は、猫に我が子を奪われた者に因んでいる。@{I}$false-star -> 偽星, Stamford's Expanse -> スタンフォード・エクスパンス$The false-stars above are feral amber, like tigers' eyes. Stamford's Expanse, named for one who lost his child to cats.",
+            "LabelData": [{"Label": "アイル・オブ・キャッツ@{I}Isle of Cats",
+                           "Description": ""},
+                          {"Label": "薔薇の岩礁@{I}Reef of Roses", "Description": ""},
+                          {"Label": "ヴィシージ@{I}Visage", "Description": ""},
+                          {"Label": "悠久の栄え@{I}Flourishing - of - Years", "Description": ""},
+                          {"Label": "カパルカ小湾@{I}Kapalka Cove", "Description": ""},
+                          {"Label": "ポート・キャベンディッシュ@{I}Port Cavendish", "Description": ""},
+                          {"Label": "ピーターの岩礁@{I}Peter's Rocks", "Description": ""},
+                          {"Label": "アフェロックス海峡@{I}The Aferox Channel", "Description": ""},
+                          {"Label": "Rosegate", "Description": ""}]}]}

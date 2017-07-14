@@ -1,8 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "", "Name": "",
-                                     "Id": 143952},
-                    "Name": "いいえ@{M}No", "Description": "", "ButtonText": "",
-                    "Id": 124463},
-                   {"DefaultEvent": {"Id": 143953}, "Name": "はい@{M}Yes",
-                    "Description": "", "ButtonText": "", "Id": 124464}],
- "Description": "", "Name": "遺跡: 平穏@{M}Ruins: Tranquil",
- "Id": 143951}

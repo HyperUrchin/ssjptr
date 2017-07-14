@@ -1,0 +1,11 @@
+{"Name": "Frostfound",
+ "Tiles": [{"Name": "genericEastOfStormbones",
+            "Description": "氷結城。広大で寒々としている。問いと、答えと、謎かけに包囲された要塞。@{I}$Frostfound -> フロストファウンド$Frostfound, vast and chilly. A fortress sieged by questions, answers, and riddles.",
+            "LabelData": [{"Label": "シカモア・アーチ@{I}Sycamore Arch",
+                           "Description": ""},
+                          {"Label": "ストッドダルト・ヘイヴン@{I}Stoddard's Haven", "Description": ""},
+                          {"Label": "アクリス・アビス@{I}Achlys Abyss", "Description": ""},
+                          {"Label": "ダスーリーの猛威@{I}Dathooley's Rage", "Description": ""},
+                          {"Label": "氷結城@{I}Frostfound", "Description": ""},
+                          {"Label": "ブライト@{I}Brite", "Description": ""},
+                          {"Label": "テネブ@{I}Teneb", "Description": ""}]}]}

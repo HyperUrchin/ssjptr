@@ -1,8 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "ロンドンがあなたの出発の地だが……今やこの場所があなたの家となった。一隻の船の船長から建国者になるとは、実に長い旅路だった。この旅の末に、あなたはどこへ行きつくのだろう？[おめでとうございます！あなたは隠された大望を成し遂げました。失礼しました、先ほどの発言を訂正いたします。あなたは隠された大望を成し遂げられたのです……陛下。]@{K}$Ambition -> 大望$London is where you began - but now, this is your home. From a ship's captain to a nation's founder is a long journey indeed. Who knows where the journey will take you? [Congratulations! You have completed a hidden Ambition. We do apologise. We meant to say: you have completed a hidden Ambition... your Majesty.]",
-                                     "Name": "建国者@{K}Founder of a nation", "Id": 189564},
-                    "Name": "影の敬意@{K}Shadow's Respect",
-                    "Description": "無政府主義者が誰かに跪くことは無く、統治は彼らの敵である。にもかかわらず、この者はあなたに不承不承ながら軽く礼をしてみせた。あなたは強力な同盟者であり、彼らは嫌でも敬意を払うことだろう。これがあなたの王国だ。@{K}Anarchs do not kneel, and they are the enemies of rulership. Nevertheless, this one gives you a grudging nod. You are a powerful ally, and they must needs respect you. This is your kingdom. ",
-                    "ButtonText": "", "Id": 151969}],
- "Description": "あなたは書斎で無政府主義者たちの大使と面会した。彼は部屋の中を行ったり来たりしつつ派手な手袋で身振り手振りを交えて、自称専制君主と同盟を結ぶ論理的な根拠を数え上げた。いわく、あなたは比較的ましな邪悪であるとのことだ。彼らの大義に対して共感的であるところも見せている。しかしいずれは、可能性の話ではあるが、あなたがこの島をあなた自身の圧制から解放する日も来るかもしれない。あなたは彼の話が終わるのを待った。@{K}The anarch ambassador attends you in your study. He paces back and forth, gesturing with his glittering gloves, listing rationales for allying with a self-proclaimed monarch. You are the lesser evil. You have shown that you are sympathetic to their cause. One day, perhaps, you will free your island from your own tyranny. You wait for him to finish.",
- "Name": "カーンの影との協定@{K}$Khan -> カーン, Khan's Shadow -> カーンの影$A pact with Khan's Shadow",
- "Id": 189563}

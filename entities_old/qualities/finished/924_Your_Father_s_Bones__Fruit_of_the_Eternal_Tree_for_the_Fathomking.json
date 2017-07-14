@@ -1,4 +1,0 @@
-{"Description": "枯れることのない樹の果実を見つけよう。@{I}不死の樹の果実を見つけよ。@{M}Find the fruit of a tree which will not die.",
- "ChangeDescriptionText": "1|ファザムキングは永遠の樹の果実を要求した~0|あなたは永遠の樹の果実をもたらし、ファザムキングの要求を満たした@{I}0|貴方は水底帝の永久の樹の果実の要求を達成した。~1|水底帝は貴方に永久の樹の果実を要求した。@{M}$Fathomking -> ファザムキング$1|The Fathomking has requested the Fruit of an Eternal Tree~0|You have fulfilled the Fathomking's request for the Fruit of an Eternal Tree",
- "Name": "父の遺骨: ファザムキングに捧ぐ、永遠の樹の果実@{I}父親の遺骨: 水底帝へ贈る永久の樹の果実@{M}$Fruit of the Eternal Tree -> 永遠の樹の果実, Your Father's Bones: -> 父の遺骨:, Fathomking -> ファザムキング$Your Father's Bones: Fruit of the Eternal Tree for the Fathomking",
- "Id": 114892}

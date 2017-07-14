@@ -1,0 +1,7 @@
+{"Name": "SouthernWall",
+ "Tiles": [{"Name": "SouthernWall",
+            "Description": "南方の地平に、バターのような絢爛な輝き！鏡張りの都市、ヴァーチャスに近づいている。@{I}$Varchas -> ヴァーチャス$A buttery bloom of light on the southern horizon! You approach Varchas, the Mirrored City.",
+            "LabelData": [{"Label": "ヴァーチャス@{I}Varchas", "Description": ""},
+                          {"Label": "ポート・アーダンムズ@{I}Port Erdonmez", "Description": ""},
+                          {"Label": "ジャック・ア・ダンディ・スタック@{I}Jack - a - Dandy Stack",
+                           "Description": ""}]}]}

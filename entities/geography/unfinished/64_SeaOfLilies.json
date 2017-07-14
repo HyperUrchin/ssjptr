@@ -1,0 +1,9 @@
+{"Name": "SeaOfLilies",
+ "Tiles": [{"Name": "SeaofLilies",
+            "Description": "百合の海の菌類の浮葉に注意している。ここには監獄があり、ノット・オラクルたちに守られているのだ……@{I}$knot-oracle -> ノット・オラクル, Sea of Lilies -> 百合の海$We watch for fungal-pads in the Sea of Lilies. There is a prison here, guarded by knot-oracles...",
+            "LabelData": [{"Label": "百合の海@{I}Sea of Lilies",
+                           "Description": ""},
+                          {"Label": "Scrimshander", "Description": ""},
+                          {"Label": "ヌプミッド・ハーバー@{I}Nuppmiddt Harbour", "Description": ""},
+                          {"Label": "ピーターソンの裂け目@{I}Peterson's Rift", "Description": ""},
+                          {"Label": "ウィズダム@{I}Wisdom", "Description": ""}]}]}

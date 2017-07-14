@@ -1,0 +1,9 @@
+{"Name": "EmpireOfHands",
+ "Tiles": [{"Name": "EmpireofHands",
+            "Description": "我々はエンパイア・オブ・ハンズに近づいている。ペンテコステの猿どもに盗まれないよう、魂を強く抱き締めておかなくては。@{I}$Pentecost -> ペンテコステ, Empire of Hands -> エンパイア・オブ・ハンズ$We approach the Empire of Hands. Let us clasp our souls tight, lest the Pentecost Apes take them from us.",
+            "LabelData": [{"Label": "エンパイア・オブ・ハンズ@{I}Empire of Hands",
+                           "Description": ""},
+                          {"Label": "ポート・スタントン@{I}Port Stanton", "Description": ""},
+                          {"Label": "トネリコ地峡@{I}Ash Isthmus", "Description": ""},
+                          {"Label": "トーリー岬@{I}Torry Point", "Description": ""},
+                          {"Label": "オキーフス・ドリフト@{I}O'Keefe's Drift", "Description": ""}]}]}
