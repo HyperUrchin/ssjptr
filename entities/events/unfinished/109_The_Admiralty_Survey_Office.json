@@ -7,7 +7,7 @@
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 144833},
                                      "Name": "提出！@{I}提出された!@{M}Submitted!", "Id": 144835},
                     "Name": "ゲイダーの嘆き@{I}ガイダーの嘆き@{M}$Gaider's Mourn -> ゲイダーの嘆き$Gaider's Mourn",
-                    "Description": "「コルセアの狩場の海賊艦隊について我々に報告できることはあるか？」@{I}「森に棲まう海賊艦隊について何か報告する事が在ると?」@{M}\"You have something to tell us about the pirate fleets of the Forest?\"",
+                    "Description": "「コルセアズ・フォレストの海賊艦隊について我々に報告できることはあるか？」@{I}「森に棲まう海賊艦隊について何か報告する事が在ると?」@{M}\"You have something to tell us about the pirate fleets of the Forest?\"",
                     "ButtonText": "", "Id": 125032},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 144833},
                                      "Name": "提出！@{I}提出された!@{M}Submitted!", "Id": 149362},

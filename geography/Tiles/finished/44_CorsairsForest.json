@@ -1,6 +1,6 @@
 {"Name": "CorsairsForest",
  "Tiles": [{"Name": "CorsairsForest",
-            "Description": "遠くに石筍がぼんやりと姿を現した。まるでウルフスタック・ドックスのクレーンのようだが、それよりもずっと大きい。コルセアの狩場。見張り番は気を引き締めている。@{I}$Wolfstack -> ウルフスタック, Wolf -> ウルフ, Wolfstack Docks -> ウルフスタック・ドックス$Stalagmites loom in the distance like the cranes of Wolfstack Docks, but vaster, vaster. The Corsair's Forest. Our lookouts are watchful.",
+            "Description": "遠くに石筍がぼんやりと姿を現した。まるでウルフスタック・ドックスのクレーンのようだが、それよりもずっと大きい。コルセアズ・フォレスト。見張り番は気を引き締めている。@{I}$Wolfstack -> ウルフスタック, Wolf -> ウルフ, Wolfstack Docks -> ウルフスタック・ドックス$Stalagmites loom in the distance like the cranes of Wolfstack Docks, but vaster, vaster. The Corsair's Forest. Our lookouts are watchful.",
             "LabelData": [{"Label": "ゲイダーの嘆き@{I}Gaider's Mourn",
                            "Description": ""},
                           {"Label": "バーンバダス・ピラー@{I}Bournvadus Pillar", "Description": ""},
