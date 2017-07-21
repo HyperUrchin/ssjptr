@@ -39,7 +39,7 @@
                                      "Name": "ベースボーン＆フォーリングピース@{I}$Baseborn & Fowlingpiece -> ベースボーン＆フォーリングピース$Baseborn & Fowlingpiece",
                                      "Id": 155879},
                     "Name": "遺言を書く@{I}Write a Will",
-                    "Description": "　大法官府裁判所は、吠え猛るライオンのように自らの餌食を探し回っている。あなたが去った後、その触手があなたの持ち物に触れないようにしなければならない。[これは、仮にあなたが死んだとしても、後継者があなたの宿と、あなたが貯め込んだすべての家宝を引き継ぐことを保証します。]@{I}$Court of Chancery -> 大法官府裁判所, Heirloom -> 家宝$The Court of Chancery, as a roaring lion, walketh about seeking whom it may devour. Ensure it doesn't get its lion-tentacles on your property when you're gone. [Should you die, this will ensure that your heir retains your Lodgings, and any Heirlooms you've accumulated.]",
+                    "Description": "　大法官府裁判所は、吠え猛るライオンのように自らの餌食を探し回っている。あなたが去った後、その触手があなたの持ち物に触れないようにしなければならない。[これは、仮にあなたが死んだとしても、後継者があなたの宿とあなたが貯め込んだすべての家宝を引き継ぐことを保証します。]@{I}$Court of Chancery -> 大法官府裁判所, Heirloom -> 家宝$The Court of Chancery, as a roaring lion, walketh about seeking whom it may devour. Ensure it doesn't get its lion-tentacles on your property when you're gone. [Should you die, this will ensure that your heir retains your Lodgings, and any Heirlooms you've accumulated.]",
                     "ButtonText": "", "Id": 132093},
                    {"DefaultEvent": {"Description": "　たとえ売られてしまうにしても、少なくともまとめて売ってはくれるだろう。@{I}At least if they're sold, they'll be sold together.",
                                      "LinkToEvent": {"Id": 187191},
