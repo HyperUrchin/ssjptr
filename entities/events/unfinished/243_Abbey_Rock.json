@@ -90,4 +90,4 @@
                     "Description": "彼は少し不安げな様子だ。@{K}He seems a little apprehensive.",
                     "ButtonText": "", "Id": 187345}],
  "Description": "人の行きたがるどのような場所からも遠く離れた島。修道女会にとってはそのほうが好ましいのだ。その黒い岬に彼女たちの要塞兼修道院が建っている。あれに比べれば虎ばさみのほうがまだ友好的に見えるだろう。@{K}$Sisterhood -> 修道女会$A black spit of an island, far from anywhere anyone would want to go. And that's how the Sisterhood likes it. Here stands their fortress-convent. There are bear-traps that look friendlier than this.",
- "Name": "大修道院岩@{K}$Abbey Rock -> 大修道岩$Abbey Rock", "Id": 152316}
+ "Name": "大修道岩@{K}$Abbey Rock -> 大修道岩$Abbey Rock", "Id": 152316}
