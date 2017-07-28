@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "　イザリーはあなたの手から手稿をひったくると、ページをめくって読み始めた。「報酬は君の船に届けさせるよ」イザリーは顔を上げて、あなたに曖昧な微笑みを作った。その目は蜜狂いのように淀んでいた。「ああ、君はなんて素敵なんだ」<br/><br/>　あなたはお返しの笑みをどうにか捻り出すと、イザリーの注意が逸れている瞬間を見計らって、音もなくそこを後にした。@{I}$Isery -> イザリー$Isery snatches the notes from your hands, and starts flicking through the pages. \"I'll have a reward sent to your ship.\" They look up and smile at you vaguely, eyes glazed as a honey-seeker's. \"Oh, my dear, what a treasure you are.\"\u000d\u000a\u000d\u000a You summon an answering smile, and slip away the moment they are distracted.",
+                                     "Name": "", "Id": 168567},
+                    "Name": "見事に獲得された報酬@{I}A well-earned reward",
+                    "Description": "　あなたは不安を催させる学者の手稿を手渡した。@{I}$Alarming Scholar -> 不安を催させる学者$You hand over the Alarming Scholar's notes. ",
+                    "ButtonText": "", "Id": 139077}],
+ "Description": "「私を待たせないでほしいな！」イザリーは愛嬌のある口調で不満を述べ、着ている絹服を揺すった。「私のための贈り物は持っているかい？」@{I}$Isery -> イザリー$\"Don't keep me waiting!\" Isery pouts prettily, and rustles their silks. \"Do you have a little present for me?\"",
+ "Name": "密輸人の報酬@{I}A Smuggler's Reward", "Id": 168566}
