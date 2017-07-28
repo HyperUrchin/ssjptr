@@ -12,7 +12,7 @@
                                      "Name": "海岸の兵士@{I}Men on the shore", "Id": 230501},
                     "Name": "避難民をシェファード・アイルズまで密航させる@{I}$Shepherd Isles -> シェファード・アイルズ$Smuggle refugees to the Shepherd Isles",
                     "Description": "　あなたの船が島の洞窟のそばを通りかかると、泥だらけの島民たちが中から姿を現した。彼らは飛び跳ね、ぼろ布を振った。@{I}As your vessel passes, muddy islanders emerge from one of the island's coves. They leap and wave rags.",
-                    "ButtonText": "Lead a rescue attempt", "Id": 177537},
+                    "ButtonText": "救出を指揮する@{I}Lead a rescue attempt", "Id": 177537},
                    {"SuccessEvent": {"Description": "　あなたは崖を登り切ると、ぬかるみの中にかがみ込んだ。小型の望遠鏡を通して、あなたは兵士たちの動きを観察した。派遣された兵士の一団が、ぼろを着た島民たちを引き連れて、雄鶏とカササギ亭の黒焦げになった残骸のところへ向かっていた。中では、羽毛の肩飾りをつけた女がテーブルに座っていた。女は海図を見るときは笑みを浮かべていたが、レオパルド一門の判が捺された令状を見ると顔をしかめた。中まで連行されてきた島民たちは彼女の前に膝をついた。彼女に話しかけるとき、彼らの誇り高い顔は引きつった。@{I}$Cock and Magpie -> 雄鳥とカササギ亭, Leopard -> レオパルド$You scale the cliff, and crouch in the mud. Through a spyglass, you observe the soldiers' movements. A contingent approaches the charred remains of the Cock and Magpie, escorting ragged islanders. A woman in feathered epaulettes sits at a table within, smiling at zee-charts and scowling at decrees stamped by the Leopard clan. Once inside, the islanders fall to their knees before her. Their proud faces strain as they address her.",
                                      "LinkToEvent": {"Id": 230499},
                                      "Name": "敵の動き@{I}Enemy movements", "Id": 230504},
