@@ -75,7 +75,7 @@
                     "Name": "Is the Crotchety Tobacconist well?",
                     "Description": "He isn't smoking.", "ButtonText": "",
                     "Id": 181531},
-                   {"DefaultEvent": {"Description": "$Drown(y|ies) -> ドロウニー$The Drownies tempted her with a false cigar, she says: but here is the source of the real thing, and there's no comparison at all. She walks the aisles, as enthralled as anyone might be in the sway of Dahut.\u000d\u000a\u000d\u000aShe can't reward you, she says. But perhaps the Composer in Wrack who arranged her freedom will be glad to know she was set free.",
+                   {"DefaultEvent": {"Description": "$Drown(y|ies) -> ドラウニー$The Drownies tempted her with a false cigar, she says: but here is the source of the real thing, and there's no comparison at all. She walks the aisles, as enthralled as anyone might be in the sway of Dahut.\u000d\u000a\u000d\u000aShe can't reward you, she says. But perhaps the Composer in Wrack who arranged her freedom will be glad to know she was set free.",
                                      "LinkToEvent": {"Id": 223620}, "Name": "Shopping again",
                                      "Id": 238436},
                     "Name": "Set down your traveller from Dahut",

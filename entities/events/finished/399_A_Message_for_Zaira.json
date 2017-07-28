@@ -4,4 +4,5 @@
                     "Description": "「ウニ？またなの？浴槽の準備をするよう、修道女たちに言っておくわ」@{I}\"Urchins? Again? I'll tell the Sisters to prepare the baths.\"",
                     "ButtonText": "", "Id": 139651}],
  "Description": "「貿易商の様子はどうだった？彼、まだラバリー・マンだったの？違うの？本当に？」檻の婦人は自らの顎を撫でた。「それはまた後で起こることかもしれないわね。書きつけておかないと」@{I}$Rubbery M[ae]n -> ラバリーマン, Lady of the Cages -> 檻の婦人$\"How is the Venturer? Still a Rubbery Man? He isn't? Are you quite sure?\" The Lady of the Cages rubs her cheek. \"Maybe that part comes later. I shall have to make a note.\"",
- "Name": "ザイラへの言伝@{I}$Zaira -> ザイラ$A Message for Zaira", "Id": 169510}
+ "Name": "ザイラへの言伝@{I}$Zaira -> ザイラ$A Message for Zaira",
+ "Id": 169510}

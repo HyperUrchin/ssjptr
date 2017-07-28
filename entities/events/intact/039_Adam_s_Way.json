@@ -90,7 +90,7 @@
                     "Name": "Sit beneath the Tree of a Single Day until the day's end",
                     "Description": "Its limbs are bare. The square rattles with dead leaves.",
                     "ButtonText": "", "Id": 147116},
-                   {"DefaultEvent": {"Description": "$Snuffer -> スナッファー, Shepherd Isles -> シェファード・アイルズ, Presbyter -> プレズビター$An old storyteller is describing the red, running feasts of the Replete as you approach. He stammers into silence. You sit, and wait until another storyteller resumes the tales.\u000d\u000a\u000d\u000aLondon's Dilmun Club has appealed to the Presbyter for permission to approach the Mountain. Years ago, a director of the Mithridate Office resigned from his position and retired to the Shepherd Isles. Someone has been promising Snuffers forgiveness in exchange for service.",
+                   {"DefaultEvent": {"Description": "$Snuffer -> スナッファー, Shepherd Isles -> シェパード・アイルズ, Presbyter -> プレズビター$An old storyteller is describing the red, running feasts of the Replete as you approach. He stammers into silence. You sit, and wait until another storyteller resumes the tales.\u000d\u000a\u000d\u000aLondon's Dilmun Club has appealed to the Presbyter for permission to approach the Mountain. Years ago, a director of the Mithridate Office resigned from his position and retired to the Shepherd Isles. Someone has been promising Snuffers forgiveness in exchange for service.",
                                      "LinkToEvent": {"Id": 143316}, "Name": "Tales", "Id": 181704},
                     "Name": "Listen to a storyteller",
                     "Description": "Climb the hill to the bee-crested columns. Sit in their long shadows, and listen to the storytellers.",

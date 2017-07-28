@@ -4,7 +4,7 @@
                     "Name": "Greet Batuk",
                     "Description": "You recognise him from Mariam's statues. The same enviable chin. The same heavyset shoulders. The same scowl. ",
                     "ButtonText": "", "Id": 194291},
-                   {"DefaultEvent": {"Description": "$Drown(y|ies) -> ドロウニー$Tales of Dahut and Anthe and Aigul. Of Drownies and lorn-flukes and Salt.",
+                   {"DefaultEvent": {"Description": "$Drown(y|ies) -> ドラウニー$Tales of Dahut and Anthe and Aigul. Of Drownies and lorn-flukes and Salt.",
                                      "LinkToEvent": {"Id": 260523}, "Name": "", "Id": 260526},
                     "RareDefaultEvent": {"Description": "$Khan -> カーン, Khanate -> カーネイト$\"...the lorn-flukes never used to be like this. Oh, they were spiteful and unpredictable. But they never had <i>ambition</i>. Not before the London and the Khanate taught them it...\"",
                                          "LinkToEvent": {"Id": 260523}, "Name": "", "Id": 260530},

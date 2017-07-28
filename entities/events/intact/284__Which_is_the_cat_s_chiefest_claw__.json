@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "$Isery -> イザリー$Isery's servants carry the box back to the Honeyed Tongue. The payment was generous, and Isery is not. Was this a gamble on their part, or have you missed an opportunity?",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Honeyed Tongue -> ハニード・タング, Isery -> イザリー$Isery's servants carry the box back to the Honeyed Tongue. The payment was generous, and Isery is not. Was this a gamble on their part, or have you missed an opportunity?",
                                      "Name": "A substantial payment", "Id": 153579},
                     "Name": "Sell them the box",
                     "Description": "\"Yes, I think I know who this box belongs to. I will pay you five hundred Echoes for it, no questions asked.\"",

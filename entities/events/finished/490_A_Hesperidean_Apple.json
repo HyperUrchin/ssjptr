@@ -4,4 +4,5 @@
                     "Description": "バザールの支配者たちはこの物を発酵させ不死の霊薬へと変える術を知っている。生の果実にはそこまでの効力はないが、それでもあなたをこの上なく元気にしてくれるだろう。[この選択肢はすべての傷を癒し、恐怖値を大幅に下げます。]@{K}The Masters of the Bazaar know how to ferment these into an elixir of immortality. A raw apple won't be quite as potent, but it will still perk you up no end. [This will cure all Wounds, and substantially reduce Terror.]",
                     "ButtonText": "", "Id": 144311}],
  "Description": "この果物は光輝の山の内部に存在するかの庭には豊かに実っているという。しかしその外では、これは本物の黄金よりも貴重だ。あなたは幸運だ。@{K}$Mountain of Light -> 光輝の山$These grow freely in the Garden beneath the Mountain of Light. Out here, they're rarer than actual gold. You lucky dog.",
- "Name": "へスペリデスの林檎@{K}A Hesperidean Apple", "Id": 177069}
+ "Name": "へスペリデスの林檎@{K}$Hesperidean Apple -> ヘスペリデスの林檎$A Hesperidean Apple",
+ "Id": 177069}

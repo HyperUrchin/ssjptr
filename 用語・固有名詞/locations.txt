@@ -162,7 +162,7 @@ Forlorn, フォーローン
 Commingle, カミングル
 Aeschaven, アイスチャヴン
 Feathered Sea, 羽毛の海
-Shepherd's Wash, シェファーズ・ウォッシュ
+Shepherd's Wash, シェパーズ・ウォッシュ
 Flitterstone Isle, フリッターストーン・アイル
 Thornwell Croft, ソーンウェル農場
 Westergren's Fire, ウェスターグレンの火
@@ -172,7 +172,7 @@ Depot (A), 補給処(A)
 Sisterhood, 修道女会
 Station III, 第三基地
 Abbey Rock, 大修道岩
-Shepherd Isles, シェファード・アイルズ
+Shepherd Isles, シェパード・アイルズ
 Bugsby's Marshes, バグスビーの沼地
 Fallen London, フォールン・ロンドン
 Wolfstack Docks, ウルフスタック・ドックス

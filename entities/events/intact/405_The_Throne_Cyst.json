@@ -75,7 +75,7 @@
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 263390},
                                      "Name": "", "Id": 263389},
                     "Name": "$Fathomking -> ファザムキング$Deliver the Cargo of Answers to the Fathomking",
-                    "Description": "$Drown(y|ies) -> ドロウニー, Chelonate -> キェロネイト$The Drownies of Scrimshander asked you to deliver evidence that the Chelonate's history is not all it's made out to be. ",
+                    "Description": "$Drown(y|ies) -> ドラウニー, Chelonate -> キェロネイト$The Drownies of Scrimshander asked you to deliver evidence that the Chelonate's history is not all it's made out to be. ",
                     "ButtonText": "", "Id": 196207}],
  "Description": "$Fathomking -> ファザムキング$This is the salt-blown heart of the Hold. The Fathomking floats in his throne: a gem-starred bowl of sea-stone, the size of a banqueting table. He's wearing a dressing gown of purple brocade, soaked dark with salt water. He leans his chin calmly on his hand. Beneath the surface of the water in his throne, his hidden regions pulse, constantly, insistently.",
  "Name": "The Throne-Cyst", "Id": 169643}

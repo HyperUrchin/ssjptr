@@ -1,4 +1,5 @@
-{"Name": "ウィザー@{K}Whither", "Description": "謎の生まれる場所？@{K}Where are questions born?",
+{"Name": "ウィザー@{K}$Whither -> ウィザー$Whither",
+ "Description": "謎の生まれる場所？@{K}Where are questions born?",
  "Shops": [{"Name": "幸運と財宝@{K}Fortune & Fortune",
             "Description": "白い石炭から作られた燃料と黙らせ塩を扱う卸商。お代は物語で。@{K}Purveyors of white coke and mutersalt. Payment in stories.",
             "Id": 37},

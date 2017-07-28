@@ -46,7 +46,7 @@
                     "Name": "$[Bb]lemmigan -> ブレミガン$Drop off a Blemmigan",
                     "Description": "Why wouldn't an underwater church want an unpredictable fungal carnivore among its congregation?",
                     "ButtonText": "", "Id": 187304},
-                   {"DefaultEvent": {"Description": "$Shepherd Isles -> シェファード・アイルズ$He looks back at the bell tower door and sighs. \"Your description was vivid, of course. But I would have liked to see for myself. Mystery is the very essence of a successful belief system. Still. Onwards. I hear that the Shepherd Isles is another place for storytelling. If you're going that way?\"",
+                   {"DefaultEvent": {"Description": "$Shepherd Isles -> シェパード・アイルズ$He looks back at the bell tower door and sighs. \"Your description was vivid, of course. But I would have liked to see for myself. Mystery is the very essence of a successful belief system. Still. Onwards. I hear that the Shepherd Isles is another place for storytelling. If you're going that way?\"",
                                      "Name": "A change of scenery", "Id": 245470},
                     "RareDefaultEvent": {"Description": "$Abbey Rock -> 大修道岩$He looks back at the bell tower door and sighs. \"Your description was vivid, of course. But I would have liked to see for myself. Mystery is the very essence of a successful belief system. Still. Onwards. I hear that the Sisters of Abbey Rock practice a very disciplined faith. If you're going that way?\"",
                                          "Name": "A change of scenery", "Id": 245471},

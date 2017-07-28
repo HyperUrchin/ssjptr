@@ -1,6 +1,6 @@
 {"Name": "PromisedSea",
  "Tiles": [{"Name": "PromisedSea",
-            "Description": "約束の海。ドロウニーたちの震えるほど甘い歌声が、風に乗ってこの海域全体に響き渡っている。@{I}$Drown(y|ies) -> ドロウニー, Promised Sea -> 約束の海$The Promised Sea. All through this place, the song of the Drownies lies shivering-sweet along the wind.",
+            "Description": "約束の海。ドラウニーたちの震えるほど甘い歌声が、風に乗ってこの海域全体に響き渡っている。@{I}$Drown(y|ies) -> ドロウニー, Promised Sea -> 約束の海$The Promised Sea. All through this place, the song of the Drownies lies shivering-sweet along the wind.",
             "LabelData": [{"Label": "ファザムキングの砦@{I}Fathomking's Hold",
                            "Description": ""},
                           {"Label": "Aigul", "Description": ""},

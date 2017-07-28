@@ -21,7 +21,7 @@
                    {"DefaultEvent": {"Description": "「キェロネイトか。彼らは狩人だ。ロンドンほどもある亀を殺しその甲羅の上に街を作った。夜半鯨を追う船があそこから来たことがある。その中の三人が臆病な真似をして死に、海にその死体を沈めることができなかった。彼らは俺たちから鯨の骨を対価として土地を買ったんだ。俺はまだその欠片を持ってるよ、安全なところに仕舞ってあるがな」@{K}$Chelonate -> キェロネイト$\"The Chelonate, right - they're hunters. They killed a turtle the size of London and built their city in its shell. A ship from the Chelonate came by, hunting the Midnight Whale. Three of them had died cowards, so their bodies couldn't go into the zee. They paid us for the land, in whale-ivory. I still got a piece, but I keeps it safe.\"",
                                      "Name": "「安息の内にある狩人たち……」@{K}\"Hunters at rest...\"",
                                      "Id": 152319},
-                    "RareDefaultEvent": {"Description": "「ドロウニーのことは知ってるか？安息に休むことのない水夫たちのことを？そう、奴らはあそこで休んでるのさ。俺はあいつらが蒼白になって水を滴らせながら海から這い上がり、地面を掘って其処に埋まるのを見た。交代で埋まるんだ。大地の感触が懐かしいんだろうよ」@{K}$Drown(y|ies) -> ドロウニー$\"You know the Drownies? The zailors what won't rest? Well, they rest here. I seen 'em come up out of the water all white and dripping, and dig themselves into the ground. They take turns. I think they miss the feel of the earth.\"",
+                    "RareDefaultEvent": {"Description": "「ドラウニーのことは知ってるか？安息に休むことのない水夫たちのことを？そう、奴らはあそこで休んでるのさ。俺はあいつらが蒼白になって水を滴らせながら海から這い上がり、地面を掘って其処に埋まるのを見た。交代で埋まるんだ。大地の感触が懐かしいんだろうよ」@{K}$Drown(y|ies) -> ドラウニー$\"You know the Drownies? The zailors what won't rest? Well, they rest here. I seen 'em come up out of the water all white and dripping, and dig themselves into the ground. They take turns. I think they miss the feel of the earth.\"",
                                          "LinkToEvent": {"Id": 152313},
                                          "Name": "「海の底より……」@{K}\"Up from the zee bed...\"",
                                          "Id": 152456},
@@ -78,6 +78,6 @@
                     "Name": "放浪の牧師を送り届ける@{K}Deliver a Wandering Parson",
                     "Description": "あなたが近づくのを見て岸には小さな信徒の集まりができていた。牧師は喜んでいる。@{K}Seeing your approach, a small committee has assembled on the shore. The Parson is delighted.",
                     "ButtonText": "", "Id": 187346}],
- "Description": "「もちろん、シェパードアイルズに本物の羊飼い（シェパード）はいない。羊はここらでは大体禁じられてるからな。いや本当に、単にこの島を見つけた人の名前なんだ」髭の見張りがあなたに教えてくれた。\u000d\u000a\u000d\u000a村に座る白いものの混ざった髭の男たちが一様に厳格な顔で頷く。その内の一人が口を開いた。「羊はいないが、物語はたくさんある。何でも聞くといい」@{K}$Shepherd Isles -> シェファード・アイルズ$\"Course,\" the Bearded Watchman tells you, \"there are no actual shepherds on the Shepherd Isles. Sheep are mostly illegal here. No indeed, it's just the name of the genterman that found the islands.\"\u000d\u000a\u000d\u000aGreybeards sitting in the village square nod solemnly. \"No sheep,\" one says. \"But plenty o' tales. Ask us anything.\"",
- "Name": "シェパード・アイルズ@{K}$Shepherd Isles -> シェファード・アイルズ$Shepherd Isles",
+ "Description": "「もちろん、シェパードアイルズに本物の羊飼い（シェパード）はいない。羊はここらでは大体禁じられてるからな。いや本当に、単にこの島を見つけた人の名前なんだ」髭の見張りがあなたに教えてくれた。\u000d\u000a\u000d\u000a村に座る白いものの混ざった髭の男たちが一様に厳格な顔で頷く。その内の一人が口を開いた。「羊はいないが、物語はたくさんある。何でも聞くといい」@{K}$Shepherd Isles -> シェパード・アイルズ$\"Course,\" the Bearded Watchman tells you, \"there are no actual shepherds on the Shepherd Isles. Sheep are mostly illegal here. No indeed, it's just the name of the genterman that found the islands.\"\u000d\u000a\u000d\u000aGreybeards sitting in the village square nod solemnly. \"No sheep,\" one says. \"But plenty o' tales. Ask us anything.\"",
+ "Name": "シェパード・アイルズ@{K}$Shepherd Isles -> シェパード・アイルズ$Shepherd Isles",
  "Id": 152313}

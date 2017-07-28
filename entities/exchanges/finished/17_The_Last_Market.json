@@ -4,8 +4,9 @@
             "Description": "この者は眠りの先にある川で宝を見つけるだろう。相応しい交唱歌を用意しよう。@{K}This one will find treasures in a river beyond sleep. Bring a suitable antiphon.",
             "Id": 45},
            {"Name": "敷居@{K}Threshold",
-            "Description": "アイレムより東に漕ぎ出すものはいない。ここはアイレムから東へ漕ぎ出す者たちのための店だ。@{K}None sail East from Irem. This shop is for those who sail East from Irem.",
+            "Description": "アイレムより東に漕ぎ出すものはいない。ここはアイレムから東へ漕ぎ出す者たちのための店だ。@{K}$Irem -> アイレム$None sail East from Irem. This shop is for those who sail East from Irem.",
             "Id": 46},
            {"Name": "『風来たり』@{K}Wind-Come-Calling",
-            "Description": "物語と物語と物語。@{K}Tales and tales and tales.", "Id": 47}],
+            "Description": "物語と物語と物語。@{K}Tales and tales and tales.",
+            "Id": 47}],
  "Id": 21}

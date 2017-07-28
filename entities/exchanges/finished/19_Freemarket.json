@@ -1,7 +1,9 @@
 {"Name": "自由市場@{K}Freemarket",
- "Description": "カーネイトの法に縛られない交易がおこなわれている。@{K}Trade unfettered by the Khanate's law.",
+ "Description": "カーネイトの法に縛られない交易がおこなわれている。@{K}$Khan -> カーン, Khanate -> カーネイト$Trade unfettered by the Khanate's law.",
  "Shops": [{"Name": "惜しまれる死者@{K}Dearly Departed",
-            "Description": "残されたものを買うといい。@{K}Purchase what remains.", "Id": 42},
+            "Description": "残されたものを買うといい。@{K}Purchase what remains.",
+            "Id": 42},
            {"Name": "旅人の友@{K}Traveller's Friend",
-            "Description": "燃料、物資、そして摩訶不思議な品々。@{K}Fuel, supplies, and wonders.", "Id": 48}],
+            "Description": "燃料、物資、そして摩訶不思議な品々。@{K}Fuel, supplies, and wonders.",
+            "Id": 48}],
  "Id": 18}

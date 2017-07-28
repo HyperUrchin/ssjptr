@@ -20,5 +20,5 @@
                     "Description": "「私はもう十分お腹が一杯です。有難う!私少食ですし。ですが、私が閃いたアイデアを聞いて頂けますか。後部甲板で八の鐘がなった時にお会い出来ますか?」@{M}\"I've had enough to eat, thank you!! I don't eat much. But I'd like to demonstrate some ideas I've had. Can you meet me on the afterdeck at eight bells?\"",
                     "ButtonText": "", "Id": 127637}],
  "Description": "「こんにちわ!何かご用ですか?リストなら此処に!!」@{M}\"Hello!! What can I do for you? I have lists!!\"",
- "Name": "堪え性のない砲撃手と話をする@{M}Speak with the Irrepressible Cannoneer",
+ "Name": "堪え性のない砲撃手と話をする@{M}$Irrepressible Cannoneer -> 堪え性のない砲撃手$Speak with the Irrepressible Cannoneer",
  "Id": 148802}

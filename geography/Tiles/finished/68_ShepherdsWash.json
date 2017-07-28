@@ -1,6 +1,6 @@
 {"Name": "ShepherdsWash",
  "Tiles": [{"Name": "ShepherdWash",
-            "Description": "シェファーズ・ウォッシュ。潮風の匂いのする、ロンドンの片田舎。隠修士と尼僧と、後ろ暗い取引のふるさと。@{I}$Shepherd's Wash -> シェファーズ・ウォッシュ$Shepherd's Wash, the salty hinterland of London, home to hermits, nuns and shadowy business.",
+            "Description": "シェパーズ・ウォッシュ。潮風の匂いのする、ロンドンの片田舎。隠修士と尼僧と、後ろ暗い取引のふるさと。@{I}$Shepherd's Wash -> シェファーズ・ウォッシュ$Shepherd's Wash, the salty hinterland of London, home to hermits, nuns and shadowy business.",
             "LabelData": [{"Label": "フリッターストーン・アイル@{I}Flitterstone Isle",
                            "Description": ""},
                           {"Label": "ソーンウェル農場@{I}Thornwell Croft", "Description": ""},
@@ -11,4 +11,4 @@
                           {"Label": "修道女会@{I}The Sisterhood", "Description": ""},
                           {"Label": "第三基地@{I}Station III", "Description": ""},
                           {"Label": "大修道岩@{I}Abbey Rock", "Description": ""},
-                          {"Label": "シェファード・アイルズ@{I}Shepherd Isles", "Description": ""}]}]}
+                          {"Label": "シェパード・アイルズ@{I}Shepherd Isles", "Description": ""}]}]}

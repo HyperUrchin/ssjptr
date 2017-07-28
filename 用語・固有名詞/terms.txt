@@ -51,7 +51,7 @@ Nom[ae]n, ノーマン
 Great Signs, グレート・サイン
 Sundered Sea, 分かたれた海
 Sacks and Snow:, 袋と雪:
-Drown(y|ies), ドロウニー
+Drown(y|ies), ドラウニー
 Leadbeater & Stainrod, リードビーター&ステインロッド
 Cotterell & Hathersage, コットレル&ハザーセージ
 exile's rose, 流浪者のバラ

@@ -20,7 +20,7 @@
                    {"DefaultEvent": {"Description": "「納骨堂に入れられていたら、どれだけもったいないことになっていたでしょう！」彼女(彼？)は袖口で頭蓋骨を磨いた。「これにはむしろツル性のイバラの方が相応しいと、私はそう思いますね。黄色いバラなんて良いかもしれません。本当にありがとうございます。これは私とあなただけの秘密にしておいてくださいね」@{I}「恐らくこれは骨壷の中でひどく無駄に扱われて来たのでしょう!」彼女(彼?)は服の袖で頭蓋骨を磨いている。「これに適したものはいばらをよじ登った先にあります。恐らく、黄色い薔薇です。感謝いたします。この事は私達の間だけに留めておきましょう。」@{M}\"This would be so terribly wasted in an ossuary!\" She (he?) buffs the cranium with a sleeve. \"I think a climbing briar-rose will suit this one rather well. A yellow rose, perhaps. Thank you so much. Let's keep this between ourselves.\"",
                                      "LinkToEvent": {"Id": 141886},
                                      "Name": "晴れやかな笑み@{I}光り輝く笑顔@{M}A beaming smile", "Id": 144826},
-                    "Name": "嘆かわしい遺品@{I}嘆かわしい遺骨@{M}$Lamentable Relic -> 嘆かわしい遺物$A Lamentable Relic",
+                    "Name": "嘆かわしい遺品@{I}嘆かわしい遺骨@{M}$[Ll]amentable [Rr]elic -> 嘆かわしい遺物$A Lamentable Relic",
                     "Description": "　必ずしも科学的な興味を引くものではない。しかし、この学者はそのコレクションか何かを持っている。@{I}学術的興味を持った訳では無さそうだが、学者には収集品か何かがあるようだ。@{M}Not a scientific curiosity, necessarily, but the Scholar has a collection. Or something.",
                     "ButtonText": "", "Id": 125026},
                    {"DefaultEvent": {"Description": "「これは自然の手によるものですね。人工的なものではなく。それでも興味深いですけどね！そのための専用の棚もありますし！しかし今度は、作られたものを持ってきてはもらえませんか。『発達』したものではなく」@{I}「これは自然に作られた物ですね。決して人工では有りません。面白い、何にせよ興味深い!これを置く棚なら有ります!しかし、次は - <i>進化した</i>物ではなく、何か人の手が加わっている物をお願いします。」@{M}\"This is the product of Nature, not artifice. Interesting, nevertheless! I have the very shelf for it! But if you could bring me something worked, not <i>evolved</i>, next time -\"",
