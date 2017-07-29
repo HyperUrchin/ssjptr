@@ -1,8 +1,8 @@
-{"Name": "パーマーストン@Palmerston",
- "Shops": [{"Name": "$Malebolge Excavations -> マーレヴォルジェの発掘品$マーレヴォルジェの発掘品@Malebolge Excavations",
-            "Description": "採掘品に略奪品に学術品だ！zzoupもあるぞ。@Diggery, lootery and scholary! Also, zzoup.",
+{"Name": "パーマーストン@{I}Palmerston",
+ "Shops": [{"Name": "マーレヴォルジェの発掘品@{I}$Malebolge Excavations -> マーレヴォルジェの発掘品$Malebolge Excavations",
+            "Description": "採掘品に略奪品に学術品だ！zzoupもあるぞ。@{I}Diggery, lootery and scholary! Also, zzoup.",
             "Id": 27},
-           {"Name": "$Daily Bread -> 毎日の食事$毎日の食事@Daily Bread",
-            "Description": "食料はパーマーストンの有害な汚染物質により毒されている。@Palmerston's pernicious pollution poisons provisions.",
+           {"Name": "毎日の食事@{I}$Daily Bread -> 毎日の食事$Daily Bread",
+            "Description": "食料はパーマーストンの有害な汚染物質により毒されている。@{I}Palmerston's pernicious pollution poisons provisions.",
             "Id": 39}],
  "Id": 12}
