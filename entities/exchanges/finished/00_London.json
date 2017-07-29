@@ -9,7 +9,7 @@
            {"Name": "カロウズ・ネイヴァル・サープラス@{I}$Carrow's Naval Surplus -> カロウズ・ネイヴァル・サープラス, Carrow -> カロウ$Carrow's Naval Surplus",
             "Description": "カロウ氏は、今では悲しいほどに落ちぶれた海軍の、かつての装備品の処分先を見つけたのだった。@{I}$Royal Navy -> 王立海軍, Carrow -> カロウ$Mr Carrow has found a use for the equipment once sold to the sadly reduced Royal Navy. ",
             "Id": 16},
-           {"Name": "$Caminus Yards -> カミナス造船所$カミナス造船所@{I}Caminus Yards",
+           {"Name": "カミナス造船所@{I}$Caminus Yards -> カミナス造船所$Caminus Yards",
             "Description": "危険で陽気なミスター・ファイアは、最高に威圧的で、ほとんどテストされていない装置を製造している。@{I}$Mr Fires -> ミスター・ファイア$The dangerously jovial Mr Fires manufactures the most intimidating, least carefully tested devices.",
             "Id": 33},
            {"Name": "ミセス・プレンティの食料雑貨店@{I}$Mrs Plenty's (Shipside )?Provisioners -> ミセス・プレンティの食料雑貨店, Mrs Plenty -> ミセス・プレンティ$Mrs Plenty's Shipside Provisioners",
