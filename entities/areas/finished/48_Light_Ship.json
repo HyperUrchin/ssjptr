@@ -1,4 +1,4 @@
-{"Name": "灯台船@{I}Light-Ship",
+{"Name": "灯台船@{I}$Light-Ship -> 灯台船$Light-Ship",
  "Description": "　故郷からずっと遠く。@{I}Far from home.",
  "MoveMessage": "あなたは新しい領域に入り込んだ@{I}You have moved to a new area",
  "Id": 102849}

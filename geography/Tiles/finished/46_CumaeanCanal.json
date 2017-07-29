@@ -1,8 +1,11 @@
 {"Name": "CumaeanCanal",
  "Tiles": [{"Name": "CumaeanCanal",
-            "Description": "辺りには小型の船舶が群がっている。船員たちは感傷的になり、かつて太陽に照らされていた頃の海の物語を語り合った。我々はクーマエ運河、地上への通り道へと近づいている。@{I}$Surface -> 地上, Cumaean Canal -> クーマエの導管$Little ships throng the waters here. The crew grow wistful: they swap old stories of sunlit sea. We draw near to the Cumaean Canal, the way to the Surface.",
-            "LabelData": [{"Label": "ジャンノッティ・ハーバー@{I}Giannotti Harbour",
+            "Description": "辺りには小型の船舶が群がっている。船員たちは感傷的になり、かつて太陽に照らされていた頃の海の物語を語り合った。我々はクーマエ運河、地上への通り道へと近づいている。@{I}$Surface -> 地上, Cumaean Canal -> クーマエ運河$Little ships throng the waters here. The crew grow wistful: they swap old stories of sunlit sea. We draw near to the Cumaean Canal, the way to the Surface.",
+            "LabelData": [{"Label": "ジャンノッティ・ハーバー@{I}$Giannotti Harbour -> ジャンノッティ・ハーバー$Giannotti Harbour",
                            "Description": ""},
-                          {"Label": "アルベルティーン・ゲート@{I}Albertine Gates", "Description": ""},
-                          {"Label": "ヘカテリーネ・アーチ@{I}Hekaterine's Arch", "Description": ""},
-                          {"Label": "クーマエ運河@{I}The Cumaean Canal", "Description": ""}]}]}
+                          {"Label": "アルベルティーン・ゲート@{I}$Albertine Gates -> アルベルティーン・ゲート$Albertine Gates",
+                           "Description": ""},
+                          {"Label": "ヘカテリーネ・アーチ@{I}$Hekaterine's Arch -> ヘカテリーネ・アーチ$Hekaterine's Arch",
+                           "Description": ""},
+                          {"Label": "クーマエ運河@{I}$Cumaean Canal -> クーマエ運河$The Cumaean Canal",
+                           "Description": ""}]}]}

@@ -1,8 +1,13 @@
 {"Name": "AdamsCape",
  "Tiles": [{"Name": "AdamsCape",
             "Description": "波が臙脂色に染まった。我々はアダムの道、山の血が流れ出る場所に近づいている。@{I}$Adam's Way -> アダムの道$A carmine tint to the waves. We're approaching Adam's Way, 'where flows the Mountain's blood'.",
-            "LabelData": [{"Label": "アダムの道@{I}Adam's Way", "Description": ""},
-                          {"Label": "ダークグリフォン海峡@{I}Darkgryphon Straits", "Description": ""},
-                          {"Label": "アピス・ミート@{I}Apis Meet", "Description": ""},
-                          {"Label": "ガーディナーの岩礁@{I}Gardiner's Rock", "Description": ""},
-                          {"Label": "リビングストン岬@{I}Point Livingston", "Description": ""}]}]}
+            "LabelData": [{"Label": "アダムの道@{I}$Adam's Way -> アダムの道$Adam's Way",
+                           "Description": ""},
+                          {"Label": "ダークグリフォン海峡@{I}$Darkgryphon Straits -> ダークグリフォン海峡$Darkgryphon Straits",
+                           "Description": ""},
+                          {"Label": "アピス・ミート@{I}$Apis Meet -> アピス・ミート$Apis Meet",
+                           "Description": ""},
+                          {"Label": "ガーディナーの岩礁@{I}$Gardiner's Rock -> ガーディナーの岩礁$Gardiner's Rock",
+                           "Description": ""},
+                          {"Label": "リビングストン岬@{I}$Point Livingston -> リビングストン岬$Point Livingston",
+                           "Description": ""}]}]}

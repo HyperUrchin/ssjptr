@@ -1,3 +1,4 @@
-{"Name": "ロブランド@{I}Robland", "Description": "[codename]",
+{"Name": "ロブランド@{I}$Robland -> ロブランド$Robland",
+ "Description": "[codename]",
  "MoveMessage": "あなたは新しい領域に入り込んだ@{I}You have moved to a new area",
  "Id": 102388}

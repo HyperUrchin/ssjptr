@@ -1,3 +1,4 @@
-{"Name": "REUSE", "Description": "フォールン・ロンドン@{I}Fallen London",
+{"Name": "REUSE",
+ "Description": "フォールン・ロンドン@{I}$Fallen London -> フォールン・ロンドン$Fallen London",
  "MoveMessage": "あなたは新しい領域に入り込んだ@{I}You have moved to a new area",
  "Id": 100369}

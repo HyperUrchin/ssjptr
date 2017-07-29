@@ -1,4 +1,4 @@
-{"Name": "ポート・カーネリアン@{I}Port Carnelian",
- "Description": "　フォールン・ロンドンにとっては、唯一の帝国属領である。そのことを心に銘記せよ。@{I}Fallen London's sole Imperial possession. Treasure it.",
+{"Name": "ポート・カーネリアン@{I}$Port Carnelian -> ポート・カーネリアン$Port Carnelian",
+ "Description": "　フォールン・ロンドンにとっては、唯一の帝国属領である。そのことを心に銘記せよ。@{I}$Fallen London -> フォールン・ロンドン$Fallen London's sole Imperial possession. Treasure it.",
  "MoveMessage": "あなたは新しい領域に入り込んだ@{I}You have moved to a new area",
  "Id": 100371}

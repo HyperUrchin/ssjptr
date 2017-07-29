@@ -2,6 +2,9 @@
  "Tiles": [{"Name": "Stormbones",
             "Description": "我々はストーンボーンズに入り込んだ。聖エリギウスの送り届けてくれた火が、甲板の上で踊っている。はるか遠方に、ラグド・クロウの大いなる明かりが見えた。@{I}$Ragged Crow -> ラグド・クロウ$We enter Stormbones. St Eligius sends his fire to dance in the air, on deck. Very far away we see the great light of the Ragged Crow.",
             "LabelData": [{"Label": "The Undercrow", "Description": ""},
-                          {"Label": "ラグド・クロウ@{I}The Ragged Crow", "Description": ""},
-                          {"Label": "エリファウスの深淵@{I}Elifaus Abyss", "Description": ""},
-                          {"Label": "チョン・イーの裂け目@{I}Chong Yi Rift", "Description": ""}]}]}
+                          {"Label": "ラグド・クロウ@{I}$Ragged Crow -> ラグド・クロウ$The Ragged Crow",
+                           "Description": ""},
+                          {"Label": "エリファウスの深淵@{I}$Elifaus Abyss -> エリファウスの深淵$Elifaus Abyss",
+                           "Description": ""},
+                          {"Label": "チョン・イーの裂け目@{I}$Chong Yi Rift -> チョン・イーの裂け目$Chong Yi Rift",
+                           "Description": ""}]}]}

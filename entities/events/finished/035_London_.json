@@ -127,7 +127,7 @@
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 230225},
                                      "Name": "", "Id": 230796},
                     "Name": "ローズ・マーケットを訪れる@{I}$Rose-Market -> ローズ・マーケット$Visit the Rose-Market",
-                    "Description": "　ローザーの埠頭は賑わっている。もしかしたら、あなたがzeeで見つけた珍品の買い手が見つかるかもしれない。@{I}$Roser's Wharf -> ローザーの埠頭$It bustles on Roser's Wharf. Perhaps you can find a buyer for some of the curiosities you've found at zee.",
+                    "Description": "　ローザーズ・ワーフは賑わっている。もしかしたら、あなたがzeeで見つけた珍品の買い手が見つかるかもしれない。@{I}$Roser's Wharf -> ローザーズ・ワーフ$It bustles on Roser's Wharf. Perhaps you can find a buyer for some of the curiosities you've found at zee.",
                     "ButtonText": "", "Id": 177733},
                    {"SuccessEvent": {"Description": "　あなたの語った大げさな物語は、すぐさま聴衆の心を掴んだ。傷跡のある熟練の男たち、女たちは、船内を歩き回り、ハンモックを吊るすための場所を見繕った。@{I}貴方の大げさな与太話は即座に衆目を集めた。脛に傷持つ熟達した男女達が船に乗り込み、ハンモックを掛ける場所を探している。@{M}Your tall tales find a ready audience. Scarred and seasoned men and women tramp aboard and find places to sling hammocks.",
                                      "LinkToEvent": {"Id": 141880},

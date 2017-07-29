@@ -1,9 +1,12 @@
 {"Name": "PromisedSea",
  "Tiles": [{"Name": "PromisedSea",
-            "Description": "約束の海。ドラウニーたちの震えるほど甘い歌声が、風に乗ってこの海域全体に響き渡っている。@{I}$Drown(y|ies) -> ドロウニー, Promised Sea -> 約束の海$The Promised Sea. All through this place, the song of the Drownies lies shivering-sweet along the wind.",
-            "LabelData": [{"Label": "ファザムキングの砦@{I}Fathomking's Hold",
+            "Description": "約束の海。ドラウニーたちの震えるほど甘い歌声が、風に乗ってこの海域全体に響き渡っている。@{I}$Drown(y|ies) -> ドラウニー, Promised Sea -> 約束の海$The Promised Sea. All through this place, the song of the Drownies lies shivering-sweet along the wind.",
+            "LabelData": [{"Label": "ファザムキングの砦@{I}$Fathomking's Hold -> ファザムキングの砦, Fathomking -> ファザムキング$Fathomking's Hold",
                            "Description": ""},
                           {"Label": "Aigul", "Description": ""},
-                          {"Label": "ローキンズ港@{I}Lorkins Port", "Description": ""},
-                          {"Label": "ラックライトの岩礁@{I}Luckwright's Reef", "Description": ""},
-                          {"Label": "エリファウスの裂け目@{I}Elifaus Rift", "Description": ""}]}]}
+                          {"Label": "ローキンズ港@{I}$Lorkins Port -> ローキンズ港$Lorkins Port",
+                           "Description": ""},
+                          {"Label": "ラックライトの岩礁@{I}$Luckwright's Reef -> ラックライトの岩礁$Luckwright's Reef",
+                           "Description": ""},
+                          {"Label": "エリファウスの裂け目@{I}$Elifaus Rift -> エリファウスの裂け目$Elifaus Rift",
+                           "Description": ""}]}]}

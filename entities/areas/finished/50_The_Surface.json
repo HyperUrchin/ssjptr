@@ -1,4 +1,4 @@
-{"Name": "地上@{I}The Surface",
+{"Name": "地上@{I}$Surface -> 地上$The Surface",
  "Description": "　太陽光が、雨のように降り注ぐ。時折、雨が、雨のように降り注ぐ。@{I}The sun beats down like rain. Occasionally, the rain beats down like rain.",
  "MoveMessage": "あなたは新しい領域に入り込んだ@{I}You have moved to a new area",
  "Id": 102882}

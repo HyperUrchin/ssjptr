@@ -1,4 +1,4 @@
-{"Name": "ゴッドフォール@{I}Godfall",
+{"Name": "ゴッドフォール@{I}$Godfall -> ゴッドフォール$Godfall",
  "Description": "　時折――本当に時折――天蓋の破片が剥がれて落ちてくることがある。こいつが落ちてきた時に、あなたがここにいなかったことを感謝しよう。@{I}Sometimes - just occasionally - bits of the roof fall off. Be glad you weren't here when this one did.",
  "MoveMessage": "あなたは新しい領域に入り込んだ@{I}You have moved to a new area",
  "Id": 102852}

@@ -1,8 +1,10 @@
 {"Name": "StonesoulIsles",
  "Tiles": [{"Name": "StonesoulIsles",
             "Description": "熱された微風が沸き起こる。遠くの砂漠から出てきた石の、有り得そうもない奇妙な香り。ソルト・ライオンに近づいている。@{I}$Salt Lions -> ソルト・ライオン$A baked breeze rises, the improbable scent of stone out of some distant desert. You are close to the Salt Lions.",
-            "LabelData": [{"Label": "ソルト・ライオン@{I}The Salt Lions",
+            "LabelData": [{"Label": "ソルト・ライオン@{I}$Salt Lions -> ソルト・ライオン$The Salt Lions",
                            "Description": ""},
-                          {"Label": "ズィール・ポート@{I}Zeel Port", "Description": ""},
-                          {"Label": "ウィルバートの深淵@{I}Wilbert's Abyss", "Description": ""},
+                          {"Label": "ズィール・ポート@{I}$Zeel Port -> ズィール・ポート$Zeel Port",
+                           "Description": ""},
+                          {"Label": "ウィルバートの深淵@{I}$Wilbert's Abyss -> ウィルバートの深淵$Wilbert's Abyss",
+                           "Description": ""},
                           {"Label": "Wrack", "Description": ""}]}]}

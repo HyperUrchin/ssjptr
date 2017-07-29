@@ -1,4 +1,4 @@
-{"Name": "ファザムキングの砦@{I}The Fathomking's Hold",
- "Description": "　ラーキンズ・ポート。これはドロウニーたちの中でもっとも冒険好きだった者の名に因んでいる。フォスフォロスの小部屋が緑に燃える。この下のどこかで、王が待っている。@{I}Lorkins Port: named for that most enterprising of Drownies. Phosphor-cells burn green. Somewhere below, the King waits.",
+{"Name": "ファザムキングの砦@{I}$Fathomking's Hold -> ファザムキングの砦, Fathomking -> ファザムキング$The Fathomking's Hold",
+ "Description": "　ラーキンズ・ポート。これはドロウニーたちの中でもっとも冒険好きだった者の名に因んでいる。フォスフォロスの小部屋が緑に燃える。この下のどこかで、王が待っている。@{I}$Drown(y|ies) -> ドラウニー, Lorkins Port -> ローキンズ港$Lorkins Port: named for that most enterprising of Drownies. Phosphor-cells burn green. Somewhere below, the King waits.",
  "MoveMessage": "あなたは港に入った。@{I}You have entered harbour.",
  "Id": 101996}

@@ -51,5 +51,5 @@
                     "Description": "彼らは満足のいく取引を求めている。[ローズマーケットに新たな一日が訪れます。もしかすると新たな買い手も来るかもしれません。]@{K}$Rose-Market -> ローズ・マーケット$They hope to make a satisfying trade. [This will usher in a new day at the Rose-Market, and perhaps new buyers.]",
                     "ButtonText": "", "Id": 193156}],
  "Description": "ローズマーケットは風変わりな物を収集する者たちに様々な品を提供している。異国趣味とジーキャプテンを煩わせる度胸を持ち合わせた者なら誰でも買い手となれる。\u000d\u000a\u000d\u000aマーケットの難解で古い規則によると、ここでは一度の訪問につき一つの取引しかできないそうだ。賢く選べ。[ローズマーケットの人々は特定の品々を通常より高値で買い取ってくれます。]@{K}$Rose-Market -> ローズ・マーケット$The Rose-Market caters to collectors and eccentrics - anyone with exotic tastes and the gumption to harass zee-captains. \u000d\u000a\u000d\u000aAccording to the arcane, archaic rules of the market, you can only make one trade per visit. Choose wisely. [People at the Rose-Market will pay above the usual price for specific goods.]",
- "Name": "ローザーズ・ワーフ@{K}$Roser's Wharf -> ローザーの埠頭$Roser's Wharf",
+ "Name": "ローザーズ・ワーフ@{K}$Roser's Wharf -> ローザーズ・ワーフ$Roser's Wharf",
  "Id": 230225}
