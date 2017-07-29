@@ -1,0 +1,8 @@
+[
+("entities/areas", []),
+("entities/events", []),
+("entities/exchanges", []),
+("entities/qualities", ["Category"]),
+("geography/Tiles", ["Name"]),
+("encyclopaedia/SpawnedEntities", ["Name"])
+]
