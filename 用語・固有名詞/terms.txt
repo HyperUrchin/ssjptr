@@ -23,7 +23,7 @@ Broken Giant, ブロークン・ジャイアント
 Pentecost, ペンテコステ
 [Kk]not-oracle, ノット・オラクル
 [Rr]attus faber, フェイバーネズミ
-Department of Infernal Rarefaction, 悪性希薄科
+(Department of )?Infernal Rarefaction, 悪性希薄科
 Legend's Heart, 伝説的なるものの心臓
 Miracle of Science, 科学の奇跡
 Sky-Light, 空の光
