@@ -1,6 +1,5 @@
 {"Description": "行き届いた配慮は、海賊王ですら喜ばせる@{I}海賊王であろうと、好意は彼らの好む所だ。@{M}$Pirate-King -> 海賊王$Even Pirate-Kings like their courtesies",
  "AvailableAt": "あなたのパトロンはクーマエ運河を提案した。@{I}貴方の後援者はクーマエ運河を提案している。@{M}$Cumaean Canal -> クーマエ運河$Your Patron suggested the Cumaean Canal. ",
- "LevelDescriptionText": "2|あなたは甲板下に地上の船乗りを閉じ込めている~3|あなたは涙に濡れた積荷をパトロンに引き渡した~1|あなたは海賊王への贈り物を探している@{I}1|貴方は海賊王への贈物を探している。~2|貴方は船底に囚われていた地表の船乗りを連れている。~3|貴方は涙に濡れた貨物を貴方の後援者に引き渡した。@{M}$Surface -> 地上, Pirate-King -> 海賊王$
-2|You have a Surface sailor imprisoned below-decks~3|You have handed your tear-stained cargo over to your Patron~1|You are seeking a gift for the Pirate-King",
+ "LevelDescriptionText": "2|あなたは甲板下に地上の船乗りを閉じ込めている~3|あなたは涙に濡れた積荷をパトロンに引き渡した~1|あなたは海賊王への贈り物を探している@{I}1|貴方は海賊王への贈物を探している。~2|貴方は船底に囚われていた地表の船乗りを連れている。~3|貴方は涙に濡れた貨物を貴方の後援者に引き渡した。@{M}$Surface -> 地上, Pirate-King -> 海賊王$2|You have a Surface sailor imprisoned below-decks~3|You have handed your tear-stained cargo over to your Patron~1|You are seeking a gift for the Pirate-King",
  "Name": "目的: 海賊王への贈り物を探して@{I}目的: 海賊王への贈物を探して@{M}$Pirate-King -> 海賊王$Objective: Seeking a Gift for the Pirate-King",
  "Id": 113395}

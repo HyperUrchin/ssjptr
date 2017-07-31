@@ -13,7 +13,7 @@
                                      "LinkToEvent": {"Id": 168605}, "Name": "奉仕と崇拝@{K}Service and worship",
                                      "Id": 169920},
                     "Name": "此処を訪れている獅子の様子を静かに観察する@{K}Silently observe the attitude of the visiting Lion",
-                    "Description": "@{K}顔に敬意を表しているようだ。@{K}It is paying obeisance to the face.",
+                    "Description": "顔に敬意を表しているようだ。@{K}It is paying obeisance to the face.",
                     "ButtonText": "", "Id": 139892},
                    {"DefaultEvent": {"Description": "この島の住人は顔に多くの意味を与えている。永遠の美、停滞、破ることのできない暗闇を見上げるという事そのもの。しかし、多くは頭上から見下ろすものについて語った。あの顔は下から見るのに向いているとは言い難い。あれは人の手の及ばないUnterzeeの天蓋から最もよく見ることが出来るのだ。@{K}The citizens give many meanings to the face: perpetual beauty; stasis; the idea of looking upward into an unyielding darkness. But most of all they speak of the idea of someone above looking down. The face is not convenient to view from down here. It would look its best from the perspective of the ceiling of the Unterzee, beyond reach.",
                                      "LinkToEvent": {"Id": 168605},
@@ -21,8 +21,7 @@
                     "Name": "顔の意義について瞑想する@{K}Meditate on the meaning of the face",
                     "Description": "この顔は様々な形の示唆を提示してくれる。@{K}It offers many forms of inspiration.",
                     "ButtonText": "", "Id": 139893},
-                   {"DefaultEvent": {"Description": "あなたはすり減った階段を辿り『栄え』の頬の側面を上った。登り路がこれほど厳しいものだった記憶はない。\u000d\u000a\u000d\u000aようやくたどり着いた入り口は、蜘蛛の絹のように繊維質だが蝋のように滑らかな物質によって塞がれていた。この物質は新しい物だろうか？ここで育ったのだろうか？住人たちは毎年これを取り除いているのだろうか
-                   ？それともある種のセキュリティなのだろうか？\u000d\u000a\u000d\u000aしかしそれはあなたの手では除けられなかった。@{K}You climb up along the side of Flourishing's cheek, following a staircase of worn steps. You don't remember the path being this difficult before.\u000d\u000a\u000d\u000aThe entry, when you come to it, is plugged with a substance fibrous as spider silk but slick and waxy to the touch. Is this new? Does it grow here? Do they clear it away every year? Is it a form of security?\u000d\u000a\u000d\u000aBut it doesn't yield to your hand.",
+                   {"DefaultEvent": {"Description": "あなたはすり減った階段を辿り『栄え』の頬の側面を上った。登り路がこれほど厳しいものだった記憶はない。\u000d\u000a\u000d\u000aようやくたどり着いた入り口は、蜘蛛の絹のように繊維質だが蝋のように滑らかな物質によって塞がれていた。この物質は新しい物だろうか？ここで育ったのだろうか？住人たちは毎年これを取り除いているのだろうか？それともある種のセキュリティなのだろうか？\u000d\u000a\u000d\u000aしかしそれはあなたの手では除けられなかった。@{K}You climb up along the side of Flourishing's cheek, following a staircase of worn steps. You don't remember the path being this difficult before.\u000d\u000a\u000d\u000aThe entry, when you come to it, is plugged with a substance fibrous as spider silk but slick and waxy to the touch. Is this new? Does it grow here? Do they clear it away every year? Is it a form of security?\u000d\u000a\u000d\u000aBut it doesn't yield to your hand.",
                                      "LinkToEvent": {"Id": 168605}, "Name": "難航@{K}Harder to find",
                                      "Id": 169930},
                     "Name": "耳の内部へと続く扉を探す@{K}Look for the doorway into the Ear",
