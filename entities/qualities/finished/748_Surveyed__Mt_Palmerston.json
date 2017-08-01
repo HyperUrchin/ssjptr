@@ -1,0 +1,4 @@
+{"Description": "重要な土地についての詳細な報告書。海軍省は高く評価するだろう。@{I}名所に関する詳細な報告書。総督府はこれに価値を見出すだろう。@{M}$Admiralty -> 海軍省$A detailed report on a place of interest. The Admiralty would value it.",
+ "ChangeDescriptionText": "1|あなたのマウント・パーマーストンへの訪問が海軍省記録質によって確かめられた@{I}1|貴方のパルマストン山への訪問は総督府記録事務局で確認されました。@{M}$Admiralty -> 海軍省, (Mt?.|Mount) Palmerston -> マウント・パーマーストン$1|Your visit to Mt Palmerston has been confirmed by the Admiralty Records Office",
+ "Name": "調査済み: マウント・パーマーストン@{I}調査済: パルマストン山@{M}$(Mt?.|Mount) Palmerston -> マウント・パーマーストン$Surveyed: Mt Palmerston",
+ "Id": 109624}
