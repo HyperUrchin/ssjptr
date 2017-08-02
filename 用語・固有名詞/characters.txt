@@ -81,3 +81,8 @@ Albino Rat, アルビノネズミ
 Bourdain, ボーデイン
 Melliferous Sister, 蜜花の修道女
 Irrepressible Cannoneer, 堪え性のない砲撃手
+Brisk Campaigner, 活発な従軍者
+Indomitable Campaigner, 不屈の従軍者
+Haunted Doctor, 憑りつかれたような医師
+Determined Doctor, 決然とした医師
+Disillusioned Doctor, 幻滅した医師
