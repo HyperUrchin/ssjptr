@@ -28,7 +28,7 @@
                                      "LinkToEvent": {"Id": 152324},
                                      "Name": "難しい交渉@{K}A hard bargain", "Id": 154686},
                     "Name": "さらにワインについて@{K}Of more wine",
-                    "Description": "「いや、やめておこう」修道院長兼指揮官が厳格に言った。「我々は既にそれによって十分な被害を被っている。兄弟たちは正確に射撃することも出来なくなっているのだ。その嫌な代物を何処かに持って行ってくれ」@{K}\"Oh, no,\" the Abbot-Commander says sternly. \"We've had too much trouble with this. The brothers can't shoot straight. Take the nasty stuff away.\"",
+                    "Description": "「いや、やめておこう」修道院長兼指揮官が厳格に言った。「我々は既に十分な被害を被っている。兄弟たちは正確に射撃することも出来なくなっているのだ。その嫌な代物を何処かに持って行ってくれ」@{K}\"Oh, no,\" the Abbot-Commander says sternly. \"We've had too much trouble with this. The brothers can't shoot straight. Take the nasty stuff away.\"",
                     "ButtonText": "", "Id": 131317},
                    {"DefaultEvent": {"Description": "まだあの罅は直されていない。修道士はこれだから。@{K}They still haven't fixed that crack. Monks, eh.",
                                      "LinkToEvent": {"Id": 155227},

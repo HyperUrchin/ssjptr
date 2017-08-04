@@ -32,7 +32,7 @@
                                      "LinkToEvent": {"Id": 183590},
                                      "Name": "「あなたの信頼に感謝します……」@{K}\"Thank you for your trust...\"",
                                      "Id": 185100},
-                    "Name": "幻滅した医者を総督に任命する@{K}Install a viceroy - the Disillusioned Doctor",
+                    "Name": "幻滅した医師を総督に任命する@{K}Install a viceroy - the Disillusioned Doctor",
                     "Description": "あなたがこの島にいない間もここを統治してくれる人間が必要だ。彼は今は現実主義者となっている。精力的な総督ではないかもしれないが忠実だ。@{K}You'll need someone to rule in your absence. He's a realist, now. He might not be the most vigorous governor, but he's loyal.",
                     "ButtonText": "", "Id": 149228},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 144251},
