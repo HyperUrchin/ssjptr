@@ -34,7 +34,7 @@
                    {"SuccessEvent": {"Description": "蒸留器がガタガタ音を立てている。エタノール釜が不気味な音を立てている!やがて彼は、泡立つポットを持って厨房から出て来た。船員は大喜びだ。相変わらず、食事は喜ばしく、そしてとても恐ろしい。舌が熱い。目からは涙が溢れる。胃はパニックを起こしているが、それも直ぐに治まった。@{M}His braising-alembic rattles. His athanor-stove roars! He emerges from the galley with a bubbling pot. The crew cheers. As ever, the meal is both delightful and terrifying. Your tongue fizzes. Your eyes water. Your stomach panics, but surrenders hastily. ",
                                      "Name": "格別の成功!@{M}A particular success!", "Id": 182204},
                     "DefaultEvent": {"Description": "「無理だ。蒸留し、発酵させ、薄め、昇華させ、焙ってもみたがまともな料理にはできなかった。この生き物は最後の分子に至るまで甲板長の靴下のような味がする」彼は包帯に巻かれた片手をあげた。「何故味を知っているかは聞かないでくれよ。美食を追求するためなら私は何でもやってみせる」@{K}「無理やな。蒸留しても、発酵しても、希釈しても、昇華しても、文字通り煮ても焼いても、駄目ですわ。この生きモンの各部位が - 分子の一つに至るまで - 運用長の靴下みたいな味です」彼は包帯巻きの手を投げ出した。「どうやってそれを知ったかなんぞ聞かんで下さいや。食の探求の為にやらん事なんぞ、私には何一つあらへんのや。」@{M}\"It cannot be done. I have distilled, I have fermented, I have rarefied, I have sublimated, I have toasted. Every part of this creature - down to its last atom - tastes like the bosun's socks.\" He holds up a bandaged hand. \"Do not ask me how I know. There is nothing I will not do in pursuit of culinary exploration.\"",
-                                     "Name": "「残念だが……」」@{K}\"結局 -\"@{M}\"Alas - \"", "Id": 182203},
+                                     "Name": "「残念だが……」@{K}\"結局 -\"@{M}\"Alas - \"", "Id": 182203},
                     "Name": "包帯巻きの最高料理長を頼る@{M+K}包帯巻きの最高料理長@{M}Call upon the Bandaged Chef-Paramount",
                     "Description": "彼に奇妙な漁獲物を食用に処理出来ないか尋ねる。@{M}$Strange Catch -> 奇妙な漁獲物$Ask him to render a Strange Catch edible.",
                     "ButtonText": "", "Id": 147441},
