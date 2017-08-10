@@ -1,0 +1,9 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "　この呪われた地に戻ってくる気が少しでもあるのであれば。@{I}Should you return to this accursed place at all.",
+                                     "Name": "可能な限り先の未来に@{I}A time as far in the future as possible",
+                                     "Id": 167318},
+                    "Name": "彼らの声音には、傷つけられたばかりの生の迫真性が篭っている@{I}There is a raw, broken certainty in their voices",
+                    "Description": "　それなら、また今度にしておこう。@{I}Let it be a matter for another time then.",
+                    "ButtonText": "", "Id": 138364}],
+ "Description": "　あなたが目覚めてから、ネイティビティはずっと暗いままだ。悲哀蜘蛛の憤激を目の当たりにした船員たちは、そのことについて話してくれない。強く尋ねると、彼らはただこう繰り返した。「今は駄目です。お願いですから」@{I}$[Ss]orrow-spider -> 悲哀蜘蛛, Nativity -> ネイティビティ$The Nativity has been dark since you awoke. Those of the crew that witnessed the sorrow-spiders' rage will not speak of it. Pressed, they only repeat, \"Not now. Please.\"",
+ "Name": "ネイティビティの静寂@{I}$Nativity -> ネイティビティ$Silence of the Nativity",
+ "Id": 167317}

@@ -63,5 +63,5 @@
                     "Name": "ブレミガンを陸に放つ@{I}$[Bb]lemmigan -> ブレミガン$Put a blemmigan ashore",
                     "Description": "　暗くてじめじめしている。まさしく彼らが好むとおりに。@{I}Dark and dank: just how they like it.",
                     "ButtonText": "", "Id": 147562}],
- "Description": "　ネイティビティの陰気さは、掛けられて間もない赤と黄金の旗によって破られている。蜘蛛を崇拝する織手と寡婦たちが、祝祭の準備のかたわら貿易商たちを案内している。祝祭は『寛大な隣人』への感謝を捧げるためのものだ。その隣人たちは、影の中から静かに彼らを見張っている。@{I}$Nativity -> ネイティビティ$The glumness of the Nativity is broken by the reds and golds of freshly hung banners. Spider-worshipping Weavers and Widows guide the traders in readying their celebration of gratitude to the 'generous neighbours' that silently watch over them from the shadows.",
+ "Description": "　ネイティビティの陰気さは、掛けられて間もない赤と黄金の旗によって破られている。蜘蛛を崇拝する織手と後家たちが、祝祭の準備のかたわら貿易商たちを案内している。祝祭は『寛大な隣人』への感謝を捧げるためのものだ。その隣人たちは、影の中から静かに彼らを見張っている。@{I}$Nativity -> ネイティビティ$The glumness of the Nativity is broken by the reds and golds of freshly hung banners. Spider-worshipping Weavers and Widows guide the traders in readying their celebration of gratitude to the 'generous neighbours' that silently watch over them from the shadows.",
  "Name": "生糸祭の準備@{I}Preparing for the Festival of Silk", "Id": 167217}
