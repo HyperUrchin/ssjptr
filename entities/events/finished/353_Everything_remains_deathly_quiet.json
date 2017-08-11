@@ -1,0 +1,8 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "　わずかな生き残りだけがよろめき歩いていた。悲哀蜘蛛の奴隷たちだ。今や『寛大な隣人』たちは、侵略に抵抗した者の死体を貪り食っていた。蜘蛛の巣はネイティビティを飲み込み、Scuttering_Reachesと完全に一体化している。船着場のそばには、蜘蛛の使いの磔にされた死体が、太い網で吊られていた。かつて旅人を守っていた恩寵協定が終わりを告げたことは、誰の目にも明らかだ。悲哀蜘蛛はもはや、人間の無能さには用がないのだ。@{I}$[Ss]orrow-spider -> 悲哀蜘蛛, Nativity -> ネイティビティ$A few survivors stumble around, slaves of the sorrow-spiders. The 'generous neighbours' now feast on the corpses of those who fought back against their invasion, weaving webs to completely absorb the Nativity into the Scuttering Reaches. By the docks, the Emissary of Spiders' crucified body hangs from webbing in a clear statement to all that the Accord of Grace that once protected travellers has ended. The sorrow-spiders have no more use for human inefficiencies.",
+                                     "LinkToEvent": {"Id": 167221},
+                                     "Name": "行ってしまった。少なくとも幸運な者たちは。@{I}Gone. At least, the lucky ones.", "Id": 167307},
+                    "Name": "ネイティビティを調査する@{I}$Nativity -> ネイティビティ$Investigate the Nativity",
+                    "Description": "　生糸祭は？貿易商たちはどうなったのだろうか？ようやく、船員たちは調査ができるぐらいの平静さを取り戻している。@{I}What happened to the Festival of Silk? What happened to the traders? The crew is finally calm enough to investigate.",
+                    "ButtonText": "", "Id": 138358}],
+ "Description": "　港からは物音ひとつ聞こえてこない。波止場を越えてきらめく灯りひとつ見えない。@{I}Not a sound can be heard from the port. Not a single light flickers beyond the docks.",
+ "Name": "すべては死んだように静かなままだ@{I}Everything remains deathly quiet", "Id": 167306}
