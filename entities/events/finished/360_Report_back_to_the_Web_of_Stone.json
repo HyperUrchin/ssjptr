@@ -1,0 +1,9 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "　今回は荷車はない。長い距離を歩くことになりそうだ。@{I}There is no cart this time. This will be a long walk.",
+                                     "LinkToEvent": {"Id": 167637},
+                                     "Name": "彼女はReachesまで付いてくるようあなたに言った@{I}She bids you follow her into the Reaches",
+                                     "Id": 167504},
+                    "Name": "ノクターン号の秘密@{I}The Secret of the Nocturne",
+                    "Description": "　彼らに見つけてくるように言われたものはここにある。そう期待したい。@{I}Here is what they sent you to find. Hopefully.",
+                    "ButtonText": "", "Id": 138485}],
+ "Description": "　歓待があろうがなかろうが、手ぶらであそこに戻るのは酷く悪い考えのように感じられる。織手の一人が、良い知らせを受け取るために立ち上がった。@{I}Hospitality or not, you sense it would be a very bad idea to return empty-handed. A Weaver stands ready to receive the good news.",
+ "Name": "石の巣に報告に戻る@{I}Report back to the Web of Stone", "Id": 167503}
