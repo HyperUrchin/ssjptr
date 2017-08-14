@@ -18,5 +18,5 @@
                     "Name": "$Venderbight -> ヴェンダーバイト$Agree to carry the Unsettled Salvager to Venderbight",
                     "Description": "$Wolfstack -> ウルフスタック, Wolf -> ウルフ$She visits Wolfstack every day in zee-stained rags, begging for passage. No captain will look her in the eye.",
                     "ButtonText": "", "Id": 193159}],
- "Description": "Someone in the docks wants to board your ship.",
- "Name": "A Passenger", "Id": 255587}
+ "Description": "港にいる誰かがあなたの船に乗りたがっている。@{K}Someone in the docks wants to board your ship.",
+ "Name": "乗客@{K}A Passenger", "Id": 255587}

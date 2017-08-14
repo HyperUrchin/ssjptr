@@ -34,5 +34,5 @@
                     "Name": "……粋な紳士だ@{K}...the Dapper Chap",
                     "Description": "「これは大した偶然でもありませんよ」彼は反論した。「私は故郷から来る船と会う必要があったのです。あなたの船でなく」彼の目があなたの目と合う。「それでも、あなたと会えてよかった」@{K}\"It's not such a coincidence,\" he protests. \"I had to meet a ship from home. Another one.\" His eyes meet yours. \"But it's good to see you.\"",
                     "ButtonText": "", "Id": 127860}],
- "Description": "$Wolfstack -> ウルフスタック, Wolf -> ウルフ$その晩ウルフスタック港で、あなたはとある人物と夕べを共にした……$Wolfstack -> ウルフスタック, Wolf -> ウルフ$That night in Wolfstack, you find yourself sharing a table with....",
+ "Description": "その晩ウルフスタック港で、あなたはとある人物と夕べを共にした……@{K}$Wolfstack -> ウルフスタック, Wolf -> ウルフ$That night in Wolfstack, you find yourself sharing a table with....",
  "Name": "トラブルとロマンス@{K}Trouble, and romance", "Id": 149156}
