@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "何日も……何週間も……もしかするとそれよりも長いあいだ……海は平らな暗闇となり、振られた恋人のようによそよそしいままだった。食糧は底を尽きかけている。反乱が囁かれ始めた。そして、すべての希望が失われたその時――\u000d\u000a\u000d\u000a「陸が見えたぞ！」信じがたい叫びがあがった。@{K}For days... weeks... maybe more... the zee is but a flat darkness, as distant as a jilted lover. Supplies are almost gone. Mutinies are murmured. Until, as all hope is gone- \u000d\u000a\u000d\u000a\"Land ho!\" comes the impossible cry.",
+                                     "Name": "他の誰も知ることのない物語@{K}A tale no one else will ever know", "Id": 189576},
+                    "Name": "帰路はない@{K}No return",
+                    "Description": "二度と戻ることのできない故郷の光はすぐに薄れ、同時に船員たちの興奮も萎んでいった。あなたたちを待ち受ける旅路は遠く、ジーバットが船を導いてくれてはいるものの、配給が減らされるにつれ飢餓と渇きへのありふれた恐怖が大きくなっていった。@{K}The lights of a home you can never return to soon dim, as does the crew's excitement. The journey ahead is long, and while the zee-bats steer clear of your vessel, more mundane fears of starvation and thirst grow as the rations start to shrink.",
+                    "ButtonText": "", "Id": 151975}],
+ "Description": "あなたの旅路は裏切られた猿の流した血と皇帝の空しい喚き声によって祝福された。夢を盗まれたエンパイア・オブ・ハンズにはこれから何が起こるのだろう？しかしそれはあなたの問題ではなく、どうでもいいことだ。@{K}$Empire of Hands -> エンパイア・オブ・ハンズ$Your voyage is blessed by the spilled blood of betrayed monkeys and the impotent howls of the Emperor. What will happen to the Empire of Hands now that you have stolen its dreams? It is neither your concern, nor your problem.",
+ "Name": "ツェッペリンを盗む@{K}$Zeppelin -> ツェッペリン$Steal the Zeppelin", "Id": 189575}
