@@ -4,5 +4,5 @@
                     "Name": "真面目な助言@{I}重大な忠告@{M}Earnest advice",
                     "Description": "　その人物は高い対価を支払ってこれらの教訓を得た。その傷跡から、あなたは得るものがあるだろう。@{I}彼らはこの教訓を学ぶ為に雇われた。貴方は彼らの傷から得る物があるだろう。@{M}They've paid dearly to learn these lessons. You'll gain from their scars.",
                     "ButtonText": "", "Id": 130729}],
- "Description": "　あなたは別のzeeの船長――つまり少なくとも一度は航海を成功させた経験のある者――との会話に没頭した。@{I}貴方は - 彼ら自身の名声を高める航海を最低一度完遂した - ジーキャプテンとの会話に時間を費やす羽目になった。@{M}You fall into conversation with another zee-captain - one with at least one voyage to their credit.",
+ "Description": "　あなたは別のzeeの船長との会話に没頭した。船長と言っても、少なくとも一度は航海を成功に導いたことのある者、という意味だが。@{I}貴方は - 彼ら自身の名声を高める航海を最低一度完遂した - ジーキャプテンとの会話に時間を費やす羽目になった。@{M}You fall into conversation with another zee-captain - one with at least one voyage to their credit.",
  "Name": "航海者の恵み@{I}航海士の恩恵@{M}Navigator's Boon", "Id": 153822}
