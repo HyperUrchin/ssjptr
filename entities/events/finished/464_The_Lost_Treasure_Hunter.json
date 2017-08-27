@@ -19,8 +19,7 @@
                     "Name": "食糧と狐火の蝋燭を交換する@{K}$Foxfire Candle -> 狐火の蝋燭$Trade Supplies for Foxfire Candles",
                     "Description": "「私がいまだに他の者たちの様に食べることが出来ないのは、彼らに言わないでくれよ。食べるふりはしているが、ここにベリーが生えていて助かった。もう少しましな物が手に入るなら有り難いね」@{K}\"Don't tell the others, but I still can't bring myself to eat like they do. I pretend, but it's a good thing there's berries. Wouldn't say no to something a bit more.\"",
                     "ButtonText": "", "Id": 143620},
-                   {"DefaultEvent": {"Description": "「これは何だ？」彼は中を覗き込んだ
-                   。「もしかすると全く新しい種かもしれないな。そうなると、いくつか難しい問題が出てくる。これにあうのは赤ワインか、白ワインか？閣下は知りたがるだろうな……」@{K}\"What is it?\" He peers. \"I think this might be a whole new species. That raises some problematic questions. Red or white wine? His Loudship will want to know...\"",
+                   {"DefaultEvent": {"Description": "「これは何だ？」彼は中を覗き込んだ。「もしかすると全く新しい種かもしれないな。そうなると、いくつか難しい問題が出てくる。これにあうのは赤ワインか、白ワインか？閣下は知りたがるだろうな……」@{K}\"What is it?\" He peers. \"I think this might be a whole new species. That raises some problematic questions. Red or white wine? His Loudship will want to know...\"",
                                      "LinkToEvent": {"Id": 175994}, "Name": "取引完了@{K}The trade is complete",
                                      "Id": 175998},
                     "Name": "生体標本を照明弾と交換する@{K}$Live Specimen -> 生体標本, Flare -> 照明弾$Trade a Live Specimen for a Flare",
