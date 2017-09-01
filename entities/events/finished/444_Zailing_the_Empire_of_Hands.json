@@ -92,7 +92,7 @@
                                          "Name": "謎めいた島への帰還@{K}A return to this mysterious island",
                                          "Id": 178336},
                     "Name": "ファウンテンヘッド島に向かう@{K}Travel to Fountainhead Island",
-                    "Description": "霊廟は踏破された。しかしまだ謎は残されているかもしれない。@{K}The Vault has been conquered, but perhaps more mysteries remain.",
+                    "Description": "宝物庫は踏破された。しかしまだ謎は残されているかもしれない。@{K}The Vault has been conquered, but perhaps more mysteries remain.",
                     "ButtonText": "", "Id": 145063},
                    {"DefaultEvent": {"Description": "まあいいか。どうせ何も起こらない。@{K}Oh well. Nothing is going happen either way.",
                                      "LinkToEvent": {"Id": 175461},
