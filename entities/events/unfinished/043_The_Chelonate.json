@@ -85,7 +85,7 @@
                    {"SuccessEvent": {"Description": "「あれ、実はビールじゃないんですよ、船長」水夫の一人が打ち明けた。「ウナギの血に、zeeのキノコだか何だかを突っ込んで発酵させたんだそうで。説明全部は聞いてられませんでしたよ。吐くのに忙しくて」@{I}\"It's not actually beer, cap'n,\" a zailor confides. \"It's eel-blood fermented with zee-fungus, or somefin'. I didn't hear the whole account. I was too busy throwin' up.\"",
                                      "LinkToEvent": {"Id": 143328},
                                      "Name": "高まる歌声@{I}Voices raised in song", "Id": 180639},
-                    "DefaultEvent": {"Description": "「船長。新入りを亡くしちまいました。あいつ飲みすぎて、いもしない大亀の上を歩き始めて。キェロネイト人たちがあいつにアリみたいに群がって。国に持って帰れるものは、多くは残りませんでした」@{I}\"We lost the new one, cap'n. She had one too many and started on the Turtle not being real. Chelonites were on 'er like ants. Not enough to send home.\"",
+                    "DefaultEvent": {"Description": "「船長。新入りを亡くしちまいました。あいつ飲みすぎて、あの大亀は本物じゃないとか言って喧嘩吹っかけやがったんです。そんで、キェロネイト人たちが、あいつにアリみたいに群がって。国に持って帰れるものは、多くは残りませんでした」@{I}\"We lost the new one, cap'n. She had one too many and started on the Turtle not being real. Chelonites were on 'er like ants. Not enough to send home.\"",
                                      "LinkToEvent": {"Id": 143328},
                                      "Name": "一人分の声が消えて@{I}One voice missing", "Id": 143330},
                     "Name": "キェロネイトへの上陸許可を出す@{I}$Chelonate -> キェロネイト$Shore leave at the Chelonate",
