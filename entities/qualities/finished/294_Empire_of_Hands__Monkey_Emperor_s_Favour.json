@@ -1,0 +1,4 @@
+{"Description": "簡単に授けられるものではない。@{K}軽々しく渡される物では無い。@{M}It is not given lightly.",
+ "LevelDescriptionText": "2|エンパイア・オブ・ハンズのツェッペリンへ乗船できる。苦労の甲斐があったことを祈ろう。~1|猿の皇帝の付けた値は高い。しかし、もし彼の宝を盗みたいのであれば……@{K}2|手掌の帝国が所有するツェッペリンへの乗船切符だ。価値があった事を祈る。~1|猿の皇帝の示す対価は高すぎるが、もし貴方が彼の報酬を盗みたいなら…@{M}$Zeppelin -> ツェッペリン, Empire of Hands -> エンパイア・オブ・ハンズ$2|Your ticket on board the Empire of Hands' Zeppelin. Hopefully it was worth it.~1|The Monkey Emperor's price is high, but if you want to steal his prize...",
+ "Name": "エンパイア・オブ・ハンズ: 猿の皇帝の好意@{K}手掌の帝国: 猿の皇帝の恩義@{M}$Empire of Hands -> エンパイア・オブ・ハンズ$Empire of Hands: Monkey Emperor's Favour",
+ "Id": 115022}
