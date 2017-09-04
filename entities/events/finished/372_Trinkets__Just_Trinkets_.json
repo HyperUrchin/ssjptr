@@ -1,7 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "　箱の宛先には何と書かれていたっけ？鎖された王宮？考え直してみると、それはほとんどどうでも良いことだ。@{I}その箱の宛先は何だった?粉砕された王宮?よくよく考えると、何処でもいい。@{M}What was the address on the crate? The Shuttered Palace? On second thoughts, it hardly matters.",
                                      "Name": "もう他の誰かの問題だ@{I}今は別の誰かの問題@{M}Someone else's problem now",
                                      "Id": 168213},
-                    "RareDefaultEvent": {"Description": "　箱の宛先には何と書かれていたっけ？サマセット大学？考え直してみると、それはほとんどどうでも良いことだ。@{I}その箱の宛先は何だった?サマーセット大学?よくよく考えると、何処でもいい。@{M}What was the address on the crate? Summerset College? On second thoughts, it hardly matters.",
+                    "RareDefaultEvent": {"Description": "　箱の宛先には何と書かれていたっけ？サマセット学寮？考え直してみると、それはほとんどどうでも良いことだ。@{I}その箱の宛先は何だった?サマーセット大学?よくよく考えると、何処でもいい。@{M}What was the address on the crate? Summerset College? On second thoughts, it hardly matters.",
                                          "Name": "もう他の誰かの問題だ@{I}今は別の誰かの問題@{M}Someone else's problem now",
                                          "Id": 168214},
                     "Name": "待っていた男に宝石を届ける@{I}粗品を待っている男へ届ける@{M}Deliver the Trinkets to the waiting man",
