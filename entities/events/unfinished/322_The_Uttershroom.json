@@ -39,7 +39,7 @@
                     "Name": "村を訪ねる@{I}Visit the village",
                     "Description": "　歓待を受けられるかって？必ずしもそうとは限らない。しかし、彼らは普通なら、あなたのことを棒を持って追いかけたりはしないし、ちゃんとあなたを白かびの匂いのする焚火のそばに座らせてくれるだろう。@{I}Hospitable? Not exactly. But they usually don't chase you off with sticks, and they usually let you sit beside their mildew-smelling fire.",
                     "ButtonText": "", "Id": 133906},
-                   {"DefaultEvent": {"Description": "　シュルーム人はそれを素手で触ろうとはしなかった。賢明なことだ。あなたも倣うべきだろう。それは、接しているきのこの肉を焦がし、ねじけさせていた。Cosmogoneの輝きが、周囲の空気を染め上げている。「きのこの大母は感謝しているよ」シュルーム人はそう言った。「あなたは、彼女を遠くへと放った。彼女は、あなたに宝石を贈るのさ」@{I}$shroomer -> シュルーム人$The shroomer won't touch it with her bare skin. Wise. Nor should you. It's scorched and twisted the fungus-flesh that it lies on - its cosmogone glow has dyed the air around it. \"Mother of Mushrooms is grateful,\" explains the shroomer. \"You've cast her far. She gives you a jewel.\"",
+                   {"DefaultEvent": {"Description": "　シュルーム人はそれを素手で触ろうとはしなかった。賢明なことだ。あなたも倣うべきだろう。それは、接しているきのこの肉を焦がし、ねじけさせていた。コスモゴーンの輝きが、周囲の空気を染め上げている。「きのこの大母は感謝しているよ」シュルーム人はそう言った。「あなたは、彼女を遠くへと放った。彼女は、あなたに宝石を贈るのさ」@{I}$shroomer -> シュルーム人$The shroomer won't touch it with her bare skin. Wise. Nor should you. It's scorched and twisted the fungus-flesh that it lies on - its cosmogone glow has dyed the air around it. \"Mother of Mushrooms is grateful,\" explains the shroomer. \"You've cast her far. She gives you a jewel.\"",
                                      "LinkToEvent": {"Id": 158110},
                                      "Name": "光線まみれの噴石？@{I}$Ray-Drenched Cinder -> 光線まみれの噴石$A Ray-Drenched Cinder?",
                                      "Id": 176915},

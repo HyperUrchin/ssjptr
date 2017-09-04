@@ -40,6 +40,6 @@
                     "Name": "素晴らしい物語をでっち上げる@{I}Make up something wonderful",
                     "Description": "　あなたは真実で彼の時間を浪費させるためにここまでわざわざやってきたわけではない。あなたは在りし森から、血と勇気についての説得力ある物語を創り出せるだけの知識を得ている。虚構の英雄たちに、名前とふさわしい最期を与えよう。彼が自らの骨を、素晴らしい嘘で飾り立てられるようにしてやろう。@{I}$Waswood -> 在りし森$You didn't come all this way to waste his time with the truth. You know enough from the Waswood to invent a persuasive tale of blood and courage. Name heroes and give them suitable ends. Let him adorn his bones with wonderful lies.",
                     "ButtonText": "", "Id": 155600}],
- "Description": "　痩せこけた男が、gant色の鯨皮の雨よけの下に座っていた。「物語を持ってこい！」彼は叫んだ。「物語を骨と交換だ！」@{I}A scrawny man squats beneath an awning of gant-coloured whale-skin. \"Bring me your tales!\" he cries. \"Tales for the bone!\"",
+ "Description": "　痩せこけた男が、ギャント色の鯨皮の雨よけの下に座っていた。「物語を持ってこい！」彼は叫んだ。「物語を骨と交換だ！」@{I}A scrawny man squats beneath an awning of gant-coloured whale-skin. \"Bring me your tales!\" he cries. \"Tales for the bone!\"",
  "Name": "骨細工彫りの年代史家@{I}$Scrimshaw Chronicler -> 骨細工彫りの年代史家$The Scrimshaw Chronicler",
  "Id": 194381}
