@@ -101,7 +101,7 @@
                     "Name": "檻の婦人からの積荷@{I}檻の貴婦人からの荷物@{M}$Lady of the Cages -> 檻の婦人$A shipment from the Lady of the Cages",
                     "Description": "「なら渡してくれ。だけど静かにな。不要な注意を引きたくはないんでね」@{I}「ではお渡しください。ただし静かに。望まぬ注目を集める必要性は...全くありません。」@{M}\"Hand it over then. But quietly. No need to attract any... unwanted attention.\" ",
                     "ButtonText": "", "Id": 139662},
-                   {"DefaultEvent": {"Description": "　それはお互いにとって良い取引だった。投機的な貿易商は暖かな、そして驚くほど固い握手を返した。彼の眼差しに含まれていたのは、哀れみだったろうか？@{I}これは貴方達双方にとって良い取引だ。貿易商人の握手は温かく、そして驚くほど硬かった。彼の目に映ったのは、同情の念だろうか?@{M}It is a good deal for both of you. The Merchant Venturer's handshake is warm and surprisingly firm. Is that a look of pity in his eyes?",
+                   {"DefaultEvent": {"Description": "　それはお互いにとって良い取引だった。冒険好きな貿易商は暖かな、そして驚くほど固い握手を返した。彼の眼差しに含まれていたのは、哀れみだったろうか？@{I}これは貴方達双方にとって良い取引だ。貿易商人の握手は温かく、そして驚くほど硬かった。彼の目に映ったのは、同情の念だろうか?@{M}It is a good deal for both of you. The Merchant Venturer's handshake is warm and surprisingly firm. Is that a look of pity in his eyes?",
                                      "Name": "なされるべき説明@{I}為されるべき説明@{M}Explanations due",
                                      "Id": 169530},
                     "Name": "ザイラを裏切る@{I}ザイーラを裏切る@{M}$Zaira -> ザイラ$Betray Zaira",
