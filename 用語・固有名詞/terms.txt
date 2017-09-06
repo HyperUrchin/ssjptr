@@ -80,7 +80,6 @@ Catt(y|ies), 『猫族』
 [Pp]eligin, ペリジン
 Iron, アイアン
 Hearts, ハート
-Pages, ページ
 Veils, ヴェール
 Pages, ページ
 Mirrors, ミラー
