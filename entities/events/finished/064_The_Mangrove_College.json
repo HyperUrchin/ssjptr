@@ -60,7 +60,7 @@
                                      "LinkToEvent": {"Id": 143391},
                                      "Name": "船にようこそ！@{K}Welcome aboard!", "Id": 180187},
                     "Name": "オフィサーを雇う：メイビーの娘@{K}$Officer -> オフィサー, Maybe's Daughter -> メイビーの娘$Engage an Officer: Maybe's Daughter",
-                    "Description": "「こんにちは！あなたはどこに行くの？いえやっぱりそんなことはどうでもいいわ。船に乗せてもらえないかしら？ええ、私はエンジニアよ。それも急いでるエンジニアなの」[エンジニアであるメイビーの娘はVeilsとIronとエンジンの能力を上昇させます。]@{K}$Maybe's Daughter -> メイビーの娘$\"Hello! Where are you headed? On second thoughts, I don't mind. Can I come aboard? Yes, I'm an engineer, but I'm an engineer in a hurry.\" [Maybe's Daughter is an Engineer who increases Veils, Iron and Engine Power.]",
+                    "Description": "「こんにちは！あなたはどこに行くの？いえやっぱりそんなことはどうでもいいわ。船に乗せてもらえないかしら？ええ、私はエンジニアよ。それも急いでるエンジニアなの」[エンジニアであるメイビーの娘はヴェールとアイアンとエンジンの能力を上昇させます。]@{K}$Maybe's Daughter -> メイビーの娘$\"Hello! Where are you headed? On second thoughts, I don't mind. Can I come aboard? Yes, I'm an engineer, but I'm an engineer in a hurry.\" [Maybe's Daughter is an Engineer who increases Veils, Iron and Engine Power.]",
                     "ButtonText": "", "Id": 146152},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 146920},
                                      "Name": "", "Id": 181494},

@@ -27,7 +27,7 @@
                    {"DefaultEvent": {"Description": "「俺は奴を炎の檻の中に閉じ込めたんだよ。奴は見たいものすべてを見れるし、望むがままに怒り狂える。奴の飢餓は俺たちが海を渡る推進力になるだろう」@{I}\"I have set him within a cage of fire. He can look all he likes. He can rage all he wants. His hungers will drive us across the sea.",
                                      "Name": "蛇の牢獄@{I}The Serpent's Prison", "Id": 152312},
                     "Name": "サーペンティンを組み立てる@{I}$Serpentine -> サーペンティン$Construct the Serpentine",
-                    "Description": "　マジシャン本人が仕事を監督することだろう……夜に。[サーペンティンは出力1800の燃料効率に優れたエンジンで、更にVeilsとHeartsに5のボーナスを与えてくれます。]@{I}$Serpentine -> サーペンティン$The Magician will supervise the work himself... at night. [The Serpentine is a fuel-efficient engine of 1800 Power that increases both Veils and Hearts by 5.]",
+                    "Description": "　マジシャン本人が仕事を監督することだろう……夜に。[サーペンティンは出力1800の燃料効率に優れたエンジンで、更にヴェールとハートに5のボーナスを与えてくれます。]@{I}$Serpentine -> サーペンティン$The Magician will supervise the work himself... at night. [The Serpentine is a fuel-efficient engine of 1800 Power that increases both Veils and Hearts by 5.]",
                     "ButtonText": "", "Id": 129811},
                    {"SuccessEvent": {"Description": "　ネズミたちはまるで満潮のようにあなたの船を洗い流した。それからは昼も夜もなく、彼らの小さな道具がカチカチと音を立てていた。船員たちは彼らを踏まないよう、注意深く歩いた。とうとう、潮が引けるようにネズミたちは去っていった。彼らの仕事ぶりはどのようなものだろうか？@{I}Rats sweep over your ship like tide! Day and night, their tiny tools click. Your crew step over them cautiously. Eventually the rat-tide withdraws. How good a job have they done?",
                                      "LinkToEvent": {"Id": 149729},
