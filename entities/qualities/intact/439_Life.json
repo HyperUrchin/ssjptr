@@ -1,2 +1,2 @@
-{"Description": "その生き物の体力がどれ位在るかを示す。@{M}How much health a creature has.",
+{"Description": "その生き物の体力がどれくらいあるかを示す。@{M+I}その生き物の体力がどれ位在るかを示す。@{M}How much health a creature has.",
  "Name": "体力@{M}Life", "Id": 106160}
