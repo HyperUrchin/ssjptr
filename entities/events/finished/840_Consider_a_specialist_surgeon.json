@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "　彼女は刃物の詰まった鞄と自前の砥石を持ってやってきた。「道具には触らないでくださいね。誰にも、触らせないでくださいね」[この新しいオフィサーを職務に就かせたいと思ったなら、彼女のアイコンを、オフィサーのタブから画面の一番上のスロットまでドラッグしましょう。これは航海中ではなく、港で行いましょう。さもなくば、船員たちを不安にさせてしまうかもしれません。]@{I}$Officer -> オフィサー$She comes with a bag full of knives and her own personal sharpening stone. \"Don't touch these. Don't let anyone else touch them.\" [Appoint your new Officer by dragging her from the Officers tab to her slot at the top of the screen. Do this in port, not at sea, or you may unsettle your crew.]",
+                                     "Name": "船にようこそ@{I}Welcome aboard", "Id": 257023},
+                    "Name": "クラデリーの後継者を雇う@{I}Employ the Cladery Heir",
+                    "Description": "　彼女の才能はあなたの船で大いに発揮されるだろう。[クラデリーの後継者は医者として、ハートとアイアンにボーナスを与えてくれます。]@{I}Her talents could be well employed on your vessel. [The Cladery Heir is a Doctor who increases Hearts and Iron.]",
+                    "ButtonText": "", "Id": 192320}],
+ "Description": "　彼女は今、船着場の近くの立派な宿に滞在している。彼女は仕事を受ける準備があると告知していた。「私の専門は切断術です。望ましくない器官がくっついてしまうことは、zeeではよくありますからね」@{I}She is staying at a respectable boarding-house near the docks, and has made it known that she is available for work. \"I specialise in amputations. It's easy to acquire unwanted appendages at zee.\"  ",
+ "Name": "専門医の雇用を検討する@{I}Consider a specialist surgeon", "Id": 257022}
