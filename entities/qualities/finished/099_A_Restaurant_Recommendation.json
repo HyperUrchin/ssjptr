@@ -1,0 +1,3 @@
+{"Description": "「ヴェンダーバイトにちょっとした店があって……」@{I}「ベンダーバイトに、ちょっとした所があるんだ…」@{M}$Venderbight -> ヴェンダーバイト$\"There's this little place in Venderbight...\"",
+ "ChangeDescriptionText": "0|あなたはヨナの仇討ちを見つけた~1|あなたはヴェンダーバイトにある格別に評判の良いレストランの話を聞いた@{M+I}0|貴方はジョナの仇討ちを見つけた。~1|貴方はベンダーバイトで格別に評判のレストランの話を聞いた。@{M}$Venderbight -> ヴェンダーバイト$0|You've found the Vengeance of Jonah~1|You've been told of an exceptionally fine restaurant in Venderbight.",
+ "Name": "お勧めのレストラン@{I}お薦めの料理屋@{M}A Restaurant Recommendation", "Id": 116049}

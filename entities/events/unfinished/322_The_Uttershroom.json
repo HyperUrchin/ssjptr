@@ -26,7 +26,7 @@
                     "Name": "情報を集める@{I}Gather intelligence",
                     "Description": "　マールボローほどの大きさのきのこの上では、何が起こっているのだろうか？@{I}What happens here, on top of a mushroom the size of Marlborough?",
                     "ButtonText": "", "Id": 133832},
-                   {"DefaultEvent": {"Description": "　積み上げられた藤色のきのこの切り身。その天辺には注意深げなブレミガンが乗っかっていた。それはまるで、角石の上に抜け目なく佇む犬のようだった。「彼らは新天地を求めてる」シュルーム人がそう説明した。「ここはブレミガンが多すぎるんだ。ブレミガンを6つの新しい土地に放ってくれれば、大母は喜ぶだろうね」@{I}$[Bb]lemmigan -> ブレミガン, shroomer -> シュルーム人$Here are the piled slabs of mauve fungus-flesh. Atop them, like an attentive dog on a plinth, a watchful blemmigan. \"They want new places,\" the shroomer explains. \"Too many blemmigan here. Plant them in six more new places. Mother will be pleased.\"",
+                   {"DefaultEvent": {"Description": "　積み上げられた藤色のきのこの切り身。その天辺には注意深げなブレミガンが乗っかっていた。それはまるで角石の上に抜け目なく佇む犬のようだった。「彼らは新天地を求めてる」シュルーム人がそう説明した。「ここはブレミガンが多すぎるんだ。ブレミガンを6つの新しい土地に放ってくれれば、大母は喜ぶだろうね」@{I}$[Bb]lemmigan -> ブレミガン, shroomer -> シュルーム人$Here are the piled slabs of mauve fungus-flesh. Atop them, like an attentive dog on a plinth, a watchful blemmigan. \"They want new places,\" the shroomer explains. \"Too many blemmigan here. Plant them in six more new places. Mother will be pleased.\"",
                                      "LinkToEvent": {"Id": 158110},
                                      "Name": "いつだって前よりもたくさんのブレミガン@{I}$[Bb]lemmigan -> ブレミガン$Always more blemmigan",
                                      "Id": 158805},
