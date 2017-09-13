@@ -89,3 +89,4 @@ Determined Doctor, 決然とした医師
 Disillusioned Doctor, 幻滅した医師
 Bandaged Poissonnier, 包帯巻きのポワソニエ
 Bandaged Chef-Paramount, 包帯巻きの最高料理長
+Affable Factor, 愛想の良い代理商
