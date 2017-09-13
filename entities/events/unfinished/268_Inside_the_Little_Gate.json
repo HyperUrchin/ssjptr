@@ -45,5 +45,5 @@
                     "Name": "$Lorn-Fluke -> ローエン・フルーク, Fluke -> フルーク$Deliver the Lorn-Fluke and observe the Student's experiment",
                     "Description": "He is terribly excited, and requests your steadying presence - to ensure he maintains the appropriate scientific detachment.",
                     "ButtonText": "", "Id": 195837}],
- "Description": "内港があなたの前に開かれた。とはいえ、このあなたへの歓迎が条件付きのものに過ぎないのは明らかだ。問題を起こさないように。@{K}The inner port is open to you, now, although it is clear that your welcome is conditional. Don't cause trouble.",
+ "Description": "内港があなたの前に開かれた。とはいえ、この歓迎が条件付きのものに過ぎないのは明らかだ。問題を起こさないように。@{K}The inner port is open to you, now, although it is clear that your welcome is conditional. Don't cause trouble.",
  "Name": "小さな門の内側@{K}Inside the Little Gate", "Id": 152551}
