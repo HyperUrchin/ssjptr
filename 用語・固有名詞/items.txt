@@ -47,7 +47,6 @@ Diplomatic Agent, 外交官の諜報員
 Unclear Device, 不確実性デバイス
 Foxfire Candle, 狐火の蝋燭
 Flare, 照明弾
-Watcher, ウォッチャー
 Lorn-Fluke, ローエン・フルーク
 Fluke, フルーク
 Memento Mori, メメント・モリ
@@ -91,3 +90,5 @@ Soothe (and|&) Cooper, スード&クーパー
 Fulgent Impeller, 燦爛たる羽根車
 Mountain-sherd, 山の破片
 Hesperidean Apple, ヘスペリデスの林檎
+Cladery Heart, クラデリー・ハート
+Sphinxstone, スフィンクスストーン

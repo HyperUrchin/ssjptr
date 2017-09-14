@@ -32,6 +32,9 @@ Assigner of Corpse, 死体譲渡人
 Mr Fires, ミスター・ファイア
 Mr Wines, ミスター・ワイン
 Mr Sacks, ミスター・サックス
+Mr Iron, ミスター・アイアン
+Mr Veils, ミスター・ヴェール
+Mr Pages, ミスター・ページ
 Bishop of St Fiacre, 聖フィアクル聖堂の主教
 St Fiacre, 聖フィアクル
 St Joshua, 聖ジョシュア
@@ -90,3 +93,4 @@ Disillusioned Doctor, 幻滅した医師
 Bandaged Poissonnier, 包帯巻きのポワソニエ
 Bandaged Chef-Paramount, 包帯巻きの最高料理長
 Affable Factor, 愛想の良い代理商
+Cladery Heir, クラデリーの後継者
