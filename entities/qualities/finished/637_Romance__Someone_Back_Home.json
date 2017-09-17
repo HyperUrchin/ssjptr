@@ -1,0 +1,4 @@
+{"Description": "あなたはフォールン・ロンドンで恋人を選んだ。@{K}貴方は堕ちたるロンドンで恋人を選んだ。@{M}$Fallen London -> フォールン・ロンドン$You chose a sweetheart in Fallen London.",
+ "ChangeDescriptionText": "1|あなたにはロンドンに愛する人がいる。~0|愛する人は去った。~100|かつてあなたにはロンドンに愛する人がいた。@{K}1|貴方はロンドンに恋人がいる。~0|彼らは去った。~100|貴方はかつてロンドンに恋人がいた。@{M}1|You have a sweetheart in London.~0|They're gone.~100|You had a sweetheart in London",
+ "Name": "ロマンス: 故郷で帰りを待つ誰か@{M/K}情事: 故郷で帰りを待つ誰か@{M}Romance: Someone Back Home",
+ "Id": 109523}

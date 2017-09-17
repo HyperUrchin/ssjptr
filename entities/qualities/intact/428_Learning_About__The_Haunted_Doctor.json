@@ -1,5 +1,0 @@
-{"Description": "貴方は彼に付きまとうモノの暗示を持っている。@{M}You have an inkling of what haunts him.",
- "LevelDescriptionText": "1|貴方は呪われた外科医と夕食を共にした。~3|貴方は呪われた外科医にワインを振る舞った。~5|呪われた外科医は秘密を打ち明けた。~6|外科医は今や別人だ…~100|外科医は居なくなった。~101|外科医は貴方の太守となった。@{M}1|You have dined with the Haunted Doctor~5|The Haunted Doctor has unburdened himself~3|You have wined the Haunted Doctor~6|The Doctor is different...~100|The Doctor is gone~101|The Doctor has become your viceroy. ",
- "ChangeDescriptionText": "1|貴方は呪われた外科医と夕食を共にした。~3|貴方は呪われた外科医にワインを振る舞った。~5|呪われた外科医は秘密を打ち明けた。~6|外科医は今や別人だ…~100|外科医は居なくなった。~101|外科医は貴方の太守となった。@{M}1|You have dined with the Haunted Doctor.~3|You have wined the Haunted Doctor.~5|The Haunted Doctor has unburdened himself.~6|The Haunted Doctor is different...~100|The Doctor is gone.~101|The Doctor has become your viceroy. ",
- "Name": "人物観察: 呪われた外科医@{M}$Learning About: -> 事情を知る:$Learning About: The Haunted Doctor",
- "Id": 109229}

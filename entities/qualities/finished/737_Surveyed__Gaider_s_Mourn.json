@@ -1,0 +1,4 @@
+{"Description": "あなたは光と崖を見た。@{K}貴方は光と崖を見てきた。@{M}You have seen the lights and the cliffs.",
+ "ChangeDescriptionText": "1|あなたのゲイダーの嘆きへの訪問が総督府記録事務局によって確かめられた@{K}1|貴方のガイダーの嘆きへの訪問は総督府記録事務局で確認されました。@{M}$Admiralty -> 海軍省, Gaider's Mourn -> ゲイダーの嘆き$1|Your visit to Gaider's Mourn has been confirmed by the Admiralty Records Office",
+ "Name": "調査済み: ゲイダーの嘆き@{K}調査済: ガイダーの嘆き@{M}$Gaider's Mourn -> ゲイダーの嘆き$Surveyed: Gaider's Mourn",
+ "Id": 109625}

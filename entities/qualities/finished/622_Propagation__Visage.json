@@ -1,0 +1,3 @@
+{"Description": "あなたはヴィザージュでブレミガンを蒔いた。ブレミガンが繁殖したとして、あの場所がこれ以上妙な事になることはないだろう。@{K}貴方はヴィサージュにブレミガンを蒔いた。彼らが入った所でこれ以上おかしな場所にはならないだろう。@{M}$[Bb]lemmigan -> ブレミガン, Visage -> ヴィザージュ$You've sown blemmigans on Visage. It can hardly make the place any stranger.",
+ "Name": "播種: ヴィザージュ@{K}繁殖: ヴィサージュ@{M}$Visage -> ヴィザージュ$Propagation: Visage",
+ "Id": 115505}
