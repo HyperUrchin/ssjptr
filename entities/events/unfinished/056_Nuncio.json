@@ -36,7 +36,7 @@
                     "Name": "港湾報告書をまとめる@{I}$Port Report -> 港湾報告書$Assemble a Port Report",
                     "Description": "　あなたはまだ地元民とはさほど親しくはないが、それでも予備的な概括を行うことはできる。@{I}You may not be very familiar with the locals yet, but you can provide a preliminary overview.",
                     "ButtonText": "", "Id": 146896},
-                   {"DefaultEvent": {"Description": "　それでも、すべてを説明するために最大限手を尽くすことはできる。郵便業務の神学体系について。引力について。配達員たちの傷だらけの恭順について。それは健気かつ神聖であると詳述するのも怠らずに。煩悶と、苦しみの中で生まれる友情について。島を訪れる訪問者が、彼らの被る試練を理解せず、愚かで無知な質問を投げかける時ですら、彼らがそれを甘んじて受け入れるさまについて。@{I}But you can do your best to explain it all anyway. The theology of postal work, the Pull, the scarred obedience of postmen. The attention to detail that is both petty and sacred. The anguish. The camaraderie among the sufferers. The willingness to endure visitors, even visitors who do not understand their tribulations and ask foolish, ill-informed questions.",
+                   {"DefaultEvent": {"Description": "　それでも、すべてを説明するために最大限手を尽くすことはできる。郵便業務の神学体系について。引力について。配達員たちの傷だらけの恭順について。それは健気かつ神聖であると詳述するのも怠らずに。煩悶と、苦しみの中で生まれる友情について。島を訪れる訪問者が彼らの被る試練を理解せず、愚かで無知な質問を投げかける時ですら、彼らがそれを甘んじて受け入れるさまについて。@{I}But you can do your best to explain it all anyway. The theology of postal work, the Pull, the scarred obedience of postmen. The attention to detail that is both petty and sacred. The anguish. The camaraderie among the sufferers. The willingness to endure visitors, even visitors who do not understand their tribulations and ask foolish, ill-informed questions.",
                                      "LinkToEvent": {"Id": 143367},
                                      "Name": "海軍省には分からないだろう@{I}$Admiralty -> 海軍省$The Admiralty won't understand",
                                      "Id": 181412},
