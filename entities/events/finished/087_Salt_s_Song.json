@@ -26,7 +26,7 @@
                    {"DefaultEvent": {"Description": "「邪悪なる何かです。」彼女は告げる。「六ではありません。七かもしれません。何れにせよ、歌は護られています。航海の安全を祈りましょう、詐欺師よ。」@{M}\"Something sinister,\" she says. \"Six shouldn't. Seven sometimes. Still. Song secured. Sail safely, swindler.\"",
                                      "Name": "ナナマタオロチの溜息@{M}$Seven-Serpent -> セブン・サーペント$Seven-Serpent sighs",
                                      "Id": 187693},
-                    "Name": "「対価が支払われることはない」@{K}\"対価は支払われていない。\"@{M}\"The price is unpaid.\"",
+                    "Name": "「対価は支払われていない」@{K}\"対価は支払われていない。\"@{M}\"The price is unpaid.\"",
                     "Description": "ソルトの詩に価値など付けられない。従って、それは何かで贖える物では無いのだ。@{M}$Salt's Song -> Saltの歌$Salt's Song is priceless. Therefore, it cannot be purchased.",
                     "ButtonText": "", "Id": 150841},
                    {"DefaultEvent": {"Id": 187782},

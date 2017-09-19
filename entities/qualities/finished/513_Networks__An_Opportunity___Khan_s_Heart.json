@@ -1,0 +1,5 @@
+{"Description": "諜報網はあなたを必要としている。@{K}Your network needs you.",
+ "LevelDescriptionText": "1|あなたの諜報網が何かを必要としている。@{K}1|Your network needs something to flourish. ",
+ "ChangeDescriptionText": "0|影の中の囁き声。~1|あなたの諜報網が何かを必要としている。@{K}0|Whispers in the shadows.~1|Your network needs something.",
+ "Name": "諜報網: 好機・カーンの心臓@{K}$Khan -> カーン, Khan's Heart -> カーンの心臓$Networks: An Opportunity - Khan's Heart",
+ "Id": 109756}
