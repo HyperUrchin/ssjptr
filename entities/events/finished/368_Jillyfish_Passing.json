@@ -4,7 +4,7 @@
                     "RareDefaultEvent": {"Description": "　これはスープの材料になるかもしれない。あるいはソースか。ねばつくソースだ。だが、この中身が期待できそうな汚らしい塊は何だろう？@{I}It might serve for soup, or sauce. Goo sauce. But what's this promising lump of nasty?",
                                          "Name": "広がる染み@{I}A spreading stain", "Id": 168004},
                     "Name": "残りをすくい上げる！@{I}Scoop up what's left!",
-                    "Description": "　それは食べられるかもしれない。@{I}It might be edible. Parts of it might be edible. Parts of it might be anything.",
+                    "Description": "　それは食べられるかもしれない。それの内蔵は食べられるかもしれない。それの内臓は何でできているやら見当もつかない。@{I}It might be edible. Parts of it might be edible. Parts of it might be anything.",
                     "ButtonText": "", "Id": 138770},
                    {"DefaultEvent": {"Description": "　上から見ると、ジリーフィッシュの傘は女の顔に少し似ていた。女は、滲んだ絵画のように溶けて消えた。@{I}$[Jj]illyfleur -> ジリーフルール$From above, the jillyfleur's cap does look a little like a woman's face. She dissolves like smeared paint.",
                                      "Name": "顔？@{I}A face?", "Id": 168005},
