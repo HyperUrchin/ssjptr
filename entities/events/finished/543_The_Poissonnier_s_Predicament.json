@@ -10,7 +10,7 @@
                     "Name": "こっそり尾行する@{K}Follow him in secret",
                     "Description": "自分の分の溺れる真珠が必要だ。@{K}$Drowning-Pearl -> 溺れる真珠$You will need Drowning-Pearls of your own.",
                     "ButtonText": "", "Id": 147277},
-                   {"DefaultEvent": {"Description": "彼は落ち込んでいるが、受け入れた。@{K]He is disappointed, but accedes.",
+                   {"DefaultEvent": {"Description": "彼は落ち込んでいるが、受け入れた。@{K}He is disappointed, but accedes.",
                                      "LinkToEvent": {"Id": 143346}, "Name": "「なら仕方ない」@{K}\"So be it.\"",
                                      "Id": 181955},
                     "Name": "上陸を禁じる@{K}Forbid his leave", "Description": "今は駄目だ。@{K}Now is not the time.",

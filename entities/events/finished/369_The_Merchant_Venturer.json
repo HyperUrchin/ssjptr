@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "　彼が必要とするものは明確に限定されてはいるものの、彼は対価として、市場の相場よりも遥かに良い金額を支払ってくれるだろう。そして彼は、あなたがそれらをどうやって手に入れたかについては、まったく問題にしないだろう。@{I}彼は特定の品を欲しがっており、市場価格よりも良い金額を支払うつもりの様だ。更に、その品物がどのように手に入ったかは問わないらしい。@{M}He has very specific needs, but he'll pay much better than market rates. And he won't ask how you came by these things.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "　彼が必要とするものは明確に限定されてはいるものの、彼は対価として、市場の相場よりも遥かに良い金額を支払ってくれるだろう。そして彼は、あなたがそれをどうやって手に入れたかについては、まったく問題にしないだろう。@{I}彼は特定の品を欲しがっており、市場価格よりも良い金額を支払うつもりの様だ。更に、その品物がどのように手に入ったかは問わないらしい。@{M}He has very specific needs, but he'll pay much better than market rates. And he won't ask how you came by these things.",
                                      "LinkToEvent": {"Id": 159414},
                                      "Name": "商機@{I}利益の機会@{M}An opportunity for profit",
                                      "Id": 168041},
