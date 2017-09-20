@@ -20,7 +20,7 @@
                                      "Name": "「毒持つ主人らからの贈り物です」@{I}\"A gift, from the pestiferous masters.\"",
                                      "Id": 167798},
                     "Name": "蜘蛛の使い@{I}The Emissary of Spiders",
-                    "Description": "　祭りは終わりに近づいている。蜘蛛の使いは、あなたが苦労して勝ち取った報酬を渡すために、リーチのそばで待っていた。[これを選択すると生糸祭は終了します。]@{I}As the festival draws to a close, he waits by the Reaches to present your hard-earned reward.\u000d\u000a [This will end the Festival of Silk]",
+                    "Description": "　祭りは終わりに近づいている。蜘蛛の使いは、あなたが苦労して勝ち取った報酬を渡すために、荒地のそばで待っていた。[これを選択すると生糸祭は終了します。]@{I}As the festival draws to a close, he waits by the Reaches to present your hard-earned reward.\u000d\u000a [This will end the Festival of Silk]",
                     "ButtonText": "", "Id": 138659},
                    {"SuccessEvent": {"Description": "　カーネリアン・コーストを航海中のあなたが、きらびやかな人魚と……あるいは魚人だったかもしれないが……営んだ熱烈な情事について。はっ！彼らはあざけった。ここまで見え透いたほら話は聞いたことがない！だが、本気で話を止めさせようとする者は一人もなかった。@{I}$Carnelian Coast -> カーネリアン・コースト$...your torrid affair with a gorgeous mermaid... or was it a merman... while sailing the Carnelian Coast? Pah, they scoff. A more blatant falsehood they have never heard! But not one of them actually says to stop.",
                                      "LinkToEvent": {"Id": 167219},
