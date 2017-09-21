@@ -6,7 +6,7 @@
            {"Name": "GenericRocks3",
             "Description": "この世界には、目に見えない線が蜘蛛の巣のように張り巡らされている。今、その一本を踏み越えた。引き絞れば、果実のように裂けるだろう。@{I}The world is webbed with invisible lines. You've crossed one. Tighten them, and it would split like a fruit."},
            {"Name": "Generic_Reefs",
-            "Description": "棘だらけの塔が偽星の明かりの中にそびえている。暗礁に気を付けなければ。@{I}$false-star -> 偽星$Spined towers rear in the light of the false-stars. Ware reefs."},
+            "Description": "棘だらけの塔が偽星の明かりの中にそびえている。暗礁に気を付けなければ。@{I}$[Ff]alse[- ][Ss]tar -> 偽星$Spined towers rear in the light of the false-stars. Ware reefs."},
            {"Name": "Generic_Ruins",
             "Description": "風が遠くからの詠唱の響きを運んでくる。ここでは、大昔に死んだ僧たちが未だに時を数えている。@{I}The wind carries the echo of distant chants. Long-dead priests still count the hours in this place."},
            {"Name": "Generic_Shroomy1",

@@ -64,7 +64,7 @@ Bultitude, バルティテュード
 Glory, グローリー
 Villein, ヴィレイン
 Plucky Researcher, 断固たる研究者
-Mute Exile, 語らざる追放者
+Mute Exile, 語らざる亡命者
 Smiling Priest, 微笑む司祭
 Tireless Mechanic, 疲れ知らずのメカニック
 Genial Magician, 気さくなマジシャン

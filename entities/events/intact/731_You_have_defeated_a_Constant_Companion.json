@@ -15,7 +15,7 @@
                     "DefaultEvent": {"Description": "It takes a pry-bar and a pickaxe to detach a grub from the bulbous hulk of its mother. It emits a constant, irritating noise - like the whine of a wasp trapped in honey, amplified and prolonged. Eventually, one of the small grubs pops free. Once on board the ship, the curled, yellow mass wriggles and squeals, before whitening and falling still. A crewman tentatively approaches. The grub writhes to life, burrowing into him hungrily. By the time you are able to separate them, both crewman and grub are dead. ",
                                      "Name": "A last retort", "Id": 242600},
                     "Name": "Bring a grub aboard ",
-                    "Description": "The wriggling children of the Companion still cling to their parent's husk. Perhaps one will live. It will be interesting to study at close quarters regardless. [This will significantly improve your Iron if it is not already too high.]",
+                    "Description": "$Iron -> アイアン$The wriggling children of the Companion still cling to their parent's husk. Perhaps one will live. It will be interesting to study at close quarters regardless. [This will significantly improve your Iron if it is not already too high.]",
                     "ButtonText": "", "Id": 185483}],
  "Description": "Its cluster of articulated legs are curled back on themselves and its variegated stomach exposed. Its mandibles clack gently in a zee-current. Otherwise the Companion's only movements are spasmodic jerks as its limbs stiffen in death.",
  "Name": "You have defeated a Constant Companion", "Id": 242599}

@@ -1,7 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "　あなたのパトロンは、あなたを下がらせる前にアドバイスをくれた。そのような特別な贈り物を見つけるには、クーマエ運河が最も有望な場所なのだという。@{I}$Cumaean Canal -> クーマエ運河$Your Patron dismisses you with the advice that the Cumaean Canal is the likeliest place to source such a particular gift. ",
                                      "Name": "", "Id": 168578},
                     "Name": "その特別な取り計らいに同意する@{I}You agree to the courtesies",
-                    "Description": "「誰か、ごく最近に地上に上がったことのある者を連れてくるんだ。レオポルドが地上の記憶をとても好んでいるのは知っているだろう？ああいや、もしかしたら君は知らないかもしれないか。だがそうなんだよ」@{I}$Surface -> 地上$\"Fetch me someone who has very recently been up to the Surface. Leopold rather fancies Surface-memories, you know? Ah, maybe you don't. But it is true, nonetheless.\"",
+                    "Description": "「誰か、ごく最近に地上に上がったことのある者を連れてくるんだ。レオポルドが地上の記憶をとても好んでいるのは知っているだろう？ああいや、もしかしたら君は知らないかもしれないか。だがそうなんだよ」@{I}$[Tt]he Surface -> 地上$\"Fetch me someone who has very recently been up to the Surface. Leopold rather fancies Surface-memories, you know? Ah, maybe you don't. But it is true, nonetheless.\"",
                     "ButtonText": "", "Id": 139084},
                    {"DefaultEvent": {"Description": "　イザリーの瞳に、何か野蛮で危険なものが浮かぶのが分かった。だが、それはすぐに穏やかな失望に置き換わった。今後再びあなたの協力が求められることはないだろうと、あなたは確信を持った。そしてあなたは、思いがけず死刑執行の猶予を言い渡されたような感覚を拭うことができなかった。@{I}$Isery -> イザリー$You see something wild and dangerous in Isery's eyes, but it is quickly replaced by genial disappointment. You are certain that your services will not be required again, and you cannot help the sense that you have been granted an unlikely reprieve.",
                                      "Name": "", "Id": 168579},

@@ -6,4 +6,5 @@
                     "Description": "　彼らに見つけてくるように言われたものはここにある。そう期待したい。@{I}Here is what they sent you to find. Hopefully.",
                     "ButtonText": "", "Id": 138485}],
  "Description": "　歓待があろうがなかろうが、手ぶらであそこに戻るのは酷く悪い考えのように感じられる。織手の一人が、良い知らせを受け取るために立ち上がった。@{I}Hospitality or not, you sense it would be a very bad idea to return empty-handed. A Weaver stands ready to receive the good news.",
- "Name": "石の巣に報告に戻る@{I}Report back to the Web of Stone", "Id": 167503}
+ "Name": "石の巣に報告に戻る@{I}Report back to the Web of Stone",
+ "Id": 167503}

@@ -1,2 +1,3 @@
-{"Description": "漆黒の象牙から美しく彫り出された、zeeの怪物の文鎮。[あなたの系譜の船長が、zeeの怪物の子供だと判明した証です。]@{I}地獄の象牙から美しく掘り出された、ジーモンスターの文鎮。[貴方の家系で前の船長がジーモンスターの子供だったと証明された証です。]@{M}A zee-monster paperweight, beautifully carved from Stygian ivory. [A previous captain in your lineage proved to be the child of a zee-monster]",
- "Name": "記念品: 怪物の鑑@{I}記念品: 怪物フィギュア@{M}Trophy: A Model Monster", "Id": 115187}
+{"Description": "漆黒の象牙から美しく彫り出された、zeeの怪物の文鎮。[あなたの系譜の船長が、zeeの怪物の子供だと判明した証です。]@{I}地獄の象牙から美しく掘り出された、ジーモンスターの文鎮。[貴方の家系で前の船長がジーモンスターの子供だったと証明された証です。]@{M}$[Ss]tygian[- ][Ii]vory -> 漆黒の象牙$A zee-monster paperweight, beautifully carved from Stygian ivory. [A previous captain in your lineage proved to be the child of a zee-monster]",
+ "Name": "記念品: 怪物の鑑@{I}記念品: 怪物フィギュア@{M}Trophy: A Model Monster",
+ "Id": 115187}

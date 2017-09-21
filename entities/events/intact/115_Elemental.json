@@ -9,7 +9,7 @@
                     "Name": "Enter her embrace",
                     "Description": "She will be alone no longer. [This will end your game. But future captains will receive a bonus.]",
                     "ButtonText": "", "Id": 194153},
-                   {"DefaultEvent": {"Description": "$Aft -> 後部$The coffin speeds upwards. Lady Black follows you, silently. She does not labour to keep pace. She examines you through your face-visor with fierce interest, as though trying to commit your every feature to memory.\u000d\u000a\u000d\u000aAfter seven minutes she sighs.\u000d\u000a\u000d\u000aAfter fourteen minutes she plucks a strand of her coiling hair, and ties it to your line.\u000d\u000a\u000d\u000aAfter twenty one minutes, as your zubmarine comes into view, she grasps your hand. She squeezes your fingers urgently. Then her hand slips from yours, and she is gone.",
+                   {"DefaultEvent": {"Description": "The coffin speeds upwards. Lady Black follows you, silently. She does not labour to keep pace. She examines you through your face-visor with fierce interest, as though trying to commit your every feature to memory.\u000d\u000a\u000d\u000aAfter seven minutes she sighs.\u000d\u000a\u000d\u000aAfter fourteen minutes she plucks a strand of her coiling hair, and ties it to your line.\u000d\u000a\u000d\u000aAfter twenty one minutes, as your zubmarine comes into view, she grasps your hand. She squeezes your fingers urgently. Then her hand slips from yours, and she is gone.",
                                      "Name": "Commeration", "Id": 260317},
                     "Name": "Tug your line! Ascend!",
                     "Description": "How many zailors can claim to have escaped Lady Black?",

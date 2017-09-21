@@ -8,7 +8,7 @@
                     "Name": "Trade a 'delicacy' for lungweed",
                     "Description": "The Nook-folk eat mostly fish and sheets of filmy, edible, awful residue chiselled from between their city's teeth. They are always eager for something different.",
                     "ButtonText": "", "Id": 190896},
-                   {"DefaultEvent": {"Description": "$Aft -> 後部$The trade takes place in your airlock - the Nook-folk can manage honest air, for a time. After she's heard your tale, the Spear-Fisher bares her teeth, and parts with a handful of dark green lungweed.",
+                   {"DefaultEvent": {"Description": "The trade takes place in your airlock - the Nook-folk can manage honest air, for a time. After she's heard your tale, the Spear-Fisher bares her teeth, and parts with a handful of dark green lungweed.",
                                      "LinkToEvent": {"Id": 254174}, "Name": "", "Id": 254177},
                     "Name": "Trade a horror for lungweed",
                     "Description": "A Vigilant Spear-Fisher wants to stay sharp and sleep lightly. She will trade lungweed for nightmares.",

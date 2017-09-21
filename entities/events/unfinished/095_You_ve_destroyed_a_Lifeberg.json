@@ -15,7 +15,7 @@
                     "ButtonText": "", "Id": 131984},
                    {"SuccessEvent": {"Description": "　パラフィンの光沢を放つ、ろう状の白い塊が、肉質の氷に混じって漂っていた。これらは水夫たちが『地獄の糞』と呼ぶものだ。ライフバーグがこれらを食べたのか、あるいは産み出したのだろうか？あなたは他にも、それまでの犠牲者が遺した物資を何樽か引き揚げることができた。@{I}$[Ll]ifeberg -> ライフバーグ$Waxy white lumps, paraffin-sheened, drift among the fleshy ice. These are what zailors call 'hell-droppings'. Did the Lifeberg eat them, or produce them? You can salvage, besides, a few barrels of supplies, left from a previous victim.",
                                      "Name": "", "Id": 144298},
-                    "DefaultEvent": {"Description": "　凍りつき、半ば消化されたターボットが少し。とてつもなく古いライムが一樽。@{I}A few frozen and half-digested turbot. A barrel of extravagantly ancient limes.",
+                    "DefaultEvent": {"Description": "　凍りつき、半ば消化されたターボットが少し。とてつもなく古いライムが一樽。@{I}$[Gg]ant -> ギャント$A few frozen and half-digested turbot. A barrel of extravagantly ancient limes.",
                                      "Name": "期待はずれな収穫@{I}A disappointing haul", "Id": 144297},
                     "Name": "物資の補充に専念する@{I}Concentrate on replenishing supplies",
                     "Description": "　こいつは巨大だ。中には食べられるものや燃えやすいものがあるだろう。どこかには。@{I}It's big. There may be something edible or combustible in there. Somewhere. ",

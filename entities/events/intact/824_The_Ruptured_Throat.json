@@ -12,7 +12,7 @@
                     "RareDefaultEvent": {"Description": "Ah. No pen. Of course. You'll just have to record what you remember when you're back in the zubmarine.",
                                          "LinkToEvent": {"Id": 255567},
                                          "Name": "A logistical issue", "Id": 258566},
-                    "Name": "$Port Report -> 港湾報告書$Compile a Port Report",
+                    "Name": "$[Pp]ort [Rr]eport -> 港湾報告書$Compile a Port Report",
                     "Description": "No one here has anything to hide. Actually, no one here is hiding anything at all.",
                     "ButtonText": "", "Id": 191717},
                    {"DefaultEvent": {"Description": "$[Bb]lemmigan -> ブレミガン$The blemmigan adapts to the water before it has even left the zubmarine's airlock. It bubbles contentedly and sinks deep down into the depths, where meat is fresher and the light is low.",

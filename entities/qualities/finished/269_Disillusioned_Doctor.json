@@ -1,2 +1,3 @@
 {"Description": "彼もかつては様々な物事を信じていた。@{K}彼は信じる事に慣れていた。@{M}He used to believe in things.",
- "Name": "幻滅した医師@{K}幻滅した医者@{M}Disillusioned Doctor", "Id": 115753}
+ "Name": "幻滅した医師@{K}幻滅した医者@{M}$Disillusioned Doctor -> 幻滅した医師$Disillusioned Doctor",
+ "Id": 115753}

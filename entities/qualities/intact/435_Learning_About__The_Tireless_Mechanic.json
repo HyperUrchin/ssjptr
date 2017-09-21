@@ -1,5 +1,5 @@
 {"Description": "彼は組織に感謝している。@{M}He's grateful for the company.",
- "LevelDescriptionText": "10|クレイマンと空の集光鏡箱を狩人の楼閣まで持って行く。~20|技師が石の豚の夢から秘密を盗んだという事を貴方は学んだ。@{M}$Clay M[ae]n -> クレイマン, Hunter's Keep -> ハンターズ・キープ, Mirrorcatch Box -> 鏡封じの箱$10|Take a Clay Man and an empty Mirrorcatch Box to Hunter's Keep~20|You've learnt that the Mechanic stole a secret from the dreams of the Stone Pigs.",
- "ChangeDescriptionText": "10|クレイマンと空の集光鏡箱を狩人の楼閣まで持って行く。~20|技師が石の豚の夢から秘密を盗んだという事を貴方は学んだ。@{M}$Clay M[ae]n -> クレイマン, Hunter's Keep -> ハンターズ・キープ, Mirrorcatch Box -> 鏡封じの箱$10|Take a Clay Man and an empty Mirrorcatch Box to Hunter's Keep~20|You've learnt that the Mechanic stole a secret from the dreams of the Stone Pigs.",
+ "LevelDescriptionText": "10|クレイマンと空の集光鏡箱を狩人の楼閣まで持って行く。~20|技師が石の豚の夢から秘密を盗んだという事を貴方は学んだ。@{M}$Clay M[ae]n -> クレイマン, Hunter's Keep -> ハンターズ・キープ, [Mm]irrorcatch[- ][Bb]ox -> 鏡封じの箱$10|Take a Clay Man and an empty Mirrorcatch Box to Hunter's Keep~20|You've learnt that the Mechanic stole a secret from the dreams of the Stone Pigs.",
+ "ChangeDescriptionText": "10|クレイマンと空の集光鏡箱を狩人の楼閣まで持って行く。~20|技師が石の豚の夢から秘密を盗んだという事を貴方は学んだ。@{M}$Clay M[ae]n -> クレイマン, Hunter's Keep -> ハンターズ・キープ, [Mm]irrorcatch[- ][Bb]ox -> 鏡封じの箱$10|Take a Clay Man and an empty Mirrorcatch Box to Hunter's Keep~20|You've learnt that the Mechanic stole a secret from the dreams of the Stone Pigs.",
  "Name": "人物観察: 疲れ知らずの技師@{M}$Learning About: -> 事情を知る:, Tireless Mechanic -> 疲れ知らずのメカニック$Learning About: The Tireless Mechanic",
  "Id": 112669}

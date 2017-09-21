@@ -9,4 +9,5 @@
                     "Description": "あなたはもはやこれ以上一秒たりともこの男の顔を見ていたくない@{K}You won't suffer his presence a moment longer.",
                     "ButtonText": "", "Id": 193226}],
  "Description": "放蕩者は上着の埃を払った。「これで数千年の時が終わりました。最後に私には王喰らいの城で会わねばならない人がいるのです、[q:Addressed As]。時は檻、私を出来うる限り迅速にあの場所に連れて行っていただきたいのですが」@{K}$Kingeater's Castle -> 王喰らいの城$The Gnomic Gallivant dusts off his suit. \"So ends a thousand years. I've one last appointment, [q:Addressed As], in Kingeater's Castle. Time is a cage, and I'm anxious to get there as swiftly as you'll allow.\"",
- "Name": "端的で難解な物言いの放蕩者の頼み@{K}The Gnomic Gallivant's Request", "Id": 255577}
+ "Name": "端的で難解な物言いの放蕩者の頼み@{K}The Gnomic Gallivant's Request",
+ "Id": 255577}

@@ -1,2 +1,3 @@
 {"Description": "魚肉に対する彼の超絶技巧は、帝王すらも涙する。@{M}His mastery of fish-flesh would make an emperor weep.",
- "Name": "包帯巻きの最高料理長@{M}Bandaged Chef-Paramount", "Id": 114971}
+ "Name": "包帯巻きの最高料理長@{M}$Bandaged Chef-Paramount -> 包帯巻きの最高料理長$Bandaged Chef-Paramount",
+ "Id": 114971}

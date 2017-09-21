@@ -1,2 +1,3 @@
-{"Description": "あなたはクラデリーの後継者の父親と会った。@{I}You've met the father of the Cladery Heir.",
- "Name": "クラデリーの後継者の父親と知り合う@{I}Familiar with the Cladery Heir's Father", "Id": 127692}
+{"Description": "あなたはクラデリーの後継者の父親と会った。@{I}$Cladery Heir -> クラデリーの後継者$You've met the father of the Cladery Heir.",
+ "Name": "クラデリーの後継者の父親と知り合う@{I}$Cladery Heir -> クラデリーの後継者$Familiar with the Cladery Heir's Father",
+ "Id": 127692}

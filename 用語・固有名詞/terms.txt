@@ -1,17 +1,9 @@
-Officer, オフィサー
+[Oo]fficer, オフィサー
 Ambition, 大望
-Zeefaring Life, 船乗りとしての生活
-false-star, 偽星
-Postal-Rat, 郵便ネズミ
-prow-lamp, 船首灯
-running lights, 航海灯
-Deck, 甲板
-Forward, 前部
-Auxiliary, 補助
-Aft, 後部
-Bridge, 船橋
+[Ff]alse[- ][Ss]tar, 偽星
+[Pp]ostal[- ][Rr]at, 郵便ネズミ
 Revenue M[ae]n, 徴税官
-Shapeling, シェイプリング
+[Ss]hapeling, シェイプリング
 Midnighter, ミッドナイター
 Truthbreaker Turbine, 真実砕きのタービン
 Clay M[ae]n, クレイマン
@@ -21,51 +13,42 @@ Greyfields, グレイフィールズ
 Broken Giant, ブロークン・ジャイアント
 [Bb]lemmigan, ブレミガン
 Pentecost, ペンテコステ
-[Kk]not-oracle, ノット・オラクル
-[Rr]attus faber, フェイバーネズミ
+[Kk]not[- ][Oo]racle, ノット・オラクル
+[Rr]attus[- ][Ff]aber, フェイバーネズミ
 (Department of )?Infernal Rarefaction, 悪性希薄科
-Legend's Heart, 伝説的なるものの心臓
-Miracle of Science, 科学の奇跡
-Sky-Light, 空の光
-Eldest's End, 最古老の末期
-Fruit of the Eternal Tree, 永遠の樹の果実
-Willing Guest, 意欲的な客人
-cavern-tuna, 洞窟マグロ
-the White, 白きもの
-Riddlefisher, 謎釣り人
+[Cc]avern[- ][Tt]una, 洞窟マグロ
+[Tt]he White, 白きもの
+[Rr]iddlefisher, 謎釣り人
 Game of Truth, 真実のゲーム
-shroomer, シュルーム人
+[Ss]hroomer, シュルーム人
 Parthenaeum Club, パルテニウム・クラブ
 Morelways, メレルウェイズ
-Fingerking, フィンガーキング
+[Ff]ingerking, フィンガーキング
 Khan, カーン
 Khaganian Navy, カーネイト海軍
 Khaganian, カーネイト人
-Serpent[- ]Image, 蛇の彫像
 Mountain of Light, 光輝の山
 Learning About:, 事情を知る:
 Supremacy:, 覇権:
-Rubbery Lump, ラバリー・ランプ
-lacre, ラッカー
-Nom[ae]n, ノーマン
+[Rr]ubbery[- ][Ll]ump, ラバリー・ランプ
+[Ll]acre, ラッカー
+[Nn]om[ae]n, ノーマン
 Great Signs, グレート・サイン
 Sundered Sea, 分かたれた海
 Sacks and Snow:, 袋と雪:
-Drown(y|ies), ドラウニー
-Leadbeater & Stainrod, リードビーター&ステインロッド
-Cotterell & Hathersage, コットレル&ハザーセージ
-exile's rose, 流浪者のバラ
-lamplighter bee, 灯点けミツバチ
-Chief Engineer, 機関長
-deep amber, ディープ・アンバー
-Snuffer, スナッファー
+[Dd]rown(y|ies), ドラウニー
+[Ee]xile's[- ][Rr]ose, 流浪者のバラ
+[Ll]amplighter[- ][Bb]ee, 灯点けミツバチ
+[Dd]eep[- ][Aa]mber, ディープ・アンバー
+[Ss]nuffer, スナッファー
 Great Shell, 大いなる甲羅
 Young Stags, 若牡鹿
-[Ff]rost[- ]moth, 霜蛾
+[Ff]rost[- ][Mm]oth, 霜蛾
 Salt's Song, Saltの歌
 Seven-Serpent, セブン・サーペント
 Slowcake's Exceptionals, スロウケイクの名士録
-Nevercold Brass, 冷気逃れの真鍮
+[Nn]evercold[- ][Bb]rass, 冷気逃れの真鍮
+[Rr]ostygold, ラスティゴールド
 Rubbery M[ae]n, ラバリーマン
 The Fruits of the Zee, Zeeよりの収穫
 honey-den, 蜜窟

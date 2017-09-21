@@ -1,4 +1,4 @@
 {"Description": "あなたが不在の間この島を統治する者。@{K}貴方の不在の間、統治する者。@{M}One rules in your absence.",
- "LevelDescriptionText": "1|気さくなマジシャン~2|不屈の従軍者~3|幻滅した医師@{K}1|温和なマジシャン~2|不屈の従事者~3|幻滅した医者@{M}$Genial Magician -> 気さくなマジシャン$1|The Genial Magician~2|The Indomitable Campaigner~3|The Disillusioned Doctor",
- "ChangeDescriptionText": "3|幻滅した医師が総督となった。~2|不屈の従軍者が総督となった。~1|気さくなマジシャンが総督となった。@{K}3|幻滅した医者が貴方の太守となった。~2|不屈の従事者が貴方の太守となった。~1|温和なマジシャンが貴方の太守となった。@{M}$Genial Magician -> 気さくなマジシャン$3|The Disillusioned Doctor is now your viceroy.~2|The Indomitable Campaigner is now your viceroy.~1|The Genial Magician is now your viceroy.",
+ "LevelDescriptionText": "1|気さくなマジシャン~2|不屈の従軍者~3|幻滅した医師@{K}1|温和なマジシャン~2|不屈の従事者~3|幻滅した医者@{M}$Genial Magician -> 気さくなマジシャン, Indomitable Campaigner -> 不屈の従軍者, Disillusioned Doctor -> 幻滅した医師$1|The Genial Magician~2|The Indomitable Campaigner~3|The Disillusioned Doctor",
+ "ChangeDescriptionText": "3|幻滅した医師が総督となった。~2|不屈の従軍者が総督となった。~1|気さくなマジシャンが総督となった。@{K}3|幻滅した医者が貴方の太守となった。~2|不屈の従事者が貴方の太守となった。~1|温和なマジシャンが貴方の太守となった。@{M}$Genial Magician -> 気さくなマジシャン, Indomitable Campaigner -> 不屈の従軍者, Disillusioned Doctor -> 幻滅した医師$3|The Disillusioned Doctor is now your viceroy.~2|The Indomitable Campaigner is now your viceroy.~1|The Genial Magician is now your viceroy.",
  "Name": "王国: 総督@{K}王国: 太守@{M}Kingdom: your Viceroy", "Id": 110467}

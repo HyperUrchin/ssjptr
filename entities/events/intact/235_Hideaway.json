@@ -1,7 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "Most Hideaway dwellers toil to strengthen their city against the zee's crushing weight. Those that don't instead prepare for that night's festival. And all without a word spoken aloud! If they need to communicate, the people of Hideaway rely on a strict system of acutely formal gestures.",
                                      "LinkToEvent": {"Id": 152190},
                                      "Name": "A city of strict custom", "Id": 237492},
-                    "Name": "$Port Report -> 港湾報告書$Assemble a Port Report",
+                    "Name": "$[Pp]ort [Rr]eport -> 港湾報告書$Assemble a Port Report",
                     "Description": "Explore the city. Record the habits of those that dwell within.",
                     "ButtonText": "", "Id": 182154},
                    {"DefaultEvent": {"Description": "$[Bb]lemmigan -> ブレミガン$The blemmigan rushes towards an open grate and leaps into the darkness. A worker standing nearby smiles broadly. She waves at a group of her fellows to gain their attention. Then, she points down and sweeps her hand up to her heart. She takes a few sidesteps before throwing her hands into the air. What could she be saying? Her co-workers nod, raise their own hands into the air, and sway for a moment. It's unclear whether they're happy, but they're certainly not displeased. ",
@@ -112,5 +112,5 @@
                     "Name": "Search for the Fierce Philanthropist's husband",
                     "Description": "Did he hide here, among the outcasts and the pariahs?",
                     "ButtonText": "", "Id": 193259}],
- "Description": "On the back of a gigantic beast live exiles from every corner of the Neath. Here gather the traitors, heretics, artists, fools, and the too-honest. Despite possessing a range of radically different ideologies, these outcasts live together peacefully.",
+ "Description": "$[Gg]ant -> ギャント$On the back of a gigantic beast live exiles from every corner of the Neath. Here gather the traitors, heretics, artists, fools, and the too-honest. Despite possessing a range of radically different ideologies, these outcasts live together peacefully.",
  "Name": "Hideaway", "Id": 152190}

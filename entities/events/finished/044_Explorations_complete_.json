@@ -1,6 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "いずれの島でもさらなる調査が必要とされている。しかし今のところは、初期の発見で故郷の人々の好奇心を刺激することが出来るかどうか見るにとどめておくのがいいだろう。@{K}All of them warrant further attention. For now though, it would be best to see if your initial discoveries can whet the interest of anyone back home.",
                                      "Name": "帝国の島々@{K}The islands of the Empire", "Id": 143332},
-                    "Name": "包括的な港湾報告書を作成する@{K}$Port Report -> 港湾報告書$Prepare a Comprehensive Port Report",
+                    "Name": "包括的な港湾報告書を作成する@{K}$[Pp]ort [Rr]eport -> 港湾報告書$Prepare a Comprehensive Port Report",
                     "Description": "この遥か東の海域まで敢えてやって来る理由のある者はほとんどいない。その上、この島では交易が禁止されているのだ。海軍省は最新の情報に良い値を払ってくれるだろう。@{K}$Admiralty -> 海軍省$Few have reason to brave the waters this far East, especially with the trade embargo. The Admiralty will pay especially well for up-to-date intelligence.",
                     "ButtonText": "", "Id": 124062}],
  "Description": "もしかすると、集めた情報を役立てることが出来るかもしれない……@{K}Perhaps you can use the information you've gleaned...",

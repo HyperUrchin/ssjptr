@@ -41,7 +41,7 @@
                                      "LinkToEvent": {"Id": 258162},
                                      "Name": "You don your diving gear", "Id": 258163},
                     "Name": "Rest in one of the graves",
-                    "Description": "A true zailor will find the zee as comfortable as any bed, it is said. [This Rite will increase your Veils by 20 but decrease your Hearts by 10. Succeed or fail, you will gain the rite, but failure will increase your Terror.]",
+                    "Description": "$Hearts -> ハート, Veils -> ヴェール$A true zailor will find the zee as comfortable as any bed, it is said. [This Rite will increase your Veils by 20 but decrease your Hearts by 10. Succeed or fail, you will gain the rite, but failure will increase your Terror.]",
                     "ButtonText": "", "Id": 192618},
                    {"SuccessEvent": {"Description": "Your helmsman's response is unjustifiably foul-mouthed, but she assents. \u000d\u000a\u000d\u000aYour zubmarine's pinprick of light shines onto a cliff side, illuminating only a spot of a vast, inverted cathedral: a Fathomless Church. ",
                                      "LinkToEvent": {"Id": 258162}, "Name": "Deeper still",

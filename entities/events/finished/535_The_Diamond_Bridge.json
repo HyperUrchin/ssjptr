@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 181006},
                                      "Name": "灼けつく幻惑@{K}An acid dazzle", "Id": 181462},
                     "Name": "橋を渡る@{K}Cross the bridge",
-                    "Description": "光があなたの存在そのものを蝕むだろう。[この選択肢はページを１ポイント犠牲にします。]@{K}The light will erode what you are. [This will sacrifice one point of Pages.]",
+                    "Description": "光があなたの存在そのものを蝕むだろう。[この選択肢はページを１ポイント犠牲にします。]@{K}$Pages -> ページ$The light will erode what you are. [This will sacrifice one point of Pages.]",
                     "ButtonText": "", "Id": 146934},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 181006},
                                      "Name": "", "Id": 181463},
@@ -22,5 +22,5 @@
                     "Name": "橋を渡る@{K}Cross the bridge",
                     "Description": "太陽を思い出す。@{K}You remember the sun.",
                     "ButtonText": "", "Id": 146933}],
- "Description": "テネブとブライトの塔の間にかかるその狭い橋は目が眩むほどに明るく、全ての色に、そして全くの無色に輝いている。橋の上に出れば、あなたは砂漠の一匹の虫のように、手術台の上の死後間もない死体のように、そして太陽に照らされた宝石のように全てに曝け出されることになるだろう。@{K}$Bridge -> 船橋, Brite -> ブライト, Teneb -> テネブ$A narrow space of blinding light, all colours and none, between the towers of Brite and the towers of Teneb. Once on the Bridge, you will be exposed, like an insect in the desert, like a fresh carcass on the operating table, like a jewel in the sun.",
- "Name": "ダイアモンドの橋@{K}$Bridge -> 船橋$The Diamond Bridge", "Id": 181460}
+ "Description": "テネブとブライトの塔の間にかかるその狭い橋は目が眩むほどに明るく、全ての色に、そして全くの無色に輝いている。橋の上に出れば、あなたは砂漠の一匹の虫のように、手術台の上の死後間もない死体のように、そして太陽に照らされた宝石のように全てに曝け出されることになるだろう。@{K}$Brite -> ブライト, Teneb -> テネブ$A narrow space of blinding light, all colours and none, between the towers of Brite and the towers of Teneb. Once on the Bridge, you will be exposed, like an insect in the desert, like a fresh carcass on the operating table, like a jewel in the sun.",
+ "Name": "ダイアモンドの橋@{K}The Diamond Bridge", "Id": 181460}

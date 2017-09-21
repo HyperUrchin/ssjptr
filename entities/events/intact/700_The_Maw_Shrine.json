@@ -9,7 +9,7 @@
                     "Name": "Leave the Maw-Shrine",
                     "Description": "Return to central Nook.", "ButtonText": "",
                     "Id": 186058},
-                   {"DefaultEvent": {"Description": "You claw wildly through the water towards your vessel. Your aim is desperate; dark blotches and white cracks flare through your vision. The effort of not breathing burns. The airlock is ready, open; but it must be closed and emptied. Finally, air inches into the top of the chamber. You cough and retch the Nookwater from your lungs. ",
+                   {"DefaultEvent": {"Description": "$[Ff]lare -> 照明弾$You claw wildly through the water towards your vessel. Your aim is desperate; dark blotches and white cracks flare through your vision. The effort of not breathing burns. The airlock is ready, open; but it must be closed and emptied. Finally, air inches into the top of the chamber. You cough and retch the Nookwater from your lungs. ",
                                      "LinkToEvent": {"Id": 240515}, "Name": "Too close",
                                      "Id": 243571},
                     "Name": "The Creeping Drown",
@@ -28,7 +28,7 @@
                                      "LinkToEvent": {"Id": 239971}, "Name": "Reverent hush",
                                      "Id": 239972},
                     "Name": "Pursue your Investigations",
-                    "Description": "The priests must be concerned for the well being of their congregants. Have they any insight into the events causing the Nookers such fear?",
+                    "Description": "$[Gg]ant -> ギャント$The priests must be concerned for the well being of their congregants. Have they any insight into the events causing the Nookers such fear?",
                     "ButtonText": "", "Id": 183732}],
  "Description": "A tall tooth has been carved into a spiralled cone. It is ringed with delicate patterns, each band representing a stratum of Nook society. It is an honest depiction of the population. The lowest band is oppressively intricate, with hooks and blades gouged into its design. The pinnacle is unmarred and highly polished. The elite find life smooth-living, here. \u000d\u000a\u000d\u000aToday the shrine seems popular. Is this piety caused by the constant shaking of the ground, or are the Nookers a devout group?",
  "Name": "The Maw-Shrine", "Id": 239971}

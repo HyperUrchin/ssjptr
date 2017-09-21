@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "　二人の頑強な水夫が彼を海に放り込んだ。彼の激怒した叫びは、船のエンジンの雄叫びに紛れて消えた。あなたは一等航海士に、この件は日誌に残さないよう言いつけた。@{I}二人の逞しい船乗りが彼を海に放り投げた。彼の激怒の叫びはエンジンの咆哮にかき消される。貴方はこの事件は航海日誌に書き残さない様に副船長に指示した。@{M}$Officer -> オフィサー$Two burly zailors heave him into the brine. His enraged shouts are lost in the roar of the ship's engines. You instruct your First Officer to make no mention of the incident in the log.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "　二人の頑強な水夫が彼を海に放り込んだ。彼の激怒した叫びは、船のエンジンの雄叫びに紛れて消えた。あなたは一等航海士に、この件は日誌に残さないよう言いつけた。@{I}二人の逞しい船乗りが彼を海に放り投げた。彼の激怒の叫びはエンジンの咆哮にかき消される。貴方はこの事件は航海日誌に書き残さない様に副船長に指示した。@{M}$[Oo]fficer -> オフィサー$Two burly zailors heave him into the brine. His enraged shouts are lost in the roar of the ship's engines. You instruct your First Officer to make no mention of the incident in the log.",
                                      "Name": "抗議の叫び！@{I}抗議の叫び!@{M}Shouts of protest!",
                                      "Id": 151249},
                     "Name": "悪党を船外に投げ捨てる！@{I}悪党を船外につまみ出せ!@{M}Fling the villain overboard!",

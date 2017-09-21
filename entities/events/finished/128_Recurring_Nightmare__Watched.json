@@ -19,5 +19,5 @@
                     "Name": "悪夢からの逃避@{M}Flee the Nightmare",
                     "Description": "舵を回し、乳白色に輝く海を突っ切って逃げる。[これは悪夢の力を弱めます。もし力が0に到達した場合、悪夢は完全に消え去ります。もし\"安らかな夜\"を持っていれば、難易度が下がります。]@{M}$Restful Night -> 安らかな夜, Nightmare's Strength -> 悪夢の力$Turn the helm and flee across the milk-bright sea. [This will reduce Nightmare's Strength. If it reaches 0, the Nightmare will fade entirely. If you have any Restful Nights, they'll reduce the difficulty.]",
                     "ButtonText": "", "Id": 127750}],
- "Description": "海は乳の様に白く明るい: 上空に煌めく偽りの星々が天井のベッドの上で、黒い。何かが貴方を見つめている。視線は貴方の船を包み込む。貴方はガラスのように透明な存在となる。@{M}$false-star -> 偽星$The sea is bright as milk: false-stars above are black on a pitchy bed. Something is watching you. Its gaze enfolds your boat. You are transparent as glass.",
+ "Description": "海は乳の様に白く明るい: 上空に煌めく偽りの星々が天井のベッドの上で、黒い。何かが貴方を見つめている。視線は貴方の船を包み込む。貴方はガラスのように透明な存在となる。@{M}$[Ff]alse[- ][Ss]tar -> 偽星$The sea is bright as milk: false-stars above are black on a pitchy bed. Something is watching you. Its gaze enfolds your boat. You are transparent as glass.",
  "Name": "繰り返す悪夢: 視線@{M}Recurring Nightmare: Watched", "Id": 147411}

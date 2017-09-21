@@ -32,7 +32,7 @@
                     "Id": 153969},
                    {"DefaultEvent": {"Description": "$Pirate-Poet -> 海賊詩人$The money is delivered to your cabin. The Pirate-Poet is given a lifeboat and sent on her way.",
                                      "Name": "Business is concluded", "Id": 193075},
-                    "Name": "$Officer -> オフィサー$Have an Officer rescue her",
+                    "Name": "$[Oo]fficer -> オフィサー$Have an Officer rescue her",
                     "Description": "They can bring you her freedom-price. You have more important matters to attend to.",
                     "ButtonText": "", "Id": 153984},
                    {"DefaultEvent": {"Description": "$Pirate-Poet -> 海賊詩人$The Pirate-Poet has not forgotten your earlier encounters. She hands over what money she has and departs in a lifeboat without uttering a single word.",

@@ -12,5 +12,5 @@
                     "Name": "断る@{K}Refuse it",
                     "Description": "あなたは船員を慎重に選ぶ。@{K}You'll pick your crew more carefully.",
                     "ButtonText": "", "Id": 130389}],
- "Description": "沈黙の追放者が船員としてあなたの船に乗りたがっている。許可しようか？@{K}$Mute Exile -> 語らざる追放者$A Mute Exile wants to join your crew. Will you permit it?",
+ "Description": "沈黙の追放者が船員としてあなたの船に乗りたがっている。許可しようか？@{K}$Mute Exile -> 語らざる亡命者$A Mute Exile wants to join your crew. Will you permit it?",
  "Name": "追放者を船に？@{K}An Exile Aboard?", "Id": 153222}

@@ -1,3 +1,4 @@
-{"Description": "あなたとクラデリーの後継者は何かを探しているのかい？@{I}Have you and the Cladery Heir been looking for something?",
+{"Description": "あなたとクラデリーの後継者は何かを探しているのかい？@{I}$Cladery Heir -> クラデリーの後継者$Have you and the Cladery Heir been looking for something?",
  "ChangeDescriptionText": "1|これからの後継者との調査は簡単になるだろう。@{I}1|Your future investigations with the Heir will be easier.",
- "Name": "クラデリーの後継者との調査@{I}Investigating with the Cladery Heir", "Id": 128302}
+ "Name": "クラデリーの後継者との調査@{I}$Cladery Heir -> クラデリーの後継者$Investigating with the Cladery Heir",
+ "Id": 128302}

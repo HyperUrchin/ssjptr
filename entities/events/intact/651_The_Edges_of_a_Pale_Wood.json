@@ -4,7 +4,7 @@
                     "Name": "Follow the Once-Great Poet",
                     "Description": "\"This way, this way!\" He scampered along a thorny trail, his weariness left in the waking world.",
                     "ButtonText": "", "Id": 177604},
-                   {"DefaultEvent": {"Description": "$Aft -> 後部$You traded tales of London. His were from the days before it fell: of markets on the frozen river and odd, outlawed street names. Yours are from after: the flutter of bats about the chimneys, the flickering glow of the Bazaar-sigils, the schemes of the Masters.\u000d\u000a\u000d\u000aAfterward, he strokes his beginnings of a beard. \"Times change, eh? There's no going back, of course. But there's sometimes new beginnings.\" He gives you a smile of crooked teeth.",
+                   {"DefaultEvent": {"Description": "You traded tales of London. His were from the days before it fell: of markets on the frozen river and odd, outlawed street names. Yours are from after: the flutter of bats about the chimneys, the flickering glow of the Bazaar-sigils, the schemes of the Masters.\u000d\u000a\u000d\u000aAfterward, he strokes his beginnings of a beard. \"Times change, eh? There's no going back, of course. But there's sometimes new beginnings.\" He gives you a smile of crooked teeth.",
                                      "LinkToEvent": {"Id": 230606}, "Name": "You took a seat",
                                      "Id": 230608},
                     "Name": "You spoke to a Smiling Young Man",

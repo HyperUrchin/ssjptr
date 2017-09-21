@@ -3,7 +3,7 @@
  "Shops": [{"Name": "ウルフスタック取引所@{I}$Wolfstack -> ウルフスタック, Wolfstack Exchange -> ウルフスタック取引所, Wolf -> ウルフ$Wolfstack Exchange",
             "Description": "ありふれた商材の交易はわずかな利益を生むに過ぎない。他の機会を探そう。@{I}Trading in common goods will only earn slim profits. Seek other opportunities.\u000a",
             "Id": 13},
-           {"Name": "アイアン＆ミザリー社@{I}$Iron & Misery Company -> アイアン＆ミザリー社$The Iron & Misery Company",
+           {"Name": "アイアン＆ミザリー社@{I}$Iron -> アイアン, Iron & Misery -> アイアン＆ミザリー$The Iron & Misery Company",
             "Description": "[強力なエンジンであるほど燃料効率は下がりますが、巨大で鈍重な船には、速さの向上は不可欠です。]@{I}[More powerful engines consume more fuel, but increase speed - essential for large slow ships.]",
             "Id": 14},
            {"Name": "カロウズ・ネイヴァル・サープラス@{I}$Carrow's Naval Surplus -> カロウズ・ネイヴァル・サープラス, Carrow -> カロウ$Carrow's Naval Surplus",

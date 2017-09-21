@@ -1,6 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "ベンシック学寮はロンドン一偏見のない、開かれた心を持つ大学だ。あなたはサマーセット学寮の色を纏った通りすがりに軽蔑の目を向けられながら、悪魔やボヘミアンの生徒たちと共に講義の列に並んだ。@{K}ベンシック学寮が、ロンドンで一番進取的な大学である。貴方は学生や悪魔、ジプシーなどの列に加わって講義を待っている。珍妙な色をした通りすがりにクスクスと笑われながらジロジロ見られている。@{M}Benthic is the most open-minded of the London colleges. You find yourself waiting for the lecture in a queue of students, devils and bohemians, observed with some scorn by passers-by in Summerset colours.",
                                      "LinkToEvent": {"Id": 176037},
-                                     "Name": "ベンシックへの訪問@{K}ベンシックへの旅程@{M}A trip to Benthic", "Id": 176029},
+                                     "Name": "ベンシックへの訪問@{K}ベンシックへの旅程@{M}A trip to Benthic",
+                                     "Id": 176029},
                     "Name": "講義に参加する@{M}Attend the lecture",
                     "Description": "どのような機会であれ、少なくとも調査するだけの価値はあるだろう。@{K}少なくとも、機会を得るために探索する価値はある。@{M}Opportunities are always worth exploring, at least.",
                     "ButtonText": "", "Id": 143646},

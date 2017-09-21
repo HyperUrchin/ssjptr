@@ -10,6 +10,6 @@
                     "Name": "彼の依頼を受ける@{I}Accept his commission",
                     "Description": "「遠くへ運んで頂きます。場所はあとで説明します。報酬はお支払いします」[あなたが既に輝く瞳のシーケンサーと大晶洞への輸送の約束を交していた場合、あなたはそれを破ることになります。]@{I}$Grand Geode -> 大晶洞$\"Take it far away. We'll tell you where. You will be paid.\" [If you've already arranged with the Bright-Eyed Sequencer to take it to the Grand Geode, this will cause you to renege.]",
                     "ButtonText": "", "Id": 143692}],
- "Description": "「バザールはソルト・ライオンから昔の記憶を貪っています。そんなことをしても、ただ、彼女自身の憂鬱が深まるだけだというのに。そしてそれは、私たち皆にとっては、なお悪いことです。特に、バザールを愛する者にとっては」<br/><br/>「そこで、私たちはスフィンクスストーンの別の使い途を見つけました。私たちは物事を正すことができるのです」@{I}$Salt Lions -> ソルト・ライオン$\"The Bazaar has been feasting on old memories from the Salt Lions. It only makes her more melancholy, and that's worse for all of us... but especially those who love her.\"\u000d\u000a\u000d\u000a\"So we've found another use for the Sphinxstone. We can set something right.\"",
+ "Description": "「バザールはソルト・ライオンから昔の記憶を貪っています。そんなことをしても、ただ、彼女自身の憂鬱が深まるだけだというのに。そしてそれは、私たち皆にとっては、なお悪いことです。特に、バザールを愛する者にとっては」<br/><br/>「そこで、私たちはスフィンクスストーンの別の使い途を見つけました。私たちは物事を正すことができるのです」@{I}$Salt Lions -> ソルト・ライオン, [Ss]phinxstone -> スフィンクスストーン$\"The Bazaar has been feasting on old memories from the Salt Lions. It only makes her more melancholy, and that's worse for all of us... but especially those who love her.\"\u000d\u000a\u000d\u000a\"So we've found another use for the Sphinxstone. We can set something right.\"",
  "Name": "ペンストックの請願@{I}$Penstock -> ペンストック$Penstock's Plea",
  "Id": 176107}

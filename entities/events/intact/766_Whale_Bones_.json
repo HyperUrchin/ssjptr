@@ -18,7 +18,7 @@
                                      "Name": "You don your diving gear", "Id": 243626},
                     "RareDefaultEvent": {"Description": "You set to with the bone saw. While you work, curious shoals of angler-fish swim past, providing a brief flurry of light. The beast's bones are notched, as though others had attempted this before. The marrow is curiously absent of colour - thin and oily, seeping slowly into the water when the bone is snapped. ",
                                          "Name": "You don your diving gear", "Id": 245549},
-                    "Name": "Harvest stygian ivory ",
+                    "Name": "$[Ss]tygian[- ][Ii]vory -> 漆黒の象牙$Harvest stygian ivory ",
                     "Description": "The bones are intact, and valuable. ",
                     "ButtonText": "", "Id": 186099}],
  "Description": "The zee has not been kind. The colossal skull is intact, but the body has been reduced to a gnawed frame of bones. Carvings have been scored into the bones. ",

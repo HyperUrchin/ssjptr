@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "「ありがとう、船長。あなたにはまだ目も魂もありません。スフィンクスストーンを南へ、大晶洞へと運んでください。そこはかつては海軍省の基地だったのですけれど、今では素晴らしい場所になっていますよ」彼女はあなたの頬に暖かなキスをした。「またすぐにお会いしましょう」@{I}$Admiralty -> 海軍省, Grand Geode -> 大晶洞$\"Captain, thank you. You are clear of eye and clear of spirit. Bring the Sphinxstone south, to the Grand Geode. It was an Admiralty base, once. Now it's something wonderful.\" She kisses you warmly on the cheek. \"We'll see you soon.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "「ありがとう、船長。あなたにはまだ目も魂もありません。スフィンクスストーンを南へ、大晶洞へと運んでください。そこはかつては海軍省の基地だったのですけれど、今では素晴らしい場所になっていますよ」彼女はあなたの頬に暖かなキスをした。「またすぐにお会いしましょう」@{I}$Admiralty -> 海軍省, Grand Geode -> 大晶洞, [Ss]phinxstone -> スフィンクスストーン$\"Captain, thank you. You are clear of eye and clear of spirit. Bring the Sphinxstone south, to the Grand Geode. It was an Admiralty base, once. Now it's something wonderful.\" She kisses you warmly on the cheek. \"We'll see you soon.\"",
                                      "LinkToEvent": {"Id": 141880},
                                      "Name": "光り輝く微笑み@{I}A brilliant smile", "Id": 175543},
                     "Name": "受け入れる@{I}Accept",

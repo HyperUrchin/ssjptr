@@ -32,6 +32,6 @@
                     "Name": "来た道を逆向きに辿る@{K}Retrace your steps",
                     "Description": "戻っていく……外へと？上へと？あるいは昔へと？急ごう、この場所では方角を知るのは極めて難しい。@{K}Back - out? Up? Before? Very quickly, directions in here become impossible.",
                     "ButtonText": "", "Id": 131683}],
- "Description": "地下は全ての場所が暗闇に包まれている。しかしこの砦にあるのはかつて明るかった場所にしか存在しえない暗闇だ。この場所はむかし偽星の間に吊り下がり、その青い光に浸かっていたのだ。遥かな年月を……どれだけの間のことだろう？しかし、今は砦はここにある。あなたと同じく。[道中で蝋燭が尽きれば非常に良くないことが起こります。]@{K}$false-star -> 偽星$All the Neath is dark. The Citadel is dark as only a once-bright place can be. It hung up there among the false-stars, drowned in azure light, for... how long? Now it's here. So are you. [Very bad things will happen if you run out of candles.]",
+ "Description": "地下は全ての場所が暗闇に包まれている。しかしこの砦にあるのはかつて明るかった場所にしか存在しえない暗闇だ。この場所はむかし偽星の間に吊り下がり、その青い光に浸かっていたのだ。遥かな年月を……どれだけの間のことだろう？しかし、今は砦はここにある。あなたと同じく。[道中で蝋燭が尽きれば非常に良くないことが起こります。]@{K}$[Ff]alse[- ][Ss]tar -> 偽星$All the Neath is dark. The Citadel is dark as only a once-bright place can be. It hung up there among the false-stars, drowned in azure light, for... how long? Now it's here. So are you. [Very bad things will happen if you run out of candles.]",
  "Name": "砕かれた砦を探索する@{K}$Shattered Citadel -> 砕かれた砦$Exploring the Shattered Citadel",
  "Id": 155227}

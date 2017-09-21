@@ -3,7 +3,7 @@
                     "Name": "You'll help him get to Rosegate, but that's it",
                     "Description": "He can come on board, but your supplies are reserved for your crew.",
                     "ButtonText": "", "Id": 129898},
-                   {"DefaultEvent": {"Description": "$Aft -> 後部$The Dogged Apprentice springs up to embrace you, but collapses onto the dock. After seeing him to a bunk, you check - and double check - that your crew has securely stored away his rumbling crate. ",
+                   {"DefaultEvent": {"Description": "The Dogged Apprentice springs up to embrace you, but collapses onto the dock. After seeing him to a bunk, you check - and double check - that your crew has securely stored away his rumbling crate. ",
                                      "Name": "\"Thank you, thank you!\"", "Id": 153726},
                     "Name": "You'll not only take him to Rosegate, you'll feed him too",
                     "Description": "He's clearly weak with hunger. You can spare a little sustenance.",

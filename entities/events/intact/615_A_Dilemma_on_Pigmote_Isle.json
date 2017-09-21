@@ -8,7 +8,7 @@
                     "Name": "Advocate for his arrest",
                     "Description": "The rodents must decide a punishment that fits the crime.",
                     "ButtonText": "", "Id": 164932},
-                   {"DefaultEvent": {"Description": "$Pigmote Isle -> ピグモート・アイル, [Ss]cintillack -> シンティラック$He draws himself to his full height. \"Flourishing blessings be upon you, noble Frog. The light of our lost Left Eye draws our gaze. I come but to confirm it is as our scryers foretold, and-\"\u000d\u000a\u000d\u000aThe speech goes on for some time. D__n it. Is there anyone in the Neath that doesn't covet [q:Pigmote Isle: Mastery]'s lump of blue scintillack?",
+                   {"DefaultEvent": {"Description": "$Pigmote Isle -> ピグモート・アイル, [Bb]lue[- ][Ss]cintillack -> ブルー・シンティラック, [Ss]cintillack -> シンティラック$He draws himself to his full height. \"Flourishing blessings be upon you, noble Frog. The light of our lost Left Eye draws our gaze. I come but to confirm it is as our scryers foretold, and-\"\u000d\u000a\u000d\u000aThe speech goes on for some time. D__n it. Is there anyone in the Neath that doesn't covet [q:Pigmote Isle: Mastery]'s lump of blue scintillack?",
                                      "LinkToEvent": {"Id": 210229},
                                      "Name": "A visitor from the land of masks", "Id": 211454},
                     "Name": "Speak with the mysterious masked man",
@@ -20,6 +20,6 @@
                     "Name": "Speak with the Hippo",
                     "Description": "$Visage -> ヴィザージュ$You know the ways of Visage better than most.",
                     "ButtonText": "", "Id": 165645}],
- "Description": "$[Ss]cintillack -> シンティラック$A cloaked man in a hippo mask stands surrounded by a pack of rodent soldiers. \"We caught this one sneaking around by the...\" The aide hesitates, paws sketching the shape of Pigmote's blue scintillack. \"What should we do with him, Hairless Adviser?\"",
+ "Description": "$[Bb]lue[- ][Ss]cintillack -> ブルー・シンティラック, [Ss]cintillack -> シンティラック$A cloaked man in a hippo mask stands surrounded by a pack of rodent soldiers. \"We caught this one sneaking around by the...\" The aide hesitates, paws sketching the shape of Pigmote's blue scintillack. \"What should we do with him, Hairless Adviser?\"",
  "Name": "$Pigmote Isle -> ピグモート・アイル$A Dilemma on Pigmote Isle",
  "Id": 210229}

@@ -9,8 +9,10 @@
                     "Description": "　耳障りな乞食を罵り、脇へ押し退けよう。@{I}Curse and push the Buzzing Beggar aside.",
                     "ButtonText": "", "Id": 128334},
                    {"DefaultEvent": {"Description": "「もじかしたら、また今度にでも、たまじいを持ってきてくれるかい？俺はここにいるかもしれない。いないかもしれない」@{I}\"Perhaps - another time - you'll bring me zouls? I might be here. Or perhaps, I will not.\"",
-                                     "Name": "「ぞうかい。ぞうかい。分かったよ」@{I}\"I zee. I zee. I understand.\"", "Id": 149973},
-                    "Name": "もっと丁重な断り方をする@{I}Refuse more politely", "Description": "　今日はたまじいはない。@{I}No zouls today.",
-                    "ButtonText": "", "Id": 128336}],
+                                     "Name": "「ぞうかい。ぞうかい。分かったよ」@{I}\"I zee. I zee. I understand.\"",
+                                     "Id": 149973},
+                    "Name": "もっと丁重な断り方をする@{I}Refuse more politely",
+                    "Description": "　今日はたまじいはない。@{I}No zouls today.", "ButtonText": "",
+                    "Id": 128336}],
  "Description": "「たまじいぃ」顔を隠した人影があなたに懇願した。「たまじいだよう。持っているかい？俺はあれが恋しくってじかたがない。お礼はずるからさあ」@{I}\"Zzouls, my friend,\" a masked figure entreats you. \"Zzouls. Do you have zzouls? I miss them zo. Let me pay you for them.\"",
  "Name": "耳障りな乞食@{I}A Buzzing Beggar", "Id": 149969}

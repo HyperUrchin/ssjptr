@@ -78,7 +78,7 @@
                     "Name": "Admire a mosaic",
                     "Description": "A large chamber bears a beautiful mosaic made from hundreds of painted teeth.",
                     "ButtonText": "", "Id": 193068},
-                   {"DefaultEvent": {"Description": "The repository is filled with statues carved from the same black bone as the walls, the ceiling, the floor. This statue exults over the body of a fallen foe; this one drags itself up a shingled slope; this one is a child with the bleak eyes of an old man. The floor is carpeted in thick, dark bone-dust. \u000d\u000a\u000d\u000aYou move deeper into the serried population of statues. Wait - that one is not a statue - it's a woman, observing you with peligin eyes. She wears a dusty apron. One hand holds a delicate brush, the other a thin, gleaming chisel.",
+                   {"DefaultEvent": {"Description": "$[Pp]eligin -> ペリジン$The repository is filled with statues carved from the same black bone as the walls, the ceiling, the floor. This statue exults over the body of a fallen foe; this one drags itself up a shingled slope; this one is a child with the bleak eyes of an old man. The floor is carpeted in thick, dark bone-dust. \u000d\u000a\u000d\u000aYou move deeper into the serried population of statues. Wait - that one is not a statue - it's a woman, observing you with peligin eyes. She wears a dusty apron. One hand holds a delicate brush, the other a thin, gleaming chisel.",
                                      "LinkToEvent": {"Id": 259232},
                                      "Name": "The Stygian Repository", "Id": 259240},
                     "Name": "$Ambition -> 大望$Ambition: explore the Stygian Repository",

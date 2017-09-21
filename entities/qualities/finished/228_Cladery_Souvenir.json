@@ -1,3 +1,3 @@
-{"Description": "クラデリーの後継者が行った切断手術の記念品。@{I}A souvenir of one of the Cladery Heir's amputations.",
- "AvailableAt": "クラデリーの後継者が手術を行えるいくつかの場所で見つかります。@{I}To be found in various places where the Cladery Heir may perform surgeries.",
+{"Description": "クラデリーの後継者が行った切断手術の記念品。@{I}$Cladery Heir -> クラデリーの後継者$A souvenir of one of the Cladery Heir's amputations.",
+ "AvailableAt": "クラデリーの後継者が手術を行えるいくつかの場所で見つかります。@{I}$Cladery Heir -> クラデリーの後継者$To be found in various places where the Cladery Heir may perform surgeries.",
  "Name": "クラデリーの記念品@{I}Cladery Souvenir", "Id": 127691}

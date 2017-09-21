@@ -33,7 +33,7 @@
                                      "Name": "今持てる全てを貴方は持っています!@{M}You have everything you can possibly have now!",
                                      "Id": 149031},
                     "Name": "戦闘アイテムを全て手に入れる@{M}Get all combat items",
-                    "Description": "各アイテムに+1されます。当然貴方は更に獲得し続ける事が出来ます。(碧珊瑚の胞核は除く。これは一つしか所持出来ません)@{M}$Blue Scintillack -> ブルー・シンティラック, [Ss]cintillack -> シンティラック$This gives you +1 of each, so you can keep gaining more (except for Blue Scintillack, it just sets that to one).",
+                    "Description": "各アイテムに+1されます。当然貴方は更に獲得し続ける事が出来ます。(碧珊瑚の胞核は除く。これは一つしか所持出来ません)@{M}$[Bb]lue[- ][Ss]cintillack -> ブルー・シンティラック, [Ss]cintillack -> シンティラック$This gives you +1 of each, so you can keep gaining more (except for Blue Scintillack, it just sets that to one).",
                     "ButtonText": "", "Id": 127775},
                    {"DefaultEvent": {"Description": "-", "Name": "-", "Id": 149101},
                     "Name": "ジーに飛び出す@{M}Out to zee", "Description": "",

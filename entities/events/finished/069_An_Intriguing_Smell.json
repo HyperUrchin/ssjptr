@@ -8,7 +8,7 @@
                     "Name": "「なにかもっと……芳醇なものは？」@{K}\"Do you have anything more... robust?\"",
                     "Description": "売り子はウィンクすると、串に刺さった都合よくも得体のしれない肉を寄こした。@{K}The vendor winks, and produces a usefully anonymous skewer of meat.",
                     "ButtonText": "", "Id": 127979},
-                   {"SuccessEvent": {"Description": "テイオウガの触角だ！これならどう食べればいいのか知っている。あなたはそれを細かく砕き、汁の滴る欠片を一息に飲み込む。そして勢いよく息を吐き出して蒸気を味わった。美味というよりも複雑な風味をしているが、素晴らしい滋養強壮効果がある。@{K}Tyrant-moth antennae! You know how to deal with these. You break it into fragments and swallow the dripping fragments each in a gulp, exhaling briskly to savour the vapours afterwards. It's a complex rather than a pleasant flavour, but its tonic effects are marvellous.",
+                   {"SuccessEvent": {"Description": "テイオウガの触角だ！これならどう食べればいいのか知っている。あなたはそれを細かく砕き、汁の滴る欠片を一息に飲み込む。そして勢いよく息を吐き出して蒸気を味わった。美味というよりも複雑な風味をしているが、素晴らしい滋養強壮効果がある。@{K}$[Tt]yrant[- ][Mm]oth -> テイオウガ$Tyrant-moth antennae! You know how to deal with these. You break it into fragments and swallow the dripping fragments each in a gulp, exhaling briskly to savour the vapours afterwards. It's a complex rather than a pleasant flavour, but its tonic effects are marvellous.",
                                      "Name": "貴重で美味！@{K}Rare and delicious!", "Id": 149353},
                     "DefaultEvent": {"Description": "あなたは売り子の助言を聞き入れ鼻をつまんで飲み込んだ。それでもこの匂いは――腐りかけの果物のようだ――喉が詰まるようだった。“棒”は革のような歯ごたえで青い何かは乾きかけの粘液のようにぐにぐにしている。あなたはそれを胃に収めておくことが出来ず、通りの上で船長としての威厳を損ねてしまった。@{K}You follow the vendor's advice, holding your nose as you swallow, but the smell - something like rotting fruit - still makes you gag. The 'stick' is leathery - the blue stuff is rubbery as drying mucus. You fail to keep it down, and disgrace your captaincy there on the street.",
                                      "Name": "鼻をつまむ@{K}Hold your nose", "Id": 149352},
@@ -21,7 +21,7 @@
                     "DefaultEvent": {"Description": "ああ……あなたは後で後悔することになるだろう。ジリーフィッシュの毒があなたの舌を麻痺させ胃をかき回す。@{K}$[Jj]illyfish -> ジリーフィッシュ$Urgh. You'll regret it later. The jillyfish's venom numbs your tongue and roils your stomach.",
                                      "Name": "無理に飲み込む@{K}Force it down", "Id": 143930},
                     "Name": "細かく刻んだジリーフィッシュを食べてみる@{K}$[Jj]illyfish -> ジリーフィッシュ$Try the shredded jillyfish",
-                    "Description": "万人受けするものではない。@{K}It's not to everyone's taste.", "ButtonText": "",
-                    "Id": 124445}],
+                    "Description": "万人受けするものではない。@{K}It's not to everyone's taste.",
+                    "ButtonText": "", "Id": 124445}],
  "Description": "「ちょっと食べてみる者は？買っていかないか？」通りの屋台で商人が焼串を回転させている。混ざり合った香りはロンドンで売られている物とは似ても似つかない。@{K}\"Who'll try? Who'll buy?\" A street-vendor turns skewers on a grill. The mixed scents are nothing like anything sold in London.",
  "Name": "好奇心をそそる匂い@{K}An Intriguing Smell", "Id": 143928}

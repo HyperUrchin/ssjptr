@@ -1,5 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "木々からぼこぼことした甘い実を集め、水樽を満たし平穏な時が過ぎていった。この場所を記録しておくのが良いだろう。@{K}A tranquil hour gathering the lumpy, sweet-tasting stuff from the trees and refilling your water casks. Best mark the spot.",
-                                     "Name": "ゴールフルーツと新鮮な水@{K}Gall-fruits and fresh water", "Id": 141254},
+                                     "Name": "ゴールフルーツと新鮮な水@{K}Gall-fruits and fresh water",
+                                     "Id": 141254},
                     "Name": "流れから離れた場所で食糧を集める@{K}Resupply, but keep away from the stream",
                     "Description": "木が攻撃してくることはめったにない。しかし魚は、船乗りは知っている通り、そうでもない。@{K}Trees rarely attack. Fish, as any zailor knows, are chancier.",
                     "ButtonText": "", "Id": 122728},

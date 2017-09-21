@@ -8,7 +8,7 @@
                     "Name": "Wander through Ladybones Road",
                     "Description": "Refined, quiet - as fine a place to stroll as any.",
                     "ButtonText": "", "Id": 187434},
-                   {"DefaultEvent": {"Description": "$Rubbery Lump -> ラバリー・ランプ$Organ-grinders churn rusty tunes out of their instruments. Young couples kiss in corners. The Sharp Driver taps your shoulder. Amber aurora-light glints in her goggles. \"Get me some of them crackers. I'll see you back on board.\"\u000d\u000a\u000d\u000aYou find the crackers, head back to your vessel, board, steam skyward.The Wilderness blossoms before you.\u000d\u000a\u000d\u000aA jerk. You blink. You are in a cramped gondola. Your bag of Rubbery Lumps has spilled onto the floor. An irritated big wheel operator is prodding you. \"You've had your turn. <i>Out.</i>\" ",
+                   {"DefaultEvent": {"Description": "$[Rr]ubbery[- ][Ll]ump -> ラバリー・ランプ$Organ-grinders churn rusty tunes out of their instruments. Young couples kiss in corners. The Sharp Driver taps your shoulder. Amber aurora-light glints in her goggles. \"Get me some of them crackers. I'll see you back on board.\"\u000d\u000a\u000d\u000aYou find the crackers, head back to your vessel, board, steam skyward.The Wilderness blossoms before you.\u000d\u000a\u000d\u000aA jerk. You blink. You are in a cramped gondola. Your bag of Rubbery Lumps has spilled onto the floor. An irritated big wheel operator is prodding you. \"You've had your turn. <i>Out.</i>\" ",
                                      "Name": "", "Id": 245684},
                     "Name": "$Mrs Plenty -> ミセス・プレンティ$Wander through Mrs Plenty's Carnival",
                     "Description": "One of London's chiefest grounds for amusement.",

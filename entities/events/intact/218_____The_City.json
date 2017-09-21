@@ -25,9 +25,8 @@
                     "Name": "fish are bedsores underneath",
                     "Description": "move - tickling, collapse", "ButtonText": "",
                     "Id": 128987},
-                   {"DefaultEvent": {"Id": 151067},
-                    "Name": "$Bridge -> 船橋$London Bridge",
+                   {"DefaultEvent": {"Id": 151067}, "Name": "London Bridge",
                     "Description": "Caesar crossed me - he won't do that again",
                     "ButtonText": "", "Id": 129015}],
- "Description": "$Bridge -> 船橋$It stinks here, awfully. \u000d\u000aA Miasma\u000d\u000aTower Bridge - whored by haunters.\u000d\u000aRookery - Bill Sikes - one of your men find his body, but they do not know it. Killed in the Fall\u000d\u000aThe birds have changed again - no-toed pigeons.\u000d\u000aWomen teased a ray\u000d\u000aMoorings in quincunxes, laid down by Templars",
+ "Description": "It stinks here, awfully. \u000d\u000aA Miasma\u000d\u000aTower Bridge - whored by haunters.\u000d\u000aRookery - Bill Sikes - one of your men find his body, but they do not know it. Killed in the Fall\u000d\u000aThe birds have changed again - no-toed pigeons.\u000d\u000aWomen teased a ray\u000d\u000aMoorings in quincunxes, laid down by Templars",
  "Name": "9 - The City", "Id": 150989}

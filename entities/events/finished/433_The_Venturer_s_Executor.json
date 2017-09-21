@@ -12,7 +12,7 @@
                    {"DefaultEvent": {"Description": "　遺言執行人は静かに話を聞いていた。「なるほど」遂に彼女は言った。「それは私達からは失われたものですね。ありがとうございます」@{I}執行者は沈黙の中で聞いていた。「その通りだ。」やがて彼女は言う「それが私達の失った物だ。礼を言う。」@{M}The Executor listens in silence. \"Yes,\" she says at last, \"that's what we've lost. Thank you.\"",
                                      "LinkToEvent": {"Id": 172536},
                                      "Name": "春、秋@{I}春と、秋@{M}Spring, autumn", "Id": 172537},
-                    "Name": "地上についての話をする@{I}地表の言い伝え@{M}$Surface -> 地上$Speak of the Surface",
+                    "Name": "地上についての話をする@{I}地表の言い伝え@{M}$[Tt]he Surface -> 地上$Speak of the Surface",
                     "Description": "「彼は自らの記念碑として、一続きのフレスコ画を手配していました。何か着想はありませんか？」@{I}「彼は自分がかつてそうであった事を記念する為にフレスコ画集の配置を手がけていた。何か新しい着想の助けになるものは無いか?」@{M}\"He had arranged for a series of frescoes, to commemorate what he was. Can you supply inspiration?\"",
                     "ButtonText": "", "Id": 141456}],
  "Description": "「私は彼の最後の望みを叶えるために参りました。あなたの方で彼に何か用事がありましたか？」@{I}「私は彼の最後の望みを叶える為に此処に来た。貴方が望んだ物はあったか?」@{M}\"I'm here to fulfil his last requests. Was there something that you wanted?\"",

@@ -1,2 +1,3 @@
-{"Description": "あなたは、クラデリーの後継者が郵便配達員を引退させるのを許した。@{I}You allowed the Cladery Heir to make a postman no longer a postman.",
- "Name": "クラデリーの治療: ナンシノウ@{I}$Nuncio -> ナンシノウ$Cladery Treatment: Nuncio", "Id": 127693}
+{"Description": "あなたは、クラデリーの後継者が郵便配達員を引退させるのを許した。@{I}$Cladery Heir -> クラデリーの後継者$You allowed the Cladery Heir to make a postman no longer a postman.",
+ "Name": "クラデリーの治療: ナンシノウ@{I}$Nuncio -> ナンシノウ$Cladery Treatment: Nuncio",
+ "Id": 127693}

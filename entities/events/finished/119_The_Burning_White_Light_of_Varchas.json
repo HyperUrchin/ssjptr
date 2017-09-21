@@ -26,7 +26,7 @@
                    {"DefaultEvent": {"Description": "その街が放つ光とその眩さについては少し控えめに書いておく。総督府の職員に嫉妬の感情を抱かせたくは無い。@{M}$Admiralty -> 海軍省$Tone down the details of the light and its brilliance. You don't want to inspire envy in the Admiralty staff.",
                                      "Name": "鏡の街、そしてその栄光@{M}The Mirrored City and its glories",
                                      "Id": 182510},
-                    "Name": "港湾報告書をまとめる@{M}$Port Report -> 港湾報告書$Compile a Port Report",
+                    "Name": "港湾報告書をまとめる@{M}$[Pp]ort [Rr]eport -> 港湾報告書$Compile a Port Report",
                     "Description": "総督府は情報を欲しがるだろう。@{M}$Admiralty -> 海軍省$The Admiralty will want to know.",
                     "ButtonText": "", "Id": 147654}],
  "Description": "壁に囲まれた街ヴァルカスは、緑色のもつれ合った蔓と蛍光色で遅咲きの茸花に、苔に覆われた石で出来ている。五点形に配置された段塔が壁より遥かに高く聳え立ち、寒々しい空に燃え盛る白光を投げかけている。\u000d\u000a\u000d\u000a波止場から続く大して舗装もされていない暗い道が、ヴァルカスの鏡の門へと続いている。石彫の大きな灯籠柱から出る光が角度のついた鏡に反射し、そこに出来る光溜まりの中に、青い外套をまとった衛兵達が立っていた。\u000d\u000a\u000d\u000aこの街は、木々で光を遮られ、全き暗闇が徘徊する旧き大陸の暴虐に対抗する、光の集う狼煙台であった。遥か遠くを見やれば、巨大な山が微光を放っていた。@{M}$Elder Continent -> 旧大陸, Varchas -> ヴァーチャス$The walled city of Varchas is a tangle of green vines and luminescent fungal flowers slow-blooming around mouldering stone. A quincunx of carved stepped-towers rise over the walls and pour burning white light into the bleak sky. \u000d\u000a\u000d\u000aA rough, shadowed path leads from the docks to the Mirrored Gates of Varchas. Two towering carved-stone lamps throw their light on the angled mirrors, and a blue-cloaked Guard stands in the reflected pool of light. \u000d\u000a\u000d\u000aThe city is a beacon against the tree-hushed, sprawling darkness of the Elder Continent. In the far distance a vast mountain glimmers.",

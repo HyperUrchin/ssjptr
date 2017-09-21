@@ -3,7 +3,7 @@
                     "Name": "Leave the Crowded Mouth",
                     "Description": "Return to central Nook.", "ButtonText": "",
                     "Id": 188155},
-                   {"DefaultEvent": {"Description": "You claw wildly through the water towards your vessel. Your aim is desperate; dark blotches and white cracks flare through your vision. The effort of not breathing burns. The airlock is ready, open; but it must be closed and emptied. Finally, air inches into the top of the chamber. You cough and retch the Nookwater from your lungs. ",
+                   {"DefaultEvent": {"Description": "$[Ff]lare -> 照明弾$You claw wildly through the water towards your vessel. Your aim is desperate; dark blotches and white cracks flare through your vision. The effort of not breathing burns. The airlock is ready, open; but it must be closed and emptied. Finally, air inches into the top of the chamber. You cough and retch the Nookwater from your lungs. ",
                                      "LinkToEvent": {"Id": 240515}, "Name": "Too close",
                                      "Id": 246567},
                     "Name": "The Creeping Drown",

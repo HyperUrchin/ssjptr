@@ -22,7 +22,7 @@
                     "Name": "What news gave her such angry pleasure?",
                     "Description": "She is being elusive about the detail.",
                     "ButtonText": "", "Id": 192655},
-                   {"DefaultEvent": {"Description": "$Aft -> 後部$Rosina reads slowly. After a sentence or two, she looks in your direction: her expression is fierce, as though you were talking in church. You step away into the other room until she is ready for you to return.\u000d\u000a\u000d\u000aWhen you do, she says: \"Return to Lorenzo and give him my love. It's too late for me to assist Lorenzo, if I ever could. But if you do happen to see what is born from him, it will be worth remembering.\"",
+                   {"DefaultEvent": {"Description": "Rosina reads slowly. After a sentence or two, she looks in your direction: her expression is fierce, as though you were talking in church. You step away into the other room until she is ready for you to return.\u000d\u000a\u000d\u000aWhen you do, she says: \"Return to Lorenzo and give him my love. It's too late for me to assist Lorenzo, if I ever could. But if you do happen to see what is born from him, it will be worth remembering.\"",
                                      "LinkToEvent": {"Id": 245029}, "Name": "A letter savoured ",
                                      "Id": 258902},
                     "Name": "Deliver a love letter to Rosina",

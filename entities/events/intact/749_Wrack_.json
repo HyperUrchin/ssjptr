@@ -30,7 +30,7 @@
                     "ButtonText": "", "Id": 185906},
                    {"DefaultEvent": {"Description": "The wreckers know their duties. The poets write enticing lies; talkers travel to other ports to spread them; miners construct the devices which'll sink the lured ships; and salvagers strip them bare. \u000d\u000a\u000d\u000aThe most celebrated of the wreckers wear no special costume, but are easily identified. They mumble poems in Arabic to themselves. They whistle lively tunes in new scales. They wear heavy gloves and carry silver clippers with which to cultivate tether. ",
                                      "LinkToEvent": {"Id": 243314}, "Name": "", "Id": 243335},
-                    "Name": "$Port Report -> 港湾報告書$Compile a Port Report",
+                    "Name": "$[Pp]ort [Rr]eport -> 港湾報告書$Compile a Port Report",
                     "Description": "$Admiralty -> 海軍省$The Admiralty would be very interested in the wreckers' activities. ",
                     "ButtonText": "", "Id": 185907},
                    {"DefaultEvent": {"Description": "$[Bb]lemmigan -> ブレミガン$The blemmigan seems to totter down the hall. It pauses before a damp, stinking patch of sawdust, to write a couplet in the detritus. Yes, it will certainly be at home here.  ",

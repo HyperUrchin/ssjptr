@@ -5,5 +5,5 @@
                     "Name": "Remove something stuck on the spines",
                     "Description": "An unfortunate diver? Bones hang, impaled on the decaying spines.\u000d\u000a[Beware: if you fail, you will gain a Wound.]",
                     "ButtonText": "", "Id": 186133}],
- "Description": "A cluster of quivering spines shiver in the current. A dead fluke's flesh dissolves in water. These brittle remnants, however, remain stony-hard. ",
- "Name": "$Fluke -> フルーク$Fluke Needles ", "Id": 243688}
+ "Description": "$[Ff]luke -> フルーク$A cluster of quivering spines shiver in the current. A dead fluke's flesh dissolves in water. These brittle remnants, however, remain stony-hard. ",
+ "Name": "$[Ff]luke -> フルーク$Fluke Needles ", "Id": 243688}

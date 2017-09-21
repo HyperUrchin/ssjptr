@@ -18,4 +18,5 @@
                     "Description": "素晴らしい生き物だ！学べるだけ学ぶとしよう。@{K}Fascinating creatures! Learn what you can.",
                     "ButtonText": "", "Id": 125842}],
  "Description": "あなたは塩っぽい小さな湿原の中心でブレミガンの脈打つ塚に出くわした！その塚は内臓のように、もしくはブラックベリーのように深く暗い紫色だ。ブレミガンは群れ、さえずり砂浜の小石のような音を立てている。気を付けるように。一匹のブレミガンは不快なだけだが、百匹のブレミガンは大惨事を引き起こす。@{K}$[Bb]lemmigan -> ブレミガン$At the heart of a salty little bog, you come upon a pulsing mound of blemmigans! They are a rich dark purple, like viscera, perhaps, or blackberries. They chitter as they swarm: the sound is like pebbles on a beach. Be careful. A single blemmigan is a nuisance. A hundred are a calamity.",
- "Name": "ブレミガン・コロニー@{K}$[Bb]lemmigan -> ブレミガン$A Blemmigan Colony", "Id": 141271}
+ "Name": "ブレミガン・コロニー@{K}$[Bb]lemmigan -> ブレミガン$A Blemmigan Colony",
+ "Id": 141271}

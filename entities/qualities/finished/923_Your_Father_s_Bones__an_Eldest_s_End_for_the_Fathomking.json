@@ -1,4 +1,4 @@
 {"Description": "ファザムキングはあなたに、ある種の中で最も長く生きたものの死を見届けてくるよう求めた。@{I}水底帝は貴方に、ある種族の中で最長老の者の最期をしかと見届け、水底帝の下へ戻る事を望んでいる。@{M}$Fathomking -> ファザムキング$The Fathomking wishes you to witness the death of something that is the oldest of its kind, and return.",
- "ChangeDescriptionText": "1|ファザムキングは最古老の末期の顛末を要求した。~0|あなたは最古老の末期の顛末をもたらし、ファザムキングの要求を満たした@{I}0|貴方は水底帝の最長老の最期の要求を達成した。~1|水底帝は貴方に最長老の最期を要求した。@{M}$Eldest's End -> 最古老の末期, Fathomking -> ファザムキング$1|The Fathomking has requested an account of an Eldest's End~0|You have fulfilled the Fathomking's request for an account of an Eldest's End",
- "Name": "父の遺骨: ファザムキングに捧ぐ、最古老の末期@{I}父親の遺骨: 水底帝へ贈る最長老の最期@{M}$Eldest's End -> 最古老の末期, Your Father's Bones: -> 父の遺骨:, Fathomking -> ファザムキング$Your Father's Bones: an Eldest's End for the Fathomking",
+ "ChangeDescriptionText": "1|ファザムキングは最古老の末期の顛末を要求した。~0|あなたは最古老の末期の顛末をもたらし、ファザムキングの要求を満たした@{I}0|貴方は水底帝の最長老の最期の要求を達成した。~1|水底帝は貴方に最長老の最期を要求した。@{M}$Fathomking -> ファザムキング$1|The Fathomking has requested an account of an Eldest's End~0|You have fulfilled the Fathomking's request for an account of an Eldest's End",
+ "Name": "父の遺骨: ファザムキングに捧ぐ、最古老の末期@{I}父親の遺骨: 水底帝へ贈る最長老の最期@{M}$Your Father's Bones: -> 父の遺骨:, Fathomking -> ファザムキング$Your Father's Bones: an Eldest's End for the Fathomking",
  "Id": 114906}

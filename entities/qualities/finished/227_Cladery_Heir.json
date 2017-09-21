@@ -1,2 +1,3 @@
 {"Description": "切断手術の専門家である。@{I}An expert in amputations.",
- "Name": "クラデリーの後継者@{I}Cladery Heir", "Id": 127581}
+ "Name": "クラデリーの後継者@{I}$Cladery Heir -> クラデリーの後継者$Cladery Heir",
+ "Id": 127581}

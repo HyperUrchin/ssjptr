@@ -3,7 +3,7 @@
                     "Name": "害虫を食す事を禁じる@{M}Forbid the consumption of vermin",
                     "Description": "皆腹ペコなのだ。しかし自制を崩壊させる訳にはいかない。@{M}Everyone is hungry. But you can't let discipline slip.",
                     "ButtonText": "", "Id": 122985},
-                   {"DefaultEvent": {"Description": "自分は食べるつもりは毛頭ない。幹部たちは威厳を保ち続けなければならないのだ。すきっ歯の銃士が最近気に入っている、鼠の骨のネックレスについては、見なかった事にした。@{M}You don't partake yourself, obviously. The officer class must maintain its dignity. You ignore the necklace of rat-bones that the Gap-Toothed Gunner now sports.",
+                   {"DefaultEvent": {"Description": "自分は食べるつもりは毛頭ない。幹部たちは威厳を保ち続けなければならないのだ。すきっ歯の銃士が最近気に入っている、鼠の骨のネックレスについては、見なかった事にした。@{M}$[Oo]fficer -> オフィサー$You don't partake yourself, obviously. The officer class must maintain its dignity. You ignore the necklace of rat-bones that the Gap-Toothed Gunner now sports.",
                                      "Name": "鼠のシチュー?@{M}Rat stew?", "Id": 144592},
                     "Name": "害虫を食料にする@{M}Turn a blind eye to the consumption of vermin",
                     "Description": "威厳は損なわれるかもしれないが、船員は飢餓の一歩手前に来ている。@{M}Discipline might slip, but your crew are close to starvation.",

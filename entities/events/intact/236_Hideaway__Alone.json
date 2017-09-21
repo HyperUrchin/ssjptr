@@ -1,6 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "Tattered ribbons litter the street. The lights are failing. Strain your ears and you can hear a bulb flicker and die; strain harder, and you can hear drops of the zee dripping into ever growing puddles. To hear the woeful gurgles from the beast beneath you, though, you needn't strain your ears at all.",
                                      "LinkToEvent": {"Id": 152194}, "Name": "", "Id": 237495},
-                    "Name": "$Port Report -> 港湾報告書$Assemble a Port Report",
+                    "Name": "$[Pp]ort [Rr]eport -> 港湾報告書$Assemble a Port Report",
                     "Description": "The people may have been silent, but they gave this place life. Without them, it is just a shell of a city.",
                     "ButtonText": "", "Id": 182157},
                    {"DefaultEvent": {"Description": "$[Bb]lemmigan -> ブレミガン$The blemmigan rushes towards an open grate and leaps into the darkness. Some time later, a thundering cry rattles the city's windows.",

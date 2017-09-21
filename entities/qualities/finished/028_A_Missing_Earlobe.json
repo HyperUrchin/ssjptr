@@ -1,3 +1,3 @@
-{"Description": "クラデリーの後継者があなたから何かを切除した。@{I}The Cladery Heir removed something from you.",
- "AvailableAt": "クラデリーの後継者がこの手術を執刀できます。@{I}The Cladery Heir can do this surgery.",
+{"Description": "クラデリーの後継者があなたから何かを切除した。@{I}$Cladery Heir -> クラデリーの後継者$The Cladery Heir removed something from you.",
+ "AvailableAt": "クラデリーの後継者がこの手術を執刀できます。@{I}$Cladery Heir -> クラデリーの後継者$The Cladery Heir can do this surgery.",
  "Name": "耳たぶの欠損@{I}A Missing Earlobe", "Id": 128434}

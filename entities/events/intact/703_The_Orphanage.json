@@ -3,7 +3,7 @@
                     "Name": "Return to the Cavities",
                     "Description": "You're done here for now. ", "ButtonText": "",
                     "Id": 184095},
-                   {"DefaultEvent": {"Description": "You claw wildly through the water towards your vessel. Your aim is desperate; dark blotches and white cracks flare through your vision. The effort of not breathing burns. The airlock is ready, open; but it must be closed and emptied. Finally, air inches into the top of the chamber. You cough and retch the Nookwater from your lungs. ",
+                   {"DefaultEvent": {"Description": "$[Ff]lare -> 照明弾$You claw wildly through the water towards your vessel. Your aim is desperate; dark blotches and white cracks flare through your vision. The effort of not breathing burns. The airlock is ready, open; but it must be closed and emptied. Finally, air inches into the top of the chamber. You cough and retch the Nookwater from your lungs. ",
                                      "LinkToEvent": {"Id": 240515}, "Name": "Too close",
                                      "Id": 243569},
                     "Name": "The Creeping Drown",
@@ -24,5 +24,5 @@
                     "Name": "Press the point",
                     "Description": "She's obviously worried and, more importantly, clearly lying. What's going on?",
                     "ButtonText": "", "Id": 183744}],
- "Description": "$Aft -> 後部$This is 'Mrs Collier's Home for Foundlings, Orphans and Sundry Misfortunates'. The children here have lost their parents in mining accidents, or brawls. A few have <i>been</i> lost. After all, many Nookers find the idea of children more palatable then the reality. \u000d\u000a\u000d\u000aWhy the mob then? The same Nookers also appreciate the importance of being seen to do the right thing.",
+ "Description": "This is 'Mrs Collier's Home for Foundlings, Orphans and Sundry Misfortunates'. The children here have lost their parents in mining accidents, or brawls. A few have <i>been</i> lost. After all, many Nookers find the idea of children more palatable then the reality. \u000d\u000a\u000d\u000aWhy the mob then? The same Nookers also appreciate the importance of being seen to do the right thing.",
  "Name": "The Orphanage", "Id": 239991}

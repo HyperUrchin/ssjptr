@@ -8,7 +8,7 @@
                                      "LinkToEvent": {"Id": 208113},
                                      "Name": "\"Grave foreign threat. Recommend immediate invasion.\"",
                                      "Id": 208115},
-                    "Name": "$Port Report -> 港湾報告書$Compile a Port Report",
+                    "Name": "$[Pp]ort [Rr]eport -> 港湾報告書$Compile a Port Report",
                     "Description": "It will mostly be about closed gates.",
                     "ButtonText": "", "Id": 163503},
                    {"DefaultEvent": {"Description": "Straight to the food silos. Oh, how very unfortunate.",

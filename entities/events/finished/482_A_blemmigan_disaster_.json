@@ -1,5 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "残った食糧にはさらに護衛がつけられた。しかし食べられた残りの部分は捨てる以外なかった。@{K}Extra guards are put on the remaining supplies, but what remains of these will have to be thrown away.",
-                                     "Name": "猿たちが苛立ったように鳴く@{K}The monkeys chatter with annoyance", "Id": 176551},
+                                     "Name": "猿たちが苛立ったように鳴く@{K}The monkeys chatter with annoyance",
+                                     "Id": 176551},
                     "Name": "被害を確認する@{K}Check the damage",
                     "Description": "数体のブレミガンはどれだけの量を食べられるのだろう？@{K}$[Bb]lemmigan -> ブレミガン$How much could a few blemmigans eat?",
                     "ButtonText": "", "Id": 143995}],

@@ -20,7 +20,7 @@
                     "Name": "Hideaway", "Description": "br", "ButtonText": "",
                     "Id": 183709},
                    {"DefaultEvent": {"Description": "", "Name": "", "Id": 240409},
-                    "Name": "$Gant Pole -> ギャント・ポール$The Gant Pole",
+                    "Name": "$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$The Gant Pole",
                     "Description": "Deep underwater, where the beasts of the zee go to die.",
                     "ButtonText": "", "Id": 184002},
                    {"DefaultEvent": {"Description": "", "Name": "", "Id": 241297},

@@ -1,3 +1,3 @@
 {"Description": "眠りの中を流れる川の岸辺から、亜麻を引き抜くのは誰？@{I}眠りの中を流れる川岸からこの麻布を採取したのは誰だろうか？@{M}Who plucks the flax from the banks of rivers that flow through sleep?",
- "Name": "パラボラ・リネン@{I}パラボラ麻布の梱@{M}$(Bale of )?Parabola-Linen -> パラボラ・リネン$Bale of Parabola-Linen",
+ "Name": "パラボラ・リネン@{I}パラボラ麻布の梱@{M}$(Bale of )?[Pp]arabola[- ][Ll]inen -> パラボラ・リネン$Bale of Parabola-Linen",
  "Id": 102019}

@@ -1,7 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "-",
                                      "Name": "-", "Id": 148777},
-                    "Name": "Increase your Hearts",
-                    "Description": "[Spend a Secret to improve your Hearts, unless it's higher than 150.]",
+                    "Name": "$Hearts -> ハート$Increase your Hearts",
+                    "Description": "$Hearts -> ハート$[Spend a Secret to improve your Hearts, unless it's higher than 150.]",
                     "ButtonText": "", "Id": 127613},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 120804},
                                      "Name": "", "Id": 148780},
@@ -10,7 +10,7 @@
                     "ButtonText": "", "Id": 127616},
                    {"DefaultEvent": {"Id": 148781},
                     "Name": "Invite them to dine with you",
-                    "Description": "$Officer -> オフィサー$[Not yet. This Officer's story will open later in development.]",
+                    "Description": "$[Oo]fficer -> オフィサー$[Not yet. This Officer's story will open later in development.]",
                     "ButtonText": "", "Id": 127617}],
- "Description": "-", "Name": "$Officer -> オフィサー$Officer Template",
- "Id": 148776}
+ "Description": "-",
+ "Name": "$[Oo]fficer -> オフィサー$Officer Template", "Id": 148776}

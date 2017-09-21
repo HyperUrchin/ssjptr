@@ -1,3 +1,4 @@
-{"Description": "クラデリーの後継者はクーマエ運河の閘門での治療を終えているか？@{I}Has the Cladery Heir performed a treatment at the Cumaean Locks?",
+{"Description": "クラデリーの後継者はクーマエ運河の閘門での治療を終えているか？@{I}$Cladery Heir -> クラデリーの後継者$Has the Cladery Heir performed a treatment at the Cumaean Locks?",
  "AvailableAt": "クーマエ運河の船舶集積区域で手に入ります。@{I}$Cumaean Canal -> クーマエ運河$This can be found at the Cumaean Canal Staging Area.",
- "Name": "クラデリーの治療: クーマエ運河の閘門 @{I}Cladery Treatment: Cumaean Locks", "Id": 128215}
+ "Name": "クラデリーの治療: クーマエ運河の閘門 @{I}Cladery Treatment: Cumaean Locks",
+ "Id": 128215}

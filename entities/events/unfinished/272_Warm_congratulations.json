@@ -9,5 +9,5 @@
                     "Name": "UNUSED - Hand over the cargo",
                     "Description": "and claim your payment. ", "ButtonText": "",
                     "Id": 178030}],
- "Description": "「よくぞ戻った!何故俺がお前をこうして出迎えているのかと問うかもしれんが、俺達には荒野や丘の上に沢山の目があるのだ。何となれば、俺達の目は託宣者の集団よりも多い。そいつらが全員お前の帰還を喜んでいる。そして、無論、お前の持つ貨物もな。@{M}$[Kk]not-oracle -> ノット・オラクル$\"Welcome home! You may ask how it is I am here to meet you, and I may remark that we have eyes in the Wastes and eyes in the Hill. In fact we have more eyes than a knot-oracle, and they're all glad to see you. And, of course, your cargo.\"",
+ "Description": "「よくぞ戻った!何故俺がお前をこうして出迎えているのかと問うかもしれんが、俺達には荒野や丘の上に沢山の目があるのだ。何となれば、俺達の目は託宣者の集団よりも多い。そいつらが全員お前の帰還を喜んでいる。そして、無論、お前の持つ貨物もな。@{M}$[Kk]not[- ][Oo]racle -> ノット・オラクル$\"Welcome home! You may ask how it is I am here to meet you, and I may remark that we have eyes in the Wastes and eyes in the Hill. In fact we have more eyes than a knot-oracle, and they're all glad to see you. And, of course, your cargo.\"",
  "Name": "温かい祝福@{M}Warm congratulations", "Id": 152909}

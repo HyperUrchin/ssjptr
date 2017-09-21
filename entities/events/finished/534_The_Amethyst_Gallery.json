@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 181006},
                                      "Name": "深遠な怖れ@{K}Terror profundi", "Id": 181458},
                     "Name": "巨大な影に近寄る@{K}Approach the colossi",
-                    "Description": "恐怖こそが氷結城の中心部へと至る道だ。傷一つ負うことなく逃げ出せはしない。[この選択肢はアイアンを１ポイント犠牲にします。]@{K}$Frostfound -> 氷結城$Fear is the way to the heart of Frostfound. You will not escape unscathed. [This will sacrifice a point of Iron.]",
+                    "Description": "恐怖こそが氷結城の中心部へと至る道だ。傷一つ負うことなく逃げ出せはしない。[この選択肢はアイアンを１ポイント犠牲にします。]@{K}$Iron -> アイアン, Frostfound -> 氷結城$Fear is the way to the heart of Frostfound. You will not escape unscathed. [This will sacrifice a point of Iron.]",
                     "ButtonText": "", "Id": 146931},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 181006},
                                      "Name": "", "Id": 181459},

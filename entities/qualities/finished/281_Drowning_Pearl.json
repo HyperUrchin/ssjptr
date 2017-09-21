@@ -1,3 +1,3 @@
-{"Description": "ドラウニーの指先の冷気がまだ残っている。@{I}ドラウニーの指から落ち、まだ凍る様に冷たい…@{M}$Drown(y|ies) -> ドラウニー$Still chilly from the fingers of Drownies...",
- "Name": "溺れる真珠@{I}溺死者の真珠@{M}$Drowning-Pearl -> 溺れる真珠$Drowning-Pearl",
+{"Description": "ドラウニーの指先の冷気がまだ残っている。@{I}ドラウニーの指から落ち、まだ凍る様に冷たい…@{M}$[Dd]rown(y|ies) -> ドラウニー$Still chilly from the fingers of Drownies...",
+ "Name": "溺れる真珠@{I}溺死者の真珠@{M}$[Dd]rowning[- ][Pp]earl -> 溺れる真珠$Drowning-Pearl",
  "Id": 109102}

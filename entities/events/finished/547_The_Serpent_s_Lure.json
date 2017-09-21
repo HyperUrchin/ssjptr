@@ -1,6 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "まったく、魚を持っていて幸運だったな？いつ魚が入用になるかはわからないものだ。@{K}Lucky one keeps fish about one's person, eh? One never knows when one will need fish.",
                                      "Name": "騒々しく海面をのたうち回る音@{K}A noisy thrashing", "Id": 182166},
-                    "Name": "宥める@{K}Pacify it", "Description": "餌を投げて移動しよう。@{K}Fling it bait, and move on.",
+                    "Name": "宥める@{K}Pacify it",
+                    "Description": "餌を投げて移動しよう。@{K}Fling it bait, and move on.",
                     "ButtonText": "", "Id": 147418},
                    {"SuccessEvent": {"Description": "カットラスとピストルを携え、船員たちは戦いに乗り出した！大蛇は明らかにこのような反応を予期していなかったようだ。それは何度もあなたを激しく攻撃しようと試みたが、狙わずに撃った弾がその目に命中した。あなたは蛇の骨を回収し孵りかけの子供を岸の近くの岩からそぎ落とした。@{K}With cutlass and with pistol, your zailors stride into battle! The serpent obviously expected nothing of the kind. It essays a number of savage strikes against you, and then a lucky shot takes it in the eye. You harvest its bones, and scrape its hatching young from along the rocks by the shore.",
                                      "Name": "残虐な戦い@{K}A ferocious battle", "Id": 182167},

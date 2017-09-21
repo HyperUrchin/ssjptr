@@ -45,7 +45,7 @@
                                          "LinkToEvent": {"Id": 166936},
                                          "Name": "織手の一団@{I}A party of Weavers", "Id": 167211},
                     "Name": "ろうそくなしで探索する危険を冒す@{I}Risk exploring without candles",
-                    "Description": "　この荒野にあっては、ただNeathの天蓋の偽星だけが、悲哀蜘蛛たちの棲家である巣と廃墟を照らしている。それでも、あなたは何かに出くわすことはあるかもしれない。少なくとも、何かの中に突っ込むことは確かだ。@{I}$false-star -> 偽星, [Ss]orrow-spider -> 悲哀蜘蛛$In this wasteland, only the false-stars in the roof of the Neath illuminate the webs and ruins the sorrow-spiders call home. You may still stumble upon something though. Or indeed, into something.",
+                    "Description": "　この荒野にあっては、ただNeathの天蓋の偽星だけが、悲哀蜘蛛たちの棲家である巣と廃墟を照らしている。それでも、あなたは何かに出くわすことはあるかもしれない。少なくとも、何かの中に突っ込むことは確かだ。@{I}$[Ff]alse[- ][Ss]tar -> 偽星, [Ss]orrow-spider -> 悲哀蜘蛛$In this wasteland, only the false-stars in the roof of the Neath illuminate the webs and ruins the sorrow-spiders call home. You may still stumble upon something though. Or indeed, into something.",
                     "ButtonText": "", "Id": 138181}],
  "Description": "　複雑な蜘蛛の巣の広がる闇の中で、影が絶え間なく蠢く。そよ風に吹き散らされた流れ糸が、あなたの逆立つ産毛をくすぐる。千もの見えざる眼は、万もの存在を約束している。@{I}Intricate webs stretch into a darkness where the shadows are never entirely still. Gossamer threads stolen by the breeze tickle the goosebumps on your skin. A thousand unseen eyes promise a million more.",
  "Name": "さざめき荒地@{I}The Scuttering Reaches", "Id": 166936}

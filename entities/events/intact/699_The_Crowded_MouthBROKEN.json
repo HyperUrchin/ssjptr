@@ -11,7 +11,7 @@
                     "ButtonText": "", "Id": 183730},
                    {"SuccessEvent": {"Description": "observed.\u000d\u000a\u000d\u000ais it ok to have this be grindable? if not, is there another currency to offer that's vaguely equivalent?",
                                      "Name": "", "Id": 240064},
-                    "DefaultEvent": {"Description": "$Aft -> 後部$over too fast: the other drinkers gather in a loose floating sphere making slow, gonging chants of encouragement to the two women grimly grappling one another. After it is over, it is a moment before you realise that one of the fighters floats dead; the rest return to their drinks while the barman billhooks the body out of the back door. there is no watch to call, even if any were inclined to do so.",
+                    "DefaultEvent": {"Description": "over too fast: the other drinkers gather in a loose floating sphere making slow, gonging chants of encouragement to the two women grimly grappling one another. After it is over, it is a moment before you realise that one of the fighters floats dead; the rest return to their drinks while the barman billhooks the body out of the back door. there is no watch to call, even if any were inclined to do so.",
                                      "Name": "", "Id": 240063},
                     "Name": "Observe a fight",
                     "Description": "A slow and deliberate affair; the two brawlers silently grapple, rolling like crocodiles. Acute observation may yield some insight into underwater combat, but it will not be easy.",

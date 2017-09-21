@@ -1,6 +1,6 @@
 {"Name": "StamfordsExpanse",
  "Tiles": [{"Name": "StamfordsExpanse",
-            "Description": "頭上の偽星が、虎の眼のような獰猛な琥珀色に輝く。スタンフォード・エクスパンス。その名は、猫に我が子を奪われた者に因んでいる。@{I}$false-star -> 偽星, Stamford's Expanse -> スタンフォード・エクスパンス$The false-stars above are feral amber, like tigers' eyes. Stamford's Expanse, named for one who lost his child to cats.",
+            "Description": "頭上の偽星が、虎の眼のような獰猛な琥珀色に輝く。スタンフォード・エクスパンス。その名は、猫に我が子を奪われた者に因んでいる。@{I}$[Ff]alse[- ][Ss]tar -> 偽星, Stamford's Expanse -> スタンフォード・エクスパンス$The false-stars above are feral amber, like tigers' eyes. Stamford's Expanse, named for one who lost his child to cats.",
             "LabelData": [{"Label": "アイル・オブ・キャッツ@{I}$Isle of Cats -> アイル・オブ・キャッツ$Isle of Cats",
                            "Description": ""},
                           {"Label": "薔薇の岩礁@{I}$Reef of Roses -> 薔薇の岩礁$Reef of Roses",

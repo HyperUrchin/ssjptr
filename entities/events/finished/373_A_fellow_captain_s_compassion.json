@@ -5,4 +5,5 @@
                     "Description": "　少なくとも、ツリー・オブ・シーズンズよりは良い場所だ。@{I}少なくとも、季節の樹よりは良い場所だろう。@{M}At least it's better than the Tree of Seasons.",
                     "ButtonText": "", "Id": 138952}],
  "Description": "　ノクターン号の元船長は新天地に辿り着いた。もう彼を苦しめられるのは、彼自身の記憶だけだ。@{I}夜想号の元船長は彼の新しい故郷にたどり着いた。ここから先彼を苛むものは、彼の思い出だけだろう。@{M}The Former Captain of the Nocturne has arrived in his new home. Only his memories can torture him now.",
- "Name": "船長仲間の哀れみ@{I}仲良し船長の同情@{M}A fellow captain's compassion", "Id": 168375}
+ "Name": "船長仲間の哀れみ@{I}仲良し船長の同情@{M}A fellow captain's compassion",
+ "Id": 168375}

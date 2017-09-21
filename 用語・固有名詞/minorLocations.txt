@@ -1,8 +1,11 @@
 Baseborn & Fowlingpiece, ベースボーン＆フォーリングピース
-Leadbeater & Stainrod Shipyard, リードビーター＆ステインロッド造船所
-Cotterell & Hathersage Shipyard, コットレル＆ハザーセージ造船所
+Leadbeater & Stainrod, リードビーター＆ステインロッド
+Cotterell & Hathersage, コットレル＆ハザーセージ
+Iron & Misery, アイアン＆ミザリー
 Admiralty Yards, 海軍省造船所
+Caminus Yards, カミナス造船所
 Benthic College, ベンシック学寮
+Summerset College, サマセット学寮
 Leopard Clan, レオパルド一門
 Taimen Clan, テイメン一門
 Blind Helmsman, 盲た操舵手亭
@@ -21,19 +24,16 @@ Wolfstack, ウルフスタック
 Stargate, スターゲート
 Zeppelin, ツェッペリン
 Wisp-Ways, ウィスプ・ウェイズ
-Vienna, ウィーン
 Shattered Citadel, 砕かれた砦
 Light-Ship, 灯台船
-Surface, 地上
+[Tt]he Surface, 地上
 Robland, ロブランド
 Knot, ノット
 Dante's Grill, ダンテの肉料理店
 Penstock's Land Agency, ペンストックの土地斡旋屋
 Clathermont's Tatoo Parlour, クラザモントのタトゥー屋
 Wolfstack Exchange, ウルフスタック取引所
-Iron & Misery Company, アイアン＆ミザリー社
 Carrow's Naval Surplus, カロウズ・ネイヴァル・サープラス
-Caminus Yards, カミナス造船所
 Mrs Plenty's (Shipside )?Provisioners, ミセス・プレンティの食料雑貨店
 Bultitude's House of Vision, バルティテュードの視界の館
 Malebolge Excavations, マーレヴォルジェの発掘品
@@ -44,7 +44,6 @@ Excruciation Annex, 苦痛の別館
 Brimstone Convention, ブリムストーン総会
 Calendar Council, 暦法議会
 Customs Service, 関税庁
-Crown, 王権
 Royal Navy, 王立海軍
 Admiralty, 海軍省
 Admiralty's Survey Office, 海軍省情報調査室

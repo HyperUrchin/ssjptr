@@ -49,7 +49,7 @@
                     "Name": "Enter a stateroom ",
                     "Description": "This ship sometimes carried passengers on its journeys. ",
                     "ButtonText": "", "Id": 187461},
-                   {"SuccessEvent": {"Description": "The engine is charred as though burnt from within. Pages from a waterlogged journal float forlornly by. A name catches your attention. This ship's navigator had the same name as yours. ",
+                   {"SuccessEvent": {"Description": "$Pages -> ページ$The engine is charred as though burnt from within. Pages from a waterlogged journal float forlornly by. A name catches your attention. This ship's navigator had the same name as yours. ",
                                      "LinkToEvent": {"Id": 245699}, "Name": "", "Id": 245725},
                     "DefaultEvent": {"Description": "A long black skirt trails in the water ahead. You hurry forwards, but no one is there. You are alone. ",
                                      "LinkToEvent": {"Id": 243694}, "Name": "", "Id": 245724},

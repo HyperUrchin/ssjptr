@@ -12,7 +12,7 @@
                     "ButtonText": "", "Id": 140732},
                    {"SuccessEvent": {"Description": "次にロンドンに帰った時、自宅に戻って戦利品の金を手に入れよう。@{K}When you next return to London, return to your Lodgings to claim your prize money...",
                                      "Name": "宝があなたを待つ@{K}Awaiting your pleasure", "Id": 171366},
-                    "DefaultEvent": {"Description": "あなたの戦利品が再び目撃されることはなかった。ヘプティチィアに飲み込まれたか、船員がお互いに食い合ったのか。あるいは彼らはあなたを裏切ってアイアン・リパブリックへ向かったのかもしれない。法の手の届かない場所へと。@{K}$Iron Republic -> アイアン・リパブリック$Your prize is never seen again. Perhaps a heptycheer devours your crew. Perhaps they devour each other. Perhaps they betray you and sail it to the Iron Republic, where laws cannot follow.",
+                    "DefaultEvent": {"Description": "あなたの戦利品が再び目撃されることはなかった。ヘプティチィアに飲み込まれたか、船員がお互いに食い合ったのか。あるいは彼らはあなたを裏切ってアイアン・リパブリックへ向かったのかもしれない。法の手の届かない場所へと。@{K}$Iron -> アイアン, Iron Republic -> アイアン・リパブリック$Your prize is never seen again. Perhaps a heptycheer devours your crew. Perhaps they devour each other. Perhaps they betray you and sail it to the Iron Republic, where laws cannot follow.",
                                      "Name": "闇の中へ@{K}Into the darkness", "Id": 171365},
                     "Name": "船員を乗せ家へ向かわせる@{K}Send her home with a prize crew",
                     "Description": "2人もいれば最低限足りるだろう。それにこの船は早いのでトラブルに巻き込まれることもない。@{K}Two zailors should be enough for a skeleton crew, and she's fast enough to avoid most trouble.",

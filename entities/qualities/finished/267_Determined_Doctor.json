@@ -1,2 +1,3 @@
 {"Description": "今の彼には大義がある。@{K}彼には今理由がある。@{M}Now he has a cause.",
- "Name": "決然とした医師@{K}思慮深い医者@{M}Determined Doctor", "Id": 115750}
+ "Name": "決然とした医師@{K}思慮深い医者@{M}$Determined Doctor -> 決然とした医師$Determined Doctor",
+ "Id": 115750}

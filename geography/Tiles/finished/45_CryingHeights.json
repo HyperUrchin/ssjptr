@@ -1,6 +1,6 @@
 {"Name": "CryingHeights",
  "Tiles": [{"Name": "CryingHeights",
-            "Description": "慟哭の高地。ブルー・プロフェットが死につつある者の名を叫ぶ場所。@{I}$Blue Prophets -> ブルー・プロフェット, Crying Heights -> 慟哭の高地$The Crying Heights, where the Blue Prophets call the names of those about to die.",
+            "Description": "慟哭の高地。ブルー・プロフェットが死につつある者の名を叫ぶ場所。@{I}$Blue Prophet -> ブルー・プロフェット, Crying Heights -> 慟哭の高地$The Crying Heights, where the Blue Prophets call the names of those about to die.",
             "LabelData": [{"Label": "慟哭の高地@{I}$Crying Heights -> 慟哭の高地$Crying Heights",
                            "Description": ""},
                           {"Label": "ベッカー湾@{I}$Becker Bight -> ベッカー湾$Becker Bight",

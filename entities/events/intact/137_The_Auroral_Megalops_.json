@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "COMBAT TIPS: You are trying to increase your enemy's Illumination - the yellow bar by their portrait - so you can see and damage them. They are trying to increase yours.\u000d\u000a\u000d\u000aEvasion actions will reduce your Illumination; Attacking actions will do Hull, Crew or Life damage. Your Mirrors, Veils and Iron score make a big difference to the effectiveness of all these actions.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$Iron -> アイアン, Veils -> ヴェール, Mirrors -> ミラー$COMBAT TIPS: You are trying to increase your enemy's Illumination - the yellow bar by their portrait - so you can see and damage them. They are trying to increase yours.\u000d\u000a\u000d\u000aEvasion actions will reduce your Illumination; Attacking actions will do Hull, Crew or Life damage. Your Mirrors, Veils and Iron score make a big difference to the effectiveness of all these actions.",
                                      "Name": "", "Id": 148073},
                     "Name": "Fight!",
                     "Description": "It surges from the water, its carapace throbbing with a queasy golden glow!",
@@ -10,6 +10,6 @@
                     "Name": "Flee!",
                     "Description": "It's only little, but you've better things to do.",
                     "ButtonText": "", "Id": 127092}],
- "Description": "\"These are the younger form of gargantuan zee-crabs - driven up from their spawning grounds in the south by peculiar radiations. Younger they may be, but they are still large enough to consume a pony with messy and clattering glee, or to pose a menace to ill-prepared ships.\"",
- "Name": "$Auroral Megalops -> オーロラル・メガロープス$The Auroral Megalops!",
+ "Description": "$[Gg]ant -> ギャント$\"These are the younger form of gargantuan zee-crabs - driven up from their spawning grounds in the south by peculiar radiations. Younger they may be, but they are still large enough to consume a pony with messy and clattering glee, or to pose a menace to ill-prepared ships.\"",
+ "Name": "$[Aa]uroral[- ][Mm]egalops -> オーロラル・メガロープス$The Auroral Megalops!",
  "Id": 148072}

@@ -12,7 +12,7 @@
                     "ButtonText": "", "Id": 186055},
                    {"SuccessEvent": {"Description": "There's a returning flash from a lantern. You swim the brief gap between your vessels. Hollow-eyed, the captain hands you the remnant of the Undergalley's provisions, but refuses rescue. The Captain turns and motions his crew to begin repairs - but by the time you return to your zub, the zee before you is dark. ",
                                      "Name": "Defiance ", "Id": 243562},
-                    "DefaultEvent": {"Description": "The Undergalley Captain uses a lantern and some robust hand gestures to convey his unwillingness to surrender.  A light flares near the hull; the rumbling sound of gears grinding. The Undergalley lurches forward, briefly, then bursts into flames so bright it must been seen through the water for miles around.",
+                    "DefaultEvent": {"Description": "$[Ff]lare -> 照明弾$The Undergalley Captain uses a lantern and some robust hand gestures to convey his unwillingness to surrender.  A light flares near the hull; the rumbling sound of gears grinding. The Undergalley lurches forward, briefly, then bursts into flames so bright it must been seen through the water for miles around.",
                                      "Name": "Refusal ", "Id": 243561},
                     "RareSuccessEvent": {"Description": "There's a returning flash from a lantern. You swim the brief gap between your vessels. Hollow-eyed, the captain summons his surviving crewman, and entrusts the shaking lad to you. The captain remains with his ship. By the time you board your ship, the Undergalley has sunk from sight.",
                                          "Name": "A survivor ", "Id": 243563},

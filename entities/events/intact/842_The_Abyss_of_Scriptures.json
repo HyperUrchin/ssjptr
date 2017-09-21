@@ -41,7 +41,7 @@
                                      "LinkToEvent": {"Id": 258169},
                                      "Name": "You don your diving gear", "Id": 258170},
                     "Name": "Record their messages",
-                    "Description": "A true zailor may survive reading these etchings, they say. [This rite will increase your Hearts by 20 but decrease your Iron by 10. Succeed or fail, you will gain the rite, but failure will incur a Wound.]",
+                    "Description": "$Iron -> アイアン, Hearts -> ハート$A true zailor may survive reading these etchings, they say. [This rite will increase your Hearts by 20 but decrease your Iron by 10. Succeed or fail, you will gain the rite, but failure will incur a Wound.]",
                     "ButtonText": "", "Id": 192624},
                    {"SuccessEvent": {"Description": "Your helmsman's response is unjustifiably foul-mouthed, but she assents. \u000d\u000a\u000d\u000aYour zubmarine's pinprick of light shines onto a cliff side, illuminating only a spot of a vast, inverted cathedral: a Fathomless Church. ",
                                      "LinkToEvent": {"Id": 258169}, "Name": "Deeper still",

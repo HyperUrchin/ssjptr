@@ -3,7 +3,7 @@
             "Description": "またしても海獣の死骸が浮かんでいる。ここらは腐肉だらけだ。我々はキェロネイトに近づいている。@{I}$Chelonate -> キェロネイト$Another zee-beast corpse afloat. So much carrion. We approach the Chelonate.",
             "LabelData": [{"Label": "キェロネイト@{I}$Chelonate -> キェロネイト$The Chelonate",
                            "Description": ""},
-                          {"Label": "ギャント・ポール@{I}$Gant Pole -> ギャント・ポール$Gant Pole",
+                          {"Label": "ギャント・ポール@{I}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$Gant Pole",
                            "Description": ""},
                           {"Label": "サーシャタウン@{I}$Sachatown -> サーシャタウン$Sachatown",
                            "Description": ""},
@@ -13,5 +13,5 @@
                            "Description": ""},
                           {"Label": "タスラー海峡@{I}$Tusler's Channel -> タスラー海峡$Tusler's Channel",
                            "Description": ""},
-                          {"Label": "ギャント・ポール@{I}$Gant Pole -> ギャント・ポール$The Gant Pole",
+                          {"Label": "ギャント・ポール@{I}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$The Gant Pole",
                            "Description": ""}]}]}

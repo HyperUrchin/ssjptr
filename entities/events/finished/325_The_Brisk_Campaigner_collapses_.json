@@ -34,5 +34,5 @@
                     "Description": "[貴方はまだ彼女の信頼を得ていません。もし信頼を今得られないか、得るつもりがない場合、彼女は船を去ります。]@{M}She stares at you in consideration. [You have not yet won her trust. If you cannot do so immediately, or don't care to, she will leave the ship.]",
                     "ButtonText": "", "Id": 137098}],
  "Description": "それは、彼女が言い訳がましい船乗りに個人衛生について教えていた一時の事だった。次の瞬間には、彼女は甲板の上でのびていた。貴方が駆けつけて抱き起こした時には、既に彼女の意識は戻っていた。@{M}One moment she's lecturing an apologetic zailor on personal hygiene. The next, she's stretched full length on the deck. By the time you reach her, she's regaining consciousness.",
- "Name": "活発な従事者が気絶した!@{M}The Brisk Campaigner collapses!",
+ "Name": "活発な従事者が気絶した!@{M}$Brisk Campaigner -> 活発な従軍者$The Brisk Campaigner collapses!",
  "Id": 159378}

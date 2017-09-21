@@ -1,3 +1,3 @@
 {"Description": "散文、韻文、あるいは絵入りの体裁で書かれた、心の冒険譚のすべてがここに。中には、私的に消費される方が適切であろうものもある。[注意：ロンドンでは、恋物語には関税が課されます。挿絵入りのものですら例外ではありません。]@{I}全ての心の冒険が此処に在る。散文、韻文、写真や絵などの媒体で。幾つかは、個人的にこっそり消費される方がふさわしい物もある。[注意: ロンドンでは、ラブストーリーには関税がかかっています。例えそれが漫画だったとしてもです。]@{M}All the adventures of the heart are here, in prose, poetry or pictorial form. Some may be more suitable for private consumption. [Note: in London, customs duty is paid on love stories. Even illustrated love stories.]",
- "Name": "恋愛小説@{I}浪漫小説@{M}$Romantic Literature -> 恋愛小説$Romantic Literature",
+ "Name": "恋愛小説@{I}浪漫小説@{M}$[Rr]omantic[- ][Ll]iterature -> 恋愛小説$Romantic Literature",
  "Id": 110583}

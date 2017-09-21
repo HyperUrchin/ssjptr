@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 181006}, "Name": "変化@{K}Changes",
                                      "Id": 181467},
                     "Name": "深みを覗き込む@{K}Peer into the depths",
-                    "Description": "あなたの知覚を風に受け渡そう。[この選択肢はミラーを１ポイント犠牲にします。]@{K}Surrender your understanding to the wind. [This will sacrifice a point of Mirrors.]",
+                    "Description": "あなたの知覚を風に受け渡そう。[この選択肢はミラーを１ポイント犠牲にします。]@{K}$Mirrors -> ミラー$Surrender your understanding to the wind. [This will sacrifice a point of Mirrors.]",
                     "ButtonText": "", "Id": 146938},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 181006},
                                      "Name": "", "Id": 181468},

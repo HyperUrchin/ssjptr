@@ -13,6 +13,6 @@
                     "Name": "拒む@{I}否定する@{M}Deny them",
                     "Description": "　嫌だ！行くものか！@{I}駄目だ!行くな!@{M}No! You won't go!",
                     "ButtonText": "", "Id": 128732}],
- "Description": "　今では、ドラウニーたちがあなたの船と一緒になって泳いでいる。彼らは塩の味や、暗闇の百の色彩、愛情深く渦を巻く海流について歌っていた。帰っておいで。彼らは言った。私たちのところに帰っておいで。@{I}ドラウニー達が船と平行して泳いでいる。彼女たちの歌の味は塩気が強く、百を越す色の闇が混じり、愛おしそうに絡みつく海流の渦が誘う。こちらへいらっしゃいと彼女たちが言う: 私達の所へいらっしゃい。@{M}$Drown(y|ies) -> ドラウニー$The Drownies swim with the ship now. In their song is the taste of salt, the hundred colours of darkness, the loving coil of the current. Come home, they say: come home to us.",
- "Name": "ドラウニーの歓迎@{I}ドラウニーの歓迎@{M}$Drown(y|ies) -> ドラウニー$The Drownies' Welcome",
+ "Description": "　今では、ドラウニーたちがあなたの船と一緒になって泳いでいる。彼らは塩の味や、暗闇の百の色彩、愛情深く渦を巻く海流について歌っていた。帰っておいで。彼らは言った。私たちのところに帰っておいで。@{I}ドラウニー達が船と平行して泳いでいる。彼女たちの歌の味は塩気が強く、百を越す色の闇が混じり、愛おしそうに絡みつく海流の渦が誘う。こちらへいらっしゃいと彼女たちが言う: 私達の所へいらっしゃい。@{M}$[Dd]rown(y|ies) -> ドラウニー$The Drownies swim with the ship now. In their song is the taste of salt, the hundred colours of darkness, the loving coil of the current. Come home, they say: come home to us.",
+ "Name": "ドラウニーの歓迎@{I}ドラウニーの歓迎@{M}$[Dd]rown(y|ies) -> ドラウニー$The Drownies' Welcome",
  "Id": 150648}
