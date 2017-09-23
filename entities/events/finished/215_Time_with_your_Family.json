@@ -10,7 +10,7 @@
                     "ButtonText": "", "Id": 128919},
                    {"DefaultEvent": {"Description": "彼らはどちらも地表を目にしたことがない。少なくとも、今はまだ……@{K}$[Tt]he Surface -> 地上$Neither of them has ever seen the Surface; not yet -",
                                      "Name": "いつの日か@{K}Someday", "Id": 150967},
-                    "Name": "子供と恋人に地表の話を聞かせる@{K}$[Tt]he Surface -> 地上$Tell your child and your sweetheart of the Surface",
+                    "Name": "子供と愛する人に地表の話を聞かせる@{K}$[Tt]he Surface -> 地上$Tell your child and your sweetheart of the Surface",
                     "Description": "「太陽は明るくも冷酷で、桃のように甘く……」@{K}\"The Sun is bright and cruel, and sweet as peaches...\"",
                     "ButtonText": "", "Id": 128920},
                    {"DefaultEvent": {"Description": "子供はそれを気の進まない様子で抱きしめた。しかしそれの入った水槽は寝室の目立つ位置に飾られたようだ。その見つめる瞳と脈打つ牙は栄光に満ちた海の怪物狩りの空想を大いに掻き立ててくれることだろう。@{K}Your child is disinclined to hug it; but its tank will take pride of place in their bedroom. Its staring eyes and pulsing fangs will inspire glorious fantasies of zee-monster hunting...",
@@ -31,7 +31,7 @@
                    {"DefaultEvent": {"Description": "甘いパンと茸のジャム、そして子供を抱え上げて気分が悪くなるほど勢いよく回してしまった時の出来事。夜の更けるころには部屋は静かになり、話が交わされ、蝙蝠が窓にぶつかり音をたてている。そしてその更に後には、海の冷たい潮に曝されてもなお新たに燃える情熱の温もりが続いた。@{K}Crumpets and bolete jam, and what happens when you spin a child round so fast they're very nearly sick. Quiet at evening's end; shared stories; bats beating at the windows. And much later, the warmth of renewed passion after the cold salt of the sea.",
                                      "Name": "", "Id": 151068},
                     "Name": "ただ彼らとの時間を楽しむ@{K}Just enjoy their company",
-                    "Description": "居間で恋人と子供と過ごす夕べ。そして寝室でも。@{K}An evening in the parlour with your child and your sweetheart. And so to bed.",
+                    "Description": "居間で愛する人と子供と過ごす夕べ。そして寝室でも。@{K}An evening in the parlour with your child and your sweetheart. And so to bed.",
                     "ButtonText": "", "Id": 129016}],
  "Description": "家族との一時は喜びだ。しかし、それはいつも喜びとなるものなのだろうか？海に出る者は二つの世界を知っている。\u000d\u000a[あなたの子供に適切な贈り物をすることで、彼らは海への熱望を獲得します。海への熱望が25に達すると、彼らは跡継ぎとなり家を出て海へと乗り出します。これにより、幾人もの船長を輩出する不滅の家系を築くことが出来るでしょう！]@{K}It's a delight. But will it always be a delight? The zailor knows two worlds.\u000d\u000a [If you give suitable presents to your child, they will gain Sea Fever. If Sea Fever reaches 25, they will decide to run away to sea, becoming your Scion. This will establish a permanent dynasty of future zee-captains!]",
  "Name": "家族との時間@{K}Time with your Family", "Id": 150964}

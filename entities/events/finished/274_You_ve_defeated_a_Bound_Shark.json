@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "サメの肉は弾力があり、脂ぎっていて暗い色をしていた。それらの性質は肉として食欲をそそるようなものではない。だがしかし、あなたの料理人はもしかするとこれから何かを作ることが出来るかもしれない。それと、胃袋の中に入っているあれは何だ？@{K}The shark-meat is dark, springy and oily. These are not encouraging properties for a meal. Nevertheless, your cook, perhaps, can make something of it. And what's this in its gut?",
+{"ChildBranches": [{"DefaultEvent": {"Description": "サメの肉は弾力があり、脂ぎっていて暗い色をしていた。それらの性質は肉として食欲をそそるようなものではない。だがしかし、あなたの料理人はもしかするとこれから何かを作ることが出来るかもしれない。それと、胃袋の中に入っていたこれは何だ？@{K}The shark-meat is dark, springy and oily. These are not encouraging properties for a meal. Nevertheless, your cook, perhaps, can make something of it. And what's this in its gut?",
                                      "LinkToEvent": {"Id": 140908},
                                      "Name": "硬くて灰色@{K}Tough and grey", "Id": 153031},
                     "Name": "その肉を役立てる@{K}Use its meat",

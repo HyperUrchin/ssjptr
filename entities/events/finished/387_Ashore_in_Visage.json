@@ -17,7 +17,7 @@
                     "Name": "洪水の間を訪れる@{K}Visit the Flood Court",
                     "Description": "月蛾はそこがどの様な場所かすでに知っていて当然であるかのように語った。@{K}The Moon-Moth speaks as though you should already know what that is.",
                     "ButtonText": "", "Id": 139104},
-                   {"DefaultEvent": {"Description": "毎朝、先の尖った鋼の杖で平らに均された泥の上にコブラの面のをつけた男が線を描く。この島のすべての住人に茸の栽培と塩を削り出すために使われる小さな台形の土地を割り当てるために。土地が次の日に持ち越されることはない。\u000d\u000a\u000d\u000aこの男こそが筆頭幾何学者にして方角の護持者、陸と海の計測を司る者だ。@{K}Each morning the man in the cobra mask draws lines in the mud flat with a pointed steel rod. This apportions to each inhabitant a small trapezoidal area from which to harvest mushrooms and to scrape salt. No plot is ever preserved from one day to the next. \u000d\u000a\u000d\u000aThis man is the Chief Geometer, the Keeper of Directions, Master of Land Measures and Sea Measures. ",
+                   {"DefaultEvent": {"Description": "毎朝、先の尖った鋼の杖で平らに均された泥の上にコブラの面をつけた男が線を描く。この島のすべての住人に茸の栽培と塩を削り出すために使われる小さな台形の土地を割り当てるために。土地が次の日に持ち越されることはない。\u000d\u000a\u000d\u000aこの男こそが筆頭幾何学者にして方角の護持者、陸と海の計測を司る者だ。@{K}Each morning the man in the cobra mask draws lines in the mud flat with a pointed steel rod. This apportions to each inhabitant a small trapezoidal area from which to harvest mushrooms and to scrape salt. No plot is ever preserved from one day to the next. \u000d\u000a\u000d\u000aThis man is the Chief Geometer, the Keeper of Directions, Master of Land Measures and Sea Measures. ",
                                      "LinkToEvent": {"Id": 168891},
                                      "Name": "濡れた床に刻まれた幾本もの線@{K}Lines in wet ground", "Id": 168611},
                     "Name": "筆頭幾何学者の館を訪ねる@{K}Visit the House of the Chief Geometer",
