@@ -14,7 +14,8 @@ Delightful Adventuress, 愉快な女冒険家
 Plausible Surgeon, 口達者な外科医
 Shady Cook, 胡散臭い料理人
 Scrimshaw Chronicler, 骨細工彫りの年代史家
-Avuncular Broker, おじのような仲買人
+Avuncular Broker, おじのような仲介人
+Hands-On Diplomat, 実践主義的な外交官
 Blind Bruiser, 盲目の粗暴者
 Drowned Man, 溺れた男
 Merciless Modiste, 酷薄な仕立屋
@@ -94,3 +95,6 @@ Bandaged Poissonnier, 包帯巻きのポワソニエ
 Bandaged Chef-Paramount, 包帯巻きの最高料理長
 Affable Factor, 愛想の良い代理商
 Cladery Heir, クラデリーの後継者
+Thief-of-Faces, 『顔盗むもの』
+Presbyter, 長老
+Presbyterate, 長命衆

@@ -17,7 +17,7 @@
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 243367},
                                      "Name": "", "Id": 243373},
                     "Name": "Trade stories to the gentleman in the rear pew",
-                    "Description": "$Presbyter -> プレズビター$His suit is of thin Presbyterate fabric. He observes the story-contests closely, occasionally copying an excerpt into a tatty notebook. [Trade your Storyteller quality for different rewards.]",
+                    "Description": "$Presbyter -> 長老, Presbyterate -> 長命衆$His suit is of thin Presbyterate fabric. He observes the story-contests closely, occasionally copying an excerpt into a tatty notebook. [Trade your Storyteller quality for different rewards.]",
                     "ButtonText": "", "Id": 185933},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 243280},
                                      "Name": "", "Id": 243375},

@@ -83,7 +83,7 @@
                                          "LinkToEvent": {"Id": 175505}, "Name": "Old enemies",
                                          "Id": 175577},
                     "Name": "$Diplomatic Agent -> 外交官の諜報員$A Diplomatic Agent",
-                    "Description": "$Khan -> カーン, [Gg]ant -> ギャント, Khanate -> カーネイト, Port Carnelian -> ポート・カーネリアン, Presbyter -> プレズビター$Port Carnelian is choked with spies. Bewildered Surface spies. Earnest spies from London. Elegant spies from the Khanate. Splendid spies from the Presbyterate. But there's always room for a small one.",
+                    "Description": "$Khan -> カーン, [Gg]ant -> ギャント, Khanate -> カーネイト, Port Carnelian -> ポート・カーネリアン, Presbyter -> 長老, Presbyterate -> 長命衆$Port Carnelian is choked with spies. Bewildered Surface spies. Earnest spies from London. Elegant spies from the Khanate. Splendid spies from the Presbyterate. But there's always room for a small one.",
                     "ButtonText": "", "Id": 143356}],
  "Description": "Your Network needs something, to prosper. What is it? [If you provide this successfully, your Network level may increase.]",
  "Name": "Carnelian Conspiracies", "Id": 175552}

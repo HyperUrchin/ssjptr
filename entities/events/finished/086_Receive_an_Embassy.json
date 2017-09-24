@@ -22,7 +22,7 @@
                     "DefaultEvent": {"Description": "あなたは成果が出るように祈りつつ一文だけ彼らに送った。\u000d\u000a\u000d\u000a燧石の薄片に刻まれた一行が返信として届いた。『旅人還りぬ』@{K}You send the single sentence you hope will have a result.\u000d\u000a\u000d\u000aA single line comes back, inscribed on a flake of flint. It reads: \"TRAVELLER RETURNING.\"",
                                      "LinkToEvent": {"Id": 144251},
                                      "Name": "助けにはならない@{K}Not helpful", "Id": 185294},
-                    "Name": "プレズビターとの合意@{K}$Presbyter -> プレズビター$An understanding with the Presbyterate",
+                    "Name": "長命衆との合意@{K}$Presbyter -> 長老, Presbyterate -> 長命衆$An understanding with the Presbyterate",
                     "Description": "旧大陸の心臓部に位置する、ロンドンとカーネイトを合わせたよりも古い国だ。彼らの政府にはmithridacy（異邦人を困惑させる術）の追及に専念している部門さえあるという。もしかすると、本当に可能性は低いが、正しい伝言を考え出すことが出来るかもしれない。@{K}$Khan -> カーン, Khanate -> カーネイト, Elder Continent -> 旧大陸$The nation at the heart of the Elder Continent is older than London and the Khanate put together. They have an entire government department devoted to mithridacy - the art of confusing foreigners. Perhaps - just perhaps - you can work out the right thing to say to them.",
                     "ButtonText": "", "Id": 149344},
                    {"SuccessEvent": {"Description": "", "LinkToEvent": {"Id": 189560},

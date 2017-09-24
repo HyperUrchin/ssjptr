@@ -8,7 +8,7 @@
                                      "LinkToEvent": {"Id": 141880}, "Name": "間奏@{K}An interlude",
                                      "Id": 149158},
                     "Name": "粋な紳士@{K}A Dapper Chap",
-                    "Description": "彼はプレズビターのアクセントと意外なほど楽し気な笑い声を持つ優雅な人物だ。夜も更けるころには、彼が家まで付き添ってくれるのはごく自然な事に思えた。@{K}$[Gg]ant -> ギャント, Presbyter -> プレズビター$An elegant fellow with a Presbyterate accent and an unexpectedly delighted laugh. By the evening's end, it seems natural that he should accompany you home.",
+                    "Description": "彼は長命衆のアクセントと意外なほど楽し気な笑い声を持つ優雅な人物だ。夜も更けるころには、彼が家まで付き添ってくれるのはごく自然な事に思えた。@{K}$[Gg]ant -> ギャント, Presbyter -> 長老, Presbyterate -> 長命衆$An elegant fellow with a Presbyterate accent and an unexpectedly delighted laugh. By the evening's end, it seems natural that he should accompany you home.",
                     "ButtonText": "", "Id": 127853},
                    {"DefaultEvent": {"Description": "二人なら地下の冷気すら祓うことが出来る。目が覚めた時には、あなたは独りだった。しかしあなたにはその方が好ましい。@{K}Together, you exorcise the chill of the Neath. When you wake, you're alone, but that's how you've always preferred it.",
                                      "LinkToEvent": {"Id": 141880},

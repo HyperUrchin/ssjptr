@@ -31,7 +31,7 @@
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 259411},
                                      "Name": "", "Id": 259425},
                     "Name": "Discuss the Well-Travelled Notary's memories",
-                    "Description": "$Presbyter -> プレズビター$Your quest to has led you here. You need to know what the Notary knew - about Nidah, about the Presbyterate, about the secret of immortality.",
+                    "Description": "$Presbyter -> 長老, Presbyterate -> 長命衆$Your quest to has led you here. You need to know what the Notary knew - about Nidah, about the Presbyterate, about the secret of immortality.",
                     "ButtonText": "", "Id": 193439},
                    {"DefaultEvent": {"Description": "$Isery -> イザリー$You broach the subject with delicacy. There is a light in Isery's eyes that you would not describe as 'reassuring'.",
                                      "LinkToEvent": {"Id": 260483}, "Name": "", "Id": 260482},
