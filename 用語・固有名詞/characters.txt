@@ -98,3 +98,5 @@ Cladery Heir, クラデリーの後継者
 Thief-of-Faces, 『顔盗むもの』
 Presbyter, 長老
 Presbyterate, 長命衆
+Dapper Chap, 粋な紳士
+Elegiac Cockatoo, 哀歌調のオウム
