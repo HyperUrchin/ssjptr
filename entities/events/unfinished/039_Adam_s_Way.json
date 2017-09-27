@@ -15,7 +15,7 @@
                                      "LinkToEvent": {"Id": 181034},
                                      "Name": "愉快な気晴らし@{I}A pleasant distraction", "Id": 180643},
                     "Name": "長命衆の骨董品が並ぶ見世物小屋を訪れる@{I}$Presbyter -> 長老, Presbyterate -> 長命衆$Visit an exhibition of Presbyterate curiosities",
-                    "Description": "　ほんの1エコーのお値段で、誠実な興行師があなたの足元に旧大陸の驚異を並べてくれるだろう！@{I}$Elder Continent -> 旧大陸$For the insignificant price of a single echo, the Sober Showman will lay the wonders of the Elder Continent directly at your feet!",
+                    "Description": "　ほんの1エコーのお値段で、真面目な興行師があなたの足元に旧大陸の驚異を並べてくれるだろう！@{I}$Elder Continent -> 旧大陸$For the insignificant price of a single echo, the Sober Showman will lay the wonders of the Elder Continent directly at your feet!",
                     "ButtonText": "", "Id": 146435},
                    {"DefaultEvent": {"Description": "　丘に食い込む階段を登り、頭にハチを乗せた柱のそばに腰掛けよう。柱は南方の山の放つ熱気を遮ってくれるだろう。静かに耳を傾けよう。同じ影の中には、年老いた語り部たちがいる。<br/><br/>　ドーン・マシンはもはや、いつ長老から涜神であると宣告されてもおかしくはない。ロンドンの官僚社会には、『顔盗むもの』の落とし子がひしめいている。先ごろ、異邦人の探検隊が西の海岸に降り立ち、庭園を求めて南へと進軍した。見つかった彼らの遺体は、紅き川に委ねられた。@{I}$Dawn Machine -> ドーン・マシン, Thief-of-Faces -> 『顔盗むもの』$Climb the stairs cut into the hill. Sit at the foot of the bee-capped stone columns. They will shield you from the southern Mountain-heat. Be quiet. Listen. Old storytellers share the shadow.\u000d\u000a\u000d\u000aThe Prester is on the verge of declaring the Dawn Machine a blasphemy. London's bureaucracy is riddled with the children of the Thief-of-Faces. An expedition of foreigners recently put to shore to the west, then went south in search of the Garden. They were discovered, and given to the red river.",
                                      "LinkToEvent": {"Id": 143316},
