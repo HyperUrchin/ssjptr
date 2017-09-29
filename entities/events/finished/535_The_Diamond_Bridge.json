@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "あなたは莫大な恐怖に朦朧としつつも、一歩ずつよろよろと進んだ。光があなたを引き裂こうとする。思考が焦げた紙のように萎れていく。橋を渡り、氷結城内奥の美しい光の中へと進む。@{K}$Frostfound -> 氷結城$You stumble through a mounting haze of dread. The light tears at you. Thoughts wither like charring paper. Across, into the merely brilliant light of inner Frostfound.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "あなたは莫大な恐怖に朦朧としつつも、一歩ずつよろよろと進んだ。光があなたを引き裂き、思考が焦げた紙のように萎れていく。橋を渡り、氷結城内奥の美しい光の中へと。@{K}$Frostfound -> 氷結城$You stumble through a mounting haze of dread. The light tears at you. Thoughts wither like charring paper. Across, into the merely brilliant light of inner Frostfound.",
                                      "LinkToEvent": {"Id": 181006},
                                      "Name": "灼けつく幻惑@{K}An acid dazzle", "Id": 181462},
                     "Name": "橋を渡る@{K}Cross the bridge",

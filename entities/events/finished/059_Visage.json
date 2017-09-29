@@ -20,5 +20,5 @@
                     "Name": "放浪の牧師@{K}A Wandering Parson",
                     "Description": "彼は丘の顔を落ち着かない様子で見つめていたが、握手する手は力強かった。@{K}He glances nervously back at the face in the hill, but his handshake is strong.",
                     "ButtonText": "", "Id": 186597}],
- "Description": "此処が顔を晒すべからずという掟のあるヴィザージュの港だ。ただしその決まりには一つだけ例外がある。あの頭上を穏やかに見つめている、村の教会ほどの大きさの石のモニュメント『悠久の栄え』だ。@{K}$Visage -> ヴィザージュ, Flourishing ?- ?of ?- ?Years -> 悠久の栄え$This is the port of Visage, where faces may not be naked. Except one: a stone monument the size of a village church, serenely gazing upwards. Flourishing-of-Years.",
+ "Description": "此処が顔を晒すべからずという掟のある、ヴィザージュの港だ。ただしその決まりには一つだけ例外がある。あの頭上を穏やかに見つめている村の教会ほどの大きさの石のモニュメント『悠久の栄え』だ。@{K}$Visage -> ヴィザージュ, Flourishing ?- ?of ?- ?Years -> 悠久の栄え$This is the port of Visage, where faces may not be naked. Except one: a stone monument the size of a village church, serenely gazing upwards. Flourishing-of-Years.",
  "Name": "ヴィザージュ@{K}$Visage -> ヴィザージュ$Visage", "Id": 143376}
