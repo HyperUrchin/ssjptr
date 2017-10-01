@@ -1,0 +1,13 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "苛立った兵士たちによって最後のワイン樽が港に運び込まれた。側近が安堵の息を吐く。「無毛の顧問よ、あの悪魔のような飲み物を持って行ってくださいませんか？心より感謝いたします」@{K}The last wine barrel is delivered to the docks by annoyed soldiers. The aide breathes with relief. \"Hairless Adviser, would you take this devil drink away? We would be most grateful.\"",
+                                     "Name": "好まれぬ決定@{K}An unpopular decision", "Id": 213204},
+                    "Name": "禁制を敷くことを勧める@{K}Recommend prohibition",
+                    "Description": "素面の労働者はよく働く。幸せではないかもしれないが。@{K}A sober workforce is a harder-working workforce. Probably not a happier one.",
+                    "ButtonText": "", "Id": 166738},
+                   {"DefaultEvent": {"Description": "側近は微かに安堵したようだった。「かしこまりました、無毛の顧問よ」彼は甲高い声で言うとあなたに盃を掲げた。あなたは街に戻り、柔らかそうな兵士たちの一団の傍らを通りかかった。あなたが横を通り抜けようとすると、人間用の大きさのカップの中で眠るとりわけ小さなテンジクネズミが幸せそうな鳴き声を立てた。@{K}The aide seems slightly relieved. \"Very good, Hairless Adviser,\" it squeaks, raising a glass in your honour. You return to the town, past a furry heap of soldiers. One particularly small guinea pig, sleeping in a human sized cup, squeaks happily as you pass.",
+                                     "Name": "僅かな自由@{K}A modicum of freedom", "Id": 213322},
+                    "Name": "見逃すことを勧める@{K}Recommend turning a blind eye",
+                    "Description": "齧歯類であっても人生の苦しみを紛らわすための気晴らしは必要だ。@{K}Even rodents need something to take the edge off life.",
+                    "ButtonText": "", "Id": 166813}],
+ "Description": "「鼠の作るワインには高い需要があるのです、無毛の顧問よ」側近が髭を震わせた。「人生から喜びを奪い去りたくはありませんが、しかしそれのせいで多くの問題が起こっています。農民たちの間では沢山の怪我人が出ました。軍の新兵は訓練に遅れてきます。我々は介入した方が良いでしょうか、それとも見過ごすべきでしょうか？」@{K}\"The rats' wine is in high demand, Hairless Adviser.\" The aide twitches its whiskers. \"We do not wish to take the joy from life, but it has caused many problems. Many injuries amongst our farmers. Our new militia recruits missing their training. Do we step in or turn a blind eye?\"",
+ "Name": "ピグモート・アイルのジレンマ@{K}$Pigmote Isle -> ピグモート・アイル$A Dilemma On Pigmote Isle",
+ "Id": 213203}

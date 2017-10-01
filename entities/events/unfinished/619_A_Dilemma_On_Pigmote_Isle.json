@@ -1,0 +1,13 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "側近は二匹の信頼できる補佐官と共にあなたの船を訪れた。全員肉体労働に不慣れで、小さいが荷物の沢山積まれた荷車を満足に引くことすらできない。彼らは最初こそ感謝の鳴き声をあげていたが、街の門までゆっくりと引きずっていくにつれその鳴き声は疲れの滲む物に変わっていった。@{K}The aide meets you at the ship with a pair of trusted assistants. None are used to manual labour and can barely pull the small, heavily loaded cart. They squeak first in appreciation and then with exhaustion as they slowly drag it away to the town gates.",
+                                     "Name": "慎重な運搬@{K}A careful delivery", "Id": 213198},
+                    "Name": "食糧を寄付する@{K}Donate supplies",
+                    "Description": "[q:Pigmote Isle: Mastery]の者たちを大いに助けることになるだろう。@{K}$Pigmote Isle -> ピグモート・アイル$This will greatly help the [q:Pigmote Isle: Mastery]ns.",
+                    "ButtonText": "", "Id": 166735},
+                   {"DefaultEvent": {"Description": "側近は萎れたようになり、彼の口髭もうなだれた。「かしこまりました、無毛の顧問よ。我らは耐え忍びましょう。我らには信念があります。生き延びることが出来るでしょう」@{K}The aide sags; his whiskers droop. \"Very well, Hairless Adviser. We will endure. We have faith. We will survive.\"",
+                                     "Name": "独り立つ@{K}Standing alone", "Id": 213308},
+                    "Name": "断る@{K}Refuse",
+                    "Description": "したくないのか、できないのか。いずれにせよ、あなたの答えはノーだ。@{K}Unwilling or unable, your answer is no.",
+                    "ButtonText": "", "Id": 166803}],
+ "Description": "側近があなたを急かしチキンウッズの奥深く、森の中でもとりわけ暗く不吉な場所まで連れて行った。彼は前足をもみ合わせている。「無毛の顧問よ……こんなお願いをしなくて済めばよかったのですが。我らは我らの足によって立つと誓ったのですからね。しかし、我々の食料が少なくなってきているのです。あなたの助けを心の底から必要としています。それと、このことを知られないようにするだけの思慮分別も」@{K}The aide hurries you into the depths of the Chickenwoods, where the woods are particularly dark and foreboding. It wrings its paws. \"Hairless Adviser... we had hoped never to ask for this. We swore to stand on our own paws. But our supplies are running short. We desperately need your help. And your discretion.\"",
+ "Name": "ピグモート・アイルのジレンマ@{K}$Pigmote Isle -> ピグモート・アイル$A Dilemma On Pigmote Isle",
+ "Id": 213197}
