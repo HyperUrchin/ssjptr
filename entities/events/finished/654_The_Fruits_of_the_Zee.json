@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "　今は誰もあなたに時間を割いていられない。この馬鹿馬鹿しい祭りが済んだら、また話せるかもしれない。@{I}No one has time for you at the moment. Perhaps once they've finished their ridiculous festival.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "　今は誰もあなたに時間を割いていられない。この馬鹿馬鹿しい祭が済んだら、また話せるかもしれない。@{I}No one has time for you at the moment. Perhaps once they've finished their ridiculous festival.",
                                      "Name": "準備中@{I}In the way", "Id": 233405},
                     "Name": "村人たちはまだ懸命に働いている@{I}The villagers are still hard at work",
                     "Description": "　彼らは甲虫のように小走りに駆け回っている。紅色の頬に髭を生やした甲虫だ。@{I}They scurry like beetles. Rosy-cheeked, mutton-chopped beetles.",
