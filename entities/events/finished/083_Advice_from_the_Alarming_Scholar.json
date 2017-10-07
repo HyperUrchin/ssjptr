@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "「ありがとうございます。感謝します。私たちは、真実砕きのタービンがこれを元に作り出すものを見ることになるでしょう。いえ、私たちは決して中身を知ることはありません。ただ私たちは、これを砕いて、もっと根源的なものに変えることができるんです」@{I}$Truthbreaker Turbine -> 真実砕きのタービン$\"Thank you, thank you. We will see what the Truthbreaker Turbine makes of this. No, we'll never know the contents. But we can smash it into something more fundamental.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "「ありがとうございます。感謝します。私たちは、真実砕きのタービンがこれを材料にして何を生み出すのか見てみるとしましょう。いえいえ、中身が分かるわけではありませんよ。ただ、私たちはこれを砕いて、もっと根源的なものに変えることができるんです」@{I}$Truthbreaker Turbine -> 真実砕きのタービン$\"Thank you, thank you. We will see what the Truthbreaker Turbine makes of this. No, we'll never know the contents. But we can smash it into something more fundamental.\"",
                                      "Name": "手っ取り早い利益@{I}Easy profit", "Id": 144204},
                     "Name": "彼(彼女？)に箱を売る@{I}Sell him (her?) the box",
                     "Description": "　100エコーと引き換えにして。@{I}For a hundred Echoes.",
@@ -9,6 +9,6 @@
                     "Name": "丁重に断る@{I}Politely refuse",
                     "Description": "……そして彼女(彼？)に助言を求める@{I}...and ask her (his?) advice",
                     "ButtonText": "", "Id": 148027}],
- "Description": "「これがどこから来たのかについては心当たりがあります。しかしそこは遠い場所ですし、私が間違っている可能性もあります。なのであるいは……私は些かこの箱が気に入りまして。あるいは単に、あなたはこれを私に売ってしまうべきだとは思いませんか？」@{I}\"I have an idea where it's from. But it's a long way there, and I may be wrong. So perhaps... I rather like the box. Perhaps you should simply sell it to me?\"",
+ "Description": "「これがどこから来たのかについては心当たりがあります。しかしそこは遠い場所ですし、私が間違っている可能性もあります。なのであるいは……私は些かこの箱が気に入りまして。あるいは単に、私がこの箱を買い取るというのはどうでしょう？」@{I}\"I have an idea where it's from. But it's a long way there, and I may be wrong. So perhaps... I rather like the box. Perhaps you should simply sell it to me?\"",
  "Name": "不安を催させる学者からの助言@{I}$Alarming Scholar -> 不安を催させる学者$Advice from the Alarming Scholar",
  "Id": 144203}
