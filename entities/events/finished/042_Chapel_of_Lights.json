@@ -22,7 +22,7 @@
                     "Name": "求められている情報を集める@{I}Collect the information you were sent for",
                     "Description": "　情報提供者は微笑む司祭だ。彼と話そう。@{I}$Smiling Priest -> 微笑む司祭$The Smiling Priest is your contact. Speak to him.",
                     "ButtonText": "", "Id": 130397},
-                   {"DefaultEvent": {"Description": "　赤いカソックを着た微笑む司祭がこのチャペルの世話をしていた。チャペルの会衆には光を避ける傾向があった。彼らがこの地に出入りするのに使う船は小さなもので、彼らの人数を数えるのは、奇妙なほどに難しかった。もしかしたら、彼らの一部は、想像が生み出した幻なのかもしれなかった。それでも、あなたは二、三の船について、その名前を記録した――@{I}$Smiling Priest -> 微笑む司祭$A Smiling Priest in a red cassock tends the chapel. The congregation are shy of light. They come and go in little ships, and it's strangely difficult to count them. Perhaps some of them are imaginary. Still, you note the name of a ship or two -",
+                   {"DefaultEvent": {"Description": "　赤いカソックを着た微笑む司祭がこのチャペルの世話をしていた。チャペルの会衆には光を避ける傾向があった。彼らがこの地に出入りするのに使う船は小さなもので、彼らの人数を数えるのは、奇妙なほどに難しかった。もしかしたら、彼らの一部は、想像が生み出した幻なのかもしれない。それでも、あなたは二、三の船について、その名前を記録した――@{I}$Smiling Priest -> 微笑む司祭$A Smiling Priest in a red cassock tends the chapel. The congregation are shy of light. They come and go in little ships, and it's strangely difficult to count them. Perhaps some of them are imaginary. Still, you note the name of a ship or two -",
                                      "Name": "", "Id": 154678},
                     "Name": "情報を集める@{I}Gather intelligence",
                     "Description": "　ここ、光と闇の狭間では、何が起こっているのだろうか？@{I}What occurs, here between the darkness and the light?",

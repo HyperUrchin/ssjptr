@@ -1,5 +1,5 @@
 {"Description": "ベンシック学寮からの書き置き。彼はあなたと話したいそうだ。@{I}ベンシック大学からの書き置きだ。彼が貴方に話があると言う。@{M}$Benthic College -> ベンシック学寮$Notepaper from Benthic College. He'd like to speak to you.",
- "LevelDescriptionText": "1|不安を催させる学者が、彼女(彼？)を訪ねてきてほしいと書いている。@{I}1|不安がる学者が貴方に、彼女(彼？)を訪れて欲しいと言って来ている。@{M}$Alarming Scholar -> 不安を催させる学者$1|The Alarming Scholar has invited you to call on her (him?)",
- "ChangeDescriptionText": "0|不安を催させる学者との用事は済んだ。次はまた今度だ。~1|不安を催させる学者が、大学まで彼女(彼？)を訪ねてきてほしいと書いている。@{I}0|貴方と不安がる学者の間の用事は、今の所全て終わった。~1|不安がる学者が貴方に、彼女(彼？)を訪れて大学に来て欲しいと言って来ている。@{M}$Alarming Scholar -> 不安を催させる学者$0|Your business with the Alarming Scholar is concluded, for now.~1|The Alarming Scholar has invited you to call on her (him?) at the University",
+ "LevelDescriptionText": "1|不安を催させる学者が、彼女(彼？)を訪ねてほしいと書いている。@{I}1|不安がる学者が貴方に、彼女(彼？)を訪れて欲しいと言って来ている。@{M}$Alarming Scholar -> 不安を催させる学者$1|The Alarming Scholar has invited you to call on her (him?)",
+ "ChangeDescriptionText": "0|不安を催させる学者との用事は済んだ。次はまた今度だ。~1|不安を催させる学者が、大学まで彼女(彼？)を訪ねてほしいと書いている。@{I}0|貴方と不安がる学者の間の用事は、今の所全て終わった。~1|不安がる学者が貴方に、彼女(彼？)を訪れて大学に来て欲しいと言って来ている。@{M}$Alarming Scholar -> 不安を催させる学者$0|Your business with the Alarming Scholar is concluded, for now.~1|The Alarming Scholar has invited you to call on her (him?) at the University",
  "Name": "次はまた後日に: 不安を催させる学者からの伝言@{I}後日談: 不安がる学者からの伝言@{M}$Alarming Scholar -> 不安を催させる学者$Another Day: A Message from the Alarming Scholar",
  "Id": 110362}
