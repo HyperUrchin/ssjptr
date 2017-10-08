@@ -11,7 +11,7 @@
                    {"DefaultEvent": {"Description": "迷子のトレジャー・ハンターは最新号の見出しを読み、呟いた。「素晴らしい。それにいざという時はよく水を吸ってくれそうだ」@{K}The Lost Treasure Hunter scans the latest headlines. \"Fascinating,\" he mutters. \"And should be most absorbent, if needs must.\"",
                                      "LinkToEvent": {"Id": 175994},
                                      "Name": "取引完了@{K}The trade is complete", "Id": 175996},
-                    "Name": "$Recent News -> 最近の知らせ$最近の知らせとダイナマイトを交換する@{K}$Recent News -> 最近の知らせ$Trade Recent News for Dynamite",
+                    "Name": "最近の知らせとダイナマイトを交換する@{K}$Recent News -> 最近の知らせ$Trade Recent News for Dynamite",
                     "Description": "「新聞を持っているのか？これで少なくともいつの日か家に帰りおおせた時、途方にくれずに済むというものだ」@{K}\"You have a newspaper? At least I won't feel entirely lost when I finally get back home.\"",
                     "ButtonText": "", "Id": 143619},
                    {"DefaultEvent": {"Description": "彼は安堵の息を吐いた。「ありがとう。彼の取り巻きは皿の物を残すと耳がもげるほどうるさく言ってくるんだよ。特に他人の耳を残すとね……」@{K}He breathes with relief. \"Thank you. His Nibs can talk your ears off about leaving things on your plate. Not least other peoples' ears...\"",
