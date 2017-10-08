@@ -18,7 +18,7 @@
                     "Name": "最も稀な果実@{I}Rarest fruit",
                     "Description": "　南の最果ての、Stoneと呼ばれる神の腕の中では、庭園が咲き誇っている。はるか昔、鳥たちがその庭園から種を盗んだ。ある鳥は、それをここ、ミラー・マーチに隠した。その話を、あなたは聞いたことがあるかもしれない。@{I}$Mirror-Marches -> ミラー・マーチ$In the farthest South, in the arms of the god called Stone, a garden blooms. In ages past, birds stole the seeds from that garden. One bird hid here, in the Mirror-Marches. Perhaps you know the story.",
                     "ButtonText": "", "Id": 144208},
-                   {"DefaultEvent": {"Description": "　サラスフルーツは美味で有毒な寄生植物だ。ここのサラスフルーツは、マホガニーの木を宿主とし、熱心にその生命を吸い取っていた。寄生された木はひび割れた残骸と化している。サラスフルーツは、露のようにみずみずしく輝いていた。@{I}$[Ss]olacefruit -> サラスフルーツ$Solacefruit are parasites - delicious, poisonous parasites. These solacefruit made their home on a mahogany tree, from which they have assiduously sucked the life. The tree is a cracked remnant. The solacefruit bloom like dew.",
+                   {"DefaultEvent": {"Description": "　サラスフルーツは美味で有毒な寄生植物だ。ここのサラスフルーツは、マホガニーの木を宿主とし、熱心にその生命を吸い取っている。寄生された木はひび割れた残骸と化していた。サラスフルーツは、露のようにみずみずしく輝いていた。@{I}$[Ss]olacefruit -> サラスフルーツ$Solacefruit are parasites - delicious, poisonous parasites. These solacefruit made their home on a mahogany tree, from which they have assiduously sucked the life. The tree is a cracked remnant. The solacefruit bloom like dew.",
                                      "Name": "死にゆく木@{I}A dying tree", "Id": 177062},
                     "Name": "稀な果実@{I}Rare fruit",
                     "Description": "　ここミラー・マーチでは、時に傷ついた者が慰めを得ることがある。あるいは少なくとも、そのように言われている。@{I}$Mirror-Marches -> ミラー・マーチ$Here in the Mirror-Marches, those who are wounded can sometimes find solace. Or so the ztory has it.",
