@@ -7,7 +7,7 @@
                     "ButtonText": "", "Id": 143285},
                    {"DefaultEvent": {"Description": "「すまなかったな！！」木の欠片の舞い散る中、煙のあがるラッパ銃の銃口を下げて騒々しい海賊が大声を張り上げた。「お前さん来たばかりだろう！？尻尾がないなら歓迎するぜ！！」\u000d\u000a\u000d\u000a彼の内に一瞬疑いが起こり、目を細めてあなたを見る。「本当に、尻尾はないよな！？あの盗人どもを通して自分の同類を食わせるわけにはいかねえ！！奴らケツから串刺しにでもしねえと正々堂々戦うってことをまったく理解しやがらん！！」彼の声は銃声よりも大きい。彼の濃い口ひげに固まった肉汁については考えないほうがいいだろう。@{K}\"SORRY ABOUT THAT!\" booms the Boisterous Pirate, lowering a smoking blunderbuss as bits of shattered tree rain down. \"NEW ARRIVAL, ARE WE? WELL, IF YOU HAVEN'T GOT A TAIL, YOU'RE ALL RIGHT BY ME!\" \u000d\u000a\u000d\u000aHe squints, momentarily suspicious. \"YOU <i>DON'T</i> HAVE A TAIL, DO YOU? WOULDN'T PUT IT PAST THE THIEVING LITTLE BUGGERS TO GO SHAVING ONE OF THEIR OWN! WOULDN'T KNOW FAIR PLAY IF IT KICKED 'EM UP RIGHT UP THE ARSE!\"\u000d\u000a\u000d\u000aHis voice is louder than his blunderbuss. The congealed meat juices in his thick beard are better not considered.",
                                      "LinkToEvent": {"Id": 175977},
-                                     "Name": "爆発があなたの頭を吹き飛ばしかけた！@{K]An explosion almost takes off your head!",
+                                     "Name": "爆発があなたの頭を吹き飛ばしかけた！@{K}An explosion almost takes off your head!",
                                      "Id": 175979},
                     "Name": "村に近づく@{K}Approach the village",
                     "Description": "長い間岸に着けられたままの海賊船に沿って何軒も並ぶ掘っ立て小屋と、地面に刺された大量の串刺しの猿から油じみた煙と罪深い香りが立ち昇る。@{K}Greasy smoke and guiltily tempting aromas rise from a collection of huts around a long beached pirate ship, and a field of pointedly impaled monkeys.",
