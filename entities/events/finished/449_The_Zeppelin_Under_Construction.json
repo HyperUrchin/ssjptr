@@ -25,7 +25,7 @@
                     "ButtonText": "", "Id": 143670},
                    {"DefaultEvent": {"Description": "仕事はまだまだある。@{K}There is much of it yet to be done.",
                                      "LinkToEvent": {"Id": 175485},
-                                     "Name": "猿は建造を続けるThe monkeys continue their work",
+                                     "Name": "猿は建造を続ける@{K}The monkeys continue their work",
                                      "Id": 176507},
                     "Name": "ポート・スタントンに戻る@{K}$Port Stanton -> ポート・スタントン$Back to Port Stanton",
                     "Description": "今のところはツェッペリンに供給できる物を何も持っていない。@{K}$Zeppelin -> ツェッペリン$You have nothing for the Zeppelin right now.",
