@@ -7,6 +7,6 @@
                     "Name": "待っていた男に宝石を届ける@{I}粗品を待っている男へ届ける@{M}Deliver the Trinkets to the waiting man",
                     "Description": "　悲哀蜘蛛の卵では断じてない何かの入った箱は、まだしっかりと封をされたままだ。まあ、人心地つくというものだ。あるいは、あなたは単に幸運だっただけだろうか？いずれにせよ、彼らは上手くやった。あなたと同じく。@{I}悲哀蜘蛛の卵では絶対にない何かが、箱の中に厳重に封印されている。まぁ、それだけでも安心だ。若しくは単に幸運だっただけか?何れにしても、彼らはやった。今度は貴方の番だ。@{M}$[Ss]orrow-spider -> 悲哀蜘蛛$Still a firmly sealed crate of what are absolutely not sorrow-spider eggs. Well, that's a relief. Or maybe you just got lucky? Either way, they made it. So did you.",
                     "ButtonText": "", "Id": 138904}],
- "Description": "　待っていたのは狂信者ではなかった。彼は単なる平凡な一市民だった。絹の目隠しをつけてはいたが。数年もしたら、皆がこれをつけるようになるのかもしれない。@{I+M}待っていた男は熱狂者などではなく、単なる平凡な一市民だった。絹製の目隠しをつけている。数年もしたら、全員がこれを付けるようになるのだろう。@{M}The man waiting is not a cultist. He is just another ordinary citizen. Wearing a silken blindfold. In a few years, perhaps everyone will be wearing them.",
+ "Description": "　あなたを待っていた男は狂信者とかそういうのではない。彼は単なる平凡な一市民に過ぎない。ただ絹の目隠しをつけているだけだ。数年もしたら、誰もが目隠しをつけるようになるかもしれないじゃないか。@{I+M}待っていた男は熱狂者などではなく、単なる平凡な一市民だった。絹製の目隠しをつけている。数年もしたら、全員がこれを付けるようになるのだろう。@{M}The man waiting is not a cultist. He is just another ordinary citizen. Wearing a silken blindfold. In a few years, perhaps everyone will be wearing them.",
  "Name": "宝石だ。ただの宝石だ。@{I}粗品だよ、単なる粗品だよ@{M}Trinkets. Just Trinkets.",
  "Id": 168212}

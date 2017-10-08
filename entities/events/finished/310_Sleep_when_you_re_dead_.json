@@ -2,7 +2,7 @@
                                      "Name": "癒し手たる時間@{I}時、癒やすもの@{M}Time, the healer",
                                      "Id": 155203},
                     "Name": "ベッドで休む@{I}ベッドの中で時を過ごす@{M}Spend time in bed",
-                    "Description": "　まさしくそこが今あなたのいるべき場所だ。[これは1つの傷を癒やします。]@{I}[傷を癒やしてくれます。]@{M}It really <i>is</i> where you should be. [This will heal a Wound.]",
+                    "Description": "　まさしくそこが、今あなたのいるべき場所だ。[これは1つの傷を癒やします。]@{I}[傷を癒やしてくれます。]@{M}It really <i>is</i> where you should be. [This will heal a Wound.]",
                     "ButtonText": "", "Id": 131665},
                    {"DefaultEvent": {"Description": "　船乗りたちは、基本的には向こう見ずな男らしさに感動するものだ。時々あるような、船長が向こう見ずな男らしさによって、本当に死んでしまう場合は別にして。今回については、あなたは死ぬことはなかった。@{I}船乗りは基本的に荒くれた男らしさに惹かれるが、偶にその男らしさが祟って船長を完全な死に追いやってしまうような時は別だ。今回の場合、貴方は死んでいない。@{M}Zailors are basically impressed by buccaneering machismo, except sometimes when buccaneering machismo kills their captain stone dead. On this occasion, you are not dead.",
                                      "Name": "", "Id": 155204},
