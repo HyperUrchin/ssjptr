@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "　あなたは花びらの吹き溜まりに箱を置いて、そこから立ち去るだろう。「よし」瞼の広い男は言うだろう。「いつまでも開かねえものには、いつまでも価値がある。いつまでも価値のあるものは、いつまでもその値段に見合う。まだやってねえことは、後悔しようもねえわけだ」@{I}You will leave the box in a petal-drift and walk away. \"Good,\" the Heavy-Lidded Fellow will say. \"That which is never opened is always precious. That which is always precious is always worth the price. You have not regretted what you will do.\"",
+                                     "Name": "輝く亜麻を四かたまり@{I}Four bales of shining linen", "Id": 144269},
+                    "Name": "あなたは箱を彼らに与えるだろう@{I}You will give them the box",
+                    "Description": "「あの女が大昔に帰ってきた場合に備えて、俺らで箱を安全に取っておこう。開けられた時には、それは安全になるだろうからな。あんたの方の埋め合わせはするぜ」@{I}\"We will keep it safe for the zee-captain, in case she returned, long ago. When it was opened, it will be safe. We will compensate you.\"",
+                    "ButtonText": "", "Id": 124674},
+                   {"DefaultEvent": {"Description": "「何も閉じ込めない檻ってのは何だ？」男は言うだろう。「花びらはどこから始まる？物語はどこで終わる？」彼はあなたに満面の笑みを作った。実際、アイレムの謎かけにしては、それはほとんど実用的と言ってよかった。@{I}$Irem -> アイレム$\"What cage imprisons nothing?\" the Fellow will say. \"Where do petals begin? Where do stories end?\" He beams at you. Actually, for an Iremi riddle, that's almost helpful.",
+                                     "Name": "「猫の一番の爪はどれだ？」@{I}\"Which is the cat's chiefest claw?\"", "Id": 144270},
+                    "Name": "あなたはその船長の居場所を尋ねるだろう@{I}You will ask them where to find the captain",
+                    "Description": "「本当に知りたいのか？」瞼の広い男はそう質すだろう。「どれだけ積んでもあの女は合言葉を教えたがらねえかもしれねえぞ。多分、あの女は箱を取り戻したがるんじゃねえかな」@{I}\"Are you sure you want to know?\" the Heavy-Lidded Fellow will ask. \"Perhaps she doesn't want to tell you the key-phrase, no matter how much you offer. Perhaps she wants her box back.\"",
+                    "ButtonText": "", "Id": 124675}],
+ "Description": "　サテンのスモックを着た瞼の広い男が、あなたに笑いかけるだろう。「俺らの作品だな」彼は言うだろう。「zeeの船長からの依頼で作ったんだ。自分の遺産を守るためだってよ。本人に会えば合言葉を聞けるんじゃねえか？俺らからは言えねえな」@{I}A Heavy-Lidded Fellow in a satin smock will smile at you. \"One of ours,\" he will say. \"We made it to order, for a zee-captain, to guard her legacy. She might tell you the phrase. We do not.\"",
+ "Name": "箱職人たち@{I}The Boxmakers", "Id": 144268}
