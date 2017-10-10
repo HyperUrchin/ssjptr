@@ -1,0 +1,4 @@
+{"Description": "ロンドンにいる誰かがあなたの助けを必要としている。@{K}Someone in London requires your services.",
+ "LevelDescriptionText": "1|誰かが船を探している~5|あなたは渡航者を船に迎え入れた@{K}1|Someone is looking for passage~5|You welcomed a passenger aboard",
+ "ChangeDescriptionText": "5|ようこそ！~1|誰かが船を探している。@{K}5|Welcome!~1|Someone is looking for passage.",
+ "Name": "海を渡るための船を求める声@{K}A Request for Passage", "Id": 125553}
