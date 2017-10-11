@@ -22,7 +22,7 @@
                                      "LinkToEvent": {"Id": 146571},
                                      "Name": "恐怖の目覚め@{I}Wake in fright", "Id": 148699},
                     "Name": "独自の検証@{I}Independent verification",
-                    "Description": "　真鍮の大使館は、女悪魔の機密情報について、あなた独自の検証を行って欲しいと言っていた。どうにかすれば、総会での会話を盗み聞きすることができるかもしれない。@{I}$Brass Embassy -> 真鍮の大使館$The Brass Embassy has asked you for 'independent verification' of the Deviless' intelligence. It's possible that you might be able to eavesdrop on the Convention, somehow...",
+                    "Description": "　真鍮の大使館は、女悪魔の機密情報について、あなた独自の検証を行って欲しいと言っていた。どうにかすれば、総会での会話を盗み聞けるかもしれない。@{I}$Brass Embassy -> 真鍮の大使館$The Brass Embassy has asked you for 'independent verification' of the Deviless' intelligence. It's possible that you might be able to eavesdrop on the Convention, somehow...",
                     "ButtonText": "", "Id": 127561}],
  "Description": "　地獄への道は善意で舗装されていると言うが、ブリムストーン総会への道は、噴石で舗装されているようだ。@{I}$Brimstone Convention -> ブリムストーン総会$They say the road to Hell is paved with good intentions. But the road to the Brimstone Convention is paved with cinders.",
  "Name": "噴火口まで登っていく@{I}Go up to the crater", "Id": 146569}

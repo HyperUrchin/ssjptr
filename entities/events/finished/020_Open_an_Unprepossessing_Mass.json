@@ -5,7 +5,7 @@
                     "Name": "木製の角が見えている@{I}木製の箱にご注意@{M}A wooden corner shows",
                     "Description": "　何らかの容器ないし箱が、塩っぽいゼリー状の物質に包まれている……@{I}とある種類の容器、または箱には、塩っぱいゼリー...が詰められており...@{M}Some kind of case, or box, is encased in the salty jelly...",
                     "ButtonText": "", "Id": 122501},
-                   {"DefaultEvent": {"Description": "　人間の頭蓋骨だ！これは海獣の好みには合わなかったわけだ。これは胃袋の中で何をしていたのだろう？ひょうたんの中の種のようなものだろうか？@{I}人間の頭蓋骨だ! これはジービーストの胃袋ではない。一体その中で何をしていたのだ? 瓢箪の種の様に...?@{M}A human skull! This isn't the zee-beast's stomach. What is it doing in there? Like a seed in a gourd?",
+                   {"DefaultEvent": {"Description": "　人間の頭蓋骨だ！これは海獣の好みに合わなかったわけだ。胃袋の中で何をしていたのだろう？ひょうたんの中の種のようなものだろうか？@{I}人間の頭蓋骨だ! これはジービーストの胃袋ではない。一体その中で何をしていたのだ? 瓢箪の種の様に...?@{M}A human skull! This isn't the zee-beast's stomach. What is it doing in there? Like a seed in a gourd?",
                                      "Name": "綺麗に皮を剥かれて@{I}綺麗に剥かれている@{M}Stripped clean",
                                      "Id": 148278},
                     "RareDefaultEvent": {"Description": "「これらはzeeの卵と呼びましょう」水夫長がそう提案した。「本当は何であるか、船員たちには伝えたくありませんからね。食べても問題はありませんよ。しかし……ねえ」@{I}「ジーの卵と呼びましょう。」運用長が提案する。「船員には本当は何なのか伝えたくはありませんな。食す事は可能ですが...まぁその...ねぇ。」@{M}\"Call 'em zee-eggs\", the bo'sun suggests. \"We don't want to tell the crew what they actually are. They're safe to eat, but... you know.\"",

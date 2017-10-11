@@ -11,7 +11,7 @@
                     "RareDefaultEvent": {"Description": "「豚だ」ある水夫がため息を吐いた。「何度見ても豚だ」豚の何が不味いのだろうか……？水夫長はしかつめらしく頭を振った。「zeeでは決して豚について尋ねてはいけません」彼はそう言い張った。@{I}「豚だ」船乗りがため息をつく。「何時も豚だ」しかし、豚が何だというのだ...?運用長がしかつめらしい頭を振る。「ジーで豚の事については何も聞いてはなりませぬ。」彼は強く言った。@{M}\"Pigs,\" one zailor sighs. \"It's always pigs.\" What's wrong with pigs...? The bo'sun shakes a solemn head. \"Never ask about pigs at zee,\" he insists.",
                                          "Name": "不安にさせる豚@{I}警告する豚@{M}The Alarming Pig",
                                          "Id": 151254},
-                    "RareSuccessEvent": {"Description": "　ある水夫はそれが太陽に似ていると主張した。二人目が言うには「ヒンドゥーの曼荼羅十字だ！」三人目の案としては「シャルトルの大聖堂にある薔薇の窓」これは冷やかしの的になった。それでも、反応は肯定的だった。@{I}船乗りの一人はそれを「太陽だ」と表現し、別の者は「ヒンドゥーの曼荼羅だ!」と言う。もう一人は「シャルトル大聖堂の車輪窓」と言った。そうやって興奮する事に意味はない。何にしても、反応は楽観的だった。@{M}One zailor claims it resembles the sun; another, 'a Hindoo mandala-cross!' A third suggests 'the rose-window of Chartres Cathedral.' This excites mockery. Nevertheless, the reaction is positive.",
+                    "RareSuccessEvent": {"Description": "　ある水夫は、それが太陽に似ていると主張した。二人目が言うには「ヒンドゥーの曼荼羅十字だ！」三人目の案としては「シャルトルの大聖堂にある薔薇の窓」これは冷やかしの的になった。それでも、反応は肯定的だった。@{I}船乗りの一人はそれを「太陽だ」と表現し、別の者は「ヒンドゥーの曼荼羅だ!」と言う。もう一人は「シャルトル大聖堂の車輪窓」と言った。そうやって興奮する事に意味はない。何にしても、反応は楽観的だった。@{M}One zailor claims it resembles the sun; another, 'a Hindoo mandala-cross!' A third suggests 'the rose-window of Chartres Cathedral.' This excites mockery. Nevertheless, the reaction is positive.",
                                          "Name": "光線に照らされた車輪@{I}光線状車輪@{M}The Rayed Wheel",
                                          "Id": 151255},
                     "Name": "変化を記録し、名前を割り当てる@{I}変化を記録し名前を付ける@{M}Record the change and assign a name",

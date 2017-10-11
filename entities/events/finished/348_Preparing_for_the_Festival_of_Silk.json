@@ -5,7 +5,7 @@
                     "Name": "蜘蛛の使いに会う@{I}Meet with an Emissary of Spiders",
                     "Description": "　彼は多くの出来事に立ち会ってきたが、何も見てはいなかった。なぜなら、彼の仕える悲哀蜘蛛が彼の目を収穫してしまったからだ。@{I}$[Ss]orrow-spider -> 悲哀蜘蛛$He has witnessed much, yet seen nothing, since the sorrow-spiders he serves harvested his eyes.",
                     "ButtonText": "", "Id": 138296},
-                   {"DefaultEvent": {"Description": "　生糸商人たちは多くを語らなかった。とりわけ、彼らは悲哀蜘蛛の話を避けた。それらが足元や頭の上にいるばかりか、眠っている時には体の上を這い回るような環境にありながら。蜘蛛だって？我々はあの寛大な隣人たちについてその手の話をするつもりはない。彼らは早口で、声を高めてそう言った。@{I}$[Ss]orrow-spider -> 悲哀蜘蛛$The silk traders don't talk much. In particular, they don't talk of the sorrow-spiders at their feet, over their heads or crawling over them as they sleep. Spiders? We'll not be having that kind of talk about the generous neighbours, they say with haste, in raised voices.",
+                   {"DefaultEvent": {"Description": "　生糸商人たちは多くを語らなかった。とりわけ、彼らは悲哀蜘蛛の話を避けた。それらが足元や頭の上にいるばかりか、眠っている時には体の上を這い回るような環境にありながら。蜘蛛だって？我々はあの寛大な隣人たちについてその手の話をするつもりはない。彼らは早口に、声を高めてそう言った。@{I}$[Ss]orrow-spider -> 悲哀蜘蛛$The silk traders don't talk much. In particular, they don't talk of the sorrow-spiders at their feet, over their heads or crawling over them as they sleep. Spiders? We'll not be having that kind of talk about the generous neighbours, they say with haste, in raised voices.",
                                      "LinkToEvent": {"Id": 167217},
                                      "Name": "即興の心にもない返答@{I}An off-the-cuff, scripted response",
                                      "Id": 167267},
