@@ -4,7 +4,7 @@
                     "Name": "石の巣を訪れる@{I}Visit the Web of Stone",
                     "Description": "　道なら知っている。もしかしたら悲哀蜘蛛たちには、信頼のおける船乗りに任せられる更なる仕事があるかもしれない。@{I}$[Ss]orrow-spider -> 悲哀蜘蛛$You know the way. Perhaps the sorrow-spiders have further tasks for a trustworthy zailor.",
                     "ButtonText": "", "Id": 138951},
-                   {"SuccessEvent": {"Description": "　たくさんの洞窟や割れ目を探索し、あなたは木箱一箱分の生糸を集めた。だがとうとう、空気には騒々しい敵意が満ち始め、看過してやるのはここまでだ、という意志がはっきりと伝わってきた。@{I}$[Ss]orrow-spider -> 悲哀蜘蛛$Venturing into many caves and crannies, you gather enough silk to fill a crate. The audible hostility in the air by the end though makes it clear the sorrow-spiders will only overlook so much of this.",
+                   {"SuccessEvent": {"Description": "　たくさんの洞窟や割れ目を探索し、あなたは木箱一箱分の生糸を集めた。だがとうとう、空気には騒々しい敵意が満ち始め、看過してやるのはここまでだという意志がはっきりと伝わってきた。@{I}$[Ss]orrow-spider -> 悲哀蜘蛛$Venturing into many caves and crannies, you gather enough silk to fill a crate. The audible hostility in the air by the end though makes it clear the sorrow-spiders will only overlook so much of this.",
                                      "LinkToEvent": {"Id": 166936},
                                      "Name": "わずかな成功！@{I}A scrap of success!", "Id": 166943},
                     "DefaultEvent": {"Description": "　ネイティビティの明かりが薄れ、ろうそくがちらつき始めると、荒地の暗闇は耐え難いものとなった。あなたは手ぶらで命からがら、そこに比べれば暖かく安全な港へと急ぎ帰った。@{I}$Nativity -> ネイティビティ$As the lights of the Nativity fade and the candles starts to flicker, the darkness of the Reaches becomes unbearable. Empty-handed but alive, you hurry back to the relative warmth and safety of the port.",
