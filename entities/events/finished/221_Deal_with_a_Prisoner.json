@@ -3,7 +3,7 @@
                     "Name": "囚人を島流しにする@{K}Maroon the Prisoner",
                     "Description": "小舟に乗せて流すか、地図に載っていない小島の岸に置き去りにするとしよう。積み荷のように船から投げ捨てるよりは慈悲深い行いかもしれない。@{K}Cast them adrift, or set them ashore on some uncharted eyot. Perhaps it's more merciful than jettisoning them like cargo.",
                     "ButtonText": "", "Id": 129254},
-                   {"DefaultEvent": {"Description": "彼らは囚人がどこに消えたのか疑問に思っているかもしれなかったが、それを口に出すものはいなかった。あなたは骨を船の縁からひとつひとつ投げ捨てた。@{K}Probably they wonder where the prisoner has gone; but they do not make a point of it. You toss the bones over the transom, one by one.",
+                   {"DefaultEvent": {"Description": "彼らは囚人がどこに消えたのか疑問に思っているかもしれないが、それを口に出すものはいなかった。あなたは骨を船の縁からひとつひとつ投げ捨てた。@{K}Probably they wonder where the prisoner has gone; but they do not make a point of it. You toss the bones over the transom, one by one.",
                                      "Name": "", "Id": 151452},
                     "Name": "囚人を食べる@{K}Consume the Prisoner",
                     "Description": "規律違反の当然の結末にして、船長の究極の特権。@{K}A natural consequence of indiscipline; the captain's ultimate prerogative.",
@@ -17,7 +17,7 @@
                     "RareSuccessEvent": {"Description": "囚人はひれ伏し感謝している。もしあなたが許せばあなたの手に接吻さえするだろう。熱心に仕事に戻りたがっている。そして翌日、その者は消えていた。小型ボートと盗めるだけの物資と共に。@{K}The prisoner grovels with gratitude. They would kiss your hand if you let them. They're eager to get back to work. And the next day, they're gone, with a ship's boat and all the supplies they can filch.",
                                          "Name": "裏切り！@{K}Betrayal!", "Id": 151456},
                     "Name": "囚人を開放する@{K}Release the Prisoner",
-                    "Description": "仮釈放中のまじめな態度を約束させ、恩赦を出す。[ハートのチャレンジに成功することで彼らは再び船員となる可能性が高まります。しかし、成功しても船員にならないこともあります。]@{K}$Hearts -> ハート$Offer them an amnesty, on their solemn parole. [Success in this Hearts test means they're more likely to become Crew again; but it doesn't ensure it.]",
+                    "Description": "仮釈放中のまじめな態度を約束させ、恩赦を出す。[Heartsのチャレンジに成功することで彼らは再び船員となる可能性が高まります。しかし、成功しても船員にならないこともあります。]@{K}Offer them an amnesty, on their solemn parole. [Success in this Hearts test means they're more likely to become Crew again; but it doesn't ensure it.]",
                     "ButtonText": "", "Id": 129144}],
  "Description": "もう十分に苦しんだだろうか？@{K}Have they suffered enough?",
  "Name": "囚人に対処する@{K}Deal with a Prisoner", "Id": 151261}

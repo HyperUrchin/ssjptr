@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "何が残されているか確認しよう。カーネイトの好意は得られないが、奪えるものは全て奪え。@{K}$Khan -> カーン, Khanate -> カーネイト$See what remains. You've won no favour with the Khanate here today - take whatever you can.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "何が残されているか確認しよう。今日のところはカーネイトの好意は得られないが、奪えるものは全て奪え。@{K}$Khan -> カーン, Khanate -> カーネイト$See what remains. You've won no favour with the Khanate here today - take whatever you can.",
                                      "LinkToEvent": {"Id": 140906},
                                      "Name": "船倉には何があるだろう？@{K}What's in the hold?", "Id": 144339},
                     "Name": "乗っ取って略奪する@{K}Seize and loot her!",
