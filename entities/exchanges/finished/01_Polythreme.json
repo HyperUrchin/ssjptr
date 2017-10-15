@@ -1,4 +1,4 @@
-{"Name": "ポリスリーム@{K}$Polythreme -> ポリズリーム$Polythreme",
+{"Name": "ポリズリーム@{K}$Polythreme -> ポリズリーム$Polythreme",
  "Description": "『買い、売れ』@{K}BUY. SELL.",
  "Shops": [{"Name": "労苦の寺院@{K}Temple of Labours",
             "Description": "『素材を持ってきてくれ』@{K}BRING MATERIAL.", "Id": 40}],
