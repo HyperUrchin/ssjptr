@@ -14,7 +14,7 @@
                                      "LinkToEvent": {"Id": 175505},
                                      "Name": "より偉大なものの始まり@{K}The beginning of something bigger", "Id": 180505},
                     "Name": "虎たちの同盟をまとめる@{K}Broker an alliance of tigers",
-                    "Description": "結局のところ彼らこそがカーネリアン・コーストの正当な統治者たちなのだ。@{K}$Carnelian Coast -> カーネリアン・コースト$They are, after all, the rightful rulers of the Carnelian Coast.",
+                    "Description": "結局のところ、彼らこそがカーネリアン・コーストの正当な統治者たちなのだ。@{K}$Carnelian Coast -> カーネリアン・コースト$They are, after all, the rightful rulers of the Carnelian Coast.",
                     "ButtonText": "", "Id": 146345},
                    {"DefaultEvent": {"Description": "あなたは深夜に襲撃を仕掛けた。カーンに忠誠心を売り渡した十人を超える密偵、大使付きの官吏、それに商人たちが密やかな、しかし確実な終わりを迎えた。\u000d\u000a\u000d\u000a翌週の間に沿岸をうろついていたカーネイトの船は姿を消した。このことに関してカーネリアン・クラリオン紙の投書欄に憶測がいくつか載せられたが、真実を当てた者はいない。波間の下、貪欲なぺリジン色の深みでは、海軍省が存在を激しく否定している実験的な潜水艦であるイレプレッシブル号が滑るように航行していたのだ。カーンには好きなだけ船を送り込ませておこう。彼らが何によって殺されたのか知る日は来ないのだから。@{K}$Khan -> カーン, Admiralty -> 海軍省, Khanate -> カーネイト$You strike at midnight. A dozen spies, attachés and merchants who have sold their loyalties to the Khan meet quiet, but definite, ends. \u000d\u000a\u000d\u000aOver the next week, the Khanate ships that prowled the coast disappear. There is some speculation about this in the letters page of the <i>Carnelian Clarion</i>. No one guesses the truth. Beneath the waves, in the gulping, peligin depths, slides the <i>Irrepressible</i>, the Admiralty's vehemently denied experimental zubmarine. Let the Khan keep sending his ships. They never see what kills them.",
                                      "LinkToEvent": {"Id": 175505}, "Name": "隠れた獣@{K}A hidden beast",
