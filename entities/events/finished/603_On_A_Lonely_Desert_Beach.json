@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "波止場を進むと、何やら騒がしい音と叫び声、そして銃声が聞こえてきた。遠く丘の向こうから煙が立ち昇り、点のようになった炎が地平線上に散っているのが見える。二つの小さな見た目の者が波止場をもう少し進んだところに立っていた。彼らはじっと動かない。あたかもあなたが近づいてくるのを待っているかのように。@{K}As you step on to the quay, you hear clamour, shouts, and shooting; you can see, off in the distance, smoke rising from beyond the hill, and dots of fire flecking the horizon. Two tiny figures stand a little further down the quay. Unmoving. As if awaiting your approach.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "波止場を進むと、何やら騒がしい音と叫び声、そして銃声が聞こえてきた。遠く丘の向こうから煙が立ち昇り、点のようになった炎が地平線上に散っているのが見える。二人の小さな見た目の者が波止場をもう少し進んだところに立っていた。彼らはじっと動かない。あたかもあなたが近づいてくるのを待っているかのように。@{K}As you step on to the quay, you hear clamour, shouts, and shooting; you can see, off in the distance, smoke rising from beyond the hill, and dots of fire flecking the horizon. Two tiny figures stand a little further down the quay. Unmoving. As if awaiting your approach.",
                                      "LinkToEvent": {"Id": 209701}, "Name": "戦争？@{K}War?", "Id": 209700},
                     "Name": "船を降りる@{K}Disembark", "Description": "何が待ち受けているのか見てみよう。@{K}See what awaits you. ",
                     "ButtonText": "", "Id": 164556},
@@ -7,5 +7,5 @@
                     "Name": "海に戻る@{K}Return to zee",
                     "Description": "若い齧歯類が港に机を置いている所だ。彼はあなたが近づいてくるのを見ると不安げに鳴いた。「まだ準備が出来てない！」@{K}A young rodent is setting up a desk by the dock. He squeaks with alarm at your approach. \"I'm not ready!\"",
                     "ButtonText": "", "Id": 186752}],
- "Description": "視界に入る限りでは居住区は見当たらない。ただ古い、腐りゆく港があるだけだ。砂浜はじめじめとした黒土の地面へと続き、そこからは背の低い植物が生え出している……椰子だろうか？いや、違う。葉に似た傘を持つ大きな茸だ。まるで誰かが木の概念を茸から彫り出したかのような代物だ。@{K}There is no habitation in sight, no market, only an old, rotting dock. A stretch of sand thickens into damp, black earth, from which sprout stunted... Palms? Not quite: tall fungal growths with frond-like caps, as if someone had sculpted the idea of a tree from a mushroom. ",
+ "Description": "視界に入る限りでは居住区は見当たらない。ただ古い、腐りゆく港があるだけだ。砂浜はじめじめとした黒土の地面へと続き、そこからは背の低い植物が生え出している……椰子だろうか？いや、違う。葉に似た笠を持つ大きな茸だ。まるで誰かが木の概念を茸から彫り出したかのような代物だ。@{K}There is no habitation in sight, no market, only an old, rotting dock. A stretch of sand thickens into damp, black earth, from which sprout stunted... Palms? Not quite: tall fungal growths with frond-like caps, as if someone had sculpted the idea of a tree from a mushroom. ",
  "Name": "人里離れ荒涼とした浜辺にて@{K}On A Lonely Desert Beach", "Id": 209699}
