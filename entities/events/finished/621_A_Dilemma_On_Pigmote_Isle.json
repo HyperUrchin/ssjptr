@@ -6,7 +6,7 @@
                    {"DefaultEvent": {"Description": "汚染された水から離れることで、疫病の症状はすぐに引いていった。しかし病人たちが仕事に戻れるようになるまではまだかなりかかるだろう。@{K}Away from the contaminated water, the symptoms of the disease soon fade. But it will be considerably longer before the sufferers are ready to return to work.",
                                      "Name": "ゆっくりとした回復@{K}Slow recovery", "Id": 213311},
                     "Name": "病人の隔離を勧める@{K}Recommend the sick be quarantined",
-                    "Description": "病院を建設するためには他の仕事から労働力を持ってこなければならないだろうが、[q:Pigmote Isle: Mastery]の憐み深さを示すことが出来るだろう。@{K}$Pigmote Isle -> ピグモート・アイル$Building a hospital will take workers away from other tasks, but demonstrate [q:Pigmote Isle: Mastery]'s compassion.",
+                    "Description": "病院を建設するためには他の仕事から労働力を持ってこなければならないだろうが、[q:ピグモート・アイル: 統治]の憐み深さを示すことが出来るだろう。@{K}$Pigmote Isle -> ピグモート・アイル$Building a hospital will take workers away from other tasks, but demonstrate [q:ピグモート・アイル: 統治]'s compassion.",
                     "ButtonText": "", "Id": 166805}],
  "Description": "街のこの界隈では鼠とモルモットがキャンバス地のシーツに震えながら横たわっている。「水から発生したものではないかと思います」側近が囁く。「封じ込めたと思ったのですが、この病は広がりつつあります。我々の薬は全く効きません。どうすればよいでしょうか？」@{K}Rats and cavies lie quivering on canvas sheets in this part of town. \"We think it started from something in the water,\" whispers the aide. \"We thought we'd contained it, but it's spreading. Our medicines are powerless against it. What do we do?\"",
  "Name": "ピグモート・アイルのジレンマ@{K}$Pigmote Isle -> ピグモート・アイル$A Dilemma On Pigmote Isle",

@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "炎、煙。生きているにしろ死んだにしろ、怪物の痕跡はない。それでも、この大胆な試みは[q:Pigmote Isle: Mastery]兵士たちの鍛練にはなっただろう。ある意味では。それに農家たちは茸畑までこの新たな灰の道を恐れることなく歩いて行ける。@{K}$Pigmote Isle -> ピグモート・アイル$Fire. Smoke. No sign of a monster, alive or dead. Still, the adventure has given [q:Pigmote Isle: Mastery]'s soldiers fresh training, of a sort. And the farmers will have little to fear, walking this new charcoal path to the mushroom fields.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "炎、煙。生きているにしろ死んだにしろ、怪物の痕跡はない。それでも、この大胆な試みは[q:ピグモート・アイル: 統治]兵士たちの鍛練にはなっただろう。ある意味では。それに農家たちは茸畑までこの新たな灰の道を恐れることなく歩いて行ける。@{K}$Pigmote Isle -> ピグモート・アイル$Fire. Smoke. No sign of a monster, alive or dead. Still, the adventure has given [q:ピグモート・アイル: 統治]'s soldiers fresh training, of a sort. And the farmers will have little to fear, walking this new charcoal path to the mushroom fields.",
                                      "Name": "燃える森の匂い@{K}The smell of burning forest", "Id": 213200},
                     "Name": "チキンウッズを焼き払うよう提案する@{K}Suggest razing the Chickenwoods",
                     "Description": "樹々を燃やせ。隠れ場所をなくそう。@{K}Burn the trees. Leave it nowhere to hide.",

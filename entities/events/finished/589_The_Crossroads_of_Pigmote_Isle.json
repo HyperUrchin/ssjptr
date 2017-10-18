@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 208104}, "Name": "板挟み@{K}Caught in the middle",
                                      "Id": 208105},
                     "Name": "二つの帝国の狭間で@{K}Between two empires",
-                    "Description": "腐りかけのドラウニーと鰐の面をつけた女性が港に立っている。どちらも齧歯類たちに[q:Pigmote Isle: Mastery]の返答を決めるよう迫っていた。@{K}$Pigmote Isle -> ピグモート・アイル$A rotting Drownie and a woman in a crocodile mask stand on the docks. Both loom over the rodents deciding [q:Pigmote Isle: Mastery]'s response.",
+                    "Description": "腐りかけのドラウニーと鰐の面をつけた女性が港に立っている。どちらも齧歯類たちに[q:ピグモート・アイル: 統治]の返答を決めるよう迫っていた。@{K}$Pigmote Isle -> ピグモート・アイル$A rotting Drownie and a woman in a crocodile mask stand on the docks. Both loom over the rodents deciding [q:ピグモート・アイル: 統治]'s response.",
                     "ButtonText": "", "Id": 163495},
                    {"DefaultEvent": {"Description": "“タラシーン”を手渡し、ピグモート・アイルは陛下の庇護を受け入れた。祝賀は静かな物だった。多くの市民は失望の鳴き声をあげている。彼らの光と独立の夢が失われたのを辛く思っているのだ。しかし取引はすでに完了しており、少なくとも今この瞬間は、ピグモート・アイルの未来は保証された。@{K}$Pigmote Isle -> ピグモート・アイル$With the handing over of the 'Thalassine', Pigmote Isle accepts His Complexity's protection. Celebrations are muted. Many citizens squeak quietly in disappointment. The loss, of their light and their dreams of independence, is a bitter one. But the deal is done, and at least for the moment, Pigmote's future is assured.",
                                      "Name": "ファザムキングを称えよ！@{K}$Fathomking -> ファザムキング$Praise the Fathomking!",
