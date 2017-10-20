@@ -100,3 +100,6 @@ Presbyter, 長老
 Presbyterate, 長命衆
 Dapper Chap, 粋な紳士
 Elegiac Cockatoo, 哀歌調のオウム
+Topsy King, トプシー・キング
+Feducci, フェドゥーシ
+December, ディッセンバー

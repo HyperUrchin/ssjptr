@@ -14,5 +14,5 @@
                     "Name": "あのドラウニーからの伝言を伝える@{I}Relay the Drownie's message",
                     "Description": "　粗暴者は耳を傾けている。彼は別のオレンジを手に取ると、またその皮を剥き始めた。[これを選択する前に、船倉に10程度の空きを作っておきましょう。]@{I}The Bruiser listens, and peels another orange. [Ensure you have about ten spaces in your cargo hold before choosing this.]",
                     "ButtonText": "", "Id": 177602}],
- "Description": "「良い知らせをお持ちだと聞きましたよ、[q:Addressed As]。この船旅は危険だったに違いありませんな？私は、あなたを再びロンドンでお出迎えできるのがいっそう喜ばしくてなりません。さあ、仕事と参りましょう」@{I}\"I hear that you bring happy tidings, [q:Addressed As], which makes me all that much more glad to welcome you back to London after your certainly perilous voyage. Now, to our business.\"",
+ "Description": "「良い知らせをお持ちだと聞きましたよ、[q:Addressed As]。この船旅は危険だったに違いありませんな？私は、あなたを再びロンドンでお出迎えできるのが、いっそう喜ばしくてなりません。さあ、仕事と参りましょう」@{I}\"I hear that you bring happy tidings, [q:Addressed As], which makes me all that much more glad to welcome you back to London after your certainly perilous voyage. Now, to our business.\"",
  "Name": "しかるべき祝福@{I}Congratulations are in Order", "Id": 230580}
