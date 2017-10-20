@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 175475},
                                      "Name": "始皇帝の霊廟@{K}The Vault of the First Emperor",
                                      "Id": 175476},
-                    "RareDefaultEvent": {"Description": "霊廟は様々な様式が混ざり合い、森の中に広がっている。異なるデザインはその時々の霊廟をより壮大な建物にする必要があると考えたペンテコステ猿たちの気まぐれによって考え出されたものだ。中に侵入し秘密を解き明かすには熱心に働く一団が必要となるだろう。もしかすると、また後で人員を連れてくることが出来るかもしれない……@{K}$Pentecost -> ペンテコステ$It stretches through the forest in a number of styles, each designed by the whims of the latest Pentecost apes who felt it needed to be made grander. It would take a dedicated team to break in and uncover its secrets. Perhaps you will bring one here later...",
+                    "RareDefaultEvent": {"Description": "霊廟は様々な様式が混ざり合い、森の中に広がっている。異なるデザインは霊廟をより壮大な建物にする必要があると考えたその時々のペンテコステ猿たちの気まぐれによって考え出されたものだ。中に侵入し秘密を解き明かすには熱心に働く一団が必要となるだろう。もしかすると、また後で人員を連れてくることが出来るかもしれない……@{K}$Pentecost -> ペンテコステ$It stretches through the forest in a number of styles, each designed by the whims of the latest Pentecost apes who felt it needed to be made grander. It would take a dedicated team to break in and uncover its secrets. Perhaps you will bring one here later...",
                                          "LinkToEvent": {"Id": 175475},
                                          "Name": "始皇帝の霊廟@{K}The Vault of the First Emperor",
                                          "Id": 176026},
