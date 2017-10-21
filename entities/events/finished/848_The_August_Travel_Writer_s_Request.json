@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "旅行作家は日誌を勢いよく閉じた。「あと訪れたいのは一箇所だけ、カーンの心臓だ。都合の良いときに連れて行ってくれたまえ」@{K}$Khan -> カーン, Khan's Heart -> カーンの心臓$The Travel-Writer snaps shut his journal. \"I've only one last place I wish to visit: Khan's Heart. Take me there whenever is most convenient.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "旅行作家は日誌を勢いよく閉じた。「あと訪れたいのは一箇所だけ。カーンの心臓だ。都合の良いときに連れて行ってくれたまえ」@{K}$Khan -> カーン, Khan's Heart -> カーンの心臓$The Travel-Writer snaps shut his journal. \"I've only one last place I wish to visit: Khan's Heart. Take me there whenever is most convenient.\"",
                                      "Name": "終章@{K}A final chapter", "Id": 259077},
                     "Name": "旅行作家を送り届ける@{K}Give the Travel-Writer passage",
                     "Description": "最後の旅に200エコーを支払うだって？任せるといい。@{K}Two hundred echoes for a last voyage? He can consider it done.",
