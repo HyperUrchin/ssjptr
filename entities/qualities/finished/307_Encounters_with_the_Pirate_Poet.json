@@ -1,4 +1,4 @@
-{"Description": "貴方はジーの上にライバルが居る。@{M}You have a rival at zee.",
+{"Description": "あなたには海の上にライバルがいる。@{K}貴方はジーの上にライバルが居る。@{M}You have a rival at zee.",
  "AvailableAt": "彼女はロンドンを遠く離れ狩りをしている。あまりに遠くに航海しすぎた海賊や旅行者を襲っているのだ。@{M}She hunts far from London, picking off both other pirates and travellers who zailed too far.",
  "LevelDescriptionText": "20|貴方は今一度海賊詩人を撃破した~30|貴方は海賊詩人と夕食を共にした~40|貴方は海賊詩人とライバル関係になった~90|貴方は海賊詩人をジーに見捨てた~99|海賊詩人は最期の詩歌を書き遺した~50|貴方は海賊詩人と関係を持つに至った~10|貴方は海賊詩人を撃破した~0|貴方は海賊詩人の噂を聞いた@{M}$Pirate-Poet -> 海賊詩人$20|You have once again defeated the Pirate-Poet~30|You have dined with the Pirate-Poet~40|You have forged a rivalry with the Pirate-Poet~90|You have abandoned the Pirate-Poet to the zee~99|The Pirate-Poet has written her last verse~50|You have reached a rapport with the Pirate-Poet~10|You have defeated the Pirate-Poet~0|You have heard of the Pirate-Poet",
  "Name": "海賊詩人との邂逅@{M}$Pirate-Poet -> 海賊詩人$Encounters with the Pirate-Poet",

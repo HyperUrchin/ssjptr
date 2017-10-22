@@ -1,4 +1,0 @@
-{"Description": "殺す為の身だしなみ。@{M}Dressed to kill.",
- "LevelDescriptionText": "0|仕立屋は謎に包まれている。~20|貴方は仕立屋と夕食を共にした。~30|仕立屋は自分の故郷へと戻り仰せた。~50|仕立屋はポリスリームで新たな挑戦を探している。~55|仕立屋は任務に就いている。~60|仕立屋は旧友を狩っている。~70|貴方は奇妙なナイル布を再生した。~80|仕立屋は旧友と仲直りをした。~100|仕立屋は彼女の作品を仕上げた。~150|仕立屋は一人で居続ける。~199|貴方は仕立屋を敵に回した。~200|仕立屋は今一度衝突した。~999|仕立屋はもう居ない。@{M}$Polythreme -> ポリズリーム$20|You have dined with the Modiste~30|The Modiste has made herself at home~50|The Modiste seeks a new challenge in Polythreme~70|You have recovered a strange ushabti~60|The Modiste hunts an old friend~199|You have made an enemy of the Modiste~999|The Modiste is no more~80|The Modiste has reunited with an old friend~100|The Modiste has completed her work~55|The Modiste is on a Mission~200|The Modiste has struck once more~150|The Modiste is keeping to herself~0|The Modiste is a mystery",
- "Name": "人物観察: 無慈悲な仕立屋@{M}$Learning About: -> 事情を知る:, Merciless Modiste -> 酷薄な仕立屋$Learning About: The Merciless Modiste",
- "Id": 118474}
