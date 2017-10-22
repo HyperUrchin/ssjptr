@@ -1,6 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "彼女がここに長くいることになるかは疑わしい。盗みは猿たちにとっては重大な犯罪ではない上に、彼らも結局その分け前に与ったのだ。彼女の罪は重くない。激怒する姿が猿たちにとって面白みを失くせば、すぐにでも解放されることだろう。\u000d\u000a\u000d\u000aもちろん、この極東にあってはフォールン・ロンドンまで連れ帰ってくれる別の船を見つけるには長いこと待たねばならないだろうが。@{K}$Fallen London -> フォールン・ロンドン$It is doubtful that she will be here for long. Theft is not a huge crime to the monkeys, particularly when they got their share anyway. They will most likely free her as soon as her outrage ceases amusing them.\u000d\u000a\u000d\u000aOf course, this far East she will be waiting a long time for another ship to take her back to Fallen London.",
                                      "LinkToEvent": {"Id": 175842},
-                                     "Name": "あなたは愉快な女冒険家をの行く末を運命に任せ、その場を去った@{K}$Delightful Adventuress -> 愉快な女冒険家$You leave the Delightful Adventuress to her fate",
+                                     "Name": "あなたは愉快な女冒険家の行く末を運命に任せ、その場を去った@{K}$Delightful Adventuress -> 愉快な女冒険家$You leave the Delightful Adventuress to her fate",
                                      "Id": 176497},
                     "Name": "断る@{K}Decline the opportunity",
                     "Description": "これは猿の復讐だ。あなたはもっとましな存在である。あるいは少なくとも、無駄遣いはしない性質なのだ。@{K]That is a revenge for monkeys. You are better than that. Or more fiscally responsible, at least.",
