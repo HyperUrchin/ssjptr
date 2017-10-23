@@ -1,0 +1,5 @@
+{"Description": "彼女はロンドンの敵対勢力に身を潜めているのだろうか？@{I}Could she be hiding out at London's rival?",
+ "LevelDescriptionText": "1|あなたはまだカーンの心臓を捜していない@{I}$Khan -> カーン, Khan's Heart -> カーンの心臓$1|You have not looked for her in Khan's Heart",
+ "ChangeDescriptionText": "1|最後の治安官はカーンの心臓で目撃されている。@{I}$Khan -> カーン, Khan's Heart -> カーンの心臓$1|The Last Constable has been seen in Khan's Heart.",
+ "Name": "最後の治安官: カーンの心臓@{I}$Khan -> カーン, Khan's Heart -> カーンの心臓$The Last Constable: Khan's Heart",
+ "Id": 124617}

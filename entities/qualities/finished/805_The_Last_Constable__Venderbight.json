@@ -1,0 +1,5 @@
+{"Description": "彼女は死んだも同然の者たちに混じって活動しているのだろうか？@{I}Is she working amongst the nearly-dead?",
+ "LevelDescriptionText": "1|あなたはまだヴェンダーバイトを捜していない@{I}$Venderbight -> ヴェンダーバイト$1|You have not looked for her in Venderbight",
+ "ChangeDescriptionText": "1|最後の治安官はヴェンダーバイトで目撃されている。@{I}$Venderbight -> ヴェンダーバイト$1|The Last Constable has been seen in Venderbight.",
+ "Name": "最後の治安官: ヴェンダーバイト@{I}$Venderbight -> ヴェンダーバイト$The Last Constable: Venderbight",
+ "Id": 124616}
