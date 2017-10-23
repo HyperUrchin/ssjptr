@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "仕立屋はゆっくりと血走った眼を開いた。深い笑みが顔全体に広がる。「なんて新鮮なんでしょう」彼女はしわがれた声で言った。「あなたは私を打ち負かしましたね……船長！あなたほど才のある方とロンドンで戦えたなら！私たちはきっと素晴らしいライバルとなれたでしょうね」@{K}The Modiste slowly opens her bloodshot eyes. A deep smile spreads across her face. \"How refreshing,\" she croaks. \"You have bested me... my Captain! Oh, to have had an opponent of your calibre in London. What rivals we could have been.\"",
+                                     "Name": "あの船の渡しに間近に迫った@{K}A close brush with the ferryman", "Id": 193946},
+                    "Name": "倒れた仕立屋を助ける@{K}Assist the fallen Modiste",
+                    "Description": "あなたは勝った。彼女を医者のところへ連れて行く時だ。@{K}You have won. Time to get her to the surgeon.",
+                    "ButtonText": "", "Id": 154549},
+                   {"DefaultEvent": {"Description": "仕立屋の鋸状のナイフは難なく彼女の肉を切り裂き、胸を開いた。肋骨を砕く番だ。骨が曲がり折れるまで、あなた自身の手でこじ開けよう。\u000d\u000a\u000d\u000a手に握った彼女の心臓はひどく脆いもののように感じられた。脂肪と筋肉のゆりかごの中から取り出されたあとはさらに壊れやすく見える。\u000d\u000a\u000d\u000a今やこれはあなたの戦利品だ。あなたはこれに値する。@{K}The Modiste's serrated blade slices effortlessly through her flesh, opening her chest. Shatter her ribcage. Force it open with your hands, straining as the bones yield and crack.\u000d\u000a\u000d\u000aHow fragile her heart feels between your fingers. Even more fragile as you tear it from its cradle of fat and muscle.\u000d\u000a\u000d\u000aThis is your trophy now. You have earned it.",
+                                     "Name": "恐ろしい戦利品@{K}A grisly prize", "Id": 193947},
+                    "Name": "仕立屋にとどめを刺す@{K}Finish off the Modiste",
+                    "Description": "彼女を切り開き、心臓を取り出そう。@{K}Cut her open. Take her heart.", "ButtonText": "",
+                    "Id": 154550}],
+ "Description": "香水の香りは……鉄？あるいは銅？の匂いによってかき消された。@{K}Her perfume is drowned out by... iron? Or copper?",
+ "Name": "仕立屋は倒れた！@{K}The Modiste Falls!", "Id": 193086}
