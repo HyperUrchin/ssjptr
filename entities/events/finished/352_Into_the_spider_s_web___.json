@@ -9,7 +9,7 @@
                                      "LinkToEvent": {"Id": 167215},
                                      "Name": "道の終わり@{I}End of the road", "Id": 167298},
                     "Name": "石の巣@{I}The Web Of Stone",
-                    "Description": "　荷車は大昔に廃墟と化した大聖堂に近づいている。ほんのわずかに残る基礎部分の迷宮だけが、そこが悲哀蜘蛛の領地となる以前の記憶を留めていた。@{I}$[Ss]orrow-spider -> 悲哀蜘蛛$The cart approaches a long ruined citadel, little but a maze of foundations still recording a time before it became the demesne of the sorrow-spiders.",
+                    "Description": "　荷車は大昔に廃墟と化した城塞に近づいている。ほんのわずかに残る基礎部分の迷宮だけが、そこが悲哀蜘蛛の領地となる以前の記憶を留めていた。@{I}$[Ss]orrow-spider -> 悲哀蜘蛛$The cart approaches a long ruined citadel, little but a maze of foundations still recording a time before it became the demesne of the sorrow-spiders.",
                     "ButtonText": "", "Id": 138351},
                    {"SuccessEvent": {"Description": "　それらの廃墟には、年代や素性を特定できるような手掛かりは残されていない。しかし、いくつかの細かい点において、第三都市のうさん臭い物語を想起させるものがあった。とは言っても、それらはあまりにも擦り切れて傷んでいて、もっともらしい結論は何も引き出すことができない。@{I}There are no obvious signs with which to date or identify these ruins, though a few details spark memories of Third City legends from less than trustworthy stories. They are however far too faded and broken to draw any real conclusions from.",
                                      "LinkToEvent": {"Id": 167288},
