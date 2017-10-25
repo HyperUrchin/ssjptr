@@ -1,2 +1,3 @@
 {"Description": "挽歌や哀歌のみを歌い上げる能力を持った、荘厳な鶏冠を持った鳥。とても物憂げな気質を持つ。@{M}A majestically crested bird which speaks only in competent elegiac poetry. It is of a melancholy disposition.",
- "Name": "哀しい声のボタンインコ@{M}Elegiac Cockatoo", "Id": 102992}
+ "Name": "哀しい声のボタンインコ@{M}$Elegiac Cockatoo -> 哀歌調のオウム$Elegiac Cockatoo",
+ "Id": 102992}

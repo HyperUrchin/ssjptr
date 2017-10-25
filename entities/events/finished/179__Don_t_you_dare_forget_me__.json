@@ -9,6 +9,6 @@
                     "Name": "投げ捨てる@{M}Throw it away",
                     "Description": "十分に時間をかけて努力すれば、彼女の心を砕くことが出来るだろう。あるいは彼女があなたの心を砕くのか。@{K}十分な時間と努力をもって、彼女の心を折ろう。彼女もまた私の心を...@{M}With enough time and effort, you could break her heart, or she yours.",
                     "ButtonText": "", "Id": 127858}],
- "Description": "あなたは人好きのするレディのロケットを手に、船橋に立っている。@{M/K}貴方はライクリーラスのロケットを手に、橋の上に立っている。@{M}You stand on the bridge with the Likely Lass' locket in your hand.",
+ "Description": "あなたは人好きのするレディのロケットを手に、船橋に立っている。@{M/K}貴方はライクリーラスのロケットを手に、橋の上に立っている。@{M}$Likely Lass -> 人好きのするレディ$You stand on the bridge with the Likely Lass' locket in your hand.",
  "Name": "「忘れるんじゃないわよ」@{K}\"決して忘れないでね。\"@{M}\"Don't you dare forget me.\"",
  "Id": 149164}

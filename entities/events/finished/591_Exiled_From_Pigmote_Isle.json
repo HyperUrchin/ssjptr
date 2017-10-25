@@ -1,6 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "小さいが断固たる態度の怒れる齧歯類の大隊が、あなたの帰還に不屈の闘志をもって答えた。@{K}A small but determined battalion of angry rodents answers your return with steely resolve. ",
-                                     "LinkToEvent": {"Id": 208113}, "Name": "数の力@{K}Strength in numbers",
-                                     "Id": 208114},
+                                     "LinkToEvent": {"Id": 208113},
+                                     "Name": "数の力@{K}Strength in numbers", "Id": 208114},
                     "Name": "押し入る@{K}Force your way in",
                     "Description": "齧歯類ごときがどうやってあなたを締め出そうというんだ？@{K}How can mere rodents hope to keep you out?",
                     "ButtonText": "", "Id": 163502},

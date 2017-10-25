@@ -60,7 +60,7 @@
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 176410},
                                      "Name": "", "Id": 177517},
                     "Name": "死体譲渡人はどこにいる？@{K}$Assigner of Corpse -> 死体譲渡人$The Assigner of Corpses?",
-                    "Description": "心優しい未亡人の言葉を信じるなら、この仮面を着けた異邦人たちの中の誰かが死体譲渡人のはずだ。しかし、どれがその者なのだろう？@{K}$Gracious Widow -> 心優しい未亡人, Assigner of Corpse -> 死体譲渡人$One of these masked strangers is the Assigner of Corpses, if the Gracious Widow is to be believed. But which?",
+                    "Description": "心優しい未亡人の言葉を信じるなら、この仮面を着けた異邦人たちの中の誰かが死体譲渡人のはずだ。しかし、どれがその者なのだろう？@{K}$[Tt]he Gracious -> グレイシャス, Gracious Widow -> 心優しい未亡人, Assigner of Corpse -> 死体譲渡人$One of these masked strangers is the Assigner of Corpses, if the Gracious Widow is to be believed. But which?",
                     "ButtonText": "", "Id": 144563}],
  "Description": "斜面の低い側には石の建物と平らな屋根、アーチ状の回廊が並んでいる。それらの建物には蓮とシュロの葉からなる模様の名残が見られた。そして丘の上には、永遠にUnterzeeの天蓋を見つめる顔がある。その頬や眼窩に住む者はいない。@{K}On the lower slopes: stone buildings, flat roofs, archways. In the architecture there lingers a memory of lotus and palm frond. The hill above is a face, forever looking up at the ceiling of the Unterzee. No one inhabits its cheeks or the hollows of its eyes.",
  "Name": "ヴィザージュでの一時@{K}$Visage -> ヴィザージュ$Ashore in Visage",

@@ -1,7 +1,8 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "　盲目の粗暴者は傷跡のある指を振った。「もちろん理解しておりますよ。Unterzeeは船乗りなら誰もが知る通り、非常に危険な場所ですからね。思いもしない結末に用心していなければなりません」彼は重々しく頷いた。「思いもしない結末に」彼は繰り返した。「良いでしょう、では良き一日を」@{I}$Blind Bruiser -> 盲目の粗暴者$The Blind Bruiser wags a scarred finger. \"Of course though I do understand. The Unterzee is terrible dangerous as every zailor knows and you needs to be careful of unforeseen consequences.\" He nods ponderously. \"Unforeseen consequences,\" he repeats. \"Well, good day to you.\"",
                                      "Name": "「あなたには大いに失望させられたと言わざるを得ません」@{I}\"I have to say you've made me very sad.\"",
                                      "Id": 230551},
-                    "Name": "断る@{I}Refuse", "Description": "　これは徒労に終わるだけだ。@{I}This is a fool's errand.",
+                    "Name": "断る@{I}Refuse",
+                    "Description": "　これは徒労に終わるだけだ。@{I}This is a fool's errand.",
                     "ButtonText": "", "Id": 177572},
                    {"DefaultEvent": {"Description": "「しばらく前に、私はファザムキングの砦に使いを出しました。かの難解なる王に謁見させ、治療薬についての知見を仰がせるために。ええ、私の雇い主に栄光あるお姿を取り戻していただくためのお薬です。私はあれを栄光と呼ぶに恥じるところはありません。残念ながら、使いは未だに帰ってこない。恐縮ですが、奴を見つけ出し、あの糞ったれが一体何にもたついているのか確かめてきていただきたい」@{I}$Fathomking's Hold -> ファザムキングの砦, Fathomking -> ファザムキング$\"Some time ago we sent an emissary to the Fathomking's Hold. He was to ascertain whether his Complexity was aware of a treatment that would restore my employer to his what I am not embarrassed to call glory. Regrettably, the emissary has yet to return. Would you mind tracking him down, and ascertaining exactly what the bl__dy problem is?\"",
                                      "Name": "気まぐれな悪党@{I}A wayward rogue", "Id": 230579},
@@ -9,4 +10,5 @@
                     "Description": "　あなたは誰かの若さと活力を取り戻してやれるだろうか？やってみることはできる。@{I}Can you restore someone's youth and vigour? You can try.",
                     "ButtonText": "", "Id": 177589}],
  "Description": "「私の雇い主は意気軒昂な紳士であり、ユーモアにも長けていらっしゃいます。しかしながら、これは口にするのも苦痛でなりませんが、彼はかつての彼ではないのです」<br/><br/>「何年も昔、今となっては取るに足りないとある恩知らずの手によって、彼はキンチャクフグの毒を盛られておしまいになった。以来、彼は健やかにしてはおられない。ほとんどの日を、歩くこともままならず。彼を治して差し上げるという私の約束は、まだ絵空事と決まったわけではないのです。ゆえに、私はあなたのお力をお借りしたい」@{I}\"My employer is a gentleman of considerable vitality and also humour. However, and as much as it pains me to say, he is not the man he was.\u000d\u000a\u000d\u000a\"Years ago, an ingrate of no current importance poisoned him with Cantigaster venom, and he hasn't been right since. Can't walk, most days. I have made what may yet transpire to be a rash promise to restore him, and I am hereby solicitin' your assistance.\"",
- "Name": "任務：王の病@{I}An Assignment: His Lordship's Malady", "Id": 230550}
+ "Name": "任務：王の病@{I}An Assignment: His Lordship's Malady",
+ "Id": 230550}

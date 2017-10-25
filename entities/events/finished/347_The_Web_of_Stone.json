@@ -95,7 +95,7 @@
                     "Name": "情報収集：ツリー・オブ・エイジズ@{I}$Tree of Ages -> ツリー・オブ・エイジズ$Spying: On the Tree of Ages",
                     "Description": "　織手と後家の一団が静かに何かを話し合っている。あなたは盗み聴くことができるかもしれない。@{I}A group of Weavers and Widows is quietly discussing something. You might be able to listen in.",
                     "ButtonText": "", "Id": 138609},
-                   {"SuccessEvent": {"Description": "　彼らは議会蜘蛛の秘匿された起源について語った。コーレスポンデンスによって盲目にされた林檎が核になるのだ。彼らは、既に存在する最高位の議会蜘蛛と、いずれ生まれ来る更に偉大な議会蜘蛛について語った。それはツリー・オブ・エポックス、喜悦を悲哀へと変えるもの。そして、その悲哀からは終末の日が孵るのだという。@{I}They speak of the secret origins of councils; of apples blinded by Correspondence becoming cores. They speak of the grand council that is, and the greater council that is to come; the Tree of Epochs that will turn joy into sorrow and from that sorrow hatch eschaton.",
+                   {"SuccessEvent": {"Description": "　彼らは議会蜘蛛の秘匿された起源について語った。コーレスポンデンスによって盲目にされた林檎が核になるのだ。彼らは、既に存在する最高位の議会蜘蛛と、いずれ生まれ来る更に偉大な議会蜘蛛について語った。それはツリー・オブ・エポックス、喜悦を悲哀へと変えるもの。そして、その悲哀からは終末の日が孵るのだという。@{I}$Correspondence -> コーレスポンデンス$They speak of the secret origins of councils; of apples blinded by Correspondence becoming cores. They speak of the grand council that is, and the greater council that is to come; the Tree of Epochs that will turn joy into sorrow and from that sorrow hatch eschaton.",
                                      "LinkToEvent": {"Id": 167215},
                                      "Name": "「だが、悲哀の主を生み出す真の要素は何なのか？粘体に含まれる何か、あるいは魂か？」@{I}\"But what is it that truly births the masters of sorrow? A thing of the jelly... or the soul?\"",
                                      "Id": 167705},

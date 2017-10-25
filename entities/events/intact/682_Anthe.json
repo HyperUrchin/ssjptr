@@ -73,7 +73,7 @@
                                      "LinkToEvent": {"Id": 245029}, "Name": "A familiar stair",
                                      "Id": 256272},
                     "Name": "Visit Rosina in her Chambers",
-                    "Description": "The rumour is that she has resumed seeing patients and working on the mystery of animescence.",
+                    "Description": "$[Aa]nimescence -> 魂遷$The rumour is that she has resumed seeing patients and working on the mystery of animescence.",
                     "ButtonText": "", "Id": 192026},
                    {"DefaultEvent": {"Description": "You describe the woman she was, as you observed her. Your description is apt and unflinching. You speak of her manners, her erudition, her inability to protect herself at the last. You omit the question of whether you killed her. No one asks you for an account of her final minutes.\u000d\u000a\u000d\u000aWhen you are done, the Antheans reward you with her notes and logs. No one else here wishes to preserve them.",
                                      "LinkToEvent": {"Id": 238438},

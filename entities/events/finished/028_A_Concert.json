@@ -52,5 +52,5 @@
                     "Name": "演奏する@{K}Perform",
                     "Description": "あなたはかつて尊大な委員にツィターを貰ったことがある。冗談だったのだろうが(少なくともあなたはそう考えている)、あなたは彼らに見せつけてやるためだけにそれの弾き方を覚えた。あなたはまだそのツィターを持っている。参加することもできるだろう。[Terrorが低く、ハートが高いほどこの選択肢は簡単になります。]@{K}$Hearts -> ハート$The Consequential Undercommittee once gave you a zither. It was a joke, you thought, but you learnt to play it, just to show them. You have it still. Perhaps you can join in. [The lower your Terror and the higher your Hearts, the easier this will be.]",
                     "ButtonText": "", "Id": 126364}],
- "Description": "あなたが岸に降りる準備をしていると、一等航海士があなたに対して敬礼した。「船長！四人の船員がコンサートを開くそうです。海岸で。私たち二人とも招待されています」@{K}$Officer -> オフィサー$As you prepare to go ashore, your First Officer salutes. \"Captain! Four of the crew intend to perform a concert. On the zee-shore. You and I are both invited to attend.\"",
+ "Description": "あなたが岸に降りる準備をしていると、一等航海士があなたに対して敬礼した。「船長！四人の船員がコンサートを開くそうです。海岸で。私たち二人とも招待されています」@{K}$[Oo]fficer -> オフィサー$As you prepare to go ashore, your First Officer salutes. \"Captain! Four of the crew intend to perform a concert. On the zee-shore. You and I are both invited to attend.\"",
  "Name": "コンサート@{K}A Concert", "Id": 141265}

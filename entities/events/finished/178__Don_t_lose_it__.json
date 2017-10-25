@@ -9,6 +9,6 @@
                     "Name": "投げ捨てる@{M}Throw it away",
                     "Description": "十分に時間をかけて努力すれば、彼の心を砕くことが出来るだろう。あるいは彼があなたの心を砕くのか。@{K}十分な時間と努力をもって、彼の心を折ろう。彼もまた私の心を...@{M}With enough time and effort, you could break his heart, or he yours.",
                     "ButtonText": "", "Id": 127856}],
- "Description": "あなたは粋な紳士のロケットを手に、船橋の上に立っている。@{M/K}貴方はダッパーチャップのロケットを手に、橋の上に立っている。@{M}You stand on the bridge with the Dapper Chap's locket in your hand.",
+ "Description": "あなたは粋な紳士のロケットを手に、船橋の上に立っている。@{M/K}貴方はダッパーチャップのロケットを手に、橋の上に立っている。@{M}$Dapper Chap -> 粋な紳士$You stand on the bridge with the Dapper Chap's locket in your hand.",
  "Name": "「失くさないでくれ」@{K}\"決して無くすなよ。\"@{M}\"Don't lose it.\"",
  "Id": 149161}

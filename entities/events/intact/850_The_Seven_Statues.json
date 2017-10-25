@@ -18,7 +18,7 @@
                     "Name": "The Financier",
                     "Description": "The statue has its hands folded at its waist. Its expression is determined, beatific. Mariam has hung Lytton's locket - which you gave her when you first met - around its neck. ",
                     "ButtonText": "", "Id": 193321},
-                   {"DefaultEvent": {"Description": "$Presbyter -> 長老, Presbyterate -> 長命衆$Mariam examines the words she once carved on the statue's plinth. \"Yes. Rosina's cousin. He was one of the Presbyterate's border-guards: the Gracious. But they discharged him when he allowed an explorer access to the Interior. An explorer...\" she taps her teeth, thinking. \"Lorenzo? Afterwards, Batuk became a mercenary, and joined our number.\u000d\u000a\u000d\u000a\"He'd had enough of discipline. He will have sought a place of freedom.\"",
+                   {"DefaultEvent": {"Description": "$[Tt]he Gracious -> グレイシャス, Presbyter -> 長老, Presbyterate -> 長命衆$Mariam examines the words she once carved on the statue's plinth. \"Yes. Rosina's cousin. He was one of the Presbyterate's border-guards: the Gracious. But they discharged him when he allowed an explorer access to the Interior. An explorer...\" she taps her teeth, thinking. \"Lorenzo? Afterwards, Batuk became a mercenary, and joined our number.\u000d\u000a\u000d\u000a\"He'd had enough of discipline. He will have sought a place of freedom.\"",
                                      "LinkToEvent": {"Id": 259230}, "Name": "", "Id": 259248},
                     "Name": "The Soldier",
                     "Description": "A well-built man in late middle-age. His head is bald. His beard is near.  \"Batuk,\" Mariam says, pleased that she could remember. \"I'm rather proud of this one.\"",

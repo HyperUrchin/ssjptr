@@ -35,7 +35,7 @@
                     "ButtonText": "", "Id": 146909},
                    {"DefaultEvent": {"Description": "肉が膜に触れる。隙間が脈打つ。生存者が、貴方を大波の様に包み込む。融合による麻薬的な快楽が貴方を飲み込んだ!再びそして三度、貴方は例えようの無い感情の発作で上り詰め、それは貴方が綯い交ぜになった体液のプールに横たえられるまで続いた。「しょ...しょ...」生存者は喘ぎ、そして滑らかな脇腹が激しく上下していた。\u000d\u000a[何としても、この事を他人に知られてはなりません。特に貴方の船員には。特に、何処かの海岸で貴方を待つだろう恋人には。]@{M}Flesh meets membrane. Apertures pulse. The Survivor enfolds you like a tide. The narcotic pleasures of union engulf you! Again and again, you rise to impossible spasms of unknown emotion, until you subside into a pool of mingled exudate. \"Sho... sho...\" the Survivor pants, its glabrous flanks heaving. [For God's sake don't let anyone find out about this. Especially your crew. Especially any lover you might have in port.]",
                                      "Name": "明滅する強き波@{M}Glimmering intensities", "Id": 181426},
-                    "Name": "真珠の生存者に誘いをかける@{M}Proposition the Nacreous Survivor",
+                    "Name": "真珠の生存者に誘いをかける@{M}$Nacreous Survivor -> 真珠族の生存者$Proposition the Nacreous Survivor",
                     "Description": "それは顔を曲げている。結構前から、これがそれにとっての愛情深い微笑みだという事を貴方は知っていた。しかし、本当にいいのか?[十分な量の珊瑚の胞核が認められる場合にのみ、生存者は適切な反応を示す事が出来ます。]@{M}$[Ss]cintillack -> シンティラック$It bends its face. You've known it long enough to understand that this is an affectionate smile. Are you sure about this? [The Survivor can only evince the proper responses in the presence of sufficient Scintillack.]",
                     "ButtonText": "", "Id": 146910}],
  "Description": "それは何かを求めるように垂涎している。もしそれが貴方の船室に来るような事がある場合、何かマットのような物を敷いておいた方が良いだろう。@{M}It drips eagerly. Perhaps if it comes to your cabin you should put down some sort of matting.",

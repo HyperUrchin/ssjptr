@@ -17,7 +17,7 @@
                     "RareSuccessEvent": {"Description": "囚人はひれ伏し感謝している。もしあなたが許せばあなたの手に接吻さえするだろう。熱心に仕事に戻りたがっている。そして翌日、その者は消えていた。小型ボートと盗めるだけの物資と共に。@{K}The prisoner grovels with gratitude. They would kiss your hand if you let them. They're eager to get back to work. And the next day, they're gone, with a ship's boat and all the supplies they can filch.",
                                          "Name": "裏切り！@{K}Betrayal!", "Id": 151456},
                     "Name": "囚人を開放する@{K}Release the Prisoner",
-                    "Description": "仮釈放中のまじめな態度を約束させ、恩赦を出す。[Heartsのチャレンジに成功することで彼らは再び船員となる可能性が高まります。しかし、成功しても船員にならないこともあります。]@{K}Offer them an amnesty, on their solemn parole. [Success in this Hearts test means they're more likely to become Crew again; but it doesn't ensure it.]",
+                    "Description": "仮釈放中のまじめな態度を約束させ、恩赦を出す。[Heartsのチャレンジに成功することで彼らは再び船員となる可能性が高まります。しかし、成功しても船員にならないこともあります。]@{K}$Hearts -> ハート$Offer them an amnesty, on their solemn parole. [Success in this Hearts test means they're more likely to become Crew again; but it doesn't ensure it.]",
                     "ButtonText": "", "Id": 129144}],
  "Description": "もう十分に苦しんだだろうか？@{K}Have they suffered enough?",
  "Name": "囚人に対処する@{K}Deal with a Prisoner", "Id": 151261}

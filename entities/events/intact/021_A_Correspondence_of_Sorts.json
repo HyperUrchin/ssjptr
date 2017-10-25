@@ -5,4 +5,5 @@
                    {"DefaultEvent": {"Id": 141244}, "Name": "Loot", "Description": "",
                     "ButtonText": "", "Id": 122722}],
  "Description": "A monolith leans sideways.",
- "Name": "A Correspondence of Sorts", "Id": 141241}
+ "Name": "$Correspondence -> コーレスポンデンス$A Correspondence of Sorts",
+ "Id": 141241}

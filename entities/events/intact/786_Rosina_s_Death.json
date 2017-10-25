@@ -4,5 +4,5 @@
                     "Name": "Watch",
                     "Description": "Even if you wanted to, you would not be able to leave the chamber quickly enough to avoid seeing what comes next.",
                     "ButtonText": "", "Id": 187058}],
- "Description": "Her animescence is at its peak. She can no longer resist.",
+ "Description": "$[Aa]nimescence -> 魂遷$Her animescence is at its peak. She can no longer resist.",
  "Name": "Rosina's Death", "Id": 245052}

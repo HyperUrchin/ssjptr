@@ -22,7 +22,7 @@
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 144833},
                                      "Name": "提出！@{I}提出された!@{M}Submitted!", "Id": 149364},
                     "Name": "ポート・セシル@{I}セシル港@{M}$Port Cecil -> ポート・セシル$Port Cecil",
-                    "Description": "「プリンシプルズ・オブ・コーラル。どうしてあんなところへの定住が名案だと考えられたのやら、私には分からないね」@{I}「珊瑚の中心地ですね。何故あの場所に住むのが上策だと思ったのか、私には分かりませんね。」@{M}$Principles of Coral -> プリンシプルズ・オブ・コーラル$\"The Principles of Coral. I have no idea why anyone thought that settlement was a good idea.\"",
+                    "Description": "「プリンシプル・オブ・コーラル。どうしてあんなところへの定住が名案だと考えられたのやら、私には分からないね」@{I}「珊瑚の中心地ですね。何故あの場所に住むのが上策だと思ったのか、私には分かりませんね。」@{M}$Principles of Coral -> プリンシプルズ・オブ・コーラル$\"The Principles of Coral. I have no idea why anyone thought that settlement was a good idea.\"",
                     "ButtonText": "", "Id": 127983},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 144833},
                                      "Name": "提出！@{I}提出された!@{M}Submitted!", "Id": 149365},

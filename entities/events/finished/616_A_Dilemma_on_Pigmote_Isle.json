@@ -3,7 +3,7 @@
                     "Name": "寛容の心を説く@{K}Preach tolerance",
                     "Description": "Neathにはより奇妙な風習もある。@{K}There are stranger customs in the Neath.",
                     "ButtonText": "", "Id": 165646},
-                   {"SuccessEvent": {"Description": "毛皮の民兵は一軒一軒他の仮面を探して回ったが、彼らは一つも見つけることが出来なかった。[q:ピグモート・アイル: 統治]はここで何が起こっているにせよ、それがそれほど広まってはいないことが分かり安堵した。@{K}$Pigmote Isle -> ピグモート・アイル$The furry militia goes door to door in search of other masks. They find none. [q:ピグモート・アイル: 統治] breathes easier knowing that whatever is going on here, it has not spread far.",
+                   {"SuccessEvent": {"Description": "毛皮の民兵は一軒一軒他の仮面を探して回ったが、彼らは一つも見つけることが出来なかった。[q:ピグモート・アイル: 統治]はここで何が起こっているにせよ、それがそれほど広まってはいないことが分かり安堵した。@{K}The furry militia goes door to door in search of other masks. They find none. [q:ピグモート・アイル: 統治] breathes easier knowing that whatever is going on here, it has not spread far.",
                                      "Name": "弾圧@{K}A clampdown", "Id": 211461},
                     "DefaultEvent": {"Description": "街で毛皮の民兵たちが他の仮面を探し回る。しかし彼らは死んだ衛兵の頭に釘で打ち付けられていた一つの仮面しか見つけることが出来なかった。目撃者は現れなかった。@{K}The furry militia scours the town for other masks. They only find one, nailed to the head of a dead guard. No witnesses come forward.",
                                      "Name": "高まる不安@{K}A growing concern", "Id": 211458},

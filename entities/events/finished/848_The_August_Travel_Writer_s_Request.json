@@ -6,7 +6,8 @@
                    {"DefaultEvent": {"Description": "旅行作家はあなたに険しい顔をした。「それは残念だ」彼は言う。「しかし恨みには思わないでおきましょう、船長。私の仕事があなたに正義をなしてくれるだろう」彼は甲板の下から旅行鞄を取ってくると、船を去った。@{K}The August Travel-Writer frowns sharply at you. \"What a pity,\" he says. \"I shan't hold a grudge, captain. My work will do you justice.\" He gathers his trunk from below deck and departs.",
                                      "Name": "礼儀正しく受け入れる@{K}Taken in good grace", "Id": 259078},
                     "Name": "旅行作家の手助けを断る@{K}Refuse to aid the Travel-Writer",
-                    "Description": "あなたは関わり合いになりたくない。@{K}You want no part of it.", "ButtonText": "",
-                    "Id": 193220}],
+                    "Description": "あなたは関わり合いになりたくない。@{K}You want no part of it.",
+                    "ButtonText": "", "Id": 193220}],
  "Description": "あなたが船に戻ると威厳ある旅行作家は日誌にいくつか書き込んでいた。彼の手はインクで汚れているが、服には染みひとつない。「最後にもうひとつ別の港を訪れたい」彼は静かに言う。「今回は200エコーを支払おう」@{K}The August Travel-Writer makes a few notes in his journal as you walk back to your ship. His suit is immaculate, though his hands are ink-stained. \"I've one last port to visit,\" he says quietly. \"There's two hundred echoes in it for you this time.\"",
- "Name": "威厳ある旅行作家の頼み@{K}The August Travel-Writer's Request", "Id": 259076}
+ "Name": "威厳ある旅行作家の頼み@{K}The August Travel-Writer's Request",
+ "Id": 259076}
