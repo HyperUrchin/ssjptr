@@ -122,7 +122,7 @@
                                          "LinkToEvent": {"Id": 245067},
                                          "Name": "ずっと良くなって@{I}Much better off", "Id": 254204},
                     "Name": "クラデリーの後継者に囚人を与えて解剖させる@{I}$Cladery Heir -> クラデリーの後継者$Give the Cladery Heir a Prisoner to cut open",
-                    "Description": "「囚人は復讐を企てるものです。私なら、そんな考えは止めさせてあげることができますよ」[囚人を失う代わりに形見が手に入ります。]@{I}\"This prisoner seeks revenge. I can make them stop wanting that.\" [This may lose a prisoner and may create a souvenir.]",
+                    "Description": "「この囚人は復讐の機会を探っていますね。私なら、そんな考えは止めさせてあげることができますよ」[囚人を失う代わりに形見が手に入ります。]@{I}\"This prisoner seeks revenge. I can make them stop wanting that.\" [This may lose a prisoner and may create a souvenir.]",
                     "ButtonText": "", "Id": 190912},
                    {"SuccessEvent": {"Description": "　これは特別な道具が必要ですね。一番小さなナイフと拡大レンズに、強い光と、あとは篩ですか。編目の細かい絹の布をお持ちだったりはしますか？まあ構いません。ちょっと気になっただけなので……<br/><br/>　彼女は徹夜で作業を続けた。朝になると、ブレミガンはいなくなり、彼女の手に持つ小瓶には、さらさらするコスモゴーンの粉末が入っていた。「少量でも、これを食べるのはおすすめしません。精神状態をものすごく変えてしまいたい時は別ですが」@{I}$[Bb]lemmigan -> ブレミガン, [Cc]osmogone -> コスモゴーン$This will require special equipment: the smallest knives, magnification lenses, strong light, a sieve. Do you have some finely-woven silk by any chance? No matter, it was a whim...\u000d\u000a\u000d\u000aShe works all night. In the morning, the blemmigan is gone and she has a vial of shifting, cosmogone powder. \"I would advise against eating any of this, unless you fancy a very altered state of mind.\"",
                                      "LinkToEvent": {"Id": 245067}, "Name": "胞子！@{I}Spores!",
