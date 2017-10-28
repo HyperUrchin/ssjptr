@@ -24,7 +24,7 @@
                     "Description": "指には銀色の指輪がはめられている。@{K}She has a silver ring on her hand.",
                     "ButtonText": "", "Id": 127106},
                    {"DefaultEvent": {"Description": "侍祭は手早く解剖を進めていき、彼女の歌も純粋に心を浮き立たせるような調子のものだ。（チェスをする男たちが暖炉の傍らで杯を合わせたこと、そして液状のチョコレートから芽を出した苗木について歌っている。）\u000d\u000a\u000d\u000a「この件については死体がこちらの手に渡る以前から耳にしていました」侍祭は後になってからあなたに語った。「彼女は腰掛で気を失っては奇妙な銀色の液体を飲み、その場にいた人々に自分は恐ろしい病にかかっているのだと話すことを好んでいたのです。この方の唯一の秘密は彼女は本人が望むほどに興味深い存在ではなかったということです」@{K}The Austere Acolyte works quickly this time, and her songs (of chessmen toasting by the fire, of a seedling growing out of a chocolate liqueur) sound genuinely cheerful.\u000d\u000a\u000d\u000a\"I'd heard of this case before she even reached us,\" the Acolyte tells you afterwards. \"She liked to faint on sofas and sip mysterious silver medicines and tell everyone she was suffering from some dread disease. The only secret she had was that she wasn't as interesting as she wanted everyone to think.\"",
-                                     "Name": "広く知られた病@{K}Famously ill", "Id": 148112},
+                                     "Name": "広く知られた病人@{K}Famously ill", "Id": 148112},
                     "Name": "流行りの装いの女性@{K}The Fashionable Lady",
                     "Description": "彼女のガウンは胸元の大きく開いたデザインで、谷間にはゴルフボールほどの腫瘍が覗いている。@{K}Her gown scoops low and there is a lump at her cleavage as large as a golf ball.",
                     "ButtonText": "", "Id": 127115},
