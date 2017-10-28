@@ -3,7 +3,7 @@
                     "Name": "檻の婦人からの積荷@{I}檻の貴婦人からの荷物@{M}$Lady of the Cages -> 檻の婦人$A shipment from the Lady of the Cages",
                     "Description": "「このようなことが起こるのではないかと心配していました。良いでしょう。手短にお願いします」@{I}「私は常日頃よりこうなる事を恐れていた。仕方がない。早く済まされよ。」@{M}\"I had been afraid this might happen. Very well. Be quick about it.\"",
                     "ButtonText": "", "Id": 139072},
-                   {"DefaultEvent": {"Description": "　1000エコー。紙幣の山が、秋の木の葉のような楽しげな音を立てた。蜜の小瓶は遺言執行人に手渡された。「幸運を」彼女はそれとなく言ったが、そのような結末について、彼女が確信を持っている風には聞こえなかった。@{I}1000エコー。彼らは嬉しそうにガサガサと揺すっている。執行者は貴方からガラス瓶を受け取った。「ご幸運を。」彼女はそう言う。最も、彼女自身本心からそう願っていた訳では無さそうだが。@{M}One thousand Echoes. They rustle delightfully, like letters about autumn. The Executor accepts the vials from you. \"Good luck,\" she suggests. She doesn't sound convinced.",
+                   {"DefaultEvent": {"Description": "　1000エコー。紙幣の山が、秋の手紙のような楽しげな音を立てた。蜜の小瓶は遺言執行人に手渡された。「幸運を」彼女はそれとなく言ったが、そのような結末について、彼女が確信を持っている風には聞こえなかった。@{I}1000エコー。彼らは嬉しそうにガサガサと揺すっている。執行者は貴方からガラス瓶を受け取った。「ご幸運を。」彼女はそう言う。最も、彼女自身本心からそう願っていた訳では無さそうだが。@{M}One thousand Echoes. They rustle delightfully, like letters about autumn. The Executor accepts the vials from you. \"Good luck,\" she suggests. She doesn't sound convinced.",
                                      "Name": "代わりの手筈@{I}替わりの配置@{M}An alternative arrangement",
                                      "Id": 169528},
                     "Name": "ザイラを裏切る@{I}ザイーラを裏切る@{M}$Zaira -> ザイラ$Betray Zaira",
