@@ -27,5 +27,5 @@
                     "Name": "なぜ歌うのか尋ねる@{K}Ask why she sings",
                     "Description": "楽しむため以外の目的があるに違いない。@{K}It is plainly for some reason other than entertainment.",
                     "ButtonText": "", "Id": 127691}],
- "Description": "十分に彼女の好意を得たのなら、この場所に関するいくつかの質問に答えてくれるかもしれない。@{K}Perhaps, if she has come to like you well enough, she'll choose to answer some questions about this place.",
+ "Description": "十分に好意を得たなら、彼女はこの場所に関するいくつかの質問に答えてくれるかもしれない。@{K}Perhaps, if she has come to like you well enough, she'll choose to answer some questions about this place.",
  "Name": "侍祭への質問@{K}Questions for the Acolyte", "Id": 148876}

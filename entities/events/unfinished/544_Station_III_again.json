@@ -1,7 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "",
                                      "LinkToEvent": {"Id": 146637}, "Name": "", "Id": 182142},
                     "Name": "長箱を運びこむ@{K}Deliver a Long-Box",
-                    "Description": "壁の内側への入り口は、三重に鍵の掛けられた目立たないが頑丈そうな銀色の金属でできた門だけだ。門の横には“搬入口”と書かれた標識が出ている。[第三基地内部に入りさらに探索するためには長箱が必要です。]@{K}$Station III -> 第三基地$The only way past the walls is an unimposing, but sturdy-looking, triple-locked gate of silvery metal. A sign beside it reads DELIVERIES. [You'll need a Long-Box to enter Station III and explore further.]",
+                    "Description": "壁の内側への入り口は、目立たないが頑丈そうな見た目の銀色の金属でできた門だけだ。さらにその門には三重に鍵がかけられている。門の横には“搬入口”と書かれた標識があった。[第三基地内部に入りさらに探索するためには長箱が必要です。]@{K}$Station III -> 第三基地$The only way past the walls is an unimposing, but sturdy-looking, triple-locked gate of silvery metal. A sign beside it reads DELIVERIES. [You'll need a Long-Box to enter Station III and explore further.]",
                     "ButtonText": "", "Id": 147400},
                    {"DefaultEvent": {"Description": "ブレミガンはこっそりと壁から突き出したパイプに忍び込んでいった。何も動かない。あれがその後どうしたのかも見えない。\u000d\u000a\u000d\u000aあなたが船に戻ろうと踵を返したとき、パイプの端から突然油染みた煙が噴き出した。燃える脂の匂いがする。いや、それでも、生きのびたかもしれないだろう。@{K}$[Bb]lemmigan -> ブレミガン$The blemmigan sidles furtively into a pipe that protrudes from the wall. All is still. You see no more of it.\u000d\u000a\u000d\u000aAs you turn to go, greasy smoke puffs suddenly from the pipe's end. You smell burning grease. Nevertheless, perhaps, it survived.",
                                      "Name": "忍び寄るブレミガン大襲来@{K}A creeping plague", "Id": 182421},

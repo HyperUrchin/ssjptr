@@ -16,8 +16,8 @@
                    {"DefaultEvent": {"Description": "侍祭は感謝の念を示した。彼女の離職は雇い主たちの不興を買うだろうが、後継者の入る見通しが立っていればその苛立ちも収まるだろう。あなたは侍祭がフィービーに幾つか質問をするのを聞いた。その結果、当然のことだが、フィービーはここで必要とされる多くの資質を身に着けている事が分かった。外科的な技術と秘儀を身に着けるために必要な美しい歌声だ。\u000d\u000a\u000d\u000a「ありがとう」フィービーは言った。「ずっといられるは分からないけれど、しばらくはここに留まる事になると思う。さようなら。そしてこれを受け取って、もう私には必要ないものだから」\u000d\u000a\u000d\u000a“これ”とは流れるような草の模様の描かれた陶製の横笛だった。カーネイトの手によるものだろう。フィービーは緊張した様子であなたを抱擁すると大きな倉庫の影へと消えた。@{K}$Khan -> カーン, Khanate -> カーネイト$The Acolyte is grateful. Her departure will irritate her employers, and the prospect of a replacement will ease that irritation. You listen as she questions Phoebe. She finds, of course, that Phoebe has many of the necessary aptitudes: surgical skills, a good singing voice, an aptitude for the esoteric.\u000d\u000a\u000d\u000a\"Thank you,\" Phoebe tells you. \"I don't know if I'll stay, but I think I'll stay long enough. Goodbye: and take this. I won't need it any more.\"\u000d\u000a\u000d\u000a'This' is a porcelain flute decorated with a design of flowing grasses. Khanate work. Phoebe embraces you nervously, and is gone into the shadows of the grand warehouses.",
                                      "LinkToEvent": {"Id": 151669},
                                      "Name": "取り決め@{K}An arrangement", "Id": 152776},
-                    "Name": "フィービーはこの暗がりでの勤めに慰めを見出すことが出来るかもしれない。@{K}Propose that the Scarred Sister replace her",
-                    "Description": "傷を負った妹を代役として雇うよう提案する@{K}Perhaps Phoebe will find consolation in these duties of darkness.",
+                    "Name": "傷を負った妹を代役として雇うよう提案する@{K}Propose that the Scarred Sister replace her",
+                    "Description": "フィービーはこの暗がりでの勤めに慰めを見出すことが出来るかもしれない。@{K}}Perhaps Phoebe will find consolation in these duties of darkness.",
                     "ButtonText": "", "Id": 130111}],
  "Description": "侍祭との再びの邂逅。@{K}You encounter the Acolyte one more time.",
  "Name": "再び@{K}Once more", "Id": 151669}

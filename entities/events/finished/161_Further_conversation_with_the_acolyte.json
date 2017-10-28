@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "語るほどの話がないと言えば侍祭は失望するのではないかと思ったが、予想に反して彼女はあなたの答えに喜んでいるようだった。ここで過ごすうちに十分なほど暗い秘密と不穏な仄めかしを耳にしているからかもしれない。@{K}You might have expected her to be disappointed that there's no story, but if anything she looks pleased. Perhaps she has enough dark pasts and sinister allusions around here.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "語るほどの話がないと言えば侍祭は失望するのではないかと思ったが、それどころか彼女はあなたの答えに喜んでいるようだった。ここで過ごすうちに十分なほど暗い秘密と不穏な仄めかしを耳にしているからかもしれない。@{K}You might have expected her to be disappointed that there's no story, but if anything she looks pleased. Perhaps she has enough dark pasts and sinister allusions around here.",
                                      "LinkToEvent": {"Id": 149012},
                                      "Name": "首を横に振る@{K}You shake your head", "Id": 148993},
                     "Name": "本心から否定する@{K}Say no, and mean it",
