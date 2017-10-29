@@ -20,7 +20,7 @@
                     "ButtonText": "", "Id": 131522},
                    {"DefaultEvent": {"Description": "店主が床下につながる扉を開くと不機嫌そうな青白い若者が目をしばたかせながら出てきた。若者は急いで黒眼鏡をかけると、あなたが長箱を港まで運ぶのを手伝ってくれた。彼は道々ずっと黙りこくったままだった。@{K}The shopkeeper opens a trap-door. A pale and surly youth comes up, blinking, and hastily dons a pair of dark glasses. He helps you carry the Long-Box down to the dock, mute all the way.",
                                      "Name": "誤配送？@{K}A misplaced delivery?", "Id": 154992},
-                    "Name": "スード＆クーパーの長箱を買う@{K}$Soothe (and|&) Cooper -> スード&クーパー$Purchase a Soothe & Cooper Long-Box",
+                    "Name": "スーズ＆クーパーの長箱を買う@{K}$Soothe (and|&) Cooper -> スーズ&クーパー$Purchase a Soothe & Cooper Long-Box",
                     "Description": "「このでかいやつか？これは私の店を長い事占領してたんだよ。頼む、厄介払いさせてくれ。いや、しまったな、もう別れていい頃だと言おうとしたんだ。通常の値段でね」@{K}\"This great thing? It's been cluttering up my shop for too long. Please, take it off my hands. I mean to say, oh, I suppose I can part with it. For the usual price.\"",
                     "ButtonText": "", "Id": 131523},
                    {"DefaultEvent": {"Description": "「いや、駄目だ。駄目だ駄目だ。見ての通り鏡は此処カーネイトでは好かれていない。そんなものを買おうとするなんて『白と金』のスパイだとしか思えないね。仮にそのような鏡を持っていたとしても売ることは出来ない。あんたがスパイじゃないとしても、鏡を売って誘惑に曝すような真似はしないよ。他に何か欲しい物はあるか？」@{K}$[Tt]he White -> 白きもの, Khan -> カーン, Mirrors -> ミラー, Khanate -> カーネイト$\"Oh, no. No no. Mirrors are unloved here in the Khanate, you see. I can only suspect you of being a spy for the White-and-Golds. If I even had such a mirror, I could not sell it; and were you not a spy, still I would not d__n you with its seductions. Perhaps there is something else?\"",

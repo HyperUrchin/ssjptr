@@ -83,7 +83,7 @@ Unread Log, 未だ読まれていない航海日誌
 Doomed Monster Hunter, 死の運命にあるモンスターハンター
 Icarus in Black, 黒のイカロス
 Parabox, パラボックス
-Soothe (and|&) Cooper, スード&クーパー
+Soothe (and|&) Cooper, スーズ&クーパー
 Fulgent Impeller, 燦爛たる羽根車
 Mountain-sherd, 山の破片
 Hesperidean Apple, ヘスペリデスの林檎

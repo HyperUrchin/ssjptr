@@ -8,7 +8,7 @@
                                      "Name": "カリギュラの店でもう一杯の珈琲を@{I}カリギュラで珈琲をもう一杯@{M}$Caligula -> カリギュラ$Another coffee in Caligula's",
                                      "Id": 177223},
                     "Name": "ハッファム氏@{I}ハッファム氏@{M}$Huffam -> ハッファム$Mr Huffam",
-                    "Description": "　彼は自らの被る費用と危険とを埋め合わせるだけの情報を求めていた。率直に言って、もしも本当にバザールの支配者たちが関わっているのなら、彼の求める対価では釣り合いが取れていない。しかし、ハッファムは寛大な魂の持ち主だった。あなたは珈琲の代金ぐらいは代わりに支払うべきだろう。@{I}彼は、彼が払うリスクに見合うだけのニュースを欲している。正直言えば、もし本当にバザールの支配人が関係しているのなら、彼が要求する物は決して高い物ではない。だが、ハッファムは寛大な心の持ち主だった。貴方は少なくとも彼の珈琲代位は持つべきだろう。@{M}$Huffam -> ハッファム$He wants news, to cover his cost and risks. Frankly, his price is not high, if the Masters of the Bazaar really are involved. But Huffam has a generous soul. You should at least pay for the coffee.",
+                    "Description": "　彼は自らの被る費用と危険とを埋め合わせるだけの情報を求めていた。率直に言って、もしも本当にバザールの支配者たちが関わっているのなら、彼の求める対価では釣り合いが取れていない。しかし、ハッファムは寛大な魂の持ち主だった。あなたは珈琲の代金ぐらいは代わりに支払うべきだろう。@{I}彼は、彼が払うリスクに見合うだけのニュースを欲している。正直言えば、もし本当にバザールの支配人が関係しているのなら、彼が要求する物は決して高い物ではない。だが、ハッファムは寛大な心の持ち主だった。貴方は少なくとも彼の珈琲代位は持つべきだろう。@{M}$Huffam -> ハッファム, [Tt]he Masters of the Bazaar -> バザールの支配者たち$He wants news, to cover his cost and risks. Frankly, his price is not high, if the Masters of the Bazaar really are involved. But Huffam has a generous soul. You should at least pay for the coffee.",
                     "ButtonText": "", "Id": 144403},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 120801},
                                      "Name": "", "Id": 177224},

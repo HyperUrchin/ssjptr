@@ -3,7 +3,7 @@
                     "Name": "謝罪する@{K}Apologize",
                     "Description": "彼女はあなたとの再会を喜んでいるようには見えない。@{K}She doesn't look overjoyed to see you.",
                     "ButtonText": "", "Id": 129369},
-                   {"DefaultEvent": {"Description": "侍祭は心の傷を繕っている所だと言った。そして、少なくともここでは秘密を誰かから隠さなければならないということはありませんから、と続ける。彼女にはスード&クーパーの薬液は必要ない。\u000d\u000a\u000d\u000aとはいっても、もうこの職にうんざりしてしまったのも事実だという。あなたが再びこの港を訪れることがあっても、その時には彼女はもうここに居ないだろう。@{K}$Soothe (and|&) Cooper -> スード&クーパー$She says that she is mending. At least, she says, there's no one she has to keep her secrets from. No Soothe and Cooper tonic for her.\u000d\u000a\u000d\u000aStill, she's had enough of her present occupation. If you come to port again, you won't find her here.",
+                   {"DefaultEvent": {"Description": "侍祭は心の傷を繕っている所だと言った。そして、少なくともここでは秘密を誰かから隠さなければならないということはありませんから、と続ける。彼女にはスーズ&クーパーの薬液は必要ない。\u000d\u000a\u000d\u000aとはいっても、もうこの職にうんざりしてしまったのも事実だという。あなたが再びこの港を訪れることがあっても、その時には彼女はもうここに居ないだろう。@{K}$Soothe (and|&) Cooper -> スーズ&クーパー$She says that she is mending. At least, she says, there's no one she has to keep her secrets from. No Soothe and Cooper tonic for her.\u000d\u000a\u000d\u000aStill, she's had enough of her present occupation. If you come to port again, you won't find her here.",
                                      "Name": "ゆっくりとした回復@{K}Slow mending", "Id": 151671},
                     "Name": "近況を訊く@{K}Ask after her situation",
                     "Description": "他の侍祭たちが彼女を慰めてくれたとは思えない。彼らの間で友情が感じられるやり取りなど一度も目にしたことがない。@{K}It seems unlikely that the other acolytes offer one another much consolation. You've never seen any sign of friendship between them, anyhow.",
