@@ -15,7 +15,7 @@
                     "Name": "権威ある人物との面会を求める@{I}Ask to speak with someone in authority",
                     "Description": "　この場所は何なのだろうか？@{I}What is this place?",
                     "ButtonText": "", "Id": 124065},
-                   {"DefaultEvent": {"Description": "「私たちの光は今よりも強くなるでしょう。単に私たちの艦隊が強化されるというだけではありません。世界には、私たちの上昇を阻む数多くの扉があります。赤の科学は、それら多くの封印に対する鍵なのです。ありがとうございます。光の名において感謝します。さあ、お行きなさい。そして輝いてあれ」@{I}\"Our Light will grow stronger. Not only as our fleet grows stronger. There are many doors that bar our ascent: but the Red Science is the key to many locks. We thank you. Our Light thanks you. Go now, and grow bright.\"",
+                   {"DefaultEvent": {"Description": "「私たちの光は今よりも強くなるでしょう。単に私たちの艦隊が強化されるというだけではありません。世界には、私たちの上昇を阻む数多くの扉があります。赤き科学は、それら多くの封印に対する鍵なのです。ありがとうございます。光の名において感謝します。さあ、お行きなさい。そして輝いてあれ」@{I}\"Our Light will grow stronger. Not only as our fleet grows stronger. There are many doors that bar our ascent: but the Red Science is the key to many locks. We thank you. Our Light thanks you. Go now, and grow bright.\"",
                                      "Name": "満足気な吐息@{I}A sigh of satisfaction", "Id": 176335},
                     "Name": "メメント・モリをドーン・マシンの奉仕者たちに売却する@{I}$Dawn Machine -> ドーン・マシン, Memento Mori -> メメント・モリ$Sell the Memento Mori to the servants of the Dawn Machine",
                     "Description": "「おや、これは何と興味深い。実に興味深いですね」[これにより、あなたはドーンのかけら、審判の卵、1000エコー、そしてマシンからの感謝を勝ち取ることができます。]@{I}$Element of Dawn -> ドーンのかけら$\"Now this looks very interesting. Very interesting indeed.\" [You will receive one Element of Dawn, one Judgements' Egg, one thousand Echoes, and the gratitude of the Machine.]",
