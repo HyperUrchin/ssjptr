@@ -29,7 +29,7 @@
                    {"DefaultEvent": {"Description": "この場所が氷結城の真珠であるとすれば、いったいどのような暗い核がこの真珠を作り出したのだろう？@{K}$Frostfound -> 氷結城$If this is Frostfound's pearl, what dark inclusion provoked it?",
                                      "LinkToEvent": {"Id": 181473}, "Name": "", "Id": 181436},
                     "Name": "“玉虫色”に入る@{K}Enter the Iridescence",
-                    "Description": "柔らかく、真珠色の鏡のような霧が発する光が、この回廊の入り口から渦を巻くようにして漏れ出している。@{K}A softer, pearlier, mirror-fog glow coils from this corridor.",
+                    "Description": "柔らかく、曇った鏡のような真珠色の光が、この回廊の入り口から渦を巻くようにして漏れ出している。@{K}A softer, pearlier, mirror-fog glow coils from this corridor.",
                     "ButtonText": "", "Id": 146917},
                    {"DefaultEvent": {"Description": "神聖な地。@{K}Sacred ground.",
                                      "LinkToEvent": {"Id": 181469}, "Name": "", "Id": 181437},
