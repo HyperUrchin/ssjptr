@@ -40,7 +40,7 @@
                     "Name": "ローズ@{I}Rose",
                     "Description": "　赤色が花開いて生まれた命にはよく似合う名前だ。@{I}A good name for life that began as a bloom of red.",
                     "ButtonText": "", "Id": 173538},
-                   {"DefaultEvent": {"Description": "「ロンドン？そうだ！ロンドン！ぼくは屋上で遊びたかったんだけど、そうしたらママが泣いちゃった。ママはたくさん泣くんだけど、それはぼくのせいじゃないんだって。ママは心配しそう。あなたは悪魔じゃないよね？ママは悪魔には気をつけろって言ってた」それは疑り深い様子であなたの方に鼻を鳴らした。「違う。卵みたいな匂いはしない。あなたはぼくを連れて帰ってくれるの？ぼくはずっと航海に出たかったんだ」<br/><br/>　雪の子はあなたを見上げた。それは大して場所は取らないだろう。しかし名前があると便利だ。少なくとも、雪の子が、かつて名前を持っていたかどうかを思い出すまでの間は。@{I}$Snow Child -> 雪の子$\"London? London! Yes! I wanted to play on the roof-tops, but it made mother cry. She cries a lot, but she says it's not my fault. She'll be worried. Wait - you're not a devil are you? Mother says to look out for devils.\" It gives you a suspicious sniff. \"No. No eggy smell. You can take me back, right? I've always wanted to go zailing.\" \u000d\u000a\u000d\u000aThe Snow Child looks up at you. It won't take up much room. It could do with a name though, at least until remembers if it used to have one.",
+                   {"DefaultEvent": {"Description": "「ロンドン？そうだ！ロンドン！ぼくは屋上で遊びたかったんだけど、そうしたらママが泣いちゃった。ママはたくさん泣くんだけど、それはぼくのせいじゃないんだって。ママは心配しそう。あなたは悪魔じゃないよね？ママは悪魔には気をつけろって言ってた」それは疑り深い様子であなたの方に鼻を鳴らした。「違う。卵みたいな匂いはしない。あなたはぼくを連れて帰ってくれるの？ぼくはずっと航海に出たかったんだ」<br/><br/>　雪の子はあなたを見上げた。それは大して場所は取らないだろう。しかし名前があると便利だ。少なくとも雪の子が、かつて名前を持っていたかどうかを思い出すまでの間は。@{I}$Snow Child -> 雪の子$\"London? London! Yes! I wanted to play on the roof-tops, but it made mother cry. She cries a lot, but she says it's not my fault. She'll be worried. Wait - you're not a devil are you? Mother says to look out for devils.\" It gives you a suspicious sniff. \"No. No eggy smell. You can take me back, right? I've always wanted to go zailing.\" \u000d\u000a\u000d\u000aThe Snow Child looks up at you. It won't take up much room. It could do with a name though, at least until remembers if it used to have one.",
                                      "LinkToEvent": {"Id": 223608},
                                      "Name": "遠い記憶@{I}A distant memory", "Id": 224383},
                     "Name": "雪の子に家のことを尋ねる@{I}$Snow Child -> 雪の子$Ask the Snow Child about home",
@@ -53,5 +53,5 @@
                     "Name": "置き去りにする@{I}Leave it here",
                     "Description": "　あなたには関わりのないことだ。@{I}It is not your concern.",
                     "ButtonText": "", "Id": 173837}],
- "Description": "　あなたを見上げたそれは怯えていて、寒さとは関係のない理由でその体を震わせていた。その氷の中には、あなたの血が流れている。「あなたがぼくを家まで連れて行ってくれるの？」@{I}It looks up at you, frightened and shivering for reasons that have nothing to do with cold. Your blood streaks through its ice. \"Are- Are you taking me home now?\"",
+ "Description": "　あなたを見上げたそれは怯えていて、寒さとは関係のない理由でその体を震わせている。その氷の中には、あなたの血が流れている。「あなたがぼくを家まで連れて行ってくれるの？」@{I}It looks up at you, frightened and shivering for reasons that have nothing to do with cold. Your blood streaks through its ice. \"Are- Are you taking me home now?\"",
  "Name": "雪の子@{I}$Snow Child -> 雪の子$The Snow Child", "Id": 223608}
