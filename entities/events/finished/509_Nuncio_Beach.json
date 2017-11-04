@@ -26,7 +26,7 @@
                                      "LinkToEvent": {"Id": 180316},
                                      "Name": "チクチクチク@{I}Tickticktick", "Id": 181351},
                     "Name": "チクタクと音を鳴らす荷物を回収する@{I}Rescue a ticking parcel",
-                    "Description": "　荷物には『受取拒否』と書かれている。もしかしたら、何かまずいことになるだろうか？@{I}It says REFUSED BY RECIPIENT. What could possibly go wrong?",
+                    "Description": "　荷物には『受取拒否』と書かれている。もしかしたら、開けるとまずいことになるだろうか？@{I}It says REFUSED BY RECIPIENT. What could possibly go wrong?",
                     "ButtonText": "", "Id": 146851},
                    {"DefaultEvent": {"Description": "　そして小さな驚き。中身は紐で繋がれたネズミだった。かつては新鮮で(一部の嗜好の持ち主にとっては)美味しそうに見えたのかもしれない。しかし、今では腐敗してかなり酷いことになっていた。中身を手早く埋葬してしまうことが、あなたの望みうる最良の処置だった。<br/><br/>　だが処分する前に、受取人の名前と住所を確認してみよう。有力者の名前だ。憶えておく価値がある。@{I}And little wonder. The string of rats within may once have been fresh and (to certain tastes) delectable. It is now rather the worse for decay. Giving the parcel's contents a hasty burial is the best you can hope to do.\u000d\u000a\u000d\u000aJust before you dispose of it, though - note the recipient's name and address. A name of some power, worth remembering.",
                                      "LinkToEvent": {"Id": 180316},

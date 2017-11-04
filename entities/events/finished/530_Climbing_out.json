@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "　配達不能郵便局は依然としてそこにある。そこの機械はまだ動いている。部屋のかごは、届かなかった招待状と見当違いの遺言状でいっぱいのままだ。そこが地底に潜む力によって破壊され、一掃されているなんて、ありえない話だろう？@{I}$Dead Letter Office -> 配達不能郵便局$The Dead Letter Office is still here, its machine still working, its baskets still filling with missed invitations and misplaced wills. Shouldn't it have been blasted away, destroyed by the force of what lies beneath?",
+{"ChildBranches": [{"DefaultEvent": {"Description": "　配達不能郵便局は依然としてそこにある。そこの機械はまだ動いている。部屋のかごは、届かなかった招待状と宛先違いの遺言状でいっぱいのままだ。こんなもの、地底に潜む力によって破壊され、一掃されていればよかったのではないか？@{I}$Dead Letter Office -> 配達不能郵便局$The Dead Letter Office is still here, its machine still working, its baskets still filling with missed invitations and misplaced wills. Shouldn't it have been blasted away, destroyed by the force of what lies beneath?",
                                      "LinkToEvent": {"Id": 180310},
                                      "Name": "地表では@{I}At the surface", "Id": 181373},
                     "Name": "上がる@{I}Ascend",
