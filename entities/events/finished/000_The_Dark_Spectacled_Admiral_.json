@@ -19,7 +19,7 @@
                                      "LinkToEvent": {"Id": 120801},
                                      "Name": "注意深い精査@{I}注意深い検査@{M}A careful inspection",
                                      "Id": 145171},
-                    "Name": "啓示による海図を提出する@{I}未発見の海図を渡す@{M}$Revelatory Chart -> 啓示による海図$Submit a Revelatory Chart",
+                    "Name": "解き明かす海図を提出する@{I}未発見の海図を渡す@{M}$Revelatory Chart -> 解き明かす海図$Submit a Revelatory Chart",
                     "Description": "　それが真実かどうか確かめてみよう。@{I}その海図が本物であるか調べよう。@{M}Let's find out if it's real.",
                     "ButtonText": "", "Id": 125251},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 141880},

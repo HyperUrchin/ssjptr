@@ -1,7 +1,7 @@
 (Crate of )?[Bb]rilliant [Hh]uman [Ss]ouls, 素晴らしい人間の魂
 (Crate of )?[Hh]umal [Ss]ouls, 人間の魂
 [Pp]ort [Rr]eport, 港湾報告書
-Revelatory Chart, 啓示による海図
+Revelatory Chart, 解き明かす海図
 Moves in the Great Game, グレート・ゲームの動向
 Strategic Information, 戦略的情報
 Vital Intelligence, 重要機密
