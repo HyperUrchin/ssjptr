@@ -291,7 +291,7 @@
                                      "Name": "報告書提出！@{I}報告書は提出された!@{M}Report submitted!",
                                      "Id": 182520},
                     "Name": "アダムの道@{I}アダムの道@{M}$Adam's Way -> アダムの道$Adam's Way",
-                    "Description": "「『旧大陸』。ふむ。何より旧いと言うんだろうね？馬鹿馬鹿しい解毒剤の山よりは旧いと、私ならそう答えるかな」@{I}「'旧き大陸'。ふむ。何より旧いと言うのでしょう?全くもってナンセンスの山盛りです。」@{M}$Elder Continent -> 旧大陸$\"'The Elder Continent'. Hmph. Elder than what? Pile of Mithridate nonsense, if you ask me.\"",
+                    "Description": "「『旧大陸』。ふむ。何より旧いと言うんだろうね？私に言わせれば、大昔の解毒剤のように馬鹿馬鹿しい話だ」@{I}「'旧き大陸'。ふむ。何より旧いと言うのでしょう?全くもってナンセンスの山盛りです。」@{M}$Elder Continent -> 旧大陸$\"'The Elder Continent'. Hmph. Elder than what? Pile of Mithridate nonsense, if you ask me.\"",
                     "ButtonText": "", "Id": 147662},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 144833},
                                      "Name": "報告書提出！@{I}報告書は提出された!@{M}Report submitted!",
@@ -408,6 +408,6 @@
                     "Name": "シェパード・アイルズ：事実として提出する@{I}羊飼いの群島: 事実をそのまま報告する@{M}$Shepherd Isles -> シェパード・アイルズ$Shepherd Isles: submit as fact",
                     "Description": "「あの場所についてはいくらか奇妙な話を聞いてるよ」@{I}「我々もその場所については若干妙な話を聞き及んでおります。」@{M}\"We do hear some peculiar tales of that place.\"",
                     "ButtonText": "", "Id": 129834}],
- "Description": "　海軍省の小哨艦隊と諜報網は、ずっと昔に失われてしまった。今では、調査室はzeeの船長に対して、最近の情報と引き換えに小額の報酬を支払っている。[訪れた港を調査することで港湾報告書が手に入ります。それらは、ここで売ることができます。初めて訪れた港の港湾報告書を提出するたびに、あなたは海軍省からの好意を得ます。]@{I}総督府の監視小隊と諜報機関は長らく失われている。調査局は、ジーの最新情報をもたらすジーキャプテンに対し、ささやかな報酬を支払っている。[港を訪れ、調査を行って港湾報告書を作成し、此処に持ち込みましょう。港湾報告書を提出すると、初回のみ総督府の恩義を受け取る事が出来ます。]@{M}$Admiralty -> 海軍省, [Pp]ort [Rr]eport -> 港湾報告書$The Admiralty's picket fleets and intelligence networks are long gone. The Survey Office pays zee-captains a small sum for recent information. [Visit and investigate ports to gain Port Reports, and trade them in here. The first time you trade in a Port Report, you'll gain Admiralty's Favour.]",
+ "Description": "　海軍省の小哨艦隊と諜報網はずっと昔に失われてしまった。今では、調査室はzeeの船長に対して、最近の情報と引き換えに小額の報酬を支払っている。[訪れた港を調査することで港湾報告書が手に入ります。それらは、ここで売ることができます。初めて訪れた港の港湾報告書を提出するたびに、あなたは海軍省からの好意を得ます。]@{I}総督府の監視小隊と諜報機関は長らく失われている。調査局は、ジーの最新情報をもたらすジーキャプテンに対し、ささやかな報酬を支払っている。[港を訪れ、調査を行って港湾報告書を作成し、此処に持ち込みましょう。港湾報告書を提出すると、初回のみ総督府の恩義を受け取る事が出来ます。]@{M}$Admiralty -> 海軍省, [Pp]ort [Rr]eport -> 港湾報告書$The Admiralty's picket fleets and intelligence networks are long gone. The Survey Office pays zee-captains a small sum for recent information. [Visit and investigate ports to gain Port Reports, and trade them in here. The first time you trade in a Port Report, you'll gain Admiralty's Favour.]",
  "Name": "海軍省情報調査室@{I}総督府調査局@{M}$Admiralty -> 海軍省$The Admiralty Survey Office",
  "Id": 144833}
