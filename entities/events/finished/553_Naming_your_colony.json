@@ -51,7 +51,7 @@
                     "Name": "「サンクチュアリ」@{K}\"Sanctuary.\"",
                     "Description": "もしかしたらはぐれ者たちを受け入れるつもりなのか。@{K}Perhaps you'll take in strays.",
                     "ButtonText": "", "Id": 148327},
-                   {"DefaultEvent": {"Description": "笑い声と歓声が同じだけの大きさで起こった。「帝国万歳！」一人の船員が叫ぶ。彼がそれを皮肉として言ったのかは分からなかった。本人にも分かっていないかもしれない。@{K}Laughter and cheers rise in equal measure. \"All hail the Emperor!\" one zailor shouts. It isn't clear - perhaps not even clear to him - whether he's being ironical.",
+                   {"DefaultEvent": {"Description": "笑い声と歓声が同じだけの大きさで起こった。「皇帝万歳！」一人の船員が叫ぶ。彼がそれを皮肉として言ったのかは分からなかった。本人にも分かっていないかもしれない。@{K}Laughter and cheers rise in equal measure. \"All hail the Emperor!\" one zailor shouts. It isn't clear - perhaps not even clear to him - whether he's being ironical.",
                                      "Name": "帝国としよう@{K}An Empire it is.", "Id": 184189},
                     "Name": "「樹々の帝国」@{K}\"The Empire of Trees\"",
                     "Description": "少しばかり大仰で、少しばかり馬鹿馬鹿しい名前だが、ここがどのような場所なのか示すにはもってこいだ。木の占める割合を分からせるだけでなく。@{K}It's a little grand, and a little ridiculous, but it shows vision. If not a sense of proportion.",
