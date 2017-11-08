@@ -1,6 +1,6 @@
-{"Name": "飢餓の市場@{K}Market of Hungers",
- "Description": "ストーリータブ内、飢餓の市場の選択肢を選ぶことでより多くの品物を見ることが出来ます。@{K}Use a MARKET OF HUNGERS choice under STORY to access more goods.",
+{"Name": "渇望の市場@{I}飢餓の市場@{K}Market of Hungers",
+ "Description": "ストーリータブ内で『渇望の市場』の選択肢を選ぶと、より多くの品物を見ることができます。@{K+I}ストーリータブ内、飢餓の市場の選択肢を選ぶことでより多くの品物を見ることが出来ます。@{K}Use a MARKET OF HUNGERS choice under STORY to access more goods.",
  "Shops": [{"Name": "腹の内の炎@{K}Fire in the Belly",
-            "Description": "市場は常に燃料を売ってくれます。ストーリーの『市場』を選ぶことでより多くの品物を見ることが出来ます。@{K}The Market always sells Fuel. Use a MARKET story choice for more goods.",
+            "Description": "渇望の市場では燃料はいつでも売られています。ストーリーの『市場』を選ぶと、より多くの品物を見ることができます。@{K+I}市場は常に燃料を売ってくれます。ストーリーの『市場』を選ぶことでより多くの品物を見ることが出来ます。@{K}The Market always sells Fuel. Use a MARKET story choice for more goods.",
             "Id": 41}],
  "Id": 17}
