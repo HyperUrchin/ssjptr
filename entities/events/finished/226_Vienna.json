@@ -49,7 +49,7 @@
                     "Name": "接触者の姿がない@{I}No sign of your contact",
                     "Description": "　落ち着きのない扇動者はどこだろう？@{I}Where is the Fidgeting Agitator?",
                     "ButtonText": "", "Id": 147491},
-                   {"DefaultEvent": {"Description": "「友たち、そして、尊敬する顧客たちへ――ここ何ヶ月も、私は革命と困窮という双子の影の中で生きてきた。それらを恐れるあまり、私の魂は、日ごとに鉛を仕込まれたように重くなっていった。私はもう、この恐怖には耐えられなかった。だから、私は自分のカフェに火を放った。迷惑を掛けてすまない。私は家で警察を待つこととする。さようなら」@{I}\"FRIENDS, RESPECTED CLIENTS - for months I have lived in the twin shadow of Revolution and Destitution. Each day, their terrors have weighted my soul with lead. The fear of it has been too much to bear. Consequently, I have set my Café afire. I regret the inconvenience. I will wait at home for the police. Farewell.\"",
+                   {"DefaultEvent": {"Description": "「友たち、そして、尊敬する顧客たちへ――ここ何ヶ月も、私は革命と困窮という双子の影の中で生きてきた。それらを恐れるあまり、私の魂は日ごとに鉛を仕込まれたように重くなっていたんだ。私はもう、あんな恐怖には耐えられなかった。だから、私は自分のカフェに火を放った。迷惑を掛けてすまない。私は家で警察を待つこととする。さようなら」@{I}\"FRIENDS, RESPECTED CLIENTS - for months I have lived in the twin shadow of Revolution and Destitution. Each day, their terrors have weighted my soul with lead. The fear of it has been too much to bear. Consequently, I have set my Café afire. I regret the inconvenience. I will wait at home for the police. Farewell.\"",
                                      "LinkToEvent": {"Id": 151453},
                                      "Name": "憂鬱な経営者からの告知@{I}A notice from the Melancholy Proprietor",
                                      "Id": 182269},
