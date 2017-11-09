@@ -109,7 +109,7 @@
                                          "Name": "鏡封じの箱！@{I}陽光鏡箱@{M}$[Mm]irrorcatch[- ][Bb]ox -> 鏡封じの箱$A Mirrorcatch Box!",
                                          "Id": 177168},
                     "Name": "夜から出た光@{I}暮夜から払暁に@{M}Day from night",
-                    "Description": "　黒い蝋で入念に封をされた、大きな柳網のバスケット。@{I}小枝で編まれ、黒蝋で丁寧に封印された大きな籠だ。@{M}A big wicker basket, scrupulously sealed with black wax.",
+                    "Description": "　黒い蝋で入念に封をされた、大きな柳編みのバスケット。@{I}小枝で編まれ、黒蝋で丁寧に封印された大きな籠だ。@{M}A big wicker basket, scrupulously sealed with black wax.",
                     "ButtonText": "", "Id": 131299}],
  "Description": "　中身は何だろう？@{I}中には何が?@{M}What's inside?",
  "Name": "物珍しい貯蔵品を開く@{I}好奇の箱を開ける@{M}$Cache of Curiosities -> 物珍しい貯蔵品$Opening a Cache of Curiosities",
