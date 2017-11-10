@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 153222},
                                      "Name": "頷き、頷き、肩をすくめる@{I}Nod, nod, shrug", "Id": 153216},
                     "Name": "海軍省のための戦略的情報@{I}$Admiralty -> 海軍省, Strategic Information -> 戦略的情報$Strategic Information for the Admiralty",
-                    "Description": "　語らざる亡命者に向けて、取り決め通りのサインを形作ろう。@{I}$Mute Exile -> 語らざる亡命者$Make the pass-sign to a Mute Exile.",
+                    "Description": "　語らざる亡命者に向けて取り決め通りのサインを形作ろう。@{I}$Mute Exile -> 語らざる亡命者$Make the pass-sign to a Mute Exile.",
                     "ButtonText": "", "Id": 130382},
                    {"DefaultEvent": {"Id": 153218},
                     "Name": "$Mute Exile -> 語らざる亡命者$Ask a question of the Mute Exiles",
