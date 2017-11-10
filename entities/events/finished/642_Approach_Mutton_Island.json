@@ -1,5 +1,5 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "　船は波止場に滑り込んだ。@{I}The ship slides into dock.",
-                                     "Name": "時は過ぎる@{I}The moment passes", "Id": 230515},
+{"ChildBranches": [{"DefaultEvent": {"Description": "　船は波止場に滑り込む。@{I}The ship slides into dock.",
+                                     "Name": "その一瞬は過ぎ去った@{I}The moment passes", "Id": 230515},
                     "Name": "波止場に近づく@{I}Approach the dock",
                     "Description": "　おそらく何でもないだろう。@{I}It's probably nothing. ",
                     "ButtonText": "", "Id": 177546}],
