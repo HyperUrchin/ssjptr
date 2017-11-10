@@ -18,7 +18,7 @@
                    {"DefaultEvent": {"Description": "　ブレミガンはそばにあった難破船の湿った影の中に消えていった。「きのこね」それを見ていた女が楽しそうに言った。「きのこなんて久しぶり」@{I+M}ブレミガンは座礁した船の湿気た物陰の中に消えていった。それを見た黒影の一人が、「マッシュルームね。」と快活な言葉を残した。「マッシュルームなんて久しぶり。」@{M}$[Bb]lemmigan -> ブレミガン$The blemmigan disappears into the moist shadows of a nearby wreck. A Shadow watches it go. \"Mushrooms,\" she says cheerfully. \"I've missed mushrooms.\"",
                                      "Name": "潜伏のこつ@{M}A knack for concealment", "Id": 181959},
                     "Name": "ブレミガンを陸に放つ@{I}ブレミガンを浜に揚げる@{M}$[Bb]lemmigan -> ブレミガン$Put a blemmigan ashore",
-                    "Description": "　今さら除け者ひとつ加わっても、ここの亡命者たちが眉をひそめるとは思えない。@{I}亡命者は今更一人(匹?)ぐらい逸れものが混ざった所で気にもしないだろう。@{M}The exiles are unlikely to be bothered by one more outcast.",
+                    "Description": "　今さら除け者ひとつ加わっても、ここの流れ者たちが眉をひそめるとは思えない。@{I}亡命者は今更一人(匹?)ぐらい逸れものが混ざった所で気にもしないだろう。@{M}The exiles are unlikely to be bothered by one more outcast.",
                     "ButtonText": "", "Id": 147282},
                    {"DefaultEvent": {"Description": "　共謀。放蕩。長ったらしい演説。酒を飲み、歌い、詩を詠んではまた演説。時折酔っぱらいの喧嘩。極稀に、野蛮で儀式的な殺人。@{I+M}共謀し、堕落し、長話をし、酒を飲み、歌い、喋り、詩を書く。時々酔っぱらいの決闘が発生する。非常に稀に、野蛮で儀式的な殺人も起こる。@{M}Conniving, debauching, speechifying, drinking, singing, speeching, poeting. Now and then a drunken duel. Very occasionally, a savage ritual murder.",
                                      "Name": "びっしりと書かれた報告書@{M}Closely-written notes", "Id": 182503},

@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 166936},
                                      "Name": "生糸による封鎖@{I}A blockade of silk", "Id": 168374},
                     "Name": "石の巣を訪れる@{I}Visit the Web of Stone",
-                    "Description": "　道なら知っている。もしかしたら悲哀蜘蛛たちには、信頼のおける船乗りに任せられる更なる仕事があるかもしれない。@{I}$[Ss]orrow-spider -> 悲哀蜘蛛$You know the way. Perhaps the sorrow-spiders have further tasks for a trustworthy zailor.",
+                    "Description": "　道なら知っている。もしかしたら悲哀蜘蛛たちは、信頼のおける船乗りには更なる仕事を任せてくれるかもしれない。@{I}$[Ss]orrow-spider -> 悲哀蜘蛛$You know the way. Perhaps the sorrow-spiders have further tasks for a trustworthy zailor.",
                     "ButtonText": "", "Id": 138951},
                    {"SuccessEvent": {"Description": "　たくさんの洞窟や割れ目を探索し、あなたは木箱一箱分の生糸を集めた。だがとうとう、空気には騒々しい敵意が満ち始め、看過してやるのはここまでだという意志がはっきりと伝わってきた。@{I}$[Ss]orrow-spider -> 悲哀蜘蛛$Venturing into many caves and crannies, you gather enough silk to fill a crate. The audible hostility in the air by the end though makes it clear the sorrow-spiders will only overlook so much of this.",
                                      "LinkToEvent": {"Id": 166936},
@@ -45,7 +45,7 @@
                                          "LinkToEvent": {"Id": 166936},
                                          "Name": "織手の一団@{I}A party of Weavers", "Id": 167211},
                     "Name": "ろうそくなしで探索する危険を冒す@{I}Risk exploring without candles",
-                    "Description": "　この荒野にあっては、ただNeathの天蓋の偽星だけが、悲哀蜘蛛たちの棲家である巣と廃墟を照らしている。それでも、あなたは何かに出くわすことはあるかもしれない。少なくとも、何かの中に突っ込むことは確かだ。@{I}$[Ff]alse[- ][Ss]tar -> 偽星, [Ss]orrow-spider -> 悲哀蜘蛛$In this wasteland, only the false-stars in the roof of the Neath illuminate the webs and ruins the sorrow-spiders call home. You may still stumble upon something though. Or indeed, into something.",
+                    "Description": "　この荒野にあっては、悲哀蜘蛛たちの棲家である巣と廃墟を照らし出すのはNeathの天蓋の偽星だけだ。それでも、あなたは何かに出くわすことはあるかもしれない。少なくとも、何かの中に突っ込むことは確かだ。@{I}$[Ff]alse[- ][Ss]tar -> 偽星, [Ss]orrow-spider -> 悲哀蜘蛛$In this wasteland, only the false-stars in the roof of the Neath illuminate the webs and ruins the sorrow-spiders call home. You may still stumble upon something though. Or indeed, into something.",
                     "ButtonText": "", "Id": 138181}],
  "Description": "　複雑な蜘蛛の巣の広がる闇の中で、影が絶え間なく蠢く。そよ風に吹き散らされた流れ糸が、あなたの逆立つ産毛をくすぐる。千もの見えざる眼は、万もの存在を約束している。@{I}Intricate webs stretch into a darkness where the shadows are never entirely still. Gossamer threads stolen by the breeze tickle the goosebumps on your skin. A thousand unseen eyes promise a million more.",
  "Name": "さざめき荒地@{I}The Scuttering Reaches", "Id": 166936}
