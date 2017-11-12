@@ -7,5 +7,5 @@
                    {"DefaultEvent": {"Id": 237531}, "Name": "Ignore his hint",
                     "Description": "His incessant questions are irritating. You don't want him aboard.",
                     "ButtonText": "", "Id": 182180}],
- "Description": "$Khan -> カーン$The Impolite Investigator shakes your hand with extreme vigour. \"Good day, [q:Addressed As]! When do we leave port? Can your ship outrun the Khan's best? Not that you'll have to, but it'd be comforting to know that you could.\"",
+ "Description": "$Khan -> カーン, q:Addressed As -> q:呼称$The Impolite Investigator shakes your hand with extreme vigour. \"Good day, [q:Addressed As]! When do we leave port? Can your ship outrun the Khan's best? Not that you'll have to, but it'd be comforting to know that you could.\"",
  "Name": "Well Intended Questions", "Id": 153735}

@@ -51,7 +51,7 @@
                    {"DefaultEvent": {"Description": "「この中からは、無垢な記憶の匂いがするようだ。いや違う。これは、絶望か。何しろどちらも似たような匂いをしているものでね」@{I}「ああ、これは純真な記憶の匂いが中に入っておるのですかな。否、これは絶望ですか。どちらも似たような香りなのですよ。」@{M}\"I think I smell a memory of innocence in this one. No. It's despair. They have a similar bouquet, you know.\"",
                                      "Name": "「ああ、芳しい」@{I}\"ああ、美味しい。\"@{M}\"Ahh, delicious.\"",
                                      "Id": 169650},
-                    "Name": "真鍮の大使館に紅い蜜の入った積荷を売る@{I}赤蜂蜜の荷物を黄銅の大使館に売る@{M}$Brass Embassy -> 真鍮の大使館$Sell a shipment of red honey to the Brass Embassy",
+                    "Name": "真鍮の大使館に紅い蜜の入った積荷を売る@{I}赤蜂蜜の荷物を黄銅の大使館に売る@{M}$Brass Embassy -> 真鍮の大使館, [Rr]ed [Hh]oney -> 紅い蜜$Sell a shipment of red honey to the Brass Embassy",
                     "Description": "　ともすると、これは悪魔を魂から引き離すことになるだろうか？やってみる価値はある。彼らの支払う対価のために。@{I}これが彼らに魂を捨てさせるかもしれない?試して見る価値はある。少なくとも彼らの支払いは悪く無い。@{M}Maybe it'll wean them off souls? Worth a try, for the price they're paying.",
                     "ButtonText": "", "Id": 139737}],
  "Description": "　ここは地獄のロンドンへの足掛かり。暖かく、輝かしく、堂々たる場所。窓のすべてが光に煌々と輝いている。(苦痛の別館から絶叫が上がり、そして不意に途切れた。)@{I}ここは、ロンドンに置ける地獄の足がかりとなる場所だ。温かく、明るく、そして洗練されている。全ての窓からは光が漏れ出ていた。(時々、地下にある拷問処刑の別館から、苦痛と絶望に歪んだ絶叫が聞こえては消えている。)@{M}$Excruciation Annex -> 苦痛の別館$This is Hell's foothold in London. It's warm, bright and handsome. Every window blazes with light. (There is a screech, abruptly cut off, from the Excruciation Annex.)",

@@ -31,5 +31,5 @@
                     "Name": "突然の懸念@{I}突然の懸念@{M}A sudden apprehension",
                     "Description": "　あなたの左側にいる船員を見るや、彼は振り返り、暗闇の中へと駆け出していった。追いかけよう！@{I}彼が貴方のすぐ側に別の船乗りを見るや、彼は踵を返して暗闇に逃げ出した。彼を追え!@{M}When he sees the zailor on your left, he turns and bolts into the darkness. After him!",
                     "ButtonText": "", "Id": 127805}],
- "Description": "「[q:Addressed As]！わしゃあ良い船乗りだぞ！わしを雇ってくれるなら、あんたの下で働こう。雇ってくれるかね？わしは腹が空いとるんだ。きりきり働くからよ」彼は十分に働けそうに見える。ややみすぼらしく、悲しみに暮れているようではあるが。@{I}「やぁキャプテン!俺は良いジーマンだぜ!俺を拾ってくれたら、俺はあんたの物だ!拾ってくれるだろう?俺は腹が減ってるんだ。良い仕事するぜ。」彼の言葉に偽りは無さそうだ。少々ボロを纏って悲観的だが。@{M}\"[q:Addressed As]! I'm a good zeeman! I'm yours if you'll have me! Will you have me? I'm hungry. I'll work hard.\" He seems likely enough, if a little ragged and sorrowful.",
+ "Description": "「[q:呼称]！わしゃあ良い船乗りだぞ！わしを雇ってくれるなら、あんたの下で働こう。雇ってくれるかね？わしは腹が空いとるんだ。きりきり働くからよ」彼は十分に働けそうに見える。ややみすぼらしく、悲しみに暮れているようではあるが。@{I}「やぁキャプテン!俺は良いジーマンだぜ!俺を拾ってくれたら、俺はあんたの物だ!拾ってくれるだろう?俺は腹が減ってるんだ。良い仕事するぜ。」彼の言葉に偽りは無さそうだ。少々ボロを纏って悲観的だが。@{M}$q:Addressed As -> q:呼称$\"[q:Addressed As]! I'm a good zeeman! I'm yours if you'll have me! Will you have me? I'm hungry. I'll work hard.\" He seems likely enough, if a little ragged and sorrowful.",
  "Name": "ボロを纏った同胞@{M}A Raggedy Fellow", "Id": 141247}

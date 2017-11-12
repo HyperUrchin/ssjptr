@@ -7,7 +7,7 @@
                    {"DefaultEvent": {"Description": "彼に見せていた蜂蜜の瓶の代わりにヴァイオラントのインク壜を持って帰ってしまったのか？なんてうっかりだ！少なくとも後日礼儀正しい謝罪の文章をしたためようと思ったとして、あなたの手元には相応しいインクがある。@{K}$[Vv]iolant -> ヴァイオラント$Did you pick up the Pot of Violant Ink instead of the honey you were showing to him? How clumsy! At least you have the perfect substance should you feel the urge to write a polite apology note at some later date.",
                                      "LinkToEvent": {"Id": 178092},
                                      "Name": "故意の事故@{K}A deliberate accident", "Id": 178094},
-                    "Name": "紅い蜜を贈る@{K}A gift of red honey",
+                    "Name": "紅い蜜を贈る@{K}$[Rr]ed [Hh]oney -> 紅い蜜$A gift of red honey",
                     "Description": "これを手に入れるのはとても難しい、と貴重なヴァイオラント色のインクの入った壜を弄びながら官吏が考え込むように言う。残念なことだ。優美な家令は使い道を知っているという話なのに。@{K}$[Vv]iolant -> ヴァイオラント$It is so hard to come by, muses the mandarin idly fondling a pot of rare Violant Ink. A pity. The Exquisite Seneschal is known to have uses for it.",
                     "ButtonText": "", "Id": 144911},
                    {"DefaultEvent": {"Description": "審判の卵はある種の魂だ。しかしペンテコステ猿でさえこれを吸収しようとはしない。奇妙にもあなたが彼女に噴石を、そして彼女があなたに卵を見せた時、彼女はあなたには聞こえない声によって別室に呼び出された。実に奇妙だ。卵を取っておくべきだろう。もちろん、安全に保管するために。@{K}$Pentecost -> ペンテコステ$A Judgements' Egg is a soul of a sort, though not one even the Pentecost apes would try to absorb. Strangely, as you show the mandarin your cinder and she shows you her egg, she is called away by an unheard voice. How strange. You had better hold onto this. For safe-keeping, of course.",

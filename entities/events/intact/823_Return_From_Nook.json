@@ -3,7 +3,7 @@
                     "Name": "Return to the crew",
                     "Description": "Air again. How refreshing.", "ButtonText": "",
                     "Id": 191498},
-                   {"DefaultEvent": {"Description": "$[Ff]luke -> フルーク$Your buttons are an irritation. You abandon the last three. Your collar itches intolerably. You tug it loose. You are perhaps not regulation-straight as you proceed to your quarters. \"Everything all right, [q:Addressed As]?\" a crewman asks, warily. [The more time you spend in Nook, the more it will change you and unnerve your crew. Sacrifice Memories to the Flukes of Aigul to counter its effects.]",
+                   {"DefaultEvent": {"Description": "$q:Addressed As -> q:呼称, [Ff]luke -> フルーク$Your buttons are an irritation. You abandon the last three. Your collar itches intolerably. You tug it loose. You are perhaps not regulation-straight as you proceed to your quarters. \"Everything all right, [q:Addressed As]?\" a crewman asks, warily. [The more time you spend in Nook, the more it will change you and unnerve your crew. Sacrifice Memories to the Flukes of Aigul to counter its effects.]",
                                      "Name": "The crew murmurs as you pass", "Id": 255846},
                     "Name": "Return to the crew",
                     "Description": "The air is uncomfortable in your throat. Cold. Thin.",

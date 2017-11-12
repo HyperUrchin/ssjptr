@@ -69,3 +69,8 @@ Mirrors, ミラー
 [Aa]nimescence, 魂遷
 Correspondence, コーレスポンデンス
 Red[- ]Science, 赤き科学
+q:Addressed As, q:呼称
+Memoirs:, 記憶:
+Your Father's Bones:, 父の遺骨:
+Menaces:, 危機:
+Objective:, 目的:

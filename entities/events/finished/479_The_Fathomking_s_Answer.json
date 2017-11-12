@@ -40,7 +40,7 @@
                                      "LinkToEvent": {"Id": 176515},
                                      "Name": "「なんと魅惑的な！」@{K}\"Intriguing!\"", "Id": 176712},
                     "Name": "メメント・モリを献上する@{K}$Memento Mori -> メメント・モリ, Fathomking -> ファザムキング$Present the Fathomking with your Memento Mori",
-                    "Description": "「陛下、これこそは工学の、そして生贄と赤き科学の奇跡の結晶である、メメント・モリでございます」@{K}$Memento Mori -> メメント・モリ$\"Your Complexity: here is a miracle of engineering, of sacrifice, and of the Red Science. I present the Memento Mori.\"",
+                    "Description": "「陛下、これこそは工学の、そして生贄と赤き科学の奇跡の結晶である、メメント・モリでございます」@{K}$Red[- ]Science -> 赤き科学, Memento Mori -> メメント・モリ$\"Your Complexity: here is a miracle of engineering, of sacrifice, and of the Red Science. I present the Memento Mori.\"",
                     "ButtonText": "", "Id": 144108},
                    {"DefaultEvent": {"Description": "生き残りは別れの言葉も無くあなたの側を離れた。感傷を言い表す言葉を持たないのだから当然だ。それはその膨らんだ額に腕を伸ばす王に敬意を込めて頷いた。\u000d\u000a\u000d\u000a「お前はこれより我が酌取りとして仕えよ」王がそれに告げる。「そして我が花嫁よりシェイプリングの技術を学ぶこととなろう。お前をここに連れてきた者に対しては真珠と知識、そして多くの関心を惹く噂によって報いよう。そして、いつの日かさらなる褒美が与えられることもあるかもしれぬ……」@{K}$[Ss]hapeling -> シェイプリング$The Survivor leaves your side without a word. So much for sentiment. It nods respectfully to the King, who extends a limb to touch its bulging forehead.\u000d\u000a\u000d\u000a\"You will be my cup-bearer,\" the King announces. \"You will learn the shapeling arts from my Bride. I will reward the one who brought you here, with gifts of pearl and knowledge, and with the Word that compels attention. And one day, perhaps, more...\"",
                                      "LinkToEvent": {"Id": 176515},

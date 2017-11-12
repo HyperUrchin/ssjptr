@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 143316},
                                      "Name": "船へようこそ!@{M}Welcome aboard!", "Id": 177784},
                     "Name": "幹部として勧誘する: 長老会の女冒険家@{M}$[Oo]fficer -> オフィサー, Presbyter -> 長老, Presbyterate -> 長命衆$Engage an Officer: the Presbyterate Adventuress",
-                    "Description": "「ご機嫌よう、[q:Addressed As]。砲撃手をお探しかい?怪物を吹き飛ばす手伝いなら出来るよ。あたしを雇ってくれんならね。」[女冒険家はアイアンとヴェールを上昇させる砲撃手の幹部です。]@{M}$[Oo]fficer -> オフィサー, Iron -> アイアン, Veils -> ヴェール$\"Afternoon, [q:Addressed As]. Looking for a gunnery officer? I'd like to help you blow up monsters, if you'll have me.\" [The Adventuress is a Gunnery Officer who increases Iron and Veils.]",
+                    "Description": "「ご機嫌よう、[q:呼称]。砲撃手をお探しかい?怪物を吹き飛ばす手伝いなら出来るよ。あたしを雇ってくれんならね。」[女冒険家はアイアンとヴェールを上昇させる砲撃手の幹部です。]@{M}$[Oo]fficer -> オフィサー, Iron -> アイアン, Veils -> ヴェール, q:Addressed As -> q:呼称$\"Afternoon, [q:Addressed As]. Looking for a gunnery officer? I'd like to help you blow up monsters, if you'll have me.\" [The Adventuress is a Gunnery Officer who increases Iron and Veils.]",
                     "ButtonText": "", "Id": 144718},
                    {"DefaultEvent": {"Description": "貴方は忙しない茶色通りの雑踏と喧騒の中に戻って行く。@{M}You return to the babble and press of the busy brown streets.",
                                      "LinkToEvent": {"Id": 143316}, "Name": "離れろ@{M}Away",

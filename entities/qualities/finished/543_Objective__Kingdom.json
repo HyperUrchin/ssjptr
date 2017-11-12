@@ -1,4 +1,5 @@
 {"Description": "あなたは隠された大望を発見した！エスティヴァルを開拓し環境を整え、あなた自身の王国を作り上げよう。@{K}貴方は秘めたる野望を見つけ出した！エスティバルを植民地化して改善し、貴方自身の王国を設立するのだ。@{M}$Ambition -> 大望, Aestival -> エスティヴァル$You've found a hidden Ambition! Colonise and improve Aestival to found your own kingdom.",
  "LevelDescriptionText": "1|コロニーを作るためには、陽光から身を守ることの出来る物をエスティバルに持って行かねばならない。~2|コロニーの人口を77に、そして地所を100まであげ、総督をきちんと任命すること。@{K}1|植民地を創設するには、陽光から土地を保護する物をエスティバルに運べ。~2|貴方の植民地の人口を77まで、土地を100まで上げ、太守を任命した事を確認せよ。@{M}$Aestival -> エスティヴァル$1|To found a colony, bring something to Aestival that can protect against sunlight.~2|Increase your colony's Population to 77 and Estate to 100, and ensure you have assigned a Viceroy.",
  "ChangeDescriptionText": "1|コロニーを作るためには、陽光から身を守ることの出来る物をエスティバルに持って行かねばならない。~2|コロニーの人口を77に、そして地所を100まであげ、総督をきちんと任命すること。@{K}1|植民地を創設するには、陽光から土地を保護する物をエスティバルに運べ。~2|貴方の植民地の人口を77まで、土地を100まで上げ、太守を任命した事を確認せよ。@{M}$Aestival -> エスティヴァル$1|To found a colony, bring something to Aestival that can protect against sunlight.~2|Increase your colony's Population to 77 and Estate to 100, and ensure you have assigned a Viceroy.",
- "Name": "目標: 王国@{K}目的: 王国@{M}Objective: Kingdom", "Id": 115979}
+ "Name": "目標: 王国@{K}目的: 王国@{M}$Objective: -> 目的:$Objective: Kingdom",
+ "Id": 115979}

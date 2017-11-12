@@ -77,5 +77,5 @@
                     "Name": "難易度テスト@{M}Difficulty test",
                     "Description": "裕福度チェック@{M}Rich Quality tests", "ButtonText": "",
                     "Id": 113340}],
- "Description": "[q:Addressed As]、この選択肢は開発キャラクターの為に用意されたものです。もしゲームをプレイしている場合、この選択肢を進めるとゲームが崩壊する恐れがあります。@{M}[q:Addressed As], this storylet should be available to dev characters at all times. If you're playing the game, clicking this stuff may mess you up bad.",
+ "Description": "[q:呼称]、この選択肢は開発キャラクターの為に用意されたものです。もしゲームをプレイしている場合、この選択肢を進めるとゲームが崩壊する恐れがあります。@{M}$q:Addressed As -> q:呼称$[q:Addressed As], this storylet should be available to dev characters at all times. If you're playing the game, clicking this stuff may mess you up bad.",
  "Name": "ツールキット@{M}Toolkit", "Id": 124489}

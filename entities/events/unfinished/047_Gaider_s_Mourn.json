@@ -102,7 +102,7 @@
                                      "LinkToEvent": {"Id": 255575},
                                      "Name": "晩鐘までに@{K}By the evening bell", "Id": 259019},
                     "Name": "威厳ある旅行作家を降ろす@{K}Drop off the August Travel-Writer",
-                    "Description": "「報酬をどうぞ、 [q:Addressed As]。晩鐘が鳴るまでには戻る。それから次の目的地について話し合おう」@{K}\"Here is your payment, [q:Addressed As]. I'll be back by the evening bell. We'll discuss my next destination then.\"",
+                    "Description": "「報酬をどうぞ、 [q:呼称]。晩鐘が鳴るまでには戻る。それから次の目的地について話し合おう」@{K}$q:Addressed As -> q:呼称$\"Here is your payment, [q:Addressed As]. I'll be back by the evening bell. We'll discuss my next destination then.\"",
                     "ButtonText": "", "Id": 193173},
                    {"SuccessEvent": {"Description": "船員たちは笠貝亭の客に猥雑な船乗りの歌を大量に教えていた。一度、歌の中のとりわけ込み入った部分に自身の名前が挿入されていたのが確かに聞こえたが、あなたは如才なく沈黙を守った。@{K}Your crew teaches the Limpet a whole cycle of epically filthy sea shanties. At one point you could swear you hear your name inserted in one of the more complex verses, but you maintain a diplomatic silence.",
                                      "LinkToEvent": {"Id": 143340},

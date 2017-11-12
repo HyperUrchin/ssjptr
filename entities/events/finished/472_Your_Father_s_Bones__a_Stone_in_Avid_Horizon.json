@@ -14,5 +14,5 @@
                     "Description": "　あなたは父親のファーストネームを見つけた。『エリアス』。ここにある名前の中では、彼が唯一のエリアスだった。しかし、名前の残りは、たがねの綺麗な一撃によって砕かれて失くなっていた。残っているものは、傷つけられた白い石でしかなかった。@{I}Your father's first name - \"ELIAS\". He's the only Elias here. But the rest of the name has been smashed away, with one clean blow of a chisel. The rest is only pale scarred rock.",
                     "ButtonText": "", "Id": 145314}],
  "Description": "　裏切り者に人殺し。エコー紙幣の偽造者。そして、もっと酷い罪を犯した者たち。彼らは皆、ここの桟橋の柱に自らの名前を記していた。彼らが良心の呵責に苦しんだことを人々に知らしめ、女王の慈悲にすがるために。あなたの父の名前はどこだろう？そして、彼の罪とは？@{I}Traitors, murderers, counterfeiters of Echoes, and worse - all have inscribed their names here on the pier of the dock, to memorialise their remorse and plead the Empress' mercy. Where is your father's name? What was his crime?",
- "Name": "父の遺骨: アビット・ホライズンの石@{I}$Avid Horizon -> アビッド・ホライズン, Your Father's Bones: -> 父の遺骨:$Your Father's Bones: a Stone in Avid Horizon",
+ "Name": "父の遺骨: アビット・ホライズンの石@{I}$Your Father's Bones: -> 父の遺骨:, Avid Horizon -> アビッド・ホライズン$Your Father's Bones: a Stone in Avid Horizon",
  "Id": 176413}

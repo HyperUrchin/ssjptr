@@ -25,5 +25,5 @@
                     "Name": "ぞっとしない知らせ@{M}Appalling news",
                     "Description": "貴方の家族に何かが起こったようです。@{M}Something has happened to your family.",
                     "ButtonText": "", "Id": 146488}],
- "Description": "死の特使が、貴方の船の接舷と同時に波止場まで急行してきた。「失礼します、[q:Addressed As]。」 彼女が敬礼する。 -「貴方へこちらを手渡しする様にと依頼を受けました。」@{M}A Grave Courier paces the quayside as your ship ties up. \"[q:Addressed As],\" she hails you - \"I was commissioned to give this into your hand.\"",
+ "Description": "死の特使が、貴方の船の接舷と同時に波止場まで急行してきた。「失礼します、[q:呼称]。」 彼女が敬礼する。 -「貴方へこちらを手渡しする様にと依頼を受けました。」@{M}$q:Addressed As -> q:呼称$A Grave Courier paces the quayside as your ship ties up. \"[q:Addressed As],\" she hails you - \"I was commissioned to give this into your hand.\"",
  "Name": "暗いニュース@{M}Dark News", "Id": 151470}

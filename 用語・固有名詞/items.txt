@@ -58,17 +58,14 @@ Royal-Blue Feather, ロイヤルブルーの羽根
 Rusty Locket, 錆びついたロケット
 Mechanic's Secret, メカニックの秘密
 Mirror-Charm, 鏡の護符
-Memoirs:, 記憶:
 Cache of Curiosities, 物珍しい貯蔵品
 Unprepossessing Mass, 気の進まない肉塊
-Your Father's Bones:, 父の遺骨:
 Darkdrop Coffee Beans, ダークドロップのコーヒー豆
 Darkdrop Coffee, ダークドロップ・コーヒー
 (Bolts of )?[Ss]pider[- ][Ss]ilk, スパイダー・シルク
 (Bale of )?[Pp]arabola[- ][Ll]inen, パラボラ・リネン
 (Cask of )?[Mm]ushroom[- ][Ww]ine, マッシュルーム・ワイン
 [Dd]evilbone[- ][Dd]ic?e, 悪魔骨の賽
-Menaces:, 危機:
 Nightmare's Strength, 悪夢の力
 Strange Catch, 奇妙な漁獲物
 Mirrorcatch Box Full of Very Angry Dream Snakes, 激怒した夢界の蛇で満たされた鏡封じの箱
@@ -78,6 +75,7 @@ Sunlight[- ]Filled Mirrorcatch Box, 太陽光で満たされた鏡封じの箱
 [Ll]amentable[- ][Rr]elic, 嘆かわしい遺物
 [Rr]omantic[- ][Ll]iterature, 恋愛小説
 (Firkin of)?[Pp]risoner's[- ][Hh]oney, 囚人の蜜
+[Rr]ed [Hh]oney, 紅い蜜
 Unread Log, 未だ読まれていない航海日誌
 [Hh]eartmetal, ハートメタル
 Doomed Monster Hunter, 死の運命にあるモンスターハンター

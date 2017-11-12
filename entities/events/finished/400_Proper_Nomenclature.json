@@ -10,6 +10,6 @@
                     "Name": "彼女を脅す@{I}Threaten her",
                     "Description": "　あなたには船員たちがついている。それに彼女は尼僧の一種ではないか？おそらく彼女は暴力が大嫌いだろう。おそらく。@{I}You have your crew with you, and she's some kind of nun, isn't she? She probably abhors violence. Probably.",
                     "ButtonText": "", "Id": 139653}],
- "Description": "　船着場でザイラがあなたのことを待っていた。彼女の黄金色のヴェールは、硫黄の匂いの交じるそよ風にはためいていた。<br/><br/>「私は檻の婦人と呼ばれるよりも、庭園の婦人と呼ばれる方がずっと好みなのよ。でもね。実際には私はいつだってその両方なのだわ」彼女は口を上向けた。「あなた、私の大切な紅い蜜をどうしてしまったの？」@{I}$Lady of the Cages -> 檻の婦人, Zaira -> ザイラ$Zaira is waiting for you on the docks, gold-mesh veil fluttering in the brimstone-scented breeze. \u000d\u000a\u000d\u000a\"I much prefer being the Lady of the Gardens than the Lady of the Cages. But. The truth is I am always both.\" Her mouth ticks up. \"What have you done with my lovely red honey?\"",
+ "Description": "　船着場でザイラがあなたのことを待っていた。彼女の黄金色のヴェールは、硫黄の匂いの交じるそよ風にはためいていた。<br/><br/>「私は檻の婦人と呼ばれるよりも、庭園の婦人と呼ばれる方がずっと好みなのよ。でもね。実際には私はいつだってその両方なのだわ」彼女は口を上向けた。「あなた、私の大切な紅い蜜をどうしてしまったの？」@{I}$[Rr]ed [Hh]oney -> 紅い蜜, Lady of the Cages -> 檻の婦人, Zaira -> ザイラ$Zaira is waiting for you on the docks, gold-mesh veil fluttering in the brimstone-scented breeze. \u000d\u000a\u000d\u000a\"I much prefer being the Lady of the Gardens than the Lady of the Cages. But. The truth is I am always both.\" Her mouth ticks up. \"What have you done with my lovely red honey?\"",
  "Name": "適切な用語@{I}$[Nn]om[ae]n -> ノーマン$Proper Nomenclature",
  "Id": 169512}

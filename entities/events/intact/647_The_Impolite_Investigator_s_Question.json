@@ -18,5 +18,5 @@
                     "Name": "Threaten to keelhaul him",
                     "Description": "Does he want to play the voyeur? If so, you can arrange for him to be jettisoned from the zubmarine and dragged along. Maybe he can peek through a porthole and find an answer himself. ",
                     "ButtonText": "", "Id": 187085}],
- "Description": "The Impolite Investigator approaches you, smiling.  \"Now we're safely submerged, I have a question, [q:Addressed As]. I've discovered that several crew members are attracted to you. Would you become intimate with any? If so, who? How would you engage? And why haven't you indulged yet?\"",
+ "Description": "$q:Addressed As -> q:呼称$The Impolite Investigator approaches you, smiling.  \"Now we're safely submerged, I have a question, [q:Addressed As]. I've discovered that several crew members are attracted to you. Would you become intimate with any? If so, who? How would you engage? And why haven't you indulged yet?\"",
  "Name": "The Impolite Investigator's Question", "Id": 230556}

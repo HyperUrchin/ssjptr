@@ -41,7 +41,7 @@
                                      "LinkToEvent": {"Id": 259076},
                                      "Name": "晩鐘までに@{K}By evening bell", "Id": 259020},
                     "Name": "威厳ある旅行作家を降ろす@{K}Drop off the August Travel-Writer",
-                    "Description": "「以前と同じように、[q:Addressed As]。これが私を此処まで連れてきた報酬だ。日が暮れるまでには戻る。それから話し合うとしよう」@{K}\"As before, [q:Addressed As]. Here is the payment for bringing me here. I'll be back by nightfall. We'll speak more then.\"",
+                    "Description": "「以前と同じように、[q:呼称]。これが私を此処まで連れてきた報酬だ。日が暮れるまでには戻る。それから話し合うとしよう」@{K}$q:Addressed As -> q:呼称$\"As before, [q:Addressed As]. Here is the payment for bringing me here. I'll be back by nightfall. We'll speak more then.\"",
                     "ButtonText": "", "Id": 193174},
                    {"DefaultEvent": {"Description": "晩餐の鐘が港に響き渡る時刻、あなたは半合法の宿場として使われている長期係留船の一つに梯子を運び込んだ。そして放蕩者の言によればフランスの外交官のものであるらしい船室の舷窓に梯子を立てかける。彼は身軽に上へと登っていき、残されたあなたは梯子を再び持ち去った。\u000d\u000a\u000d\u000a放蕩者は三十分が過ぎたころあなたの船の上に戻ってきた。紅玉のカフスボタンを擦りながら彼は言う。「私は永劫の顔がインクで紙に刷られているのを見ました。酷い顔でしたよ」@{K}As dinner bells sound throughout the port, you carry a ladder to one of the long-moored, half-legal ship hostels. You prop the ladder to the porthole of what the Gallivant assures you is the cabin of a French diplomat. He ascends swiftly, leaving you to carry the ladder away.\u000d\u000a\u000d\u000aHalf an hour later, the Gallivant is back on your deck. He polishes his ruby cuffs. \"I have seen the face of eternity printed in ink. It was a terrible face.\"",
                                      "LinkToEvent": {"Id": 153742},

@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "\"We're done gathering flavours, [q:Addressed As],\" he shouts as you ascend. \"We'll make do with what we have. Let's finish it.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$q:Addressed As -> q:呼称$\"We're done gathering flavours, [q:Addressed As],\" he shouts as you ascend. \"We'll make do with what we have. Let's finish it.\"",
                                      "LinkToEvent": {"Id": 234639}, "Name": "", "Id": 235346},
                     "Name": "\"Come up!\"",
                     "Description": "What's the Tobacconist shouting about now?",

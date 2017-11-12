@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "The Dogged Apprentice uses the wall to help himself stand. \"I understand. That was too much to hope, [q:Addressed As]. I'm just grateful to be getting out of here. Do you think you could arrange assistance with this?\" he asks, gently kicking his crate. It vibrates again. He smiles nervously. \"I promise, there's no risk that he'll escape.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "$q:Addressed As -> q:呼称$The Dogged Apprentice uses the wall to help himself stand. \"I understand. That was too much to hope, [q:Addressed As]. I'm just grateful to be getting out of here. Do you think you could arrange assistance with this?\" he asks, gently kicking his crate. It vibrates again. He smiles nervously. \"I promise, there's no risk that he'll escape.\"",
                                      "Name": "Glad to be going home", "Id": 152442},
                     "Name": "You'll help him get to Rosegate, but that's it",
                     "Description": "He can come on board, but your supplies are reserved for your crew.",

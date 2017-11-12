@@ -27,7 +27,7 @@
                     "RareDefaultEvent": {"Description": "緑の塔のひんやりとした空間で情報提供者はあなたに懇願した。ほんの一口だけでいい、と。あなたはそれを遥かに上回る量を与え、その者の感謝は留まるところを知らなかった。@{K}In the chilly spaces of the Garden Tower, your contact pleads for a taste. Just for a taste. You give them much more, and their gratitude is boundless.",
                                          "Name": "切望@{K}Desperation", "Id": 173799},
                     "Name": "依存者がいるようだ@{K}Someone has a habit",
-                    "Description": "紅い蜜、あるいは看守の蜜とも呼ばれる。極悪人たちによって最上級の機密の内に作られているという。そして、あぁ、極上の味わいをもつ。[これはあなたの諜報網を7まで劇的に上昇させます。]@{K}They call it red honey, or gaoler's honey. It is made in utmost secret, by very bad people. It's, ah, quite wonderful on the tongue. [This will increase your Network substantially, although not past 7.]",
+                    "Description": "紅い蜜、あるいは看守の蜜とも呼ばれる。極悪人たちによって最上級の機密の内に作られているという。そして、あぁ、極上の味わいをもつ。[これはあなたの諜報網を7まで劇的に上昇させます。]@{K}$[Rr]ed [Hh]oney -> 紅い蜜$They call it red honey, or gaoler's honey. It is made in utmost secret, by very bad people. It's, ah, quite wonderful on the tongue. [This will increase your Network substantially, although not past 7.]",
                     "ButtonText": "", "Id": 128907},
                    {"DefaultEvent": {"Description": "スパイの望みは気まぐれで、多種多様だ。@{K}Spies' desires are capricious and diverse.",
                                      "LinkToEvent": {"Id": 143346},

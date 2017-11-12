@@ -1,3 +1,3 @@
 {"Description": "人はあなたを何と呼ぶ？@{I}人は貴方をどう呼ぶ？@{M}How do they speak to you?",
  "LevelDescriptionText": "1|マダム~2|サー~3|市民~4|マイロード~5|マイレディ~6|船長~100|(はっきりしない)@{I}1|マダム~2|サー~3|市民~4|我が君~5|我が姫君~6|船長~100|ななしさん@{M}1|Madam~2|Sir~3|Citizen~4|my lord~5|my lady~6|Captain~100|(mumble)",
- "Name": "Addressed As@{I}呼称@{M}Addressed As", "Id": 102969}
+ "Name": "呼称@{M}Addressed As", "Id": 102969}

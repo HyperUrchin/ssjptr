@@ -11,7 +11,7 @@
                    {"DefaultEvent": {"Description": "彼はあなたに真珠を薄い紙を捩った中に入れ、さらにそれを小さな青い箱に収めて渡した。紙の中から真珠が盗まれた瞳のようにあなたを見上げている。@{K}He sells you the pearl in a twist of tissue-paper, in a little blue box. It looks up at you from the paper like a stolen eye.",
                                      "Name": "石のように冷たい@{K}Cold as stones", "Id": 154990},
                     "Name": "溺れる真珠を買う@{K}$[Dd]rowning[- ][Pp]earl -> 溺れる真珠$Purchase a Drowning-Pearl",
-                    "Description": "「テイメンの連中はこれが好きなんだよ。ああ、本当に。何故だか疑問に思ったことはあるか？ない？それがいいだろうね、[q:Addressed As]。それがいいよ」@{K}$Taimen -> テイメン$\"The Taimen like these: yes, they do. Have you ever wondered why? No? Good for you, [q:Addressed As]. Good for you.\"",
+                    "Description": "「テイメンの連中はこれが好きなんだよ。ああ、本当に。何故だか疑問に思ったことはあるか？ない？それがいいだろうね、[q:呼称]。それがいいよ」@{K}$q:Addressed As -> q:呼称, Taimen -> テイメン$\"The Taimen like these: yes, they do. Have you ever wondered why? No? Good for you, [q:Addressed As]. Good for you.\"",
                     "ButtonText": "", "Id": 131521},
                    {"DefaultEvent": {"Description": "牙を生やした悪夢の化身が濁った液体の中からあなたの方に間抜けに目をぎょろつかせている。@{K}A fanged nightmare goggles idiotically at you from the murky liquid.",
                                      "Name": "巨大な灰色のガラス瓶@{K}A great grey glass jar", "Id": 154991},

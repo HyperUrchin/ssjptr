@@ -146,7 +146,7 @@
                                      "LinkToEvent": {"Id": 176669},
                                      "Name": "これからの微かな記憶@{K}A vague memory of something to come",
                                      "Id": 176702},
-                    "Name": "紅い蜜の微かな味@{K}A fading taste of red honey",
+                    "Name": "紅い蜜の微かな味@{K}$[Rr]ed [Hh]oney -> 紅い蜜$A fading taste of red honey",
                     "Description": "記憶の縁にある、これは一体何だろう？@{K}What is it, just on the edge of remembrance?",
                     "ButtonText": "", "Id": 144100},
                    {"SuccessEvent": {"Description": "あなたの望んでいた財宝ではなかったかもしれないが、それでも良い値が付いた。\u000d\u000a\u000d\u000a「それと、こいつも貰っていこう」市長は愉快な女冒険家を指さし付け加える。「皇帝の遺産を盗み出そうとしたんだろう？まったく。ああ、案ずることはない。罰はそれほど重くはならんだろうよ。我らは貪欲さを評価する。だがそうであってもだ」彼がにやりと笑う。「ちょっとした教訓を教えてやるとしよう。そして恥辱の内に消えてもらう。あなたへの帝国からの贈り物だ」@{K}$Delightful Adventuress -> 愉快な女冒険家$It is perhaps not the great treasure you might have hoped for, but they will sell for a fine price.\u000d\u000a\u000d\u000a\"Also we will take <i>that one,\"</i> adds the Mayor, pointing at the Delightful Adventuress. \"Trying to sneak away our Emperor's Legacy? Tsk. Oh, do not worry, the punishment is not severe. We approve of the avarice. Still,\" he grins. \"We will teach her a little lesson, yes, then banish in shame. A gift to you from the Empire.\"",

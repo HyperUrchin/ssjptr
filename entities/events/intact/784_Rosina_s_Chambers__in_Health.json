@@ -28,7 +28,7 @@
                     "Name": "Deliver a love letter to Rosina",
                     "Description": "She smiles at the author's name", "ButtonText": "",
                     "Id": 193087},
-                   {"DefaultEvent": {"Description": "Rosina's smile is as sharp as her spleen. \"Yes. I have unsettled business with the Nidaheen. Tell Mariam I am ready.\u000d\u000a\u000d\u000a\"And thank you, [q:Addressed As] for allowing me a second opportunity. I have been unable to consider revenge these last ten years, for fear of accelerating my condition. Now, I find it difficult to think of anything else.\"",
+                   {"DefaultEvent": {"Description": "$q:Addressed As -> q:呼称$Rosina's smile is as sharp as her spleen. \"Yes. I have unsettled business with the Nidaheen. Tell Mariam I am ready.\u000d\u000a\u000d\u000a\"And thank you, [q:Addressed As] for allowing me a second opportunity. I have been unable to consider revenge these last ten years, for fear of accelerating my condition. Now, I find it difficult to think of anything else.\"",
                                      "Name": "Vengeance", "Id": 260517},
                     "Name": "Restore Rosina to her role as Healer of the Seven",
                     "Description": "She is recovered now, and the cause needs her. Will she return?",
