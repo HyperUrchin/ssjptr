@@ -55,7 +55,7 @@
                     "Name": "港湾報告書を纏める@{K}$[Pp]ort [Rr]eport -> 港湾報告書$Compile a Port Report",
                     "Description": "ここにいる間に、記録しておいても良いだろう。@{K}You may as well, while you're here.",
                     "ButtonText": "", "Id": 167769},
-                   {"DefaultEvent": {"Description": "　ピグモート・アイルの食糧の備蓄は瞬く間に目減りしてゆく。腹を空かせたネズミとモルモットが互いを見つめ合うと、何か新しいちらつきが目から目へと伝わり、渇望と腹痛は拡散してゆく。あなたがそばを通りかかると、彼らは立ち止まって、口からよだれを垂らしながらあなたをじっと見つめた。小さな町の中心部では、最も腹を空かせた者たちが井戸を掘り始めていた。@{I}Pigmote's stored food diminishes quickly. Hungry rats and cavies stare at each other, a new glint passing from eye to eye as the cravings and stomach pangs spread. They stop to watch you in silence as you go past, mouths salivating. In the middle of the small town, a few of the hungriest begin digging a well.",
+                   {"DefaultEvent": {"Description": "　ピグモート・アイルの食糧の備蓄は瞬く間に目減りしてゆく。腹を空かせたネズミとモルモットが互いを見つめ合うと、何か新しいちらつきが目から目へと伝わり、渇望と腹痛は拡散してゆく。あなたがそばを通りかかると、彼らは無言で立ち止まり、口からよだれを垂らしながらあなたをじっと見つめた。小さな町の中心部では、最も腹を空かせた者たちが井戸を掘り始めていた。@{I}Pigmote's stored food diminishes quickly. Hungry rats and cavies stare at each other, a new glint passing from eye to eye as the cravings and stomach pangs spread. They stop to watch you in silence as you go past, mouths salivating. In the middle of the small town, a few of the hungriest begin digging a well.",
                                      "Name": "決して満たされぬ飢え@{I}A hunger that can never be satiated",
                                      "Id": 223907},
                     "Name": "ミスター・サックスのための届け物@{I}$Mr Sacks -> ミスター・サックス$A delivery for Mr Sacks",

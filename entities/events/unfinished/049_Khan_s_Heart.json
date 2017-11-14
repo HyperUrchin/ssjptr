@@ -116,7 +116,7 @@
                     "Name": "ポワソニエが上陸を望んでいる@{K}The Poissonnier requests shore leave",
                     "Description": "それと未払いの報酬も。カーネイトで好まれる形で欲しいそうだ。@{K}$Khan -> カーン, Khanate -> カーネイト$And back pay, in a form preferred in the Khanate. ",
                     "ButtonText": "", "Id": 147275},
-                   {"DefaultEvent": {"Description": "　饗宴は猛烈な勢いで広がり、銅街区を脈動させた。人々は口で味わう間もないほどの早さで食物を食い漁った。彼らの頬は膨らみ、腹は突き出ていたが、それでも彼らは食べ続けた。増え続ける暴徒の鎮圧のために『白と金』が動き出した。彼らはこれ以上騒ぎを加熱させてはならぬと思ったか、あるいは、群衆の視線が王立の食料品店へと向かうのを避けたかったのだろう。@{I}$[Tt]he White -> 白きもの, Copper Quarter -> 銅街区$The Copper Quarter pulses as the feast rages on. Its people gorge themselves too quickly to taste the food on their lips. Their cheeks bulge and stomachs swell, but still they eat. The White-and-Golds wade in to silence the growing mob before it can escalate further, or set its sights on the royal food stores.",
+                   {"DefaultEvent": {"Description": "　饗宴は猛烈な勢いで広がり、銅街区を脈動させた。人々は口で味わう間もないほどの早さで食物を食い漁った。彼らの頬は膨らみ、腹は突き出ていたが、それでも彼らは食べ続けた。増え続ける暴徒の鎮圧のために『白と金』が動き出した。彼らはこれ以上騒ぎを加熱させてはならぬと思ったか、あるいは、群衆の視線が王族の食料庫へと向かうのを避けたかったのだろう。@{I}$[Tt]he White -> 白きもの, Copper Quarter -> 銅街区$The Copper Quarter pulses as the feast rages on. Its people gorge themselves too quickly to taste the food on their lips. Their cheeks bulge and stomachs swell, but still they eat. The White-and-Golds wade in to silence the growing mob before it can escalate further, or set its sights on the royal food stores.",
                                      "Name": "決して満たされぬ飢え@{I}A hunger that can never be satiated",
                                      "Id": 223906},
                     "Name": "ミスター・サックスのための届け物@{I}$Mr Sacks -> ミスター・サックス$A delivery for Mr Sacks",

@@ -17,7 +17,7 @@
                    {"DefaultEvent": {"Description": "「彼は神ではない。彼は北から、神々には寒すぎる地からやってきた。彼は北へと帰るだろう。もしもお前が北へ向かえば、お前のものは何ひとつ残されはしないだろう」@{I}\"He is not a god. He came from the North, where it is too cold for gods, and to the North he will return. If you go North, nothing of you will remain.\"",
                                      "LinkToEvent": {"Id": 151296},
                                      "Name": "終わりと始まり@{I}The end and the beginning", "Id": 151300},
-                    "RareDefaultEvent": {"Description": "「溺れた男の兄弟たちは――しかり、姉妹たちもだが――彼をナイフとラッカーに捧げた。ここにはラッカーはない。ただの雪があるだけだ。雪は北で生まれる。ラッカーは痛みから生まれる。我々は、それを少しだけ和らげているのだ」@{I}$[Ll]acre -> ラッカー, Drowned Man -> 溺れた男$\"The Drowned Man's brothers - aye, and sisters - gave him to the knives and the lacre. Here we have no lacre, only snow. Snow comes from the North. Lacre comes from pain. We have it a little easier.\"",
+                    "RareDefaultEvent": {"Description": "「溺れた男の兄弟たちは――しかり、姉妹たちもだが――彼をナイフとレイカーに捧げた。ここにはレイカーはない。ただの雪があるだけだ。雪は北で生まれる。レイカーは痛みから生まれる。我々は、それを少しだけ和らげているのだ」@{I}$[Ll]acre -> レイカー, Drowned Man -> 溺れた男$\"The Drowned Man's brothers - aye, and sisters - gave him to the knives and the lacre. Here we have no lacre, only snow. Snow comes from the North. Lacre comes from pain. We have it a little easier.\"",
                                          "LinkToEvent": {"Id": 151296},
                                          "Name": "法と喪失@{I}The law and the loss", "Id": 151304},
                     "Name": "溺れた男について尋ねる@{I}$Drowned Man -> 溺れた男$Ask about the Drowned Man",

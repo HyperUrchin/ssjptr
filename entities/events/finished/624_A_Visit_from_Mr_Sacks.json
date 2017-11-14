@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "　獣は暖炉から手を引っ込めると、それを仔細に観察した。押し込まれたラッカー、Neathの雪だ。それは血肉色のローブの中へと消えた。「三度の配達で開放してやる。もたつくなよ。お前が失うものは多いぞ」@{I}$[Ll]acre -> ラッカー$The Beast withdraws its hand from the fireplace, examining it. Packed lacre; neath-snow. It disappears back into the incarnadine robe. \"Three deliveries buy your release. Do not tarry. You have much to lose.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "　獣は暖炉から手を引っ込めると、それを仔細に観察した。固まったレイカー、Neathの雪だ。それは血肉色のローブの中へと消えた。「三度の配達で開放してやる。もたつくなよ。お前が失うものは多いぞ」@{I}$[Ll]acre -> レイカー$The Beast withdraws its hand from the fireplace, examining it. Packed lacre; neath-snow. It disappears back into the incarnadine robe. \"Three deliveries buy your release. Do not tarry. You have much to lose.\"",
                                      "LinkToEvent": {"Id": 143503},
                                      "Name": "取り引きは成立した@{I}A deal is struck", "Id": 223587},
                     "Name": "ミスター・サックス！私の奉仕を受け取って！@{I}$Mr Sacks -> ミスター・サックス$Mr Sacks! Take my service.",
