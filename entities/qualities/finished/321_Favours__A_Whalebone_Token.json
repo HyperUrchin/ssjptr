@@ -1,3 +1,3 @@
 {"Description": "あなたはキェロネイトの獣を狩る者たちと友人になった。@{K}貴方はケロネイトの獣切丸達と友達になった。@{M}$Chelonate -> キェロネイト$You've made friends among the beast-slayers of the Chelonate.",
- "Name": "恩義: 鯨骨の彫り物@{K}恩義: 鯨骨の証@{M}Favours: A Whalebone Token",
+ "Name": "好意: 鯨骨の彫り物@{K+I}恩義: 鯨骨の彫り物@{K}恩義: 鯨骨の証@{M}Favours: A Whalebone Token",
  "Id": 109561}
