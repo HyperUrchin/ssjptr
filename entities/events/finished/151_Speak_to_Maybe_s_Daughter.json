@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 148782},
                                      "Name": "複雑な知識@{M}Complex knowledge", "Id": 148783},
                     "Name": "あなたのヴェールを上昇させる@{I}ヴェールを上げる@{M}$Veils -> ヴェール$Increase your Veils",
-                    "Description": "　あなたが秘密を打ち明ければ、彼女も秘密を明かしてくれるだろう。[秘密を費やしてあなたのヴェールを上昇させましょう。ただし、100が上限です。]@{I}[数値が100以下の場合、秘密を消費して貴方のヴェールを上げます。]@{M}$Veils -> ヴェール$She'll tell you her secrets if you tell her yours. [Spend a Secret to improve your Veils, if it is no higher than 100.]",
+                    "Description": "　あなたが秘密を打ち明ければ、彼女も秘密を明かしてくれるだろう。[100を越えていないのであれば、秘密を費やしてあなたのヴェールを上昇させることができます。]@{I}[数値が100以下の場合、秘密を消費して貴方のヴェールを上げます。]@{M}$Veils -> ヴェール$She'll tell you her secrets if you tell her yours. [Spend a Secret to improve your Veils, if it is no higher than 100.]",
                     "ButtonText": "", "Id": 127618},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 120804},
                                      "Name": "", "Id": 148785},
