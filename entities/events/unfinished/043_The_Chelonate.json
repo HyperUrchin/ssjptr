@@ -91,6 +91,6 @@
                     "Name": "キェロネイトへの上陸許可を出す@{I}$Chelonate -> キェロネイト$Shore leave at the Chelonate",
                     "Description": "　ビールも騒ぎもここでは安いものだ。しかし、ここの狩人たちにとって酒の騒ぎはおままごとではない。あなたは、船員たちが安全に戻ってこられるかどうか確信が持てなかった。@{I}$Chelonate -> キェロネイト$Beer and roistering are cheap here, but the hunters of the Chelonate take their roistering seriously. You can't be sure your crew will make it back safely.",
                     "ButtonText": "", "Id": 124061}],
- "Description": "　いかなる大聖堂をもしのぐ巨大な亀の甲羅。そのぬるぬるする側面を、波がぴちゃぴちゃと洗っている。陰気な目をしたキェロネイト人たちが、甲羅の周りの腐った桟橋の上をぶらついている。ランプが、まるでお祭りの飾りつけのように、肉屋の窓からぶら下がっている。あなたの周りでは、大昔の肉の屑切れが海いっぱいに広がっている。@{I}Waves lap the slabby sides of a vast turtle-shell - bigger than any cathedral. Chelonites loaf on wooden docks around the shell-sides, staring sullenly. Lamps hang like decorations in a festive butcher's window. All around you, the sea is rank with scraps of ancient flesh.",
+ "Description": "　いかなる大聖堂をもしのぐ巨大な亀の甲羅。そのぬるぬるする側面を、波がぴちゃぴちゃと洗っている。陰気な目をしたキェロネイト人たちが、甲羅の周りの腐った桟橋の上をぶらついている。あちこちにぶら下がるランプは、祭りの時期の肉屋の飾りつけのよう。あなたの周りでは、大昔の肉の屑切れが海いっぱいに広がっている。@{I}Waves lap the slabby sides of a vast turtle-shell - bigger than any cathedral. Chelonites loaf on wooden docks around the shell-sides, staring sullenly. Lamps hang like decorations in a festive butcher's window. All around you, the sea is rank with scraps of ancient flesh.",
  "Name": "キェロネイト@{I}$Chelonate -> キェロネイト$The Chelonate",
  "Id": 143328}
