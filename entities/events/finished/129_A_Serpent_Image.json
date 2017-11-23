@@ -27,5 +27,5 @@
                     "Name": "それをもらうが、見つけた水夫に褒章を与える@{I}Take it, but reward the zailor",
                     "Description": "　等分に。それが公平というものだ。彼女が見つけなければ、あなたはそれを完全に見逃していただろう。@{I}Half-share: fair's fair. If she hadn't seen it, you'd have missed it entirely.",
                     "ButtonText": "", "Id": 126717}],
- "Description": "「見なよ！」水夫の一人が叫んだ。灰色の葉を持つ木の、苔むした湾曲部に寄り掛かる何かがあった。それは黒と赤と黄色に塗られた、木彫の蛇だった。その両眼は柘榴石の薄片で作られていた。「こいつはバザールで良い値がつくよ」その水夫は言った。「けど呪われそうな見た目してるぜ」別の一人が指摘した。@{I}\"Here!\" a zailor shouts. There's something nestled in the mossy crook of a grey-leafed tree. A wooden serpent, lacquered with black, red and yellow. Its eyes are garnet flakes. \"That'd fetch a good price at the Bazaar,\" the zailor observes. \"But it has a cursy look,\" points out another.",
+ "Description": "「見なよ！」水夫の一人が叫んだ。灰色の葉を持つ木の、苔むした湾曲部に寄り掛かる何かがあった。それは黒と赤と黄色に塗られた、木彫の蛇だ。その両眼は柘榴石の薄片で作られている。「こいつはバザールで良い値がつくよ」その水夫は言った。「けど呪われそうな見た目してるぜ」別の一人が指摘した。@{I}\"Here!\" a zailor shouts. There's something nestled in the mossy crook of a grey-leafed tree. A wooden serpent, lacquered with black, red and yellow. Its eyes are garnet flakes. \"That'd fetch a good price at the Bazaar,\" the zailor observes. \"But it has a cursy look,\" points out another.",
  "Name": "蛇の彫像@{I}A Serpent-Image", "Id": 147445}

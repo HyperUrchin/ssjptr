@@ -187,7 +187,7 @@
                                      "Name": "報告書提出！@{I}報告書は提出された!@{M}Report submitted!",
                                      "Id": 174362},
                     "Name": "ポリズリーム@{I}ポリスリーム@{M}$Polythreme -> ポリズリーム$Polythreme",
-                    "Description": "「百の心臓を持つ王。何と有益な奴だろうか。彼からの輸出がなければ、私は今頃、自分で石炭を運んでいるところだったよ」@{I}「百の心臓を持つ王。何と使いでの在る者でしょうか。彼の者が輸出するまでも無く、我々は我々の石炭を供しましょう。」@{M}$Hearts -> ハート$\"The King with a Hundred Hearts. What a useful fellow. Without his exports, I'd be delivering my own coal.\"",
+                    "Description": "「百心の王。何と有益な奴だろうか。彼からの輸出がなければ、私は今頃、自分で石炭を運んでいるところだったよ」@{I}「百の心臓を持つ王。何と使いでの在る者でしょうか。彼の者が輸出するまでも無く、我々は我々の石炭を供しましょう。」@{M}$Hearts -> ハート$\"The King with a Hundred Hearts. What a useful fellow. Without his exports, I'd be delivering my own coal.\"",
                     "ButtonText": "", "Id": 142569},
                    {"DefaultEvent": {"Description": "「何と身の毛のよだつ場所だろう」そこで間があった。「いやね、ごく最近に、そこについて尋ねに来た人がいたんだよ。思い出すにつけ、愉快な女性だった。とても愉快だった。ああ、私は彼女に君の住所へと手紙を転送させてやったんだが……」[あなたの宿で目新しい物が待っています。]@{I}「何という忌々しい地なのでしょう。」一瞬だけ間が空く。「つい最近、それについてだけ尋ねて来た者が居たんです。記憶が正しければ...愉悦の淑女、でしたか。最も愉悦に浸った...ええ。貴方の住所を、勝手ながら彼女に伝えさせて頂きましたが...」\u000d\u000a[貴方の宿場で新しい何かが待ち受けています。]@{M}\"Such a ghastly place.\" A pause. \"You know, there was somebody here asking about it only recently. Delightful lady, as I recall. Most delightful. Yes. I shall take the liberty of forwarding her your address...\" [Something new awaits in your Lodgings]",
                                      "LinkToEvent": {"Id": 144833},
