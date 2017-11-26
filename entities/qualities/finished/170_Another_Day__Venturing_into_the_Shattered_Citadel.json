@@ -1,0 +1,4 @@
+{"Description": "下には何があるのだろう？@{K}そこには何が在る？@{M}What's down here?",
+ "ChangeDescriptionText": "1|あなたは砦の縁にいる。~2|あなたは二層目の回廊にいる。~3|あなたは三層目の回廊にいる。~5|あなたは五層目の回廊にいる。~6|あなたは六層目の回廊にいる。~7|あなたは七層目の回廊にいる。~8|あなたは砦の岩根に到達した……~9|あなたは砦の岩根の内部に入った……~4|あなたは砦の中間地点にたどり着いた@{K}1|貴方は城塞の入り口に居る。~2|貴方はトンネルの2階層目に居る。~3|貴方はトンネルの3階層目に居る。~5|貴方はトンネルの5階層目に居る。~6|貴方はトンネルの6階層目に居る。~7|貴方はトンネルの7階層目に居る。~8|貴方は城塞最深部に到達した…~9|貴方は城塞最深部に突入した…~4|貴方は城塞の中間地点に居る。@{M}1|You are at the edge of the Citadel.~2|You are in the second tangle of tunnels.~3|You are in the third tangle of tunnels.~5|You are in the fifth tangle of tunnels.~6|You are in the sixth tangle of tunnels.~7|You are in the seventh tangle of tunnels.~8|You have reached the Citadel's root...~9|You have entered the Citadel's root...~4|You have reached the mid-point of the Citadel",
+ "Name": "次はまた後日に: 砕かれた砦の探索@{K}後日談: 砕かれた城塞を探索する@{M}$Shattered Citadel -> 砕かれた砦$Another Day: Venturing into the Shattered Citadel",
+ "Id": 110653}

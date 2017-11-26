@@ -1,0 +1,4 @@
+{"Description": "貴方はオフィサーの一人と、Zeeの上で人目を忍んで密会している。@{K/M}貴方は幹部の一人と、ジーの上で人目を忍んで密会している。@{M}$[Oo]fficer -> オフィサー$You have engaged in a liaison with one of your officers, out at zee.",
+ "LevelDescriptionText": "1|あなたはオフィサーの一人と親しく交わっている。@{K/M}1|貴方は幹部の一人と親しく交わっている。@{M}$[Oo]fficer -> オフィサー$1|You have been fraternising with one of your officers.",
+ "ChangeDescriptionText": "0|今のところは、あなたとオフィサーの関係については忘れられている。~1|あなたはオフィサーの一人と親交を結んだ。@{K}0|今は、貴方と幹部との情事は忘れられている。~1|貴方は幹部の一人と親しく交わった。@{M}$[Oo]fficer -> オフィサー$0|For now, your affair with your officer is forgotten.~1|You have fraternised with one of your officers.",
+ "Name": "ロマンス: 暗闇の中の愛@{K/M}情事: 暗闇の中の愛@{M}Romance: Love in the Dark", "Id": 109346}
