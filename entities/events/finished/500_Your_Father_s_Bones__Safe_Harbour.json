@@ -1,7 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "",
                                      "LinkToEvent": {"Id": 189552}, "Name": "", "Id": 178724},
-                    "Name": "勝利です! ...父親の遺骨を取り戻して引退する。@{M}VICTORY! ...Retire with your Father's Bones restored",
+                    "Name": "勝利！……父親の遺骨を取り戻し、引退する@{I}勝利です! ...父親の遺骨を取り戻して引退する。@{M}VICTORY! ...Retire with your Father's Bones restored",
                     "Description": "", "ButtonText": "", "Id": 145323}],
- "Description": "貴方は故郷に戻ってきた。彼も...だ。@{M}You are home, and so is he.",
- "Name": "父親の遺骨: 無事に海岸へ@{M}$Your Father's Bones: -> 父の遺骨:$Your Father's Bones: Safe Harbour",
+ "Description": "　あなたは故郷に帰ってきた。父も一緒だ。@{I}貴方は故郷に戻ってきた。彼も...だ。@{M}You are home, and so is he.",
+ "Name": "父の遺骨: 安らかな帰港@{I}父親の遺骨: 無事に海岸へ@{M}$Your Father's Bones: -> 父の遺骨:$Your Father's Bones: Safe Harbour",
  "Id": 178722}
