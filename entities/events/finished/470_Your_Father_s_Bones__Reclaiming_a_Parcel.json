@@ -12,7 +12,7 @@
                    {"DefaultEvent": {"Description": "[物語を進めるためには、Unterzeeの南方ないしは中央付近にあるファザムキングの砦を見つけましょう。]@{I}$Fathomking's Hold -> ファザムキングの砦, Fathomking -> ファザムキング$[Find the Fathomking's Hold, somewhere in the south or central Unterzee, to continue.]",
                                      "Name": "", "Id": 178708},
                     "Name": "傷つけられた石@{I}A scarred stone",
-                    "Description": "　あなたは父親のファーストネームを見つけた。『エリアス』。ここにある名前の中では、彼が唯一のエリアスだった。しかし、名前の残りは、たがねの綺麗な一撃によって砕かれて失くなっていた。残っているものは、傷つけられた白い石でしかなかった。@{I}Your father's first name - \"ELIAS\". He's the only Elias here. But the rest of the name has been smashed away, with one clean blow of a chisel. The rest is only pale scarred rock.",
+                    "Description": "　あなたは父親のファーストネームを見つけた。『エリアス』。ここにある名前の中では、彼が唯一のエリアスだ。しかし、名前の残りは、たがねの綺麗な一撃によって砕かれて失われていた。残っているものは、ただの傷つけられた白い石でしかない。@{I}Your father's first name - \"ELIAS\". He's the only Elias here. But the rest of the name has been smashed away, with one clean blow of a chisel. The rest is only pale scarred rock.",
                     "ButtonText": "", "Id": 145310}],
  "Description": "　ハッファムによれば、あなたの父親の骨は『ミスター・ボリューミナス』に宛てて送られたものの、住所書きの『ドアの名前が間違っていた』という。ならば遺骨はここにあるはずだ。この配達不能郵便局の、納骨堂を思わせる螺旋構造のどこかに。@{I}$Dead Letter Office -> 配達不能郵便局, Huffam -> ハッファム$Huffam told you your father's bones had been sent to 'Mr Voluminous', but misaddressed to 'the wrong door'. So here they must be, somewhere in the crypty windings of the Dead Letter Office.",
  "Name": "父の遺骨: 小包の奪還@{I}$Your Father's Bones: -> 父の遺骨:$Your Father's Bones: Reclaiming a Parcel",
