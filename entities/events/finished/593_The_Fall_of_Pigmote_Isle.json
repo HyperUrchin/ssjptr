@@ -3,6 +3,6 @@
                     "Name": "立ち去る@{K}Leave this place",
                     "Description": "これ以上この場所で出来ることは何もない。@{K}There is nothing more to be done here.",
                     "ButtonText": "", "Id": 164719}],
- "Description": "続く日々のうちに、ピグモートは燃えた。海賊たちは島の弱点を記録し、街を剣と松明で襲ったのだ。略奪の後には、死骸と炭以外ほとんど何も残らなかった。@{K}In the days that follow, Pigmote burns. Pirates note its weakness, and put the city to the sword and torch. In the aftermath of their plundering, little but corpses and charcoal remains.",
+ "Description": "続く日々のうちに、ピグモートは燃えた。海賊たちは島の弱点に気付き、街を剣と松明で襲ったのだ。略奪の後には、死骸と炭以外ほとんど何も残らなかった。@{K}In the days that follow, Pigmote burns. Pirates note its weakness, and put the city to the sword and torch. In the aftermath of their plundering, little but corpses and charcoal remains.",
  "Name": "ピグモート・アイルの滅亡@{K}$Pigmote Isle -> ピグモート・アイル$The Fall of Pigmote Isle",
  "Id": 208119}

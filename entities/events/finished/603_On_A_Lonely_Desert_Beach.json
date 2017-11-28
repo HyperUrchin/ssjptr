@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "波止場を進むと、何やら騒がしい音と叫び声、そして銃声が聞こえてきた。遠く丘の向こうから煙が立ち昇り、点のようになった炎が地平線上に散っているのが見える。二人の小さな見た目の者が波止場をもう少し進んだところに立っていた。彼らはじっと動かない。あたかもあなたが近づいてくるのを待っているかのように。@{K}As you step on to the quay, you hear clamour, shouts, and shooting; you can see, off in the distance, smoke rising from beyond the hill, and dots of fire flecking the horizon. Two tiny figures stand a little further down the quay. Unmoving. As if awaiting your approach.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "波止場を進むと、何やら騒がしい音と叫び声、そして銃声が聞こえてきた。遠く丘の向こうから煙が立ち昇り、炎が点のように地平線上に散っているのが見える。二人の小さな見た目の者が波止場をもう少し進んだところに立っていた。彼らはじっと動かない。あたかもあなたが近づいてくるのを待っているかのように。@{K}As you step on to the quay, you hear clamour, shouts, and shooting; you can see, off in the distance, smoke rising from beyond the hill, and dots of fire flecking the horizon. Two tiny figures stand a little further down the quay. Unmoving. As if awaiting your approach.",
                                      "LinkToEvent": {"Id": 209701}, "Name": "戦争？@{K}War?",
                                      "Id": 209700},
                     "Name": "船を降りる@{K}Disembark",

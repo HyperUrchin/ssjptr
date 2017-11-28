@@ -10,7 +10,7 @@
                     "Name": "ブレミガンを放つ@{K}$[Bb]lemmigan -> ブレミガン$Release a blemmigan",
                     "Description": "茸であれば齧歯類たちの繁栄することの出来なかったこの場所で栄えることが出来るかもしれない。@{K}Perhaps mushrooms will thrive where the rodents couldn't?",
                     "ButtonText": "", "Id": 164555},
-                   {"DefaultEvent": {"Description": "小さな輝きによって齧歯類たちの宝がどこでその終わりを迎えたのかが分かる。残された欠片は全て小さく、集めるだけの価値もない。土産物にすらならないだろう。@{K}Tiny glimmers mark where the rodents' treasure met its end. What pieces remain are too small to be worth collecting, even as souvenirs.",
+                   {"DefaultEvent": {"Description": "小さな輝きによって齧歯類たちの宝がどこでその終わりを迎えたのかが分かった。残された欠片は全て小さく、集めるだけの価値もない。土産物にすらならないだろう。@{K}Tiny glimmers mark where the rodents' treasure met its end. What pieces remain are too small to be worth collecting, even as souvenirs.",
                                      "LinkToEvent": {"Id": 204733}, "Name": "破片@{K}Detritus",
                                      "Id": 210177},
                     "Name": "ブルー・シンティラックを探す@{K}$[Bb]lue[- ][Ss]cintillack -> ブルー・シンティラック, [Ss]cintillack -> シンティラック$Search for the blue scintillack",
@@ -21,6 +21,6 @@
                     "Name": "ミスター・サックスのための届け物@{I}$Mr Sacks -> ミスター・サックス$A delivery for Mr Sacks",
                     "Description": "　ここならロンドンからは十分に離れているはずだ。@{I}This should be far enough from London.",
                     "ButtonText": "", "Id": 174653}],
- "Description": "数匹の生き残りがいまだ残骸を漁っており、あなたが近づく度に脅すような音を立てる。彼らは守る価値のあるものもほとんど持っていない。侵入者、海賊、そしてその他の日和見主義者がすぐにピグモートを骨になるまで略奪していったのだ。@{K}A few survivors still scavenge through the remnants, hissing whenever you approach. They have little worth protecting. Raiders, pirates and other opportunists have wasted no time picking Pigmote to the bones.",
+ "Description": "数匹の生き残りがいまだ残骸を漁っており、あなたが近づく度に脅すような音を立てる。彼らは守る価値のあるものもほとんど持っていない。侵入者、海賊、そしてその他のこの惨状を好機と見た者たちによってピグモートは一瞬で骨になるまで略奪されてしまったのだ。@{K}A few survivors still scavenge through the remnants, hissing whenever you approach. They have little worth protecting. Raiders, pirates and other opportunists have wasted no time picking Pigmote to the bones.",
  "Name": "ピグモート・アイルの廃墟@{K}$Pigmote Isle -> ピグモート・アイル$The Ruins of Pigmote Isle",
  "Id": 204733}

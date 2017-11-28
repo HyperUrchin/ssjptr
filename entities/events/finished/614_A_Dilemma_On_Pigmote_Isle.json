@@ -15,6 +15,6 @@
                     "Name": "彼らの本拠地を襲うよう助言する@{K}Advise an attack on their stronghold",
                     "Description": "海賊たちに[q:ピグモート・アイル: 統治]は反撃するという事を思い知らせてやらなければならない。@{K}The pirates must learn that [q:Pigmote Isle: Mastery] will fight back.",
                     "ButtonText": "", "Id": 164875}],
- "Description": "側近はあなたを前回の海賊の襲撃によっていまだに煙をあげる小屋の残る海岸に連れ出した。「あの残忍な襲撃者たちは我らの大切なシンティラックを求めて襲ってくるのです」側近が無力でふわふわな怒りに前足を振りながら言った。「無毛の顧問よ、我々はどのようにして我らの岸を守ればよいのでしょう？」@{K}$[Ss]cintillack -> シンティラック$The aide takes you to the coast, where the huts still smoulder from the last pirate attack. \"Those beastly raiders keep coming for our precious scintillack,\" it squeaks, shaking a paw in impotent furry rage. \"How can we protect our shores, Hairless Adviser?\"",
+ "Description": "側近はあなたを前回の海賊の襲撃によっていまだに煙をあげる小屋の残る海岸に連れ出した。「あの残忍な襲撃者たちは、我らの大切なシンティラックを求めて襲ってくるのです」側近が無力でふわふわな怒りに前足を震わせながら言った。「無毛の顧問よ、我々はどのようにして我らの岸を守ればよいのでしょう？」@{K}$[Ss]cintillack -> シンティラック$The aide takes you to the coast, where the huts still smoulder from the last pirate attack. \"Those beastly raiders keep coming for our precious scintillack,\" it squeaks, shaking a paw in impotent furry rage. \"How can we protect our shores, Hairless Adviser?\"",
  "Name": "ピグモート・アイルのジレンマ@{K}$Pigmote Isle -> ピグモート・アイル$A Dilemma On Pigmote Isle",
  "Id": 210218}
