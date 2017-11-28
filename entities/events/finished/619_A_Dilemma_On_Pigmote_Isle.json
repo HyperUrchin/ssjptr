@@ -1,7 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "側近は二匹の信頼できる補佐官と共にあなたの船を訪れた。全員肉体労働に不慣れで、小さいが荷物の沢山積まれた荷車を満足に引くことすらできない。彼らは最初こそ感謝の鳴き声をあげていたが、街の門までゆっくりと荷車を引きずっていくにつれその鳴き声は疲れの滲む物に変わっていった。@{K}The aide meets you at the ship with a pair of trusted assistants. None are used to manual labour and can barely pull the small, heavily loaded cart. They squeak first in appreciation and then with exhaustion as they slowly drag it away to the town gates.",
                                      "Name": "慎重な運搬@{K}A careful delivery", "Id": 213198},
                     "Name": "食糧を寄付する@{K}Donate supplies",
-                    "Description": "[q:ピグモート・アイル: 統治]の者たちを大いに助けることになるだろう。@{K}This will greatly help the [q:ピグモート・アイル: 統治]ns.",
+                    "Description": "[q:ピグモート・アイル: 統治]の者たちを大いに助けることになるだろう。@{K}This will greatly help the [q:Pigmote Isle: Mastery]ns.",
                     "ButtonText": "", "Id": 166735},
                    {"DefaultEvent": {"Description": "側近は萎れたようになり、彼の口髭もうなだれた。「かしこまりました、無毛の顧問よ。我らは耐え忍びましょう。我らには信念があります。生き延びることが出来るでしょう」@{K}The aide sags; his whiskers droop. \"Very well, Hairless Adviser. We will endure. We have faith. We will survive.\"",
                                      "Name": "独り立つ@{K}Standing alone", "Id": 213308},
