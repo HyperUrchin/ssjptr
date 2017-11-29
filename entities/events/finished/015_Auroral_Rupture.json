@@ -4,7 +4,7 @@
                     "Description": "地面を見つめていよう。この出来事はどこか不気味だ。@{K}Keep your eyes on the ground. This is something uncanny.",
                     "ButtonText": "", "Id": 120982},
                    {"DefaultEvent": {"Id": 138515},
-                    "Name": "カーネリアの追放者@{K}Carnelian Exile",
+                    "Name": "カーネリアンの追放者@{K}Carnelian Exile",
                     "Description": "「あなたは身を隠していなさい」彼女が囁く。「私はあの光を見に行きます」[この選択肢は現在のバージョンでは選ぶことができません。]@{K}\"Shield yourself,\" she whispers. \"Let me watch it.\" [This is not available in the current build.]",
                     "ButtonText": "", "Id": 120983},
                    {"DefaultEvent": {"Description": "岩に、海面に、そして天蓋の水晶の鉱脈にあらゆる色彩が反射した。Unterzee全体が透き通った鮮やかなエメラルド色に変貌する。あなたの船員たちの顔も明るくくっきりと照らしだされた。このようなものは地上を去って以来目にしたことがない。この地下においてはすべてがひどく場違いだ。\u000d\u000a\u000d\u000a光は唐突に消え去った。男も女も叫び声をあげ、罵る言葉を吐いた。誰かが啜り泣いている。@{K}$[Tt]he Surface -> 地上$All the colours rise in the rocks, the water, the crystal veins of the roof. The Unterzee is a rich grassy emerald: the faces of your crew flash clear and and strong. You have seen nothing like it since you left the Surface. In this place, it is utterly wrong. \u000d\u000a\u000d\u000aThe light fades, suddenly. Men and women cry out, curse. One weeps.",
