@@ -3,6 +3,6 @@
                     "Name": "立ち去る@{K}Leave this place",
                     "Description": "これ以上この場所で出来ることは何もない。@{K}There is nothing more to be done here.",
                     "ButtonText": "", "Id": 164724}],
- "Description": "ピグモートの独立への戦いは敗北に終わった。粘り気のある霧が呪いのようにその文明の残りにまとわりつき、触れるすべての水を黒いタールへと変えている。顔に黒いジャッカルの面が釘で打ち付けられた鼠とテンジクネズミの痙攣する死体が通りに横たわる。いまだに残る燃やされた毛皮の匂いが立ち去るあなたの喉に引っかかった。@{K}Pigmote's fight for independence is lost. A viscous fog curses what remains of its civilisation, turning any water it touches to black tar. The twitching bodies of rats and cavies lie in the streets, black jackal masks nailed to their faces. A lingering smell of burned fur catches in your throat as you leave.",
+ "Description": "ピグモートの独立への戦いは敗北に終わった。粘り気のある霧が呪いのようにその文明の残りにまとわりつき、触れるすべての水を黒いタールへと変えている。顔に黒いジャッカルの面が釘で打ち付けられた鼠とモルモットの痙攣する死体が通りに横たわる。いまだに残る燃やされた毛皮の匂いが立ち去るあなたの喉に引っかかった。@{K}Pigmote's fight for independence is lost. A viscous fog curses what remains of its civilisation, turning any water it touches to black tar. The twitching bodies of rats and cavies lie in the streets, black jackal masks nailed to their faces. A lingering smell of burned fur catches in your throat as you leave.",
  "Name": "ピグモート・アイルの滅亡@{K}$Pigmote Isle -> ピグモート・アイル$The Fall of Pigmote Isle",
  "Id": 208125}
