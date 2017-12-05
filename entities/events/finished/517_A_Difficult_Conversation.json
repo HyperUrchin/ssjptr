@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "あなたは解放されました。よろしければsunlesssea@failbettergames.comまで何が起こったのか報告していただけませんか？ご協力ありがとうございます！@{K}貴方は解放された。しかし何が起きたのか sunlesssea@{I}failbettergames.com まで連絡して頂けないだろうか?感謝する。@{M}You're released. But could you mail sunlesssea@failbettergames.com and let us know what happened? Thank you so much!",
+{"ChildBranches": [{"DefaultEvent": {"Description": "あなたは解放されました。よろしければsunlesssea@failbettergames.comまで何が起こったのか報告していただけませんか？ご協力ありがとうございます！@{K}貴方は解放された。しかし何が起きたのか sunlesssea@failbettergames.com まで連絡して頂けないだろうか?感謝する。@{M}You're released. But could you mail sunlesssea@failbettergames.com and let us know what happened? Thank you so much!",
                                      "Name": "解放してくれ -@{M}Please release me", "Id": 180769},
                     "Name": "あー……@{K}エラー - @{M}Er - ",
                     "Description": "この選択肢には通常は至らない。何かがおかしい。@{M}You shouldn't ever see this. Something went wrong.",

@@ -11,6 +11,6 @@
                     "Name": "禁ずる@{M}Forbid it",
                     "Description": "あなたはZeeで何が起こるか知っている。我が子にそんな危険を冒させはしない。しかしあの子はあなたの言葉を聞いてくれるだろうか？[この選択肢を選ぶことであなたは安心し、同時に恐怖を0に下げ、Nightmareを減らすことが出来ます。]@{K}ジーで何が起き得るか、貴方は知っている。子供にはそんな危険を冒して欲しくない。だが、彼/彼女は聞き入れてくれるだろうか?[この選択肢で貴方は安心を獲得し、恐怖をゼロに下げ、悪夢を減少させます。]@{M}You know what happens at zee. No child of yours will risk that. But will they listen? [This will reassure you, setting Terror to zero and reducing Nightmares.]",
                     "ButtonText": "", "Id": 124105}],
- "Description": "貴方の子供が船員として船に乗りたがっている。もう?時の経つのは早いものだ - 特にこのウンタージーでは。貴方がジーに来てから何年が経つ?まぁ、それは問うまい。時間は狡猾に進んでいる。この冥き闇の中で。@{M}Your child wants to sign on with a ship. Already? But time passes quickly - and most quickly on the Unterzee. How many years have you been at zee? Don't ask. Time operates slyly, out in the dark.",
+ "Description": "　あなたの子供が船乗りになりたがっている。少し早くないかね？しかし時間とは飛ぶように過ぎるものだ。特にUnterzeeにおいてはあっという間だ。あなたがzeeに出てもう何年になるだろう？分からない。闇の中では時は狡猾に振る舞うものだ。@{I}貴方の子供が船員として船に乗りたがっている。もう?時の経つのは早いものだ - 特にこのウンタージーでは。貴方がジーに来てから何年が経つ?まぁ、それは問うまい。時間は狡猾に進んでいる。この冥き闇の中で。@{M}Your child wants to sign on with a ship. Already? But time passes quickly - and most quickly on the Unterzee. How many years have you been at zee? Don't ask. Time operates slyly, out in the dark.",
  "Name": "「海に出たい」@{K}\"僕も海に出たいんだ。\"@{M}\"I want to go away to sea.\"",
  "Id": 143394}
