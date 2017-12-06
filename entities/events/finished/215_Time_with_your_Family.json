@@ -18,7 +18,7 @@
                     "Name": "子供にペットを与える@{K}Give your child a pet",
                     "Description": "それが逃げ出して誰かを食べるなんてことはまったくあり得ない。仮にそんなことがあっても食べられるのは小間使いぐらいのものだ。@{K}It is remotely possible that it will escape and eat someone. Probably just the parlour-maid. ",
                     "ButtonText": "", "Id": 128921},
-                   {"DefaultEvent": {"Description": "あなたの子供はその工芸品で遊ぼうと強く心に決めているようだ。もしかしたら壊れてしまうかもしれない。あるいは中には宝石か地図か精霊などが入っていたのかもしれない。あるいはあなたはもっと用心深い乳母を雇うべきなのかもしれない。@{K}Your child seems powerfully inclined to play with the Artefact. Perhaps it will break. Perhaps there's a jewel inside it, or a map, or a spirit. Perhaps it is edible. Perhaps you should employ a more vigilant nurse.",
+                   {"DefaultEvent": {"Description": "あなたの子供はその工芸品で遊ぼうと強く心に決めているようだ。もしかしたら壊れてしまうかもしれない。あるいは中には宝石か地図か精霊などが入っていたのかもしれない。食べることができるものだった可能性もある。あるいはあなたはもっと用心深い乳母を雇うべきなのかもしれない。@{K}Your child seems powerfully inclined to play with the Artefact. Perhaps it will break. Perhaps there's a jewel inside it, or a map, or a spirit. Perhaps it is edible. Perhaps you should employ a more vigilant nurse.",
                                      "Name": "割れ物注意@{K}Danger of breakage", "Id": 150969},
                     "Name": "土産物を渡す@{K}Give them a souvenir",
                     "Description": "あの棚のあそこに仕舞えるだろう。@{K}There's a space for it on that shelf, there.",
