@@ -76,3 +76,4 @@ Your Father's Bones:, 父の遺骨:
 Menaces:, 危機:
 Objective:, 目的:
 [Cc]lothes[- ][Cc]olon(y|ies), クロース・コロニー
+Great Chain of Being, 存在の大いなる鎖
