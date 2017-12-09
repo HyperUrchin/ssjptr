@@ -3,7 +3,7 @@
                     "Name": "[q:ピグモート・アイル: 統治]のジレンマを解く手助けをする@{K}Help [q:Pigmote Isle: Mastery] resolve a dilemma",
                     "Description": "側近が駆け寄って来た。「無毛の顧問殿、お戻りになったのですね！波を称えよ。我らはあなたの英知を今再び必要としているのです！」@{K}An aide runs over. \"Hairless Adviser, you return to us! Praise the tide. We need your wisdom once again!\"",
                     "ButtonText": "", "Id": 163474},
-                   {"DefaultEvent": {"Description": "鼠たちは素晴らしい手腕を発揮し水漏れを塞いで、船体を元通りにした。ウルフスタック・ドックスで言われるように、全てはよくなるだろう。@{K}$Wolfstack -> ウルフスタック, Wolf -> ウルフ, Wolfstack Docks -> ウルフスタック・ドックス$The rats do an excellent job, patching the leaks and beating the hull into shape. All shall be well, as they say on Wolfstack Docks.",
+                   {"DefaultEvent": {"Description": "鼠たちは素晴らしい手腕を発揮し水漏れを塞いで、船体を元通りにした。ウルフスタック・ドックスで言われるように、すべては上手くいくだろう。@{K}$Wolfstack -> ウルフスタック, Wolf -> ウルフ, Wolfstack Docks -> ウルフスタック・ドックス$The rats do an excellent job, patching the leaks and beating the hull into shape. All shall be well, as they say on Wolfstack Docks.",
                                      "LinkToEvent": {"Id": 208079},
                                      "Name": "状態の回復@{K}Restored to order", "Id": 208089},
                     "Name": "船の修理を求める@{K}Request repairs",
