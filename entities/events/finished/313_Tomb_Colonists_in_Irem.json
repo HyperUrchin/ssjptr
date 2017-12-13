@@ -7,7 +7,7 @@
                     "Name": "墓人たちは東を見るだろう@{I}The Colonists will look East",
                     "Description": "　彼らは島の端に引き寄せられるだろう。そこは、Saltの王国がより暗いzeeへと開ける場所。最果ての向こう側。彼らは何を見るのだろう？@{I}They will be drawn to the edge of the isle, where Salt's realm opens out into the darker zee: the places beyond the edge. What will they see?",
                     "ButtonText": "", "Id": 131672},
-                   {"DefaultEvent": {"Description": "「ヴェンダーバイトに帰ったら」ある者は言うだろう。「帰ったら、わしらは日の出となる。赤と黄金。船長よ、わしらはお前さんを永遠に忘れまいよ。お前さんがわしらにこの終わりをくれた。そうら。おまけももらったぞ」@{I}$Venderbight -> ヴェンダーバイト$\"When we return to Venderbight,\" one will say, \"when we return, we will be sunset. Red and gold. We will always remember you, Captain. You gave us this ending. Here. Lagniappe.\"",
+                   {"DefaultEvent": {"Description": "「ヴェンダーバイトに帰ったら」ある者は言う。「帰ったら、わしらは日没となる。赤と黄金。船長よ、わしらはお前さんを永遠に忘れまいよ。お前さんがわしらにこの終わりをくれた。そら。おまけももらったぞ」@{I}$Venderbight -> ヴェンダーバイト$\"When we return to Venderbight,\" one will say, \"when we return, we will be sunset. Red and gold. We will always remember you, Captain. You gave us this ending. Here. Lagniappe.\"",
                                      "Name": "彼らはあなたに感謝するだろう@{I}They will thank you", "Id": 155216},
                     "Name": "彼らにパラボラ・リネンの包帯を買うことを勧める@{I}$(Bale of )?[Pp]arabola[- ][Ll]inen -> パラボラ・リネン$Encourage them to purchase Parabola-Linen Bandages",
                     "Description": "　彼らは思い出の中の深紅で着飾ることになる。@{I}They will deck themselves in imagined crimson.",
