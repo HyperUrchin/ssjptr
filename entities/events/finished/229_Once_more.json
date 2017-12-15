@@ -17,7 +17,7 @@
                                      "LinkToEvent": {"Id": 151669},
                                      "Name": "取り決め@{K}An arrangement", "Id": 152776},
                     "Name": "傷を負った妹を代役として雇うよう提案する@{K}Propose that the Scarred Sister replace her",
-                    "Description": "フィービーはこの暗がりでの勤めに慰めを見出すことが出来るかもしれない。@{K}}Perhaps Phoebe will find consolation in these duties of darkness.",
+                    "Description": "フィービーはこの暗がりでの勤めに慰めを見出すことが出来るかもしれない。@{K}Perhaps Phoebe will find consolation in these duties of darkness.",
                     "ButtonText": "", "Id": 130111}],
  "Description": "侍祭との再びの邂逅。@{K}You encounter the Acolyte one more time.",
  "Name": "再び@{K}Once more", "Id": 151669}
