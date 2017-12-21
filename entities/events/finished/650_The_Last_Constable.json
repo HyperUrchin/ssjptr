@@ -6,7 +6,7 @@
                    {"SuccessEvent": {"Description": "　あなたは突進した。彼女はあなたの背中を警棒で打ち叩いたが、あなたは彼女を地面に組み伏せた。彼女の拳が、警棒とさして変わらぬ強烈さであなたに襲いかかった。最終的にあなたをして彼女に勝利せしめたものは、純然たる忍耐と決意に他ならない。あとは、船員たちの介入も。彼らは、あなたがやっとのことで彼女を再び抑え込んだとき、彼女を縛り上げてくれたのだ。<br/><br/>　彼女はロープにつながれ、営倉まで連行された。あなたが扉に鍵を掛けるとき、彼女はただの一言も発することはなかった。@{I}You lunge; she cracks you over the back with her truncheon, but you take her to the ground. Her fists hit nearly as hard; by the end, it's sheer endurance and determination that allows you to get the better of her. That, and the intervention of your crew, who bind her after you've finally pinned her a second time.\u000d\u000a\u000d\u000aShe's escorted to the brig, bound in rope. She doesn't speak a word as you lock the door.",
                                      "Name": "捕獲されて@{I}Captured", "Id": 230585},
                     "DefaultEvent": {"Description": "　あなたは突進した。彼女はそれを横に跳んで躱し、あなたの肋骨を打ち叩いた。あなたは彼女の警棒を掴み取ったが、彼女の拳は警棒と変わらぬ強烈さだった。あなたの船員たちは恐怖のあまり助けに入れずにいた。<br/><br/>　戦いは膠着し、停戦に持ち込まれた。彼女は微笑み、唇から血を拭った。「その力を何か正しいことのために使いさえすればね、[q:呼称]。いいこと、私は帰るわ。でも、すっかり準備が整ってからよ。父にはすぐに会うことになると伝えなさい。私はロンドンを捨てたわけじゃない」@{I}$q:Addressed As -> q:呼称$You lunge; she sidesteps, and cracks you in the ribs. You take her truncheon, but her fists are just as hard. Your crew is too afraid to step in to help.\u000d\u000a\u000d\u000aYou fight to a standstill, and a truce. She smiles, as she wipes the blood from her lip. \"If only you put that strength to some good, [q:Addressed As]. Tell you what: I <i>will</i> return, but when I'm good and ready. Tell my father I'll see him soon. London's my city, too.\"",
-                                     "Name": "父の子@{I}Her father's child", "Id": 230584},
+                                     "Name": "あの父にしてこの子あり@{I}Her father's child", "Id": 230584},
                     "Name": "彼女の捕獲を試みる@{I}Attempt to capture her",
                     "Description": "「警告しておくわ、[q:呼称]――やめておきなさい」@{I}$q:Addressed As -> q:呼称$\"I'm warning you now, [q:Addressed As] - stand down.\"",
                     "ButtonText": "", "Id": 177592},
@@ -17,5 +17,5 @@
                     "Name": "帰ってくるように彼女を説得する@{I}Convince her to return",
                     "Description": "　あるいは少なくともそう試みる。彼女は父親との再会に興味がありそうには見えない。@{I}Or try to, at least. She doesn't seem interested a reunion with her father.",
                     "ButtonText": "", "Id": 177964}],
- "Description": "「変ね。あなたは父が普段雇っているような類の人間には見えない」父とは？警棒を持つ彼女の手が白くなった。「チアリー・マンよ。あなたは私を始末しに来たの？」@{I}\"Odd. You don't look like the kind my father usually employs.\" Her father? Her knuckles whiten around her truncheon. \"The Cheery Man. Are you here to kill me?\"",
+ "Description": "「変ね。あなたは父が普段雇っているような類の人間には見えない」父とは？警棒を持つ彼女の手の関節が白くなった。「チアリー・マンよ。あなたは私を始末しに来たの？」@{I}\"Odd. You don't look like the kind my father usually employs.\" Her father? Her knuckles whiten around her truncheon. \"The Cheery Man. Are you here to kill me?\"",
  "Name": "最後の治安官@{I}The Last Constable", "Id": 230583}

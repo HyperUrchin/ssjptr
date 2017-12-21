@@ -33,7 +33,7 @@
                                      "LinkToEvent": {"Id": 167219},
                                      "Name": "これは聞いたことあるかな……@{I}Did you hear the one about...",
                                      "Id": 167800},
-                    "RareDefaultEvent": {"Description": "　裏切りの女帝とキンチャクフグの話を。けしからん！彼らは一語たりとも信じなかった。それでも、あなたの語り口はマグに何杯分もの飲み物を勝ち取った。@{I}$Traitor Empress -> 裏切りの女帝$...the Traitor Empress and the Cantigaster? Scandalous! They don't believe a single solitary word of it, but the way you tell it fills your mug many times over.",
+                    "RareDefaultEvent": {"Description": "　裏切りの女帝とカンティガスターの話を。けしからん！彼らは一語たりとも信じなかった。それでも、あなたの語り口はマグに何杯分もの飲み物を勝ち取った。@{I}$Traitor Empress -> 裏切りの女帝$...the Traitor Empress and the Cantigaster? Scandalous! They don't believe a single solitary word of it, but the way you tell it fills your mug many times over.",
                                          "LinkToEvent": {"Id": 167219},
                                          "Name": "これは聞いたことあるかな……@{I}Did you hear the one about...",
                                          "Id": 167803},
