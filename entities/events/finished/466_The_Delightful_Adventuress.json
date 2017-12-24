@@ -36,6 +36,6 @@
                     "Name": "答えは未だノーだ@{M}The answer remains no",
                     "Description": "一瞬だけ、考えを変える事を考えはした。@{M}For a moment, you considered changing your mind.",
                     "ButtonText": "", "Id": 143925}],
- "Description": "彼女の足は知る限りでも類を見ないほど大地を強く踏みしめている。彼女の目は常に、名声と栄光を得る機会を探し求めているようだ。@{M}Her feet have trodden lands most in the Neath have never even heard of. Her eyes have seen every opportunity for fame and glory while there.",
+ "Description": "　彼女の足はNeathでもほとんど知られていないような土地をいくつも踏破してきた。そしてどこにいても、彼女の目は常に名誉と栄光を得る機会を探し求めていた。@{I}彼女の足は知る限りでも類を見ないほど大地を強く踏みしめている。彼女の目は常に、名声と栄光を得る機会を探し求めているようだ。@{M}Her feet have trodden lands most in the Neath have never even heard of. Her eyes have seen every opportunity for fame and glory while there.",
  "Name": "愉快な女冒険家@{M}$Delightful Adventuress -> 愉快な女冒険家$The Delightful Adventuress",
  "Id": 176037}
