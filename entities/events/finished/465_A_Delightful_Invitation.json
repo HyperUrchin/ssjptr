@@ -13,7 +13,7 @@
                     "ButtonText": "", "Id": 143647},
                    {"DefaultEvent": {"Description": "愉快な女冒険家はあなたが戻って来たのを見ても驚いた様子を見せない。「旅行鞄を用意しなさい！」彼女はクレイマンの従僕に命じる。「帝国はいまだ私たちを待っていますよ！」@{K}貴方が戻ってきても、愉快な女冒険家は驚いた様には見えなかった。「あたしの鞄を用意しな!」彼女はクレイマンの従者に命じる。「帝国が待ってるさね!」@{M}$Clay M[ae]n -> クレイマン, Delightful Adventuress -> 愉快な女冒険家$The Delightful Adventuress seems unsurprised by your return. \"Prepare my valise!\" she orders her Clay Man valet. \"The Empire awaits after all!\"",
                                      "LinkToEvent": {"Id": 143503},
-                                     "Name": "「あぁ、放蕩船長のお帰りですか」@{K}\"ああ、やっと来たかい、カピターノ\"@{M}\"Ah, the prodigal kapitano.\"",
+                                     "Name": "「あぁ、ふらふら遊び歩く船長のお帰りですか」@{K}\"ああ、やっと来たかい、カピターノ\"@{M}\"Ah, the prodigal kapitano.\"",
                                      "Id": 176469},
                     "Name": "愉快な女冒険家の誘いを受ける@{M}$Delightful Adventuress -> 愉快な女冒険家$Accept the Delightful Adventuress' offer",
                     "Description": "彼女は金を持っている。労力に見合うだけの報酬は期待できるだろう。@{K}彼女は貴方の割に合うだけの仕事をする富がある。@{M}She is rich enough to make it worth your while.",
