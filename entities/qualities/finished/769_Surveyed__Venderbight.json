@@ -1,0 +1,4 @@
+{"Description": "あなたは半分死んだ者たちの向かう場所を訪れた。@{K}貴方は半死人が向かう場所を見た。@{M}You have seen the place where the half-dead go.",
+ "ChangeDescriptionText": "1|あなたのヴェンダーバイトへの訪問が総督府記録事務局によって確かめられた@{K}1|貴方のベンダーバイトへの訪問は総督府記録事務局で確認されました。@{M}$Admiralty -> 海軍省, Venderbight -> ヴェンダーバイト$1|Your visit to Venderbight has been confirmed by the Admiralty Records Office",
+ "Name": "調査済み: ヴェンダーバイト@{K}調査済: ベンダーバイト@{M}$Venderbight -> ヴェンダーバイト$Surveyed: Venderbight",
+ "Id": 109630}

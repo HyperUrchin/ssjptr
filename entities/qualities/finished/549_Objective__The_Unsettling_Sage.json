@@ -1,0 +1,4 @@
+{"Description": "「エンジンを組み上げる為に助けが必要になります。エンジンはピッグの様に生きていなければならないのですが、僕はその、金属のほうが得意でして」[賢者をカーネイトの近くにある百合の海のウィズダムから救出するか、金を払って解放し、疲れ知らずのメカニックが計画を完了させる手伝いをしましょう。]@{K/M}「エンジンを組み上げる為に助けが必要になります。それは豚の様に生きている必要があるんですが、僕はその、金属のほうが得意でして。」[彼をハン王国の近くにある鬼百合海の中のウィズダムから救出するか開放し、疲れ知らずの技師の計画完了の手伝いをしましょう。]@{M}$Khan -> カーン, Khanate -> カーネイト, Sea of Lilies -> 百合の海, Wisdom -> ウィズダム, Tireless Mechanic -> 疲れ知らずのメカニック$\"I'll need help to build the engine. It'll need to be alive, like the Pigs, and I'm, er, better at metal.\" [Rescue or ransom him from Wisdom, in the Sea of Lilies near the Khanate to help the Tireless Mechanic complete his project.]",
+ "LevelDescriptionText": "1|彼をウィズダムから救出するか、金を払い解放しよう@{K}1|彼をウィズダムから救出するか解放せよ。@{M}$Wisdom -> ウィズダム$1|Rescue or Ransom him from Wisdom",
+ "Name": "目的: 狼狽させる賢者@{K}目的: 落ち着きのない賢人@{M}$Objective: -> 目的:, Unsettling Sage -> 狼狽させる賢者$Objective: The Unsettling Sage",
+ "Id": 115959}

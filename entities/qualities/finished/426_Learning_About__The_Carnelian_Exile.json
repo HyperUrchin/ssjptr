@@ -1,5 +1,5 @@
 {"Description": "彼女は一体何になるのだろう？@{M}What will she become?",
  "LevelDescriptionText": "5|追放者と夕食を共にした。~10|貴方は決断した。~11|貴方は追放者の船室を訪れた。~20|貴方は追放者の質問に答えた。@{M}20|You answered the Exile's question.~5|You dined with the Exile.~10|You made a choice.~11|You've visited the Exile in her cabin.",
  "ChangeDescriptionText": "5|追放者と夕食を共にした。~10|貴方は決断した。~11|貴方は追放者の船室を訪れた。~20|貴方は追放者の質問に答えた。@{M}5|You dined with the Exile.~10|You made a choice.~11|You've visited the Exile in her cabin.~20|You answered the Exile's question.",
- "Name": "人物観察: カーネリアの追放者@{M}$Learning About: -> 事情を知る:$Learning About: The Carnelian Exile",
+ "Name": "事情を知る: カーネリアンの追放者@{K}人物観察: カーネリアの追放者@{M}$Learning About: -> 事情を知る:$Learning About: The Carnelian Exile",
  "Id": 112668}

@@ -34,7 +34,7 @@
                                      "LinkToEvent": {"Id": 176515},
                                      "Name": "「素晴らしい！」@{K}\"Fascinating!\"", "Id": 176711},
                     "Name": "サーペンティンを献上する@{K}$Serpentine -> サーペンティン, Fathomking -> ファザムキング$Present the Fathomking with your Serpentine",
-                    "Description": "「陛下、これこそは科学とより狡猾な技術の奇跡の結晶です。硝子と炎、鋼と蛇たち、そして大いなる力と毒に侵された夢を用いて作られました」@{K}\"Your Complexity. Here is a miracle of science and the subtler arts. Glass and fire, steel and serpents, power and prisoned dreams.\"",
+                    "Description": "「陛下、これこそは科学とより狡猾な技術の奇跡の結晶です。硝子と炎、鋼と蛇たち、そして大いなる力と閉じ込められた夢を用いて作られました」@{K}\"Your Complexity. Here is a miracle of science and the subtler arts. Glass and fire, steel and serpents, power and prisoned dreams.\"",
                     "ButtonText": "", "Id": 144107},
                    {"DefaultEvent": {"Description": "「なんとおぞましい」王は大砲を観察し、述べた。「たとえそなたが星の皮を剥ぎ取りそれを捧げたとても、このものほどに我が心肝を寒からしめはせんだろうよ。しかし、大した功績であることは事実だ。我が望みは満たされた」\u000d\u000a\u000d\u000a王が軽く手で合図するとドラウニーの子供が裸足で前へ進み出て、珊瑚のナイフをあなたに手渡した。（その間に侍従は親切にもあなたの船の武器を“近頃食べられたばかりの”船から外された物に交換する手はずを整えてくれた。）@{K}$Fathomking -> ファザムキング$\"What a completely horrible object,\" the Fathomking observes. \"Honestly, if you had flayed a star and brought me its skin, it couldn't be more appalling than this. But I recognise the achievement. You have fulfilled my request.\"\u000d\u000a\u000d\u000aAt his gesture, a Drownie child walks forward, bare feet slapping, to present you with a knife of coral. (The chamberlain, meanwhile, kindly arranges to replace your device with a weapon from a ship they had 'recently eaten'.)",
                                      "LinkToEvent": {"Id": 176515},
