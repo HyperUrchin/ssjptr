@@ -4,7 +4,7 @@
                     "Name": "己を知る@{K}Know yourself",
                     "Description": "あなたは燃えさかる知識をはるばる海原を越えて、ここまで運んできた。それを用いて靄に映るあなたの鏡像を照らしだそう。@{K}You have brought burning knowledge across the sea. Use it now to unveil your shadow-reflection in the fog.",
                     "ButtonText": "", "Id": 146943},
-                   {"DefaultEvent": {"Description": "あなたたちは腕と足を激しく縺れさせ床を転がりまわった。あなたはあなたの弱点をすべて知っている。しかし、それはあなたも同じだ。爪が肉を抉り、目を狙った。そして言葉はより深くあなたを抉る。そしてとうとう、あなたは身を震わせながら立ち上がった。あなたの血がその手を汚している。@{K}Over and over you go, in a tumble of furious limbs. You know all your weak spots. But so do you. Fingernails gouge your flesh, reach for your eyes. Words gouge deeper. At last you rise, trembling, your blood on your hands.",
+                   {"DefaultEvent": {"Description": "あなたたちは腕と足を激しく縺れさせ床を転がりまわった。あなたはあなたの弱点をすべて知っている。しかし、それはあなたも同じだ。爪が肉を抉り、目を狙った。そして言葉はより深くあなたを抉る。とうとう、あなたは身を震わせながら立ち上がった。あなたの血がその手を汚している。@{K}Over and over you go, in a tumble of furious limbs. You know all your weak spots. But so do you. Fingernails gouge your flesh, reach for your eyes. Words gouge deeper. At last you rise, trembling, your blood on your hands.",
                                      "LinkToEvent": {"Id": 181006},
                                      "Name": "荒々しい勝負@{K}A savage battle", "Id": 181475},
                     "Name": "自分に組み付く@{K}Wrestle yourself",
