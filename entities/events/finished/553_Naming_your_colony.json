@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "船員たちは賛成の意を込めて頷いている。「Storｍは変化を好まないからな」一人が指摘する。（「けれどSaltはそうじゃない」別の船員が落ち着かなげに呟いた……）@{K}The zailors nod approvingly. \"Storm don't like change,\" one points out. (\"But Salt does,\" one murmurs uneasily...)",
+{"ChildBranches": [{"DefaultEvent": {"Description": "船員たちは賛成の意を込めて頷いている。「Stormは変化を好まないからな」一人が指摘する。（「けれどSaltはそうじゃない」別の船員は落ち着かなげに呟いた……）@{K}The zailors nod approvingly. \"Storm don't like change,\" one points out. (\"But Salt does,\" one murmurs uneasily...)",
                                      "Name": "エスティヴァルとしよう@{K}$Aestival -> エスティヴァル$Aestival it is",
                                      "Id": 183594},
                     "Name": "「エスティヴァル」@{K}$Aestival -> エスティヴァル$\"Aestival.\"",
