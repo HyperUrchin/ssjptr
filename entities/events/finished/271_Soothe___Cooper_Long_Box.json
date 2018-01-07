@@ -3,6 +3,6 @@
                     "Name": "封を破り中身を確かめる@{K}Crack the seal and see what's inside.",
                     "Description": "好奇心は命取りとなりうる。@{K}Curiosity kills.",
                     "ButtonText": "", "Id": 130149}],
- "Description": "本当に、棺なのかもしれない？@{K}Is it, in fact, a coffin?",
+ "Description": "これは本当に、棺なのだろうか？@{K}Is it, in fact, a coffin?",
  "Name": "スーズ＆クーパー社の長箱@{K}$Soothe (and|&) Cooper -> スーズ&クーパー$Soothe & Cooper Long-Box",
  "Id": 152840}

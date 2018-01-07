@@ -4,7 +4,7 @@
                     "Name": "……輝く二つの塔@{K}...輝ける塔@{M}...shining towers",
                     "Description": "何処かで、氷と謎に彩られた岩が偽星に向かって聳え立っている。@{K}此処かで、人口の星々に向かって氷と絡繰仕掛けの岩が立ち上っている。@{M}$[Ff]alse[- ][Ss]tar -> 偽星$Somewhere, ice and riddle-worked rock rise towards the false-stars.",
                     "ButtonText": "", "Id": 129712},
-                   {"DefaultEvent": {"Description": "その道は波間を越え東へと伸びる。光に覆われ煌く、足跡のような斑模様のついた幾つものイメージ。旅人は帰りゆく。@{K}道は波を超えて東へ走る。光膜は無秩序な足跡のように斑な印象を与える。旅人は引き返している。@{M}The road runs east across the waves. Dappled images like footprints, glaze of light. A traveller returning.",
+                   {"DefaultEvent": {"Description": "その道は波間を越え東へと伸びる。光に覆われ煌く、足跡のような斑模様になった幾つものイメージ。一人の帰りゆく旅人。@{K}道は波を超えて東へ走る。光膜は無秩序な足跡のように斑な印象を与える。旅人は引き返している。@{M}The road runs east across the waves. Dappled images like footprints, glaze of light. A traveller returning.",
                                      "Name": "沈んだ太陽@{M}A sunken Sun", "Id": 152182},
                     "Name": "……下方の光@{K}下からの光@{M}...a light beneath",
                     "Description": "水の中にある何かが煌めいている。@{M}Something in the water gleams.",
