@@ -5,7 +5,7 @@
                                          "LinkToEvent": {"Id": 148787}, "Name": "痛い！@{K}ああっ!@{M}Ow!",
                                          "Id": 178796},
                     "Name": "アイアンを上げる@{M}$Iron -> アイアン$Increase your Iron",
-                    "Description": "「準備は良いかい？痛い目に遭うかもしれないよ」[数値が100を超えていない場合、秘密を消費してあなたのアイアンを上げることができます。あなたはは傷つくかもしれません。重傷を負っている時はこの選択肢は選べません。]@{K/M}「準備は良いかい?痛い目に遭うかもしれないよ。[数値が100以下の場合、秘密を消費して貴方のアイアンを上げます。貴方は傷つくかもしれません。重傷を負っている時はこの選択肢は選べません。]@{M}$Iron -> アイアン$\"You ready for this? It might hurt.\" [Spend a Secret to improve your Iron, unless it's higher than 100. It might hurt: you can't choose this option if badly wounded.]",
+                    "Description": "「準備は良いかい？痛い目に遭うかもしれないよ」[数値が100を超えていない場合、秘密を消費してあなたのアイアンを上げることができます。あなたは傷つくかもしれません。重傷を負っている時はこの選択肢は選べません。]@{K/M}「準備は良いかい?痛い目に遭うかもしれないよ。[数値が100以下の場合、秘密を消費して貴方のアイアンを上げます。貴方は傷つくかもしれません。重傷を負っている時はこの選択肢は選べません。]@{M}$Iron -> アイアン$\"You ready for this? It might hurt.\" [Spend a Secret to improve your Iron, unless it's higher than 100. It might hurt: you can't choose this option if badly wounded.]",
                     "ButtonText": "", "Id": 127622},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 120804},
                                      "Name": "", "Id": 148790},
