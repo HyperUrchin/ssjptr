@@ -1,7 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "彼女は喋らない。あるいは喋ることが出来ない。しかし、彼女が海のことを知っているのは明らかだった。上手くやっていくことだろう。@{K}She can't, or won't, speak, but it's clear she knows the zee. She'll do well, this one.",
                                      "Name": "歓迎する@{K}Welcome her aboard", "Id": 153223},
                     "Name": "許可する@{K}Permit it",
-                    "Description": "……他の船乗りたちが海のお守りを握りしめ、悪を追い払う仕草をしていたとしても。ウィザーの人間は不吉だ。コーデックスから追放されたものはさらに不吉だろう。@{K}$Codex -> コーデックス, Whither -> ウィザー$...though other zailors clutch their zee-talismans and make signs against evil. The folk of Whither are uncanny: those who are exiled to Codex must be more so.",
+                    "Description": "……他の船乗りたちが海のお守りを握りしめ、悪を追い払う仕草をしていたとしても。ウィザーの人間は不吉だ。コーデックスへと追放されたものはさらに不吉だろう。@{K}$Codex -> コーデックス, Whither -> ウィザー$...though other zailors clutch their zee-talismans and make signs against evil. The folk of Whither are uncanny: those who are exiled to Codex must be more so.",
                     "ButtonText": "", "Id": 130388},
                    {"DefaultEvent": {"Description": "彼女の顔は見えない。あなたの答えを聞く気が本当にあったのだろうか？あなたは文明からはるか離れた場所にいる。@{K}You can't see her face. Does she even care? You're a long way from everywhere that matters.",
                                      "Name": "彼女は肩をすくめると他所を向いた@{K}She shrugs and turns away",

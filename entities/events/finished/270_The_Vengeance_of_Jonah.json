@@ -8,7 +8,7 @@
                     "DefaultEvent": {"Description": "最終的に出来上がった物は、目を瞑れば食べられる。塩漬けにした方がより良いだろう。@{M}The final product is edible, if you close your eyes. It's probably better pickled.",
                                      "Name": "まずまずの成功@{M}An adequate success", "Id": 152804},
                     "Name": "奇妙な漁獲を渡す@{M}$Strange Catch -> 奇妙な漁獲物$Offer a Strange Catch",
-                    "Description": "ヨナの復讐は食の探求に関して伝統に縛られない発想を持っている。[彼らは少しばかりの報酬を支払ってくれるでしょう。それに加えて、渡した物の一部を食糧として返して貰えます。]@{K/M}ジョナのあだ討ちは食の探求に関して結構自由な発想を持っている。[彼らから少しばかりのお金を貰ったで、渡した物を物資として返して貰えます。]@{M}The Vengeance of Jonah is liberal in its approach to edibility. [They will pay a small fee and return some of the material to you as Supplies.]",
+                    "Description": "ヨナの復讐は食の探求に関して、伝統に縛られない発想を持っている。[彼らは少しばかりの報酬を支払ってくれるでしょう。それに加えて、渡した物の一部を食糧として返して貰えます。]@{K/M}ジョナのあだ討ちは食の探求に関して結構自由な発想を持っている。[彼らから少しばかりのお金を貰ったで、渡した物を物資として返して貰えます。]@{M}The Vengeance of Jonah is liberal in its approach to edibility. [They will pay a small fee and return some of the material to you as Supplies.]",
                     "ButtonText": "", "Id": 130127},
                    {"SuccessEvent": {"Description": "ヨナの復讐の主人である包帯巻きのポワソニエは、味を『快い七つの味』、『快くない七つの味』、『どちらでもない七つの味』に分類している。この食事の味は、主に一番目の分類に属するものだ。@{K/M}ジョナのあだ討ちの主人である包帯巻きのポワソニエは、味覚を\"満足する7つの味\"、\"満足出来ぬ7つの味\"、\"どちらとも言えぬ7つの味\"に分類している。この食事の味は、主に一番目の分類に属するものだ。@{M}$Bandaged Poissonnier -> 包帯巻きのポワソニエ$The Bandaged Poissonnier, owner of the Vengeance of Jonah, has identified seven flavours which are pleasant, seven which are unpleasant, and seven which are neither. The flavours of this meal are chiefly of the first kind.",
                                      "Name": "筆舌に尽くし難い食事@{M}A meal which defies description",
