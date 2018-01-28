@@ -75,7 +75,7 @@
                     "Description": "あなたは痣をこしらえ、悪臭を放ち、疲れ切っている。彼女の勝ちだ。@{K}You are bruised, stinking and tired. She wins.",
                     "ButtonText": "", "Id": 145575},
                    {"DefaultEvent": {"Description": "一匹のペンテコステ猿が悲鳴を上げ梢から落ちる。拾い子の顔に浮かんだショックを受けた表情から、これが彼女のささやかなゲームの一部でないことは明らかだった。猿の怒りはトネリコ地峡の幽霊である拾い子と彼女の中にある輝く魂に向けられた。あの魂さえあれば猿は高められ栄光を得ることが出来るのだ。\u000d\u000a\u000d\u000a猿がよろよろと罠から這い出す。その毛皮は血に濡れギラギラと光っている。そして猿が拾い子に飛び掛かると、彼女は半ば転がるようにして切り株から落ち、猿に足を掴まれて短く悲鳴を上げた。彼女は転がり吠え声をあげて反撃に移り、猿を蹴りつけ唇を裂き牙を砕いた。しかし、その攻撃は泡を吹く猿をより激高させただけだった。猿が金切声を上げる！@{K}$Pentecost -> ペンテコステ, Ash Isthmus -> トネリコ地峡, Monkey Foundling -> 猿の拾い子$A screeching Pentecost ape drops from the branches. The shock on the Monkey Foundling's face makes it clear; this is not part of her little game. Its rage is focused entirely on her, the Ghost of the Ash Isthmus, and the bright soul with which it can uplift itself to glory.\u000d\u000a\u000d\u000aIt limps from some trap earlier, its fur blood-soaked and glistening. It lunges at the Monkey Foundling, who half rolls, half falls off the stump and yelps as it catches her by the leg. She rolls; shrieks her own howl as she lashes back with a kick that shatters fang and splits its lip. This only further enrages the frothing ape. It strikes!",
-                                     "LinkToEvent": {"Id": 175837}, "Name": "奇襲だ！@{K]Ambush!",
+                                     "LinkToEvent": {"Id": 175837}, "Name": "奇襲だ！@{K}Ambush!",
                                      "Id": 179152},
                     "Name": "猿の拾い子が踊っている@{K}$Monkey Foundling -> 猿の拾い子$The Monkey Foundling dances",
                     "Description": "彼女は切り株の上でつま先立ちになりくるくると回っている。そしてあなたが近づくと敬礼してみせた。@{K}She pirouettes on a tree-stump, saluting as you approach.",

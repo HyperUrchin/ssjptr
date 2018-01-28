@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "謎めいた物から人々を守る良俗省がこの本に手を加えてしまった。しかし、伝承の極寒の欠片はいまだに残されていた……星間にある荒野の恐怖。空で行われる人ならざる駆け引き。シークエンスと鎖の変わることなき要求。あなたはいまや、不可視のものの統治の下に世界が存続していることを理解している。@{K}$Ministry of Public Decency -> 良俗省$The Ministry of Public Decency, which guards against the mysterious, has had its way with the book. Still, arctic fragments of lore remain.... the horror of the wilderness between stars. The inhuman politics of the sky. The inflexible demands of the Sequence and the Chain. You know, now, something of the invisible rules on which the world rests.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "謎めいた物を監視する良俗省がこの本に手を加えてしまった。しかし、伝承の極寒の欠片はいまだに残されていた……星間にある荒野の恐怖。空で行われる人ならざる駆け引き。シークエンスと鎖の変わることなき要求。あなたはいまや、世界は不可視のものの統治の下に存続していることを理解している。@{K}$Ministry of Public Decency -> 良俗省$The Ministry of Public Decency, which guards against the mysterious, has had its way with the book. Still, arctic fragments of lore remain.... the horror of the wilderness between stars. The inhuman politics of the sky. The inflexible demands of the Sequence and the Chain. You know, now, something of the invisible rules on which the world rests.",
                                      "Name": "", "Id": 168135},
                     "Name": "コーデックスを読む@{K}$Codex -> コーデックス$Read the Codex",
                     "Description": "表紙には霜によって細かい罅が入っている。[ページを60まで上昇させます。]@{K}$Pages -> ページ$The cover crackles with frost. [This will increase your Pages to 60.]",
@@ -8,6 +8,6 @@
                     "Name": "コーデックスを読む@{K}$Codex -> コーデックス$Read the Codex",
                     "Description": "あなたほどの学者であれば、この本からより一層学ぶことができるだろう。[ページを85まで上昇させます。]@{K}$Pages -> ページ$A philosopher of your degree will learn far more from this book. [This will increase your Pages to 85.]",
                     "ButtonText": "", "Id": 139807}],
- "Description": "これは夜にあなたの元にやってきた。どのようにして来たのかその正確な所が分かる日は来ないだろう。これはひどく検閲されているが、いくつかの詳細は生き残っている……@{K}This came to you by night: how exactly will never be clear. It has been savagely censored, but some details survive...",
+ "Description": "これは夜にあなたの元にやってきた。どのようにして来たのか、その正確な所が分かる日は来ないだろう。中身はひどく検閲されているが、いくつかの詳細は生き残っている……@{K}This came to you by night: how exactly will never be clear. It has been savagely censored, but some details survive...",
  "Name": "ホライゾン・コーデックス@{K}$Codex -> コーデックス$The Horizon Codex",
  "Id": 168134}

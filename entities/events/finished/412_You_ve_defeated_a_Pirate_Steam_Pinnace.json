@@ -15,7 +15,7 @@
                     "DefaultEvent": {"Description": "あなたの戦利品が再び目撃されることはなかった。ヘプティチィアに飲み込まれたか、船員がお互いに食い合ったのか。あるいは彼らはあなたを裏切ってアイアン・リパブリックへ向かったのかもしれない。法の手の届かない場所へと。@{K}$Iron -> アイアン, Iron Republic -> アイアン・リパブリック$Your prize is never seen again. Perhaps a heptycheer devours your crew. Perhaps they devour each other. Perhaps they betray you and sail it to the Iron Republic, where laws cannot follow.",
                                      "Name": "闇の中へ@{K}Into the darkness", "Id": 171365},
                     "Name": "船員を乗せ家へ向かわせる@{K}Send her home with a prize crew",
-                    "Description": "2人もいれば最低限足りるだろう。それにこの船は早いのでトラブルに巻き込まれることもない。@{K}Two zailors should be enough for a skeleton crew, and she's fast enough to avoid most trouble.",
+                    "Description": "2人もいれば最低限足りるだろう。それにこの船は早いので、トラブルに巻き込まれることもない。@{K}Two zailors should be enough for a skeleton crew, and she's fast enough to avoid most trouble.",
                     "ButtonText": "", "Id": 140730}],
  "Description": "この船はあなたのものだ！さて、これをどうしようか？@{K}The ship is yours! What will you do with her?",
  "Name": "海賊の小型汽船を打ち倒した@{K}You've defeated a Pirate Steam-Pinnace",

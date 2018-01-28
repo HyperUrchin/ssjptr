@@ -5,7 +5,7 @@
                     "Description": "どこかに――何処かには出口があるはずだ。暗闇があなたを圧迫し、その熱い息があなたの首元にかかる。@{K}Somewhere - somewhere here is the way out. The darkness presses against you. Its breath is hot on your neck.",
                     "ButtonText": "", "Id": 131684},
                    {"DefaultEvent": {"Description": "あなたたちが砦から修道院の明かりの中へ目を瞬かせながら脱出すると、修道士たちの間で金がやり取りされていた。砦に立ち入った旅人たちの末路で賭けをするのが風習となっているようだ。全ての者が喜んでいるわけではなかった。@{K}Money changes hand between monks as you emerge, blinking, into the light of their lamps. It is their custom to make bets on the fate of travellers who enter the Citadel. Not all of them are cheering.",
-                                     "Name": "歓喜の声！@{K}A cheer!", "Id": 155249},
+                                     "Name": "歓声！@{K}A cheer!", "Id": 155249},
                     "Name": "立ち去る@{K}Leave",
                     "Description": "ここの壁にあいた罅は修道院の地下室へと繋がっている。@{K}Here's the wall-crack that leads to the monastery-cellar.",
                     "ButtonText": "", "Id": 131694},

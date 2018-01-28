@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 192740},
                                      "Name": "感傷的な針の痛み@{K}A sentimental sting", "Id": 193065},
                     "Name": "顔に入れ墨を入れる@{K}Choose a face tattoo",
-                    "Description": "あなたは自分の分別無き行動の結果を誇りを持って身に着ける。@{K]You wear your indiscretions with pride.",
+                    "Description": "あなたは自分の分別無き行動の結果を誇りを持って身に着ける。@{K}You wear your indiscretions with pride.",
                     "ButtonText": "", "Id": 153974},
                    {"DefaultEvent": {"Description": "海賊詩人は素早く短い詩を作り上げた。その詩はあなたの腕に巻き付き、刺青師の裁量によって装飾される。それは俳句のような形式で、内容はポリズリームの伝統に従い生命と恐ろしき物へ頌歌となっている。\u000d\u000a\u000d\u000aあなたのタトゥーは完成した。海賊詩人は自分の番を待っている。@{K}$Polythreme -> ポリズリーム, Pirate-Poet -> 海賊詩人$The Pirate-Poet quickly composes a short piece, to be wound around your arm and decorated as the needleman sees fit. It is a haiku style verse in the traditional Polythreme style; an ode to life, and the terrible thing that it is.\u000d\u000a\u000d\u000aYour tattoo is complete. The Pirate-Poet awaits hers.",
                                      "LinkToEvent": {"Id": 192740},
