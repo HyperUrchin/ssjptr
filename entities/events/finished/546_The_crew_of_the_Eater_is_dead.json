@@ -9,6 +9,6 @@
                     "Name": "船主像を奪う@{K}Seize its figurehead",
                     "Description": "その色はギャントだ。全ての色が喰らいつくされた後に残る色。@{K}$[Gg]ant -> ギャント$The colour is gant: that colour which remains when all else has been consumed.",
                     "ButtonText": "", "Id": 147409}],
- "Description": "蠕虫たちは動きを止め、キェロネイト人たちは皆殺しにされた。この船はトロフィー代わりに持ち帰るとしようか。……この骨とZeeの虫やらの船を？船員を一瞬見やり、あなたは思いとどまった。その船員はゆっくりと首を横に振っていた。@{K}The worms lie quiescent. The Chelonites are slain. Take it as a prize-ship, bones and zee-worms and all...? One look at your bo'sun dissuades you. He shakes his head slowly.",
+ "Description": "蠕虫たちは動きを止め、キェロネイト人たちは皆殺しにされた。この船はトロフィー代わりに持ち帰るとしようか。……この骨とZeeの虫やらの船を？甲板長を一瞬見やり、あなたは思いとどまった。彼はゆっくりと首を横に振っていた。@{K}The worms lie quiescent. The Chelonites are slain. Take it as a prize-ship, bones and zee-worms and all...? One look at your bo'sun dissuades you. He shakes his head slowly.",
  "Name": "イーター・オブ・ネームズの船員は死んだ@{K}The crew of the Eater is dead",
  "Id": 182154}

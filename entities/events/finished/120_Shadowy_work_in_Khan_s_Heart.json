@@ -62,7 +62,7 @@
                     "DefaultEvent": {"Description": "『白と金』が運び屋を見つけてしまった。彼らがあなたの資金に満足ゆく使い道を見つけるだろう事は疑いようもない。@{K}$[Tt]he White -> 白きもの$The White-and-Golds found your courier. No doubt they'll find a satisfying use for your funds.",
                                      "Name": "横取りされた！@{K}Intercepted!", "Id": 150912},
                     "Name": "現金@{K}Cash",
-                    "Description": "諜報員は資金に対してとりわけ貪欲だ。賄賂に、秘密を洩らさないように渡す金に、特殊な装備に……@{K}Spies have an extraordinary appetite for funds. Bribes, hush-money, peculiar equipment...",
+                    "Description": "諜報員は資金に対してとりわけ貪欲だ。賄賂に、口止め料に、特殊な装備に……@{K}Spies have an extraordinary appetite for funds. Bribes, hush-money, peculiar equipment...",
                     "ButtonText": "", "Id": 128874},
                    {"SuccessEvent": {"Description": "「海の仕事を引退するつもりがあるのでしたら、最適な場所を見つけられましたね」一人の諜報員が言った。お世辞かもしれないが、あなたは今夜の仕事を上手くやりおおせた。@{K}\"If you ever want to retire from sailoring,\" offers one spy, \"you've found your niche.\" Perhaps it's flattery. But you've done well tonight.",
                                      "Name": "熟練の手腕！@{K}A craftsman!", "Id": 151110},

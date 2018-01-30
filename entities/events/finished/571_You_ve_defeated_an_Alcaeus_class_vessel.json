@@ -1,6 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "「船長！急いで！あそこ、左舷のほうに！」@{K}\"Cap'n! Quick! Over there, port-side!\"",
                                      "LinkToEvent": {"Id": 192734},
-                                     "Name": "あなたは船を寄せ、船首灯で破片を照らした@{K}You steer close, shining the lamp on the debris",
+                                     "Name": "あなたは船を寄せ、船首灯で残骸を照らした@{K}You steer close, shining the lamp on the debris",
                                      "Id": 192732},
                     "Name": "残骸を調べる@{K}Investigate the wreckage",
                     "Description": "何かを引き揚げたいのならすばやく行動する必要がある。@{K}You will have to be quick to salvage anything.",

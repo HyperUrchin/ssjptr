@@ -9,7 +9,7 @@
                     "Name": "森の中の祭殿@{K}A temple in the forest",
                     "Description": "多様な植生の森の中にある開けた場所に、木と石から築かれた堂々たる建造物が聳え立っている。@{K}In a clearing of parasynthetic trees looms an imposing structure of wood and stone.",
                     "ButtonText": "", "Id": 143284},
-                   {"DefaultEvent": {"Description": "もしかすると、フォールン・ロンドンにあなたがこの島の宝を手に入れるのを助けてくれる者がいるかもしれない。@{K}$Fallen London -> フォールン・ロンドン$Perhaps there is someone in Fallen London who might be able to help you get to the treasures of this island.",
+                   {"DefaultEvent": {"Description": "もしかすると、フォールン・ロンドンにはあなたがこの島の宝を手に入れるのを助けてくれる者がいるかもしれない。@{K}$Fallen London -> フォールン・ロンドン$Perhaps there is someone in Fallen London who might be able to help you get to the treasures of this island.",
                                      "Name": "調査はまた後日@{K}An investigation for another day",
                                      "Id": 176027},
                     "Name": "小舟に戻る@{K}Return to the boat",

@@ -16,7 +16,7 @@
                     "Name": "ツェッペリンに燃料を運ぶ@{K}$Zeppelin -> ツェッペリン$Contribute Fuel to the Zeppelin",
                     "Description": "普通の燃料と水素なくしては、この船も遠くへは行けない。[ワイルドウィールド・コートで尊敬される訪問者となれば、別の場所からもっと効率よく燃料を手に入れる手はずを整えることが出来ます。]@{K}$Wildweald Court -> ワイルドウィールド・コート$Without regular fuel and hydrogen, it won't get far.\u000d\u000a [A respected visitor to the Wildweald Court can arrange a more efficient supply of Fuel from elsewhere.]",
                     "ButtonText": "", "Id": 143669},
-                   {"DefaultEvent": {"Description": "監督官はソヴリン島へ舟を漕ぐため、余った猿を二人あなたの元へと派遣してくれた。自分で櫂を漕ぐ必要がないと、短い旅路は遥かに心地よい物となった。あなたの舟が着く頃には優美な家令はすでに宮廷を招集していた。あらゆる階級の猿たちが静寂の会堂に並び、皇帝を待っている。@{K}The overseers dispatch a pair of spare monkeys to row you to Sovereign Island. The trip is endlessly more pleasurable without having to do the rowing. By the time you arrive, the Exquisite Seneschal has already summoned the court. Monkeys of every status line the Silent Gallery, awaiting the pleasure of the Emperor.",
+                   {"DefaultEvent": {"Description": "監督官はソヴリン島へ舟を漕ぐため、余った猿を二匹あなたの元へと派遣してくれた。自分で櫂を漕ぐ必要がないと、短い旅路は遥かに心地よい物となった。あなたの舟が着く頃には優美な家令はすでに宮廷を招集していた。あらゆる階級の猿たちが静寂の会堂に並び、皇帝を待っている。@{K}The overseers dispatch a pair of spare monkeys to row you to Sovereign Island. The trip is endlessly more pleasurable without having to do the rowing. By the time you arrive, the Exquisite Seneschal has already summoned the court. Monkeys of every status line the Silent Gallery, awaiting the pleasure of the Emperor.",
                                      "LinkToEvent": {"Id": 176742},
                                      "Name": "ワイルドウィールド・コートへと案内された@{K}$Wildweald Court -> ワイルドウィールド・コート$Escorted to the Wildweald Court",
                                      "Id": 176067},

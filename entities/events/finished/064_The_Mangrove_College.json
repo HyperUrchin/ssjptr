@@ -53,7 +53,7 @@
                     "ButtonText": "", "Id": 134539},
                    {"DefaultEvent": {"Description": "背の高い女性（泥で覆われているにもかかわらず堂々とした見た目だ）が扉を開いた。「彼からの伝言ですか？」彼女は尋ねると、喜んでにっこりと笑った。「では行きましょう。ヴェンダーバイトへ！エンジン全開で。この場所はもう十分です」@{K}$Venderbight -> ヴェンダーバイト$A tall woman - imposing despite a layer of mud - opens the door. \"Has he sent word?\" she asks. She grins delightedly. \"Let's be off. To Venderbight! Don't spare the engines. It's been too long.\"",
                                      "LinkToEvent": {"Id": 143391}, "Name": "", "Id": 172750},
-                    "Name": "ぼんやりした友をヴェンダーバイトまで乗せる@{K}$Venderbight -> ヴェンダーバイト$Pick up an Absent Friend for Venderbight",
+                    "Name": "不在の友をヴェンダーバイトまで乗せる@{K}$Venderbight -> ヴェンダーバイト$Pick up an Absent Friend for Venderbight",
                     "Description": "あなたは道順をたどり、沼地に生えた楢の木陰にある、大きな葉から作られた掘立小屋にたどり着いた。扉をノックすると、家全体が紐を解かれてほどけるかのように震えた。@{K}The directions take you to a frondy hovel in the shade of a swamp-oak. When you knock, the whole thing quivers as if it's come unmoored.",
                     "ButtonText": "", "Id": 141590},
                    {"DefaultEvent": {"Description": "「もし誰かが訪ねてきたら、そうね、私は訪問者を受け付けてないって言ってくれる？伝えてもらえるって信頼しても大丈夫かしら？あなたも奴らのせいで私が仕事から気が散らされるのは嫌でしょう」[オフィサーのタブから画面上部のスロットにドラッグして彼女を役職に就けましょう。これは海の上ではなく、港で行うべきです。さもないと船員たちが動揺してしまうかもしれません。]@{K}$[Oo]fficer -> オフィサー$\"If anyone comes looking for me, well, I'm not accepting callers. Can I trust you to pass that on? You don't want them distracting me from my duties.\"[Appoint your new Officer by dragging her from the Officers tab to her slot at the top of the screen. Do this in port, not at sea, or you may unsettle your crew.]",

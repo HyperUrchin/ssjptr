@@ -4,7 +4,7 @@
                     "Name": "偵察：ソヴリン島@{K}A Scouting Trip: Sovereign Island",
                     "Description": "木造の宮殿が全体に広がり、島への水路は幾つもの小さな灯りのついたブイによって照らし出されている。@{K}A wooden palace stretches across the whole island, passage to it lit by a field of tiny glim buoys.",
                     "ButtonText": "", "Id": 143275},
-                   {"DefaultEvent": {"Description": "あなたは旅の合間にペンテコステ猿たちについて思考を巡らせた。分類上では、ペンテコステ猿は類人猿というよりも猿に近い。しかし彼らにこの事実を思い出させるのは賢明ではないだろう。多くの魂を持つ猿たちの目の前で呼ぶことを認められている名前は『ペンテコステ類人猿』だが、私的な場においては『あのクソ猿ども』という呼び名も同じぐらい一般的だ。“殺猿的な”侮辱と言うものだろう。@{K}$Pentecost -> ペンテコステ$The trip offers a little time to think on the Penties. Technically, they are monkeys rather than apes, but it is not tactful to remind them of this. To their high-souled faces, the accepted name is 'Pentecost apes'. In private though, 'the b___y monkeys' is about as common. It is, one might say, an <i>ad hominoid</i> insult.",
+                   {"DefaultEvent": {"Description": "あなたは旅の合間にペンテコステ猿たちについて思考を巡らせた。分類上では、ペンテコステ猿は類人猿というよりも猿に近い。しかし彼らの目の前でこの事実に言及するのは賢明ではないだろう。多くの魂を持つ猿たちの目の前で呼ぶことを認められている名前は『ペンテコステ類人猿』だが、私的な場においては『あのクソ猿ども』という呼び名も同じぐらい一般的だ。“殺猿的な”侮辱と言うものだろう。@{K}$Pentecost -> ペンテコステ$The trip offers a little time to think on the Penties. Technically, they are monkeys rather than apes, but it is not tactful to remind them of this. To their high-souled faces, the accepted name is 'Pentecost apes'. In private though, 'the b___y monkeys' is about as common. It is, one might say, an <i>ad hominoid</i> insult.",
                                      "LinkToEvent": {"Id": 175466},
                                      "Name": "人と猿@{K}Of apes and monkeys", "Id": 175463},
                     "Name": "偵察：トネリコ地峡@{K}$Ash Isthmus -> トネリコ地峡$A Scouting Trip: The Ash Isthmus",
