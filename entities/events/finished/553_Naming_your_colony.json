@@ -20,7 +20,7 @@
                     "Name": "「地下のユートピア」@{K}\"Utopia Beneath.\"",
                     "Description": "あなたは完璧な君主となるだろう。知恵と慈愛に満ち、過つことがないのだから。@{K}You'll be the perfect monarch: enlightened, merciful, absolute.",
                     "ButtonText": "", "Id": 148321},
-                   {"DefaultEvent": {"Description": "船員たちは歓声を上げた。しかし、見たところではその歓声は様々な理由から発せられた物のようだ。「昔ソフィアと呼ばれる女の子と知り合いだったよ」一人が物思いにふけりながら郷愁のこもった口調で言う。いずれにせよ、その名前には幸運をもたらすような響きがあることには皆賛成した。@{K}The zailors cheer, although, it seems, for a variety of reasons. \"I knew a girl called Sophia once,\" one muses nostalgically. In any case, all agree the name has a fortunate sound to it.",
+                   {"DefaultEvent": {"Description": "船員たちは歓声を上げた。しかし、見たところではその歓声は様々な理由から発せられた物のようだ。「昔ソフィアと呼ばれる女の子と知り合いだったよ」一人が物思いにふけりながら昔を懐かしむように言う。いずれにせよ、その名前には幸運をもたらすような響きがあることには皆賛成した。@{K}The zailors cheer, although, it seems, for a variety of reasons. \"I knew a girl called Sophia once,\" one muses nostalgically. In any case, all agree the name has a fortunate sound to it.",
                                      "Name": "ソフィアとしよう@{K}Sophia it is", "Id": 183598},
                     "Name": "「ソフィア」@{K}\"Sophia.\"",
                     "Description": "『ウィズダム』もいい名だが、その名前はもう使われてしまっている……カーネイトの牢獄の島に。だから、より古典的な名前を選ぼう。@{K}$Khan -> カーン, Khanate -> カーネイト, Wisdom -> ウィズダム$'Wisdom' would be a great name, but it's taken... by a Khanate prison. So stick with the classics.",
