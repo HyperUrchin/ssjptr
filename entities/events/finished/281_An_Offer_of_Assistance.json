@@ -1,5 +1,5 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "小さいオンボロの引き船はからがら生き延びた。貴方は生還した!@{M}The grubby little tug roars into life. You're home!",
-                                     "Name": "\"灯りだぞ、小僧!\"@{M}\"Stoke away, lads!\"", "Id": 153573},
+{"ChildBranches": [{"DefaultEvent": {"Description": "薄汚れた引き船のエンジンが唸りをあげる。あなたは帰って来たのだ！@{K}小さいオンボロの引き船はからがら生き延びた。貴方は生還した!@{M}The grubby little tug roars into life. You're home!",
+                                     "Name": "「野郎ども、燃料を燃やせ！」@{K}\"灯りだぞ、小僧!\"@{M}\"Stoke away, lads!\"", "Id": 153573},
                     "Name": "曳航の代金を支払う@{M}Pay the towing fee",
                     "Description": "此処から桟橋までの短い距離を曳いて貰うのに100エコー。ふむ...@{M}One hundred Echoes to travel the tiny distance between here and the docks. Well...",
                     "ButtonText": "", "Id": 130585},
@@ -7,7 +7,7 @@
                                      "Name": "ジーでは良く無い事が良く起こる@{M}Worse things happen at zee",
                                      "Id": 181198},
                     "Name": "引き揚げの権利@{M}Salvage rights",
-                    "Description": "「ほう、そうか...なら俺達が運んでやろう。だが、俺達は合法的にお前の船と貨物を貰い受ける事が出来るのを忘れるなよ。バザールの支配人と、彼らの海難救助法に感謝するんだな。神のご加護を。」[これにより貴方の船は消失し、最低の品質と燃費の小さな船のような物を代わりに獲得します。先ず間違いなく貨物も無くなるでしょうが、現金と拠点の宿場だけは残され、少なくとも貴方の命は保証されます。]@{M}$[Tt]he Masters of the Bazaar -> バザールの支配者たち$\"Well then... we can give you a lift. But we're legally entitled to take your ship and cargo. God bless the Masters of the Bazaar, and their salvage laws. God bless 'em.\" [This will remove your ship, and replace it with something minimal and a tiny bit of fuel. You'll probably lose your cargo, too, but you'll keep any cash and Lodgings, and at least you'll be alive.]",
+                    "Description": "「そうか、なら……連れてってやろう。ただし、俺たちはお前たちの船と積み荷を持って行くことが法で認められている。バザールの支配者と引き揚げ法に感謝だな。まったく良い法だよ」[この選択肢を選ぶとあなたの船は失われ、ほんの少しだけ燃料を積んだ最低限の船と交換されます。積み荷も失われるでしょう。しかし住居と現金は手元に残されます。それに、少なくとも生き延びることは出来るでしょう。]@{K}「ほう、そうか...なら俺達が運んでやろう。だが、俺達は合法的にお前の船と貨物を貰い受ける事が出来るのを忘れるなよ。バザールの支配人と、彼らの海難救助法に感謝するんだな。神のご加護を。」[これにより貴方の船は消失し、最低の品質と燃費の小さな船のような物を代わりに獲得します。先ず間違いなく貨物も無くなるでしょうが、現金と拠点の宿場だけは残され、少なくとも貴方の命は保証されます。]@{M}$[Tt]he Masters of the Bazaar -> バザールの支配者たち$\"Well then... we can give you a lift. But we're legally entitled to take your ship and cargo. God bless the Masters of the Bazaar, and their salvage laws. God bless 'em.\" [This will remove your ship, and replace it with something minimal and a tiny bit of fuel. You'll probably lose your cargo, too, but you'll keep any cash and Lodgings, and at least you'll be alive.]",
                     "ButtonText": "", "Id": 146749}],
- "Description": "「おおい、船長!燃料が無くなったんだよな?そりゃぁいけねぇ。俺達が助けてやれるぜ。手頃な値段と、ちょいとした条件でな。(ヘヘヘヘ...)」@{M}\"Ahoy, captain! Out of fuel, are we? That was unwise. We can help. For a reasonable price, under the circumstances. (Hee hee.)\"",
+ "Description": "「おおい、船長！燃料が無くなったんだよな？そりゃぁいけねぇ。俺達が助けてやれるぜ。“状況を鑑みて”、適切な値段でな。(ヘヘヘヘ……)」@{K/M}「おおい、船長!燃料が無くなったんだよな?そりゃぁいけねぇ。俺達が助けてやれるぜ。手頃な値段と、ちょいとした条件でな。(ヘヘヘヘ...)」@{M}\"Ahoy, captain! Out of fuel, are we? That was unwise. We can help. For a reasonable price, under the circumstances. (Hee hee.)\"",
  "Name": "援助の申し出@{M}An Offer of Assistance", "Id": 153572}

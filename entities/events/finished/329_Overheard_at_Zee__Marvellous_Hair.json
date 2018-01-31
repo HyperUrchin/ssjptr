@@ -1,3 +1,3 @@
-{"Description": "<b>狡猾な航海士:</b>「素敵な髪ですな。」\u000d\u000a<b>従事者:</b>「向こうに行って下さいますか。」\u000d\u000a<b>狡猾な航海士:</b>「貴方の髪の話をしただけでは無いですか。」\u000d\u000a<b>従事者:</b>「気持ち悪いから話しかけないで下さい。さもないと絞り倒しますわよ。」@{M}SLY NAVIGATOR: You have marvellous hair.\u000d\u000aCAMPAIGNER: Go away, please.\u000d\u000aSLY NAVIGATOR: I only wanted to talk about your hair.\u000d\u000aCAMPAIGNER: Go away, you ghastly little man, or I'll extract something.",
- "Name": "甲板での立ち聞き: 素敵な髪@{M}Overheard at Zee: Marvellous Hair",
+{"Description": "賢しげな航海士：素晴らしい髪ですね。\u000d\u000a従軍者：何処かへ行ってくださいますか。\u000d\u000a賢しげな航海士：私はあなたの髪について話したいだけですよ。\u000d\u000a従軍者：失せなさい、気味の悪い。さもないと引っこ抜きますよ。@{K}<b>狡猾な航海士:</b>「素敵な髪ですな。」\u000d\u000a<b>従事者:</b>「向こうに行って下さいますか。」\u000d\u000a<b>狡猾な航海士:</b>「貴方の髪の話をしただけでは無いですか。」\u000d\u000a<b>従事者:</b>「気持ち悪いから話しかけないで下さい。さもないと絞り倒しますわよ。」@{M}SLY NAVIGATOR: You have marvellous hair.\u000d\u000aCAMPAIGNER: Go away, please.\u000d\u000aSLY NAVIGATOR: I only wanted to talk about your hair.\u000d\u000aCAMPAIGNER: Go away, you ghastly little man, or I'll extract something.",
+ "Name": "Zeeでの会話: 素晴らしい髪@{K}甲板での立ち聞き: 素敵な髪@{M}Overheard at Zee: Marvellous Hair",
  "Id": 159720}

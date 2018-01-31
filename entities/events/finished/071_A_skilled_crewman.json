@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "貴方は彼に対し、塩の円とチョークで書かれた模様を取り上げない事を告げた。あの夜、前甲板に立った時に感じた、東から訪れた柔らかい微風...それはソルトの方角。それは貴方の髪を乱し、そして駆け抜けていった。@{M}You let him keep his salt circle and his chalked arrow. That night, as you stand on the foredeck, a soft breeze comes out of the East, the Salt's direction; tousles your hair; passes.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "貴方は彼に対し、塩の円とチョークで書かれた矢の模様を取り上げない事を告げた。その夜、前甲板に立った時に感じた、東から訪れた柔らかい微風……Saltの方角だ。それは貴方の髪を乱し、そして駆け抜けていった。@{K/M}貴方は彼に対し、塩の円とチョークで書かれた模様を取り上げない事を告げた。あの夜、前甲板に立った時に感じた、東から訪れた柔らかい微風...それはソルトの方角。それは貴方の髪を乱し、そして駆け抜けていった。@{M}You let him keep his salt circle and his chalked arrow. That night, as you stand on the foredeck, a soft breeze comes out of the East, the Salt's direction; tousles your hair; passes.",
                                      "Name": "風の息吹@{M}A breath of air", "Id": 143943},
                     "Name": "許可する@{M}Permit it",
                     "Description": "ここでは、船長は得られる全ての助けを必要とする。例えそれが物悲しい、奇妙な別離の神々だったとしても。@{M}Out here, a captain needs all the help he can get. Even from sad strange gods of farewells.",
@@ -6,7 +6,7 @@
                    {"DefaultEvent": {"Description": "全ての船員が満足した訳ではない。だが、大半は理解してくれた。@{M}Not all the crew are pleased. But most understand.",
                                      "Name": "不満の波紋@{M}A ripple of discontent", "Id": 143944},
                     "Name": "禁止する@{M}Forbid it",
-                    "Description": "船上でこの様な馬鹿げたものを許す訳には行かない。ソルトが実在するとしたら、その注目を受ける事は危険なのだ。@{M}You'll have none of this nonsense aboard your ship. If the Salt even exists, its attention is dangerous.",
+                    "Description": "自分の船でこのような馬鹿馬鹿しい儀式を行わせたりはしない。もし仮にSaltが実在したとしても、その注視を受けるのは危険だ。@{K}船上でこの様な馬鹿げたものを許す訳には行かない。ソルトが実在するとしたら、その注目を受ける事は危険なのだ。@{M}You'll have none of this nonsense aboard your ship. If the Salt even exists, its attention is dangerous.",
                     "ButtonText": "", "Id": 124457}],
- "Description": "ある船乗りが、貴方に船を停泊させるようにお願いしてきた。普段の彼は本当によく働く。だが、どうやら彼は船倉の裏に、水平線の名も無き神、ソルトの小さな祭壇を持っているようだ。@{M}This is the zailor who came begging to you for a berth. He's done good work, this one. But he's keeping a little shrine to the Salt, the nameless god of the horizon, at the back of the hold.",
+ "Description": "この船員はあの時、船での働き口を求めてきた男だ。普段の彼は本当によく働く。だが、どうやら彼は船倉の奥に、水平線の名も無き神、Saltの小さな祭壇を持っているようだ。@{K/M}ある船乗りが、貴方に船を停泊させるようにお願いしてきた。普段の彼は本当によく働く。だが、どうやら彼は船倉の裏に、水平線の名も無き神、ソルトの小さな祭壇を持っているようだ。@{M}This is the zailor who came begging to you for a berth. He's done good work, this one. But he's keeping a little shrine to the Salt, the nameless god of the horizon, at the back of the hold.",
  "Name": "熟練した船員@{M}A skilled crewman", "Id": 143942}
