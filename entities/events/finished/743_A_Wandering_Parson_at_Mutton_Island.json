@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "「もちろんです。船を走らせるにはお金も必要でしょう、[q:呼称]。問題は起こしませんよ。私はUnterzeeの幾つもの宗教を研究しているのです。それぞれの最も称賛すべき要素を引き出し、現代的でより優れた宗教を作り上げるつもりです。もちろん、私の会衆の精神的な糧となすためですよ」@{K}$q:Addressed As -> q:呼称$\"Of course. You have your running expenses, [q:Addressed As]. I'll be no trouble. I'm studying the religions of the Unterzee. By extracting the most admirable elements of each, I mean to construct a modern, superior faith. For the spiritual nourishment of my congregation, of course.\" His cufflinks gleam.\u000d\u000aThoughtfully, he pays his fare in advance.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "「もちろんです。船を走らせるにはお金も必要でしょう、[q:呼称]。問題は起こしませんよ。私はUnterzeeの幾つもの宗教を研究しているのです。それぞれの最も称賛すべき要素を引き出し、現代的でより優れた宗教を作り上げるつもりです。もちろん、私の会衆の精神的な糧となすためですよ」カフスボタンが光った。\u000d\u000a\u000d\u000a思慮深くも、彼は船賃を前払いしてくれた。@{K}$q:Addressed As -> q:呼称$\"Of course. You have your running expenses, [q:Addressed As]. I'll be no trouble. I'm studying the religions of the Unterzee. By extracting the most admirable elements of each, I mean to construct a modern, superior faith. For the spiritual nourishment of my congregation, of course.\" His cufflinks gleam.\u000d\u000aThoughtfully, he pays his fare in advance.",
                                      "LinkToEvent": {"Id": 230481},
                                      "Name": "用意された船賃@{K}A ready fare", "Id": 242913},
                     "Name": "金と引き換えに目的地まで運ぶ@{K}Offer passage for money",
@@ -16,6 +16,6 @@
                     "Name": "祝福と引き換えに目的地まで運ぶ@{K}Offer passage for a blessing",
                     "Description": "あなたは彼の事を疑わしく思っているかもしれないが、船乗りはちょっとした儀式を好むものだ。@{K}You may regard him with a sceptical eye. But zailors appreciate a bit of ceremony.",
                     "ButtonText": "", "Id": 185652}],
- "Description": "彼はロンドンのすぐ横の海底にあるロウ・バーネットにある教会まで乗せてくれる船を探している。彼のスーツは巡回説教師むけに良く仕立てられたものだ。カフスボタンにサファイアが光った。@{K}$Low Barnet -> ロウ・バーネット$He seeks passage to the church of Low Barnet, beneath the Zee just outside London. His suit is well-tailored for an itinerant preacher. His cufflinks wink with sapphires.",
+ "Description": "彼はロンドンのすぐ横の海底にあるロウ・バーネットにある教会まで乗せてくれる船を探している。彼のスーツは巡回説教師のものにしては仕立てが良い。カフスボタンにサファイアが光った。@{K}$Low Barnet -> ロウ・バーネット$He seeks passage to the church of Low Barnet, beneath the Zee just outside London. His suit is well-tailored for an itinerant preacher. His cufflinks wink with sapphires.",
  "Name": "マトン・アイランドの放浪の牧師@{K}$Mutton Island -> マトン・アイランド$A Wandering Parson at Mutton Island",
  "Id": 242912}
