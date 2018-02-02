@@ -1,3 +1,3 @@
-{"Description": "あなたは大修道岩でブレミガンを蒔いた。修道女たちが異議を申し立てたとしても、彼らは自分たちで何とかしようとするだろう。@{K}貴方は修道尼の岩にブレミガンを蒔いた。もし修道尼が立ちはだかるなら、彼らはそれについて対処するだろう。@{M}$[Bb]lemmigan -> ブレミガン, Abbey Rock -> 大修道岩$You've sown blemmigans on Abbey Rock. No doubt if the nuns object, they'll do something about it.",
+{"Description": "あなたは大修道岩でブレミガンを蒔いた。修道女たちに異議があるとしても、ブレミガンなら自分たちで何とかするだろう。@{K}貴方は修道尼の岩にブレミガンを蒔いた。もし修道尼が立ちはだかるなら、彼らはそれについて対処するだろう。@{M}$[Bb]lemmigan -> ブレミガン, Abbey Rock -> 大修道岩$You've sown blemmigans on Abbey Rock. No doubt if the nuns object, they'll do something about it.",
  "Name": "播種: 大修道岩@{K}繁殖: 修道尼の岩@{M}$Abbey Rock -> 大修道岩$Propagation: Abbey Rock",
  "Id": 111597}

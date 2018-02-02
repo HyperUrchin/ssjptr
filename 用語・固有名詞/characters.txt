@@ -8,7 +8,7 @@ Venturer's Executer, 貿易商の遺言執行人
 Wistful Deviless, 物思わしげな女悪魔
 Shady Sort, 不審な人物
 Chequrered Character, 訳ありの人物
-Unsettling Sage, 人を落ち着かない気持ちにさせる賢者
+Unsettling Sage, 狼狽させる賢者
 Alarming Scholar, 不安を催させる学者
 Delightful Adventuress, 愉快な女冒険家
 Plausible Surgeon, 口達者な外科医
