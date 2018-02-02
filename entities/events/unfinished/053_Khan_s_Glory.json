@@ -82,6 +82,6 @@
                     "Name": "一族の宮殿の横を船で通る@{K}Cruise past the clan palaces",
                     "Description": "カーンの栄光は堅牢な美しさを備えている。しかし一族の当主は常に間諜の存在を疑い、固定された銃座が監視を緩めることはない。@{K}$Khan -> カーン, Khan's Glory -> カーンの栄光, Glory -> グローリー$Khan's Glory has a steely beauty, but the clan-lords are    ever-suspicious of spies, and those gun emplacements are vigilant.",
                     "ButtonText": "", "Id": 131408}],
- "Description": "この場所にはカーンとその廷臣の宮殿が立ち並んでいた。その宮殿はどれもが独立した要塞となっている。帯のついたローブで着飾った高貴な紳士と淑女がバルコニーで朝食をとり、こんな所に生息しているはずのない羚羊が公園から顔をのぞかせた。電動の台座に載せられた銃が滑らかに回転している。@{K}$Khan -> カーン$Here are the palaces of the Khan and his court, each a fortress to itself. Sleek lords and ladies in belted robes breakfast on balconies. An unlikely antelope peeks at you from a park. Guns rotate easily on motorised gimbals.",
+ "Description": "この場所にはカーンとその廷臣の宮殿が立ち並んでいた。その宮殿はどれもが独立した要塞となっている。帯のついたローブで着飾った高貴な紳士と淑女がバルコニーで朝食をとり、こんな所に生息しているはずのない羚羊が庭園から顔をのぞかせた。電動の台座に載せられた銃が滑らかに回転している。@{K}$Khan -> カーン$Here are the palaces of the Khan and his court, each a fortress to itself. Sleek lords and ladies in belted robes breakfast on balconies. An unlikely antelope peeks at you from a park. Guns rotate easily on motorised gimbals.",
  "Name": "カーンの栄光@{K}$Khan -> カーン, Khan's Glory -> カーンの栄光, Glory -> グローリー$Khan's Glory",
  "Id": 143358}
