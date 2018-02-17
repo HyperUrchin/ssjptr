@@ -8,7 +8,7 @@
                                      "LinkToEvent": {"Id": 204733},
                                      "Name": "熱狂@{K}A feeding frenzy", "Id": 209698},
                     "Name": "ブレミガンを放つ@{K}$[Bb]lemmigan -> ブレミガン$Release a blemmigan",
-                    "Description": "茸であれば齧歯類たちの繁栄することの出来なかったこの場所で栄えることが出来るかもしれない。@{K}Perhaps mushrooms will thrive where the rodents couldn't?",
+                    "Description": "茸であれば、齧歯類たちの繁栄することの出来なかったこの場所で栄えることが出来るかもしれない。@{K}Perhaps mushrooms will thrive where the rodents couldn't?",
                     "ButtonText": "", "Id": 164555},
                    {"DefaultEvent": {"Description": "小さな輝きによって齧歯類たちの宝がどこでその終わりを迎えたのかが分かった。残された欠片は全て小さく、集めるだけの価値もない。土産物にすらならないだろう。@{K}Tiny glimmers mark where the rodents' treasure met its end. What pieces remain are too small to be worth collecting, even as souvenirs.",
                                      "LinkToEvent": {"Id": 204733}, "Name": "破片@{K}Detritus",

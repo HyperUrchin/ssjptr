@@ -4,7 +4,7 @@
                     "Name": "私はフェイバーネズミを一匹船に誘った@{K}私はクマネズミの一匹を私の船に誘った@{M}$[Rr]attus[- ][Ff]aber -> フェイバーネズミ$I invited one of the Rattus Faber to join us",
                     "Description": "結局の所、数匹のネズミすら居ない船はどうなんだ?@{M}After all, what's a ship without a few rats?",
                     "ButtonText": "", "Id": 164575},
-                   {"DefaultEvent": {"Description": "ここで貴方の日誌は終わり、同時に驚くほど上質なネズミ産のワインの最後の一杯も飲み干した。ネズミは一列に並び、勝利の晩餐を立ち去る貴方に最敬礼を施しながら、彼らの新しい共和国の基礎となる集落を抜けて貴方を船まで送り届けた。@{M}ここで貴方の日誌は終わり、同時に驚くほど上質なクマネズミ産のワインの最後の一杯も飲み干した。クマネズミは一列に並び、勝利の晩餐を立ち去る貴方に最敬礼を施しながら、彼らの新しい共和国の設立で沸き立つ集落から貴方を船まで送り届けた。@{M}There. You finish your diary entry, and the final dregs of the rats' surprisingly good wine. They line up to salute you as you leave the victory banquet, escorting you to your ship through the foundations of their new Republic.",
+                   {"DefaultEvent": {"Description": "ここで貴方の日誌は終わり、同時に驚くほど上質なネズミ産のワインの最後の一杯も飲み干した。ネズミは一列に並び、勝利の晩餐を立ち去る貴方に最敬礼を施しながら、彼らの新しい共和国の基礎となる集落を抜けて貴方を船まで送り届けた。@{K/M}ここで貴方の日誌は終わり、同時に驚くほど上質なクマネズミ産のワインの最後の一杯も飲み干した。クマネズミは一列に並び、勝利の晩餐を立ち去る貴方に最敬礼を施しながら、彼らの新しい共和国の設立で沸き立つ集落から貴方を船まで送り届けた。@{M}There. You finish your diary entry, and the final dregs of the rats' surprisingly good wine. They line up to salute you as you leave the victory banquet, escorting you to your ship through the foundations of their new Republic.",
                                      "Name": "―完―@{K}- 完 -@{M}THE END", "Id": 209761},
                     "Name": "広く冥いジーが招いていた@{M}The wide dark zee beckoned",
                     "Description": "私達は満足行くまで食べ、仕事はここに完結をみた。今こそジーに戻って旅を再開し、私達を待つ未だ見ぬ不思議や恐怖の数々を探す時がやって来たのだ。@{M}We had eaten our fill and our business was concluded. It was time to continue our voyage and see what other wonders and terrors still awaited us.",
@@ -19,5 +19,5 @@
                     "Name": "私はモルモットの代理として仲裁にあたった@{K/M}私はテンジクネズミの代理として仲裁にあたった@{M}I interceded on behalf of the cavies",
                     "Description": "彼らは叩き潰され、打ち破られた。そして彼らの魂は砕け散り、ネズミ星の光の導きなくしては立ち直れないだろうと私は思った。彼らには代弁者が必要だった。@{M}They were crushed, defeated, and I could see their spirits broken without the light of the Rat Star to guide them. They needed an advocate.",
                     "ButtonText": "", "Id": 164826}],
- "Description": "<i>ケイヴィ王家は没落した。ムリニアは凱歌を挙げていた。そこに残されたものは祝賀の宴と、私達の航海の続きであった。嗚呼、私達は何と夜の長きに亘ってご馳走を振る舞われた事よ。そして……</i>@{K/M}<i>テンジクネズミ議院は没落した。ムリニアは凱歌を挙げていた。そこに残されたものは祝賀の宴と、私達の航海の続きであった。嗚呼、私達は何と夜の長きに亘ってご馳走を振る舞われた事よ。そして...</i>@{M}<i>The House of Cavy had fallen. Murinia was triumphant. All that remained were the celebrations, and the continuation of our voyage. Oh, how we feasted long into the night. Then...</i>",
+ "Description": "<i>ケイヴィ王家は没落した。ムリニアは凱歌を挙げている。そこに残されたものは祝賀の宴と、私達の航海の続きであった。嗚呼、私達は何と夜の長きに亘ってご馳走を振る舞われた事よ。そして……</i>@{K/M}<i>テンジクネズミ議院は没落した。ムリニアは凱歌を挙げていた。そこに残されたものは祝賀の宴と、私達の航海の続きであった。嗚呼、私達は何と夜の長きに亘ってご馳走を振る舞われた事よ。そして...</i>@{M}<i>The House of Cavy had fallen. Murinia was triumphant. All that remained were the celebrations, and the continuation of our voyage. Oh, how we feasted long into the night. Then...</i>",
  "Name": "第五章: 国家の誕生@{M}Chapter V: A Nation Is Born", "Id": 209728}

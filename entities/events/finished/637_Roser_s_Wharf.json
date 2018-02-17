@@ -2,7 +2,7 @@
                                      "Name": "「いくらだって？まさか、この品に？あなたに経済の根本的原理というものを教えてしんぜよう……」@{K}\"How much? What - for this? Allow me me explain a fundamental principle of economics...\"",
                                      "Id": 230226},
                     "Name": "朗らかな議論好きは長箱を求めている@{K}A Jovial Contrarian is purchasing Long-Boxes",
-                    "Description": "彼の車いすが甲高い音を立てながら群衆の間を通り抜ける。ローズ・マーケットを訪れる者はみな鏡を持ってこなければならず、彼もまた一つの鏡を携えていた。しかし、鏡に映る彼は蝙蝠の顔をしている。@{K}$Rose-Market -> ローズ・マーケット$His wheeled chair squeaks through the crowd. As all visitors to the Rose-Market must, he carries a mirror. He's painted over the glass, though, with the face of a bat.",
+                    "Description": "彼の車椅子が甲高い音を立てながら群衆の間を通り抜ける。ローズ・マーケットを訪れる者はみな鏡を持ってこなければならず、彼もまた一つの鏡を携えていた。しかし、鏡に映る彼は蝙蝠の顔をしている。@{K}$Rose-Market -> ローズ・マーケット$His wheeled chair squeaks through the crowd. As all visitors to the Rose-Market must, he carries a mirror. He's painted over the glass, though, with the face of a bat.",
                     "ButtonText": "", "Id": 177359},
                    {"DefaultEvent": {"Description": "「これからなら見事な装身具が出来るでしょうね」彼女は述べた。「けれど紅茶にすれば非凡なものが出来上がるはず」馬の面を被った市場の係員二人の手を借りて、彼女は箱を引いていった。@{K}\"It makes admirable jewellery,\" she explains, \"but <i>exceptional</i> tea.\" Two of the market's horse-masked attendants help her wheel the box away. ",
                                      "Name": "満足した客@{K}A satisfied customer", "Id": 230227},
