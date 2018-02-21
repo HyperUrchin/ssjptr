@@ -1,4 +1,4 @@
-{"Description": "国家は力強くなければならない。もしこの値が0になる事があれば、とても良くない事がピグモート・アイルに起こるだろう。@{M/K}国家は力強くなければならない。もしこの値が0になる事があれば、とても良くない事がピグモート島に起こるだろう。@{M}$Pigmote Isle -> ピグモート・アイル$A nation must be strong. If this reaches 0, bad things will happen on Pigmote Isle.",
+{"Description": "国家は力強くあらねばならない。もしこの値が0になる事があれば、とても良くない事がピグモート・アイルに起こるだろう。@{M/K}国家は力強くなければならない。もしこの値が0になる事があれば、とても良くない事がピグモート島に起こるだろう。@{M}$Pigmote Isle -> ピグモート・アイル$A nation must be strong. If this reaches 0, bad things will happen on Pigmote Isle.",
  "LevelDescriptionText": "0|破滅的~1|本当に危険~2|危険~3|脆弱~4|傷つきやすい~5|普通~6|余り印象に残らない~7|強い~9|力強い~8|非常に力強い~10|日の出の勢いを持った国家@{M}7|Strong~9|Mighty~10|Ascendant~0|Catastrophe~8|Hardy~1|DANGER~2|Danger~3|Weak~5|Adequate~6|Unimposing~4|Vulnerable",
  "ChangeDescriptionText": "",
  "Name": "ピグモート・アイル: 権威@{K}ピグモート島: 力@{M}$Pigmote Isle -> ピグモート・アイル$Pigmote Isle: Might",
