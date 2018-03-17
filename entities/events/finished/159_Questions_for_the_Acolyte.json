@@ -21,7 +21,7 @@
                     "Name": "どのようにしてこの場所にたどり着いたのか尋ねる@{K}Ask how she came to be here",
                     "Description": "この島で生まれた人間など存在するのだろうか？@{K}Is anyone born on this island?",
                     "ButtonText": "", "Id": 127690},
-                   {"DefaultEvent": {"Description": "「以前一緒に働いていた見習いがいました」彼女は言う。「彼は手術道具を扱う腕は確かでしたが、歌を馬鹿馬鹿しいものだと考えていました。数日も経たないうちに、ロイヤル・ベスレヘムに送りこむ羽目になりましたよ」@{K}\"There was another apprentice who worked with me,\" she says. \"He had a steady hand with the scalpel, but he thought the singing was foolish. Only lasted a few days before we had to pack him off to the Royal Bethlehem.\"",
+                   {"DefaultEvent": {"Description": "「以前一緒に働いていた見習いがいました」彼女は言う。「彼は手術道具を扱う腕は確かでしたが、歌を馬鹿馬鹿しいものだと考えていました。数日も経たないうちに、ロイヤル・ベツレヘムに送りこむ羽目になりましたよ」@{K}\"There was another apprentice who worked with me,\" she says. \"He had a steady hand with the scalpel, but he thought the singing was foolish. Only lasted a few days before we had to pack him off to the Royal Bethlehem.\"",
                                      "LinkToEvent": {"Id": 148992},
                                      "Name": "なぜ考えるのか？@{K}Why did you think?", "Id": 148882},
                     "Name": "なぜ歌うのか尋ねる@{K}Ask why she sings",
