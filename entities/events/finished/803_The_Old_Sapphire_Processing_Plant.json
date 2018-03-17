@@ -1,0 +1,7 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "数日の労働と追加のシェリー酒の後、改造は完了した。あなたの船の新しい配管が光を反射し輝く。水面下には格納された外部装甲の優美な曲線がぼんやりと見えた。@{K}A few day's work, more sherry, and the adjustments are complete. Your vessel's new pipework gleams. Beneath the water, you can just make out the graceful curve of her retracted shell-hull.",
+                                     "Name": "", "Id": 247151},
+                    "Name": "船を潜水艦に改造してもらう@{K}Have your ship converted for zubmarine travel",
+                    "Description": "慈善家はシェリー酒とともにあなたを温かく歓迎した。「お金なんかいらないわ！あなたの先任者には大変な借りがありますからね」@{K}The Philanthropist greets you warmly, with sherry. \"Your money's no good here! I owe your predecessor a great debt.\"",
+                    "ButtonText": "", "Id": 188555}],
+ "Description": "その工場は港の端の入り江に立っていた。ここで、峻厳な慈善家は船を潜水艦へと作り変える違法だが稼ぎになる事業を取り仕切っている。結局のところ、慈善活動にも金が要るということだ。@{K}It sits on an inlet at the port's edge. Here, the Fierce Philanthropist runs an illicit but profitable business converting ships into zubmarines. After all, philanthropy doesn't come cheap.",
+ "Name": "古いサファイア加工工場@{K}The Old Sapphire Processing Plant", "Id": 247150}

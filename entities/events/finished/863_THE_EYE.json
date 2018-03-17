@@ -1,0 +1,11 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "あなたは下っていった。瞳孔の暗闇が広がってゆく。そこには道を遮る角膜も水晶体もない。瞳孔はトンネルになっており、あなたの船はその中を押し進む。\u000d\u000a\u000d\u000a船首灯が消えた。あなたのランプも。暗闇がこぼれたインクのように解けてゆく。ひんやりとした微風があなたの顔をなでた。@{K}You descend. The blackness of the pupil expands. There is no cornea to bar your way, no lens. The pupil is a tunnel, and your vessel plunges into it. \u000d\u000a\u000d\u000aYour forward light dies. Your lamps die. Darkness unfurls like spilled ink. A cold breeze brushes your face.",
+                                     "LinkToEvent": {"Id": 260590}, "Name": "", "Id": 260588},
+                    "Name": "瞳孔に潜る@{K}Dive into the pupil", "Description": "飛び込み、そして歓喜しよう！@{K}Dive and exult!",
+                    "ButtonText": "", "Id": 194334},
+                   {"DefaultEvent": {"Description": "あれはあなたの皮膚を、肉を透かして骨を見つめる。そこに堆積しているのは、今までにあなたの成したこと、言ったこと、考えたこと、恐れたこと、称えたもの、嫌ったもの、願ったこと、作り上げたもの、壊したもの、悼んだもの、望んだもの、恥じたもの――\u000d\u000a\u000d\u000aもう耐えられない！この忌々しい潜水艦はこれ以上速度を上げられないのか？@{K}It sees through your skin and your flesh and into your bones where accumulate all the things that you have ever done or said or thought or feared or adored or despised or wished or made or broken or grieved or desired or shamed-\u000d\u000a\u000d\u000aFor God's sake! Can't this bl__dy zubmarine go any faster?",
+                                     "Name": "", "Id": 260589},
+                    "Name": "この場を離れる@{K}Steam away",
+                    "Description": "エンジン全開で離れよう。あれが見ているぞ！@{K}As fast as you can. It sees!", "ButtonText": "",
+                    "Id": 194335}],
+ "Description": "ああ目が！目が！月ほどに広大で、丸く、荒唐無稽な目が！\u000d\u000a\u000d\u000a船員たちは甲高い叫びをあげ、跳ね回る！そして口髭を引っ張っては犬のように吠えたける！もちろん、あなたは冷静だ。完全に平静を保っている。月みたいに落ち着いているとも！この騒音は他の誰かの悲鳴に違いない。@{K}The eye! The eye! As vast and round and wild as the moon!\u000d\u000a\u000d\u000aYour crew shriek and cavort! They pull their moustaches and bay like dogs! You, of course, are calm. Utterly calm. Calm as the moon! Those noises must be coming from someone else.",
+ "Name": "“目”@{K}THE EYE", "Id": 260587}

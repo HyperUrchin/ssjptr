@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "今回はこれで終わりだが――@{K}It's over for now - but -",
+                                     "Name": "寒々しい夜明け@{K}A bleak dawn ", "Id": 240347},
+                    "Name": "より深い闇の中へと漂ってゆく@{K}Drifting into deeper darkness",
+                    "Description": "あなたの死は悼まれることだろう。@{K}You will be mourned.", "ButtonText": "",
+                    "Id": 183969},
+                   {"DefaultEvent": {"Description": "今回はこれで終わりだが――@{K}It's over for now - but -",
+                                     "Name": "寒々しい夜明け@{K}A bleak dawn ", "Id": 240348},
+                    "Name": "より深い闇の中へと漂ってゆく@{K}Drifting into deeper darkness",
+                    "Description": "あなたの死は悼まれるだろう。しかし、あなたは跡継ぎに遺産を残した。@{K}You will be mourned - but you've provided for your heir.",
+                    "ButtonText": "", "Id": 183970}],
+ "Description": "わずかな苦闘。朦朧とした意識。光。パニックに陥ったせわしない呼吸。そして、眠りが来り、動きが止まる。[酸素がなくなりました。]@{K}A brief struggle. Dizziness. Lights. Panicked urgent breaths. Then, sleep. Then, stillness. [You have run out of Oxygen.]",
+ "Name": "最後の必死の一呼吸@{K}A Last Desperate Breath ", "Id": 240346}
