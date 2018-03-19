@@ -1,0 +1,4 @@
+{"Description": "あなたはロウ・バーネットを探索した。@{K}$Low Barnet -> ロウ・バーネット$You have explored Low Barnet.",
+ "AvailableAt": "ロウ・バーネットについての港湾報告書を海軍省に提出しよう。@{K}$Admiralty -> 海軍省, Low Barnet -> ロウ・バーネット, [Pp]ort [Rr]eport -> 港湾報告書$Provide a Port Report on Low Barnet to the Admiralty.",
+ "Name": "調査済み: ロウ・バーネット@{K}$Low Barnet -> ロウ・バーネット$Surveyed: Low Barnet",
+ "Id": 127129}

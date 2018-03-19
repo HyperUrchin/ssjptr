@@ -1,0 +1,4 @@
+{"Description": "Tを押すとあなたの船を潜水艦へと変形させることが出来る。普通の船の形に戻したいときもTを押そう。@{K}Press 'T' to transform your ship into a zubmarine and back.",
+ "LevelDescriptionText": "1|あなたの船は海中を進むことが出来る。@{K}1|Your ship is capable of zubmarine travel.",
+ "ChangeDescriptionText": "1|船を潜水艦へと変形できるようになった！海に出てTを押し、変形させてみよう。@{K}1|Your ship may now transform into a zubmarine! Press 'T' when at zee to transform.",
+ "Name": "潜水艦@{K}Zubmarine", "Id": 126002}

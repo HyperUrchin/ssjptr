@@ -53,4 +53,4 @@
                     "Description": "ここよりもさらに下に何かがある。[成功しても、失敗しても下方へ行くことが出来ます。しかし失敗すれば船体が傷ついてしまうでしょう。]@{K}There is something even further down in the darkness. [Succeed or fail, you will go deeper. But a failure will damage your hull.]",
                     "ButtonText": "", "Id": 193720}],
  "Description": "岩壁が削られ棚が作られている。浸水し遥か昔に死んだフジツボに覆われた古い船が収まるほど巨大な棚もいくつかある。他の物はそれよりは幾分小さく、一組の粘土で出来た棺と水差しや宝石などの少量の副葬品が入っている。@{K}Shelves have been cut into the rock walls. Some are large enough to hold ancient, waterlogged ships, crusted with long-dead barnacles. Others are smaller, holding pairs of clay coffins and a smattering of grave goods: jugs and bowls.",
- "Name": "墓場の深淵@{K}The Abyss of Graves", "Id": 258162}
+ "Name": "墓の深淵@{K}The Abyss of Graves", "Id": 258162}
