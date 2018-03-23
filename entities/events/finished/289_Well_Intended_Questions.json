@@ -1,0 +1,11 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "彼はあなたの前に立ち、渡し板を登っていった。そしてあなたが話についてきているものと決めてかかり、語り続けている。「カーネイト人たちは私に質問されるのが好きではないようです。もっとも、私の質問が好きだという人は多くはありませんが。なので私は大抵の港では歓迎されません。しかし、まだ挑戦したことのない港が一つだけ残っているのです。私をハイドアウェイに連れていっていただけますか？あの街は水面下にあり、巨大な海獣の背に乗っています。すぐに見つかりますよ」@{K}$Khaganian -> カーネイト人, [Gg]ant -> ギャント$He heads up the plank before you. He continues talking, expecting you to keep up. \"The Khaganians didn't seem to like me asking questions. Not many people do. It's made me unpopular in most ports. But there's still one I haven't tried. Could you take me to Hideaway? It's beneath the waves, on the back of a gigantic beast. You cannot miss it.\"",
+                                     "Name": "「くつろぐとしますよ。私の寝台はどこですか？」@{K}\"I'll welcome myself aboard. Where is my bunk?\"",
+                                     "Id": 237488},
+                    "Name": "彼の仄めかしを聞き入れる@{K}Take his hint",
+                    "Description": "調査員は逃げる必要があるようだ。あなたなら彼を連れ出すことが出来るだろう。@{K}He needs to escape. And you can get him away.",
+                    "ButtonText": "", "Id": 182150},
+                   {"DefaultEvent": {"Id": 237531}, "Name": "彼の仄めかしを無視する@{K}Ignore his hint",
+                    "Description": "調査員の矢継ぎ早の質問は苛立たしい。あなたは彼を船に乗せたくない。@{K}His incessant questions are irritating. You don't want him aboard.",
+                    "ButtonText": "", "Id": 182180}],
+ "Description": "不躾な調査員はあなたの手を極端に力を込めて握った。「ご機嫌よう、[q:呼称]！私たちは何時港を去るのでしょう？あなたの船はカーンの持つ最良の船との競争に勝つことは出来ますか？勿論そんな事をする必要はありませんが、可能であると知っていれば安心できますので」@{K}$Khan -> カーン, q:Addressed As -> q:呼称$The Impolite Investigator shakes your hand with extreme vigour. \"Good day, [q:Addressed As]! When do we leave port? Can your ship outrun the Khan's best? Not that you'll have to, but it'd be comforting to know that you could.\"",
+ "Name": "悪意のない問い@{K}Well Intended Questions", "Id": 153735}
