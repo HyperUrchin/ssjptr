@@ -1,0 +1,4 @@
+{"Description": "あなたは語られた言葉の力を理解している。@{K}You understand the power of the spoken word.",
+ "LevelDescriptionText": "1|あなたはロウ・バーネットで物語を語るコンテストを目撃した~0|あなたは物語を語るコンテストについて知っている~2|あなたは物語を語るコンテストで勝利した。鐘楼に入ることが出来る~3|あなたは忘却の口を覗き込んだ~4|あなたの魂は鐘に吸い込まれた@{K}$Low Barnet -> ロウ・バーネット$1|You have witnessed a story-trading contest at Low Barnet~0|You are unfamiliar with the story-trading contests at Low Barnet~2|You won a story-trading contest, and may enter the bell tower~3|You have stared into the mouth of oblivion~4|Your soul has been consumed by a bell",
+ "Name": "ロウ・バーネット: 物語のコンテスト@{K}$Low Barnet -> ロウ・バーネット$Low Barnet: Story Contests",
+ "Id": 127259}

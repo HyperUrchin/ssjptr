@@ -1,0 +1,4 @@
+{"Description": "誰が七人の艦隊を指揮するだろう？@{K}Who will command the Seven's fleets?",
+ "LevelDescriptionText": "1|誰かを雇う必要がある~5|アリク@{K}1|You have yet to recruit someone~5|Arik",
+ "ChangeDescriptionText": "1|七人には艦隊を指揮する船長が必要だ。~5|七人は艦隊を指揮する船長を見つけた。@{K}1|The Seven need a fleet-captain.~5|The Seven have found their fleet-captain.",
+ "Name": "大望: 船長@{K}$Ambition -> 大望$Ambition: the Captain", "Id": 128593}
