@@ -1,0 +1,5 @@
+{"Name": "ロウ・バーネット@{K}$Low Barnet -> ロウ・バーネット$Low Barnet",
+ "Description": "鐘の音がいまだ響いている。@{K}The bell still tolls.",
+ "Shops": [{"Name": "ロウ・チャーチ@{K}Low Church",
+            "Description": "物語と引き換えに物資を渡そう。@{K}Supplies for stories.", "Id": 61}],
+ "Id": 32}

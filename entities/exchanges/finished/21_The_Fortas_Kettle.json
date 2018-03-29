@@ -1,0 +1,6 @@
+{"Name": "フォータス・ケトル号@{K}The Fortas Kettle",
+ "Description": "囚われの調査船。@{K}A restrained research vessel.",
+ "Shops": [{"Name": "徴発品@{K}Requisitions",
+            "Description": "身動きの取れなくなった潜水艦に燃料はほとんど必要ない。しかし、そこに住む者たちはコーヒーを心の底から欲している。@{K}A grounded zubmarine has little need for fuel. Its occupants, however, have a great need for coffee.",
+            "Id": 50}],
+ "Id": 22}
