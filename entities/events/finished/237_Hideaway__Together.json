@@ -48,7 +48,7 @@
                    {"SuccessEvent": {"Description": "散策中の偽りの予言者が彼の事を覚えていた。「司祭の襟、痩せこけ、失意のどん底にいる男。水の下のバーネット、鐘の教会へ向かった。緩やかな死が彼の後を追うだろう」本物の予言か、あるいは仰々しく飾られた古い知識の欠片だろうか？どちらでも変わりはない。[ロンドン近海のロウ・バーネットで捜索を続けましょう。]@{K}$Low Barnet -> ロウ・バーネット$A rambling false-prophet remembers him: \"Priest-collared, gaunt, broken. To the bell-church he went; to Barnet-Under-the-Waters. The slow death follows him.\" Genuine prophecy, or just a scrap of old knowledge, dressed up to be portentous? It doesn't matter. [Continue your search at Low Barnet, near London.]",
                                      "LinkToEvent": {"Id": 152231}, "Name": "期待の持てる手がかりだ！@{K}A promising lead!",
                                      "Id": 259434},
-                    "DefaultEvent": {"Description": "あなたはくたくたになるまで尋ねて回った。しかし、峻厳な慈善家の夫はここにはいない。この港はリストから消してもいいだろう。[峻厳な慈善家の夫がいる可能性のある港の一覧は日誌に記録されています。]@{K}Your enquiries are exhaustive - the Philanthropist's husband is not here. You can cross this port off your list. [Check your journal for reminders about where the Philanthropist's husband might be.]",
+                    "DefaultEvent": {"Description": "あなたはくたくたになるまで尋ねて回った。しかし、峻厳な慈善家の夫はここにはいない。この港はリストから消してもいいだろう。[峻厳な慈善家の夫がいる可能性のある港の一覧は、日誌で確認できます。]@{K}Your enquiries are exhaustive - the Philanthropist's husband is not here. You can cross this port off your list. [Check your journal for reminders about where the Philanthropist's husband might be.]",
                                      "LinkToEvent": {"Id": 152231}, "Name": "見つからなかった@{K}No luck",
                                      "Id": 259433},
                     "Name": "峻厳な慈善家の夫を探す@{K}Search for the Fierce Philanthropist's husband",

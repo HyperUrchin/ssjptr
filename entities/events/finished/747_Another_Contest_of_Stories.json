@@ -16,7 +16,7 @@
                                      "LinkToEvent": {"Id": 242560}, "Name": "機を逃した@{K}An opportunity missed",
                                      "Id": 243310},
                     "Name": "アイグルについて……@{K}Tell a tale of Aigul...",
-                    "Description": "……そして海中に密集する鋭い後悔の塊の物語を語ろう。[この選択肢をアンロックするには、横柄な姉の手助けをしましょう。]@{K}...and the whispering clot of regrets bristling beneath the waves. [To unlock this branch, assist the Imperious Sister.]",
+                    "Description": "……そして海中に密集する鋭い後悔の塊の物語を語ろう。[この選択肢をアンロックするには、居丈高な妹の手助けをしましょう。]@{K}...and the whispering clot of regrets bristling beneath the waves. [To unlock this branch, assist the Imperious Sister.]",
                     "ButtonText": "", "Id": 185890},
                    {"SuccessEvent": {"Description": "月のように光る白磁の肌が、腐りかかり乳のような色をした膨れ上がった肉を覆い隠していた様。ほっそりとした大理石の柱が、実際には貪欲な珊瑚の入り込んで崩れかけた歪んだ煉瓦でしかなかったこと。悍ましい聖餐式がいかにして陳腐さ、ナンセンス、苦役、虚ろを見えなくさせていたのか。\u000d\u000a\u000d\u000a聴衆は身を震わせる。あなたの勝利が宣言された。[鐘楼の中に入ることが出来るようになりました。]@{K}How the moon-glow of perfect, porcelain skin conceals doughy flesh the colour of milk on the turn. How the slender marble pillars are only columns of crooked brick, crumbling, encroached by hungry coral. How an unearthly liturgy masks banality, nonsense, drudgery, and emptiness.\u000d\u000a\u000d\u000aThe audience shudders. They declare you the victor.  [If you wish, you may now enter the bell tower.]",
                                      "LinkToEvent": {"Id": 242560},
