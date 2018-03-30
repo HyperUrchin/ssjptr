@@ -1,0 +1,9 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "彼はあなたを長い間見つめた。「しっかり見ておきたかった。お前は招かれてもいないのに、俺の頭を引っ掻き回してくれたからな」\u000d\u000a\u000d\u000a彼は上着のポケットから油布に包まれた日誌を取り出した。「妹の個人的な回顧録だ。お前は報酬を受け取っていないと聞いた。それで俺はこれで支払うべきだと言ったんだ。確かに大したものじゃない。だが、結婚の三年後に忌まわしい転換が起こる」テーブルに日誌を落とし、この場を去ろうと立ち上がった。「読むなり焼くなり出版するなり、好きにしろ」@{K}He stares at you for a long time. \"Just wanted to get a good look,\" he says. \"Since you've had a rummage in my head, where no one invited you.\" \u000d\u000a\u000d\u000aFrom his jacket pocket, he extracts a journal wrapped in oilcloth. \"My sister's private memoir. She said you hadn't been paid. I said we should pay you with this. It's not much, I know, but there's a sordid turn around year three of her marriage.\" He drops the journal on the table and stands to go. \"Read it, burn it, serialize it in the papers if you like.\" ",
+                                     "Name": "彼は港のパブであなたの向かいに座った@{K}He sits across from you in a dockside pub",
+                                     "Id": 236356},
+                    "Name": "あなたがどこにいるか妹から聞いたという@{K}His sister told him where to find you",
+                    "Description": "あなたが話を聞いてやるまで、彼はずっと後をついてくるだろう。@{K}He won't stop following you until you've heard him out.",
+                    "ButtonText": "", "Id": 181349}],
+ "Description": "港に船を止めると、一人の男があなたを探していた。彼は本人の思い描いた自己像よりは背が低く肩幅が広かったが、それでもあなたには彼が分かった。あなたはかつてアイグルで彼の記憶を歩いた事がある。@{K}A man seeks you out when your ship docks. He's shorter and broader-shouldered than his self-image, but you still recognise him: you inhabited his memories, back in Aigul.",
+ "Name": "居丈高な妹の兄が訪ねてきた@{K}A Visit from the Imperious Sister's Brother",
+ "Id": 236355}
