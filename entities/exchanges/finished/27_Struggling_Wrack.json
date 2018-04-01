@@ -1,6 +1,6 @@
 {"Name": "苦しむラック@{K}Struggling Wrack",
  "Description": "血色の悪い船の解体者たちの街。@{K}A city of sallow wreckers.",
  "Shops": [{"Name": "船体の収穫@{K}Hull-harvest",
-            "Description": "ラックには悦楽は溢れるほどあるが、物資は枯渇している。@{K}Wrack is replete with delights, but supplies are depleted.",
+            "Description": "ラックに享楽の元は溢れるほどあるが、物資は枯渇している。@{K}Wrack is replete with delights, but supplies are depleted.",
             "Id": 56}],
  "Id": 28}

@@ -1,4 +1,4 @@
-{"Name": "ハイドアウェイ@{K}Hideaway", "Description": "人々の身を隠す場所。@{K}A place of refuge.",
+{"Name": "ハイドアウェイ@{K}Hideaway", "Description": "家を追われた人々の逃れる場所。@{K}A place of refuge.",
  "Shops": [{"Name": "追放のバザール@{K}Exile Bazaar",
             "Description": "ハイドアウェイの人々には、海底から取ってきた変わった小物ぐらいしか売れるものがない。@{K}The people of Hideaway have little to offer; just some oddities from the zee-bed.",
             "Id": 53}],

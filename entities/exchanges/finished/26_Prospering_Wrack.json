@@ -1,4 +1,4 @@
-{"Name": "栄えるラック@{K}Prospering Wrack", "Description": "悦楽の街。@{K}A city of delights.",
+{"Name": "栄えるラック@{K}Prospering Wrack", "Description": "享楽の街。@{K}A city of delights.",
  "Shops": [{"Name": "船体の収穫@{K}Hull-harvest",
             "Description": "ラックはもはや飢えていない。しかしこの街には他にも満たすべき欲がある。@{K}Wrack is no longer hungers. It has other appetites to feed.",
             "Id": 57}],
