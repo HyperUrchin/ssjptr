@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "緑の芝生の上に色鮮やかな花弁が散らされている場所を見つけた。ここにしよう。あなたは小さな穴を掘り、シンティラックを置いた。これはどのような姿へと成長するのだろう――宝石の花にでもなるのだろうか？珊瑚の枝を持つ木？水晶のようにきらめく歌を歌う鳥が孵るかもしれない。時が経てば分かるだろう。@{K}$[Ss]cintillack -> シンティラック$Here: where the colourful petals are scattered so nicely over the green grass. You dig a small hole and plant the scintillack. Who knows what it could grow into - a gemmed flower? A tree with coral branches? A bird might hatch, and sing a crystal-crisp song. Time will tell.",
+                                     "Name": "", "Id": 243319},
+                    "Name": "シンティラックを埋める@{K}$[Ss]cintillack -> シンティラック$Bury the scintillack",
+                    "Description": "あなたは白皙の王の頼みを尊重する。@{K}The Fair King has made a request of you, and you will honour it.",
+                    "ButtonText": "", "Id": 185895},
+                   {"DefaultEvent": {"Description": "美味しい紅茶が淹れられるかもしれない。そうでなくとも、多少のエコーにはなるだろう。@{K}Maybe it'll make a nice cup of tea. If not, it'll certainly make you a few Echoes. ",
+                                     "Name": "", "Id": 245665},
+                    "Name": "シンティラックを取っておく@{K}$[Ss]cintillack -> シンティラック$Keep the scintillack",
+                    "Description": "ラックに封印されるかここに埋められるよりは、あなたの手元にあった方が役に立つだろう。@{K}It'll do more good in your pocket than it would buried here, or locked away in Wrack.",
+                    "ButtonText": "", "Id": 187422}],
+ "Description": "シンティラックを埋められる地面を探そう。これはどのような姿へと成長するのだろう？@{K}Find a patch in which to bury it. Who knows what it could grow into?",
+ "Name": "白皙の王の求め@{K}The Fair King's Request", "Id": 243318}

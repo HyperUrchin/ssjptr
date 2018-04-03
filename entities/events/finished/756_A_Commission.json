@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "彼はちょうど皮膚の乾ききった死体のように微笑んだ。「素晴らしい。海藻は享楽の街、ラックで見つかるだろう。私は研究を続けるためアターシュルームで待っている」@{K}$Uttershroom -> アターシュルーム$He smiles in the manner of a corpse whose skin has just dried out. \"Excellent. You'll find it in Wrack, City of Pleasures. I'll be waiting for you on the Uttershroom, where my studies continue.\"",
+                                     "LinkToEvent": {"Id": 239946}, "Name": "", "Id": 243339},
+                    "Name": "依頼を受ける@{K}Accept the task",
+                    "Description": "テザーを一瓶届ける。なんの問題もない。@{K}You'll get him a jarful of tether, no trouble.",
+                    "ButtonText": "", "Id": 185909},
+                   {"DefaultEvent": {"Description": "あなたは断り、他の仕事に取り掛かった。「今は駄目なら、また別の時に来てくれ」彼はあなたの背中に呼びかける。なんて変わった男だ。@{K}You decline and go about your business. \"If not this time, then another,\" he says behind your back. What an odd man.",
+                                     "LinkToEvent": {"Id": 239946}, "Name": "", "Id": 244658},
+                    "Name": "歩き去る@{K}Walk away",
+                    "Description": "たかが海藻のために人殺しの街に行けって？海で死んだ人間はよみがえることが出来ないと知らないのか？@{K}Go into a city of murderers on account of a weed? Doesn't he know people don't come back from deaths at Zee?",
+                    "ButtonText": "", "Id": 186778}],
+ "Description": "厳格な化学者が眼鏡越しにあなたを睨め付ける。「船長、海の中には人殺しの住む街がある。そしてその中には、テザーと呼ばれる植物が生えているそうだ。あの植物を一瓶分私のもとへ届けてほしい。報酬は弾もう」@{K}The Severe Chemist glares at you over his glasses. \"Beneath the zee, captain, there is a city of murderers. Within it, a plant known as tether. Bring me a jarful and I will pay you handsomely.\"",
+ "Name": "依頼@{K}A Commission", "Id": 243338}
