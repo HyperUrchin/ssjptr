@@ -1,5 +1,5 @@
 {"Description": "彼はあなたにウィズダムの所長の正体を暴き、ハイドアウェイに来させるように求めた。@{K}$Wisdom -> ウィズダム$He has requested you unmask the Governor of Wisdom and demand he come to Hideaway.",
  "LevelDescriptionText": "1|かくしゃくたる指導者の頼みを聞いた~2|海に委ねられた~3|所長は聞き入れた@{K}1|The Sprightly Visionary has made his request~2|Consigned to the zee~3|Accepted by the Governor",
  "ChangeDescriptionText": "1|かくしゃくたる指導者の頼みを聞いた。~2|海に委ねられた。~3|配達完了。@{K}1|The Sprightly Visionary has made his request.~2|Consigned to the zee.~3|Delivered.",
- "Name": "ハイドウェイ: かくしゃくたる指導者の頼み@{K}Hideaway: The Sprightly Visionary's Request",
+ "Name": "ハイドアウェイ: かくしゃくたる指導者の頼み@{K}Hideaway: The Sprightly Visionary's Request",
  "Id": 126177}
