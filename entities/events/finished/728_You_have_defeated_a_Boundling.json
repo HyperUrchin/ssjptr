@@ -1,0 +1,12 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "檻を取り除くのは骨の折れる仕事だった。鋼鉄の棒が幾本もバウンドリングの囚われ腫れきった肉を貫いている。魚の体は檻に収まるように捻じ曲げられていた。赤い目ですらも顔を走る帯状の鉄によって位置がずれてしまっている。取り外した鋼鉄は技師の手によって泡立ったスライムを拭き取られ、再利用に回される。彼女は汚れを指し示した。「こいつを消そうと思ったら、相当磨かないとダメだね」@{K}Removing the cage is back-breaking work. Rods of steel run through the Boundling's inflamed, swollen flesh. Its body had warped to fit its cage; even its red eyes are distorted, pulled out of alignment by the band across its face. Before carrying the reclaimed metal away, your engineer wipes frothy slime off it. She gestures to a stain. \"It'll take a b____y good sanding to get rid of this.\" ",
+                                     "Name": "情け深き死？@{K}A merciful end? ", "Id": 242594},
+                    "Name": "バウンドリングの檻を取り外す@{K}Tear the cage from the Boundling",
+                    "Description": "鋼鉄は頑丈そうだ。使い道はあるだろう。@{K}The metal is strong and sturdy. You have a need for it. ",
+                    "ButtonText": "", "Id": 185480},
+                   {"DefaultEvent": {"Description": "あなたは檻を叩き壊した。死体を切り開くと、絡み合ったはらわたが噴き出す。油と酢の鼻を突く匂いがした。一番近くにいた助手が咳き込みながら船倉から走り出る。この肉に貯蔵するだけの価値はあるだろうか？誰かに味見してもらおう。\u000d\u000a\u000d\u000aあなたの選んだ船員はあの魚の肉が胃で動いていると文句を言っている。しかし、良く焼かれた海老のようにジューシーかつ歯ごたえがある食感をしているそうだ。@{K}You break the cage open. As you split the corpse, tangles of gut burst out. There is a reek of oil and vinegar. Your nearest assistant rushes, coughing, from the hold. Is the flesh worth storing? You need a taster.\u000d\u000a \u000d\u000aThe crewman you volunteer complains of the fish-flesh moving in his stomach. The texture, however, is succulent but crunchy, like well-cooked prawn. ",
+                                     "Name": "味見@{K}A taste-test ", "Id": 243427},
+                    "Name": "バウンドリングを切り分け、食糧にする@{K}Carve the Boundling up for provisions ",
+                    "Description": "言ってしまえば、この海獣は確かにマグロに似ている。金属の塊に捻じ込まれた育ちすぎのマグロだ。@{K}It does, after all, resemble tuna. An oversized tuna stuffed into a knot of metal.",
+                    "ButtonText": "", "Id": 185974}],
+ "Description": "死骸はねじ曲がった金属と肉が積み重なった山のようになっている。斑に穴のあいた肉は、あなたの武器の作り出した大きな切り傷の数々によってさらに損なわれている。@{K}Its corpse is a mound of twisted metal and flesh, its mottled skin further marred by the gaping rends inflicted by your weapons.",
+ "Name": "バウンドリングを倒した@{K}You have defeated a Boundling", "Id": 242593}
