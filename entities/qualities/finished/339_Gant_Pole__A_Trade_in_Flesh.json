@@ -1,0 +1,5 @@
+{"Description": "適切なスパイスさえあれば、飢えた人々は何でも食べるものだ。@{K}With the right spices, hungry people will eat anything.",
+ "LevelDescriptionText": "1|匂いのきつい肉商人からギャント・ポールから“にぃく”を運んでくるよう求められた~10|匂いのきつい肉商人は商売をやめた@{K}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$1|The Redolent Fleshmerchant has requested 'meath' from the Gant Pole~10|The Redolent Fleshmerchant is out of business",
+ "ChangeDescriptionText": "1|匂いのきつい肉商人からギャント・ポールから“にぃく”を運んでくるよう求められた。~10|匂いのきつい肉商人は商売をやめた。@{K}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$1|The Redolent Fleshmerchant has requested 'meath' from the Gant Pole.~10|The Redolent Fleshmerchant is out of business.",
+ "Name": "ギャント・ポール: 肉の交易@{K}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$Gant Pole: A Trade in Flesh",
+ "Id": 126762}

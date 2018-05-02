@@ -1,0 +1,5 @@
+{"Description": "秘密は肉と骨の狭間に埋められている。@{K}Secrets are buried in flesh and bone.",
+ "LevelDescriptionText": "1|あなたには全て内臓の塊にしか見えない~4|あなたは衰えた腸卜師の儀式の手順を学んだ~5|パターンが浮かび上がり始めた~3|腸卜の事を考えても胃がひっくり返ることはもうない~2|あなたは真実が閃くのを見た@{K}1|It is all just a mass of entrails to you~4|You have learned how the Fading Haruspex performs her rituals~5|Patterns begin to emerge~3|Your stomach no longer jumps at the thought of divination~2|You have seen a spark of the truth",
+ "ChangeDescriptionText": "1|あなたは腸占いの術について学びつつある。@{K}1|You are learning the ways of haruspicy.",
+ "Name": "ギャント・ポール: 腸卜師の見習い@{K}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$Gant Pole: An Apprenticeship in Haruspicy",
+ "Id": 126759}

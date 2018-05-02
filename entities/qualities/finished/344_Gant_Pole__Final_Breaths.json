@@ -1,0 +1,4 @@
+{"Description": "この生き物にはもはや時間はほとんど残されていない。@{K}This creature has little time left now.",
+ "ChangeDescriptionText": "7|海獣は強靭だ。血が勢いよく溢れ出す。~6|海獣は苦痛にのたうつ。~5|海獣の血が黒くなった。粘つき、脂っぽい。~4|鼓動が弱まった。もう時間はあまり残されていない。~3|海獣が呻く。もはや身を震わせる力さえもほとんど残っていない。~0|海獣は静かになった。その痛みも終わった。~2|海獣は身を震わせ、終わりを求めて弱々しく鳴く。~1|海獣の最後の鼓動が脈打った。@{K}7|The beast is strong. Its blood pumps thick and hard.~6|The beast's body thrashes in agony.~5|The beast's blood blackens. Viscous. Oily.~4|The beast's pulse weakens. It has little time left.~3|The beast moans. It barely has the energy to quiver.~0|The beast is silent. Its pain is over.~2|The beast shakes, mewling for the end.~1|The beast's final heartbeats pound their last.",
+ "Name": "ギャント・ポール: 最期の一呼吸@{K}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$Gant Pole: Final Breaths",
+ "Id": 126774}

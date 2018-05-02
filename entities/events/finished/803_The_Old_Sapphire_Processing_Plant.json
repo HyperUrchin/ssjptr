@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "数日の労働と追加のシェリー酒の後、改造は完了した。あなたの船の新しい配管が光を反射し輝く。水面下には格納された外部装甲の優美な曲線がぼんやりと見えた。@{K}A few day's work, more sherry, and the adjustments are complete. Your vessel's new pipework gleams. Beneath the water, you can just make out the graceful curve of her retracted shell-hull.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "数日の労働と追加のシェリー酒の後、改造は完了した。あなたの船の新しい配管が光を反射し輝く。水面下に格納された外部装甲の優美な曲線がぼんやりと見えた。@{K}A few day's work, more sherry, and the adjustments are complete. Your vessel's new pipework gleams. Beneath the water, you can just make out the graceful curve of her retracted shell-hull.",
                                      "Name": "", "Id": 247151},
                     "Name": "船を潜水艦に改造してもらう@{K}Have your ship converted for zubmarine travel",
                     "Description": "慈善家はシェリー酒とともにあなたを温かく歓迎した。「お金なんかいらないわ！あなたの先任者には大変な借りがありますからね」@{K}The Philanthropist greets you warmly, with sherry. \"Your money's no good here! I owe your predecessor a great debt.\"",

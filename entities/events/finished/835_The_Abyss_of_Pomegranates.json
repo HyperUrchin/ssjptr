@@ -8,7 +8,7 @@
                     "Name": "饗宴の儀式を放棄する@{K}Forsake the Rite of Feasting",
                     "Description": "そうすれば他の儀式を行うことが出来るだろう。[儀式による恩恵は一度につき一つしか受けられません。]@{K}So that you may partake in a different one. [You may only benefit from one Rite at a time.]",
                     "ButtonText": "", "Id": 192613},
-                   {"DefaultEvent": {"Description": "祝福と呪いの両方を逸らそうと甲板長が早口でSaltに祈っている。あなたのひどい咳の発作は間違いなく偶然の物だろう。あなたはその日中喉が嗄れていたが、すぐに回復した。@{K}Your bo'sun mutters a rapid prayer to Salt, off whom blessings and curses alike slide. Your vigorous coughing fit is unquestionably a coincidence. You are hoarse for the rest of the day, but swiftly recover.",
+                   {"DefaultEvent": {"Description": "祝福と呪いの両方を逸らそうと甲板長が早口でSaltに祈っている。このひどい咳の発作は間違いなく偶然の物だろう。あなたはその日中喉が嗄れていたが、すぐに回復した。@{K}Your bo'sun mutters a rapid prayer to Salt, off whom blessings and curses alike slide. Your vigorous coughing fit is unquestionably a coincidence. You are hoarse for the rest of the day, but swiftly recover.",
                                      "LinkToEvent": {"Id": 255589}, "Name": "", "Id": 258158},
                     "Name": "訪いの儀式を放棄する@{K}Forsake the Rite of Greeting",
                     "Description": "そうすれば他の儀式を行うことが出来るだろう。[儀式による恩恵は一度につき一つしか受けられません。]@{K}So that you may partake in a different one. [You may only benefit from one Rite at a time.]",
