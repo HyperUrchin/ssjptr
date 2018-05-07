@@ -3,7 +3,7 @@
                     "Name": "何も答えない@{K}Refuse to reply",
                     "Description": "答える価値もない。@{K}This is not a topic you wish to speak about with him. ",
                     "ButtonText": "", "Id": 182151},
-                   {"DefaultEvent": {"Description": "調査員は頷いた。「それで必要なことは完璧に理解できました。追加の質問はどこで尋ねればいいのかも。しかし失礼する前に、もう少し詳細をお聞きしたいのです。既にあなたの嗜好に関してはいくつかの仮説があるのですが、いくつかの詳細について証言していただいてもいいですか？」@{K}The Investigator nods. \"That tells me everything I need. I know where to make follow up enquiries. But before I go, I'd like some specifics. I already have some theories about your predilections. Would you confirm some of the details?\"",
+                   {"DefaultEvent": {"Description": "調査員は頷いた。「それで必要なことは完璧に理解できました。追加の質問はどこで尋ねればいいのかも。しかし失礼する前に、もう少し詳細をお聞きしたいのです。既にあなたの嗜好に関してはある程度の仮説があるのですが、いくつか詳細について証言していただいてもいいですか？」@{K}The Investigator nods. \"That tells me everything I need. I know where to make follow up enquiries. But before I go, I'd like some specifics. I already have some theories about your predilections. Would you confirm some of the details?\"",
                                      "Name": "湧きあがる問いの数々@{K}Raising questions", "Id": 237546},
                     "Name": "密かな笑みを返す@{K}Respond with a secretive smile ",
                     "Description": "自分で勝手に答えを出せばいい。@{K}Let him draw his own conclusions. ",
