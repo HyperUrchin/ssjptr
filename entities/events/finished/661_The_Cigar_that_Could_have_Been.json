@@ -1,0 +1,8 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "「失われてしまった」囁き程の音量で煙草屋は言った。彼は水に浮かぶ煙草の材料の残骸を見つめている。「もう役には立たん。これこそが、ずっと求めてきた物だったかもしれないというのに。しかし、すべてが失われてしまった……」\u000d\u000a\u000d\u000aあなたは粘り強い見習いの拘束を緩めた。彼はあなたの腕を掴み、そのまま階下の店へと先導する。頭上から突然何かの壊れる音が響き、吠えるような罵倒の言葉が続く。「いずれは機嫌を直してくれるでしょう」見習いは不安げに言った。「出来るだけ早く元に戻ってくれると良いのですが」@{K}\"Lost.\" His voice is barely a whisper. He stares at the remnants of the cigar ingredients, soaked in water. \"These are useless now. And this one might have been the one. But it's all lost...\" \u000d\u000a\u000d\u000aYou loosen the Dogged Apprentices' bonds. He takes you by the arm and leads you downstairs into the shop. A sudden crash resounds from above, followed by howled swears. \"The master will come around,\" he says anxiously.  \"Soon. I hope.\" ",
+                                     "LinkToEvent": {"Id": 234658}, "Name": "もはや何の役にも立たない@{K}Rendered useless",
+                                     "Id": 234728},
+                    "Name": "湿って台無し@{K}Water damaged",
+                    "Description": "水桶の縁を掴む手だけが崩れ落ちそうな彼の体を支えている。@{K}The Tobacconist's grip on the rim of the tub is all that's holding him upright.",
+                    "ButtonText": "", "Id": 180273}],
+ "Description": "気難しい煙草屋は水桶の傍らに膝をつき、微動だにしない。彼の顔は店に置かれた灰皿に積もる灰の如く真っ白だ。@{K}The Crotchety Tobacconist kneels before the tub of water. He is absolutely still; his face is as white as the ash piled in trays around the shop.",
+ "Name": "作りえた煙草@{K}The Cigar that Could have Been", "Id": 234726}

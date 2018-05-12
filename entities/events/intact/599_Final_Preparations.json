@@ -1,7 +1,0 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "$q:Addressed As -> q:呼称$\"We're done gathering flavours, [q:Addressed As],\" he shouts as you ascend. \"We'll make do with what we have. Let's finish it.\"",
-                                     "LinkToEvent": {"Id": 234639}, "Name": "", "Id": 235346},
-                    "Name": "\"Come up!\"",
-                    "Description": "What's the Tobacconist shouting about now?",
-                    "ButtonText": "", "Id": 180667}],
- "Description": "There is no one on the shop-floor today. But you can hear the Tobacconist in the workshop above.",
- "Name": "Final Preparations", "Id": 209684}
