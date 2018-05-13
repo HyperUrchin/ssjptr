@@ -1,0 +1,4 @@
+{"Description": "彼の師は様々な手段を用い、より良い煙草を追求した。@{K}His master went far in pursuit of a cigar.",
+ "LevelDescriptionText": "1|大晶洞を目指す、落胆した若者~2|大晶洞を目指す、持ち直しつつある若者@{K}$Grand Geode -> 大晶洞$1|A dejected youth, headed for the Grand Geode~2|A recovering youth, headed for the Grand Geode",
+ "ChangeDescriptionText": "1|あなたは粘り強い見習いを大晶洞へと連れていく事になった。@{K}$Grand Geode -> 大晶洞$1|You have agreed to transport the Dogged Apprentice to the Grand Geode.",
+ "Name": "ローズゲート: 粘り強い見習い@{K}Rosegate: The Dogged Apprentice", "Id": 125664}

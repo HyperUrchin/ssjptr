@@ -15,7 +15,7 @@
                     "Name": "謎めいた物を食べてみる@{K}Try something mysterious",
                     "Description": "“帝王の楽しみ”というのは正確には何なのだろう？売り子は曖昧にしか答えない。青い液体の滴る黒焦げの棒のように見える。@{K}What exactly is 'tyrant's treat'? The vendor is vague. It looks something like a charred stick dripping with bluish fluid.",
                     "ButtonText": "", "Id": 127974},
-                   {"SuccessEvent": {"Description": "僅かに毒の痕跡が残されている――舌がピリッと痺れ意識が微かに歪む程度に。あなたの鼓動は早まり、多くの奇妙な考えがあなたの精神の表面に弾けた。@{K}Traces of its venom still remain - just enough to make your tongue tingle and alter your consciousness a touch. Your pulse accelerates, and odd thoughts sparkle in the forefront of your mind.",
+                   {"SuccessEvent": {"Description": "僅かに毒の痕跡が残されている――舌がピリッと痺れ意識が微かに歪む程度に。あなたの鼓動は早まり、多くの奇妙な考えが精神の表面に弾けた。@{K}Traces of its venom still remain - just enough to make your tongue tingle and alter your consciousness a touch. Your pulse accelerates, and odd thoughts sparkle in the forefront of your mind.",
                                      "Name": "ジリーフィッシュ：食の女王@{K}$[Jj]illyfish -> ジリーフィッシュ$Jillyfish: the food of queens",
                                      "Id": 149354},
                     "DefaultEvent": {"Description": "ああ……あなたは後で後悔することになるだろう。ジリーフィッシュの毒があなたの舌を麻痺させ胃をかき回す。@{K}$[Jj]illyfish -> ジリーフィッシュ$Urgh. You'll regret it later. The jillyfish's venom numbs your tongue and roils your stomach.",
