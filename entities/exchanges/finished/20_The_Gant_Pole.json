@@ -1,7 +1,7 @@
 {"Name": "ギャント・ポール@{K}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$The Gant Pole",
  "Description": "死期を悟った懐中時計の向かう場所。@{K}Where pocket-watches go to die.",
  "Shops": [{"Name": "ヨナの終焉@{K}Jonah's End",
-            "Description": "栄光を求めてこの場所に来た無知で騙されやすい商人。彼は現在、比較的悪臭のしない肉をこの場所に来たあらゆる客に売り、生計を立てている。@{K}A naive merchant came here in search of glory. He now makes his living selling less-rancid meat to any customer he can find.",
+            "Description": "栄光を求めてこの場所に来た無知で騙されやすい商人が一人。彼は現在、比較的悪臭のしない肉をこの場所に来たあらゆる客に売ることで生計を立てている。@{K}A naive merchant came here in search of glory. He now makes his living selling less-rancid meat to any customer he can find.",
             "Id": 58},
            {"Name": "先触れ@{K}Portentum",
             "Description": "腸卜師の弟子たちは命を奪い、死を授ける。もちろん、あなたの生命について言っているわけではない。@{K}The Haruspex's disciples will take life, give death. Not yours, obviously.",
