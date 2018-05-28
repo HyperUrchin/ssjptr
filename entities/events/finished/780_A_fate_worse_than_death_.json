@@ -1,0 +1,13 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "ロレンツォが地上に残っていたなら、彼は単純な死を迎え、雨の降る中を埋葬されることも出来ただろう。しかし、今や彼には自分のものと呼べる屍骸すら残っていない。並ぶ者のない鱗翅学者はため息をついた。「彼の野望の行きついた先を見てください。彼はもはや何も分からない状態になってしまった。私たちはただ与えられた期間を楽しみ、終わりに誠実に向き合うべきなのでしょう」彼は重苦しい響きと共に蒐集本を閉じた。@{K}$[Tt]he Surface -> 地上$If Lorenzo had remained on the Surface, he could have died a simple death and been buried in the rain. Now he hasn't even got a corpse to call his own. The Incomparable Aurelian sighs. \"Look where his ambitions got him. Idiocy. Better to enjoy the span we're given and face its end with honesty.\" He closes his collection book with a leaden thud.",
+                                     "Name": "緩慢な死と退化@{K}A death by degrees and devolution", "Id": 244572},
+                    "Name": "ロレンツォは敗北した@{K}Tell him Lorenzo lost",
+                    "Description": "彼の身に起こった出来事よりも正当な死の方がましだろう。@{K}An honest death would have been better than what he endured.",
+                    "ButtonText": "", "Id": 186716},
+                   {"DefaultEvent": {"Description": "生は常に幸福な物とは限らない。しかし、死よりはましだろう。ロレンツォは死を先延ばしにする術を見つけた。そして、それこそが彼がNeathに来たそもそもの目的なのだ。\u000d\u000a\u000d\u000a並ぶ者のない鱗翅学者はため息をついた。「今の彼には新しい生命があります。ひょっとすると、前の物よりも幸福な生がね」彼は静かな微笑みと共に蒐集本を閉じた。@{K}Life is unreliably pleasant, but it's better than the alternative. Lorenzo found a way to prolong it. It was, after all, why he came to the Neath. \u000d\u000a\u000d\u000aThe Incomparable Aurelian sighs. \"He has a new life now. Maybe a happier one.\" He closes his collection book with a quiet smile.",
+                                     "Name": "綺麗とは言えない方法ではあっても、死に対する勝利であることに変わりはない@{K}A triumph over death, albeit a messy one",
+                                     "Id": 246545},
+                    "Name": "ロレンツォは勝利した@{K}Tell him Lorenzo triumphed",
+                    "Description": "彼の一部は死を躱したのだ。彼は生き続ける。@{K}Some part of him eluded death; he lives on.",
+                    "ButtonText": "", "Id": 188139}],
+ "Description": "標本にされた蛾の本から顔をあげ、並ぶ者のない鱗翅学者はあなたをじっと見つめた。\u000d\u000a\u000d\u000a「ロレンツォは死を欺く術を求めてNeathに来ました。私には彼が成功したのか失敗したのか、はっきりと言うことが出来ません」@{K}Looking up from his book of pressed moths, the Incomparable Aurelian fixes you with his stare.\u000d\u000a\u000d\u000a\"Lorenzo came to the Neath looking for a way to cheat death. I can't say whether or not he succeeded.\"",
+ "Name": "死よりも悪い結末？@{K}A fate worse than death?", "Id": 244570}
