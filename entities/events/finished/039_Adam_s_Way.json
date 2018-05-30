@@ -135,7 +135,7 @@
                     "Name": "語り部にどうすればクラデリー・ハートを取り戻せるか尋ねる@{I}$Cladery Heart -> クラデリー・ハート$Ask storytellers about how to retrieve the Cladery Heart",
                     "Description": "　現在の船の居場所についての消息はあるだろうか？@{I}Is there any word of where she might be now?",
                     "ButtonText": "", "Id": 187183},
-                   {"DefaultEvent": {"Description": "並ぶ者のない鱗翅学者は顔をあげることなく、あなたの助力に感謝すると述べた。「至上蛾の孵化に立ち会うことが出来た、あの経験は、私の経歴の最も輝く瞬間となることでしょう」彼は惨めな様子で言った。「ロレンツォきっと感謝していると思いますよ」@{K}Without looking up, the Incomparable Aurelian tells you that your assistance has been appreciated. \"Being present for the Most-Moth's hatching will be the highlight of my career,\" he says, miserably. \"I'm sure Lorenzo would want to thank you, as well.\"",
+                   {"DefaultEvent": {"Description": "並ぶ者のない鱗翅学者は顔をあげることなく、あなたの助力に感謝すると述べた。「至上蛾の孵化に立ち会うことが出来た、あの経験は、私の経歴の最も輝く瞬間となることでしょう」彼は惨めな様子で言った。「ロレンツォもきっと感謝していると思いますよ」@{K}Without looking up, the Incomparable Aurelian tells you that your assistance has been appreciated. \"Being present for the Most-Moth's hatching will be the highlight of my career,\" he says, miserably. \"I'm sure Lorenzo would want to thank you, as well.\"",
                                      "LinkToEvent": {"Id": 244570}, "Name": "静かな別れ@{K}A quiet farewell",
                                      "Id": 247137},
                     "Name": "船を去る鱗翅学者に別れを告げる@{K}Bid farewell to the departing Aurelian",

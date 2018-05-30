@@ -1,0 +1,4 @@
+{"Description": "誰が再招集されたニダーに立ち向かう七人に資金を提供するのだろう？@{K}Who will fund the reformed Seven against Nidah?",
+ "LevelDescriptionText": "1|まだ誰も勧誘していない~5|峻厳な慈善家@{K}1|You have yet to recruit one~5|The Fierce Philanthropist",
+ "ChangeDescriptionText": "1|七人には財政家が必要だ。~5|七人は財政家を見つけた。@{K}1|The Seven require a financier.~5|The Seven have found their financier.",
+ "Name": "大望: 財政家@{K}$Ambition -> 大望$Ambition: the Financier", "Id": 128588}
