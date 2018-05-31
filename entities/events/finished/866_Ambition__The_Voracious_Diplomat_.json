@@ -1,0 +1,8 @@
+{"ChildBranches": [{"DefaultEvent": {"Description": "外交官はNeathの権力を持つ存在と諜報活動の複雑な情勢に大いに関心を寄せている。あなたもそこに影響を及ぼすようになれば、外交官は自ずから姿を見せるだろう。[重要機密を黒眼鏡の提督に提出し、貪欲な外交官をアンロックしましょう。]@{K}$Vital Intelligence -> 重要機密, Voracious Diplomat -> 貪欲な外交官, Dark-Spectacled Admiral -> 黒眼鏡の提督$The Diplomat is deeply interested in the powers of the Neath, and the intricacies of espionage. If you begin to make waves, they may reveal themself. [Grant Vital Intelligence to the Dark-Spectacled Admiral to unlock the Voracious Diplomat.]",
+                                     "Name": "グレート・ゲームのプレイヤー@{K}A player of the Great Game", "Id": 260636},
+                    "Name": "引き抜くことは出来るだろうか？@{K}Can you draw them out?",
+                    "Description": "その外交官には特別な関心事があるらしい。@{K}They have peculiar interests.", "ButtonText": "",
+                    "Id": 194367}],
+ "Description": "外交官はボーデインの代役候補として名が挙がっている。@{K}$Bourdain -> ボーデイン$They have been named as a potential replacement for Bourdain.",
+ "Name": "大望: 貪欲な外交官？@{K}$Ambition -> 大望, Voracious Diplomat -> 貪欲な外交官$Ambition: The Voracious Diplomat?",
+ "Id": 260635}

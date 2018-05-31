@@ -1,4 +1,0 @@
-{"Description": "誰が言葉を広めるのだろう？@{K}@{K}Who will spread the word?",
- "LevelDescriptionText": "1|まだ誰も勧誘していない~5|ボーデイン、あるいは、彼の名残~3|ボーデインを引き取ることが出来ないなら、ロンドンの貪欲な外交官なら適切な代役となれるかもしれない~10|貪欲な外交官@{K}$Voracious Diplomat -> 貪欲な外交官, Bourdain -> ボーデイン$1|You have yet to recruit someone~5|Bourdain, or what is left of him~3|If you cannot retrieve Bourdain, a Voracious London Diplomat may make a suitable replacement~10|The Voracious Diplomat",
- "ChangeDescriptionText": "1|七人には扇動者が必要だ。~5|七人は扇動者を見つけた。~3|ロンドンの貪欲な外交官がボーデインの代わりとなれるかもしれない。@{K}$Bourdain -> ボーデイン$1|The Seven require a Propagandist.~5|The Seven have found their Propogandist.~3|Perhaps a Voracious London Diplomat could replace Bourdain.",
- "Name": "大望: 扇動者$Ambition -> 大望$Ambition: the Propagandist", "Id": 128589}
