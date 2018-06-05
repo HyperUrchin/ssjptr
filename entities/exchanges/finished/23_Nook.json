@@ -1,0 +1,5 @@
+{"Name": "ヌック@{K}Nook", "Description": "歯だ。@{K}Teeth.",
+ "Shops": [{"Name": "大きく開かれた口@{K}The Yawning Maw",
+            "Description": "まばらに散らばった商人、密輸人、買い物客の集まり。@{K}A scattered assembly of traders, smugglers and shoppers.",
+            "Id": 52}],
+ "Id": 24}

@@ -1,0 +1,5 @@
+{"Name": "ダユー@{K}Dahut", "Description": "此処には平穏がある。@{K}Here: peace.",
+ "Shops": [{"Name": "ダユー交易所@{K}Dahut Exchange",
+            "Description": "ほとんどウルフスタックと変わりない。@{K}$Wolfstack -> ウルフスタック, Wolf -> ウルフ$It could almost be Wolfstack.",
+            "Id": 55}],
+ "Id": 27}

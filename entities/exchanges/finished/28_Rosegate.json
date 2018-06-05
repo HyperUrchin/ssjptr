@@ -1,0 +1,6 @@
+{"Name": "ローズゲート@{K}Rosegate",
+ "Description": "海の上にも中にもこれ以上はない最良の煙草屋。@{K}The finest cigar shop above or below the waves.",
+ "Shops": [{"Name": "性能試験所@{K}Proving Ground",
+            "Description": "店主は可燃性の限度を試したいようだ。@{K}The proprietor is interested in testing the limits of flammability.",
+            "Id": 60}],
+ "Id": 31}

@@ -1,0 +1,4 @@
+{"Name": "アンテ@{K}Anthe", "Description": "花開く水晶の街。@{K}A city of flowering crystal.",
+ "Shops": [{"Name": "ストーンマーケット@{K}Stonemarket",
+            "Description": "宝石、珊瑚、岩石。@{K}Jewels; coral; rocks.", "Id": 51}],
+ "Id": 23}
