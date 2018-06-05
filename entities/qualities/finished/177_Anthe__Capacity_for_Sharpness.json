@@ -1,0 +1,5 @@
+{"Description": "あなたの体はどれだけの鋭利さに耐えられるだろうか？@{K}How much sharpness can you endure?",
+ "AvailableAt": "アンテで手に入れることが出来る。@{K}Cultivate this at Anthe.",
+ "LevelDescriptionText": "1|あなたは一か所だけ鋭くなることが出来る。~2|あなたは二か所鋭くなれる。~3|三か所鋭くなったとしても、害はない。あなたなら耐えられる。~4|四か所鋭くしようって？その通り。そうしない理由があるだろうか？あなたの半分は鋭くなった。しかしあなたは気にしているだろうか？~5|あなたは体の半分以上を水晶にすることが出来る。~6|6つ目。6つの鋭利さ。~7|全身@{K}1|You can go sharp, but only in one area.~2|You can be sharp in two ways.~3|Triple sharpness will not harm you. You can endure it.~4|Quadruple sharpness? Yes. Why not? Half of you is sharp, but will you mind?~5|You are capable of being more than half crystal.~6|Six. Six sharpnesses.~7|Total",
+ "ChangeDescriptionText": "1|鋭利さを一つ受け入れることが出来るようになった。~2|また別の鋭利さを受け入れられるようになった。~7|7つの鋭利さを保持することが出来るようになった。7が最大値だ。@{K}1|You can now take on a single sharpness.~2|You can now take on another sharpness.~7|You can hold seven sharpnesses. Seven is the maximum.",
+ "Name": "アンテ: 鋭利さを受け入れる余地@{K}Anthe: Capacity for Sharpness", "Id": 128395}

@@ -1,0 +1,4 @@
+{"Description": "アンテの初めの間で得ることが出来る。@{K}Gained in the first chamber of Anthe.",
+ "AvailableAt": "アンテ@{K}Anthe", "LevelDescriptionText": "1|鋭利な脾臓@{K}1|Sharp-spleened",
+ "ChangeDescriptionText": "1|あなたの脾臓は六角形の水晶だ。@{K}1|Your spleen is a hexagonal crystal.",
+ "Name": "アンテ: 鋭利な脾臓@{K}Anthe: Sharpness of Spleen", "Id": 127568}

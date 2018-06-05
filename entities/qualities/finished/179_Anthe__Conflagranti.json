@@ -1,0 +1,5 @@
+{"Description": "ロジーナの見物人たちが魂遷に冒され、あの場所を歩き回っている。@{K}$[Aa]nimescence -> 魂遷$Rosina's Onlookers are now infected with animescence, and haunt the place.",
+ "AvailableAt": "アンテで獲得できる。@{K}Acquired at Anthe.",
+ "LevelDescriptionText": "1|烈火がアンテの小部屋を歩き回り、魂遷に苦しんでは他の者たちにも病を広げている。~2|烈火はアンテから消え去った。@{K}$[Aa]nimescence -> 魂遷$1|Conflagranti wander the chambers of Anthe, suffering from and trying to spread their animescence.~2|Anthe has been cleansed of Conflagranti.",
+ "ChangeDescriptionText": "1|アンテは烈火にとりつかれた。~2|アンテは烈火から解放された。@{K}1|Anthe is now haunted by Conflagranti.~2|Anthe is now free of Conflagranti.",
+ "Name": "アンテ: 烈火@{K}Anthe: Conflagranti", "Id": 128423}
