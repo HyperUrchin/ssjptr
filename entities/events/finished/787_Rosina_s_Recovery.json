@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "彼女の表情が暗くなる。「それでも最善を尽くさなれば。ここで起こったすべてを書き出していただけるでしょうか。心拍数、一日に使用した氷の量、刺激の選択。それと看護師と見物人の数に、部屋の面積、私の脾臓の状態について。力が戻れば、効用を再現できる……そして実験して……」@{K}Her face falls. \"We'll have to do our best. Write down everything that happened here. Pulse count, daily ice usage, the choice of stimuli. Also the number of nurses and onlookers, the dimensions of the room, and the condition of my spleen. When I am stronger, I can replicate the effects elsewhere... experiment...\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "彼女の表情が暗くなる。「それでも最善を尽くさなれば。ここで起こったすべてを書き出していただけないだろうか。心拍数、一日に使用した氷の量、刺激の選択。それと看護師と見物人の数に、部屋の面積、私の脾臓の状態について。力が戻れば、効用を再現できる……そして実験して……」@{K}Her face falls. \"We'll have to do our best. Write down everything that happened here. Pulse count, daily ice usage, the choice of stimuli. Also the number of nurses and onlookers, the dimensions of the room, and the condition of my spleen. When I am stronger, I can replicate the effects elsewhere... experiment...\"",
                                      "LinkToEvent": {"Id": 245029}, "Name": "率直な物言い@{K}You're frank",
                                      "Id": 245059},
                     "Name": "そのような事は出来ないと認める@{K}Admit that you wouldn't",
@@ -13,5 +13,5 @@
                     "Name": "助けになる@{K}Offer your services",
                     "Description": "治療法が彼女の役に立つのなら、あなたには喜んで教える用意がある。[成功すれば報酬が手に入りますが、失敗すれば恐ろしい目に遭い恐怖が上昇するでしょう。]@{K}If she would benefit from being taught the means of treatment, you would be more than happy. [This will be rewarding if you succeed, terrifying if you fail.]",
                     "ButtonText": "", "Id": 192844}],
- "Description": "もしあなたが賛辞や感謝の言葉、あるいは感激の涙を期待していたとしても、そういったものはやってこないようだ。「日誌を持ってきて欲しい」ロジーナが看護師に言う。「記録を見直さないと……」そしてあなたの方を見やる。「私に施した治療を再現することは出来るでしょうか？」@{K}If you were hoping for praise, gratitude, and perhaps some thankful tears, they are not forthcoming. \"Bring my log book,\" Rosina tells her nurses. \"I need to review the records...\" She looks in your direction. \"Would you be able to replicate the treatment you gave me?\"",
+ "Description": "もしあなたが賛辞や感謝の言葉、あるいは感激の涙を期待していたとしても、そういったものはやってこないようだ。「日誌を持ってきて欲しい」ロジーナが看護師に言う。「記録を見直さないと……」そしてあなたの方を見やる。「私に施した治療を再現することは出来るだろうか？」@{K}If you were hoping for praise, gratitude, and perhaps some thankful tears, they are not forthcoming. \"Bring my log book,\" Rosina tells her nurses. \"I need to review the records...\" She looks in your direction. \"Would you be able to replicate the treatment you gave me?\"",
  "Name": "ロジーナの快復@{K}Rosina's Recovery", "Id": 245058}

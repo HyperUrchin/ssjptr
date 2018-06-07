@@ -1,3 +1,5 @@
 {"Description": "それはとても遠く離れたところにいる。しかし、それでもあなたを見ているかもしれない。@{I}遥か遠くに居るが、恐らく貴方を視ている。@{M}It's very far away; but perhaps it's watching you.",
+ "LevelDescriptionText": "1|Stoneの注視を得ている。@{K}1|You now have the Gods of the Zee: Stone's Attention",
+ "ChangeDescriptionText": "1|Zeeの神々: Stoneの注視を手に入れた。@{K}1|You now have the Gods of the Zee: Stone's Attention.",
  "Name": "Zeeの神々: Stoneの注視@{I}ジーの神々: ストーンの注目@{M}The Gods of the Zee: Stone's Attention",
  "Id": 109509}

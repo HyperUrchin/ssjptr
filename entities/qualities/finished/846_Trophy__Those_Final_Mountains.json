@@ -1,3 +1,4 @@
 {"Description": "書斎に掛けられた存在し得ない山脈とその表面を覆う霧の絵。[あなたの家系の船長が世界の東の果てのその先へと漕ぎ出した証です。]@{K}貴方の書斎に飾られている、山腹に霧がかかっている有り得ない程の高い山の絵画だ。[貴方の家系の船長が、世界の東の果てまで航海した証です。]@{M}A painting hangs in your study, of mist on the face of impossible mountains. [A captain of your lineage sailed east out of the world.]",
+ "ChangeDescriptionText": "1|記念品: かの最後の山脈を手に入れた。@{K}1|You now have a Trophy: Those Final Mountains.",
  "Name": "記念品: かの最後の山脈@{K}記念品: それは最後の山@{M}Trophy: Those Final Mountains",
  "Id": 115184}

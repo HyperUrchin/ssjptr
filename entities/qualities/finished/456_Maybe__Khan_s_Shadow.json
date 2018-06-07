@@ -1,3 +1,4 @@
 {"Description": "カーンの影ではまだ、メイビーの娘は母親を探していない。@{I}メイビーの娘はハンの黒影でまだ彼女の母親を探していない。@{M}$Khan -> カーン, Khan's Shadow -> カーンの影, Maybe's Daughter -> メイビーの娘$Maybe's Daughter has not yet looked for her mother in Khan's Shadow.",
+ "ChangeDescriptionText": "1|メイビー: カーンの影を手に入れた。@{K}1|You now have Maybe: Khan's Shadow.",
  "Name": "メイビー: カーンの影@{I}メイビー: ハンの黒影@{M}$Khan -> カーン, Khan's Shadow -> カーンの影$Maybe: Khan's Shadow",
  "Id": 115732}

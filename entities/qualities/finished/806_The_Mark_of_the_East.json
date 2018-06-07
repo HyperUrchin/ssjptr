@@ -1,2 +1,4 @@
 {"Description": "旧きものよ。お前はどこへ行くというのか。旧きものよ。@{I}古き魂だ。お前は一体何処へ行くのだ？@{M}Old soul. Where are you going, old soul?",
+ "LevelDescriptionText": "1|東のしるしを手に入れた。@{K}1|You have the Mark of the East",
+ "ChangeDescriptionText": "1|東のしるしを手に入れた。@{K}1|You have the Mark of the East.",
  "Name": "東のしるし@{I}東の紋章@{M}The Mark of the East", "Id": 109760}

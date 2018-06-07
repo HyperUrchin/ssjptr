@@ -1,3 +1,5 @@
 {"Description": "『我輝く/降るために』@{K}カガヤク / オリルタメ。@{M}I SHINE / TO DESCEND",
+ "LevelDescriptionText": "1|あなたは真珠族の除け者について知りつつある。@{K}1|You are learning about the Nacreous Outcast",
+ "ChangeDescriptionText": "1|あなたは真珠族の除け者について知りつつある。@{K}1|You are learning about the Nacreous Outcast.",
  "Name": "事情を知る: 真珠族の除け者@{K}人物観察: 真珠の追放者@{M}$Learning About: -> 事情を知る:, Nacreous Outcast -> 真珠族の除け者$Learning About: The Nacreous Outcast",
  "Id": 112665}

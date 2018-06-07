@@ -1,3 +1,4 @@
 {"Description": "謎に包まれた郵便局長その人がこの賞状に署名した。[あなたの系譜の船長が、宛先の間違った荷物から遺骨を見つけ出した証です。]@{I}謎めいた郵便局長自身がこの紙に署名をした。[貴方の家系で前の船長が住所を間違えた荷物から骨を見つけた証です。]@{M}The Postmaster Cryptic herself signed this letter. [A previous captain in your lineage found bones in a misaddressed package.]",
+ "ChangeDescriptionText": "1|記念品: 賞状を手に入れた。@{K}1|You now have a Trophy: A Letter of Commendation.",
  "Name": "記念品: 賞状@{M}Trophy: A Letter of Commendation",
  "Id": 115186}

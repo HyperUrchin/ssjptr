@@ -1,3 +1,4 @@
 {"Description": "堂々たる記念写真。雨で滲んだ名前がとても読みづらい。[あなたの系譜の船長が、父の遺骨、またはその代替品を見つけ出し、埋葬した証です。]@{M+I}押し付けがましい記念写真。雨で滲んだ名前がとても読みづらい。[貴方の家系で前の船長が父親の遺骨- またはその代替品 - を発見し埋葬した証です。]@{M}The image of an imposing memorial. The rain-blurred name is difficult to read. [A previous captain in your lineage found and buried their father's bones - or a substitute.]",
+ "ChangeDescriptionText": "1|記念品: 記念の銀板写真を手に入れた。@{K}1|You now have a Trophy: A Daguerreotype of a Memorial.",
  "Name": "記念品: 記念の銀板写真@{M}Trophy: A Daguerreotype of a Memorial",
  "Id": 115192}

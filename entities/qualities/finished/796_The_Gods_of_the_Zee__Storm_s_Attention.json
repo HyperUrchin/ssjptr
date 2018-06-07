@@ -1,3 +1,5 @@
 {"Description": "太古の怒りが、あなたのことを知っている。@{I}古代の怒りが貴方を知っている。@{M}An ancient anger knows you.",
+ "LevelDescriptionText": "1|Stormの注視を得ている。@{K}1|You now have the Gods of the Zee: Storm's Attention",
+ "ChangeDescriptionText": "1|Zeeの神々: Stormの注視を手に入れた。@{K}1|You now have the Gods of the Zee: Storm's Attention.",
  "Name": "Zeeの神々: Stormの注視@{I}ジーの神々: ストームの注目@{M}The Gods of the Zee: Storm's Attention",
  "Id": 109552}

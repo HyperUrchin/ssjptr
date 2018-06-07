@@ -1,3 +1,4 @@
 {"Description": "あなたの書斎に掛けられた、永遠に波間に漂う錬鉄製のブイとNeathの暗闇を貫く光の絵。その鐘の音が聞こえてくるようだ。[あなたの家系の船長が世界の東の果てのその先へと漕ぎ出した証です。]@{K}貴方の書斎に飾られた、鉄の精巧なブイで、永遠に浮き、地下界の暗闇を貫く光が描かれている絵画だ。鐘がもう少しで聞こえてきそうだ。[貴方の家系の船長が、世界の東の果てまで航海した証です。]@{M}A painting hangs in your study, of a wrought-iron buoy, endlessly afloat, light piercing in the Neath's dark. You can almost hear the bell. [A captain of your lineage sailed east out of the world.]",
+ "ChangeDescriptionText": "1|記念品: 安息なきを手に入れた。@{K}1|You now have a Trophy: Restless.",
  "Name": "記念品: 安息なき@{K}記念品: レストレス@{M}Trophy: Restless",
  "Id": 117346}

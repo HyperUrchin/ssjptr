@@ -1,5 +1,5 @@
 {"Description": "それは自らの本性に従って解ける。@{I}It is in its nature to melt.",
  "LevelDescriptionText": "1|雪の子は、北の冷気によってしっかりと凍りついている~2|雪の子が解け始めた~3|雪の子が歩くと、後に水たまりができる~4|雪の子に残された時間は少ない~40|雪の子は安定している~99|雪の子は解けてしまった~@{I}$Snow Child -> 雪の子$1|The Snow Child is well-frozen by the chill of the North~2|The Snow Child has begun to thaw~3|The Snow Child leaves puddles where it walks~4|The Snow Child has little time left~40|The Snow Child is stable~99|The Snow Child has melted",
- "ChangeDescriptionText": "1|雪の子が解けかけている。~2|雪の子が解け始めている。~3|雪の子は苦闘している。~4|雪の子は体を保つために戦っている。~40|もはや雪の子が解けることはない。~40|雪の子は解けてしまった。~@{I}$Snow Child -> 雪の子$1|The Snow Child is starting to thaw.~2|The Snow Child is beginning to melt.~3|The Snow Child is struggling.~4|The Snow Child fights to stay together.~40|The Snow Child will no longer melt.~40|The Snow Child has melted.",
+ "ChangeDescriptionText": "1|雪の子が解けかけている。~2|雪の子が解け始めている。~3|雪の子は苦闘している。~4|雪の子は体を保つために戦っている。~40|もはや雪の子が解けることはない。@{I}$Snow Child -> 雪の子$1|The Snow Child is starting to thaw.~2|The Snow Child is beginning to melt.~3|The Snow Child is struggling.~4|The Snow Child fights to stay together.~40|The Snow Child will no longer melt.~40|The Snow Child has melted.",
  "Name": "袋と雪: 雪の心臓@{I}$Sacks and Snow: -> 袋と雪:$Sacks and Snow: Heart of Snow",
  "Id": 123507}

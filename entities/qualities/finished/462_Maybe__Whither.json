@@ -1,3 +1,4 @@
 {"Description": "ウィザーではまだ、メイビーの娘は母親を探していない。@{I}メイビーの娘はウィザーでまだ彼女の母親を探していない。@{M}$Whither -> ウィザー, Maybe's Daughter -> メイビーの娘$Maybe's Daughter has not yet looked for her mother in Whither.",
+ "ChangeDescriptionText": "1|メイビー: ウィザーを手に入れた。@{K}1|You now have Maybe: Whither.",
  "Name": "メイビー: ウィザー@{I}メイビー: ウィザー@{M}$Whither -> ウィザー$Maybe: Whither",
  "Id": 115734}

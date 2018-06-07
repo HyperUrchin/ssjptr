@@ -67,7 +67,12 @@
                                      "Name": "テザーが舌の上で溶けた@{K}Tether melts in your mouth", "Id": 260584},
                     "Name": "瓶のテザーを飲み込む@{K}Consume the jarful of tether",
                     "Description": "厳格な化学者は大金を支払うと言っていた――しかし、あなたには愛に値をつけることは出来るだろうか？@{K}The Severe Chemist would pay well for it - but can you put a price on love?",
-                    "ButtonText": "", "Id": 194332}],
+                    "ButtonText": "", "Id": 194332},
+                   {"DefaultEvent": {"Description": "Your ever-present Blemmigan is, for once, nowhere to be seen. The engine room is quiet. Your maps are exactly as you left them – not one is defaced, or crumpled into a ball. Finally, you spot the tip of a tendril poking out from under a pile of unwashed clothing. Your Blemmigan indicates that under no circumstance whatsoever will it be emerging. What could be so bad about the Uttershroom? Did the other mushrooms bully it?",
+                                   "Name": "Unaccustomed silence","Id": 287250},
+                    "Name": "Encourage your Blemmigan Gallivanter to explore",
+                    "Description": "It might feel a kinship with the place. It's certainly very mushroomy.",
+                             "ButtonText": "","Id": 212377}],
  "Description": "　菌糸の縄梯子を頂上まで登り切ると、そこでは胞子が雲のようにもうもうと立ち込め、動物と植物の混成生物が小走りに駆け回っている。みすぼらしい身なりの疑り深い住人たちは、かつかつの生活を送っている。誰一人としてここを離れようという者はいない。「怪物だよ」ある者が陰気に説明した。「zeeは怪物で一杯じゃないか」@{I}Climb the fungal-fibre ladders to its summit. Shaggy, suspicious villagers scratch a living here, amidst endless clouds of spores and scurrying mobs of plant-animal hybrids. None of them ever leave. \"Monsters,\" one explains darkly. \"Zee full of monsters.\"",
  "Name": "アターシュルーム@{I}$Uttershroom -> アターシュルーム$The Uttershroom",
  "Id": 158110}
