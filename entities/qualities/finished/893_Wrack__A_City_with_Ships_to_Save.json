@@ -1,4 +1,4 @@
-{"Description": "船の解体者たちが罪のない人々を沈めるのを黙って見ているわけにはいかない。とりわけ純粋な者たちは警告に対して金を払ってくれるかもしれない。@{K}You cannot allow the Wreckers to claim innocents. Particularly innocents that may pay for their warning.",
+{"Description": "船の解体者たちが罪のない人々を沈めるのを黙って見ているわけにはいかない。警告に対して金を払ってくれるかもしれない純粋な者たちは特に。@{K}You cannot allow the Wreckers to claim innocents. Particularly innocents that may pay for their warning.",
  "LevelDescriptionText": "1|ポート・カーネリアン~2|ポリズリーム~3|ポート・キャベンディッシュ@{K}$Port Carnelian -> ポート・カーネリアン, Polythreme -> ポリズリーム, Port Cavendish -> ポート・キャベンディッシュ$1|Port Carnelian~2|Polythreme~3|Port Cavendish",
  "ChangeDescriptionText": "1|ポート・カーネリアンに向かおう。~2|ポリズリームに向かおう。~3|ポート・キャベンディッシュに向かおう。@{K}$Port Carnelian -> ポート・カーネリアン, Polythreme -> ポリズリーム, Port Cavendish -> ポート・キャベンディッシュ$1|You're going to Port Carnelian.~2|You're going to Polythreme.~3|You're going to Port Cavendish.",
  "Name": "ラック: 助けが必要な船のいる街@{K}Wrack: A City with Ships to Save", "Id": 127267}

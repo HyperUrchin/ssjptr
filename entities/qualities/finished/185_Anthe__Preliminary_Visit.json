@@ -1,0 +1,5 @@
+{"Description": "アンテの一番外側に位置する幾つかの部屋を見て回った。@{K}You have looked around Anthe's outermost chambers.",
+ "AvailableAt": "アンテ@{K}Anthe",
+ "LevelDescriptionText": "1|あなたはアンテの外側の部屋を訪ね、あの港が一体どのような場所なのか学んだ。@{K}1|You've seen the outer chambers of Anthe and learned what the place is.",
+ "ChangeDescriptionText": "1|あなたはアンテの外側の部屋を訪ね、あの港が一体どのような場所なのか学んだ。@{K}1|You've seen the outer chambers of Anthe and learned what the place is.",
+ "Name": "アンテ: 予備調査@{K}Anthe: Preliminary Visit", "Id": 128484}

@@ -1,5 +1,5 @@
 {"Description": "一頭の海獣がギャント・ポールへと向かった。@{K}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$A beast of the zee has gone to the Gant Pole.",
  "LevelDescriptionText": "2|トリスケルギャント~3|愛されしもの~4|髭ベヒモス~1|タラッテ@{K}$[Gg]ant -> ギャント, [Bb]ehemoustache -> 髭ベヒモス$2|Triskelegant~3|Beloved~4|Behemoustache~1|Thalatte",
- "ChangeDescriptionText": "0|ギャント・ポールは次のくたびれきった海獣を待っている。~1|一頭の海獣がギャント・ポールへと向かった。@{K}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$0|The Gant Pole awaits its next weary beast.~1|A beast heads to the Gant Pole.",
+ "ChangeDescriptionText": "0|ギャント・ポールは次の疲れ果てた海獣を待っている。~1|一頭の海獣がギャント・ポールへと向かった。@{K}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$0|The Gant Pole awaits its next weary beast.~1|A beast heads to the Gant Pole.",
  "Name": "ギャント・ポール: 海獣の終焉@{K}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$Gant Pole: Something Ends",
  "Id": 126770}

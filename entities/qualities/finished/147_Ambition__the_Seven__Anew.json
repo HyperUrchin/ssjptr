@@ -1,0 +1,4 @@
+{"Description": "ニダーに立ち向かう七人を再び集結させる必要がある。@{K}You must restore the Seven Against Nidah.",
+ "LevelDescriptionText": "1|七人のうちの一人~2|七人のうちの二人~3|七人のうちの三人~4|七人のうちの四人~5|七人のうちの五人~6|七人のうちの六人~7|七人の七人@{K}1|One of Seven~2|Two of Seven~3|Three of Seven~4|Four of Seven~5|Five of Seven~6|Six of Seven~7|Seven of Seven",
+ "ChangeDescriptionText": "1|あなたは誰かを七人に勧誘した。~7|ニダーに立ち向かう七人が再び集った。@{K}7|The Seven Against Nidah are reformed.~1|You have recruited someone to the Seven.",
+ "Name": "大望: 新たなる七人@{K}$Ambition -> 大望$Ambition: the Seven, Anew", "Id": 128596}
