@@ -1,0 +1,5 @@
+{"Description": "死にかけの男からのハイドアウェイにいる愛する者への別れの手紙。@{K}A letter from the Almost Dead Man, bidding farewell to a lover in Hideaway.",
+ "LevelDescriptionText": "1|未開封で綺麗なまま~2|密かに読んだ~3|開封されたのは明らかだ@{K}1|Unopened and pristine~2|Stealthily read~3|Clearly perused",
+ "ChangeDescriptionText": "3|手紙が開封されたのは明らかだ。~2|これが読まれているなんて誰にも分らないはずだ。 だろう？~1|あなたはハイドアウェイへの別れの手紙を受け取った。@{K}3|The letter has clearly been opened.~2|No one could tell it's been read. Could they?~1|You've accepted a farewell letter to be delivered to Hideaway.",
+ "Name": "アンダークロウ: ハイドアウェイ宛の別れの手紙Undercrow: Delivering a Farewell Letter to Hideaway",
+ "Id": 127586}

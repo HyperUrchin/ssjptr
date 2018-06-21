@@ -1,0 +1,4 @@
+{"Description": "誰が七人の軍隊を指揮するのだろう？@{K}Who will command the Seven's legions?",
+ "LevelDescriptionText": "1|まだ誰も勧誘していない~5|バトゥック~3|七人に再加入するようバトゥックを説得しよう@{K}1|You have yet to recruit someone~5|Batuk~3|Convince Batuk to rejoin the Seven",
+ "ChangeDescriptionText": "1|七人には戦士が必要だ。~5|七人は戦士を見つけた。~3|七人に再加入するようバトゥックを説得できるかもしれない。@{K}5|The Seven have found their commander.~1|The Seven need a commander.~3|Perhaps you can convince Batuk to rejoin the Seven.",
+ "Name": "大望: 戦士@{K}$Ambition -> 大望$Ambition: the Soldier", "Id": 128592}

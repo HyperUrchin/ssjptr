@@ -1,0 +1,5 @@
+{"Description": "死にかけの男からヌックの同胞へあてた謝罪の手紙。@{K}A letter from the Almost Dead Man, apologizing to a comrade in Nook.",
+ "LevelDescriptionText": "1|未開封で綺麗なまま~2|密かに読んだ~3|開封されたのは明らかだ@{K}1|Unopened and pristine~2|Stealthily read~3|Clearly perused",
+ "ChangeDescriptionText": "3|手紙が開封されたのは明らかだ。~2|これが読まれているなんて誰にも分らないはずだ。 だろう？~1|あなたはヌックへの謝罪の手紙を受け取った。@{K}1|You've accepted a letter of apology to be delivered to Nook.~2|No one could tell it's been read. Could they?~3|The letter has clearly been opened.",
+ "Name": "アンダークロウ: ヌック宛の謝罪の手紙@{K}Undercrow: Delivering a Letter of Apology to Nook",
+ "Id": 127589}

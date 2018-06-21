@@ -13,7 +13,7 @@
                     "Name": "不安げな大学生をハンターズ・キープまで運ぶ@{K}$Hunter's Keep -> ハンターズ・キープ$Agree to carry the Anxious University Student to Hunter's Keep",
                     "Description": "彼は金を持っていない。そのため他の船長は興味を示さなかった。しかし彼は情熱的な若者で、自分のローエン・フルークの研究は充分な報酬となるだろうと約束した。@{K}$[Ll]orn[- ][Ff]luke -> ローエン・フルーク, [Ff]luke -> フルーク$He has no money, so the other captains have no interest. But he's a passionate youth, and promises that his studies on lorn-flukes will be rewarding enough.",
                     "ButtonText": "", "Id": 193158},
-                   {"DefaultEvent": {"Description": "彼女はあなたを抱擁した。「[q:Address As]、あなたにキスしたいところだけど、私の愛する人は少しばかり嫉妬深くてね。私たちは離れたのだけれど、ヴェンダーバイトの年老いた船長たちなら彼女がどこにいるのか知っているはず」@{K}She embraces you. \"I'd kiss you [q:Address As], but my beloved is prone to jealousy. We were parted, but the ancient captains at Vernderbight will know where she is.\"",
+                   {"DefaultEvent": {"Description": "彼女はあなたを抱擁した。「[q:呼称]、あなたにキスしたいところだけど、私の愛する人は少しばかり嫉妬深くてね。私たちは離れたのだけれど、ヴェンダーバイトの年老いた船長たちなら彼女がどこにいるのか知っているはず」@{K}She embraces you. \"I'd kiss you [q:Address As], but my beloved is prone to jealousy. We were parted, but the ancient captains at Vernderbight will know where she is.\"",
                                      "Name": "船にようこそ@{K}Welcomed aboard", "Id": 259001},
                     "Name": "落ち着かない引き揚げ人をヴェンダーバイトに運ぶ@{K}$Venderbight -> ヴェンダーバイト$Agree to carry the Unsettled Salvager to Venderbight",
                     "Description": "彼女は毎日潮に汚れた襤褸布に身を包みウルフスタックを訪れては、船に乗せるよう懇願している。彼女と目を合わせる船長は一人もいない。@{K}$Wolfstack -> ウルフスタック, Wolf -> ウルフ$She visits Wolfstack every day in zee-stained rags, begging for passage. No captain will look her in the eye.",
