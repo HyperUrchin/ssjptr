@@ -1,4 +1,4 @@
 {"Description": "ロジーナが魂遷で死ぬまであとどのぐらいだろう？@{K}$[Aa]nimescence -> 魂遷$How close is Rosina to death by animescence?",
- "AvailableAt": "ロジーナの健康状態はアンテでの出来事によって変わる。Rosina's health alters depending on events at Anthe.",
+ "AvailableAt": "ロジーナの健康状態はアンテでの出来事によって変わる。@{K}Rosina's health alters depending on events at Anthe.",
  "LevelDescriptionText": "0|極めて悪い~3|急速に熱されている~6|熱っぽい~9|少し温かい~10|安定し始めている~17|完治も近い~11|改善の兆候が見える~14|ほぼ冷えている@{K}0|Extremely ill~3|Heating quickly~6|Feverish~9|A bit warm~10|Almost stable~17|Nearly recovered~11|Showing signs of improvement~14|Almost cool",
  "Name": "アンテ: ロジーナの病状@{K}Anthe: Rosina's Health", "Id": 126435}

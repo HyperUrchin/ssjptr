@@ -1,0 +1,4 @@
+{"Description": "ニダーを守る壁は女帝の宮廷よりも高々と聳え、ドレッドノートよりも分厚く、玄武岩から作られている。どのようにして壁を打ち破ろうか？@{K}They are taller than the Empress' Palace, thicker than the length of a dreadnought, and built from black basalt. How are you to breach them?",
+ "ChangeDescriptionText": "1|ニダーの壁を破る術を見つけよう。~0|あなたはニダーの壁を破るための計画を実行に移した。@{K}1|Find a way to breach Nidah's walls.~0|You have begun a scheme to breach Nidah's walls.",
+ "Name": "大望: ニダーの壁@{K}$Ambition -> 大望$Ambition: the Walls of Nidah",
+ "Id": 128890}

@@ -1,0 +1,3 @@
+{"Description": "あなたはダユーを探索した。@{K}You have explored Dahut.",
+ "AvailableAt": "ダユーの港湾報告書を海軍省に提出しましょう。@{K}$Admiralty -> 海軍省, [Pp]ort [Rr]eport -> 港湾報告書$Provide a Port Report on Dahut to the Admiralty.",
+ "Name": "調査済み: ダユー@{K}Surveyed: Dahut", "Id": 126409}

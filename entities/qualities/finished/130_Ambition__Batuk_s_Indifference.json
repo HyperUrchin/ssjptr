@@ -1,0 +1,4 @@
+{"Description": "彼はニダーに立ち向かう七人に興味はないと主張している。[この値を0にして彼の気を変えましょう。]@{K}He claims he has no interest in the Seven Against Nidah. [Reduce this to 0 to change his mind.]",
+ "ChangeDescriptionText": "2|物語が終わると、バトゥックは一つだけ質問しあなたの答えに考え込むような様子を見せた。~1|バトゥックはあなたの話に聞き入った。~0|あなたの話が終わるとバトゥックは勢いよく立ち上がり、穴倉の中を行ったり来たりし始めた。~4|バトゥックは七人に再び加わる気はないという。~3|バトゥックは無関心を装っているが、彼が物語を聞いているのが分かる。@{K}2|When you finish your tale, Batuk asks a question. He contemplates your answer.~1|Batuk attends closely as you speak.~0|After your tale, Batuk springs to his feet and paces the cavity.~4|Batuk claims he will not rejoin the Seven.~3|Batuk feigns indifference, but you you can tell he's listening.",
+ "Name": "大望: バトゥックの無関心@{K}$Ambition -> 大望$Ambition: Batuk's Indifference",
+ "Id": 128924}
