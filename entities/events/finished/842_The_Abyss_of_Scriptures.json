@@ -18,7 +18,7 @@
                     "Name": "慰めの儀式を放棄する@{K}Forsake the Rite of Solace",
                     "Description": "そうすれば他の儀式を行うことが出来るだろう。[儀式による恩恵は一度につき一つしか受けられません。]@{K}So that you may partake in a different one. [You may only benefit from one Rite at a time.]",
                     "ButtonText": "", "Id": 192628},
-                   {"DefaultEvent": {"Description": "あなたは一定の速度で上へ、この大きく開いた口の外へと昇っていった。@{K}You drift steadily up and out of the maw.",
+                   {"DefaultEvent": {"Description": "あなたは一定の速度で上へ、この大きく口を開けた奈落の外へと昇っていった。@{K}You drift steadily up and out of the maw.",
                                      "Name": "遠くへ@{K}Away", "Id": 258175},
                     "Name": "立ち去る@{K}Depart",
                     "Description": "ここに来た目的は達せられた。@{K}You've seen what you came to see.",
