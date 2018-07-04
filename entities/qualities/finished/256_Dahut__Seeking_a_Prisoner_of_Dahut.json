@@ -1,0 +1,4 @@
+{"Description": "あなたはダユーに囚われたある人物を探してくるよう依頼された。@{K}You've been asked to find a certain person imprisoned in Dahut.",
+ "AvailableAt": "このストーリーはラックで始まり、ダユーで続きます。@{K}Wrack begins this story and Dahut continues it.",
+ "LevelDescriptionText": "1|ダユーで囚人を探し、彼女を解放するよう頼まれた~10|ダユーの囚人を解放した~20|ダユーの囚人をローズゲートに送り届けよう~30|ダユーの囚人は解放されたとラックの作曲家に報告しよう~2|ダユーで囚人について訊ねた~15|ダユーの囚人をラックの友人の元に送り届けよう~3|地下室にいる囚人の姿を見た@{K}1|Asked to seek and free a prisoner in Dahut~10|Freed a prisoner of Dahut~20|Delivered a prisoner of Dahut to Rosegate~30|Reported back to the Composer at Wrack that the Dahut Prisoner was set free~2|Begun asking about a prisoner in Dahut~15|Brought a Dahut Prisoner to visit her friend in Wrack~3|Saw a prisoner in the Crypt",
+ "Name": "ダユー: ダユーの囚人の捜索@{K}Dahut: Seeking a Prisoner of Dahut", "Id": 126629}
