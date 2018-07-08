@@ -41,7 +41,7 @@
                    {"DefaultEvent": {"Description": "「ようやく、我が放浪の旅が終わったのですね」彼女は満足げに息を吐く。そしてゆっくりと恭しく、硬貨の入った小袋と“失われた者”聖クロアトアンのイコンを差し出した。「すべて置いてきました。私は自由です」\u000d\u000a\u000d\u000a彼女は石の動脈をふらふらと奥へと歩いていった。すり減った靴底が死んだ海獣の脂肪を踏みつけ湿った音を立てる。歩みを妨げられることもなく彼女の足は靴より滑り出し、暗闇の中へと去っていった。@{K}\"At last, my pilgrimage is complete,\" She sighs with contentment. Slowly, reverently, she hands you a small bag of coins and an icon of Saint Croatoan the Lost. \"Everything is left behind. I'm free.\"\u000d\u000a\u000d\u000aShe wanders down a stone artery. A worn shoe squelches in the blubber of a dead beast. Without breaking stride, her foot slides free and she continues into the dark.",
                                      "LinkToEvent": {"Id": 240407},
                                      "Name": "これ以上失う物のない者@{K}A soul with nothing left to lose", "Id": 258824},
-                    "Name": "はぐれた放浪者を送り出す@{K}Deliver the Lost Pilgrim",
+                    "Name": "はぐれた巡礼者を送り出す@{K}Deliver the Lost Pilgrim",
                     "Description": "このような場所に望んで来たがるなんてどのような憐れな人生を送ってきたのだろう？けれど、少なくとも彼女は幸せそうだ。@{K}What poor soul would come here willingly? But she seems happy, at least.",
                     "ButtonText": "", "Id": 193037}],
  "Description": "中身をくりぬかれ革のようになった死骸がこの石の心臓の心室に沿って並んでいる。一歩進むたびに湿った音を立てる皮と骨の通り道のあちこちから、古い海獣の脂肪が泡を立てて溢れ出る。遠くで聞こえる水の滴り落ちる音が永遠の中に時を刻む。@{K}The leathery carcasses of hollowed-out beasts line the ventricles of this stone heart. Ancient blubber bubbles up around paths of bone and hide that squelch with every step. A distant drip carves eternity into hours.",
