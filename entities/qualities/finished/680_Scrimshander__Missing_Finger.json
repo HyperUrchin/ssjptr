@@ -1,0 +1,4 @@
+{"Description": "一本かあるいはそれ以上の数の指の骨が、スクリムシャンダーの象牙色の壁の中であなたの物語を伝えている。詰め物をした手袋をすれば外目には分からない。@{K}One or more of your finger-bones tells your tale in the ivory walls of Scrimshander. Nothing a stuffed glove can't conceal.",
+ "LevelDescriptionText": "1|あなたは一本の指をスクリムシャンダーに捧げた。~2|数本の指がスクリムシャンダーの街を飾っている。~4|あなたはスクリムシャンダーに片手分の指の骨を置いていった。@{K}1|You have sacrificed one of your fingers to Scrimshander.~2|Some of your fingers now decorate the city of Scrimshander.~4|You've given Scrimshander a handful of your fingers.",
+ "ChangeDescriptionText": "1|あなたはスクリムシャンダーの骨の山に一本の指を加えた~4|あなたはスクリムシャンダーに片手分の程の指の骨を加えた@{K}1|You've added a finger to the bones of Scrimshander~4|You've added a handful of fingers to the bones of Scrimshander",
+ "Name": "スクリムシャンダー: 欠けた指@{K}Scrimshander: Missing Finger", "Id": 128425}

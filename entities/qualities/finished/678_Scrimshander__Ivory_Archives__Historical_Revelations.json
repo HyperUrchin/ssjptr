@@ -1,0 +1,5 @@
+{"Description": "骨の記録庫で何か興味深い物を見つけたようだね？@{K}Found something interesting in the Ivory Archives, have you?",
+ "LevelDescriptionText": "1|あなたは記録庫の奥深くに誰が住んでいるのかを知った。~2|あなたはスクリムシャンダーの最初の骨と塔そのものの歴史を発見した。@{K}1|You've found who lives in the depths of the archives.~2|You've found Scrimshander's first skeleton, and the history of the tower itself.",
+ "ChangeDescriptionText": "1|あなたは骨の記録庫奥深くでの素敵な紅茶と会話をおぼえている~2|あなたはスクリムシャンダーの最も奥深くに隠された歴史を明らかにした@{K}1|You remember fine tea and conversation in the depths of the Ivory Archives~2|You've uncovered the deepest history of Scrimshander",
+ "Name": "スクリムシャンダー: 骨の記録庫: 歴史の暴露@{K}Scrimshander: Ivory Archives: Historical Revelations",
+ "Id": 128381}

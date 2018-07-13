@@ -35,7 +35,7 @@
                     "ButtonText": "", "Id": 193324},
                    {"DefaultEvent": {"Description": "「かつての私を覚えておくための物だ。ファザムキングに変えられる前、忘却の始まる前の姿をな」彼女は自らの複製を眺め、唇をかみしめた。「疑いなんてないといった顔じゃないか？自信に満ちている。これが真実だったのか、それとも自分で作り出したものなのかはもう分からなくなってしまった」@{K}$Fathomking -> ファザムキング$\"To remind me what I was,\" she says. \"Before the Fathomking changed me. Before I began to forget.\" She looks at the replica of herself, chewing her lip. \"I look certain, don't I? Confident. I wonder if that was true, or if I made it up.\"",
                                      "LinkToEvent": {"Id": 259230}, "Name": "", "Id": 259251},
-                    "Name": "立案者@{K}The Schemer",
+                    "Name": "策略家@{K}The Schemer",
                     "Description": "石工のエプロンではなく、王族のガウンに身を包んだマリアムの彫像だ。黒い骨の唇には、全て分かっているとでも言うような笑みが浮かんでいる。@{K}A statue of Mariam, clad not in a mason's apron but a royal gown. A knowing smile graces her black-bone lips. ",
                     "ButtonText": "", "Id": 193325},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 260410},
