@@ -22,7 +22,7 @@
                     "DefaultEvent": {"Description": "船乗りホジキスが正確にはどの部分を食べたのかは、ついに分からないままとなってしまった。彼女は何も言わず、ただナプキンを畳むと慎重に席を立ち、機関室へと下りてそのままメインボイラーの中に身を投げた。料理長もそのような味を覆い隠せるほどの量のコショウは持っていないだろう。船員たちは料理の残りを船から投げ捨て、続けてほんの少ししか残らなかったホジキスの遺灰も海に流した。@{K}You never determine exactly which bit it was that Zeeman Hodgkiss ate. She never said; she simply folded her napkin, rose carefully from the table, strode down to the engine room, and flung herself into the main boiler. You doubt the cook has enough pepper in stock to mask a taste like that. The crew pitch the rest over the side, followed by what little's left of Hodgkiss.",
                                      "Name": "残さずすべて@{K}No leftovers", "Id": 236785},
                     "Name": "物資のために解体する@{K}Fillet it for supplies",
-                    "Description": "「いいから目を閉じて鼻をつまむんだ！飲み込む必要もない――ほらな？胃袋へ下っていったろ。たぶん暗闇が好きなんだろうな」@{K}\"Just close your eyes and hold your nose! Look, you don't even need to swallow - see? Down it goes. I think it likes the dark.\"",
+                    "Description": "「いいから目を閉じて鼻をつまむんだ！飲み込む必要もない――ほらな？自分で胃袋へ下っていったろ。たぶん暗闇が好きなんだろうな」@{K}\"Just close your eyes and hold your nose! Look, you don't even need to swallow - see? Down it goes. I think it likes the dark.\"",
                     "ButtonText": "", "Id": 181628}],
- "Description": "死にかけのタラッテは野蛮な解剖学者の手で作られたぞっとするコラージュのような姿をしていた。慈悲深くも、大部分は既に動かなくなっている。@{K}In death, the Thalatte looks like the gristly collage of an untamed vivisectionist. Mercifully, most of it has stopped moving.",
+ "Description": "死にかけのタラッテは、野蛮な解剖学者の手で作られたぞっとするコラージュのような姿をしていた。有難いことに、大部分は既に動かなくなっている。@{K}In death, the Thalatte looks like the gristly collage of an untamed vivisectionist. Mercifully, most of it has stopped moving.",
  "Name": "タラッテを倒した@{K}You have defeated a Thalatte", "Id": 236756}

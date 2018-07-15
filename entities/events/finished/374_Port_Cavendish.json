@@ -76,7 +76,7 @@
                     "Name": "イザリーをニダーに立ち向かう七人に招き入れる@{K}$Isery -> イザリー$Invite Isery to join the seven Against Nidah",
                     "Description": "ロレンツォの不運な末路によって、新たな案内役が必要になった。@{K}Given Lorenzo's misfortune, you find yourselves in need of a new Guide.",
                     "ButtonText": "", "Id": 194262},
-                   {"DefaultEvent": {"Description": "報告の内容はどれも似たり寄ったりだ。イザリーという人物がこの上なく優れ、かつ放埓な快楽の巣窟であるハニード・タングを経営しているらしい。蜂蜜を味わいたいのなら、その人物の好意を勝ち得る必要があるだろう。@{K}$Honeyed Tongue -> ハニード・タング, Isery -> イザリー$The reports are all the same: Isery manages the Honeyed Tongue, a den of exceedingly select and debased pleasures. You'll have to win their favour if you're to taste the honey.",
+                   {"DefaultEvent": {"Description": "報告の内容はどれも似たり寄ったりだ。イザリーという人物が、この上なく優れかつ放埓な快楽の巣窟であるハニード・タングを経営しているらしい。蜂蜜を味わいたいのなら、その人物の好意を勝ち得る必要があるだろう。@{K}$Honeyed Tongue -> ハニード・タング, Isery -> イザリー$The reports are all the same: Isery manages the Honeyed Tongue, a den of exceedingly select and debased pleasures. You'll have to win their favour if you're to taste the honey.",
                                      "LinkToEvent": {"Id": 168435},
                                      "Name": "猫の一番の爪、イザリー@{K}$Isery -> イザリー$Isery, Cat's Chiefest Claw",
                                      "Id": 260634},

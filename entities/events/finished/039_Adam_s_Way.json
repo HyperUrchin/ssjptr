@@ -135,11 +135,11 @@
                     "Name": "語り部にどうすればクラデリー・ハートを取り戻せるか尋ねる@{I}$Cladery Heart -> クラデリー・ハート$Ask storytellers about how to retrieve the Cladery Heart",
                     "Description": "　現在の船の居場所についての消息はあるだろうか？@{I}Is there any word of where she might be now?",
                     "ButtonText": "", "Id": 187183},
-                   {"DefaultEvent": {"Description": "並ぶ者のない鱗翅学者は顔をあげることなく、あなたの助力に感謝すると述べた。「至上蛾の孵化に立ち会うことが出来た、あの経験は、私の経歴の最も輝く瞬間となることでしょう」彼は惨めな様子で言った。「ロレンツォもきっと感謝していると思いますよ」@{K}Without looking up, the Incomparable Aurelian tells you that your assistance has been appreciated. \"Being present for the Most-Moth's hatching will be the highlight of my career,\" he says, miserably. \"I'm sure Lorenzo would want to thank you, as well.\"",
+                   {"DefaultEvent": {"Description": "並ぶ者のない鱗翅学者は顔をあげることなく、あなたの助力に感謝すると述べた。「至上蛾の孵化に立ち会った経験は、私の経歴の最も輝く瞬間となることでしょう」彼は惨めな様子で言った。「ロレンツォもきっと感謝していると思いますよ」@{K}Without looking up, the Incomparable Aurelian tells you that your assistance has been appreciated. \"Being present for the Most-Moth's hatching will be the highlight of my career,\" he says, miserably. \"I'm sure Lorenzo would want to thank you, as well.\"",
                                      "LinkToEvent": {"Id": 244570}, "Name": "静かな別れ@{K}A quiet farewell",
                                      "Id": 247137},
                     "Name": "船を去る鱗翅学者に別れを告げる@{K}Bid farewell to the departing Aurelian",
-                    "Description": "学者は旅の間中、口数少なだった。船から降り、港に腰を下ろしている今でさえ、彼は物憂げに標本を引っ掻き回している。@{K}He's been quiet for the whole trip. Even now, disembarked and sitting on the dock, he listlessly searches through his collection.",
+                    "Description": "学者は旅の間中、口数少なだった。船から降り港に腰を下ろしている今でさえ、彼は物憂げに標本を引っ掻き回している。@{K}He's been quiet for the whole trip. Even now, disembarked and sitting on the dock, he listlessly searches through his collection.",
                     "ButtonText": "", "Id": 188545}],
  "Description": "　南には旧大陸、そして長命衆の豊かな七十二王国が控える。伝え聞く風説は本当だろうか？たとえば蜂蜜の川であるとか、象牙の城であるとか？<br/><br/>　誰に答えられよう。あなたのような異邦人は内地に踏み込むのを禁じられている。大抵の者が辿り着けるのはアダムの道まで。そこは、大声を上げ、享楽にふけり、盗みをはたらく港である。[時間の経過につれて選択肢が変化します。]@{I}$Elder Continent -> 旧大陸, Adam's Way -> アダムの道, Presbyter -> 長老, Presbyterate -> 長命衆$To the south: the Elder Continent, and the seventy-two cornucopian kingdoms of the Presbyterate. Are the stories true - rivers of honey; castles of ivory? \u000d\u000aWho can say? Foreigners (that's you) are forbidden from the interior. The closest most get is Adam's Way: a shouting, feasting, thieving riot of a port. [The options available may change as the day progresses.]",
  "Name": "アダムの道@{I}$Adam's Way -> アダムの道$Adam's Way", "Id": 143316}

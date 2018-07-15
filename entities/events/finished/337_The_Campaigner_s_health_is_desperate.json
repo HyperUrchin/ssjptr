@@ -17,6 +17,6 @@
                     "Name": "アダムの道で手に入れた治療法を施す@{M}$Adam's Way -> アダムの道$Administer the treatments from Adam's Way",
                     "Description": "書かれた手順は複雑怪奇だ。あなたは出来る限りで素早く治療を進めた。@{K}指示はひどく凝っている。出来るだけ早く作業を進めよう。@{M}The instructions are baroque. You work as quickly as you can.",
                     "ButtonText": "", "Id": 146683}],
- "Description": "彼女の顔の皮膚の下に燐光が走る。それは宛ら霧中の松明のようだ。船縁のレールに捕まって歩く様を見て、船乗りは後ずさりする。Stoneへの祈りを呟きながら。@{K/M}彼女の顔の皮膚の下に燐光が走る。それは宛ら霧中の松明のようだ。船縁のレールに捕まって歩く様を見て、船乗りは後ずさりする。ストーンへの祈りを呟きながら。@{M}A phosphorescence swims in the skin of her face, like torches in fog. She keeps one hand on the rail as she walks. Zailors draw back, muttering petitions to Stone.",
+ "Description": "彼女の顔の皮膚の下に燐光が走る。それは宛ら霧中の松明のようだ。船縁の手すりに捕まって歩く様を見て、船乗りは後ずさりする。Stoneへの祈りを呟きながら。@{K/M}彼女の顔の皮膚の下に燐光が走る。それは宛ら霧中の松明のようだ。船縁のレールに捕まって歩く様を見て、船乗りは後ずさりする。ストーンへの祈りを呟きながら。@{M}A phosphorescence swims in the skin of her face, like torches in fog. She keeps one hand on the rail as she walks. Zailors draw back, muttering petitions to Stone.",
  "Name": "従軍者の容態は絶望的だ@{K}従事者の健康状態が悪化している@{M}The Campaigner's health is desperate",
  "Id": 165301}
