@@ -3,7 +3,7 @@
                     "RareDefaultEvent": {"Description": "指示を下すと、安堵の笑いが起こった。頭蓋骨の眼に湛えられた光は遠ざかり、観測窓に反射する。その晩、あなたは黒い壁と巨大な石室の夢を見た。片手にはナイフ、もう片手には経帷子。そして心には飢えが満ちる。\u000d\u000a\u000d\u000a再び同じ夢を見ることはなかった。@{K}There is relieved laughter when you give the order. The light in the skull's eyes grow distant, reflected in the glass of your viewing port. That night you dream of a place of dark walls and vast stones. In your hands, a knife, a shroud. In your heart, hunger. \u000d\u000a\u000d\u000aThe dream does not come again. ",
                                          "Name": "", "Id": 243620},
                     "Name": "関わらない@{K}Don't interfere",
-                    "Description": "結局のところ、怪しげな光を眼窩に湛えた巨大な頭蓋骨なのだから、それが良いだろう。@{K}It is, after all, a vast skull with an eery light in its eyes. ",
+                    "Description": "結局のところ、怪しげな光を眼窩に湛えた巨大な頭蓋骨などには関わらないのが一番だ。@{K}It is, after all, a vast skull with an eery light in its eyes. ",
                     "ButtonText": "", "Id": 186096},
                    {"SuccessEvent": {"Description": "あなたはグローブをはめた手を骨に押し当て、ショーウィンドウを眺めるように眼窩を覗き込んだ。光の後ろには暗闇が見える。黒い岩の壁がせりあがってくる。千もの石の扉と、古の飢え。手の中には珊瑚のように黒いナイフが握られている。誰かが祭壇の上で身もだえ、フードを被った人影がそれを囲む。\u000d\u000a\u000d\u000aあなたは眼窩から身を引いた。光はいまだ視界に焼き付いている。@{K}You place your gloved hands to the bone, peering into the socket is if it were a shop window. Behind the light is darkness. Black stone walls rise. A thousand stone doors; an ancient hunger. In your hands, a knife coral-black. Someone writhes upon the altar. Hooded figures enfold. \u000d\u000a\u000d\u000aYou draw back from the socket. The light lingers. ",
                                      "Name": "あなたは潜水服を身に着けた……@{K}You don your diving gear...", "Id": 243618},

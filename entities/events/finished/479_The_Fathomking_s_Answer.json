@@ -50,7 +50,7 @@
                     "ButtonText": "", "Id": 144109},
                    {"DefaultEvent": {"Description": "料理長は興奮に口髭を震わせている。彼はあなたに別れのキスを投げるとぎこちなく王の側に駆け寄った。「陛下にお仕えすることができ光栄です！お聞きしたいことがたくさんあるのです！ペリジン干潟の風味はそれぞれに異なるのでしょうか？黙らせ塩は根源の水圧に耐えますか？音に聞くかの饗宴では本当にフルークの肉が供されるのですか？」\u000d\u000a\u000d\u000a王は幾度かシェフの興奮した言葉を遮ろうとしたが、結局失敗に終わると諦めて侍従に合図した。あなたには多くの関心を惹く噂と、この労苦は無駄にはならないという保証が報酬として渡された。@{K}$[Pp]eligin -> ペリジン, [Ff]luke -> フルーク, Fathomking -> ファザムキング$The Chef's moustaches quiver with excitement. He kisses his hand to you and bounds creakily to the Fathomking's side. \"I am at your Complexity's service! I have so many questions! The savours of the Peligin Wash: are they distinct? Can Mutersalt survive that fundamental pressure? Is the Feast truly Fluke-flesh?\"\u000d\u000a\u000d\u000aThe King attempts several times to interrupt the Chef's excited babbling. When he fails, he gestures to his chamberlain. You are rewarded with a Word which compels attention, and an assurance that your service has been recognised.",
                                      "LinkToEvent": {"Id": 176515},
-                                     "Name": "「見事！」@{K}\"Magnificent!\"", "Id": 176716},
+                                     "Name": "「すばらしい！」@{K}\"Magnificent!\"", "Id": 176716},
                     "Name": "包帯巻きの最高料理長を紹介する@{K}$Fathomking -> ファザムキング$Introduce the Fathomking to your Chef-Paramount",
                     "Description": "料理長は海の上の料理については知り尽くしている。もしかすると、海の下のいまだ知られぬ料理法を学ぶ時が来たのかもしれない。彼は別れるには惜しい存在だが、貴重な機会を奪ってはいけないだろう。@{K}The Chef has learnt everything there is to know of cuisine above the waves. Perhaps he's ready to learn of the culinary treasures below. You'd miss him, but you owe him the chance.",
                     "ButtonText": "", "Id": 144112},

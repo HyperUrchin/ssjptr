@@ -1,4 +1,4 @@
-{"ChildBranches": [{"SuccessEvent": {"Description": "あなたは潜水服を身に着け、輝く甲羅に近づいた。黄金の光が、日に照らされた海岸に打ち寄せる波のようにあなたを洗う。手が青白い炎の中に明るく光る。@{K}You don a diving suit and approach the shining shell. Gold light washes over you like the tide on a sunlit beach. Your hands are illuminated in pale fire. ",
+{"ChildBranches": [{"SuccessEvent": {"Description": "あなたは潜水服を身に着け、輝く甲羅に近づいた。黄金の光が、日に照らされた海岸に打ち寄せる波のようにあなたを洗う。あなたの手が青白い炎の中に明るく光る。@{K}You don a diving suit and approach the shining shell. Gold light washes over you like the tide on a sunlit beach. Your hands are illuminated in pale fire. ",
                                      "Name": "光輝@{K}Radiance ", "Id": 243633},
                     "DefaultEvent": {"Description": "あなたは潜水服を身に着け、輝く甲羅に近づいた。黄金の光があなたの瞳に流れ込む。幾つもの回転する炎の輪と、軋む鋼鉄の歯車の噛みあう絶え間ない音。光が消えると、周囲は弔事に纏うベルベットのように深い色の暗闇に包まれた。@{K}You don a diving suit and approach the shining shell. Gold light pours into your eyes. You see turning wheels of fire; you hear the endless tick of grinding gears. When the light fades, the darkness is deep as mourning velvet. ",
                                      "Name": "恐ろしき輝き@{K}Terrible luminescence ", "Id": 243632},

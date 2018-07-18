@@ -11,7 +11,7 @@
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 239344},
                                      "Name": "", "Id": 239365},
                     "Name": "虹化@{K}The Rainbowing",
-                    "Description": "祝祭に加わる者たちは、ハイドアウェイが遥かなる深みより手に入れることの出来た中で、最も上等な食材を用いた極彩色の饗宴に耽る。@{K}Revellers will indulge in a colourful feast, featuring the finest food Hideaway can manage to find in the abyssal depths.",
+                    "Description": "祝祭に加わる者たちは、ハイドアウェイが遥かなる深みより手に入れることの出来た中で最も上等な食材を用いた極彩色の饗宴に耽る。@{K}Revellers will indulge in a colourful feast, featuring the finest food Hideaway can manage to find in the abyssal depths.",
                     "ButtonText": "", "Id": 183351}],
- "Description": "夜の間、ハイドアウェイの住人たちは皆それぞれに独自の祭りを祝っているが、多くの者は三つの大きなイベントに向けてその身を捧げている。@{K}Though everyone in Hideaway has a night to celebrate a festival of their own making, most dedicate their efforts to one of three great events.",
+ "Description": "夜の間、ハイドアウェイの住人たちは皆それぞれに独自の祭りを祝っているが、多くの者は三つの大きなイベントの一つにその身を捧げている。@{K}Though everyone in Hideaway has a night to celebrate a festival of their own making, most dedicate their efforts to one of three great events.",
  "Name": "ハイドアウェイの祭り@{K}The Festivals of Hideaway", "Id": 239362}
