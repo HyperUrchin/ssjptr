@@ -19,5 +19,5 @@
                     "Name": "骨を回収する@{K}Gather up the bones ",
                     "Description": "あなたは彼らを埋葬するつもりなのかもしれない。あるいは他の使い道を思いついたのか。@{K}Perhaps you mean to bury them. Perhaps you have other uses in mind.",
                     "ButtonText": "", "Id": 186105}],
- "Description": "海底にすり減った骨が散乱していた。肋骨は大きく口を開き、胸骨は砕け散っている。頭蓋骨の欠片は真珠のように海底の砂を飾る。@{K}Bones lay scattered and gnawed on the zee-bed. Rib cages yawn open, breastbones shattered. Fragments of skull litter the sand like pearls. ",
+ "Description": "海底にすり減った骨が散乱していた。肋骨は大きく口を開き、胸骨は砕け散っている。頭蓋骨の欠片が真珠のように海底の砂を飾る。@{K}Bones lay scattered and gnawed on the zee-bed. Rib cages yawn open, breastbones shattered. Fragments of skull litter the sand like pearls. ",
  "Name": "散らばった骨@{K}Scattered Bones ", "Id": 243636}

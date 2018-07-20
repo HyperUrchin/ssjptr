@@ -12,7 +12,7 @@
                     "ButtonText": "", "Id": 188331},
                    {"SuccessEvent": {"Description": "燃やして燃料とする事も、あまり好ましくはない類の食料とする事も、煙草代わりに吸うことさえも出来る。もしあなたが蒸留酒製造所の火のような香りを放ちたいならの話だが。@{K}You can burn it for fuel, eat it for an unpleasant sort of sustenance, and even smoke it, if you're inclined to smell like a distillery fire.",
                                      "Name": "万能キノコ@{K}A versatile fungus", "Id": 246759},
-                    "DefaultEvent": {"Description": "蛾の大群が船員たちをもみくちゃにし、あなたの持つ松明の炎が掻き消されそうになっている。この場所は彼らに委ねるとしよう。@{K}Clouds of moths buffet your crew and threaten to choke your firelight. Leave this place to them.",
+                    "DefaultEvent": {"Description": "蛾の大群が船員たちをもみくちゃにし、あなたの持つ松明の炎も掻き消されそうになっている。この場所は彼らに委ねるとしよう。@{K}Clouds of moths buffet your crew and threaten to choke your firelight. Leave this place to them.",
                                      "Name": "灰と記憶のみ@{K}Nothing but ash and memories", "Id": 246758},
                     "Name": "燃料と食糧を探す@{K}Search for fuel and supplies",
                     "Description": "かつて灯台はこの場所に豊かに生い茂る洞窟茸を燃料として用いていた。船のエンジンにも使えるかもしれない……あの匂いに耐えられるなら。@{K}The rich cave fungus here used to fuel a lighthouse fire. Perhaps it can fuel your engine - if you can stand the smell.",

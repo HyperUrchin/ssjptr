@@ -3,7 +3,7 @@
                     "Name": "ロレンツォは敗北した@{K}Tell him Lorenzo lost",
                     "Description": "彼の身に起こった出来事よりも正当な死の方がましだろう。@{K}An honest death would have been better than what he endured.",
                     "ButtonText": "", "Id": 186716},
-                   {"DefaultEvent": {"Description": "生は常に幸福な物とは限らない。しかし、死よりはましだろう。ロレンツォは死を先延ばしにする術を見つけた。そして、それこそが彼がNeathに来たそもそもの目的なのだ。\u000d\u000a\u000d\u000a並ぶ者のない鱗翅学者はため息をついた。「今の彼には新しい生命があります。ひょっとすると、前の物よりも幸福な生がね」彼は静かな微笑みと共に蒐集本を閉じた。@{K}Life is unreliably pleasant, but it's better than the alternative. Lorenzo found a way to prolong it. It was, after all, why he came to the Neath. \u000d\u000a\u000d\u000aThe Incomparable Aurelian sighs. \"He has a new life now. Maybe a happier one.\" He closes his collection book with a quiet smile.",
+                   {"DefaultEvent": {"Description": "生は常に幸福な物とは限らない。しかし、死よりはましだろう。ロレンツォは死を先延ばしにする術を見つけた。そして、それこそが彼がNeathに来たそもそもの目的だ。\u000d\u000a\u000d\u000a並ぶ者のない鱗翅学者はため息をついた。「今の彼には新しい生命があります。ひょっとすると、前の物よりも幸福な生がね」彼は静かな微笑みと共に蒐集本を閉じた。@{K}Life is unreliably pleasant, but it's better than the alternative. Lorenzo found a way to prolong it. It was, after all, why he came to the Neath. \u000d\u000a\u000d\u000aThe Incomparable Aurelian sighs. \"He has a new life now. Maybe a happier one.\" He closes his collection book with a quiet smile.",
                                      "Name": "綺麗とは言えない方法ではあっても、死に対する勝利であることに変わりはない@{K}A triumph over death, albeit a messy one",
                                      "Id": 246545},
                     "Name": "ロレンツォは勝利した@{K}Tell him Lorenzo triumphed",

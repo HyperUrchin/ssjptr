@@ -1,7 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "船員たちは箱をひっくり返し袋を引き裂いた。そして板の後ろに棒を差し込んで探り、パイプを熱する。甲板長が最後に残された未開封の箱を指した。「あそこだ――キィッて鳴き声がしたぞ！奴らはその中だ！」箱はエアロックから船外に放り出された。思い知ったか。[酸素を見つけましょう。なるべく早く。]@{K}Your crew upend boxes and tear open bags. They prod behind panels and heat up pipework. Your bo'sun points to the last unopened crate. \"There - I'm sure I heard an eek! They're in there!\" The crate is ejected through the airlock. That'll show them. [Find oxygen. Quickly.]",
                                      "Name": "", "Id": 245284},
                     "Name": "密航者を追い出す@{K}Evict stowaways",
-                    "Description": "船倉にネズミが入り込んでいるかもしれない。小さな酸素盗人どもめ！奴らを深みに放り出そう。[食糧を一つ消費します。]@{K}Rats may have gotten into the hold. Tiny oxygen-stealing thieves! Into the deep with them. [This will cost you a crate of Supplies.]",
+                    "Description": "船倉にネズミが入り込んでいるかもしれない。小さな酸素盗人どもめ！奴らを深海に放り出そう。[食糧を一つ消費します。]@{K}Rats may have gotten into the hold. Tiny oxygen-stealing thieves! Into the deep with them. [This will cost you a crate of Supplies.]",
                     "ButtonText": "", "Id": 187189},
                    {"DefaultEvent": {"Description": "エアロックの閉まるカチッという音が潜水艦全体に木霊した。彼はつかの間水中でもがいたが、それもすぐに静まった。[酸素を見つけましょう。なるべく早く。]@{K}The clang of the airlock reverberates through the ship. His watery struggle is brief. [Find oxygen. Quickly.]",
                                      "Name": "", "Id": 245378},

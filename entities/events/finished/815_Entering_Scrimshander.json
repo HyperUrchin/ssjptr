@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "あなたの船についての細部まで記録が書かれたのち、守衛はあなたをスクリムシャンダーへと迎え入れた。象牙色の門があなたの前で開く。何十もの指の骨が音を立てながら道を開け、砦の乾いた中央部へとあなたを招いた。@{K}After scrupulously noting your ship's details, the guardian welcomes you to Scrimshander. The ivory gate parts before you. Dozens of finger-bones click apart and beckon you into the dry centre of the citadel.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "あなたの船の様子が細部まで記録に書き加えられたのち、守衛はあなたをスクリムシャンダーへと迎え入れた。象牙色の門があなたの前で開く。何十もの指の骨が音を立てながら道を開け、砦の乾いた中央部へとあなたを招いた。@{K}After scrupulously noting your ship's details, the guardian welcomes you to Scrimshander. The ivory gate parts before you. Dozens of finger-bones click apart and beckon you into the dry centre of the citadel.",
                                      "LinkToEvent": {"Id": 254670},
                                      "Name": "象牙色の門を抜け@{K}Through the ivory gates", "Id": 254669},
                     "Name": "対価を受け入れ、港に船を入れる@{K}Accept the price and dock",

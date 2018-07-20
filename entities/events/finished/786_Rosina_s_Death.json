@@ -1,8 +1,8 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "見物人たちは何が起ころうとしているのか理解していた。彼らは彼女の周囲に固まり、互いに囁きあっている。手を握りあっている者もいた。\u000d\u000a\u000d\u000aそして――火がついた。突如燃えあがった炎は熱く、ロジーナの浴槽に入っていた氷水が一瞬で気化するほどだ。篝火と煙、そして焼けつくような香りが部屋を満たす。天井は煙で黒く汚れた。\u000d\u000a\u000d\u000a後には、湿った灰と脾臓だったローズ・クォーツのプリズムだけが浴槽の中に残された。@{K}The onlookers know what is about to happen. They draw closer around her, murmuring. Two of them hold hands.\u000d\u000a\u000d\u000aThen — combustion. The flames catch, so hot and sudden that they vaporize Rosina's ice-water bath in an instant. The bonfire, the smoke, the searing aroma fill the chamber. The ceiling goes black with smoke. \u000d\u000a\u000d\u000aAfterwards, the bath contains wet ash and a prism of rose-quartz spleen. ",
                                      "LinkToEvent": {"Id": 238438},
-                                     "Name": "目撃するほかない@{K}There's only just time to witness it", "Id": 245053},
+                                     "Name": "それ以外のことをする時間はない@{K}There's only just time to witness it", "Id": 245053},
                     "Name": "見守る@{K}Watch",
                     "Description": "例え望まなかったとしても、次に起こる出来事を目撃せずにすむよう部屋を出るだけの時間はなかった。@{K}Even if you wanted to, you would not be able to leave the chamber quickly enough to avoid seeing what comes next.",
                     "ButtonText": "", "Id": 187058}],
- "Description": "魂遷が限界まで進行してしまった。もう彼女にこれ以上抵抗する力はない。@{K}$[Aa]nimescence -> 魂遷$Her animescence is at its peak. She can no longer resist.",
+ "Description": "魂遷が限界まで進行してしまった。もう彼女にこれ以上抵抗する力は残っていない。@{K}$[Aa]nimescence -> 魂遷$Her animescence is at its peak. She can no longer resist.",
  "Name": "ロジーナの死@{K}Rosina's Death", "Id": 245052}

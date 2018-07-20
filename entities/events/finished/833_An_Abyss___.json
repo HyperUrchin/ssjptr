@@ -17,7 +17,7 @@
                    {"DefaultEvent": {"Description": "深淵の入り口は再び暗闇の中へ消えた。@{K}The mouth of the abyss slips back into the gloom.",
                                      "Name": "離れた@{K}Away", "Id": 258155},
                     "Name": "航海を続ける@{K}Zail on",
-                    "Description": "深みの秘密は秘密のままにしておこう。@{K}Let the depths keep their secrets.",
+                    "Description": "深みの秘密は秘密のままにしておくとしよう。@{K}Let the depths keep their secrets.",
                     "ButtonText": "", "Id": 192611}],
  "Description": "底知れない深みへと続く裂け目が、あなたの潜水艦の下で口を開けている。@{K}A chasm gapes below your zubmarine, descending into unknown fathoms.",
  "Name": "深淵だ……@{K}An Abyss...", "Id": 255585}
