@@ -1,4 +1,4 @@
 {"Description": "記憶があなたを訪れる。@{K}Memories are coming to you.",
  "LevelDescriptionText": "2|あなたはいまだにあなたのままなのだろうか？~1|恐れることはない。すべてが上手くいくだろう~3|あなたの眼が見開かれた@{K}1|Do not fear. All shall be well~2|Are you quite yourself?~3|Your eyes are wider",
  "ChangeDescriptionText": "2|あなたはいまだあなたなのだろうか？~1|恐れることはない。すべてが上手くいくだろう。~3|あなたの眼が見開かれた。@{K}2|Are you quite yourself?~1|Do not fear. All shall be well.~3|Your eyes are wider.",
- "Name": "ラック: 回想@{K}Wrack: Remembering", "Id": 127278}
+ "Name": "ラック: 想起@{K}Wrack: Remembering", "Id": 127278}

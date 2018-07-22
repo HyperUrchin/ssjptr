@@ -1,4 +1,4 @@
-{"Description": "船の解体者たちは沈めた船に乗っていたものに頼って暮らしている。彼らの生活の状況はどうだろう？@{K}The wreckers rely on the ships they sink to survive. How are they faring?",
+{"Description": "船の解体者たちは沈めた船に載っていたものに頼って暮らしている。彼らの生活の状況はどうだろう？@{K}The wreckers rely on the ships they sink to survive. How are they faring?",
  "LevelDescriptionText": "17|歓喜の街~10|苦闘する街~13|生き延びる街~1|困窮の街@{K}17|A City of Pleasures\u0009~10|A City that Struggles~13|A City that Survives~1|A City of Want",
  "ChangeDescriptionText": "1|街には助けが必要だ。~17|街は大いに栄えている！@{K}1|The city is in want.~17|The city is thriving!",
  "Name": "ラック: 街の状況@{K}Wrack: The State of the City", "Id": 127271}
