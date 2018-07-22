@@ -1,4 +1,4 @@
 {"Description": "あなたは鋭利さを用いて一つのスキルを強化したのだろうか？@{K}Have you used your sharpness to enhance a particular skill?",
- "AvailableAt": "アンテで長く労苦する事でのみ,アンテの利点を得ることが出来ます。@{K}Only long work at Anthe will gain you an Anthean advantage.",
+ "AvailableAt": "アンテで長く労苦する事でのみ、アンテの利点を得ることが出来ます。@{K}Only long work at Anthe will gain you an Anthean advantage.",
  "LevelDescriptionText": "1|ミラー~2|ページ~3|ハート~4|アイアン@{K}$Iron -> アイアン, Hearts -> ハート, Pages -> ページ, Mirrors -> ミラー$1|Mirrors~2|Pages~3|Hearts~4|Iron",
  "Name": "アンテ: アンテの利点@{K}Anthe: Anthean Advantage", "Id": 128407}
