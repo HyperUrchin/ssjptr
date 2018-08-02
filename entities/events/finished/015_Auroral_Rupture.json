@@ -20,7 +20,7 @@
                     "DefaultEvent": {"Description": "南西の光は地上の朝のように白金色をしている。あなたの顔に温もりが触れた。瞳には涙が浮かび、皮膚は微かにむず痒いような痛みを感じる。なにかがひどくおかしい。\u000d\u000a\u000d\u000a光は唐突に消え去った。男も女も叫び声をあげ、罵る言葉を吐いた。誰かが啜り泣いている。@{K}The radiance to the south-west is white-gold like a Surface morning. There is warmth on your face. Your eyes water. Your skin stings and tingles. Something is very wrong here.\u000d\u000a\u000d\u000aThe light fades, suddenly. Men and women cry out, curse. One weeps.",
                                      "Name": "盗まれた夜明け@{K}A stolen dawn", "Id": 138513},
                     "Name": "光を見つめる@{K}Look into the light",
-                    "Description": "好奇心はどんな鮫の群れよりも恐ろしい@{K}Curiosity is deadlier than any number of sharks.",
+                    "Description": "好奇心はどんな鮫の群れよりも恐ろしい。@{K}Curiosity is deadlier than any number of sharks.",
                     "ButtonText": "", "Id": 120981}],
- "Description": "遥か彼方南西の方角で光が輝いた。その光は初め遠くに見えるかがり火のようだったが、見る間にその明るさを増していく。まるで夜が明けたかのような光景だ。幾人かの船員が膝から崩れ落ち、ある者は光を遮るものの後ろに隠れ、またある者は自らの眼を覆った。一人が叫ぶ。「ドーン・マシーンが目覚めた！」@{K}$Dawn Machine -> ドーン・マシン$A light grows in the far south-west. It begins like a distant bonfire, but very rapidly, it becomes brighter, brighter. It looks remarkably like sunrise. Some of your crew fall to their knees: others duck behind cover or shield their eyes. One cries, \"Dawn Machine waking!\"",
+ "Description": "遥か彼方南西の方角で光が輝いた。その光は初め遠くに見えるかがり火のようだったが、見る間にその明るさを増していく。まるで夜が明けたかのような光景だ。幾人かの船員が膝から崩れ落ち、ある者は光を遮る物の後ろに隠れ、またある者は自らの眼を覆った。一人が叫ぶ。「ドーン・マシンが目覚めた！」@{K}$Dawn Machine -> ドーン・マシン$A light grows in the far south-west. It begins like a distant bonfire, but very rapidly, it becomes brighter, brighter. It looks remarkably like sunrise. Some of your crew fall to their knees: others duck behind cover or shield their eyes. One cries, \"Dawn Machine waking!\"",
  "Name": "曙光が溢れ出す@{K}Auroral Rupture", "Id": 138512}
