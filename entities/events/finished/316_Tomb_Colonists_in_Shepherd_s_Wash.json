@@ -4,7 +4,7 @@
                     "Description": "いや、彼らはピクニック道具を持ってきてはいない。それはあなたの仕事だ、そうだろう？あなたが責任者じゃなかったのか？彼らは確かにそう考えているようだ。@{K}No, they haven't brought their own picnic materials. That's your job, isn't it? Aren't you in charge? They certainly seem to think so.",
                     "ButtonText": "", "Id": 131688},
                    {"DefaultEvent": {"Description": "「今は四つの墓だよ、船長。四つの墓。さあ行こう」@{K}\"Four graves now, Captain. Four graves. Let's go.\"",
-                                     "Name": "厳粛な沈黙@{K}Sombre silence", "Id": 175334},
+                                     "Name": "重い沈黙@{K}Sombre silence", "Id": 175334},
                     "RareDefaultEvent": {"Description": "「ドラウニーを見たんだよ、船長！運がよかった！……少なくとも、ヴェンダーバイトでは幸運の証だっていうのさ。別の類の死者たちもいるだろう？別の類の死者が、ね。素敵な旅だったよ。次はどこに行くのかな？」@{K}$Venderbight -> ヴェンダーバイト$\"We saw a Drownie, Captain! That's good luck! ...well, in Venderbight we say it's good luck. There's different kinds of dead, eh? Different kinds of dead. What a lovely trip. Where are we going now?\"",
                                          "Name": "興奮したおしゃべり@{K}Chattering excitedly", "Id": 175335},
                     "Name": "三つの墓を訪れる@{K}A visit to the Three Graves",

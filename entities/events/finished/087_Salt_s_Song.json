@@ -4,7 +4,7 @@
                     "ButtonText": "", "Id": 124664},
                    {"DefaultEvent": {"Id": 144256},
                     "Name": "「対価は財宝なのかも知れない」@{M/K}\"対価は財宝なのかも知れない。\"@{M}\"The price might be a treasure.\"",
-                    "Description": "もしセブン・サーペントに財宝を渡したならば、口を大きく開け、煙を吐き出すようにSaltの歌を歌い出すのだろう。@{M/K}もし\"ナナマタオロチ\"に財宝を渡したとしたら、口を大きく開け、煙を吐き出すようにソルトの歌を歌い出すのだろう。@{M}$Salt's Song -> Saltの歌, Seven-Serpent -> セブン・サーペント$If you offered the Seven-Serpent a treasure, perhaps it would open its mouths and hiss Salt's Song like steam.",
+                    "Description": "もしセブン・サーペントに財宝を渡したならば、口を大きく開け、蒸気を吐き出すようにSaltの歌を歌い出すのだろう。@{M/K}もし\"ナナマタオロチ\"に財宝を渡したとしたら、口を大きく開け、煙を吐き出すようにソルトの歌を歌い出すのだろう。@{M}$Salt's Song -> Saltの歌, Seven-Serpent -> セブン・サーペント$If you offered the Seven-Serpent a treasure, perhaps it would open its mouths and hiss Salt's Song like steam.",
                     "ButtonText": "", "Id": 124665},
                    {"DefaultEvent": {"Id": 144257},
                     "Name": "「対価は神の欠片なのかもしれない」@{M/K}\"対価は神の欠片なのかもしれない。\"@{M}\"The price might be a piece of a god.\"",

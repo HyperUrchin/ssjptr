@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "あなたは彼女の後ろを礼儀にかなうだけの間隔をとってついていった。しかし同時に離れすぎもせず、報酬を受け取らずにここを立ち去るつもりはないと仄めかす。@{K}You follow the procession at a polite distance, but not so polite as to suggest that you'd be willing to go away.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "あなたは行列の後ろを礼儀にかなうだけの間隔をとってついていった。しかし同時に離れすぎもせず、報酬を受け取らずにここを立ち去るつもりはないと仄めかす。@{K}You follow the procession at a polite distance, but not so polite as to suggest that you'd be willing to go away.",
                                      "LinkToEvent": {"Id": 148080},
                                      "Name": "報酬回収の作法@{K}The etiquette of bill-collecting",
                                      "Id": 148063},

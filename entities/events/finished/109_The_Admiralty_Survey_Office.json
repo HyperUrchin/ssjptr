@@ -370,7 +370,7 @@
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 144833},
                                      "Name": "報告書提出！@{I}Report submitted!", "Id": 244420},
                     "Name": "ロウ・バーネット@{K}$Low Barnet -> ロウ・バーネット$Low Barnet",
-                    "Description": "「ああ、あの場所か。物語を崇める会衆だろう？彼らは何を君に語ったのかな？」@{K}\"Ah, yes. The congregation that worships stories. What did they tell you?\"",
+                    "Description": "「ああ、あの場所か。物語を崇める会衆だろう？彼らは君に何を語ったのかな？」@{K}\"Ah, yes. The congregation that worships stories. What did they tell you?\"",
                     "ButtonText": "", "Id": 186599},
                    {"DefaultEvent": {"Description": "", "LinkToEvent": {"Id": 144833},
                                      "Name": "報告書提出！@{I}Report submitted!", "Id": 245044},

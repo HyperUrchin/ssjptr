@@ -6,7 +6,7 @@
                     "Description": "滑らかな暗い色の表面。@{K}A smooth dark surface.",
                     "ButtonText": "", "Id": 126372},
                    {"DefaultEvent": {"Description": "……しかし瓶の中には紙が入っていた。日記の一ページだ！筆者はある堕落した午後を心躍るような細部まで書き記していた。誰がこれを海に投げ入れたのだろう？無様に失敗した脅迫かあるいは冷え切ってしまった恋愛のなれの果てだろうか？@{K}...but there's a message in the bottle. A page from a journal! The writer has described a debauched afternoon in thrilling detail. Who threw this in the zee? Was it some botched attempt at blackmail, or a love affair gone sour?",
-                                     "Name": "ただの瓶@{K}Just bottle-glass", "Id": 146922},
+                                     "Name": "ただの瓶だ@{K}Just bottle-glass", "Id": 146922},
                     "RareDefaultEvent": {"Description": "溺れる真珠についてはいくつもの噂を聞いている！それは牡蠣の殻の中には決して見つからないだとか、舌の裏に入れれば自分の死ぬ日付を予言できるとか、しかし決して舌の裏に入れてはならない、なぜならそれはかつては海に消えた船員たちの瞳だったのだから、などなど。物語は置いておくとしても、良い値が付くことだろう。@{K}$[Dd]rowning[- ][Pp]earl -> 溺れる真珠$The stories there are about drowning-pearls! They've never seen the inside of an oyster. Place one under your tongue, and you can name the date of your own death. Don't place one under your tongue, because they're the transformed eyes of zailors lost at zee. Stories aside, they'll fetch a good price.",
                                          "Name": "絡まった海藻と真珠@{K}A tangle of seaweed and pearls",
                                          "Id": 146924},
