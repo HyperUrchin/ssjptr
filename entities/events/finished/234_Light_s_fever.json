@@ -9,10 +9,10 @@
                     "Name": "……下方の光@{K}下からの光@{M}...a light beneath",
                     "Description": "水の中にある何かが煌めいている。@{M}Something in the water gleams.",
                     "ButtonText": "", "Id": 129717},
-                   {"DefaultEvent": {"Description": "「そしてとうとう、」あなたはこれを遥か昔に読んだ。「一つの魂が空へと帰る。審判によって取り込まれ、堪能され、彼らの本質へと加えられるために。私はこれを上昇とは呼ばない。これは吸収だ。しかし私はそれが私たち皆に起こるのではないかと恐れている」@{K}「ついに、」はるか昔に読んだ物、「魂は空に還り、審判を受け、吸収され、自然に戻る。私はこれを昇華とは呼ばない。私はこれを消化と呼ぶ。だが、私が恐れるのは、これが私達全員に起こるという事なのだ。」@{M}\"Finally,\" you read long ago, \"a soul returns to the sky, for the Judgements to absorb and savour and add to their nature. I do not regard this as ascension. I regard it as digestion. But I fear it comes to us all.\"",
+                   {"DefaultEvent": {"Description": "「そしてとうとう、」あなたはこれを遥か昔に読んだ。「一つの魂が天へと帰る。審判によって取り込まれ、堪能され、彼らの本質へと加えられるために。私はこれを上昇とは呼ばない。これは吸収だ。しかし私はそれが私たち皆に起こるのではないかと恐れている」@{K}「ついに、」はるか昔に読んだ物、「魂は空に還り、審判を受け、吸収され、自然に戻る。私はこれを昇華とは呼ばない。私はこれを消化と呼ぶ。だが、私が恐れるのは、これが私達全員に起こるという事なのだ。」@{M}\"Finally,\" you read long ago, \"a soul returns to the sky, for the Judgements to absorb and savour and add to their nature. I do not regard this as ascension. I regard it as digestion. But I fear it comes to us all.\"",
                                      "Name": "恋い焦がれ、燃え上がる@{K}憧れ、焦がれ@{M}Yearning, burning", "Id": 152183},
                     "Name": "……太陽@{K}...太陽@{M}...the Sun",
                     "Description": "Stoneが覆いとなりその光からあなたを守っている。しかしそれも永遠には続かない。@{K}石が貴方を光線から守っているが、それも長くは続かない。@{M}Stone shields you from its rays, but not forever.",
                     "ButtonText": "", "Id": 129718}],
  "Description": "光からくる錯乱があなたの中でますます強くなっている。この夢は幾度も幾度も繰り返す。偉大なる光、そして終焉、ある種の極致。あなたは何に焦がれているのだろう？@{K}貴方の中で、光に対する執着はより強くなっている。この夢は何時までも繰り返す。偉大な光は、終には成就となるだろう。貴方は一体何を切望しているのだ?@{M}The delirium of sunlight grows stronger in you. This dream recurs again and again. A great light, and an ending, a kind of consummation. What do you yearn for?",
- "Name": "光の熱@{M}Light's fever", "Id": 152176}
+ "Name": "光に浮かされ@{K}光の熱@{M}Light's fever", "Id": 152176}

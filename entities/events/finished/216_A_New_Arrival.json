@@ -3,7 +3,7 @@
                     "Name": "「父さん」@{K}\"パパ\"@{M}\"Father\"",
                     "Description": "その通り。あなたはこの子供の父親だ。@{K}ああ、貴方がこの子の父親なのだ。@{M}Yes: you are the child's father.",
                     "ButtonText": "", "Id": 128924},
-                   {"DefaultEvent": {"Description": "ぁこれが、小さく、温かく、心配をかける、愛情深い生き物だ。優しく扱うが良い。[“自由な夜”を持っていれば、貴方は宿場で貴方の子供に会うことが出来ます。ロンドンに戻ってくる度に“自由な夜”を得る事が出来ますが、とりあえず今回はここで一つ差し上げましょう。]@{K/M}さぁこれが、小さく、温かく、心配をかける、愛情深い生き物だ。優しく扱うが良い。[\"自由な夜\"を持っていれば、貴方は宿場で貴方の子供に会うことが出来ます。今回の様に、ロンドンに戻ってくる度に\"自由な夜\"を得る事が出来ます。]@{M}Here it is, small warm apprehensive affectionate creature. Treat it gently. [You may visit your child at your Lodgings, when you gain a Free Evening. You always get Free Evenings when you return to London, but here's one now.]",
+                   {"DefaultEvent": {"Description": "さぁこれが、小さく、温かく、心配をかける、愛情深い生き物だ。優しく扱うが良い。[“自由な夜”を持っていれば、貴方は宿場で貴方の子供に会うことが出来ます。ロンドンに戻ってくる度に“自由な夜”を得る事が出来ますが、とりあえず今回はここで一つ差し上げましょう。]@{K/M}さぁこれが、小さく、温かく、心配をかける、愛情深い生き物だ。優しく扱うが良い。[\"自由な夜\"を持っていれば、貴方は宿場で貴方の子供に会うことが出来ます。今回の様に、ロンドンに戻ってくる度に\"自由な夜\"を得る事が出来ます。]@{M}Here it is, small warm apprehensive affectionate creature. Treat it gently. [You may visit your child at your Lodgings, when you gain a Free Evening. You always get Free Evenings when you return to London, but here's one now.]",
                                      "Name": "", "Id": 150973},
                     "Name": "「母さん」@{K}\"ママ\"@{M}\"Mother\"",
                     "Description": "その通り。あなたはこの子供の母親だ。@{K}ああ、貴方がこの子の母親なのだ。@{M}Yes: you are the child's mother.",

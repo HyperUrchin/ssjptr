@@ -3,7 +3,7 @@
                     "RareDefaultEvent": {"Description": "墓人たちは意地汚い笠貝亭での喧嘩について興奮して喋りながら戻って来た。一人は耳を比べている。その耳が誰の物だったのか、すぐには分からない。急いで旅行者たちを船に乗せるのが良いだろう。@{K}The colonists return, chattering excitedly of a brawl at the Arrant Limpet. One of them is comparing ears. It's not immediately clear who the ears belonged to. Best get your tourists on board sharpish.",
                                          "Name": "彼らは大丈夫だった@{K}They were fine", "Id": 175333},
                     "Name": "彼らだけで行かせる@{K}Let them out on their own",
-                    "Description": "墓人たちは一般に死んでいるが、同時に死ぬほど危険な存在でもある。彼らには何十年にもわたって決闘を繰り返してきた経験がある。恐らく大丈夫だろう。@{K}Tomb-colonists are generally both dead and deadly. They have decades of duelling experience. They'll probably be fine.",
+                    "Description": "大方の墓人たちは死んでいるが、同時に死ぬほど危険な存在でもある。彼らには何十年にもわたって決闘を繰り返してきた経験がある。恐らく大丈夫だろう。@{K}Tomb-colonists are generally both dead and deadly. They have decades of duelling experience. They'll probably be fine.",
                     "ButtonText": "", "Id": 143190},
                    {"SuccessEvent": {"Description": "「船長」船員があなたに懇願する。「俺を二度とあいつらと一緒に送り出さないでください！あいつらは上等な衣装を身に着けた鮫みたいなもんです。図体のでかいランサムがカードでいかさましたら、あの小さいのは奴をオーブンにぶち込もうとしやがった！それからランサムに自分のカードを無理やり食べさせたんです。胡椒を振って。ええ、確かに全員戻って来たのを数えて確認しました。俺は横になってきます」@{K}\"Captain,\" your zailor implores you, \"don't send me out with them again! They're like sharks in fancy dress. Big Ransome cheated 'em at cards, and the little one tried to put him in the <i>oven</i>. Made him eat his cards. With pepper. Yes, I counted them all back. Now I'm going to lie down.\"",
                                      "Name": "見開かれた眼@{K}Wide eyes", "Id": 175332},

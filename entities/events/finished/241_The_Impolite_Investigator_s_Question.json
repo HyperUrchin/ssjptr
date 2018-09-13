@@ -3,7 +3,7 @@
                     "Name": "何も答えない@{K}Refuse to reply",
                     "Description": "答える価値もない。@{K}These are not questions that deserve an answer. ",
                     "ButtonText": "", "Id": 182152},
-                   {"DefaultEvent": {"Description": "調査員はさらに大きくにっこりと笑った。「それで私の知りたいことは完璧に理解できました。どこで追加の質問をすればいいのかは分かっています。詳しく聞かせてもらいましょう。あの方の丸みとどれほどの温もりを感じて……」\u000d\u000a\u000d\u000aあなたには他に行かねばならない場所がある。あなたは彼の言葉の終わりを聞かなかった。@{K}The Investigator's smile broadens. \"That tells me everything I need. I know where to make follow up enquiries. But before I go, I'd like some specifics. I require details about the shape of their curves, and an idea of how warm they feel when...\"\u000d\u000a\u000d\u000aYou're needed elsewhere. You don't hear the end of his sentence. ",
+                   {"DefaultEvent": {"Description": "調査員はさらに大きくにっこりと笑った。「それで私の知りたいことは完璧に理解できました。どこで追加の質問をすればいいのかは分かっています。しかし、その前に幾つか詳細をお聞きしてもいいでしょうか。あなたはあの方の丸みとどれほどの温もりを感じて……」\u000d\u000a\u000d\u000aあなたには他に行かねばならない場所がある。あなたは彼の言葉の終わりを聞かなかった。@{K}The Investigator's smile broadens. \"That tells me everything I need. I know where to make follow up enquiries. But before I go, I'd like some specifics. I require details about the shape of their curves, and an idea of how warm they feel when...\"\u000d\u000a\u000d\u000aYou're needed elsewhere. You don't hear the end of his sentence. ",
                                      "Name": "さらなる質問@{K}Raising questions", "Id": 237561},
                     "Name": "密かな笑みを返す@{K}Respond with a secretive smile ",
                     "Description": "自分で勝手に答えを出せばいい。@{K}Let him draw his own conclusions. ",

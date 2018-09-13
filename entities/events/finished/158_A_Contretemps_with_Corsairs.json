@@ -13,7 +13,7 @@
                     "Name": "戦う！@{K}Fight!",
                     "Description": "あなたの得意とする事だ。@{K}You're good at that.",
                     "ButtonText": "", "Id": 127650},
-                   {"SuccessEvent": {"Description": "あなたは吊るされた洗濯物に飛び込み、不安定な木の階段を音を立てて駆け下りる。そして魚市場を横切り、一列に並ぶ顔の無い彫像の間を潜り抜けた。追手はあなたとの距離を縮めつつあるが、彫像に近づくと……引き返していった。不可解だ。しかし彼らは行ってしまった。@{K}You plunge through a washing-line, clatter down an flight of unsteady wooden stairs, cut across the fish-market, and duck through a colonnade of faceless statues. Your pursuers are gaining on you until the statues... and then they drop back. Disconcerting. But they're gone.",
+                   {"SuccessEvent": {"Description": "あなたは吊るされた洗濯物の列に飛び込み、不安定な木の階段を音を立てて駆け下りる。そして魚市場を横切り、一列に並ぶ顔の無い彫像の間を潜り抜けた。追手はあなたとの距離を縮めつつあるが、彫像に近づくと……引き返していった。不可解だ。しかし彼らは行ってしまった。@{K}You plunge through a washing-line, clatter down an flight of unsteady wooden stairs, cut across the fish-market, and duck through a colonnade of faceless statues. Your pursuers are gaining on you until the statues... and then they drop back. Disconcerting. But they're gone.",
                                      "Name": "闇の中へ@{K}Away into the darkness", "Id": 149342},
                     "DefaultEvent": {"Description": "ゲイダーの嘆きの小屋の間を駆けぬける息のあがるような追跡の後、あなたはついに追っ手をまくことに成功した。あなたは人数を数えた。一人足りない。@{K}$Gaider's Mourn -> ゲイダーの嘆き$One pulse-pounding chase through the shanties of Gaider's Mourn later, you finally evade pursuit. You count heads. One short.",
                                      "Name": "傷一つなくとはいかなかった@{K}Not unscathed", "Id": 148823},

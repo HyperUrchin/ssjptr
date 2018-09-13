@@ -1,5 +1,5 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "船員達はがっかりしたが、ダイヤモンドはダイヤモンドなのだ。@{M}Your crew are disappointed, but diamonds are diamonds.",
-                                     "Name": "それを隠せ@{M}Tuck it away", "Id": 150644},
+                                     "Name": "どこかに仕舞いこんでおこう@{K}それを隠せ@{M}Tuck it away", "Id": 150644},
                     "Name": "取っておく@{K}まぁ、待て -@{M}Hang on to it",
                     "Description": "船員の迷信に出てくる名も無き神の御心とやらを満たす為にダイヤモンドを海に投げ入れるのが得策とは思えない。@{M}You're not going to throw a diamond in the zee to appease some nameless god of zailor's superstitions.",
                     "ButtonText": "", "Id": 128728},
