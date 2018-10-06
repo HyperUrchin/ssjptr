@@ -3,12 +3,12 @@
                     "Name": "港湾報告書を纏める@{K}$[Pp]ort [Rr]eport -> 港湾報告書$Assemble a Port Report",
                     "Description": "街を探索し、そこに住まう者たちの習慣を記録しよう。@{K}Explore the city. Record the habits of those that dwell within.",
                     "ButtonText": "", "Id": 182156},
-                   {"DefaultEvent": {"Description": "ブレミガンは鉄格子の隙間へと走り寄り、暗闇に飛び込んだ。近くにたっていた労働者はため息をついて歩き去った。@{K}$[Bb]lemmigan -> ブレミガン$The blemmigan rushes towards an open grate and leaps into the darkness. A worker standing nearby sighs and walks away.",
+                   {"DefaultEvent": {"Description": "ブレミガンは鉄格子の隙間へと走り寄り、暗闇に飛び込んだ。近くに立っていた労働者はため息をつくと歩き去った。@{K}$[Bb]lemmigan -> ブレミガン$The blemmigan rushes towards an open grate and leaps into the darkness. A worker standing nearby sighs and walks away.",
                                      "LinkToEvent": {"Id": 152231}, "Name": "", "Id": 237559},
                     "Name": "ブレミガンをハイドアウェイに連れていく@{K}$[Bb]lemmigan -> ブレミガン$Introduce a blemmigan to Hideaway",
                     "Description": "街を運ぶ海獣の友のような物になってくれるかもしれない。@{K}Maybe it can provide the beast that carries the city with some measure of companionship.",
                     "ButtonText": "", "Id": 182208},
-                   {"DefaultEvent": {"Description": "彼女はあなたに、リボンの切り端を鋭い棘で縫い合わせて作られたひとくさりの小さな人形を渡した。人形は地表の虹と同じ色に染められている。行商人の眼は人形から離れない。彼女の笑みが揺らぐ。何かをハミングしようとしたが、音楽は喉で死んでしまった。彼女は黙って前を見つめた。@{K}She passes you a chain of small human figures, cut from ribbon and stitched together by sharp spines. They're dyed the colours of a Surface rainbow. Her eyes linger on the figures. Her smile fails. She tries to hum, but the tune dies in her throat. She only stares ahead in silence.",
+                   {"DefaultEvent": {"Description": "彼女はあなたに、リボンの切れ端を鋭い棘で縫い合わせて作られたひとくさりの小さな人形を渡した。人形は地表の虹と同じ色に染められている。行商人の眼は人形から離れない。彼女の笑みが揺らぐ。何かをハミングしようとしたが、メロディは喉で死んでしまった。彼女は黙って前を見つめた。@{K}She passes you a chain of small human figures, cut from ribbon and stitched together by sharp spines. They're dyed the colours of a Surface rainbow. Her eyes linger on the figures. Her smile fails. She tries to hum, but the tune dies in her throat. She only stares ahead in silence.",
                                      "LinkToEvent": {"Id": 152231}, "Name": "", "Id": 237560},
                     "Name": "緩慢に瞬きする行商人から記念品を買う@{K}Buy a memento from the Slow-Blinking Vendor",
                     "Description": "彼女はまだ商品を売っている。@{K}She's still selling her wares.", "ButtonText": "",
@@ -55,4 +55,4 @@
                     "Description": "彼はこの街で、追放者や除け者たちの間に身を潜めているのだろうか？@{K}Did he hide here, among the outcasts and the pariahs?",
                     "ButtonText": "", "Id": 193445}],
  "Description": "ハイドアウェイの住人は今まで通りの暮らしを続けている。昼間は働き、夜は祭りで祝う。役目を果たそうとのろのろと歩き回る彼らは、調査員の語ったこの街を待ち受ける運命について忘れてしまったかのようだ。@{K}The dwellers of Hideaway continue their cycle of life: working during the day, celebrating a festival at night. As they shuffle through their duties, it'd seem they've forgotten the fate the Investigator promised them. ",
- "Name": "ハイドアウェイ: 団結@{K}Hideaway: Together", "Id": 152231}
+ "Name": "ハイドアウェイ: 共に@{K}Hideaway: Together", "Id": 152231}

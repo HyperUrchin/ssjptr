@@ -10,10 +10,10 @@
                     "Name": "照明弾を隠し持ち、他の者たちと共に列に並ぶ@{K}$[Ff]lare -> 照明弾$Fall in line with the others, secretly bringing a flare with you",
                     "Description": "これから向かう闇の中で必要になるかもしれない。@{K}Perhaps you will need it, in the darkness where you are going.",
                     "ButtonText": "", "Id": 139110},
-                   {"DefaultEvent": {"Description": "行列が通り過ぎた後、あなたは仮面と衣装を脱ぎ捨て入島管理局の床に置いた。この特別なローブに相応しく袖をきちんと畳んで。\u000d\u000a\u000d\u000a誰か後で来た者があなたの役割を引き継いでくれるかもしれない。@{K}When the procession has passed, you strip away your mask and costume and leave them on the floor in the Customs House. The arms you fold neatly across themselves in the fashion that is appropriate for this particular robe. \u000d\u000a\u000d\u000aPerhaps someone after you will care to take up your role.",
-                                     "Name": "この島に別れを告げる@{K}Farewell to this island", "Id": 168618},
+                   {"DefaultEvent": {"Description": "行列が通り過ぎた後、あなたは仮面と衣装を脱ぎ入島管理局の床に置いた。この特別なローブに相応しく袖をきちんと畳んで。\u000d\u000a\u000d\u000a誰か後で来た者があなたの役割を引き継いでくれるかもしれない。@{K}When the procession has passed, you strip away your mask and costume and leave them on the floor in the Customs House. The arms you fold neatly across themselves in the fashion that is appropriate for this particular robe. \u000d\u000a\u000d\u000aPerhaps someone after you will care to take up your role.",
+                                     "Name": "島に別れを告げる@{K}Farewell to this island", "Id": 168618},
                     "Name": "仮面を脱ぎ捨て立ち去る準備をする@{K}Strip off your mask and prepare to depart",
                     "Description": "祭典に皆の注意が向いている今なら、ここを立ち去ったとしても気づかれさえしないだろう。@{K}With everyone distracted by this festival, your departure would not even be noticed.",
                     "ButtonText": "", "Id": 139111}],
- "Description": "全てのヴィザージュの住人たちが共に『耳』へと向かっている。あなたの仮面を着ける者には、行列に参加する当然の権利があるだろう。@{K}$Visage -> ヴィザージュ$All the denizens of Visage are walking towards the Ear together. There is a place in the procession which belongs by right to the wearer of your mask.",
+ "Description": "全てのヴィザージュの住人たちが共に『耳』へと向かっている。あなたの仮面を着けていた者は当然この行列に参加する権利を持っていただろう。@{K}$Visage -> ヴィザージュ$All the denizens of Visage are walking towards the Ear together. There is a place in the procession which belongs by right to the wearer of your mask.",
  "Name": "栄えの祭典@{K}Festival of Flourishing", "Id": 168615}

@@ -22,7 +22,7 @@
                     "Name": "薄汚い猿@{K}A filthy ape",
                     "Description": "そのもつれた毛と虫歯は不健康さと、それ以上に、自己を尊重できないことの証明となっている。@{K}Its matted hair and rotting teeth are a testament to bad health and worse self-respect.",
                     "ButtonText": "", "Id": 143338},
-                   {"DefaultEvent": {"Description": "今では、フォールン・ロンドンの人口の11％が魂がなくとも問題なく暮らしているというではないか？だが言っておくと、彼らの魂を買い取ったのは悪魔だ。猿ではなく、確かに悪魔なのだ。@{K}$Fallen London -> フォールン・ロンドン$Is not eleven per cent of Fallen London now getting along just fine without one? Though should anyone ask, it was a devil that bought it. Definitely a devil.",
+                   {"DefaultEvent": {"Description": "今では、フォールン・ロンドンの人口の11％が魂がなくとも問題なく暮らしているというではないか？だが誰かに聞かれたときには魂を買い取ったのは悪魔だと言うことにしよう。猿ではなく、確かに悪魔だ。@{K}$Fallen London -> フォールン・ロンドン$Is not eleven per cent of Fallen London now getting along just fine without one? Though should anyone ask, it was a devil that bought it. Definitely a devil.",
                                      "LinkToEvent": {"Id": 175485},
                                      "Name": "そもそも魂など必要だろうか？@{K}Who needs a soul anyway?",
                                      "Id": 178076},

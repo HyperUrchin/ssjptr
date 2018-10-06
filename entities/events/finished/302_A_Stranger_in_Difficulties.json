@@ -10,6 +10,6 @@
                     "Name": "彼を突き出す@{K}Turn him in",
                     "Description": "正義とその他の立派で抽象的な物事のために。@{K}For justice and all those admirable abstract things.",
                     "ButtonText": "", "Id": 131529}],
- "Description": "あなたが優雅な邸宅の横を通りかかると、突如光が弾け悲鳴がこだました！誰かが騒動を起こしたようだ。そしてその誰かというのは、どうやらここでこっそりと庭の壁を乗り越えようとしている人物らしい。彼は手を滑らせ、転がり落ちた。くぐもった叫びが聞こえ、青年は足首をさすりながら地面の上に座り込んでいる。@{K}$[Gg]ant -> ギャント$As you pass an elegant house, lights blaze and shouts echo! Someone has caused a commotion. And here, you imagine, is that someone, slipping over the garden wall. He loses his grip and falls. A muffled cry, and he's sitting on the ground, nursing his ankle.",
+ "Description": "あなたが優雅な邸宅の横を通りかかると、突如光が弾け叫び声がこだました！誰かが騒動を起こしたようだ。そしてその誰かというのは、どうやらここでこっそりと庭の壁を乗り越えようとしている人物らしい。彼は手を滑らせ、転がり落ちた。くぐもった叫びが聞こえ、青年は足首をさすりながら地面の上に座り込んでいる。@{K}$[Gg]ant -> ギャント$As you pass an elegant house, lights blaze and shouts echo! Someone has caused a commotion. And here, you imagine, is that someone, slipping over the garden wall. He loses his grip and falls. A muffled cry, and he's sitting on the ground, nursing his ankle.",
  "Name": "困難な状況に置かれた見知らぬ人@{K}A Stranger in Difficulties",
  "Id": 154999}
