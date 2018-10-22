@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "彼女がここに長くいることになるとは考えにくい。盗みは猿たちにとっては重大な犯罪ではない上に、彼らも結局その分け前に与ったのだ。彼女の罪は重くない。激怒する姿が猿たちにとって面白みを失くせば、すぐにでも解放されることだろう。\u000d\u000a\u000d\u000aもちろん、この極東にあってはフォールン・ロンドンまで連れ帰ってくれる別の船を見つけるには長いこと待たねばならないだろうが。@{K}$Fallen London -> フォールン・ロンドン$It is doubtful that she will be here for long. Theft is not a huge crime to the monkeys, particularly when they got their share anyway. They will most likely free her as soon as her outrage ceases amusing them.\u000d\u000a\u000d\u000aOf course, this far East she will be waiting a long time for another ship to take her back to Fallen London.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "彼女がここに長くいることになるとは考えにくい。盗みは猿たちにとっては重大な犯罪ではない上に、彼らも結局その分け前に与ったのだ。彼女の激怒する姿が猿たちにとって面白みを失くせば、すぐにでも解放されることだろう。\u000d\u000a\u000d\u000aもちろん、この極東にあってはフォールン・ロンドンまで連れ帰ってくれる別の船を見つけるには長いこと待たねばならないだろうが。@{K}$Fallen London -> フォールン・ロンドン$It is doubtful that she will be here for long. Theft is not a huge crime to the monkeys, particularly when they got their share anyway. They will most likely free her as soon as her outrage ceases amusing them.\u000d\u000a\u000d\u000aOf course, this far East she will be waiting a long time for another ship to take her back to Fallen London.",
                                      "LinkToEvent": {"Id": 175842},
                                      "Name": "あなたは愉快な女冒険家の行く末を運命に任せ、その場を去った@{K}$Delightful Adventuress -> 愉快な女冒険家$You leave the Delightful Adventuress to her fate",
                                      "Id": 176497},
@@ -17,6 +17,6 @@
                     "Name": "トマトを買う@{K}Buy a tomato",
                     "Description": "程よく腐りかけの重く、潰れやすい実だ。その柔らかい表皮を握ると果汁があなたの手を伝った。@{K}Heavy and squishy, in just the right stages of rot. Juices drip down your hand as you squeeze its soft skin.",
                     "ButtonText": "", "Id": 143947}],
- "Description": "バーナバスは怒りに煮えくり返る女主人の傍らに立ち、猿たちが遊びの中で行き過ぎないように厳粛に見守っている。しかし彼の傷つけられた忠誠心は、日和見の猿たちが弾を売るのを止める所までは至らなかった。@{K}Barnabas stoically stands by his seething mistress, ensuring the monkeys do not take their fun too far. His bruised loyalty does not however stretch to interfering with the opportunistic monkey selling ammunition.",
+ "Description": "バーナバスは激高する女主人の傍らに立ち、猿たちが遊びの中で行き過ぎないように厳粛に見守っている。しかし彼の傷つけられた忠誠心は、日和見の猿たちが弾を売るのを止める所までは至らなかった。@{K}Barnabas stoically stands by his seething mistress, ensuring the monkeys do not take their fun too far. His bruised loyalty does not however stretch to interfering with the opportunistic monkey selling ammunition.",
  "Name": "それ程愉快でもない様子の女冒険家@{K}$Delightful Adventuress -> 愉快な女冒険家$The Not-So Delightful Adventuress",
  "Id": 176494}

@@ -1,6 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "猿の拾い子は舌を出しにぃっと笑うと、森の中へと四つん這いで駆け込んでいった。盗まれた服は革の袋に入れられ彼女の背中に乗っている。あなたが鳥肌を立てながらびしょ濡れで追いかける間も、森の奥深くから少女の笑い声が木霊する。@{K}$Monkey Foundling -> 猿の拾い子$The Monkey Foundling sticks out her tongue, grins, and scampers off into the forest on all fours, your stolen possessions in a leather bag slung over her back. Her giggling echoes from deep in the forest as you splash after her in your goosebumps.",
                                      "LinkToEvent": {"Id": 175837},
-                                     "Name": "あなたの怒りによってこの場面はより一層愉快なものになってしまった@{K}The anger only makes it funnier",
+                                     "Name": "あなたの怒りによってこの場面はより一層愉快なものとなってしまった@{K}The anger only makes it funnier",
                                      "Id": 179120},
                     "Name": "今すぐに服を降ろすよう命じる@{K}Demand that she put those down, at once!",
                     "Description": "いい加減にしなさい！とあなたは叫んだ。さもないと大変なことになるぞ！@{K}At once, you shout! Or there will be trouble!",
