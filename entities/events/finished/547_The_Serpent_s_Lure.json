@@ -12,7 +12,7 @@
                     "ButtonText": "", "Id": 147417},
                    {"SuccessEvent": {"Description": "その蛇の胴体は長く、牙は鋭い。しかしあなたたちは何とか安全な距離まで陸地に入ることが出来た。淑女のふりをする海蛇だって！良い土産話になるだろう。@{K}Its neck is long. Its teeth are sharp. But you make it safely inland. A zee-serpent that masquerades as a lady! Well, it's a tale to tell.",
                                      "Name": "ぎりぎりの逃亡@{K}A narrow escape", "Id": 182169},
-                    "DefaultEvent": {"Description": "怪物の首がしなり、恐ろしいほど正確にもがく船乗りを掻っ攫っていった。あなたを含めた残りの者たちは競うように内陸へと逃げ込む。蛇は水中に沈み、爬虫類の悪意に満ちたまなざしであなたを見つめた。淑女のふりをする海蛇だって！良い土産話になるだろう。@{K}The beast's neck snakes out and snaps up a single struggling zailor with terrible deliberation. The rest of you scramble inland. It submerges, eyeing you with reptilian malice. A zee-serpent that masquerades as a lady! Well, it's a tale to tell.",
+                    "DefaultEvent": {"Description": "怪物の首がしなり、恐ろしいほど正確にもがく船乗りを掻っ攫っていった。あなたを含めた残りの者たちは競うように内陸へと逃げ込む。蛇は爬虫類の悪意に満ちたまなざしであなたを見つめ、水中に沈んでいった。淑女のふりをする海蛇だって！良い土産話になるだろう。@{K}The beast's neck snakes out and snaps up a single struggling zailor with terrible deliberation. The rest of you scramble inland. It submerges, eyeing you with reptilian malice. A zee-serpent that masquerades as a lady! Well, it's a tale to tell.",
                                      "Name": "ひどい犠牲@{K}A terrible toll", "Id": 182168},
                     "Name": "逃げろ！@{K}Flee!",
                     "Description": "海蛇と戦う時はいつだって船の中からの方が好ましい。蛇の中からではなく。出来る限りで撤退だ。@{K}It is always preferable to fight zee-serpents from inside a ship. Not from inside a serpent. Withdraw as best you can.",

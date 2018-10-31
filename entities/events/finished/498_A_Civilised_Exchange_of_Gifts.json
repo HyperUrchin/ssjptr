@@ -28,7 +28,7 @@
                                      "Name": "詩人の魂を持つ猿が紹介された@{K}A monkey is introduced, with the soul of a poet",
                                      "Id": 178100},
                     "Name": "囚人の蜜を贈る@{K}$(Firkin of)?[Pp]risoner's[- ][Hh]oney -> 囚人の蜜$A gift of prisoner's honey",
-                    "Description": "この極東においては蜜を手に入れるのは難しい、と官吏たちが言う。そして一斉にため息をつく。時折、夢の内にほんの一時だけの逃避を求めるのはそれほどに間違ったことだろうか？@{K}This far East, it is so hard to come by, say the mandarins. Then they sigh, as one. Is it so wrong, they ask, to seek a brief escape into dream now and again?",
+                    "Description": "この極東においては蜜を手に入れるのは難しい、と官吏たちが言う。そして一斉にため息をつく。時折、夢の内にほんの一時だけの逃避を求めるのはそれほどに間違ったことなのだろうか？@{K}This far East, it is so hard to come by, say the mandarins. Then they sigh, as one. Is it so wrong, they ask, to seek a brief escape into dream now and again?",
                     "ButtonText": "", "Id": 144916},
                    {"DefaultEvent": {"Description": "彼らは口に出して言うまでもないと思ったのだろうが、こうしてお会いできただけで光栄だと考えていることだろう。@{K}It was, they do not feel the need to say, their pleasure.",
                                      "LinkToEvent": {"Id": 175842},

@@ -10,7 +10,7 @@
                    {"DefaultEvent": {"Description": "あなたの厄介な船員は自信に満ちた足取りで大股に岩に向かって歩いて行った。“女性”の姿が歪み、水中へと滑り込む。彼女は海蛇の尾の先端部分だったのだ！大蛇の頭が波間より伸びあがる。そして水面を打つような音と歯の嫌な音とその他諸々が続き、厄介者は消えてしまった。まあ、規律を保つ助けにはなるだろう。@{K}Your troublesome zailor strides confidently out towards the rocks. The 'woman' contorts and slides into the water: she's the tip of a zee-serpent's tail! The serpent's head rears from the waves. There's a nasty business with thrashing and teeth and so forth, and your troublemaker is gone. Well, that'll do <i>something</i> for discipline.",
                                      "Name": "過激な規律@{K}Radical discipline", "Id": 182162},
                     "Name": "厄介者を救助に向かわせる@{K}Send a troublemaker to the rescue",
-                    "Description": "離れた岩に座る優雅なガウンを纏った女性だって？怪しいどころの話ではない。いなくなっても惜しくない船員を送り出そう。@{K}$[Gg]ant -> ギャント$An elegantly gowned woman on a distant rock? This sounds more than fishy. Send someone you won't miss.",
+                    "Description": "岸から離れた岩に座る優雅なガウンを纏った女性だって？怪しいどころの話ではない。いなくなっても惜しくない船員を送り出そう。@{K}$[Gg]ant -> ギャント$An elegantly gowned woman on a distant rock? This sounds more than fishy. Send someone you won't miss.",
                     "ButtonText": "", "Id": 147415},
                    {"DefaultEvent": {"Description": "岸に向かうあなたにむかって彼女は気だるげに手を振る。幽霊か？変わった海水浴客だったのだろうか？あなたが知ることはない。@{K}She waves languidly as you move down the beach. A ghost? An eccentric bather? You'll never know.",
                                      "Name": "悲しげなため息がよぎる@{K}Sad sighs pass", "Id": 182163},

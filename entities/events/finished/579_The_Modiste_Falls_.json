@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "仕立屋はゆっくりと血走った眼を開いた。深い笑みが顔全体に広がる。「なんて新鮮なんでしょう」彼女はしわがれた声で言った。「あなたは私を打ち負かしましたね……船長！あなたほど才のある方とロンドンで戦えたなら！私たちはきっと素晴らしいライバルとなれたでしょうね」@{K}The Modiste slowly opens her bloodshot eyes. A deep smile spreads across her face. \"How refreshing,\" she croaks. \"You have bested me... my Captain! Oh, to have had an opponent of your calibre in London. What rivals we could have been.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "仕立屋はゆっくりと血走った眼を開いた。深い笑みが顔全体に広がる。「なんて新鮮なんでしょう」彼女はしわがれた声で言った。「あなたは私を打ち負かしましたね……船長！あなたほど才のある方とロンドンで戦えていたなら！私たちはきっと素晴らしいライバルとなれたでしょうね」@{K}The Modiste slowly opens her bloodshot eyes. A deep smile spreads across her face. \"How refreshing,\" she croaks. \"You have bested me... my Captain! Oh, to have had an opponent of your calibre in London. What rivals we could have been.\"",
                                      "Name": "あの船の渡しに間近に迫った@{K}A close brush with the ferryman",
                                      "Id": 193946},
                     "Name": "倒れた仕立屋を助ける@{K}Assist the fallen Modiste",

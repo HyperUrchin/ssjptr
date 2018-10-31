@@ -15,5 +15,5 @@
                                      "Id": 181955},
                     "Name": "上陸を禁じる@{K}Forbid his leave", "Description": "今は駄目だ。@{K}Now is not the time.",
                     "ButtonText": "", "Id": 147278}],
- "Description": "料理人は岸にあがりたいらしい。彼はレシピの書かれた本を回収する必要があるのだと主張しているが詳細は語ろうとせず、罪悪感からかかなり落ち着かない様子でいる。そして未払いの給与を溺れる真珠で受け取りたいと言った。「『白と金』を通り抜けるのに役に立つ」賄賂だ。@{K}$the White -> 白きもの, Drowning-Pearl -> 溺れる真珠$Your cook wants to go ashore. He claims he needs to collect a book of recipes, but he is short on details and long on guilty fidgeting. He asks for his back pay in Drowning-Pearls. \"They will ease my way past the White-and-Golds.\" Bribes.",
+ "Description": "料理人は岸にあがりたいらしい。彼はレシピの書かれた本を回収する必要があるのだと主張しているが詳細は語ろうとせず、罪悪感からか、かなり落ち着かない様子でいる。そして未払いの給与を溺れる真珠で受け取りたいと言った。「『白と金』を通り抜けるのに役に立つ」賄賂だ。@{K}$the White -> 白きもの, Drowning-Pearl -> 溺れる真珠$Your cook wants to go ashore. He claims he needs to collect a book of recipes, but he is short on details and long on guilty fidgeting. He asks for his back pay in Drowning-Pearls. \"They will ease my way past the White-and-Golds.\" Bribes.",
  "Name": "ポワソニエの苦境@{K}The Poissonnier's Predicament", "Id": 181952}
