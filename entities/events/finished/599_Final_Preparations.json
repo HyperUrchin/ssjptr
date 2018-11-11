@@ -1,7 +1,7 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "「[q:呼称]、風味を集めるのにはもううんざりだ」階段を昇るあなたに煙草屋が叫ぶ。「ここにある物を使って何とかするしかないだろう。さっさと終わらせるとしよう」@{K}$q:Addressed As -> q:呼称$\"We're done gathering flavours, [q:Addressed As],\" he shouts as you ascend. \"We'll make do with what we have. Let's finish it.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "「[q:呼称]、風味を集めるのはもう終わりだ」階段を昇るあなたに煙草屋が叫ぶ。「ここにある物を使って何とかするしかない。さっさと完成させるとしよう」@{K}$q:Addressed As -> q:呼称$\"We're done gathering flavours, [q:Addressed As],\" he shouts as you ascend. \"We'll make do with what we have. Let's finish it.\"",
                                      "LinkToEvent": {"Id": 234639}, "Name": "", "Id": 235346},
                     "Name": "「上がってこい！」@{K}\"Come up!\"",
                     "Description": "気難しい煙草屋は今度は何を叫んでいるのだろう？@{K}What's the Tobacconist shouting about now?",
                     "ButtonText": "", "Id": 180667}],
- "Description": "今日は店には誰もいない。しかし、上階の工房から煙草屋が立ち働く物音が聞こえる。@{K}There is no one on the shop-floor today. But you can hear the Tobacconist in the workshop above.",
+ "Description": "今日は店には誰もいない。しかし、上階の工房から煙草屋の立ち働く物音が聞こえる。@{K}There is no one on the shop-floor today. But you can hear the Tobacconist in the workshop above.",
  "Name": "最後の準備@{K}Final Preparations", "Id": 209684}

@@ -1,6 +1,6 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "灰色の蛾が灰色の茸に身を隠す。どこか、遥か頭上で至上蛾となったロレンツォの羽音が聞こえた気がした……しかし、おそらくは単に彼のより見劣りする親族が翅を震わせた音だったのだろう。@{K}Grey moths hide on grey fungus. Somewhere, far above, you imagine you can hear the wings of Lorenzo, the Most-Moth - but it's just as likely to be the rustling of his less-magnificent kin.",
                                      "LinkToEvent": {"Id": 246752},
-                                     "Name": "すべてが静か、すべてが上手くいっている@{K}All's quiet, all's well", "Id": 246754},
+                                     "Name": "すべてが静か、なにもかもが上手くいっている@{K}All's quiet, all's well", "Id": 246754},
                     "Name": "港湾報告書を纏める@{K}$[Pp]ort [Rr]eport -> 港湾報告書$Assemble a Port Report",
                     "Description": "今やこの場所は蛾と茸の棲む暗い洞窟でしかない。しかし、一通り記録するだけの価値はあるだろう。@{K}It's nothing more than a dark cave of moths and fungus now. But it's worth being thorough.",
                     "ButtonText": "", "Id": 188330},

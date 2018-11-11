@@ -13,11 +13,11 @@
                     "Name": "海賊詩人と取引する@{K}$Pirate-Poet -> 海賊詩人$Make a deal with the Pirate-Poet",
                     "Description": "彼女の眼が仕立屋からあなたへと素早く動く。「仕立屋が何を約束したか知らないが、私はより多くを与えよう」@{K}Her eyes dart from the Modiste across to you. \"Whatever she promised you, I can give more.\"",
                     "ButtonText": "", "Id": 153784},
-                   {"DefaultEvent": {"Description": "海賊詩人の眼があなたと仕立屋の間を行き来する。その視線には軽蔑と恥辱が同等に見て取れる。「もちろんそうだろう」詩人が唸る。「お前はそういう人間だ」\u000d\u000a\u000d\u000a彼女は剣を抜き、船員達も素早く剣を構える。何とか彼女を押さえつけるまでにさらにいくつかの小さな怪我が増えたが、彼女は数で負けており、逃げる場所もない。詩人は敗北を認め重い鉄の手枷をつけられた。剣は船倉に保管される。@{K}$Pirate-Poet -> 海賊詩人$The Pirate-Poet's eyes pass between the Modiste and you, her gaze showing equal disdain and contempt. \"Of course,\" she growls. \"I expected no better from you.\"\u000d\u000a\u000d\u000aShe draws her sword. A crewman quickly meets its blade. It takes several more minor injuries before the others finally subdue her, but she is outnumbered and has nowhere to go. She accepts her defeat, submitting to the heavy iron shackles. The sword is put in storage.",
+                   {"DefaultEvent": {"Description": "海賊詩人の眼があなたと仕立屋の間を行き来する。その視線には軽蔑と恥辱が同等に見て取れる。「もちろんそうだろう」詩人が唸る。「お前はそういう人間だ」\u000d\u000a\u000d\u000a彼女は剣を抜き、一人の船員が素早くその刃を受け止める。何とか彼女を押さえつけるまでにさらにいくつかの小さな怪我が増えたが、彼女は数で負けており、逃げる場所もない。詩人は敗北を認め重い鉄の手枷をつけられた。剣は船倉に保管される。@{K}$Pirate-Poet -> 海賊詩人$The Pirate-Poet's eyes pass between the Modiste and you, her gaze showing equal disdain and contempt. \"Of course,\" she growls. \"I expected no better from you.\"\u000d\u000a\u000d\u000aShe draws her sword. A crewman quickly meets its blade. It takes several more minor injuries before the others finally subdue her, but she is outnumbered and has nowhere to go. She accepts her defeat, submitting to the heavy iron shackles. The sword is put in storage.",
                                      "Name": "囚人@{K}A prisoner", "Id": 192797},
                     "Name": "海賊詩人を捕らえる@{K}$Pirate-Poet -> 海賊詩人$Capture the Pirate-Poet",
                     "Description": "縄を投げろ！営倉が待っているぞ。@{K}Throw a rope! The brig is waiting.",
                     "ButtonText": "", "Id": 153785}],
- "Description": "かの伝説的なクレイウーマンの海賊だ！彼女は海に浮かぶ残骸の切れ端に必死でしがみついている。打ち負かされてはいるが、いまだ反抗的だ。@{K}The legendary Clay Woman corsair! She clings tight to the last few scraps of floating debris, defeated but defiant.",
+ "Description": "かの伝説的なクレイウーマンの海賊だ！彼女は海に辛うじて浮かぶ最後の残骸の切れ端に必死でしがみついている。打ち負かされてはいるが、いまだ反抗的だ。@{K}The legendary Clay Woman corsair! She clings tight to the last few scraps of floating debris, defeated but defiant.",
  "Name": "海賊詩人の捕獲@{K}$Pirate-Poet -> 海賊詩人$Capturing the Pirate-Poet",
  "Id": 192793}

@@ -6,7 +6,7 @@
                     "ButtonText": "", "Id": 164554},
                    {"DefaultEvent": {"Description": "ブレミガンは楽し気に囀りながら走り去った。街の残骸には巣に出来る場所と繁殖のための食料が大量にある。ブレミガンは新たな住処に完璧に満足し、宴を始めようと手近な鼠の死骸に嘴を深々と突き立てた。@{K}$[Bb]lemmigan -> ブレミガン$The blemmigan scampers away, chirruping happily. The remnants of the town provide an abundance of potential nests and food for its propagation. Fully content with its new home, it begins its feast by sinking its beak deep into the nearest rat carcass.",
                                      "LinkToEvent": {"Id": 204733},
-                                     "Name": "熱狂@{K}A feeding frenzy", "Id": 209698},
+                                     "Name": "暴食@{K}A feeding frenzy", "Id": 209698},
                     "Name": "ブレミガンを放つ@{K}$[Bb]lemmigan -> ブレミガン$Release a blemmigan",
                     "Description": "茸であれば、齧歯類たちの繁栄することの出来なかったこの場所で栄えることが出来るかもしれない。@{K}Perhaps mushrooms will thrive where the rodents couldn't?",
                     "ButtonText": "", "Id": 164555},

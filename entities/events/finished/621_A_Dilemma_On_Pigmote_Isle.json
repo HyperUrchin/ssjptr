@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "簡素な小屋はあっさりと燃え上がり、炎は死者も同時に飲み込んでいった。齧歯類たちは成さねばならないことをしたのだと同意を込めその光景を見つめている。短い藁を引いた者が静かに煙について何事か呟きながら、前足で目をこすった。@{K}The simple huts light easily, and the flames take the dead with them. The rodents watching agree it had to be done. The one who drew the short straw rubs her eyes with a paw, quietly murmuring something about the smoke.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "簡素な小屋はあっさりと燃え上がり、炎は死者も同時に飲み込んでいった。齧歯類たちは成さねばならないことをしたのだと同意を込めその光景を見つめている。短い藁を引いた者が煙について何事か静かに呟きながら、前足で目をこすった。@{K}The simple huts light easily, and the flames take the dead with them. The rodents watching agree it had to be done. The one who drew the short straw rubs her eyes with a paw, quietly murmuring something about the smoke.",
                                      "Name": "浄化の炎@{K}Cleansing fire", "Id": 213202},
                     "Name": "街の感染した地域を焼き払わせる@{K}Have them burn the infected part of town",
                     "Description": "歓迎はされないだろうが、断固とした決断ではある。@{K}It won't be popular. It will be decisive.",

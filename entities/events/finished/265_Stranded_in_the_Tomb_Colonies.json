@@ -3,11 +3,11 @@
                     "Name": "ローズゲートには連れていくが、それ以上は何もしない@{K}You'll help him get to Rosegate, but that's it",
                     "Description": "船に乗るのは構わないが、船の食糧は船員たちの物だ。@{K}He can come on board, but your supplies are reserved for your crew.",
                     "ButtonText": "", "Id": 129898},
-                   {"DefaultEvent": {"Description": "粘り強い見習いはあなたを抱きしめようと勢いよく立ち上がったが、そのまま甲板に崩れ落ちてしまった。彼を寝台に寝かせてから、あなたは船員たちが彼の低い唸り声をあげる箱を厳重に仕舞いこんだことを確かめ、それからもう一度重ねて確認した。@{K}The Dogged Apprentice springs up to embrace you, but collapses onto the dock. After seeing him to a bunk, you check - and double check - that your crew has securely stored away his rumbling crate. ",
+                   {"DefaultEvent": {"Description": "粘り強い見習いはあなたを抱きしめようと勢いよく立ち上がったが、そのまま港の地面に崩れ落ちてしまった。彼を寝台に寝かせてから、あなたは船員たちが彼の低い唸り声をあげる箱を厳重に仕舞いこんだことを確かめ、それからもう一度重ねて確認した。@{K}The Dogged Apprentice springs up to embrace you, but collapses onto the dock. After seeing him to a bunk, you check - and double check - that your crew has securely stored away his rumbling crate. ",
                                      "Name": "「有難うございます、有難うございます！」@{K}\"Thank you, thank you!\"", "Id": 153726},
                     "Name": "ローズゲートに連れていくだけでなく、食事も与える@{K}You'll not only take him to Rosegate, you'll feed him too",
                     "Description": "彼は明らかに飢えによって弱り切っている。少量の食糧ぐらいは分けてやれるだろう。@{K}He's clearly weak with hunger. You can spare a little sustenance.",
                     "ButtonText": "", "Id": 130666}],
- "Description": "「ああ、神よ感謝します！」粘り強い見習いが息をのんだ。「もうどれだけここに居たのか思い出せないほど……旅銭が尽きてからもう何日にも、いえ、何週間にもなります。僕は海中にあるローズゲートに戻らないといけないんです」彼の腰かける木箱が低く唸るような音を発する。「お願いです。助けてください。それと、何か食べられるものをお持ちでしたら、もしよければ……？」@{K}\"Oh thank god!\" the Dogged Apprentice gasps. \"I don't know how long I've been here... it's been days, weeks since I ran out of money. I've got to get back to Rosegate, beneath the waves.\" His crate rumbles beneath him. \"Please. Help me. And if you had anything I could eat...?\"",
+ "Description": "「ああ、神よ感謝します！」粘り強い見習いが喘ぐように言った。「もうどれだけここに居たのか思い出せないほど……旅銭が尽きてからもう何日にも、いえ、何週間にもなります。僕は海中にあるローズゲートに戻らないといけないんです」彼の腰かける木箱が低く唸るような音を発する。「お願いです。助けてください。それと、何か食べられるものをお持ちでしたら、もしよければ……？」@{K}\"Oh thank god!\" the Dogged Apprentice gasps. \"I don't know how long I've been here... it's been days, weeks since I ran out of money. I've got to get back to Rosegate, beneath the waves.\" His crate rumbles beneath him. \"Please. Help me. And if you had anything I could eat...?\"",
  "Name": "墓人街で立ち往生@{K}$Tomb[- ]Colon(y|ies) -> 墓人街$Stranded in the Tomb Colonies",
  "Id": 152441}

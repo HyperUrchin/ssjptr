@@ -3,6 +3,6 @@
                     "Name": "立ち去る@{K}Leave this place",
                     "Description": "これ以上この場所で出来ることは何もない。@{K}There is nothing more to be done here.",
                     "ButtonText": "", "Id": 163507}],
- "Description": "その後の日々、ピグモートは飢えに苛まれた。人口を維持することもままならず、文明は崩壊する。疫病は広がり、死体が通りに横たわりゆっくりと腐敗していく。すぐに、崩壊した建物の殻から食料を漁る僅かな生存者たちだけが残った。@{K}In the days that follow, Pigmote starves. Unable to support the population, its civilisation collapses. Disease spreads. Bodies lie in the streets, slowly decomposing. Soon, only a few survivors remain, scavenging for food in the husks of collapsing buildings.",
+ "Description": "その後の日々、ピグモートは飢えに苛まれた。人口を維持することもままならず、文明は崩壊する。疫病は広がり、死体が通りに横たわりゆっくりと腐敗していく。すぐに、崩壊した建物の殻から食料を漁る僅かな生存者たちだけが残された。@{K}In the days that follow, Pigmote starves. Unable to support the population, its civilisation collapses. Disease spreads. Bodies lie in the streets, slowly decomposing. Soon, only a few survivors remain, scavenging for food in the husks of collapsing buildings.",
  "Name": "ピグモート・アイルの滅亡@{K}$Pigmote Isle -> ピグモート・アイル$The Fall of Pigmote Isle",
  "Id": 208121}
