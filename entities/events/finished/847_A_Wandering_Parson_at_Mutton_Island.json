@@ -16,6 +16,6 @@
                     "Name": "祝福と引き換えに目的地まで運ぶ@{K}Offer passage for a blessing",
                     "Description": "あなたは彼の事を疑わしく思っているかもしれないが、船乗りはちょっとした儀式を好むものだ。@{K}You may regard him with a sceptical eye. But zailors appreciate a bit of ceremony.",
                     "ButtonText": "", "Id": 193078}],
- "Description": "彼はロンドンのすぐ横の海底にあるロウ・バーネットにある教会まで乗せてくれる船を探している。彼のスーツは巡回説教師のものにしては仕立てが良い。カフスボタンにサファイアが光った。@{K}$Low Barnet -> ロウ・バーネット$He seeks passage to the church of Low Barnet, beneath the Zee just outside London. His suit is well-tailored for an itinerant preacher. His cufflinks wink with sapphires.",
+ "Description": "彼はロンドンのすぐ横の海底に位置するロウ・バーネットにある教会まで乗せてくれる船を探している。彼のスーツは巡回説教師のものにしては仕立てが良い。カフスボタンにサファイアが光った。@{K}$Low Barnet -> ロウ・バーネット$He seeks passage to the church of Low Barnet, beneath the Zee just outside London. His suit is well-tailored for an itinerant preacher. His cufflinks wink with sapphires.",
  "Name": "マトン・アイランドの放浪の牧師@{K}$Mutton Island -> マトン・アイランド$A Wandering Parson at Mutton Island",
  "Id": 258885}

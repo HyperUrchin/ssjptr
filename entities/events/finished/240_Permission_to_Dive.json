@@ -3,7 +3,7 @@
                     "Name": "落ち着かない引き揚げ人に潜水の許可を与える@{K}Give your permission for the Unsettled Salvager to dive",
                     "Description": "これが彼女の望むことだ。@{K}It is what she wants.",
                     "ButtonText": "", "Id": 129793},
-                   {"DefaultEvent": {"Description": "彼女は強情だった。レディの幻覚を諦めることが出来ないでいるのだ。彼女を彼女自身から守る唯一の方法はロンドンへと連れ帰り、ロイヤル・ベツレヘムホテルでの療養へと引き渡すことだけだ。@{K}She is persistent. She cannot let go of her vision of the Lady. The only way to protect her from herself would be to bring her to London, and commit her to the care of the Royal Bethlehem Hotel.",
+                   {"DefaultEvent": {"Description": "彼女は強情だった。レディの幻覚を諦めることが出来ないでいるのだ。彼女を彼女自身から守るためにはロンドンへと連れ帰り、ロイヤル・ベツレヘムホテルでの療養へと引き渡すしかない。@{K}She is persistent. She cannot let go of her vision of the Lady. The only way to protect her from herself would be to bring her to London, and commit her to the care of the Royal Bethlehem Hotel.",
                                      "Name": "", "Id": 260390},
                     "Name": "断る@{K}Refuse",
                     "Description": "潜水艦の防護の外で水面下に長い間留まるのは危険だ。7分後には恐怖が生じ、14分後には幻覚が見え始める。21分後には、もう戻ることは出来ない。@{K}It is dangerous to be too long underwater outside the protection of a zubmarine. After seven minutes, the fears sets in. After fourteen, the visions start. After twenty-one, there is no return.",

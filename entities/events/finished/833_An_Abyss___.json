@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 258176}, "Name": "より深く@{K}Deeper", "Id": 255586},
                     "Name": "潜る@{K}Dive", "Description": "深淵を探索しよう。@{K}Explore the abyss.",
                     "ButtonText": "", "Id": 191508},
-                   {"DefaultEvent": {"Description": "操舵手がいぶかしむような顔でこちらを見たが、あなたは何も言わない。あなたは指示を二度も言うような人間ではない。彼女は震える手で潜水艦を下降させていった。\u000d\u000a\u000d\u000aあなたたちは墓穴へと納められる棺のように深淵へと沈んでゆく。岩壁が周囲を塞ぎ、潜水艦の光が波打つイソギンチャクを照らし出す。@{K}Your helmsman gives you a questioning look. You say nothing; you are unaccustomed to repeating yourself. With a trembling hand, she steers your vessel down. \u000d\u000a\u000d\u000aYou sink into the abyss like a coffin into a grave. Stony walls rise about you. Your vessel's light picks out beds of undulating anemones.",
+                   {"DefaultEvent": {"Description": "操舵手がいぶかしむような顔でこちらを見たが、あなたは何も言わない。あなたは指示を二度も繰り返すような人間ではないのだ。彼女は震える手で潜水艦を下降させていった。\u000d\u000a\u000d\u000aあなたたちは墓穴へと納められる棺のように深淵へと沈んでゆく。岩壁が周囲を塞ぎ、潜水艦の光が波打つイソギンチャクを照らし出す。@{K}Your helmsman gives you a questioning look. You say nothing; you are unaccustomed to repeating yourself. With a trembling hand, she steers your vessel down. \u000d\u000a\u000d\u000aYou sink into the abyss like a coffin into a grave. Stony walls rise about you. Your vessel's light picks out beds of undulating anemones.",
                                      "LinkToEvent": {"Id": 255589}, "Name": "より深く@{K}Deeper", "Id": 258152},
                     "Name": "潜る@{K}Dive", "Description": "深淵を探索しよう。@{K}Explore the abyss.",
                     "ButtonText": "", "Id": 192608},

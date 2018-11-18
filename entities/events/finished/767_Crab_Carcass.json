@@ -1,7 +1,7 @@
 {"ChildBranches": [{"SuccessEvent": {"Description": "あなたは船員を数名引き連れ、暗闇の中へ乗り出した。そして迅速にハサミを砕いては中の白い肉を捻るように引き出す。船員は甲殻を勢いよく槌で叩き、甲板長が七分ごとに鐘を鳴らし時を測る。あなたたちは砕かれた甲殻を海底に残し、山盛りの蟹肉と共に潜水艦に戻った。@{K}You lead a small complement of your crew out into the gloom. You work swiftly, shattering the claw and twisting the white meat from underneath. Your crew attack the shell with vigour and hammers, while your bo'sun marks the time in sevens. You return to your zubmarine laden down with crabmeat; the broken shell is left to the zee. ",
                                      "Name": "剥ぎ取られた肉@{K}Grabbed meats ", "Id": 243630},
                     "DefaultEvent": {"Description": "あなたは船員を数名引き連れ、暗闇の中へ乗り出した。そして迅速にハサミを砕いては中の白い肉を捻るように引き出す。甲羅を槌で叩き始めたその時、1人の船員が非常事態の合図をだした。剥き出しになった肉がのたうち、中から大量の芋虫が飛び出す。虫は船員に群がり、彼を包み込んだ。新鮮な死体が古い死骸に加わった。@{K}You lead a small complement of your crew out into the gloom. You work swiftly, shattering the claw and twisting the white meat from underneath. As your crew set to the shell with hammers, one crewman raps out an alarm. The exposed flesh squirms; it explodes with worms. They curl about the crewman. A fresh carcass joins the old. ",
-                                     "Name": "あなたたち以外にも何かいる@{K}You are not alone ", "Id": 243629},
+                                     "Name": "あなたたち以外にも何かがいる@{K}You are not alone ", "Id": 243629},
                     "Name": "解体して食糧にする@{K}Harvest meat for supplies",
                     "Description": "解体用のナイフを研ぎ澄ませ。@{K}Sharpen the flensing knives.", "ButtonText": "",
                     "Id": 186100}],

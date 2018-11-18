@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "従事者の知識は広大だが、彼女の忍耐力は...必ずしも強いとは言えない。彼女が礼を失する事は無かったが、彼女が時計を気にして見ているのを貴方はしばしば目撃した。@{M}The Campaigner's knowledge is vast, but her patience... not always vast. She is never discourteous, but you do occasionally catch her looking at the clock.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "従軍者の知識は広大だが、彼女の忍耐力は……必ずしも強いとは言えない。彼女が礼を失する事は無かったが、時計を気にして見ているのを貴方はしばしば目撃した。@{K/M}従事者の知識は広大だが、彼女の忍耐力は...必ずしも強いとは言えない。彼女が礼を失する事は無かったが、彼女が時計を気にして見ているのを貴方はしばしば目撃した。@{M}The Campaigner's knowledge is vast, but her patience... not always vast. She is never discourteous, but you do occasionally catch her looking at the clock.",
                                      "LinkToEvent": {"Id": 157597},
                                      "Name": "学習は学習を生む@{M}Learning begets learning", "Id": 157598},
                     "Name": "ハートを上げる@{M}$Hearts -> ハート$Increase your Hearts",

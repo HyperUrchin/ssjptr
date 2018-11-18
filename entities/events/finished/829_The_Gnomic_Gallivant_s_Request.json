@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "端的で難解な物言いの放蕩者は、あなたを良き同志に対してするように抱擁した。「心の底から嬉しく思います。あなたは私の主人が私たちみんなにとって、より幸福な未来を描き出す手助けをしてくださったのです。城にたどり着いた暁には、必ずあなたの尽力についてあのお方にお伝えしましょう」@{K}The Gnomic Gallivant embraces you like a comrade. \"Absolutely delightful. You have helped my master pen a happier history for us all. I'll be sure to tell him of your assistance when we reach the Castle.\"",
+{"ChildBranches": [{"DefaultEvent": {"Description": "端的で難解な物言いの放蕩者は、あなたを良き同志に対してするように抱擁した。「心の底から嬉しく思います。あなたは私の主人が私たち皆にとって、より幸福な未来を描き出す手助けをしてくださったのです。城にたどり着いた暁には、必ずあなたの尽力についてあのお方にお伝えしましょう」@{K}The Gnomic Gallivant embraces you like a comrade. \"Absolutely delightful. You have helped my master pen a happier history for us all. I'll be sure to tell him of your assistance when we reach the Castle.\"",
                                      "Name": "", "Id": 255578},
                     "Name": "彼を王喰らいの城まで連れていく@{K}$Kingeater's Castle -> 王喰らいの城$Agree to deliver him to Kingeater's Castle",
                     "Description": "共にここまで来たのだから、最後まで見届けよう。@{K}You have already come this far together. See it through to the end.",

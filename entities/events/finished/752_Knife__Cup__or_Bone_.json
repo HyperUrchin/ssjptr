@@ -14,7 +14,7 @@
                     "ButtonText": "", "Id": 185916},
                    {"DefaultEvent": {"Description": "監督官はあなたを沢山ある扉のうちの一つへと先導する。あなたは彼女の後に従い、扉の先の暗闇に足を踏み入れた。@{K}The Matron leads you to one of the many doors. You follow her into the darkness beyond.",
                                      "LinkToEvent": {"Id": 238342},
-                                     "Name": "微かに均衡が狂っているのだろうか？光の下で見ると刃が瞬いた。@{K}Is the balance ever so slightly off? It winks at you in the light",
+                                     "Name": "微かに均衡が狂っているのだろうか？光の下で見ると刃が瞬いた@{K}Is the balance ever so slightly off? It winks at you in the light",
                                      "Id": 243351},
                     "Name": "ナイフを掴む@{K}Grasp the Knife",
                     "Description": "角製の柄に磨き上げられた刃。これほど優れた道具には様々な可能性が秘められている。@{K}A handle of horn; a polished blade. There are possibilities in so fine an instrument.",
@@ -24,5 +24,5 @@
                     "Name": "聖所から立ち去る@{K}Leave the Sanctum",
                     "Description": "また今度。@{K}Perhaps another time.", "ButtonText": "",
                     "Id": 187729}],
- "Description": "聖所の中には水漏れはなく、壁と扉と小物の乗せられた台座が幾つかあった。この場所は不動の監督官によって監視されている。「スクラップを捧げなさい。そうすれば選ぶことが出来ます」@{K}Within the Sanctum, where no water drips, are walls, doors and a pedestal of trinkets. It is watched over by a Stony Matron. \"Make an offering of scrap, and you may choose.\"",
+ "Description": "聖所の中には水漏れはなく、壁と扉と小物の乗せられた台座が幾つかあった。この場所は不動の監督官によって監視されている。「スクラップを捧げなさい。そうすれば選ぶことが出来る」@{K}Within the Sanctum, where no water drips, are walls, doors and a pedestal of trinkets. It is watched over by a Stony Matron. \"Make an offering of scrap, and you may choose.\"",
  "Name": "刃か盃か骨か？@{K}Knife, Cup, or Bone?", "Id": 243320}
