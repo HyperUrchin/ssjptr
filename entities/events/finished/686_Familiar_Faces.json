@@ -1,4 +1,4 @@
-{"ChildBranches": [{"DefaultEvent": {"Description": "あなたは日誌を書き、物事がきちんと片付くように手配した。もはや波間の上に用はない。あなたはエアロックへ向かい、扉を開く。外では、あなたの船員たちが待っていた。@{K}You finish your logs and set your affairs in order. There is nothing for you above the waves now. You walk to the airlock, and open it. Outside, you crew is waiting.",
+{"ChildBranches": [{"DefaultEvent": {"Description": "あなたは日誌を書き終え、物事がきちんと片付くように手配した。もはや波間の上に用はない。あなたはエアロックへ向かい、扉を開く。外では、あなたの船員たちが待っていた。@{K}You finish your logs and set your affairs in order. There is nothing for you above the waves now. You walk to the airlock, and open it. Outside, you crew is waiting.",
                                      "LinkToEvent": {"Id": 139750}, "Name": "永遠の再会@{K}Reunited forever",
                                      "Id": 239171},
                     "Name": "彼らに加わる@{K}Join them",

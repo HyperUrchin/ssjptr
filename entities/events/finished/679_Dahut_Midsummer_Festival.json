@@ -18,5 +18,5 @@
                     "Name": "留まる@{K}Linger",
                     "Description": "他所に行くことを望む者などいるだろうか？ここは夏だというのに。[恐怖を大幅に下げることが出来ます。特別な報酬も手に入るかもしれません。]@{K}Why would anyone desire anything else? Here it is summer. [This will significantly reduce your Terror and may grant an unusual reward.]",
                     "ButtonText": "", "Id": 182667}],
- "Description": "大聖堂の尖塔の影が、照らす太陽もないというのに窓硝子の上をゆっくりと動いている。影は硝子の端に辿り着くと一時動きを止め、再び反対側へと動き始める。@{K}The shadow of the Cathedral spire moves across the grass, but slowly, cast by no particular sun. When it gets to one edge of the grass, it stops and sweeps the other way.",
+ "Description": "大聖堂の尖塔の影が、照らす太陽もないというのに芝生の上をゆっくりと動いている。影は芝生の端に辿り着くと一時動きを止め、再び反対側へと動き始める。@{K}The shadow of the Cathedral spire moves across the grass, but slowly, cast by no particular sun. When it gets to one edge of the grass, it stops and sweeps the other way.",
  "Name": "ダユーの真夏の祝祭@{K}Dahut Midsummer Festival", "Id": 238366}

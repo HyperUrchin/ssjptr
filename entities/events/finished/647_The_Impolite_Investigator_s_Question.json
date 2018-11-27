@@ -1,7 +1,7 @@
 {"ChildBranches": [{"DefaultEvent": {"Description": "あなたは視線を合わせ、彼が質問の不適切さに気が付くのを待った。しかし調査員の笑みは揺らぎさえしない。「その沈黙で十分です。ありがとうございました」\u000d\u000a\u000d\u000aあなたはそれ以上この男に付き合って時間を無駄にしたりはしなかった。あなたには他に重要な仕事があるのだ。@{K}You meet his gaze, waiting for him to recognise his impropriety. The Investigator's smile doesn't falter. \"Your silence is sufficient answer. Thank you.\"\u000d\u000a\u000d\u000aYou'll waste no more time with this man. There are important matters for you to attend to.",
                                      "Name": "", "Id": 237489},
                     "Name": "何も答えない@{K}Refuse to reply",
-                    "Description": "答える価値もない。@{K}This is not a topic you wish to speak about with him. ",
+                    "Description": "あなたは彼とこの話題について話したくない。@{K}This is not a topic you wish to speak about with him. ",
                     "ButtonText": "", "Id": 182151},
                    {"DefaultEvent": {"Description": "調査員は頷いた。「それで必要なことは完璧に理解できました。追加の質問はどこで尋ねればいいのかも。しかし失礼する前に、もう少し詳細をお聞きしたいのです。既にあなたの嗜好に関してはある程度の仮説があるのですが、いくつか詳細について証言していただいてもいいですか？」@{K}The Investigator nods. \"That tells me everything I need. I know where to make follow up enquiries. But before I go, I'd like some specifics. I already have some theories about your predilections. Would you confirm some of the details?\"",
                                      "Name": "湧きあがる問いの数々@{K}Raising questions", "Id": 237546},

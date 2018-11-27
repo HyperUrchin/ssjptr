@@ -11,7 +11,7 @@
                    {"DefaultEvent": {"Description": "あなたは忙しないノックを無視した。ベッドは汗で濡れている。あなたの呼吸は早くなっていないだろうか？胸に手を置き、確認しよう。胸は鼓動に合わせて上下している。つまり、そこそこ速い。なるべく呼吸を浅くしなければ。\u000d\u000a\u000d\u000a船員たちはあなたの部屋のドアの前に集まっている。一人のすすり泣く声が聞こえた。[酸素を見つけましょう。なるべく早く。]@{K}You ignore the hammering on your door. Your bed is sodden with sweat. Is your breathing quickening? Check - a hand to your chest. It rises and falls with your heartbeat, which is to say, quickly. Take only shallow breaths. \u000d\u000a\u000d\u000aYour crew are back at the door. One of them is sobbing. [Find oxygen. Quickly.]",
                                      "Name": "", "Id": 245379},
                     "Name": "自分の船室に戻る@{K}Retreat to your cabin ",
-                    "Description": "じっと横になり、身を休めよう。残り少ない空気をできるだけ節約するのだ。[恐怖が上昇します。]@{K}Lie still. Rest. Preserve what little air you have. The crew must manage until you wake. [This will increase your Terror.]",
+                    "Description": "じっと横になり、身を休めよう。残り少ない空気をできるだけ節約するのだ。船員たちはあなたが起きるまで何とかやっていけるだろう。[恐怖が上昇します。]@{K}Lie still. Rest. Preserve what little air you have. The crew must manage until you wake. [This will increase your Terror.]",
                     "ButtonText": "", "Id": 187244}],
  "Description": "船員が頭痛を訴えている。空気は重く、酸素は薄い。船員たちは皆、舌が回らなくなっている。[酸素があと少しでなくなってしまいます！最後の酸素をどのように用いましょうか？]@{K}The crew complain of headaches. The air is heavy and stultifying. Conversations slur. [You are almost out of oxygen! How will you eke out your last dregs?]",
  "Name": "酸素が切れそうだ！@{K}Running out of Oxygen! ", "Id": 245283}

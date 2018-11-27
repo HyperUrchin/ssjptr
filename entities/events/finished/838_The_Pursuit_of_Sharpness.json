@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 238438}, "Name": "ヴィナス・サロン@{K}The Venous Salon",
                                      "Id": 256235},
                     "Name": "脾臓を鋭利にする@{K}Go sharp in the spleen",
-                    "Description": "怒る能力を放棄し、外交官や聖人、冷血な圧制者たちの集まりに加わろう。@{K}Surrender your capacity for anger. Join the society of diplomats, saints, and cold-blooded tyrants.",
+                    "Description": "怒る能力を放棄し、外交官や聖人、冷血な圧政者たちの集まりに加わろう。@{K}Surrender your capacity for anger. Join the society of diplomats, saints, and cold-blooded tyrants.",
                     "ButtonText": "", "Id": 191995},
                    {"DefaultEvent": {"Description": "肝臓が鋭くなった者は、アンテのメインホールから左の出口に向かい、砂だらけの階段を下ることを許される。銀の塩のサロンは小さな灯りに照らされており、この部屋に集う者たちは普通の人間と何ら変わりない姿をしているように見えた。しかし、彼らは砒素を啜り、猛毒のヒキガエルを食べている。部屋の角には黄疸患者に関するジョークを滔々と語る女性が立ち、引き裂かれたアイアン＆ミザリー社の制服の名残を身に着けている者もいる。@{K}$Iron -> アイアン, Iron & Misery -> アイアン＆ミザリー$When you have grown liver-sharp, you may take the left exit from the main chamber of Anthe and descend a staircase gritty underfoot. The Salon of Silver Salts is hung with small lights, and the inhabitants look ordinary. They are sipping arsenical teas and dining on poisonous toadstools. A woman in the corner offers a constant flow of wit at the expense of jaundice victims. Another wears the tattered remains of an Iron & Misery uniform.",
                                      "LinkToEvent": {"Id": 238438},
