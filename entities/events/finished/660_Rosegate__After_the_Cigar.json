@@ -18,7 +18,7 @@
                     "Name": "白粉を塗った管理人と煙草を吸う@{K}Smoke a cigar with the Powdered Custodian",
                     "Description": "カウンターの後ろには見慣れない顔の紳士が座り、硝子を輝かんばかりに磨きあげていた。彼は歩み寄るあなたに笑みを向ける。「ようこそローズゲートへ、[q:呼称]。煙草はいかがでしょう？」@{K}$q:Addressed As -> q:呼称$A new gentleman sits behind the glass counter, polishing it to a blazing shine. He smiles as you approach. \"Welcome to Rosegate, [q:Addressed As]. May I entice you to a cigar?\" ",
                     "ButtonText": "", "Id": 180673},
-                   {"DefaultEvent": {"Description": "ブレミガンは興奮したように身をよじった。ローズゲートの空気を味わうかのように触手が素早く出たり引っ込んだりしている。突然、茸は派手な展示棚の下へ駆け込み、暗がりに姿を消した。@{K}The mushroom wriggles excitedly. Tendrils flick in and out, as if it is tasting the air of Rosegate. Abruptly, it scurries behind an ostentatious cigar box and vanishes into the dark.",
+                   {"DefaultEvent": {"Description": "ブレミガンは興奮して身をよじった。ローズゲートの空気を味わうかのように触手が素早く出たり引っ込んだりしている。突然、茸は派手な展示棚の下へ駆け込み、暗がりに姿を消した。@{K}The mushroom wriggles excitedly. Tendrils flick in and out, as if it is tasting the air of Rosegate. Abruptly, it scurries behind an ostentatious cigar box and vanishes into the dark.",
                                      "LinkToEvent": {"Id": 234658}, "Name": "", "Id": 236585},
                     "Name": "ブレミガンを放す@{K}$[Bb]lemmigan -> ブレミガン$Put a blemmigan ashore",
                     "Description": "ローズゲートは広い港とは呼べないが、茸の隠れることの出来る暗がりは沢山ある。@{K}Rosegate isn't the largest port, but there are many nooks where a mushroom may hide.",

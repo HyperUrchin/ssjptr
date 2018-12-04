@@ -30,7 +30,7 @@
                                          "Name": "歯垢を削り、歯を掘削しろ！@{K}Pry the plaque! Grind the tooth!", "Id": 258146},
                     "RareSuccessEvent": {"Description": "ここにあるのは陶器の欠片と――これは何だ？歯から削り取った歯石の中で片手分程の数の宝石が輝きを放っている。ヌックの民は全く興味を示さないが、市場であれば専門の蒐集家の気は引けないにしても、そこそこの値で売れるだろう。@{K}Shards of pottery, and - what's this? A handful of jewels, sparkling in the tartar you chipped from the tooth. The Nookfolk show no interest in them. But they should fetch a reasonable price on the markets, even if no specialist collectors are likely to be interested.",
                                          "LinkToEvent": {"Id": 255569},
-                                         "Name": "古びた宝@{K}Treasure of the Ages", "Id": 258148},
+                                         "Name": "過去の宝@{K}Treasure of the Ages", "Id": 258148},
                     "Name": "歯掘に加わる@{K}Join some tooth miners",
                     "Description": "時折、歯の間に挟まった宝が見つかる。@{K}Sometimes treasures can be found, caught in the teeth.",
                     "ButtonText": "", "Id": 191500}],

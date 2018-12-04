@@ -1,4 +1,4 @@
-{"Description": "ニダーは熱帯雨林と砂漠と平原を超えた先、旧大陸の内陸部奥深くに位置している。どのようにしてあの街に向かおうか？@{K}$Elder Continent -> 旧大陸$Nidah lies deep in the interior of the Elder Continent, beyond jungle, desert and plain. How will you reach it?",
+{"Description": "ニダーは熱帯雨林と砂漠と平原を超えた先、旧大陸の内奥に位置している。どのようにしてあの街に向かおうか？@{K}$Elder Continent -> 旧大陸$Nidah lies deep in the interior of the Elder Continent, beyond jungle, desert and plain. How will you reach it?",
  "ChangeDescriptionText": "1|ニダーへと至る道を見つけだそう。~0|あなたはニダーへと到達するための計画を実行に移した。@{K}1|Find a way to reach Nidah.~0|You have begun a scheme to reach Nidah.",
  "Name": "大望: ニダーへの道@{K}$Ambition -> 大望$Ambition: the Road to Nidah",
  "Id": 128891}

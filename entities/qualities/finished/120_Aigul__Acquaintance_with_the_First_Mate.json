@@ -1,4 +1,4 @@
 {"Description": "あなたはフォータス・ケトル号の副船長の事をどれだけ知っているのだろう？@{K}How well do you know the First Mate of the Fortas Kettle?",
  "AvailableAt": "アイグルで知り合うことが出来ます。@{K}Gain acquaintance at Aigul.",
- "LevelDescriptionText": "20|使命を果たす姿を少なくとも一度目撃した~30|副船長の深い秘密を知った~40|昔からの知り合い~50|重要な問いを訊ねた~60|アイグルを捨てるよう副船長を説得した~5|サラスフルーツを贈り、歓迎されるようになった~10|棘の形成を観察した@{K}$[Ss]olacefruit -> サラスフルーツ$20|Seen them through at least one mission~30|Learned some of their deeper secrets~40|Old acquaintances~50|Asked an important question~60|Persuaded the First Mate to abandon Aigul~5|Gained hospitality through a gift of Solacefruits~10|Observed the formation of spines",
+ "LevelDescriptionText": "20|使命を果たす姿を少なくとも一度目撃した~30|副船長の深い秘密を幾つか知った~40|昔からの知り合い~50|重要な問いを訊ねた~60|アイグルを捨てるよう副船長を説得した~5|サラスフルーツを贈り、歓迎されるようになった~10|棘の形成を観察した@{K}$[Ss]olacefruit -> サラスフルーツ$20|Seen them through at least one mission~30|Learned some of their deeper secrets~40|Old acquaintances~50|Asked an important question~60|Persuaded the First Mate to abandon Aigul~5|Gained hospitality through a gift of Solacefruits~10|Observed the formation of spines",
  "Name": "アイグル: 副船長と知り合う@{K}Aigul: Acquaintance with the First Mate", "Id": 125703}

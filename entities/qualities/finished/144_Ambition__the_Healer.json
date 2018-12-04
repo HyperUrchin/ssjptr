@@ -1,4 +1,4 @@
-{"Description": "誰がニダーに立ち向かう七人を数々の危険から守るのだろう？@{K}$Presbyter -> 長老, Presbyterate -> 長命衆$Who will protect the Seven against the Presbyterate's numberless dangers?",
+{"Description": "誰がニダーに立ち向かう七人を長命衆の齎す数々の危険から守るのだろう？@{K}$Presbyter -> 長老, Presbyterate -> 長命衆$Who will protect the Seven against the Presbyterate's numberless dangers?",
  "LevelDescriptionText": "1|まだ誰も勧誘していない~10|縞模様の王子~5|ロジーナ~3|ロジーナが力になれないのであれば、カーネリアン・コーストの縞模様の王子が代わりになれるかもしれない@{K}$Carnelian Coast -> カーネリアン・コースト$1|You have yet to recruit someone~10|The Banded Prince~5|Rosina~3|If Rosina cannot help, perhaps the Banded Prince of the Carnelian Coast can replace her",
  "ChangeDescriptionText": "1|七人には癒し手が必要だ。~5|七人は癒し手を見つけた。@{K}1|The Seven require a healer.~5|The Seven have found their healer.",
  "Name": "大望: 癒し手@{K}$Ambition -> 大望$Ambition: the Healer", "Id": 128590}

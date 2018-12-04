@@ -5,7 +5,7 @@
                     "ButtonText": "", "Id": 185479},
                    {"SuccessEvent": {"Description": "潜水ガレー船の眩い灯火は月のように強まっては弱まりを不規則に繰り返す。しかし、そのような光でもあなたたちを船を導くには十分だった。戦闘は一瞬で終わった。海賊の剣が水中でゆっくりと振られる間に、あなたの船員たちが一足早く送気管を切り裂いた。死体は潜水服の重みによって海底へと引かれてゆく。あなたたちは物資を漁り始めた。@{K}A bright glow on the Undergalley waxes and wanes erratically, but it is enough to guide you to their ship. The skirmish is brief. The Corsairs' swords swing slowly through the water; your crew are quicker at cutting airlines. Their bodies are pulled down to the zee bed by the weight of their suits. You begin to salvage supplies.",
                                      "Name": "情けをかけず@{K}No mercy ", "Id": 243560},
-                    "DefaultEvent": {"Description": "潜水ガレー船の眩い灯火は月のように強まっては弱まりを不規則に繰り返す。しかし、そのような光でもあなたたちを船を導くには十分だった。海賊はあなたたちを待ちかまえていた。海賊の最後の一人が死ぬ前に、船員の一人が緩慢に振られるマチェーテによって送気管を切り裂かれ息絶えた。死体は潜水服の重みによって海底へと引かれてゆく。あなたたちは物資を漁り始めた。@{K}A bright glow on the Undergalley waxes and wanes erratically, but it is enough to guide you to their ship. The pirates are waiting. One of your crew is killed when a slow moving machete slits an airline, before the last of the Corsairs is slain. Their bodies are pulled down to the zee bed by the weight of their suits. You begin to salvage supplies.",
+                    "DefaultEvent": {"Description": "潜水ガレー船の眩い灯火は月のように強まっては弱まりを不規則に繰り返す。しかし、そのような光でもあなたたちを船を導くには十分だった。海賊はあなたたちを待ちかまえていた。最後の海賊が死ぬ前に、船員の一人が緩慢に振られるマチェーテによって送気管を切り裂かれ息絶えた。死体は潜水服の重みによって海底へと引かれてゆく。あなたたちは物資を漁り始めた。@{K}A bright glow on the Undergalley waxes and wanes erratically, but it is enough to guide you to their ship. The pirates are waiting. One of your crew is killed when a slow moving machete slits an airline, before the last of the Corsairs is slain. Their bodies are pulled down to the zee bed by the weight of their suits. You begin to salvage supplies.",
                                      "Name": "深海での死@{K}Death in the depths ", "Id": 243559},
                     "Name": "難破した船に乗り込めないか試みる@{K}Attempt to board the wreck ",
                     "Description": "血が流れることになるだろう。しかし食糧が積まれているかもしれない。@{K}There will be bloodshed. There may be supplies.",
@@ -17,7 +17,7 @@
                     "RareSuccessEvent": {"Description": "ランタンによって返信が送られてきた。あなたは船の間の短い距離を泳いで渡る。落ち窪んだ目の船長が生き残りを呼び寄せ、震える男をあなたに託した。船長は彼の船に残る。自分の船に戻る頃には、潜水ガレー船は視界の外へと沈んでいた。@{K}There's a returning flash from a lantern. You swim the brief gap between your vessels. Hollow-eyed, the captain summons his surviving crewman, and entrusts the shaking lad to you. The captain remains with his ship. By the time you board your ship, the Undergalley has sunk from sight.",
                                          "Name": "一人の生存者@{K}A survivor ", "Id": 243563},
                     "Name": "降伏を呼びかける@{K}Negotiate a surrender ",
-                    "Description": "このままでは長くは生きられないだろう。彼らの船は大破寸前だ。ライトで戦闘は終わったことを示す合図を送ろう。@{K}They cannot last long. Their craft is as good as destroyed. Signal a cessation of hostilities with your lights. ",
+                    "Description": "このままでは長くは生きられないだろう。彼らの船は大破寸前だ。ライトで戦闘が終わったことを示す合図を送ろう。@{K}They cannot last long. Their craft is as good as destroyed. Signal a cessation of hostilities with your lights. ",
                     "ButtonText": "", "Id": 186056}],
  "Description": "潜水艦の光が、触手のように水中に伸びる暗い色の血を照らしている。舷窓で何かが動くのが見えた。海賊が数人生き延びたようだ。@{K}Your zub's lights illuminate dark tendrils of blood in the water. There is movement at a porthole. Some of the Corsairs have survived.",
  "Name": "海賊の潜水ガレー船を倒した@{K}You have defeated a Corsair Undergalley", "Id": 242591}

@@ -3,7 +3,7 @@
                     "Name": "家を作るよう提案する@{K}Suggest they construct housing",
                     "Description": "全ての齧歯類に誇りに思うことの出来る家を持つ権利がある。@{K}Every rodent deserves a home to be proud of.",
                     "ButtonText": "", "Id": 165649},
-                   {"DefaultEvent": {"Description": "ありそうもない仔羊号からとれた鉄くずを再利用し、沿岸の防壁として作り直すのは大変でひどい仕事だったがその価値はあった。次に[q:ピグモート・アイル: 統治]のシンティラックを盗もうとやって来た海賊船は確実にその決定を後悔することになるだろう。@{K}$[Ss]cintillack -> シンティラック$Repurposing scrap from <i>The Impossible Lamb</i> to act as coastal defence is hard, filthy work, but worth the effort. The next pirate vessel that tries to steal [q:Pigmote Isle: Mastery]'s scintillack will surely regret its decision.  ",
+                   {"DefaultEvent": {"Description": "ありそうもない仔羊号からとれた鉄くずを再利用し、沿岸の防壁として作り直すのは大変で泥臭い仕事だったがその価値はあった。次に[q:ピグモート・アイル: 統治]のシンティラックを盗もうとやって来た海賊船は確実にその決定を後悔することになるだろう。@{K}$[Ss]cintillack -> シンティラック$Repurposing scrap from <i>The Impossible Lamb</i> to act as coastal defence is hard, filthy work, but worth the effort. The next pirate vessel that tries to steal [q:Pigmote Isle: Mastery]'s scintillack will surely regret its decision.  ",
                                      "Name": "簡単な獲物ではない@{K}No easy prey", "Id": 211464},
                     "Name": "防衛設備を建造させる@{K}Have them build defences",
                     "Description": "ピグモート・アイルはこれから先も常にその宝を切望する敵に狙われ続けることだろう。@{K}$Pigmote Isle -> ピグモート・アイル$Pigmote Isle will always have enemies coveting its treasure.",
