@@ -2,7 +2,7 @@
                                      "LinkToEvent": {"Id": 260410},
                                      "Name": "猫の一番の爪@{K}The Cat's Chiefest Claw", "Id": 260411},
                     "Name": "ロレンツォの代役@{K}A replacement for Lorenzo",
-                    "Description": "彼はもう長くない。他の案内役を見つける必要があるだろう。@{K}He is beyond help. You will need another Guide.",
+                    "Description": "彼はもう助からない。他の案内役を見つける必要があるだろう。@{K}He is beyond help. You will need another Guide.",
                     "ButtonText": "", "Id": 194208},
                    {"DefaultEvent": {"Description": "彼女はあなたの情報を調べている。「ロンドンの街に、とある貪欲な外交官が暮らしているという。その者は……入り組んだ忠誠心を持っているそうだ。慎重に観察する必要がある。しかし、ボーデインを引き取ることが出来ないのであれば、この外交官が代役を務めることになるだろう。外交官の置かれた立場は非常に不安定な物だ。そこを利用してやるといい」[(まだ会っていない場合、)外交官に会うためには重要機密を黒眼鏡の提督に届けましょう。]@{K}$Vital Intelligence -> 重要機密, Voracious Diplomat -> 貪欲な外交官, Dark-Spectacled Admiral -> 黒眼鏡の提督, Bourdain -> ボーデイン$She has been studying your information. \"In London, there resides a certain Voracious Diplomat. They have... complex loyalties. We'll need to watch them closely. But if Bourdain cannot be retrieved, perhaps this Diplomat will serve instead. Their situation is precarious. We can use that.\" [To find the Voracious Diplomat in London (if you haven't already) deliver Vital Intelligence to the Dark-Spectacled Admiral there.]",
                                      "LinkToEvent": {"Id": 260410},

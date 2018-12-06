@@ -1,4 +1,4 @@
 {"Description": "あなたは重要な手紙を託された。[インベントリー内で手紙を確認することで目的地を見ることが出来ます。]@{K}You have an important message to deliver. [Look at the letter in your inventory to see its destination.]",
  "LevelDescriptionText": "1|あなたは重要な手紙を託された。~2|あなたは手紙を密かに盗み見た。~3|手紙が読まれたのは明らかだ。@{K}1|You have an important letter to deliver.~2|You've stealthily read the letter.~3|The letter has clearly been opened.",
- "ChangeDescriptionText": "1|あなたは重要な手紙を託された。~2|誰にも分からないだろう。~3|あなたが手にした時には既に開封されていたのだ。@{K}1|You have an important letter to deliver.~2|No one will ever know. Right?~3|The letter was open when you got it.",
+ "ChangeDescriptionText": "1|あなたは重要な手紙を託された。~2|誰にも分からないだろう。おそらく。~3|あなたが手にした時には既に開封されていたのだ。@{K}1|You have an important letter to deliver.~2|No one will ever know. Right?~3|The letter was open when you got it.",
  "Name": "アンダークロウ: 手紙の配達@{K}Undercrow: Delivering a Letter", "Id": 127591}

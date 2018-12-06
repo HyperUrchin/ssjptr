@@ -44,6 +44,6 @@
                     "Name": "はぐれた巡礼者を送り出す@{K}Deliver the Lost Pilgrim",
                     "Description": "このような場所に望んで来たがるなんてどのような憐れな人生を送ってきたのだろう？けれど、少なくとも彼女は幸せそうだ。@{K}What poor soul would come here willingly? But she seems happy, at least.",
                     "ButtonText": "", "Id": 193037}],
- "Description": "中身をくりぬかれ革のようになった死骸が石の心臓の心室に沿って並んでいる。一歩進むたびに湿った音を立てる皮と骨の通り道のあちこちから、古い海獣の脂肪が泡を立てて溢れ出る。遠くで聞こえる水の滴り落ちる音が永遠の中に時を刻む。@{K}The leathery carcasses of hollowed-out beasts line the ventricles of this stone heart. Ancient blubber bubbles up around paths of bone and hide that squelch with every step. A distant drip carves eternity into hours.",
+ "Description": "中身をくりぬかれ革のようになった海獣の死骸が石の心臓の心室に沿って並んでいる。一歩進むたびに湿った音を立てる皮と骨の通り道のあちこちから、古い脂肪が泡を立てて溢れ出る。遠くで聞こえる水の滴り落ちる音が永遠の中に時を刻む。@{K}The leathery carcasses of hollowed-out beasts line the ventricles of this stone heart. Ancient blubber bubbles up around paths of bone and hide that squelch with every step. A distant drip carves eternity into hours.",
  "Name": "ギャント・ポール@{K}$[Gg]ant -> ギャント, Gant Pole -> ギャント・ポール$The Gant Pole",
  "Id": 240407}
