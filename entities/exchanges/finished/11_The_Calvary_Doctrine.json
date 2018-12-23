@@ -1,5 +1,5 @@
 {"Name": "受難主義@{I}受難の教義@{K}The Calvary Doctrine",
- "Description": "必要な犠牲を払い、望む物を手に入れよ。@{K}Sacrifice what is needful, and gain that which is desirable.",
+ "Description": "必要な物を対価とし、望む物を手に入れよ。@{K}Sacrifice what is needful, and gain that which is desirable.",
  "Shops": [{"Name": "乳の館@{K}The House of Milks",
             "Description": "ドラゴンの乳房からコーヒーと燃料が滴り落ちる。@{K}Coffee and fuel drip from dragon-teats. ",
             "Id": 25}],

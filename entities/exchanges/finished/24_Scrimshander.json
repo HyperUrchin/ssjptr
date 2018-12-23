@@ -1,5 +1,5 @@
 {"Name": "スクリムシャンダー@{K}Scrimshander",
- "Description": "象牙と歴史の編纂。@{K}Ivory and historiography.",
+ "Description": "骨と歴史の編纂。@{K}Ivory and historiography.",
  "Shops": [{"Name": "残骸@{K}Remainder",
-            "Description": "歴史は神聖な物だ。象牙はそうでもない。@{K}History is sacred. Ivory, less so.", "Id": 54}],
+            "Description": "歴史は神聖な物だ。骨はそうでもない。@{K}History is sacred. Ivory, less so.", "Id": 54}],
  "Id": 26}
